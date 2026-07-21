@@ -50,6 +50,7 @@ jobs:
             echo "No changes this run"
           else
             git commit -m "feed: $(date -u '+%Y-%m-%d %H:%M') UTC update"
-            git pull --rebase origin main
+            # On concurrent-run conflicts in generated data, our (newest) output wins
+            git pull --rebase -X theirs origin main
             git push
           fi
