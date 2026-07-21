@@ -104,7 +104,11 @@ const description = `Today's AI news, ranked and summarized — the latest artif
       const built = Date.parse(status.dataset.built!);
       const mins = Math.round((Date.now() - built) / 60000);
       const ago = mins < 1 ? 'just now' : mins < 60 ? `${mins}m ago` : `${Math.round(mins / 60)}h ago`;
-      const next = new Date(Math.ceil((Date.now() + 60000) / 3600000) * 3600000);
+      // Scans run hourly at :23 UTC (off-peak cron minute)
+      const SCAN_MIN = 23;
+      const next = new Date(Date.now());
+      next.setUTCMinutes(SCAN_MIN, 0, 0);
+      if (next.getTime() <= Date.now()) next.setTime(next.getTime() + 3600000);
       const nextLabel = `${String(next.getUTCHours()).padStart(2, '0')}:${String(next.getUTCMinutes()).padStart(2, '0')}`;
       const cls = mins < 75 ? 'live' : mins < 150 ? 'late' : 'down';
       document.getElementById('scan-dot')!.className = `scan-dot ${cls}`;
