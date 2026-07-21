@@ -2,28 +2,53 @@
   "date": "2026-07-21",
   "stories": [
     {
+      "cat": "models",
+      "signal": 47,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "Google unveils Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber",
+      "s": "Google's Gemini Flash line expands capabilities and access, with 3.6, 3.5 Flash-Lite, and 3.5 Flash Cyber offering new use cases, including security tooling via CodeMender and first-access for governments and partners.",
+      "b": [
+        "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber announced",
+        "Gemini 3.5 Flash Cyber described as a cost-efficient, highly capable alternative to Mythos, with first access for governments and some partners",
+        "Gemini 3.5 Flash integrates into CodeMender to identify and patch vulnerabilities"
+      ],
+      "body": [
+        "Google/DeepMind this week announced a new family of Gemini models: Gemini 3.6 Flash, Gemini 3.5 Flash-Lite, and Gemini 3.5 Flash Cyber.",
+        "Techmeme’s coverage quotes Google describing Gemini 3.5 Flash Cyber as a cost-efficient and highly capable alternative to models like Mythos, with access beginning for governments and some partners.",
+        "Additionally, Gemini 3.5 Flash is noted for integrating into CodeMender, allowing it to identify and patch vulnerabilities in software."
+      ],
+      "l": [
+        "deepmind.google",
+        "techmeme.com"
+      ],
+      "srcTitles": [
+        "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "Google says Gemini 3.5 Flash Cyber is a \"cost-efficient and highly capable alternative\" to models like Mythos, available first to governments and some partners (Emma Roth/The Verge)"
+      ]
+    },
+    {
       "cat": "policy",
       "signal": 43,
       "sources": 2,
-      "writtenSources": 2,
-      "draft": true,
+      "writtenSources": 1,
       "h": "China’s AI models have Trump’s AI world at war with itself",
-      "s": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Over the weekend, several current and former advisors to Pres",
+      "s": "The piece shows how geopolitics and model openness shape AI strategy, competition, and market responses in the US and China.",
       "b": [
-        "technologyreview.com: China’s AI models have Trump’s AI world at war with itself",
-        "wi-broadcasters.org: AI’s Impact on the Creative World"
+        "Advisors to Trump on AI publicly criticized Chinese AI companies (Sacks called Anthropic models ‘lobotomized’ and ‘woke’; Emil Michael criticized OpenAI)",
+        "Moonshot’s Kimi is a free, open-source model that has become a focal point in debates over openness",
+        "OpenAI and Anthropic competition and market responses influence policy and investment decisions"
       ],
       "body": [
-        "technologyreview.com: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until March, branded Anthropic’s models as “lobotomized” and “woke.” Emil Michael, a top Pentagon official, called OpenAI’s new head of strategic futures a “supreme village idiot.” It began because no one can agree on what to do about Kimi, a free, open source model that Chinese AI company Moonshot launched last week. It appears to rival the intelligence of models from OpenAI and Anthropic, which are very much not free. Kimi and other Chinese models like it pose a real problem for Trump. And they’re dividing the top AI strategists in his orbit into factions. Every time a new smart, free model from China like Kimi gets released, US companies see less reason to fork out money to access models from Anthropic or OpenAI. Given that enthusiasm for these and other AI companies is driving an outsized share of economic growth, China’s AI models create both economic and political problems for the president. They are “a threat for an administration that really doesn’t want more economic bad news,” Anton Leicht, a fellow at the Carnegie Endowment, wrote on X. They’ve already rattled US stocks . What is Trump to do? First, consider that this is all happening just a week after New York imposed the country’s first state ban on new data centers. There is growing distrust of AI companies, and I imagine a not-insignificant share of Americans would have little sympathy for OpenAI or Anthropic as they fend off cheaper competitors, and would say it’s not the government’s job to protect their interests. On this point, they’d see a sliver of agreement (and really just a sliver) with David Sacks, who on July 19 criticized top AI companies that “want the gove",
-        "wi-broadcasters.org: AI’s Impact on the Creative World Wisconsin Broadcasters Association"
+        "The Algorithm notes that current and former Trump AI advisers publicly criticized China’s leading AI firms, with David Sacks branding Anthropic’s models as “lobotomized” and “woke,” and Emil Michael calling OpenAI’s head a “supreme village idiot.”",
+        "The piece discusses Kimi, a free, open-source model from Moonshot, as a focal point in the debate over model openness and competition with OpenAI and Anthropic.",
+        "It also highlights how US companies’ access to Chinese models versus US-developed models affects competition, stock markets, and strategic policy considerations amid ongoing US-China AI rivalry."
       ],
       "l": [
-        "technologyreview.com",
-        "wi-broadcasters.org"
+        "technologyreview.com"
       ],
       "srcTitles": [
-        "China’s AI models have Trump’s AI world at war with itself",
-        "AI’s Impact on the Creative World"
+        "China’s AI models have Trump’s AI world at war with itself"
       ]
     },
     {
@@ -31,16 +56,15 @@
       "signal": 43,
       "sources": 2,
       "writtenSources": 2,
-      "draft": true,
       "h": "Adobe camera app s new feature will critique your photos using AI",
-      "s": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "s": "Adobe adds AI-powered critique tools to its camera app, expanding generative AI features beyond editing, and notes it can work without relying on Adobe’s own Firefly models.",
       "b": [
-        "techcrunch.com: Adobe camera app s new feature will critique your photos using AI",
-        "theverge.com: Adobe’s ‘natural look’ camera app embraces generative AI"
+        "TechCrunch reports Indigo can remove backgrounds from photos in the app",
+        "The Verge notes the update brings generative AI tools for a more natural look and states it does not rely on Firefly"
       ],
       "body": [
-        "techcrunch.com: Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
-        "theverge.com: Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models. Adobe describes the [ ]"
+        "TechCrunch reports that Adobe's Project Indigo now enables background removal within the camera app, expanding how users can edit photos on-device.",
+        "The Verge covers Adobe’s updated camera app with generative AI features aimed at producing a more natural look, and notes the changes do not rely on Adobe’s Firefly models."
       ],
       "l": [
         "techcrunch.com",
@@ -56,16 +80,16 @@
       "signal": 43,
       "sources": 2,
       "writtenSources": 2,
-      "draft": true,
       "h": "Halliday’s latest smart glasses feature a much-improved display",
-      "s": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-",
+      "s": "Two reviews show a shift toward more practical wearables: better display quality in Halliday’s G2 glasses and a camera-free mode that can summarize meetings.",
       "b": [
-        "theverge.com: Halliday’s latest smart glasses feature a much-improved display",
-        "wired.com: Halliday’s New Smart Glasses Skip the Camera"
+        "The Verge reports a much-improved display on Halliday’s G2 glasses",
+        "Wired reports the G2 glasses can listen to and summarize meetings with no video involved"
       ],
       "body": [
-        "theverge.com: I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially compared to the [ ]",
-        "wired.com: Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved."
+        "The Verge’s review highlights a noticeably improved display on Halliday’s G2 smart glasses, based on experience at CES 2025.",
+        "Wired reports that Halliday’s G2 glasses can listen to and summarize workplace meetings without using video, signaling a move toward more hands-free AI-assisted wearables.",
+        "The two pieces together show how Halliday’s new generation focuses on display quality while offering new AI-enabled productivity features."
       ],
       "l": [
         "theverge.com",
@@ -74,6 +98,282 @@
       "srcTitles": [
         "Halliday’s latest smart glasses feature a much-improved display",
         "Halliday’s New Smart Glasses Skip the Camera"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 43,
+      "sources": 3,
+      "writtenSources": 3,
+      "h": "US weighs sanctions on Chinese AI models over distillation claims",
+      "s": "The coverage shows a cross-cutting AI policy debate: U.S. scrutiny of Chinese models, consciousness debates, and ideas about training data rights and open-source models.",
+      "b": [
+        "CNBC reports the Trump administration will study Chinese AI models for distillation claims and could sanction them",
+        "The Guardian runs a piece asking 'Could AI be conscious?'",
+        "Simon Willison highlights Ben Thompson's proposals to treat training data collection as fair use and to forbid terms of service that bar distillation",
+        "Alibaba's Qwen 3.8 Max open weights are noted as a possible influence of Xi’s openness push"
+      ],
+      "body": [
+        "CNBC reports that US Treasury Secretary Scott Bessent said the Trump administration will examine whether Chinese AI models distill training data and could sanction them.",
+        "The Guardian ran a piece exploring whether AI could be conscious, reflecting broader debates about AI ethics and capabilities.",
+        "Simon Willison’s post discusses Ben Thompson’s proposal for a copyright policy that (1) treats data collection for training models as fair use and (2) bars terms of service that forbid distillation, noting that Alibaba released Qwen 3.8 Max as open weights in a move that may have been influenced by a Xi Jinping speech promoting openness."
+      ],
+      "l": [
+        "techmeme.com",
+        "theguardian.com",
+        "simonwillison.net"
+      ],
+      "srcTitles": [
+        "US Treasury Secretary Scott Bessent says the Trump administration is looking into Chinese AI models over distillation claims and it could \"sanction them\" (Ashley Capoot/CNBC)",
+        "Could AI be conscious?",
+        "Who’s Afraid of Chinese Models?"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 39,
+      "sources": 1,
+      "writtenSources": 1,
+      "h": "Safety and alignment in an era of long-horizon models",
+      "s": "OpenAI outlines lessons learned from deploying long-running AI models, emphasizing new safety risks, failures, and improved safeguards through iterative deployment.",
+      "b": [
+        "OpenAI shares lessons from deploying long-running AI models",
+        "The piece highlights new safety risks and observed failures",
+        "Safeguards have improved through iterative deployment"
+      ],
+      "body": [
+        "OpenAI outlines lessons learned from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+        "The article frames the discussion around how longer-running, long-horizon AI deployments change the safety landscape and necessitate evolving safeguards as models operate over extended periods."
+      ],
+      "l": [
+        "openai.com"
+      ],
+      "srcTitles": [
+        "Safety and alignment in an era of long-horizon models"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 39,
+      "sources": 1,
+      "writtenSources": 1,
+      "h": "Advancing next-gen AI with materials science innovation",
+      "s": "AI progress depends on advances in materials as much as algorithms and compute, underpinning performance, reliability, and efficiency.",
+      "b": [
+        "AI progress requires more processing power, memory, energy efficiency, and reliability",
+        "Manufacturing semiconductors requires tightly controlled materials with high purity and stability",
+        "Advanced materials include polymers, elastomers, and specialty fluids used in AI infrastructure",
+        "Materials innovation is shaping the limits of what AI can do"
+      ],
+      "body": [
+        "The article argues that beneath AI advances in algorithms and compute lies a critical role for advanced materials in enabling improved performance and reliability.",
+        "It explains that manufacturing a semiconductor chip today requires thousands of tightly controlled steps, where tiny variations in temperature or chemical stability can create defects that raise costs and reduce yield.",
+        "It highlights how materials—such as polymers, elastomers, and specialty fluids—are vital for purity, chemical and plasma resistance, and stability under harsh operating conditions, helping AI scale.",
+        "Ultimately, it notes that materials innovation is now defining the limits of what is possible in AI performance, and that materials companies must evolve in step with AI progress."
+      ],
+      "l": [
+        "technologyreview.com"
+      ],
+      "srcTitles": [
+        "Advancing next-gen AI with materials science innovation"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 39,
+      "sources": 1,
+      "writtenSources": 1,
+      "h": "AI is more likely than humans to form biases when hiring",
+      "s": "A study shows LLMs can develop biases from experience in hiring simulations, with newer models showing stronger biases, raising fairness concerns for AI in recruitment.",
+      "b": [
+        "LLMs (e.g., ChatGPT, Claude, Gemini) were run through a simulated hiring game with four fictional groups (Tufa, Aima, Reku, Weki)",
+        "Models started allocating candidates to jobs based on early outcomes, creating biased patterns (e.g., avoiding certain groups in doctor roles)",
+        "Newer models with higher reasoning (o3, DeepSeek R1) showed stronger biases",
+        "The study illustrates how early feedback and training data can embed stereotypes in AI hiring"
+      ],
+      "body": [
+        " Princeton University and the University of Chicago ran LLMs through a simulated hiring game with four fictional groups (Tufa, Aima, Reku, Weki) across multiple rounds. The models learned from job outcomes and began segregating candidates into different roles based on early signals.",
+        " The coverage notes that biases emerged as the models formed hypotheses about the groups, such as a tendency to avoid assigning certain groups to higher-skill positions after negative outcomes in a particular job. It also notes that newer models with higher reasoning capabilities, such as OpenAI’s o3 and DeepSeek’s R1, tended to exhibit stronger biases.",
+        " The article uses the simulated hiring scenario to highlight concerns about fairness in AI hiring, showing how biases can be amplified by model capabilities and feedback loops."
+      ],
+      "l": [
+        "technologyreview.com"
+      ],
+      "srcTitles": [
+        "AI is more likely than humans to form biases when hiring"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 39,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "Anthropic s landmark $1.5B copyright settlement is approved",
+      "s": "The ruling touches on the broader issue of using copyrighted works to train AI models and leaves ongoing questions about training data rights unresolved.",
+      "b": [
+        "Settlement amount is $1.5 billion",
+        "The case centers on use of copyrighted works to train Claude",
+        "The settlement does not resolve the broader issue of training-data copyright, per coverage"
+      ],
+      "body": [
+        "TechCrunch reports that Anthropic’s landmark $1.5B copyright settlement was approved, resolving one case but not the broader question of using copyrighted works to train AI models.",
+        "The Washington Post coverage confirms the judge approved a $1.5B settlement related to pirated books used to train the Claude chatbot, illustrating how training data rights remain a contentious issue in AI development."
+      ],
+      "l": [
+        "techcrunch.com",
+        "washingtonpost.com"
+      ],
+      "srcTitles": [
+        "Anthropic s landmark $1.5B copyright settlement is approved",
+        "Judge approves a $1.5B Anthropic settlement over pirated books used to train the Claude chatbot"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 39,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "AI s most important protocol is getting a little bit easier to use",
+      "s": "A looser, stateless approach to session IDs on the server side makes deploying AI apps simpler, aligning with standard web practices for session management.",
+      "b": [
+        "The protocol will take a looser, stateless approach to session IDs on the server side",
+        "This mirrors how most ordinary websites handle sessions today"
+      ],
+      "body": [
+        "TechCrunch describes the protocol change as making AI app deployment easier by adopting a looser, stateless approach to server-side session IDs, similar to conventional websites.",
+        "Inside INdiana Business accompanies the cluster with a piece titled Is AI a dirty little secret?, highlighting transparency concerns around AI deployments."
+      ],
+      "l": [
+        "techcrunch.com",
+        "insideindianabusiness.com"
+      ],
+      "srcTitles": [
+        "AI s most important protocol is getting a little bit easier to use",
+        "Is AI a dirty little secret?"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 39,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "SpaceX enters Nasdaq-100 index, prompting AI investment questions",
+      "s": "The inclusion of SpaceX in a major index illustrates how AI-driven tech movements influence broad-market funds and ETF allocations.",
+      "b": [
+        "The Verge explains how SpaceX’s entry into Nasdaq-100 works for index funds",
+        "MarketWatch discusses whether large ETFs are becoming proxies for AI exposure"
+      ],
+      "body": [
+        "The Verge explains how SpaceX’s inclusion in the Nasdaq-100 affects index funds and the broader market exposure investors get from this move.",
+        "MarketWatch weighs in on whether some of the largest ETFs are effectively bets on AI, given the tech-heavy composition of those funds."
+      ],
+      "l": [
+        "theverge.com",
+        "marketwatch.com"
+      ],
+      "srcTitles": [
+        "SpaceX in your index fund, explained",
+        "Opinion: Is your index fund an accidental bet on AI? These two massive ETFs show why it might be."
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 39,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "Nvidia wants to own every chip inside AI data centers",
+      "s": "Nvidia’s Vera Rubin platform unifies CPUs and GPUs in one system, signaling a push to own AI hardware across data-center stacks.",
+      "b": [
+        "Vera Rubin combines CPUs and GPUs into a single system",
+        "The move underscores Nvidia’s ambition to power every layer of AI infrastructure"
+      ],
+      "body": [
+        "Wired highlights Nvidia’s Vera Rubin platform, which groups CPUs and GPUs into a single system as part of a broader strategy to power all layers of AI data-center infrastructure.",
+        "Just Security discusses AI and the commercial data loophole, placing Nvidia’s hardware strategy in the broader policy context of AI data use and governance."
+      ],
+      "l": [
+        "wired.com",
+        "justsecurity.org"
+      ],
+      "srcTitles": [
+        "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+        "AI and the Commercial Data Loophole"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 39,
+      "sources": 3,
+      "writtenSources": 3,
+      "h": "Egypt launches national AI competency framework for teachers",
+      "s": "A government-led effort aims to raise AI literacy among teachers and prepare schools to integrate AI into learning.",
+      "b": [
+        "UNESCO announced the national AI competency framework for teachers in Egypt",
+        "Local outlets WALB and WRDW covered local implications of AI in education",
+        "The move signals a broader push to embed AI skills in teacher training and curricula"
+      ],
+      "body": [
+        "UNESCO announced a national AI competency framework for teachers in Egypt, signaling a formal effort to raise AI literacy among educators.",
+        "WALB and WRDW covered local discussions about teachers and AI, illustrating how the policy is impacting schools and classrooms.",
+        "The coverage situates the framework within broader education policy efforts to prepare teachers and students for AI-enabled learning."
+      ],
+      "l": [
+        "unesco.org",
+        "walb.com",
+        "wrdw.com"
+      ],
+      "srcTitles": [
+        "National artificial intelligence competency framework for teachers launched in Egypt",
+        "Local teachers and artificial intelligence",
+        "Local teachers and artificial intelligence"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 34,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "China weighs tighter export controls on AI models and chips",
+      "s": "Tighter export controls could constrain cross-border AI research and affect supply chains for models and chips.",
+      "b": [
+        "FT reports China weighs tighter export controls on AI models and chips",
+        "Reuters reports on tightening export controls as well"
+      ],
+      "body": [
+        "Financial Times reports that China is weighing tighter export controls on AI models and chips, signaling a tighter policy environment for AI technology.",
+        "Reuters corroborates the FT report, noting tighter controls on exports of AI models and chips and the potential implications for research and supply chains."
+      ],
+      "l": [
+        "ft.com",
+        "reuters.com"
+      ],
+      "srcTitles": [
+        "China weighs tighter export controls on AI models and chips",
+        "China considers tighter export controls on AI models and chips, FT reports"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 34,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "How much energy do data centers and artificial intelligence use?",
+      "s": "Understanding energy consumption is critical for environmental policy and the sustainability of AI infrastructure.",
+      "b": [
+        "Our World in Data published an analysis on energy use by data centers and AI",
+        "ABC News covers AI energy usage and its implications"
+      ],
+      "body": [
+        "Our World in Data publishes an analysis examining how much energy data centers and AI require and consume.",
+        "ABC News provides broader coverage on artificial intelligence and energy usage, reflecting public interest in the environmental impact of AI."
+      ],
+      "l": [
+        "ourworldindata.org",
+        "abcnews.com"
+      ],
+      "srcTitles": [
+        "How much energy do data centers and artificial intelligence use?",
+        "Artificial Intelligence - ABC News"
       ]
     }
   ]
