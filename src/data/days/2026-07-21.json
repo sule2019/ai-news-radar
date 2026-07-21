@@ -56,11 +56,16 @@
         {
           "d": "theverge.com",
           "u": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update"
+        },
+        {
+          "d": "rsmus.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmdwT25kYWdBWmhQZkZWUk8xUzVBbjY1RnRnUjl3TkpFSEtWZTYyc295QVhOeTV0eHg1ODdwcGlfYVpISV9ibkxjRGFnOXNMSVlHNTF6ejU0NEVvbVVRM2cwX09LaUM2TkJ1RmhGZk9GQkotU1M2ZXl6UVlZVFJTM2pKRmVodFI4d08tTQ?oc=5"
         }
       ],
       "srcTitles": [
         "Adobe camera app s new feature will critique your photos using AI",
-        "Adobe’s ‘natural look’ camera app embraces generative AI"
+        "Adobe’s ‘natural look’ camera app embraces generative AI",
+        "How manufacturers are using AI in 2026"
       ]
     },
     {
@@ -141,17 +146,17 @@
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260721/p21#a260721p21"
-        },
-        {
           "d": "theguardian.com",
           "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5"
+        },
+        {
+          "d": "kfgo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckpkT0pITjN1TTRPSDJkVWJoMzJfanpUT1c0eFJQNkREMUxJTVBzRE52ZGxjeDRCX2l0MFNxOTR5dkxyLU0ycnFkREZ4ZE9DNno4cFhhMzJRQ1puMklkLXV3UDhOeXBrLU13SE4xTEtkcERZbDBmdE54UF9Wd1Y5T1JfZE8zeEJzVXgzLVU1QW96VUNXY3ROaGNyZUtSNTFhRGRVOTlaVjl5Zw?oc=5"
         }
       ],
       "srcTitles": [
-        "US Treasury Secretary Scott Bessent says the Trump administration is looking into Chinese AI models over distillation claims and it could \"sanction them\" (Ashley Capoot/CNBC)",
-        "Could AI be conscious?"
+        "Could AI be conscious?",
+        "AI could lift Sub-Saharan Africa economy 4% if power, internet improve, IMF says"
       ]
     },
     {
@@ -186,6 +191,40 @@
       ]
     },
     {
+      "cat": "research",
+      "signal": 43,
+      "sources": 2,
+      "writtenSources": 1,
+      "h": "Advancing next-gen AI with materials science innovation",
+      "s": "AI progress depends on advances in materials as much as algorithms and compute, underpinning performance, reliability, and efficiency.",
+      "b": [
+        "AI progress requires more processing power, memory, energy efficiency, and reliability",
+        "Manufacturing semiconductors requires tightly controlled materials with high purity and stability",
+        "Advanced materials include polymers, elastomers, and specialty fluids used in AI infrastructure",
+        "Materials innovation is shaping the limits of what AI can do"
+      ],
+      "body": [
+        "The article argues that beneath AI advances in algorithms and compute lies a critical role for advanced materials in enabling improved performance and reliability.",
+        "It explains that manufacturing a semiconductor chip today requires thousands of tightly controlled steps, where tiny variations in temperature or chemical stability can create defects that raise costs and reduce yield.",
+        "It highlights how materials—such as polymers, elastomers, and specialty fluids—are vital for purity, chemical and plasma resistance, and stability under harsh operating conditions, helping AI scale.",
+        "Ultimately, it notes that materials innovation is now defining the limits of what is possible in AI performance, and that materials companies must evolve in step with AI progress."
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
+        },
+        {
+          "d": "onnj.com",
+          "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sREkzVUVpblJMbnh4aUd6Y1hLNXYzaEp4U2ZnZHU4cS1TZ0dWVEFzREotVXNiQTFPc2l0cEVpVlB6ZUpYNjBfX2xQZjdwRWs?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Advancing next-gen AI with materials science innovation",
+        "AI & People"
+      ]
+    },
+    {
       "cat": "policy",
       "signal": 39,
       "sources": 1,
@@ -209,35 +248,6 @@
       ],
       "srcTitles": [
         "Safety and alignment in an era of long-horizon models"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 39,
-      "sources": 1,
-      "writtenSources": 1,
-      "h": "Advancing next-gen AI with materials science innovation",
-      "s": "AI progress depends on advances in materials as much as algorithms and compute, underpinning performance, reliability, and efficiency.",
-      "b": [
-        "AI progress requires more processing power, memory, energy efficiency, and reliability",
-        "Manufacturing semiconductors requires tightly controlled materials with high purity and stability",
-        "Advanced materials include polymers, elastomers, and specialty fluids used in AI infrastructure",
-        "Materials innovation is shaping the limits of what AI can do"
-      ],
-      "body": [
-        "The article argues that beneath AI advances in algorithms and compute lies a critical role for advanced materials in enabling improved performance and reliability.",
-        "It explains that manufacturing a semiconductor chip today requires thousands of tightly controlled steps, where tiny variations in temperature or chemical stability can create defects that raise costs and reduce yield.",
-        "It highlights how materials—such as polymers, elastomers, and specialty fluids—are vital for purity, chemical and plasma resistance, and stability under harsh operating conditions, helping AI scale.",
-        "Ultimately, it notes that materials innovation is now defining the limits of what is possible in AI performance, and that materials companies must evolve in step with AI progress."
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
-        }
-      ],
-      "srcTitles": [
-        "Advancing next-gen AI with materials science innovation"
       ]
     },
     {
