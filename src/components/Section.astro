@@ -1,5 +1,5 @@
 ---
-import { CATS, sigTier, sigBarsOn } from '../lib/data.js';
+import { CATS, sigTier, sigBarsOn, agoLabel } from '../lib/data.js';
 
 const { section } = Astro.props;
 ---
@@ -24,6 +24,7 @@ const { section } = Astro.props;
                 ) : (
                   <span class="srcmeta">{st.sources} sources</span>
                 )}
+                {st.ts && <span class="srcmeta ago" data-ts={st.ts}>{agoLabel(st.ts)}</span>}
               </span>
             </span>
             <span class={`sigpill ${sigTier(st.signal)}`}>

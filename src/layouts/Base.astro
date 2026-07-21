@@ -37,6 +37,22 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
     </div>
 
     <script>
+      // Relative timestamps ("12m ago", "3h ago") — computed in the browser
+      // so they stay accurate between hourly rebuilds. Hidden past 24h; the
+      // day header dates older stories.
+      const formatAgo = (root: ParentNode = document) => {
+        root.querySelectorAll('.ago[data-ts]').forEach((el) => {
+          const mins = Math.round((Date.now() - Date.parse((el as HTMLElement).dataset.ts!)) / 60000);
+          if (!Number.isFinite(mins) || mins < 0 || mins >= 24 * 60) {
+            el.remove();
+          } else {
+            el.textContent = mins < 1 ? 'just now' : mins < 60 ? `${mins}m ago` : `${Math.round(mins / 60)}h ago`;
+          }
+        });
+      };
+      formatAgo();
+      (window as any).formatAgo = formatAgo; // used by the homepage lazy loader
+
       // Newsletter form (placeholder until a provider is wired up)
       document.querySelectorAll('.subform').forEach((form) => {
         form.addEventListener('submit', (e) => {

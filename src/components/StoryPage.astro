@@ -1,7 +1,7 @@
 ---
 import Base from '../layouts/Base.astro';
 import Nav from '../components/Nav.astro';
-import { CATS, getSections, sigTier, sigBarsOn } from '../lib/data.js';
+import { CATS, getSections, sigTier, sigBarsOn, agoLabel } from '../lib/data.js';
 
 const { section, story, prev, next, dateISO = null } = Astro.props;
 const sections = getSections();
@@ -40,6 +40,7 @@ const jsonLd = {
       ) : (
         <span class="srcmeta">{story.sources} sources covering</span>
       )}
+      {story.ts && <span class="srcmeta ago" data-ts={story.ts}>{agoLabel(story.ts)}</span>}
       <span class={`sigpill ${sigTier(story.signal)}`} title="Signal score — how widely and seriously this is covered">
         <span class="bars">
           {[1, 2, 3, 4].map((n) => (

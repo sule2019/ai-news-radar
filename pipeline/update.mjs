@@ -363,10 +363,12 @@ async function main() {
     }
     fresh.forEach(({ c }, i) => {
       const copy = copies?.find((x) => x.id === i) ?? draftCopy(c, i);
+      const earliest = Math.min(Date.now(), ...c.items.map((it) => it.published));
       existing.stories.push({
         cat: copy.cat,
         signal: c.signal,
         sources: c.domains.length,
+        ts: new Date(earliest).toISOString(),
         writtenSources: c.domains.length,
         ...(copies ? {} : { draft: true }),
         h: copy.h,

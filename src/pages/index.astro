@@ -78,6 +78,7 @@ const description = `Today's AI news, ranked and summarized — the latest artif
           const h2 = section.querySelector('.day-head h2');
           if (h2) h2.innerHTML = `${day.title}<span class="sub">${day.sub}</span>`;
           sentinel.before(section);
+          (window as any).formatAgo?.(section);
         }
         next++;
       } catch {

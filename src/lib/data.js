@@ -122,6 +122,17 @@ export function getSections() {
   return [...getDays(), ...getMonths()];
 }
 
+// Build-time fallback for the relative timestamp (refreshed client-side)
+export function agoLabel(iso) {
+  if (!iso) return '';
+  const mins = Math.round((Date.now() - Date.parse(iso)) / 60000);
+  if (!Number.isFinite(mins) || mins < 0) return '';
+  if (mins < 1) return 'just now';
+  if (mins < 60) return `${mins}m ago`;
+  if (mins < 24 * 60) return `${Math.round(mins / 60)}h ago`;
+  return '';
+}
+
 export function sigTier(n) {
   return n >= 70 ? 't-hot' : n >= 40 ? 't-warm' : 't-cool';
 }
