@@ -511,6 +511,11 @@ async function main() {
       if (story.draft || c.domains.length >= (story.writtenSources ?? story.sources) + 3) {
         rewrites.push({ story, cluster: c });
       }
+    } else {
+      // Coverage faded from the feeds: the story cools instead of freezing
+      // at its last score, so stale stories sink through the day.
+      story.signal = Math.max(15, story.signal - 4);
+      if (!story.ts) story.ts = new Date().toISOString();
     }
   }
 
