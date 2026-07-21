@@ -312,76 +312,6 @@
     },
     {
       "cat": "policy",
-      "signal": 43,
-      "sources": 2,
-      "ts": "2026-07-21T11:08:56.000Z",
-      "writtenSources": 2,
-      "h": "Chinese AI breakthroughs trigger market jitters and calls for new alignment metrics",
-      "s": "These breakthroughs could accelerate policy debates and force a rethink of AI infrastructure spending and vendor dependence, with implications for national competitiveness.",
-      "b": [
-        "Moonshot AI unveiled a flagship model on Friday claiming it outperforms nearly every US model, trailing only OpenAI’s GPT-5.6 Sol.",
-        "AP described the Chinese model as taking the US tech industry by surprise.",
-        "Bloomberg described the development as a 'surprise breakthrough' roiling markets, with concerns about AI infrastructure costs like data centers and chips.",
-        "IEEE Spectrum proposes Genie coefficient as a new metric to measure whether AI does what you mean, by Barath Raghavan, Bruce Schneier, and Ryan Snook."
-      ],
-      "body": [
-        "The Verge reports that last week two Chinese AI companies unveiled models they say can credibly compete with the leading systems from OpenAI and Anthropic. Beijing-based Moonshot AI, described as one of China’s leading AI model developers, unveiled a flagship model on Friday claiming it outperforms nearly every US model, trailing only OpenAI’s GPT-5.6 Sol.",
-        " The response from markets and commentators was swift. The Associated Press said the move took the US tech industry by surprise, while Bloomberg called it a 'surprise breakthrough' that is roiling markets and prompting discussions about the costs of AI infrastructure such as data centers and chips. Business Insider explored whether the launch could be the next DeepSeek, and XPRIZE founder Peter Diamandis went as far as to call the release America’s 'AI Sputnik moment.'",
-        "The Verge notes that Washington’s AI strategy has swung between intervention and laissez-faire, and that Beijing has been keen to back homegrown AI through incentives and funding while cracking down on firms trying to shed ties to China. It also points out that six of the top 10 AI tools on OpenRouter’s leaderboard are Chinese, and that Chinese models are reportedly cheaper to use, contributing to growing US interest in Chinese tooling as domestic costs rise.",
-        "IEEE Spectrum’s piece on AI alignment argues for a new metric—the Genie coefficient—to measure not just what AI can do but whether it does what you actually want. Barath Raghavan, Bruce Schneier, and Ryan Snook describe it as a way to quantify the gap between user intent and an AI’s actions, addressing a core challenge in frontier AI deployment.",
-        "Taken together, the coverage portrays a high-stakes moment in AI where market reactions and policy considerations intersect, underscoring that both the cost of AI infrastructure and the alignment between user goals and AI behavior will shape the next phase of AI deployment and national strategy."
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment"
-        },
-        {
-          "d": "spectrum.ieee.org",
-          "u": "https://spectrum.ieee.org/ai-agent-benchmark"
-        }
-      ],
-      "srcTitles": [
-        "America needs to stop getting shocked by Chinese AI",
-        "Why AI Needs a “Genie Coefficient”"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 43,
-      "sources": 2,
-      "writtenSources": 2,
-      "h": "Halliday’s latest smart glasses feature a much-improved display",
-      "s": "A camera-free design and real-time meeting tools are aimed at professional users who want AI-powered notes without privacy drawbacks or visible recording indicators.",
-      "b": [
-        "The Gen 2 Halliday glasses are camera-free, use a monochrome green display with 1,600 nits brightness and 600x300 per-eye resolution, and are lighter than many competing smart glasses.",
-        "They boast a four-microphone array, offer about 12 hours of typical use, and can surface meeting context via AI in the wearer's field of view.",
-        "A new Meeting Flow feature surfaces context and facts during meetings, with tools like Thread Tracker, Decision Confirmation, and Commitment Check to summarize what was decided and what remains to be done.",
-        "Pricing and availability are noted by one outlet as $599 with shipments planned for September 2026, and paid AI service tiers from $10 to $99 per month, plus a free tier that includes 120 minutes of recording."
-      ],
-      "body": [
-        "The Gen 2 glasses from Halliday are pitched as a camera-free tool for work meetings, designed to capture and summarize conversations through AI voice recognition. The design emphasizes privacy and practicality, with a display that keeps the camera out of sight and a focus on meeting-oriented features.",
-        "The glasses use a monochrome green display with a maximum brightness of 1,600 nits and a per-eye resolution of 600x300. Halliday says the four-microphone array can pick up commands even in noisy environments and that the device can run for about 12 hours on typical use.",
-        "Halliday is introducing Meeting Flow, which helps wearers follow along in conversations by surfacing context or facts without looking away from the meeting. Other real-time tools include Thread Tracker (to show ongoing discussion threads), Decision Confirmation (to indicate project decisions), and Commitment Check (to track what’s been agreed to and what remains to be done).",
-        "The WIRED coverage notes a price of $599 and that first shipments are planned for September 2026, with AI service tiers ranging from $10 to $99 per month and a free tier offering 120 minutes of recording. Both outlets describe the glasses as a professional tool for meetings where cameras are undesirable or prohibited."
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables"
-        },
-        {
-          "d": "wired.com",
-          "u": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/"
-        }
-      ],
-      "srcTitles": [
-        "Halliday’s latest smart glasses feature a much-improved display",
-        "Halliday’s New Smart Glasses Skip the Camera"
-      ]
-    },
-    {
-      "cat": "policy",
       "signal": 40,
       "sources": 3,
       "writtenSources": 2,
@@ -418,8 +348,79 @@
       "ts": "2026-07-21T19:12:09.758Z"
     },
     {
-      "cat": "models",
+      "cat": "products",
       "signal": 39,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "Halliday’s latest smart glasses feature a much-improved display",
+      "s": "A camera-free design and real-time meeting tools are aimed at professional users who want AI-powered notes without privacy drawbacks or visible recording indicators.",
+      "b": [
+        "The Gen 2 Halliday glasses are camera-free, use a monochrome green display with 1,600 nits brightness and 600x300 per-eye resolution, and are lighter than many competing smart glasses.",
+        "They boast a four-microphone array, offer about 12 hours of typical use, and can surface meeting context via AI in the wearer's field of view.",
+        "A new Meeting Flow feature surfaces context and facts during meetings, with tools like Thread Tracker, Decision Confirmation, and Commitment Check to summarize what was decided and what remains to be done.",
+        "Pricing and availability are noted by one outlet as $599 with shipments planned for September 2026, and paid AI service tiers from $10 to $99 per month, plus a free tier that includes 120 minutes of recording."
+      ],
+      "body": [
+        "The Gen 2 glasses from Halliday are pitched as a camera-free tool for work meetings, designed to capture and summarize conversations through AI voice recognition. The design emphasizes privacy and practicality, with a display that keeps the camera out of sight and a focus on meeting-oriented features.",
+        "The glasses use a monochrome green display with a maximum brightness of 1,600 nits and a per-eye resolution of 600x300. Halliday says the four-microphone array can pick up commands even in noisy environments and that the device can run for about 12 hours on typical use.",
+        "Halliday is introducing Meeting Flow, which helps wearers follow along in conversations by surfacing context or facts without looking away from the meeting. Other real-time tools include Thread Tracker (to show ongoing discussion threads), Decision Confirmation (to indicate project decisions), and Commitment Check (to track what’s been agreed to and what remains to be done).",
+        "The WIRED coverage notes a price of $599 and that first shipments are planned for September 2026, with AI service tiers ranging from $10 to $99 per month and a free tier offering 120 minutes of recording. Both outlets describe the glasses as a professional tool for meetings where cameras are undesirable or prohibited."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/"
+        }
+      ],
+      "srcTitles": [
+        "Halliday’s latest smart glasses feature a much-improved display",
+        "Halliday’s New Smart Glasses Skip the Camera"
+      ],
+      "ts": "2026-07-21T19:14:10.287Z"
+    },
+    {
+      "cat": "policy",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-07-21T11:08:56.000Z",
+      "writtenSources": 2,
+      "h": "Chinese AI breakthroughs trigger market jitters and calls for new alignment metrics",
+      "s": "These breakthroughs could accelerate policy debates and force a rethink of AI infrastructure spending and vendor dependence, with implications for national competitiveness.",
+      "b": [
+        "Moonshot AI unveiled a flagship model on Friday claiming it outperforms nearly every US model, trailing only OpenAI’s GPT-5.6 Sol.",
+        "AP described the Chinese model as taking the US tech industry by surprise.",
+        "Bloomberg described the development as a 'surprise breakthrough' roiling markets, with concerns about AI infrastructure costs like data centers and chips.",
+        "IEEE Spectrum proposes Genie coefficient as a new metric to measure whether AI does what you mean, by Barath Raghavan, Bruce Schneier, and Ryan Snook."
+      ],
+      "body": [
+        "The Verge reports that last week two Chinese AI companies unveiled models they say can credibly compete with the leading systems from OpenAI and Anthropic. Beijing-based Moonshot AI, described as one of China’s leading AI model developers, unveiled a flagship model on Friday claiming it outperforms nearly every US model, trailing only OpenAI’s GPT-5.6 Sol.",
+        " The response from markets and commentators was swift. The Associated Press said the move took the US tech industry by surprise, while Bloomberg called it a 'surprise breakthrough' that is roiling markets and prompting discussions about the costs of AI infrastructure such as data centers and chips. Business Insider explored whether the launch could be the next DeepSeek, and XPRIZE founder Peter Diamandis went as far as to call the release America’s 'AI Sputnik moment.'",
+        "The Verge notes that Washington’s AI strategy has swung between intervention and laissez-faire, and that Beijing has been keen to back homegrown AI through incentives and funding while cracking down on firms trying to shed ties to China. It also points out that six of the top 10 AI tools on OpenRouter’s leaderboard are Chinese, and that Chinese models are reportedly cheaper to use, contributing to growing US interest in Chinese tooling as domestic costs rise.",
+        "IEEE Spectrum’s piece on AI alignment argues for a new metric—the Genie coefficient—to measure not just what AI can do but whether it does what you actually want. Barath Raghavan, Bruce Schneier, and Ryan Snook describe it as a way to quantify the gap between user intent and an AI’s actions, addressing a core challenge in frontier AI deployment.",
+        "Taken together, the coverage portrays a high-stakes moment in AI where market reactions and policy considerations intersect, underscoring that both the cost of AI infrastructure and the alignment between user goals and AI behavior will shape the next phase of AI deployment and national strategy."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment"
+        },
+        {
+          "d": "spectrum.ieee.org",
+          "u": "https://spectrum.ieee.org/ai-agent-benchmark"
+        }
+      ],
+      "srcTitles": [
+        "America needs to stop getting shocked by Chinese AI",
+        "Why AI Needs a “Genie Coefficient”"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 35,
       "sources": 2,
       "writtenSources": 2,
       "h": "AI s most important protocol is getting a little bit easier to use",
@@ -449,11 +450,12 @@
       "srcTitles": [
         "AI s most important protocol is getting a little bit easier to use",
         "Is AI a dirty little secret?"
-      ]
+      ],
+      "ts": "2026-07-21T19:14:10.287Z"
     },
     {
       "cat": "funding",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "writtenSources": 2,
       "h": "SpaceX enters Nasdaq-100 index, prompting AI investment questions",
@@ -474,7 +476,8 @@
         "SpaceX in your index fund, explained",
         "Opinion: Is your index fund an accidental bet on AI? These two massive ETFs show why it might be."
       ],
-      "draft": true
+      "draft": true,
+      "ts": "2026-07-21T19:14:10.287Z"
     },
     {
       "cat": "policy",
