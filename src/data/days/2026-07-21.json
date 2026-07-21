@@ -23,8 +23,8 @@
       ],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/"
         },
         {
           "d": "arstechnica.com",
@@ -35,8 +35,8 @@
           "u": "https://www.techmeme.com/260721/p30#a260721p30"
         },
         {
-          "d": "onnj.com",
-          "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sREkzVUVpblJMbnh4aUd6Y1hLNXYzaEp4U2ZnZHU4cS1TZ0dWVEFzREotVXNiQTFPc2l0cEVpVlB6ZUpYNjBfX2xQZjdwRWs?oc=5"
+          "d": "thehackernews.com",
+          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbDhjS1JHNWh2S0RTdWJOTF9kRFV1Uy1ELXNhcy1hanZ3RElqdXliWmI5V1kzenlaMk5HdW1fbDZOWGdWQUF4WUFieGEtVnlZeG05MjZ5ZFlfaFBqbHJJWUk2Z0o5UUtiNE9zSzNUcHNVejI0cWR5WlozOTFsdGhSUlBR?oc=5"
         },
         {
           "d": "+1"
@@ -51,8 +51,8 @@
     },
     {
       "cat": "policy",
-      "signal": 69,
-      "sources": 31,
+      "signal": 70,
+      "sources": 33,
       "writtenSources": 31,
       "h": "Egypt launches national AI competency framework for teachers",
       "s": "The move signals a formal step toward embedding AI literacy in education, with potential long-term effects on teacher training and classroom curricula in Egypt.",
@@ -83,7 +83,7 @@
           "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPcXY3TDFSWGZjbU9kbUMwcUtrYjctMFNTN0JVUzZlTXhaMEc2amlndGVnN1VXR2JjUEZQakFXNEtsZkJpVld0aElIU1VmbW1FdDZYeERRV2QtVk9zS1dlYmZPYWRsZlZQX0JjejBaczFfWGIyZ2dmT1ZFTDMxWHpFLVZtak5Ta1hJUGY5R3dMX3A3NWJvLU80ZXRDbTJRSnBjUDZqczRjVGpaMlBZZWlR?oc=5"
         },
         {
-          "d": "+27"
+          "d": "+29"
         }
       ],
       "srcTitles": [
@@ -91,6 +91,55 @@
         "Artificial Intelligence - ABC News",
         "HCA Healthcare’s strategic approach to scaling artificial intelligence",
         "National artificial intelligence competency framework for teachers launched in Egypt"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 55,
+      "sources": 5,
+      "writtenSources": 5,
+      "h": "Advancing next-gen AI with materials science innovation",
+      "s": "New materials breakthroughs and governance efforts will affect the cost, reliability, and accountability of future AI systems as compute demands grow.",
+      "b": [
+        "Syensqo says fluorosurfactant-free manufacturing for perfluoroelastomers can enable higher performance with a more sustainable production process.",
+        "ArXiv: Auto Research for Materials reports 701 evaluated changes across ten Matbench endpoints, with nine of ten changes surviving the hold-out test.",
+        "ArXiv: A Large-Scale Measurement of AI Bill of Materials Completeness in Hugging Face Models analyzes roughly 97,500 AIBOM artifacts and finds complete structure coverage but limited AI-specific documentation in fields like model-card and environmental data.",
+        "Anthropic faces a $1.5 billion penalty in a copyright lawsuit; court finds training on published material is fair use, but the allegedly pirated library infringes authors’ rights."
+      ],
+      "body": [
+        "MIT Technology Review frames the momentum of AI as increasingly constrained by the hardware that underpins it, arguing that advances in materials science are now essential to sustaining gains in processing power, memory, energy efficiency, and reliability as AI workloads grow.",
+        "The piece notes that manufacturing a semiconductor chip today requires thousands of tightly controlled steps, with tiny variations potentially creating defects and raising costs. It highlights how advancements in materials—from polymers to specialty fluids—are crucial to delivering higher purity, better resistance to chemicals and plasma, and stability under harsher operating conditions. At Syensqo, the company says it is applying insights from adjacent markets to develop power and thermal-management solutions that meet higher data-center power density goals, including a fluorosurfactant-free manufacturing approach for perfluoroelastomers to balance performance with more sustainable production.",
+        "Beyond hardware, the coverage considers governance and transparency as the AI stack scales. Two arXiv papers in the coverage dive into AI lifecycle documentation and reproducibility. One study, Auto Research for Materials, reports 701 evaluated changes across ten Matbench endpoints, with nine of ten choices remaining the best tested single intervention after hold-out evaluation, underscoring how reproducible changes can survive unseen data and be reused across tasks.",
+        "A separate arXiv paper examines the completeness of AI Bills of Materials (AIBOMs) in public Hugging Face model repositories. It analyzes roughly 97,500 artifacts and finds that while AIBOMs fully cover the required structural fields, many AI-specific items remain weakly represented or missing, including model-card details, datasets, safety risks, and environmental information. The findings argue for improved model-card practices, repository-level traceability, and automated AIBOM validation to advance governance of AI artifacts.",
+        "Policy developments also appear in the broader coverage. Politico reports that OpenAI backs a watered-down Massachusetts AI safety bill, signaling industry support for regulatory guardrails. In parallel, Tom’s Hardware notes a high-stakes copyright ruling against Anthropic, with a $1.5 billion penalty tied to claims about training AI on published material and the status of a pirated library, illustrating how legal and regulatory actions intersect with AI development and deployment.",
+        "Overall, the convergence of materials science innovation and governance efforts—ranging from material sustainability to AI Bills of Materials and safety regulation—will shape how scalable, reliable, and accountable next-generation AI systems can be as the technology accelerates."
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
+        },
+        {
+          "d": "edtechmagazine.com",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6UHk3ZUtyZlJ1c3RzSElISmxEOUVkU3diQ0hDb0g0S1lUX1RIRTVpQ3p2VmYyb0pfM2s4dVVNZE0yQVdmUUVPXzA4RV9sOFFwZi1XT1MwWUhFdjB4eUxvWWpPLXBqaEVncnpCM0pVMThzVW1sNXZnUGZ2cDk?oc=5"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPb0VvX3AycjEtNV91a2JndklUQmVMN2xBME5pRWU2OWMyOUJMZmNlSnFlYjJqRUpFbkRhNUUtZm05VFE0TDdOejVjUHNrNFBiLWdMaUpRVDZtX09tZGZMa2szdWhiRnZVek1pTk1JWW96TjRGOEVCa0phT0NHeVQ2QzJLdlRKbzBva045UkNFMVdHaG13V1ZhVlZaMVFSRTNUX3dGNTllYU9vcWhjLWRyb2J6M1p2SndFdHZreVR0OFNlbjdGMEJkTVM0WE0tVEZ5UXRYa0Z2Y2RjT1lDMWZCY3JZSzVoTG1DSGF3eTQ2Njd5RkM4aG4tbHFVbTU4dkFOU3RzNThvUlRtMURBWThINVBQR21oSXl4NUZPRHd6TlZ2NzdwN0xNVjVfTG85X2NURDF2Z2VVc2JYYVFiQlJqSkFKanJGXzczaEs2LWsycnRkZVQtd0F3bG9mQTU5ZWNRS3hhQ3RFZGRsYUlWZTF3TUt6VGxTOWdSZXlZaFNnaGYxd0JWdkNVTjVmRkpNUWFGR1NlZDdneHd1SVNNYjh1NEFNX3pSeEtCMFFJQUVWQThMQXQ5MkFR?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2607.17100"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "Advancing next-gen AI with materials science innovation",
+        "What Is an AI Bill of Materials?",
+        "Anthropic hit with largest-ever $1.5 billion penalty in copyright lawsuit — court says training AI on published material is fair use, but startup’s pirated library infringes on authors’ rights",
+        "Auto Research for Materials: Auditable AI-Scientist Workflows with Held-Out Transfer"
       ]
     },
     {
@@ -129,6 +178,42 @@
         "University of Tennessee Research Foundation sues Anthropic in Delaware for allegedly infringing neural network patents, the first such case against Anthropic (Blake Brittain/Reuters)",
         "University of Tennessee sues Anthropic over neural network technology",
         "University of Tennessee sues Anthropic over neural network technology"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 47,
+      "sources": 3,
+      "writtenSources": 2,
+      "h": "US weighs sanctions on Chinese AI models over distillation claims",
+      "s": "If the headline reflects a real policy move, it would represent a sharp hardening of the U.S. stance toward foreign AI tech and could affect how models are trained and distributed internationally.",
+      "b": [
+        "The provided coverage includes a Guardian piece titled Could AI be conscious? and KFGO reporting on Sub-Saharan Africa's AI impact, neither of which discuss sanctions.",
+        "There are no substantive details in the supplied sources about which models would be sanctioned, what actions would be taken, or timelines."
+      ],
+      "body": [
+        "The headline from the prompt states that the United States is weighing sanctions on Chinese AI models over distillation claims. However, the supplied sources in the dataset do not provide reporting on sanctions or related government actions. The Guardian’s piece titled Could AI be conscious? and KFGO’s AI-economy piece do not address sanctions, IP theft, or distillation policy in China or the U.S.",
+        "Without concrete coverage detailing which models would be targeted, the legal mechanism, or the potential scope of sanctions, readers are left with a headline and no verifiable context from the provided material.",
+        "Given the absence of direct reporting in the supplied sources, the next steps or official government positions remain unclear based on the current coverage."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWgyMGZkdno3UUlLcW5BMDE0Nk9LR3A4TzlqRGZLTV9tWUlROFlRbTctQVVodVgwNW1jUEdaQnNrOGpjTDN2NERLcjl4SHpRMFNBZjdoeUtndDhNNTA0LUtGQUd5cDVuZHFtZzBsQjBiSjFOQmNuLVVKZlJQazExdFpUTS1FMXhnd2wycFlvY3ZCOHVwZlUwRThjclBnQ1BHaEFYSUwtSmpyLVZ5d21mSFoySXl0ZFRqaU1ZS2pvemt5akU?oc=5"
+        },
+        {
+          "d": "scmp.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2dZUDE4cW5MS29sVE1YOHY2RW12bTZBU3dwZlNUMjFkd28yMWc4SVYxTTZSb21oU0lSYWpVbkpVclZMSFdoWjVaYUlfRzJhRkRyMzJTYThMc2REVFhBSl9IRjFHZ29ybm9yRG0yLWI1WURYdHo1U25LaDBhU2x4RWNaVjcyRVlDdUFLM0FnSGJORXo3Y3ItU1Jrai1lMjg2RlhlN2xOUWxjNTI1Q0dr0gGvAUFVX3lxTFBCZjF4bE1oY0VVbDVuZk90Zk9HQllZQXhCQ3JUWUlWak42Ny1wa2xKcU8zX01fMHk4VE1EeFJVYkdUNk5JTlpUWWYyTFFyampnVEpwRlFjRXFDRFBYZGJOaUpIVkVXN1hyem4tVndFTTdzdG9qYl9lYnlGTXI1TlZuam96MWstX3ppOTBUVUdzZHNVbmx3LVZiM1VuWF9VUENmcEJST0gxQS0wVXhFV1U?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "US threatens sanctions against Chinese AI models over IP theft",
+        "US Threatens Sanctions on China Over Alleged AI Model Theft",
+        "As US-Chinese AI model gap narrows, what next for Washington?"
       ]
     },
     {
@@ -267,37 +352,6 @@
       "srcTitles": [
         "Halliday’s latest smart glasses feature a much-improved display",
         "Halliday’s New Smart Glasses Skip the Camera"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 42,
-      "sources": 2,
-      "writtenSources": 2,
-      "h": "US weighs sanctions on Chinese AI models over distillation claims",
-      "s": "If the headline reflects a real policy move, it would represent a sharp hardening of the U.S. stance toward foreign AI tech and could affect how models are trained and distributed internationally.",
-      "b": [
-        "The provided coverage includes a Guardian piece titled Could AI be conscious? and KFGO reporting on Sub-Saharan Africa's AI impact, neither of which discuss sanctions.",
-        "There are no substantive details in the supplied sources about which models would be sanctioned, what actions would be taken, or timelines."
-      ],
-      "body": [
-        "The headline from the prompt states that the United States is weighing sanctions on Chinese AI models over distillation claims. However, the supplied sources in the dataset do not provide reporting on sanctions or related government actions. The Guardian’s piece titled Could AI be conscious? and KFGO’s AI-economy piece do not address sanctions, IP theft, or distillation policy in China or the U.S.",
-        "Without concrete coverage detailing which models would be targeted, the legal mechanism, or the potential scope of sanctions, readers are left with a headline and no verifiable context from the provided material.",
-        "Given the absence of direct reporting in the supplied sources, the next steps or official government positions remain unclear based on the current coverage."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
-        },
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWgyMGZkdno3UUlLcW5BMDE0Nk9LR3A4TzlqRGZLTV9tWUlROFlRbTctQVVodVgwNW1jUEdaQnNrOGpjTDN2NERLcjl4SHpRMFNBZjdoeUtndDhNNTA0LUtGQUd5cDVuZHFtZzBsQjBiSjFOQmNuLVVKZlJQazExdFpUTS1FMXhnd2wycFlvY3ZCOHVwZlUwRThjclBnQ1BHaEFYSUwtSmpyLVZ5d21mSFoySXl0ZFRqaU1ZS2pvemt5akU?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "US threatens sanctions against Chinese AI models over IP theft",
-        "US Threatens Sanctions on China Over Alleged AI Model Theft"
       ]
     },
     {
@@ -484,35 +538,6 @@
       ],
       "srcTitles": [
         "China’s AI models have Trump’s AI world at war with itself"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 24,
-      "sources": 1,
-      "writtenSources": 2,
-      "h": "Advancing next-gen AI with materials science innovation",
-      "s": "Materials science is becoming a strategic lever to push AI hardware performance and efficiency, with implications for data-center design and sustainability.",
-      "b": [
-        "Advanced materials underpin the performance and reliability of AI hardware as AI workloads grow more demanding, driving new polymer, elastomer, and fluid solutions.",
-        "The article highlights the role of materials in thermal management, high-voltage power architectures, and high-bandwidth memory for data centers.",
-        "Syensqo discusses applying cross-market knowledge (e.g., from EV cooling and semiconductors) to develop new cooling and power solutions for AI servers, enabling greater density and reliability.",
-        "Sustainability considerations are shaping material choices, such as fluorosurfactant-free manufacturing for perfluoroelastomers used in semiconductor equipment."
-      ],
-      "body": [
-        "MIT Technology Review argues that advances in AI are increasingly tethered to developments in materials science. As AI pushes semiconductors and data centers toward new physical limits, advanced materials become essential to sustain performance gains while maintaining reliability and energy efficiency.",
-        "The piece contends that the demands of next‑generation AI require not only smarter chips and better system design but also innovations in materials—polymers, elastomers, specialty fluids, and other advanced materials—that can withstand harsher operating conditions and higher processing density.",
-        "Manufacturability and yield are central concerns, as tiny variations in processing can impact costs. The article emphasizes the importance of materials that offer higher purity, chemical resistance, and stability under extreme environments, and notes that qualification timelines for new materials can stretch for years.",
-        "Cross‑market knowledge is highlighted as a way to accelerate progress: Syensqo cites adapting cooling and power-management know‑how from semiconductor manufacturing and automotive sectors to develop direct liquid-cooling designs for AI servers, illustrating how material innovations can unlock scalable AI infrastructure."
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
-        }
-      ],
-      "srcTitles": [
-        "Advancing next-gen AI with materials science innovation"
       ]
     },
     {
