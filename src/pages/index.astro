@@ -1,0 +1,38 @@
+---
+import Base from '../layouts/Base.astro';
+import Nav from '../components/Nav.astro';
+import Section from '../components/Section.astro';
+import { getSections } from '../lib/data.js';
+
+const sections = getSections();
+const today = sections[0];
+const description = `Today's AI news, ranked and summarized from 200+ sources — every story that mattered in one 90-second scan. Today: ${today.stories
+  .slice(0, 2)
+  .map((s) => s.h)
+  .join(' · ')}`;
+---
+<Base title="AI News Radar — Today's Top AI Stories, Ranked & Summarized" description={description} page="home">
+  <Nav slot="nav" sections={sections} />
+
+  <header class="intro">
+    <h1>Today's AI news, ranked.</h1>
+    <p>Every story that mattered from 200+ sources, rewritten in one line each. Scan the day in 90 seconds.</p>
+  </header>
+
+  <main>
+    {sections.map((section) => <Section section={section} />)}
+  </main>
+
+  <div class="feed-end">
+    <span class="caught"><span class="dot"></span>You're all caught up</span>
+    <div class="subcard" id="subcard">
+      <h3>Get tomorrow's scan at 7am</h3>
+      <p>The same ranked list, in your inbox. Nothing else, ever.</p>
+      <form class="subform">
+        <input type="email" placeholder="you@example.com" aria-label="Email address" required />
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+    <p class="colophon">Ranked by signal — how widely and seriously each story is covered.</p>
+  </div>
+</Base>

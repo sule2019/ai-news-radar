@@ -1,0 +1,64 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Nav from '../../../../components/Nav.astro';
+import Section from '../../../../components/Section.astro';
+import { getSections, getDays } from '../../../../lib/data.js';
+
+export function getStaticPaths() {
+  const days = getDays();
+  return days.map((section, i) => {
+    const [year, month, day] = section.date.split('-');
+    return {
+      params: { year, month, day },
+      props: { section, prev: days[i + 1] ?? null, next: days[i - 1] ?? null },
+    };
+  });
+}
+
+const { section, prev, next } = Astro.props;
+const sections = getSections();
+const description = `The biggest AI news of ${section.fullDate}, ranked and summarized: ${section.stories
+  .slice(0, 3)
+  .map((s) => s.h)
+  .join(' · ')}`;
+
+// Permanent archive page: absolute, keyword-rich naming (never "Today")
+const pageSection = { ...section, title: 'AI News', sub: section.fullDate };
+
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: `AI News for ${section.fullDate}`,
+  itemListElement: section.stories.map((s, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: s.h,
+  })),
+};
+---
+<Base title={`AI News for ${section.fullDate} — Ranked & Summarized`} description={description}>
+  <Nav slot="nav" sections={sections} currentId={section.id} />
+
+  <main>
+    <Section section={pageSection} />
+  </main>
+
+  <nav class="pager" aria-label="Adjacent days">
+    {prev ? <a href={prev.url}>← {prev.sub}</a> : <span></span>}
+    {next ? <a href={next.url}>{next.sub} →</a> : <a href="/">Latest →</a>}
+  </nav>
+
+  <div class="feed-end">
+    <div class="subcard" id="subcard">
+      <h3>Get tomorrow's scan at 7am</h3>
+      <p>The same ranked list, in your inbox. Nothing else, ever.</p>
+      <form class="subform">
+        <input type="email" placeholder="you@example.com" aria-label="Email address" required />
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+    <p class="colophon"><a href="/">← Back to the full feed</a></p>
+  </div>
+
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
+</Base>

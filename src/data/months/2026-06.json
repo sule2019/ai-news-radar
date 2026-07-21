@@ -1,0 +1,105 @@
+{
+  "month": "2026-06",
+  "stories": [
+    {
+      "cat": "products", "signal": 97, "date": "Jun 10",
+      "h": "OpenAI and Jony Ive unveil \"io\", a screenless AI companion device",
+      "s": "The first serious post-smartphone bet from the post-smartphone era's biggest lab.",
+      "b": [
+        "Pocket device with camera, mics, and no display; ships early 2027.",
+        "Positioned as an ambient companion, not a phone replacement."
+      ],
+      "l": ["openai.com", "theverge.com", "+60"]
+    },
+    {
+      "cat": "models", "signal": 92, "date": "Jun 3",
+      "h": "Anthropic launches the Claude 5 family",
+      "s": "A new top-tier model class aimed squarely at week-long autonomous work.",
+      "b": [
+        "Flagship targets multi-day agentic tasks with large reliability gains.",
+        "Enterprise agent deployments cited as the core use case."
+      ],
+      "l": ["anthropic.com", "arstechnica.com", "+45"]
+    },
+    {
+      "cat": "policy", "signal": 85, "date": "Jun 26",
+      "h": "EU finalizes AI Act codes of practice after months of lobbying",
+      "s": "The rulebook labs will actually be graded on — enforcement follows within weeks.",
+      "b": [
+        "Final text softened transparency demands but kept safety-testing teeth.",
+        "Sets the template other regulators are copying."
+      ],
+      "l": ["ft.com", "politico.eu", "+38"]
+    },
+    {
+      "cat": "funding", "signal": 83, "date": "Jun 18",
+      "h": "Nvidia becomes the first $5 trillion company",
+      "s": "The entire AI boom, priced into one balance sheet.",
+      "b": [
+        "Data-center revenue up 70% year over year.",
+        "Now worth more than the next four chipmakers combined."
+      ],
+      "l": ["cnbc.com", "bloomberg.com", "+35"]
+    },
+    {
+      "cat": "products", "signal": 78, "date": "Jun 22",
+      "h": "Waymo and Tesla robotaxis go head-to-head in Austin",
+      "s": "Two philosophies of autonomy — lidar caution vs camera scale — finally share the same streets.",
+      "b": [
+        "Tesla's launch is invite-only with safety monitors; Waymo runs fully driverless.",
+        "Early incident data became an instant political football."
+      ],
+      "l": ["axios.com", "electrek.co", "+30"]
+    },
+    {
+      "cat": "research", "signal": 74, "date": "Jun 12",
+      "h": "DeepMind's cell-simulation model predicts drug responses in silico",
+      "s": "AlphaFold's successor moves from protein shapes to whole living systems.",
+      "b": [
+        "Simulates how cell types respond to compounds before lab testing.",
+        "Pharma partners report cutting early-stage screening time in half."
+      ],
+      "l": ["nature.com", "quantamagazine.org", "+25"]
+    },
+    {
+      "cat": "funding", "signal": 70, "date": "Jun 29",
+      "h": "Meta dangles $100M packages to poach top AI researchers",
+      "s": "Talent, not compute, is now the scarcest resource in the race.",
+      "b": [
+        "Several high-profile departures from OpenAI and DeepMind confirmed.",
+        "Sets a new market rate for frontier research talent."
+      ],
+      "l": ["theinformation.com", "wsj.com", "+22"]
+    },
+    {
+      "cat": "research", "signal": 66, "date": "Jun 5",
+      "h": "First AI-discovered drug clears Phase II trials",
+      "s": "The proof point AI-for-biology investors have waited a decade for.",
+      "b": [
+        "Fibrosis drug designed end-to-end by Insilico's platform.",
+        "Phase III begins later this year."
+      ],
+      "l": ["statnews.com", "nature.com", "+18"]
+    },
+    {
+      "cat": "models", "signal": 60, "date": "Jun 15",
+      "h": "xAI's Colossus 2 comes online with 1M GPUs",
+      "s": "The largest training cluster ever built — and a preview of the power-grid politics ahead.",
+      "b": [
+        "Memphis site now draws power comparable to a small city.",
+        "Local utility disputes are becoming the template fight for AI infrastructure."
+      ],
+      "l": ["reuters.com", "semianalysis.com", "+15"]
+    },
+    {
+      "cat": "funding", "signal": 55, "date": "Jun 30",
+      "h": "AI startups raise a record $28B in Q2",
+      "s": "No slowdown — but the money is concentrating in fewer, bigger bets.",
+      "b": [
+        "Top 10 rounds took 60% of all dollars.",
+        "Application-layer share grew for the third straight quarter."
+      ],
+      "l": ["crunchbase.com", "pitchbook.com", "+12"]
+    }
+  ]
+}

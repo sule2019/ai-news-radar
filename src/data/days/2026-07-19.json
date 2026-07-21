@@ -1,0 +1,76 @@
+{
+  "date": "2026-07-19",
+  "stories": [
+    {
+      "cat": "models", "signal": 72, "sources": 20,
+      "h": "Anthropic's Fable 5 sweeps new agentic-work benchmark suite",
+      "s": "The new eval measures week-long jobs, not puzzles — and the gap between labs is widening.",
+      "b": [
+        "Tops all 8 categories including multi-repo software work and research synthesis.",
+        "Benchmark built by a third-party consortium to resist gaming.",
+        "Enterprise agent adoption cited as the driver for the new tier."
+      ],
+      "l": ["anthropic.com", "theinformation.com", "+17"]
+    },
+    {
+      "cat": "models", "signal": 64, "sources": 15,
+      "h": "Leak: Google's Gemini 4 targeting September launch",
+      "s": "The fall frontier-model season is shaping up — three major releases expected within weeks of each other.",
+      "b": [
+        "Internal benchmarks reportedly show large agentic gains.",
+        "Deep integration with Workspace agents planned at launch."
+      ],
+      "l": ["theverge.com", "9to5google.com", "+13"]
+    },
+    {
+      "cat": "policy", "signal": 48, "sources": 10,
+      "h": "Senate schedules first hearings on AI job displacement",
+      "s": "Washington shifts from \"is AI safe?\" to \"what about the jobs?\" — a different, harder debate.",
+      "b": [
+        "Hearings begin in September with lab CEOs invited.",
+        "Follows BLS data showing white-collar hiring slowdown in exposed roles."
+      ],
+      "l": ["washingtonpost.com", "axios.com", "+8"]
+    },
+    {
+      "cat": "products", "signal": 44, "sources": 9,
+      "h": "Midjourney v8 adds full conversational scene editing",
+      "s": "\"Move the lamp, make it dusk\" now just works — image editing is becoming a dialogue.",
+      "b": [
+        "Edits preserve scene consistency across unlimited revisions.",
+        "Still no API — community pressure continues."
+      ],
+      "l": ["midjourney.com", "petapixel.com", "+7"]
+    },
+    {
+      "cat": "policy", "signal": 37, "sources": 7,
+      "h": "Six Chinese AI labs publish joint frontier-safety framework",
+      "s": "Echoes Western labs' commitments — and complicates the \"race means no safety\" narrative.",
+      "b": [
+        "Includes compute thresholds that trigger safety evaluations.",
+        "DeepSeek, Alibaba, and Zhipu among signatories."
+      ],
+      "l": ["reuters.com", "scmp.com", "+5"]
+    },
+    {
+      "cat": "research", "signal": 33, "sources": 6,
+      "h": "AI tutoring gains hold up a full year later, follow-up study finds",
+      "s": "The learning gains weren't a novelty effect — big news for the ed-tech thesis.",
+      "b": [
+        "Students kept a 0.3 standard-deviation advantage 12 months on.",
+        "Effect strongest for students who started furthest behind."
+      ],
+      "l": ["nature.com", "edweek.org", "+4"]
+    },
+    {
+      "cat": "funding", "signal": 28, "sources": 5,
+      "h": "Groq raises $1.5B to scale inference-only chips",
+      "s": "The inference market is now bigger than training — and specialists are carving out real share.",
+      "b": [
+        "Valuation reaches $12B.",
+        "Claims 5x cost advantage over GPUs for high-volume serving."
+      ],
+      "l": ["techcrunch.com", "forbes.com", "+3"]
+    }
+  ]
+}

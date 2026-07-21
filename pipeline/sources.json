@@ -1,0 +1,25 @@
+{
+  "notes": "Verified live 2026-07-21 (HTTP 200). weight: how much a source counts toward a story's signal score (3 = primary/authoritative, 2 = major press, 1 = community/long-tail). type: lab = first-party announcement, press = journalism, aggregator = catch-all discovery, research = papers, community = discussion. Labs without RSS (Anthropic, Meta AI, Mistral, xAI) are covered indirectly via press + aggregator feeds; their announcements always appear there within the hour.",
+  "sources": [
+    { "name": "OpenAI News",            "feed": "https://openai.com/news/rss.xml",                                                        "type": "lab",        "weight": 3 },
+    { "name": "Google AI Blog",         "feed": "https://blog.google/technology/ai/rss/",                                                 "type": "lab",        "weight": 3 },
+    { "name": "Google DeepMind",        "feed": "https://deepmind.google/blog/rss.xml",                                                   "type": "lab",        "weight": 3 },
+    { "name": "Hugging Face Blog",      "feed": "https://huggingface.co/blog/feed.xml",                                                   "type": "lab",        "weight": 2 },
+
+    { "name": "TechCrunch AI",          "feed": "https://techcrunch.com/category/artificial-intelligence/feed/",                          "type": "press",      "weight": 2 },
+    { "name": "The Verge AI",           "feed": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",                      "type": "press",      "weight": 2 },
+    { "name": "VentureBeat AI",         "feed": "https://venturebeat.com/category/ai/feed/",                                              "type": "press",      "weight": 2 },
+    { "name": "MIT Technology Review AI","feed": "https://www.technologyreview.com/topic/artificial-intelligence/feed",                   "type": "press",      "weight": 3 },
+    { "name": "Wired AI",               "feed": "https://www.wired.com/feed/tag/ai/latest/rss",                                           "type": "press",      "weight": 2 },
+    { "name": "Ars Technica AI",        "feed": "https://arstechnica.com/ai/feed/",                                                       "type": "press",      "weight": 2 },
+    { "name": "IEEE Spectrum AI",       "feed": "https://spectrum.ieee.org/feeds/topic/artificial-intelligence.rss",                      "type": "press",      "weight": 2 },
+
+    { "name": "Techmeme",               "feed": "https://www.techmeme.com/feed.xml",                                                      "type": "aggregator", "weight": 2 },
+    { "name": "Google News: AI",        "feed": "https://news.google.com/rss/search?q=artificial+intelligence&hl=en-US&gl=US&ceid=US:en", "type": "aggregator", "weight": 1 },
+    { "name": "Hacker News (AI, 100+ pts)", "feed": "https://hnrss.org/newest?q=AI&points=100",                                           "type": "community",  "weight": 1 },
+    { "name": "r/MachineLearning",      "feed": "https://www.reddit.com/r/MachineLearning/.rss",                                          "type": "community",  "weight": 1 },
+
+    { "name": "arXiv cs.AI",            "feed": "https://rss.arxiv.org/rss/cs.AI",                                                        "type": "research",   "weight": 1 },
+    { "name": "Simon Willison",         "feed": "https://simonwillison.net/atom/everything/",                                             "type": "community",  "weight": 1 }
+  ]
+}

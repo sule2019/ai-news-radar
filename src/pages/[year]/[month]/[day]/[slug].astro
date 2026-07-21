@@ -1,0 +1,24 @@
+---
+import StoryPage from '../../../../components/StoryPage.astro';
+import { getDays } from '../../../../lib/data.js';
+
+export function getStaticPaths() {
+  return getDays().flatMap((section) =>
+    section.stories.map((story, i) => {
+      const [year, month, day] = section.date.split('-');
+      return {
+        params: { year, month, day, slug: story.slug },
+        props: {
+          section,
+          story,
+          prev: section.stories[i - 1] ?? null,
+          next: section.stories[i + 1] ?? null,
+        },
+      };
+    })
+  );
+}
+
+const { section, story, prev, next } = Astro.props;
+---
+<StoryPage section={section} story={story} prev={prev} next={next} dateISO={section.date} />

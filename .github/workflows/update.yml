@@ -1,0 +1,46 @@
+name: Hourly feed update
+
+on:
+  schedule:
+    - cron: '0 * * * *' # every hour, on the hour (UTC)
+  workflow_dispatch: {} # allows manual runs from the GitHub UI
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Run pipeline
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: node pipeline/update.mjs
+
+      - name: Verify site still builds
+        run: npm run build
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "ai-news-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add src/data
+          if git diff --cached --quiet; then
+            echo "No changes this run"
+          else
+            git commit -m "feed: $(date -u '+%Y-%m-%d %H:%M') UTC update"
+            git push
+          fi

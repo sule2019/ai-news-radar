@@ -1,0 +1,88 @@
+{
+  "date": "2026-07-18",
+  "stories": [
+    {
+      "cat": "products", "signal": 81, "sources": 26,
+      "h": "Microsoft makes Copilot a system-level agent across all of Windows",
+      "s": "The OS itself is now an agent runtime — apps become tools the assistant orchestrates.",
+      "b": [
+        "Copilot can operate any application with user-granted permissions.",
+        "IT admins get full audit logs of agent actions.",
+        "Security researchers immediately began probing the permission model."
+      ],
+      "l": ["microsoft.com", "theverge.com", "+23"]
+    },
+    {
+      "cat": "models", "signal": 74, "sources": 21,
+      "h": "DeepSeek V4 matches frontier benchmarks at a tenth of the price",
+      "s": "The efficiency lab does it again — pricing pressure on every closed API just intensified.",
+      "b": [
+        "$0.40 per million output tokens, undercutting everyone.",
+        "Trained on a fraction of the compute of Western peers.",
+        "US lawmakers renewed calls for open-weight export scrutiny."
+      ],
+      "l": ["deepseek.com", "reuters.com", "+19"]
+    },
+    {
+      "cat": "policy", "signal": 66, "sources": 16,
+      "h": "NIST releases the first federal standard for evaluating AI agents",
+      "s": "A common yardstick for \"is this agent safe to deploy?\" — procurement teams will use it immediately.",
+      "b": [
+        "Covers autonomy levels, failure containment, and audit requirements.",
+        "Federal agencies must apply it to purchases starting 2027.",
+        "Labs helped draft it; critics say that's the problem."
+      ],
+      "l": ["nist.gov", "fedscoop.com", "+14"]
+    },
+    {
+      "cat": "products", "signal": 52, "sources": 11,
+      "h": "Amazon crosses one million warehouse robots",
+      "s": "Robots now roughly match human headcount in fulfillment — the automation curve is compounding.",
+      "b": [
+        "Robot fleet grew 40% in twelve months.",
+        "New units handle irregular items previously needing hands."
+      ],
+      "l": ["amazon.com", "cnbc.com", "+9"]
+    },
+    {
+      "cat": "research", "signal": 47, "sources": 9,
+      "h": "AI-designed enzymes work on first synthesis, Nature reports",
+      "s": "Generative biology is moving from predicting proteins to inventing useful ones.",
+      "b": [
+        "Novel enzymes catalyze reactions with no natural counterpart.",
+        "Potential applications in plastic degradation and drug synthesis."
+      ],
+      "l": ["nature.com", "sciencenews.org", "+7"]
+    },
+    {
+      "cat": "funding", "signal": 41, "sources": 8,
+      "h": "Safe Superintelligence raises again at a $60B valuation",
+      "s": "Still no product, still no demos — the purest bet in AI keeps finding believers.",
+      "b": [
+        "Triple its valuation from early 2025.",
+        "Sutskever says commercialization remains explicitly off the table."
+      ],
+      "l": ["wsj.com", "bloomberg.com", "+6"]
+    },
+    {
+      "cat": "policy", "signal": 35, "sources": 6,
+      "h": "EU and US announce joint AI safety-testing pact",
+      "s": "The safety institutes will share evals and red-team results — quiet but meaningful coordination.",
+      "b": [
+        "Joint testing of frontier models before major releases.",
+        "China invited to observer status; no response yet."
+      ],
+      "l": ["politico.com", "ft.com", "+4"]
+    },
+    {
+      "cat": "funding", "signal": 27, "sources": 4,
+      "h": "YC: 80% of the new batch is building AI agents",
+      "s": "Peak agent? The startup ecosystem has gone all-in on one thesis.",
+      "b": [
+        "Up from 50% two batches ago.",
+        "Partners say vertical agents for boring industries dominate."
+      ],
+      "l": ["techcrunch.com", "+3"]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+---
+import '../styles/global.css';
+
+const { title, description, page = 'default' } = Astro.props;
+const canonical = new URL(Astro.url.pathname, Astro.site);
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:site_name" content="AI News Radar" />
+    <meta name="twitter:card" content="summary" />
+  </head>
+  <body data-page={page}>
+    <nav class="nav">
+      <div class="nav-inner">
+        <a class="wordmark" href="/">
+          <span class="sigicon"><i></i><i></i><i></i></span>AI News Radar
+        </a>
+        <slot name="nav" />
+        <a class="subbtn" href="#subcard">Subscribe</a>
+      </div>
+    </nav>
+
+    <div class="page">
+      <slot />
+    </div>
+
+    <script>
+      // Newsletter form (placeholder until a provider is wired up)
+      document.querySelectorAll('.subform').forEach((form) => {
+        form.addEventListener('submit', (e) => {
+          e.preventDefault();
+          const btn = (form as HTMLElement).querySelector('button');
+          if (btn) btn.textContent = 'Subscribed';
+        });
+      });
+
+      // Homepage: pills scroll to the section instead of navigating,
+      // and the URL follows the day you're reading (real, shareable URLs).
+      if (document.body.dataset.page === 'home') {
+        const pills = [...document.querySelectorAll('.seg a[data-section]')] as HTMLAnchorElement[];
+        const sections = [...document.querySelectorAll('section.day[data-url]')] as HTMLElement[];
+
+        pills.forEach((pill) => {
+          pill.addEventListener('click', (e) => {
+            const target = document.getElementById(pill.dataset.section || '');
+            if (!target) return; // fall through to normal navigation
+            e.preventDefault();
+            target.scrollIntoView({ block: 'start' });
+          });
+        });
+
+        const sync = () => {
+          let active: HTMLElement | null = null;
+          for (const sec of sections) {
+            if (sec.getBoundingClientRect().top <= 130) active = sec;
+          }
+          pills.forEach((p) => p.classList.toggle('active', !!active && p.dataset.section === active.id));
+          const url = active && window.scrollY > 40 ? active.dataset.url! : '/';
+          if (location.pathname !== url) history.replaceState(null, '', url);
+        };
+        addEventListener('scroll', sync, { passive: true });
+        sync();
+      }
+    </script>
+  </body>
+</html>

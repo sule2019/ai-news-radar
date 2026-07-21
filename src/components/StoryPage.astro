@@ -1,0 +1,95 @@
+---
+import Base from '../layouts/Base.astro';
+import Nav from '../components/Nav.astro';
+import { CATS, getSections, sigTier, sigBarsOn } from '../lib/data.js';
+
+const { section, story, prev, next, dateISO = null } = Astro.props;
+const sections = getSections();
+
+const description = story.s;
+const jsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Article',
+  headline: story.h,
+  description: story.s,
+  ...(dateISO ? { datePublished: dateISO } : {}),
+  publisher: { '@type': 'Organization', name: 'AI News Radar' },
+};
+---
+<Base title={`${story.h} — AI News Radar`} description={description}>
+  <Nav slot="nav" sections={sections} currentId={section.id} />
+
+  <a class="crumb" href={section.url}>← {section.title} · {section.sub}</a>
+
+  <article class="article">
+    <div class="article-meta">
+      <span class={`cat ${story.cat}`}><i></i>{CATS[story.cat]}</span>
+      {story.date ? (
+        <span class="srcmeta">{story.date}</span>
+      ) : (
+        <span class="srcmeta">{story.sources} sources covering</span>
+      )}
+      <span class={`sigpill ${sigTier(story.signal)}`} title="Signal score — how widely and seriously this is covered">
+        <span class="bars">
+          {[1, 2, 3, 4].map((n) => (
+            <i class={n <= sigBarsOn(story.signal) ? 'on' : ''}></i>
+          ))}
+        </span>
+        {story.signal}
+      </span>
+    </div>
+
+    <h1>{story.h}</h1>
+    <p class="lede">{story.s}</p>
+
+    <div class="facts">
+      <h2>At a glance</h2>
+      <ul>
+        {story.b.map((x) => (
+          <li>{x}</li>
+        ))}
+      </ul>
+    </div>
+
+    {story.body && story.body.length > 0 && (
+      <div class="body">
+        <h2>The story</h2>
+        {story.body.map((p) => (
+          <p>{p}</p>
+        ))}
+      </div>
+    )}
+
+    <div class="coverage">
+      <h2>Coverage</h2>
+      <div class="srcrow">
+        {story.l.map((x) =>
+          x.startsWith('+') ? (
+            <span>{x} more outlets</span>
+          ) : (
+            <a href={`https://${x}`} target="_blank" rel="noopener">{x} ↗</a>
+          )
+        )}
+      </div>
+    </div>
+  </article>
+
+  <nav class="pager" aria-label="Adjacent stories">
+    {prev ? <a href={prev.url}>← {prev.h.slice(0, 44)}{prev.h.length > 44 ? '…' : ''}</a> : <span></span>}
+    {next ? <a href={next.url}>{next.h.slice(0, 44)}{next.h.length > 44 ? '…' : ''} →</a> : <span></span>}
+  </nav>
+
+  <div class="feed-end">
+    <div class="subcard" id="subcard">
+      <h3>Get tomorrow's scan at 7am</h3>
+      <p>The same ranked list, in your inbox. Nothing else, ever.</p>
+      <form class="subform">
+        <input type="email" placeholder="you@example.com" aria-label="Email address" required />
+        <button type="submit">Subscribe</button>
+      </form>
+    </div>
+    <p class="colophon"><a href={section.url}>← Back to {section.title}</a></p>
+  </div>
+
+  <script type="application/ld+json" is:inline set:html={JSON.stringify(jsonLd)} />
+</Base>

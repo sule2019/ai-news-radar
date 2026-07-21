@@ -1,0 +1,24 @@
+---
+import StoryPage from '../../../../components/StoryPage.astro';
+import { getMonths } from '../../../../lib/data.js';
+
+export function getStaticPaths() {
+  return getMonths().flatMap((section) =>
+    section.stories.map((story, i) => {
+      const [year, month] = section.month.split('-');
+      return {
+        params: { year, month, slug: story.slug },
+        props: {
+          section,
+          story,
+          prev: section.stories[i - 1] ?? null,
+          next: section.stories[i + 1] ?? null,
+        },
+      };
+    })
+  );
+}
+
+const { section, story, prev, next } = Astro.props;
+---
+<StoryPage section={section} story={story} prev={prev} next={next} />

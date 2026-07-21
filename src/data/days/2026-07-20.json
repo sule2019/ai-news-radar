@@ -1,0 +1,91 @@
+{
+  "date": "2026-07-20",
+  "stories": [
+    {
+      "cat": "models", "signal": 76, "sources": 22,
+      "h": "Apple opens its on-device foundation models to every iOS app",
+      "s": "Free, private, offline AI in a billion pockets — a quiet threat to per-token API businesses.",
+      "b": [
+        "New framework gives third-party apps access to the on-device 7B model.",
+        "No API costs and no data leaves the phone.",
+        "Developers say quality now rivals last year's cloud models."
+      ],
+      "l": ["apple.com", "9to5mac.com", "+19"]
+    },
+    {
+      "cat": "funding", "signal": 68, "sources": 17,
+      "h": "Report: OpenAI in talks to raise at a $500B valuation",
+      "s": "Half a trillion dollars for a nine-year-old lab — the market is pricing in AGI-scale outcomes.",
+      "b": [
+        "SoftBank and existing investors reportedly leading.",
+        "Funds would go to compute buildout under the Stargate program.",
+        "Revenue run-rate reportedly approaching $20B."
+      ],
+      "l": ["theinformation.com", "bloomberg.com", "+14"]
+    },
+    {
+      "cat": "products", "signal": 61, "sources": 13,
+      "h": "Runway's Gen-5 video model demo floods social feeds",
+      "s": "Minute-long coherent scenes with dialogue — film-industry disruption talk is back, louder.",
+      "b": [
+        "Generates 60-second clips with consistent characters and lip-synced dialogue.",
+        "Hollywood unions immediately called for contract protections.",
+        "Public access starts next month at $95/mo."
+      ],
+      "l": ["runwayml.com", "variety.com", "+10"]
+    },
+    {
+      "cat": "policy", "signal": 54, "sources": 11,
+      "h": "UK gives every university researcher free frontier-model compute",
+      "s": "A national bet that academic AI research shouldn't depend on big-lab goodwill.",
+      "b": [
+        "£800M program covers compute credits across all UK universities.",
+        "Includes access to a sovereign 100k-GPU cluster.",
+        "Modeled on CERN-style shared infrastructure."
+      ],
+      "l": ["bbc.com", "theguardian.com", "+8"]
+    },
+    {
+      "cat": "research", "signal": 43, "sources": 8,
+      "h": "Paper: LLMs show human-like memory interference patterns",
+      "s": "Models forget the way we do — a clue that they may organize knowledge more like brains than databases.",
+      "b": [
+        "New memories overwrite similar old ones, mirroring human interference effects.",
+        "Held across five model families tested.",
+        "Could inform better fine-tuning that avoids catastrophic forgetting."
+      ],
+      "l": ["arxiv.org", "newscientist.com", "+5"]
+    },
+    {
+      "cat": "products", "signal": 39, "sources": 7,
+      "h": "Waymo goes fully driverless in Miami, its 9th city",
+      "s": "Robotaxis are quietly becoming boring — which is exactly what winning looks like.",
+      "b": [
+        "No safety driver from day one for the first time.",
+        "Now running 500k+ paid rides weekly across all cities.",
+        "Miami adds rain and flood-zone driving to the public test set."
+      ],
+      "l": ["waymo.com", "axios.com", "+4"]
+    },
+    {
+      "cat": "models", "signal": 30, "sources": 5,
+      "h": "Hugging Face passes 5 million hosted models",
+      "s": "The long tail of AI is enormous — most of these are tiny fine-tunes, and that's the point.",
+      "b": [
+        "Up from 1M just two years ago.",
+        "Fastest-growing category: small on-device specialist models."
+      ],
+      "l": ["huggingface.co", "+4"]
+    },
+    {
+      "cat": "research", "signal": 25, "sources": 4,
+      "h": "Researchers warn benchmark saturation is breaking model comparison",
+      "s": "When every model scores 95%+, the tests stop telling you anything — expect a new generation of evals.",
+      "b": [
+        "12 of 20 standard benchmarks now show ceiling effects.",
+        "Private, rotating eval sets gaining traction as the fix."
+      ],
+      "l": ["arxiv.org", "interconnects.ai", "+2"]
+    }
+  ]
+}

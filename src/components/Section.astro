@@ -1,0 +1,42 @@
+---
+import { CATS, sigTier, sigBarsOn } from '../lib/data.js';
+
+const { section } = Astro.props;
+---
+<section class="day" id={section.id} data-url={section.url}>
+  <div class="day-head">
+    <h2>{section.title}<span class="sub">{section.sub}</span></h2>
+    <span class="count">{section.stories.length} stories</span>
+  </div>
+  <div class="card">
+    <ol class="stories">
+      {section.stories.map((st, i) => (
+        <li class="story">
+          <a class="row" href={st.url}>
+            <span class="rank">{i + 1}</span>
+            <span class="mid">
+              <span class="headline">{st.h}</span>
+              <span class="sowhat">{st.s}</span>
+              <span class="meta">
+                <span class={`cat ${st.cat}`}><i></i>{CATS[st.cat]}</span>
+                {section.kind === 'month' ? (
+                  <span class="srcmeta">{st.date}</span>
+                ) : (
+                  <span class="srcmeta">{st.sources} sources</span>
+                )}
+              </span>
+            </span>
+            <span class={`sigpill ${sigTier(st.signal)}`}>
+              <span class="bars">
+                {[1, 2, 3, 4].map((n) => (
+                  <i class={n <= sigBarsOn(st.signal) ? 'on' : ''}></i>
+                ))}
+              </span>
+              {st.signal}
+            </span>
+          </a>
+        </li>
+      ))}
+    </ol>
+  </div>
+</section>

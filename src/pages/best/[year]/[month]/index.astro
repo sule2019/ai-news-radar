@@ -1,0 +1,32 @@
+---
+import Base from '../../../../layouts/Base.astro';
+import Nav from '../../../../components/Nav.astro';
+import Section from '../../../../components/Section.astro';
+import { getSections, getMonths } from '../../../../lib/data.js';
+
+export function getStaticPaths() {
+  return getMonths().map((section) => {
+    const [year, month] = section.month.split('-');
+    return { params: { year, month }, props: { section } };
+  });
+}
+
+const { section } = Astro.props;
+const sections = getSections();
+const monthYear = section.sub.replace(/^Top \d+ · /, '');
+const description = `The biggest AI news of ${monthYear}, ranked and summarized: ${section.stories
+  .slice(0, 3)
+  .map((s) => s.h)
+  .join(' · ')}`;
+---
+<Base title={`The Biggest AI News of ${monthYear} — Top ${section.stories.length} Stories`} description={description}>
+  <Nav slot="nav" sections={sections} currentId={section.id} />
+
+  <main>
+    <Section section={section} />
+  </main>
+
+  <div class="feed-end">
+    <p class="colophon"><a href="/">← Back to the full feed</a></p>
+  </div>
+</Base>

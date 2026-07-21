@@ -1,0 +1,15 @@
+---
+const { sections, currentId = null } = Astro.props;
+---
+<div class="seg" role="navigation" aria-label="Browse by day">
+  {sections.map((sec) => (
+    <a
+      href={sec.url}
+      data-section={sec.id}
+      class={currentId === sec.id ? 'active' : ''}
+      aria-current={currentId === sec.id ? 'page' : undefined}
+    >
+      {sec.navLabel}
+    </a>
+  ))}
+</div>
