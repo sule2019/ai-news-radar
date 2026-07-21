@@ -188,6 +188,56 @@ function sourceChips(c) {
   return chips;
 }
 
+/* ---------------- article fetching ---------------- */
+
+// Aggregator pages whose links aren't the underlying article
+const NO_FETCH = new Set(['techmeme.com', 'reddit.com', 'www.reddit.com']);
+
+async function fetchArticleText(url) {
+  const res = await fetch(url, {
+    headers: { 'user-agent': 'Mozilla/5.0 (compatible; AINewsBot/0.1)', accept: 'text/html' },
+    redirect: 'follow',
+    signal: AbortSignal.timeout(12000),
+  });
+  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  const finalUrl = res.url || url;
+  const html = await res.text();
+  const cleaned = html
+    .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+    .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+    .replace(/<!--[\s\S]*?-->/g, ' ');
+  const paras = [...cleaned.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)]
+    .map((m) => stripHtml(m[1]))
+    .filter((t) => t.length > 60);
+  return { text: paras.join('\n').slice(0, 5000), finalUrl };
+}
+
+// Pull real article text for the top items of each cluster being written,
+// so the model works from full reporting instead of one-line feed snippets.
+// Google News links redirect to the real outlet — capture the final URL.
+async function enrichWithArticles(entries) {
+  const targets = [];
+  for (const { cluster } of entries) {
+    for (const it of cluster.items.slice(0, 3)) {
+      if (it.link && !NO_FETCH.has(it.domain) && !it.fullText) targets.push(it);
+    }
+  }
+  const results = await Promise.allSettled(targets.map((it) => fetchArticleText(it.link)));
+  let ok = 0;
+  results.forEach((r, i) => {
+    if (r.status !== 'fulfilled' || !r.value.text) return;
+    const it = targets[i];
+    it.fullText = r.value.text;
+    const finalDomain = domainOf(r.value.finalUrl);
+    if (finalDomain && finalDomain !== 'news.google.com') {
+      it.link = r.value.finalUrl;
+      it.domain = finalDomain;
+    }
+    ok++;
+  });
+  console.log(`Fetched full text for ${ok}/${targets.length} articles`);
+}
+
 /* ---------------- LLM copywriting ---------------- */
 
 const STORY_SCHEMA = {
@@ -222,19 +272,23 @@ async function writeCopy(entries) {
     id: i,
     ...(existingHeadline ? { existingHeadline } : {}),
     coverage: cluster.items
-      .slice(0, 10)
-      .map((it) => ({ outlet: it.domain, title: it.title, content: it.snippet })),
+      .slice(0, 8)
+      .map((it) => ({ outlet: it.domain, title: it.title, content: it.fullText || it.snippet })),
   }));
 
   const systemPrompt = [
-      'You write for "AI News Radar", a ranked daily digest of AI news. For each story cluster you receive (headlines and article content from multiple outlets covering the same story), write:',
+      'You are the news writer for "AI News Radar", a ranked daily digest of AI news. Each input is one story, with coverage from one or more outlets (outlet domain, headline, article text). For each story write:',
       '- h: one punchy, factual headline in plain language (no clickbait, no trailing period, sentence case). If the input has "existingHeadline", return it verbatim as h — the story is already published at a URL derived from it.',
-      '- s: one sentence on why it matters to someone following AI — the "so what", not a restatement of the headline',
-      '- b: 2-4 short factual bullets — the key details a scanner needs',
-      '- body: the full article for the story page, as an array of paragraphs. Be as detailed as the coverage allows: include every concrete fact available — numbers, names, dates, prices, model names, direct quotes (attributed to the outlet that reported them, e.g. \'according to TechCrunch\'). Typically 3-6 paragraphs; more if the coverage is rich, fewer if it is thin. Structure: what happened, the specifics, context and reactions from the coverage, what happens next if reported.',
+      '- s: one sentence on why this story matters to someone following AI. It must add stakes or consequences beyond the headline — never restate the headline, never re-list product names, never use abstract filler like "shows how X shapes Y". Concrete beats abstract.',
+      '- b: 2-4 scannable fact bullets — the hardest specifics in the coverage: numbers, names, dates, prices, capabilities.',
+      '- body: the full story as news prose, an array of paragraphs. Be as detailed as the coverage allows — every concrete fact, figure, and quote, structured as: what happened, the specifics, context and reactions, what happens next if reported. Typically 3-6 paragraphs; fewer only if the coverage is genuinely thin. Do not repeat the bullet sentences verbatim — bullets are the scan layer, the body is the full account.',
       '- cat: one of models (model releases/benchmarks), research (papers/studies), funding (raises/valuations/M&A/business), policy (regulation/government/safety policy), products (apps/tools/hardware/deployments)',
       '',
+      'VOICE (critical): Write as a news reporter stating facts directly — not as someone summarizing articles. NEVER use meta-language: "the piece", "the article", "the coverage", "notes that", "highlights", "discusses", "is described as", "is noted for". Wrong: "The Verge\'s coverage notes the display is improved." Right: "The new display is significantly improved, The Verge reported." Weave attribution in naturally for specific claims and all quotes ("..., according to Reuters"). techmeme.com is an aggregator, not a source — the real outlet is named inside its headline text (e.g. "(Emma Roth/The Verge)"); attribute to that outlet, never to Techmeme. If a name or term appears in the coverage without explanation, use it exactly as the coverage does or omit it — do not guess what it means.',
+      '',
       'GROUNDING RULES (critical): Every claim in s, b, and body must come from the provided coverage. Never add facts, numbers, quotes, names, or background from your own knowledge — if a detail is not in the coverage, omit it rather than fill the gap. If outlets report conflicting details, state the conflict and attribute each version. Do not speculate or editorialize beyond what the coverage supports.',
+      '',
+      'Before returning, re-read each story against its coverage and fix any claim the coverage does not directly support — especially who did what to whom, and which country or company an action applies to.',
       'Return one entry per input id.',
     ].join('\n');
 
@@ -354,6 +408,7 @@ async function main() {
       ...fresh.map(({ c }) => ({ cluster: c })),
       ...rewrites.map(({ story, cluster }) => ({ cluster, existingHeadline: story.h })),
     ];
+    await enrichWithArticles(entries);
     let copies = null;
     try {
       copies = await writeCopy(entries);
@@ -386,6 +441,7 @@ async function main() {
       story.s = copy.s;
       story.b = copy.b;
       story.body = copy.body;
+      story.l = sourceChips(cluster); // refreshed post-enrichment (resolved article URLs)
       story.writtenSources = cluster.domains.length;
       delete story.draft;
     });
