@@ -28,6 +28,32 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 47,
+      "sources": 3,
+      "writtenSources": 2,
+      "h": "Adobe camera app s new feature will critique your photos using AI",
+      "s": "Adobe adds AI-powered critique tools to its camera app, expanding generative AI features beyond editing, and notes it can work without relying on Adobe’s own Firefly models.",
+      "b": [
+        "TechCrunch reports Indigo can remove backgrounds from photos in the app",
+        "The Verge notes the update brings generative AI tools for a more natural look and states it does not rely on Firefly"
+      ],
+      "body": [
+        "TechCrunch reports that Adobe's Project Indigo now enables background removal within the camera app, expanding how users can edit photos on-device.",
+        "The Verge covers Adobe’s updated camera app with generative AI features aimed at producing a more natural look, and notes the changes do not rely on Adobe’s Firefly models."
+      ],
+      "l": [
+        "techcrunch.com",
+        "theverge.com",
+        "adp.com"
+      ],
+      "srcTitles": [
+        "Adobe camera app s new feature will critique your photos using AI",
+        "Adobe’s ‘natural look’ camera app embraces generative AI",
+        "How to Work with Your AI: What AI Is and What It Does"
+      ]
+    },
+    {
       "cat": "policy",
       "signal": 43,
       "sources": 2,
@@ -49,30 +75,6 @@
       ],
       "srcTitles": [
         "China’s AI models have Trump’s AI world at war with itself"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 43,
-      "sources": 2,
-      "writtenSources": 2,
-      "h": "Adobe camera app s new feature will critique your photos using AI",
-      "s": "Adobe adds AI-powered critique tools to its camera app, expanding generative AI features beyond editing, and notes it can work without relying on Adobe’s own Firefly models.",
-      "b": [
-        "TechCrunch reports Indigo can remove backgrounds from photos in the app",
-        "The Verge notes the update brings generative AI tools for a more natural look and states it does not rely on Firefly"
-      ],
-      "body": [
-        "TechCrunch reports that Adobe's Project Indigo now enables background removal within the camera app, expanding how users can edit photos on-device.",
-        "The Verge covers Adobe’s updated camera app with generative AI features aimed at producing a more natural look, and notes the changes do not rely on Adobe’s Firefly models."
-      ],
-      "l": [
-        "techcrunch.com",
-        "theverge.com"
-      ],
-      "srcTitles": [
-        "Adobe camera app s new feature will critique your photos using AI",
-        "Adobe’s ‘natural look’ camera app embraces generative AI"
       ]
     },
     {
@@ -120,13 +122,11 @@
       ],
       "l": [
         "techmeme.com",
-        "theguardian.com",
-        "simonwillison.net"
+        "theguardian.com"
       ],
       "srcTitles": [
         "US Treasury Secretary Scott Bessent says the Trump administration is looking into Chinese AI models over distillation claims and it could \"sanction them\" (Ashley Capoot/CNBC)",
-        "Could AI be conscious?",
-        "Who’s Afraid of Chinese Models?"
+        "Could AI be conscious?"
       ]
     },
     {
