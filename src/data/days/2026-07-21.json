@@ -2,9 +2,52 @@
   "date": "2026-07-21",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 73,
+      "sources": 36,
+      "writtenSources": 36,
+      "h": "Egypt launches national AI competency framework for teachers",
+      "s": "The move signals a push to embed AI literacy in education, potentially shaping teacher training and readiness for AI-enabled classrooms.",
+      "b": [
+        "UNESCO reports the launch of a national AI competency framework for teachers in Egypt.",
+        "The framework is described as national and teacher-focused in UNESCO’s coverage."
+      ],
+      "body": [
+        "UNESCO reports that Egypt has launched a national artificial intelligence competency framework for teachers, marking a step in educational AI literacy."
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYkVYczRSay1INWtIQVo0c2p5TXZCalFVX3c5TmZZczJxOGJVdnVKcU9FeDl0REVsMHAzNUVNeWR5dGJyTkVPRFZ1UWtrc2FpZUNTZl9NY2VGR3lxY1d0aGVEOF9OODB3SzFPb2ZZRHpLanBVUmdncnV3cWhyek94Vzd0YXY4ZFVfcGUxVnRHdmxPWXA4Zk5zR0N0MUVuSjBOdS1BYVRHdnVNUQ?oc=5"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
+        },
+        {
+          "d": "hcahealthcaretoday.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0pCRDJwU0ZRRFBsYjM2UzVLNTNFOHFkQ0s0dDZPWTNxWkJCS3lBQlE3OTlfMVc1VkFHMnh2eWNkZjR6VmhmTXdCeDY0V19LSndVc0VVVUJ3Qmp5enZ6VTJmcXVocGJrTU9kVDR1MlJVX2dqZzNwSTQ2cU9GMl9iMU1EOE9xNXdCX0VVNzZSRElFRnRoeHdBSEk3Zmh0TkJrcjA4OFQ1bzhIS3FpZ1g0Z3Bn?oc=5"
+        },
+        {
+          "d": "unesco.org",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPcXY3TDFSWGZjbU9kbUMwcUtrYjctMFNTN0JVUzZlTXhaMEc2amlndGVnN1VXR2JjUEZQakFXNEtsZkJpVld0aElIU1VmbW1FdDZYeERRV2QtVk9zS1dlYmZPYWRsZlZQX0JjejBaczFfWGIyZ2dmT1ZFTDMxWHpFLVZtak5Ta1hJUGY5R3dMX3A3NWJvLU80ZXRDbTJRSnBjUDZqczRjVGpaMlBZZWlR?oc=5"
+        },
+        {
+          "d": "+32"
+        }
+      ],
+      "srcTitles": [
+        "Prediction: This Artificial Intelligence (AI) Chip Stock Is the Biggest Winner From the $26.5 Billion SK Hynix IPO (Hint: It's Not Nvidia)",
+        "Artificial Intelligence - ABC News",
+        "HCA Healthcare’s strategic approach to scaling artificial intelligence",
+        "National artificial intelligence competency framework for teachers launched in Egypt"
+      ],
+      "ts": "2026-07-21T19:12:09.757Z"
+    },
+    {
       "cat": "products",
-      "signal": 79,
-      "sources": 5,
+      "signal": 72,
+      "sources": 3,
       "writtenSources": 5,
       "h": "Google unveils Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber",
       "s": "Lower token costs and faster, more reliable agentic workflows could meaningfully cut operating costs for AI deployments and enable larger-scale automation.",
@@ -33,13 +76,6 @@
         {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260721/p30#a260721p30"
-        },
-        {
-          "d": "thehackernews.com",
-          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbDhjS1JHNWh2S0RTdWJOTF9kRFV1Uy1ELXNhcy1hanZ3RElqdXliWmI5V1kzenlaMk5HdW1fbDZOWGdWQUF4WUFieGEtVnlZeG05MjZ5ZFlfaFBqbHJJWUk2Z0o5UUtiNE9zSzNUcHNVejI0cWR5WlozOTFsdGhSUlBR?oc=5"
-        },
-        {
-          "d": "+1"
         }
       ],
       "srcTitles": [
@@ -99,39 +135,6 @@
         "Auto Research for Materials: Auditable AI-Scientist Workflows with Held-Out Transfer"
       ],
       "ts": "2026-07-21T19:12:09.758Z"
-    },
-    {
-      "cat": "policy",
-      "signal": 59,
-      "sources": 2,
-      "ts": "2026-07-21T15:45:58.000Z",
-      "writtenSources": 3,
-      "h": "University of Tennessee sues Anthropic over neural network technology",
-      "s": "The lawsuit marks a milestone in AI IP disputes and could set precedent for how neural network patents are protected as AI systems scale.",
-      "b": [
-        "The University of Tennessee Research Foundation filed suit against Anthropic in Delaware federal court.",
-        "The case centers on alleged neural network patent infringement by Anthropic, and is described as the first such case against Anthropic."
-      ],
-      "body": [
-        "According to Reuters, the University of Tennessee Research Foundation has sued Anthropic in Delaware federal court, accusing the AI company of infringing neural network patents. The filing signifies the first patent-infringement case brought against Anthropic, underscoring the growing attention around IP protection in advanced AI technologies.",
-        "The suit places Anthropic at the center of a legal battle over neural network methodologies and proprietary training approaches, a risk area for AI developers as versions scale and capabilities expand.",
-        "While the specific patents and claims are not detailed in the provided coverage, the case highlights the broader legal risks associated with IP in AI and could influence how other researchers and firms approach patent strategy and licensing in this space.",
-        "The development arrives amid a crowded AI patent landscape as firms seek to protect innovations while navigating rapid advancement in neural network architectures and training techniques."
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260721/p32#a260721p32"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnlDeHFoNDBpUEtsN3NlR2h3OHY0cHhqUXo5bWRIdmtJT0JyajQwalEwX2I3MnpxUGdMZnJkOVFydy1BSHpzdm5hYmRqbG0wd0pLZXJDVl9sbE5FT0lhTHpSRGtSbDBmR3lhVU9mZDZtMFQzM1czRGt1S0VKMVhlMU8wQ2JOQlNMUUgwbUt1bU5LZzFUMzhWYTBLUGlZQ0F6d1ByNXJtNDUyWmZnTUxvUUw2cGR4U1BXM05B?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "University of Tennessee Research Foundation sues Anthropic in Delaware for allegedly infringing neural network patents, the first such case against Anthropic (Blake Brittain/Reuters)",
-        "University of Tennessee sues Anthropic over neural network technology"
-      ]
     },
     {
       "cat": "funding",
@@ -205,48 +208,36 @@
     },
     {
       "cat": "policy",
-      "signal": 50,
-      "sources": 33,
-      "writtenSources": 31,
-      "h": "Egypt launches national AI competency framework for teachers",
-      "s": "The move signals a formal step toward embedding AI literacy in education, with potential long-term effects on teacher training and classroom curricula in Egypt.",
+      "signal": 55,
+      "sources": 2,
+      "ts": "2026-07-21T15:45:58.000Z",
+      "writtenSources": 3,
+      "h": "University of Tennessee sues Anthropic over neural network technology",
+      "s": "The lawsuit marks a milestone in AI IP disputes and could set precedent for how neural network patents are protected as AI systems scale.",
       "b": [
-        "Egypt launches a national AI competency framework for teachers (UNESCO)",
-        "The story is sourced from UNESCO’s reporting on AI education initiatives in Egypt"
+        "The University of Tennessee Research Foundation filed suit against Anthropic in Delaware federal court.",
+        "The case centers on alleged neural network patent infringement by Anthropic, and is described as the first such case against Anthropic."
       ],
       "body": [
-        "UNESCO published coverage noting that Egypt has launched a national AI competency framework for teachers. The release highlights the country’s move as part of its AI education initiatives. ",
-        "The UNESCO piece positions the framework within broader efforts to advance AI literacy and education policy, signaling government priority in equipping teachers with AI-related competencies. ",
-        "The coverage does not provide a date or implementation details beyond the launch, nor does it specify how the framework will be rolled out or funded."
+        "According to Reuters, the University of Tennessee Research Foundation has sued Anthropic in Delaware federal court, accusing the AI company of infringing neural network patents. The filing signifies the first patent-infringement case brought against Anthropic, underscoring the growing attention around IP protection in advanced AI technologies.",
+        "The suit places Anthropic at the center of a legal battle over neural network methodologies and proprietary training approaches, a risk area for AI developers as versions scale and capabilities expand.",
+        "While the specific patents and claims are not detailed in the provided coverage, the case highlights the broader legal risks associated with IP in AI and could influence how other researchers and firms approach patent strategy and licensing in this space.",
+        "The development arrives amid a crowded AI patent landscape as firms seek to protect innovations while navigating rapid advancement in neural network architectures and training techniques."
       ],
       "l": [
         {
-          "d": "ourworldindata.org",
-          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTdJQ0Ywb3FHcmNHRHFScm9RdzlIcWNRa1NZV0ZJVW0xTVFHSFdwTFk3VEMyTDBuMTlDbEFMTWZ2WlpPTGZXakx4SnJUQzgySGlmZVVZemRXUXpnYV9UWjhQenlBazl0X21pbEtQSzdRUFlRUFVfX3RqMk1UdzhOd1FkN19OTUtYZE5fc2tvbG01Uno1?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260721/p32#a260721p32"
         },
         {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
-        },
-        {
-          "d": "hcahealthcaretoday.com",
-          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0pCRDJwU0ZRRFBsYjM2UzVLNTNFOHFkQ0s0dDZPWTNxWkJCS3lBQlE3OTlfMVc1VkFHMnh2eWNkZjR6VmhmTXdCeDY0V19LSndVc0VVVUJ3Qmp5enZ6VTJmcXVocGJrTU9kVDR1MlJVX2dqZzNwSTQ2cU9GMl9iMU1EOE9xNXdCX0VVNzZSRElFRnRoeHdBSEk3Zmh0TkJrcjA4OFQ1bzhIS3FpZ1g0Z3Bn?oc=5"
-        },
-        {
-          "d": "unesco.org",
-          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPcXY3TDFSWGZjbU9kbUMwcUtrYjctMFNTN0JVUzZlTXhaMEc2amlndGVnN1VXR2JjUEZQakFXNEtsZkJpVld0aElIU1VmbW1FdDZYeERRV2QtVk9zS1dlYmZPYWRsZlZQX0JjejBaczFfWGIyZ2dmT1ZFTDMxWHpFLVZtak5Ta1hJUGY5R3dMX3A3NWJvLU80ZXRDbTJRSnBjUDZqczRjVGpaMlBZZWlR?oc=5"
-        },
-        {
-          "d": "+29"
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnlDeHFoNDBpUEtsN3NlR2h3OHY0cHhqUXo5bWRIdmtJT0JyajQwalEwX2I3MnpxUGdMZnJkOVFydy1BSHpzdm5hYmRqbG0wd0pLZXJDVl9sbE5FT0lhTHpSRGtSbDBmR3lhVU9mZDZtMFQzM1czRGt1S0VKMVhlMU8wQ2JOQlNMUUgwbUt1bU5LZzFUMzhWYTBLUGlZQ0F6d1ByNXJtNDUyWmZnTUxvUUw2cGR4U1BXM05B?oc=5"
         }
       ],
       "srcTitles": [
-        "How much energy do data centers and artificial intelligence use?",
-        "Artificial Intelligence - ABC News",
-        "HCA Healthcare’s strategic approach to scaling artificial intelligence",
-        "National artificial intelligence competency framework for teachers launched in Egypt"
-      ],
-      "ts": "2026-07-21T19:12:09.757Z"
+        "University of Tennessee Research Foundation sues Anthropic in Delaware for allegedly infringing neural network patents, the first such case against Anthropic (Blake Brittain/Reuters)",
+        "University of Tennessee sues Anthropic over neural network technology"
+      ]
     },
     {
       "cat": "products",
@@ -312,6 +303,61 @@
     },
     {
       "cat": "policy",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-07-21T07:00:00.000Z",
+      "writtenSources": 1,
+      "h": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+      "s": "Joint findings from the incident underscore advanced cyber capabilities observed during model evaluation and offer lessons for defenders, signaling ongoing security risks in AI testing.",
+      "b": [
+        "OpenAI and Hugging Face published joint early findings on a security incident during AI model evaluation.",
+        "The findings reference advanced cyber capabilities observed and outline defender-focused lessons.",
+        "The release frames the information as early findings from the joint investigation."
+      ],
+      "body": [
+        "OpenAI and Hugging Face have published joint early findings on a security incident that occurred during the evaluation of AI models. The companies describe the disclosure as an initial look at what happened and what was learned so far.",
+        "The release notes that the incident involved advanced cyber capabilities and emphasizes lessons for defenders in AI security, highlighting the need for heightened protections during model evaluation.",
+        "The partners present the information as an early findings update, without disclosing deeper technical specifics in this initial release."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI and Hugging Face partner to address security incident during model evaluation"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-07-21T00:00:00.000Z",
+      "writtenSources": 1,
+      "h": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+      "s": "Their governance appointments bring seasoned leadership from finance and tech to OpenAI’s philanthropic and corporate governance, potentially shaping oversight and strategy.",
+      "b": [
+        "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC.",
+        "The moves bring global leadership in finance, technology, and governance.",
+        "The appointments expand OpenAI’s governance across its Foundation and Group PBC entities."
+      ],
+      "body": [
+        "OpenAI announced that venture capitalist David Vélez and Robin Vince have joined the boards of the OpenAI Foundation and OpenAI Group PBC.",
+        "The company described the appointments as bringing global leadership in finance, technology, and governance, enhancing oversight across OpenAI’s philanthropic and corporate governance structures."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/david-velez-robin-vince-join-openai-boards"
+        }
+      ],
+      "srcTitles": [
+        "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC"
+      ]
+    },
+    {
+      "cat": "policy",
       "signal": 40,
       "sources": 3,
       "writtenSources": 2,
@@ -349,7 +395,44 @@
     },
     {
       "cat": "products",
-      "signal": 39,
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-07-21T17:14:06.000Z",
+      "writtenSources": 2,
+      "h": "Buzz unites team chat, AI agents, and Git hosting in a self-hosted workspace",
+      "s": "Buzz could reshape enterprise collaboration by combining chat, AI agents, and code workflows in an open-source, self-hosted platform that aims to reduce dependence on Slack and GitHub.",
+      "b": [
+        "Buzz is built around a self-hostable Nostr relay with cryptographically signed events for all messages and actions.",
+        "Buzz combines channels, threads, direct messages, shared canvases, and a built-in software forge with Git workflow support.",
+        "Desktop builds are available for macOS, Windows, and Linux; latest release is 0.4.21 (July 21) and the project is Apache 2.0 licensed.",
+        "Buzz is described as decentralized and self-sovereign, but Block’s architecture notes that reads/writes pass through a single relay rather than full peer-to-peer replication."
+      ],
+      "body": [
+        "TechCrunch reports that Jack Dorsey announced Buzz, a new app from Block, on July 21, 2026. Buzz is described as a group chat platform for teams and their AI agents, designed to reduce dependence on Slack and GitHub.",
+        "Dorsey characterized Buzz as model-agnostic, decentralized, self-sovereign, and open source, and Block’s own documentation shows Buzz is built around a self-hostable Nostr relay where messages and actions are cryptographically signed and tied to a shared identity system.",
+        "According to coverage, Buzz enables teams to manage chats, code hosting, and workflows in one workspace, with agents that can search discussions, open repositories, submit patches, review code, and run workflows. The project includes an agent-oriented CLI and adapters for Codex and Claude Code, keeping the model choice separate from the workspace.",
+        "Buzz offers a built-in software forge for Git with a standard Git workflow; a feature set includes channels, threads, direct messages, shared canvases, media, and an audit log. Desktop clients are available for macOS, Windows, and Linux, and the repository is licensed under Apache 2.0. The latest desktop release, version 0.4.21, shipped on July 21 and includes updates to authentication and onboarding.",
+        "TechCrunch notes that Buzz is still unfinished, with mobile clients in development and ongoing work on evaluation gates and execution paths. Block positions Buzz as a broad platform intended to replace portions of Slack, GitHub, and related tools by unifying those surfaces under one event system.",
+        "RuntimeWire’s coverage adds that Buzz emphasizes self-hosting, permitting organizations to run their own relay and retain control over data and identity, while keeping centralized access points for governance and security."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/"
+        },
+        {
+          "d": "runtimewire.com",
+          "u": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git"
+        }
+      ],
+      "srcTitles": [
+        "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+        "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 35,
       "sources": 2,
       "writtenSources": 2,
       "h": "Halliday’s latest smart glasses feature a much-improved display",
@@ -384,7 +467,7 @@
     },
     {
       "cat": "policy",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-07-21T11:08:56.000Z",
       "writtenSources": 2,
@@ -420,7 +503,7 @@
     },
     {
       "cat": "models",
-      "signal": 35,
+      "signal": 31,
       "sources": 2,
       "writtenSources": 2,
       "h": "AI s most important protocol is getting a little bit easier to use",
@@ -455,7 +538,7 @@
     },
     {
       "cat": "funding",
-      "signal": 35,
+      "signal": 31,
       "sources": 2,
       "writtenSources": 2,
       "h": "SpaceX enters Nasdaq-100 index, prompting AI investment questions",
@@ -498,22 +581,22 @@
       ],
       "l": [
         {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5"
+        },
+        {
           "d": "ft.com",
           "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVURTZEhNNV8xRTlJSmtQbWZjNFRpc3dSanpRM01BZnlwT2lhbjlGMUQwTnROSWxJcDZLZ0NmSUh0dXd0aW82cWVtZ0hKMzY2LTN3dTBfR2JOVEJlNFYxejVtMzBzQmsyYlRGUUJmODM0WFJZNG1PVkZ5UEtzc2g3QTcyUlA?oc=5"
         },
         {
           "d": "tomshardware.com",
           "u": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOdUw4cW56a1pyMmo2SjZmZkdUZmxIeGJiT3lDVTFYUzVWczV0dTZGdTlNcTlTVFlhcjdpVW85dVpXQ0ZpT0FBQTNvcDRpRkJrNFNfMjdHa05wLWVkaHFKcXN1d1VVYU82SXBONXZCclR6VHEyQXQzb1BGVmx4Ylp0VGVjOE5kdGVBSTBXOUdlRXNBcGk3YVNicHNBNEVZakRtSDlmdHB6dnJNWHh6aXA5VWNMZ0RFak55c3lyYjFxTzBFRlc1ellkaXBBSHltUVU0OFdsNWtLQ2VCbldpekhPZlQ3SDdKSW5zN3U3YURwa0pkazVNQXdqazlDNS0zdWhFM0htaVRQM05nMlU0WEkzNXhzOEJ6RklKMmFwMTJpeWUwYXJrWEVkTjFDQ0dNeDFYZXJhbExlU3hGZnZYUmZHWGNOQ2N4S1MzV0NWTWRYOWR5ajVReFZpWldaX3ZxajlVd2xoN2ZGNG1GRGVLWlRvTjExVFMzRjZLQWNrREoyb29wOVk?oc=5"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5"
         }
       ],
       "srcTitles": [
+        "China considers tighter export controls on AI models and chips, FT reports",
         "China weighs tighter export controls on AI models and chips",
-        "China is considering export controls on AI technologies, including banning local companies from using TSMC, report claims — restrictions would also advanced AI models, training data, and overseas acquisitions",
-        "China considers tighter export controls on AI models and chips, FT reports"
+        "China is considering export controls on AI technologies, including banning local companies from using TSMC, report claims — restrictions would also cover advanced AI models, training data, and overseas acquisitions"
       ],
       "ts": "2026-07-21T19:12:09.758Z"
     },
