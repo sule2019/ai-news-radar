@@ -27,16 +27,23 @@ const MAX_ITEM_AGE_HOURS = 36;
 /* ---------------- helpers ---------------- */
 
 const STOPWORDS = new Set(
-  'a an the of for to in on at with and or as is are be its it this that new says will after amid over from by how why what more less first best big'.split(' ')
+  'a an the of for to in on at with and or as is are be its it this that new says say will after amid over from by how why what more less first best big'.split(' ')
 );
+
+// Crude plural stemming so "sanctions" matches "sanction", "models" matches "model"
+function stem(w) {
+  return w.length > 3 && w.endsWith('s') && !w.endsWith('ss') ? w.slice(0, -1) : w;
+}
 
 function tokens(title) {
   return new Set(
     title
       .toLowerCase()
       .replace(/ - [^-]+$/, '') // "headline - Publisher" (Google News)
-      .replace(/[^a-z0-9$€£% ]+/g, ' ')
+      .replace(/[’']/g, '')
+      .replace(/[^a-z0-9.$€£% ]+/g, ' ') // keep dots so "3.6" survives as a token
       .split(/\s+/)
+      .map((w) => stem(w.replace(/^\.+|\.+$/g, '')))
       .filter((w) => w.length > 1 && !STOPWORDS.has(w))
   );
 }
@@ -142,22 +149,45 @@ function clusterItems(items) {
   for (const item of sorted) {
     const t = tokens(item.title);
     if (t.size < 2) continue;
+    item.titleTokens = t;
     let best = null;
-    let bestSim = 0;
+    let bestScore = 0;
     for (const c of clusters) {
-      const sim = similarity(t, c.tokens);
-      if (sim > bestSim) {
-        bestSim = sim;
-        best = c;
+      // Title-to-title comparison only — never against an accumulated token
+      // union, which grows into a trap that swallows unrelated items
+      for (const ci of c.items.slice(0, 5)) {
+        const p = titlePair(t, ci.titleTokens);
+        if (p.match && p.score > bestScore) {
+          bestScore = p.score;
+          best = c;
+        }
       }
     }
-    if (best && bestSim >= 0.5) {
+    if (best) {
       best.items.push(item);
-      for (const tok of t) best.tokens.add(tok);
     } else {
-      clusters.push({ items: [item], tokens: new Set(t) });
+      clusters.push({ items: [item] });
     }
   }
+
+  // Second pass: merge clusters that are the same story worded differently
+  // ("US weighs sanctions…" vs "US threatens sanctions…"). Compares item
+  // titles pairwise, so one cluster's accumulated tokens can't mask a match.
+  let merged = true;
+  while (merged) {
+    merged = false;
+    outer: for (let i = 0; i < clusters.length; i++) {
+      for (let j = i + 1; j < clusters.length; j++) {
+        if (clusterMatch(clusters[i], clusters[j])) {
+          clusters[i].items.push(...clusters[j].items);
+          clusters.splice(j, 1);
+          merged = true;
+          break outer;
+        }
+      }
+    }
+  }
+
   for (const c of clusters) {
     const domains = new Map();
     for (const it of c.items) {
@@ -165,10 +195,57 @@ function clusterItems(items) {
     }
     c.domains = [...domains.keys()];
     c.rawWeight = [...domains.values()].reduce((a, b) => a + b, 0);
-    c.signal = Math.max(15, Math.min(98, Math.round(34 * Math.log10(1 + 4.5 * c.rawWeight))));
+    // Signal: log curve over effective source count. Strong sources (weight ≥2:
+    // labs, major press) count fully; weight-1 long-tail outlets count as √n so
+    // syndication spam can't inflate a story. Primary sources add a bonus.
+    // Roughly: 2 strong ≈ 44, 3 ≈ 57, 4 ≈ 68, 5+ → hot (70+).
+    const strong = [...domains.values()].filter((w) => w >= 2);
+    const weak = c.domains.length - strong.length;
+    const effN = strong.length + Math.sqrt(weak);
+    const bonus = 2 * strong.reduce((a, w) => a + (w - 1), 0);
+    c.signal = Math.max(
+      15,
+      Math.min(98, Math.round(20 + 66 * Math.log10(Math.max(1, effN)) + bonus))
+    );
     c.lead = c.items[0];
   }
   return clusters.sort((a, b) => b.signal - a.signal);
+}
+
+// Two titles describe the same story if they share ≥50% of the shorter
+// title's meaningful words AND at least ~4 words absolutely — the floor
+// stops generic-word chains ("chinese"+"ai"+"model") from merging
+// different stories.
+function titlePair(a, b) {
+  if (!a?.size || !b?.size) return { score: 0, match: false };
+  let inter = 0;
+  for (const t of a) if (b.has(t)) inter++;
+  const min = Math.min(a.size, b.size);
+  const score = inter / min;
+  const match = score >= 0.5 && inter >= Math.min(4, min - 1);
+  return { score, match };
+}
+
+function clusterMatch(a, b) {
+  for (const ia of a.items.slice(0, 4)) {
+    for (const ib of b.items.slice(0, 4)) {
+      if (titlePair(ia.titleTokens, ib.titleTokens).match) return true;
+    }
+  }
+  return false;
+}
+
+// Best matching similarity between a cluster and a published story (0 = no match)
+function storySim(cluster, story) {
+  const titles = [story.h, ...(story.srcTitles ?? [])].map(tokens);
+  let best = 0;
+  for (const it of cluster.items.slice(0, 4)) {
+    for (const t of titles) {
+      const p = titlePair(it.titleTokens, t);
+      if (p.match) best = Math.max(best, p.score);
+    }
+  }
+  return best;
 }
 
 function keepCluster(c) {
@@ -366,24 +443,29 @@ async function main() {
   // meaningfully (3+ new outlets) — and the headline never changes, because
   // the story's URL is derived from it.
   const usedClusters = new Set();
+  const matched = new Set();
   const rewrites = [];
+  // Stories iterate highest-signal first (file is kept sorted), so when two
+  // published stories are really the same story, the stronger one claims the
+  // cluster and the weaker is removed as a duplicate below.
   for (const story of existing.stories) {
-    const storyTokens = tokens((story.srcTitles ?? [story.h]).join(' '));
     let best = null;
     let bestSim = 0;
     clusters.forEach((c, ci) => {
       if (usedClusters.has(ci)) return;
-      const sim = similarity(tokens(c.lead.title), storyTokens);
+      const sim = storySim(c, story);
       if (sim > bestSim) {
         bestSim = sim;
         best = ci;
       }
     });
-    if (best != null && bestSim >= 0.5) {
+    if (best != null && bestSim > 0) {
       usedClusters.add(best);
+      matched.add(story);
       const c = clusters[best];
-      story.signal = Math.max(story.signal, c.signal);
-      story.sources = Math.max(story.sources, c.domains.length);
+      // Signal always reflects the latest measured coverage (not a stale max)
+      story.signal = c.signal;
+      story.sources = c.domains.length;
       story.l = sourceChips(c);
       story.srcTitles = c.items.slice(0, 4).map((it) => it.title);
       // Re-write copy when coverage grew meaningfully, or when the story
@@ -393,6 +475,22 @@ async function main() {
       }
     }
   }
+
+  // Remove duplicate published stories: an unmatched story that still
+  // resembles an already-claimed cluster is the same story under different
+  // wording (published before the matcher improved, or from a split cluster).
+  const dupes = [];
+  existing.stories = existing.stories.filter((story) => {
+    if (matched.has(story)) return true;
+    for (const ci of usedClusters) {
+      if (storySim(clusters[ci], story) > 0) {
+        dupes.push(story.h);
+        return false;
+      }
+    }
+    return true;
+  });
+  if (dupes.length > 0) console.log(`Removed ${dupes.length} duplicate stories:\n  ${dupes.join('\n  ')}`);
 
   // New clusters → new stories (no cap: the quality gate in keepCluster
   // does the curation; the day's length reflects the news cycle)
@@ -447,7 +545,13 @@ async function main() {
     console.log('No new stories this run');
   }
 
-  existing.stories.sort((a, b) => b.signal - a.signal);
+  // Rank: signal, then breadth of coverage, then freshness
+  existing.stories.sort(
+    (a, b) =>
+      b.signal - a.signal ||
+      b.sources - a.sources ||
+      (Date.parse(b.ts ?? 0) || 0) - (Date.parse(a.ts ?? 0) || 0)
+  );
 
   const out = JSON.stringify(existing, null, 2) + '\n';
   if (DRY_RUN) {
