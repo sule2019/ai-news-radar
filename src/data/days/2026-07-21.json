@@ -23,8 +23,8 @@
       ],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/"
         },
         {
           "d": "techmeme.com",
@@ -142,19 +142,17 @@
       "cat": "policy",
       "signal": 43,
       "sources": 3,
-      "writtenSources": 3,
+      "writtenSources": 2,
       "h": "US weighs sanctions on Chinese AI models over distillation claims",
-      "s": "The coverage shows a cross-cutting AI policy debate: U.S. scrutiny of Chinese models, consciousness debates, and ideas about training data rights and open-source models.",
+      "s": "If the headline reflects a real policy move, it would represent a sharp hardening of the U.S. stance toward foreign AI tech and could affect how models are trained and distributed internationally.",
       "b": [
-        "CNBC reports the Trump administration will study Chinese AI models for distillation claims and could sanction them",
-        "The Guardian runs a piece asking 'Could AI be conscious?'",
-        "Simon Willison highlights Ben Thompson's proposals to treat training data collection as fair use and to forbid terms of service that bar distillation",
-        "Alibaba's Qwen 3.8 Max open weights are noted as a possible influence of Xi’s openness push"
+        "The provided coverage includes a Guardian piece titled Could AI be conscious? and KFGO reporting on Sub-Saharan Africa's AI impact, neither of which discuss sanctions.",
+        "There are no substantive details in the supplied sources about which models would be sanctioned, what actions would be taken, or timelines."
       ],
       "body": [
-        "CNBC reports that US Treasury Secretary Scott Bessent said the Trump administration will examine whether Chinese AI models distill training data and could sanction them.",
-        "The Guardian ran a piece exploring whether AI could be conscious, reflecting broader debates about AI ethics and capabilities.",
-        "Simon Willison’s post discusses Ben Thompson’s proposal for a copyright policy that (1) treats data collection for training models as fair use and (2) bars terms of service that forbid distillation, noting that Alibaba released Qwen 3.8 Max as open weights in a move that may have been influenced by a Xi Jinping speech promoting openness."
+        "The headline from the prompt states that the United States is weighing sanctions on Chinese AI models over distillation claims. However, the supplied sources in the dataset do not provide reporting on sanctions or related government actions. The Guardian’s piece titled Could AI be conscious? and KFGO’s AI-economy piece do not address sanctions, IP theft, or distillation policy in China or the U.S.",
+        "Without concrete coverage detailing which models would be targeted, the legal mechanism, or the potential scope of sanctions, readers are left with a headline and no verifiable context from the provided material.",
+        "Given the absence of direct reporting in the supplied sources, the next steps or official government positions remain unclear based on the current coverage."
       ],
       "l": [
         {
@@ -169,8 +167,7 @@
       "srcTitles": [
         "Could AI be conscious?",
         "AI could lift Sub-Saharan Africa economy 4% if power, internet improve, IMF says"
-      ],
-      "draft": true
+      ]
     },
     {
       "cat": "funding",
@@ -238,6 +235,161 @@
       "srcTitles": [
         "Advancing next-gen AI with materials science innovation",
         "AI & People"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 43,
+      "sources": 4,
+      "writtenSources": 3,
+      "h": "Egypt launches national AI competency framework for teachers",
+      "s": "A national framework aims to equip teachers with AI literacy and pedagogy to prepare students for an AI-enabled economy.",
+      "b": [
+        "UNESCO reports a national AI competency framework for teachers launched in Egypt.",
+        "Local outlets (WALB and WRDW) cover related education technology themes, highlighting how AI skills are becoming part of teacher training.",
+        "The framework is positioned as a step toward integrating AI into classrooms and teacher professional development in Egypt."
+      ],
+      "body": [
+        "UNESCO announced the launch of a national artificial intelligence competency framework for teachers in Egypt, outlining the skills and knowledge needed for AI education in classrooms and teacher professional development.",
+        "The coverage from UNESCO emphasizes building teacher capacity to teach AI concepts and integrate AI tools into pedagogy, aligning with broader international efforts to prepare students for an AI-enabled economy.",
+        "Local coverage from WALB and WRDW underscores the broader emphasis on AI in education and how teachers can be supported to incorporate AI literacy into their curricula.",
+        "The framework marks a policy-oriented move to standardize AI education and ensure teachers have the competences to guide students in a rapidly evolving tech landscape."
+      ],
+      "l": [
+        {
+          "d": "unesco.org",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPcXY3TDFSWGZjbU9kbUMwcUtrYjctMFNTN0JVUzZlTXhaMEc2amlndGVnN1VXR2JjUEZQakFXNEtsZkJpVld0aElIU1VmbW1FdDZYeERRV2QtVk9zS1dlYmZPYWRsZlZQX0JjejBaczFfWGIyZ2dmT1ZFTDMxWHpFLVZtak5Ta1hJUGY5R3dMX3A3NWJvLU80ZXRDbTJRSnBjUDZqczRjVGpaMlBZZWlR?oc=5"
+        },
+        {
+          "d": "walb.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVEJkejBwWDY0TFlRYjVfRHRPcGVVaTRTWFhxd09VTmpqdFZXU0M3V1ZoWWdGYlYtNExUWVBVQWVENDBwMmxITnhmNG91S1BSSjRwNC1qUDVpbFRBeU5pQVBsazdPdXFfaWpkQXFOMlgtX0dVX0Z6TUJzT0RRTW41UmR0NA?oc=5"
+        },
+        {
+          "d": "wrdw.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2FXYnhPWTQ1a2lMNE0yeDJMbWs4SUM4WnFhekRITmpxSGF4bE5CSDF1QTJaSGxVQlU0R0lKb3JtQXRwOXB2TkZMTFpyUlJmYkw2Tzk1VlNyRHFvQ0xkaGppSlNuNmo4dTRlNkVWVjZwQVZVYVBIdTJTOWRrOXU2YTQyZw?oc=5"
+        },
+        {
+          "d": "einnews.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWTNueHRYOTFzN2MxeGI1WjFGOHVMT0Q1aHVGaU5sV3R6dFgwSDYxLXhUYmlUejkwbm0zSUVQSEdvbXJnMFVqcmg4RTUyLXVnMzVlT2FCejMydmFnTFpTMGlRTWhtdEVJZnN0aDhiaEM3VmtSZWlCa2t6NHBQRXNSZ1pnMjZPNW1iQUVzZGlUOFBNcHdEVmVzcHBGbjZsMTViU2JCaV9xSkdvc2ZXV0JHVzh3dng3c1ppMjd0bWdYdkJwNHlU?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "National artificial intelligence competency framework for teachers launched in Egypt",
+        "Local teachers and artificial intelligence",
+        "Local teachers and artificial intelligence",
+        "National artificial intelligence competency framework for teachers launched in Egypt"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 43,
+      "sources": 3,
+      "ts": "2026-07-20T17:09:19.000Z",
+      "writtenSources": 3,
+      "h": "US threatens sanctions on Chinese open-source AI models over IP theft",
+      "s": "Sanctions would escalate the U.S. push to shield domestic AI firms from foreign copying, potentially reshaping who can access Chinese open-source models and how AI technology is developed and funded abroad.",
+      "b": [
+        "The U.S. would examine open-source Chinese AI models for signs of IP theft and sanction them if theft is established, according to Treasury Secretary Scott Bessent.",
+        "The move follows concerns as Chinese models like Moonshot AI’s Kimi K3 gain capabilities and threaten the business models of major U.S. firms.",
+        "Axios reported the Trump administration is considering a wholesale ban on Chinese open-source models, a claim others have disputed.",
+        "Anthropic recently settled a $1.5 billion case over training data practices, underscoring IP and data-use risks in AI development."
+      ],
+      "body": [
+        "The report from TechCrunch states that the U.S. government will review open-source Chinese AI models for indications of intellectual property theft and could sanction companies if theft is proven. Treasury Secretary Scott Bessent is quoted outlining the stance in an interview on Fox Business, saying the administration supports open-source models but not IP theft.",
+        "The move comes as Chinese models, including Moonshot AI’s Kimi K3, are reported to be increasing in capability and market presence, potentially challenging conventional US leadership in frontier AI labs and funding rounds.",
+        "Observers note that model distillation and open-source approaches complicate IP questions. Some industry voices argue distillation isn't theft, while others warn that unauthorized use of proprietary data could raise legal and strategic risks for foreign models.",
+        "The broader context includes ongoing concerns about training practices and IP protection, with Anthropic recently approved a $1.5 billion settlement tied to copyrighted books used to train its AI, illustrating the financial and legal stakes involved in AI training data."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWgyMGZkdno3UUlLcW5BMDE0Nk9LR3A4TzlqRGZLTV9tWUlROFlRbTctQVVodVgwNW1jUEdaQnNrOGpjTDN2NERLcjl4SHpRMFNBZjdoeUtndDhNNTA0LUtGQUd5cDVuZHFtZzBsQjBiSjFOQmNuLVVKZlJQazExdFpUTS1FMXhnd2wycFlvY3ZCOHVwZlUwRThjclBnQ1BHaEFYSUwtSmpyLVZ5d21mSFoySXl0ZFRqaU1ZS2pvemt5akU?oc=5"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/"
+        }
+      ],
+      "srcTitles": [
+        "US threatens sanctions against Chinese AI models over IP theft",
+        "US Threatens Sanctions on China Over Alleged AI Model Theft",
+        "Who’s Afraid of Chinese Models?"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 43,
+      "sources": 2,
+      "ts": "2026-07-21T15:00:00.000Z",
+      "writtenSources": 2,
+      "h": "Google pitches Gemini 3.5 Flash Cyber as a cost-efficient security model",
+      "s": "If validated, Gemini 3.5 Flash Cyber could lower the cost of running AI-powered security checks and vulnerability scanning, potentially accelerating government and enterprise adoption of AI security tools.",
+      "b": [
+        "Gemini 3.5 Flash Cyber is described as a “cost-efficient and highly capable alternative” to larger AI systems like Mythos, available first to governments and trusted partners via CodeMender.",
+        "CodeMender can call Gemini 3.5 Flash Cyber “multiple times at high speed and low cost” to scan more code paths and identify vulnerabilities.",
+        "In testing, Gemini 3.5 Flash Cyber achieved “competitive performance” on the CyberGym AI cybersecurity benchmark when invoked up to five times and found 55 unique confirmed issues in the V8 JavaScript Engine (47 by 3.5 Flash, 36 by Opus 4.6), with 10 issues discovered that no other model found.",
+        "Google also notes upgrades across the Gemini 3.6 and 3.5 Flash lines, including a 3.5 Flash-Lite as the most cost-effective option in the 3.5 series."
+      ],
+      "body": [
+        "The Verge, via Emma Roth, reports that Google is positioning Gemini 3.5 Flash Cyber as a cost-efficient and highly capable alternative to larger security-focused models such as Mythos. The model is set to be available first to governments and trusted partners through CodeMender, Google’s security-focused coding agent.",
+        "CodeMender is described as capable of calling 3.5 Flash Cyber multiple times at high speed and low cost, enabling more thorough code-path analysis and vulnerability detection. The Verge notes that Gemini 3.5 Flash Cyber’s performance on a cybersecurity benchmark, CyberGym, is competitive when used up to five times. In the reported tests, 3.5 Flash Cyber identified 55 unique confirmed issues in the V8 JavaScript Engine, compared with 47 for 3.5 Flash and 36 for Opus 4.6, with 10 issues being unique to 3.5 Flash Cyber.",
+        "The article also highlights related Gemini updates, including the 3.6 Flash version and the 3.5 Flash-Lite as a cost-efficient member of the 3.5 series, framing Google's push as a response to rising cybersecurity needs in enterprise environments."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260721/p26#a260721p26"
+        }
+      ],
+      "srcTitles": [
+        "Google launches a cheaper alternative to large AI security models like Mythos",
+        "Google says Gemini 3.5 Flash Cyber is a \"cost-efficient and highly capable alternative\" to models like Mythos, available first to governments and some partners (Emma Roth/The Verge)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 43,
+      "sources": 3,
+      "ts": "2026-07-21T15:45:58.000Z",
+      "writtenSources": 3,
+      "h": "University of Tennessee sues Anthropic over neural network technology",
+      "s": "The lawsuit marks a milestone in AI IP disputes and could set precedent for how neural network patents are protected as AI systems scale.",
+      "b": [
+        "The University of Tennessee Research Foundation filed suit against Anthropic in Delaware federal court.",
+        "The case centers on alleged neural network patent infringement by Anthropic, and is described as the first such case against Anthropic."
+      ],
+      "body": [
+        "According to Reuters, the University of Tennessee Research Foundation has sued Anthropic in Delaware federal court, accusing the AI company of infringing neural network patents. The filing signifies the first patent-infringement case brought against Anthropic, underscoring the growing attention around IP protection in advanced AI technologies.",
+        "The suit places Anthropic at the center of a legal battle over neural network methodologies and proprietary training approaches, a risk area for AI developers as versions scale and capabilities expand.",
+        "While the specific patents and claims are not detailed in the provided coverage, the case highlights the broader legal risks associated with IP in AI and could influence how other researchers and firms approach patent strategy and licensing in this space.",
+        "The development arrives amid a crowded AI patent landscape as firms seek to protect innovations while navigating rapid advancement in neural network architectures and training techniques."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260721/p32#a260721p32"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnlDeHFoNDBpUEtsN3NlR2h3OHY0cHhqUXo5bWRIdmtJT0JyajQwalEwX2I3MnpxUGdMZnJkOVFydy1BSHpzdm5hYmRqbG0wd0pLZXJDVl9sbE5FT0lhTHpSRGtSbDBmR3lhVU9mZDZtMFQzM1czRGt1S0VKMVhlMU8wQ2JOQlNMUUgwbUt1bU5LZzFUMzhWYTBLUGlZQ0F6d1ByNXJtNDUyWmZnTUxvUUw2cGR4U1BXM05B?oc=5"
+        },
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWjItVlM3aHNIY01ydEtmQnFVdkpwSnVWaGM4WWY1WkgzZ096RURQdG9sUW5MdzJmRGxHRHRUYThVQjdubTRpTjlSaThCSzU1VWt2cmhkdWxMZjQ0Vk9Oc290eVZIdEtWbF9rSnFycWk4MmNFRjZTbWtUdkd5djJxb19GMURSYVdXbGd1SXJWUFdsdkRoMGgyb1dR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "University of Tennessee Research Foundation sues Anthropic in Delaware for allegedly infringing neural network patents, the first such case against Anthropic (Blake Brittain/Reuters)",
+        "University of Tennessee sues Anthropic over neural network technology",
+        "University of Tennessee sues Anthropic over neural network technology"
       ]
     },
     {
@@ -390,41 +542,63 @@
       ]
     },
     {
-      "cat": "policy",
+      "cat": "products",
       "signal": 39,
-      "sources": 3,
-      "writtenSources": 3,
-      "h": "Egypt launches national AI competency framework for teachers",
-      "s": "A national framework aims to equip teachers with AI literacy and pedagogy to prepare students for an AI-enabled economy.",
+      "sources": 1,
+      "ts": "2026-07-21T17:00:00.000Z",
+      "writtenSources": 1,
+      "h": "OpenAI launches ChatGPT for Small Businesses program",
+      "s": "The program could accelerate AI adoption among small businesses by teaching AI skills and enabling automation, potentially reshaping how SMBs compete and scale.",
       "b": [
-        "UNESCO reports a national AI competency framework for teachers launched in Egypt.",
-        "Local outlets (WALB and WRDW) cover related education technology themes, highlighting how AI skills are becoming part of teacher training.",
-        "The framework is positioned as a step toward integrating AI into classrooms and teacher professional development in Egypt."
+        "OpenAI launches the ChatGPT for Small Businesses program.",
+        "The program aims to help entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
       ],
       "body": [
-        "UNESCO announced the launch of a national artificial intelligence competency framework for teachers in Egypt, outlining the skills and knowledge needed for AI education in classrooms and teacher professional development.",
-        "The coverage from UNESCO emphasizes building teacher capacity to teach AI concepts and integrate AI tools into pedagogy, aligning with broader international efforts to prepare students for an AI-enabled economy.",
-        "Local coverage from WALB and WRDW underscores the broader emphasis on AI in education and how teachers can be supported to incorporate AI literacy into their curricula.",
-        "The framework marks a policy-oriented move to standardize AI education and ensure teachers have the competences to guide students in a rapidly evolving tech landscape."
+        "OpenAI has announced a new ChatGPT for Small Businesses program designed to help entrepreneurs build AI skills, automate routine tasks, and grow using ChatGPT Work. The initiative targets SMBs looking to leverage AI to improve productivity and decision-making.",
+        "The program’s framing centers on enabling small businesses to integrate AI into their workflows, with a focus on practical outcomes rather than just access to tools. The move aligns with OpenAI’s broader strategy to broaden AI adoption across business sizes by providing guided, actionable use cases.",
+        "While the coverage does not detail pricing or eligibility, the program signals a continued push by OpenAI to embed its AI capabilities in everyday business operations, potentially expanding the SMB market for ChatGPT-powered solutions."
       ],
       "l": [
         {
-          "d": "unesco.org",
-          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPcXY3TDFSWGZjbU9kbUMwcUtrYjctMFNTN0JVUzZlTXhaMEc2amlndGVnN1VXR2JjUEZQakFXNEtsZkJpVld0aElIU1VmbW1FdDZYeERRV2QtVk9zS1dlYmZPYWRsZlZQX0JjejBaczFfWGIyZ2dmT1ZFTDMxWHpFLVZtak5Ta1hJUGY5R3dMX3A3NWJvLU80ZXRDbTJRSnBjUDZqczRjVGpaMlBZZWlR?oc=5"
-        },
-        {
-          "d": "walb.com",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVEJkejBwWDY0TFlRYjVfRHRPcGVVaTRTWFhxd09VTmpqdFZXU0M3V1ZoWWdGYlYtNExUWVBVQWVENDBwMmxITnhmNG91S1BSSjRwNC1qUDVpbFRBeU5pQVBsazdPdXFfaWpkQXFOMlgtX0dVX0Z6TUJzT0RRTW41UmR0NA?oc=5"
-        },
-        {
-          "d": "wrdw.com",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2FXYnhPWTQ1a2lMNE0yeDJMbWs4SUM4WnFhekRITmpxSGF4bE5CSDF1QTJaSGxVQlU0R0lKb3JtQXRwOXB2TkZMTFpyUlJmYkw2Tzk1VlNyRHFvQ0xkaGppSlNuNmo4dTRlNkVWVjZwQVZVYVBIdTJTOWRrOXU2YTQyZw?oc=5"
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-chatgpt-small-business-program"
         }
       ],
       "srcTitles": [
-        "National artificial intelligence competency framework for teachers launched in Egypt",
-        "Local teachers and artificial intelligence",
-        "Local teachers and artificial intelligence"
+        "Introducing the ChatGPT for small business program"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-07-21T15:40:03.000Z",
+      "writtenSources": 2,
+      "h": "Google's Gemini 3.6 Flash delivers better coding, knowledge work, and multimodal performance",
+      "s": "The upgrade could raise the bar for enterprise AI assistants and reduce token costs, influencing how large deployments are budgeted and how quickly companies adopt AI-enhanced tooling.",
+      "b": [
+        "CNBC reports Google says Gemini 3.6 Flash delivers better coding, knowledge work, and multimodal performance while reducing output token usage by up to 17% versus 3.5 Flash.",
+        "Alphabet is releasing three new Gemini models on Tuesday, including a clearest answer yet to Anthropic's lead in cybersecurity.",
+        "The 3.6/3.5 family expansion positions Google as a direct competitor to Mythos in security-focused AI tooling."
+      ],
+      "body": [
+        "CNBC’s MacKenzie Sigalos covers Google’s claim that Gemini 3.6 Flash improves coding, knowledge work, and multimodal performance while cutting output token usage by as much as 17% compared with 3.5 Flash. The report notes that Google plans to roll out three new Gemini models on Tuesday, among them the 3.6 Flash, as part of a broader push to address cybersecurity and enterprise needs in AI tooling.",
+        "The release positions Google to compete with Mythos and other security-focused AI offerings, with Google outlining the potential for faster code analysis and vulnerability discovery through its updated Gemini architecture.",
+        "The coverage suggests a broader Gemini 3.x line expansion aimed at enterprise customers, with Google framing the updates as part of ongoing efforts to improve AI-assisted coding and multi-modal capabilities."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260721/p30#a260721p30"
+        },
+        {
+          "d": "artificialintelligence-news.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmJnUWFUTlZYTDJDb3NfWWc2c1BlUHgtazdjZVFzS2J6NnhEcDBFUzY3eXdEYUQ2dmhsR284WXA5UG9QcjR1ME1Td29sd2ppS04wc2dOcDNjOFNGRl9HZ3FBUTdwVXhlcXFTVUlRbTMtazZsNVhjWXprZncyazhUN2MxS1pFbWYzOHpxR2xfNmlEMFJNeEZOMkRSSjB6Q3RBNmRnSDMxQnZqa0VzbzNSOQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Google says Gemini 3.6 Flash delivers better coding, knowledge work, and multimodal performance while reducing output token usage by up to 17% vs. 3.5 Flash (MacKenzie Sigalos/CNBC)",
+        "Google’s Gemini 3.6 Flash targets enterprise agent token costs"
       ]
     },
     {
@@ -490,6 +664,70 @@
       "srcTitles": [
         "How much energy do data centers and artificial intelligence use?",
         "Artificial Intelligence - ABC News"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-07-21T10:31:54.000Z",
+      "writtenSources": 2,
+      "h": "Louisiana AI laws take effect Aug 1",
+      "s": "The new rules signal state-level regulatory activity on AI usage, with potential implications for vendors and public-sector AI deployments in Louisiana.",
+      "b": [
+        "New Louisiana AI laws take effect August 1.",
+        "Coverage also notes a separate ABC News AI topic page, but the Louisiana law item is the focus here."
+      ],
+      "body": [
+        "The Yahoo summary notes that Louisiana’s new artificial intelligence laws are scheduled to take effect on August 1, marking a movement toward state-level regulatory activity around AI deployment and governance.",
+        "Beyond the date, the provided coverage does not include detail on the specific provisions or affected sectors, so the practical implications for vendors and public agencies remain to be clarified based on subsequent reporting.",
+        "The combination of state-level AI regulations and broader national policy discussions suggests increasing regulatory scrutiny of AI use in both public and private sectors in the United States."
+      ],
+      "l": [
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXJKMmVHd0l1eVdxeUg4dmtKQ2ZISXJEcWlud3dVdE5Nelo2aEw1akpCTGpEUTNFOTdrbURnZnUzWWdCVEp0NnpNOXpwYXpvYmdUQ2w0cnFoXzk5cGZOczRlX3Ntc0V0djNLRjkxTE5qRjZwVWIza0tRSjFLb3gxQk9JMkVPYURLMmRMQkZYaFJGOEdSS0Z5Zk9XaFRnUG1sSTgwX0owTU4?oc=5"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "New Louisiana artificial intelligence laws take effect Aug. 1",
+        "Artificial Intelligence - ABC News"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-07-21T13:15:00.000Z",
+      "writtenSources": 2,
+      "h": "3 AI stocks to watch for the long haul",
+      "s": "As AI investment activity and valuations evolve, these picks could shape long-term portfolio exposure to AI-enabled growth across industries.",
+      "b": [
+        "The Motley Fool touts 3 unstoppable AI stocks as long-term buys for the portfolio.",
+        "MarketBeat lists AI stocks to add to your watchlist as of July 21."
+      ],
+      "body": [
+        "The Motley Fool features a piece highlighting three AI-focused stocks deemed strong long-term buys, suggesting a durable growth thesis for investors betting on AI-enabled productivity and innovation.",
+        "MarketBeat’s July 21 watchlist adds AI stocks to monitor, reflecting ongoing investor interest in AI-centric equity exposure.",
+        "As AI adoption accelerates across sectors, investors may increasingly rely on guidance from outlets that track stock performance and valuation trends in the AI space, though specific company names and figures are not provided in the sourced headlines."
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1dVeEVJWEw3aHpzeE5aVF9NazhfX0VVdmU1OE9tNk1hNXJNQ0pRU0NUYXJjSUszTUVBY2ZzT05LLUpaZTB0MHVqaGtLYzdZMV9rOW45Z3hEUEo3R0I2MmsxeTVsZzJSYTlQb3VzMlJlVERGZV90ajlaMjRpMnFoSXRVQTRCZjlfaEYzaFZ4REdMc1Z3a3l1Yg?oc=5"
+        },
+        {
+          "d": "marketbeat.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2M2Nm41ck1DaHdUOHJrWWpra0tPd0VkRDJmVjlwVVNfVEF4OHUtb2wycWVqYXdvLUVEOG9JenA4N0pValpKeVhaMEhXNVhWOXRaVmJON0xQYzBiZU1QSHh2QTlHcHpqVkR3OEpsOFJfZGhrWGN5ajJnT2k2UE9DUmRTUUhJTWJpSGZOVDVtTG1henlVaHVGZi13QkdmM2ExZnVycGpNVmJreTdBa1hmVFYwVmxObzV1M1FZ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "3 Unstoppable Artificial Intelligence (AI) Stocks That Are No-Brainer Buys for the Long Haul",
+        "Artificial Intelligence Stocks To Add to Your Watchlist - July 21st"
       ]
     }
   ]
