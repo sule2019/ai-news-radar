@@ -391,8 +391,10 @@ h1, h2, h3, p, ul, ol { margin: 0; }
 .colophon { text-align: center; font-size: 12px; color: var(--faint); margin-top: 24px; }
 .colophon a { color: var(--mut); }
 
-/* ================= day-page pager ================= */
-.pager { display: flex; justify-content: space-between; gap: 12px; margin-top: 8px; }
+/* ================= prev/next pager ================= */
+.pager { display: flex; gap: 12px; margin-top: 8px; }
+.pager a,
+.pager span { flex: 1 1 0; min-width: 0; }
 .pager a {
   font-size: 13px;
   font-weight: 500;
@@ -402,7 +404,12 @@ h1, h2, h3, p, ul, ol { margin: 0; }
   border-radius: 99px;
   border: 1px solid var(--line-2);
   background: var(--card);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  text-align: left;
 }
+.pager a:last-child { text-align: right; }
 .pager a:hover { color: var(--ink); }
 
 @media (max-width: 560px) {
