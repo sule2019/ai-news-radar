@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 71,
+      "signal": 79,
       "sources": 5,
       "writtenSources": 5,
       "h": "Google unveils Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber",
@@ -47,55 +47,12 @@
         "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
         "Google says Gemini 3.6 Flash delivers better coding, knowledge work, and multimodal performance while reducing output token usage by up to 17% vs. 3.5 Flash (MacKenzie Sigalos/CNBC)",
         "Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, and says it has started its \"most ambitious pre-training run yet\" for Gemini 4 (Tulsee Doshi/Google)"
-      ]
+      ],
+      "ts": "2026-07-21T19:12:09.757Z"
     },
     {
       "cat": "policy",
-      "signal": 70,
-      "sources": 33,
-      "writtenSources": 31,
-      "h": "Egypt launches national AI competency framework for teachers",
-      "s": "The move signals a formal step toward embedding AI literacy in education, with potential long-term effects on teacher training and classroom curricula in Egypt.",
-      "b": [
-        "Egypt launches a national AI competency framework for teachers (UNESCO)",
-        "The story is sourced from UNESCO’s reporting on AI education initiatives in Egypt"
-      ],
-      "body": [
-        "UNESCO published coverage noting that Egypt has launched a national AI competency framework for teachers. The release highlights the country’s move as part of its AI education initiatives. ",
-        "The UNESCO piece positions the framework within broader efforts to advance AI literacy and education policy, signaling government priority in equipping teachers with AI-related competencies. ",
-        "The coverage does not provide a date or implementation details beyond the launch, nor does it specify how the framework will be rolled out or funded."
-      ],
-      "l": [
-        {
-          "d": "ourworldindata.org",
-          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTdJQ0Ywb3FHcmNHRHFScm9RdzlIcWNRa1NZV0ZJVW0xTVFHSFdwTFk3VEMyTDBuMTlDbEFMTWZ2WlpPTGZXakx4SnJUQzgySGlmZVVZemRXUXpnYV9UWjhQenlBazl0X21pbEtQSzdRUFlRUFVfX3RqMk1UdzhOd1FkN19OTUtYZE5fc2tvbG01Uno1?oc=5"
-        },
-        {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
-        },
-        {
-          "d": "hcahealthcaretoday.com",
-          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0pCRDJwU0ZRRFBsYjM2UzVLNTNFOHFkQ0s0dDZPWTNxWkJCS3lBQlE3OTlfMVc1VkFHMnh2eWNkZjR6VmhmTXdCeDY0V19LSndVc0VVVUJ3Qmp5enZ6VTJmcXVocGJrTU9kVDR1MlJVX2dqZzNwSTQ2cU9GMl9iMU1EOE9xNXdCX0VVNzZSRElFRnRoeHdBSEk3Zmh0TkJrcjA4OFQ1bzhIS3FpZ1g0Z3Bn?oc=5"
-        },
-        {
-          "d": "unesco.org",
-          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPcXY3TDFSWGZjbU9kbUMwcUtrYjctMFNTN0JVUzZlTXhaMEc2amlndGVnN1VXR2JjUEZQakFXNEtsZkJpVld0aElIU1VmbW1FdDZYeERRV2QtVk9zS1dlYmZPYWRsZlZQX0JjejBaczFfWGIyZ2dmT1ZFTDMxWHpFLVZtak5Ta1hJUGY5R3dMX3A3NWJvLU80ZXRDbTJRSnBjUDZqczRjVGpaMlBZZWlR?oc=5"
-        },
-        {
-          "d": "+29"
-        }
-      ],
-      "srcTitles": [
-        "How much energy do data centers and artificial intelligence use?",
-        "Artificial Intelligence - ABC News",
-        "HCA Healthcare’s strategic approach to scaling artificial intelligence",
-        "National artificial intelligence competency framework for teachers launched in Egypt"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 55,
+      "signal": 65,
       "sources": 5,
       "writtenSources": 5,
       "h": "Advancing next-gen AI with materials science innovation",
@@ -140,12 +97,13 @@
         "What Is an AI Bill of Materials?",
         "Anthropic hit with largest-ever $1.5 billion penalty in copyright lawsuit — court says training AI on published material is fair use, but startup’s pirated library infringes on authors’ rights",
         "Auto Research for Materials: Auditable AI-Scientist Workflows with Held-Out Transfer"
-      ]
+      ],
+      "ts": "2026-07-21T19:12:09.758Z"
     },
     {
       "cat": "policy",
-      "signal": 47,
-      "sources": 3,
+      "signal": 59,
+      "sources": 2,
       "ts": "2026-07-21T15:45:58.000Z",
       "writtenSources": 3,
       "h": "University of Tennessee sues Anthropic over neural network technology",
@@ -168,57 +126,16 @@
         {
           "d": "reuters.com",
           "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTnlDeHFoNDBpUEtsN3NlR2h3OHY0cHhqUXo5bWRIdmtJT0JyajQwalEwX2I3MnpxUGdMZnJkOVFydy1BSHpzdm5hYmRqbG0wd0pLZXJDVl9sbE5FT0lhTHpSRGtSbDBmR3lhVU9mZDZtMFQzM1czRGt1S0VKMVhlMU8wQ2JOQlNMUUgwbUt1bU5LZzFUMzhWYTBLUGlZQ0F6d1ByNXJtNDUyWmZnTUxvUUw2cGR4U1BXM05B?oc=5"
-        },
-        {
-          "d": "yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWjItVlM3aHNIY01ydEtmQnFVdkpwSnVWaGM4WWY1WkgzZ096RURQdG9sUW5MdzJmRGxHRHRUYThVQjdubTRpTjlSaThCSzU1VWt2cmhkdWxMZjQ0Vk9Oc290eVZIdEtWbF9rSnFycWk4MmNFRjZTbWtUdkd5djJxb19GMURSYVdXbGd1SXJWUFdsdkRoMGgyb1dR?oc=5"
         }
       ],
       "srcTitles": [
         "University of Tennessee Research Foundation sues Anthropic in Delaware for allegedly infringing neural network patents, the first such case against Anthropic (Blake Brittain/Reuters)",
-        "University of Tennessee sues Anthropic over neural network technology",
         "University of Tennessee sues Anthropic over neural network technology"
       ]
     },
     {
-      "cat": "policy",
-      "signal": 47,
-      "sources": 3,
-      "writtenSources": 2,
-      "h": "US weighs sanctions on Chinese AI models over distillation claims",
-      "s": "If the headline reflects a real policy move, it would represent a sharp hardening of the U.S. stance toward foreign AI tech and could affect how models are trained and distributed internationally.",
-      "b": [
-        "The provided coverage includes a Guardian piece titled Could AI be conscious? and KFGO reporting on Sub-Saharan Africa's AI impact, neither of which discuss sanctions.",
-        "There are no substantive details in the supplied sources about which models would be sanctioned, what actions would be taken, or timelines."
-      ],
-      "body": [
-        "The headline from the prompt states that the United States is weighing sanctions on Chinese AI models over distillation claims. However, the supplied sources in the dataset do not provide reporting on sanctions or related government actions. The Guardian’s piece titled Could AI be conscious? and KFGO’s AI-economy piece do not address sanctions, IP theft, or distillation policy in China or the U.S.",
-        "Without concrete coverage detailing which models would be targeted, the legal mechanism, or the potential scope of sanctions, readers are left with a headline and no verifiable context from the provided material.",
-        "Given the absence of direct reporting in the supplied sources, the next steps or official government positions remain unclear based on the current coverage."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
-        },
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWgyMGZkdno3UUlLcW5BMDE0Nk9LR3A4TzlqRGZLTV9tWUlROFlRbTctQVVodVgwNW1jUEdaQnNrOGpjTDN2NERLcjl4SHpRMFNBZjdoeUtndDhNNTA0LUtGQUd5cDVuZHFtZzBsQjBiSjFOQmNuLVVKZlJQazExdFpUTS1FMXhnd2wycFlvY3ZCOHVwZlUwRThjclBnQ1BHaEFYSUwtSmpyLVZ5d21mSFoySXl0ZFRqaU1ZS2pvemt5akU?oc=5"
-        },
-        {
-          "d": "scmp.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2dZUDE4cW5MS29sVE1YOHY2RW12bTZBU3dwZlNUMjFkd28yMWc4SVYxTTZSb21oU0lSYWpVbkpVclZMSFdoWjVaYUlfRzJhRkRyMzJTYThMc2REVFhBSl9IRjFHZ29ybm9yRG0yLWI1WURYdHo1U25LaDBhU2x4RWNaVjcyRVlDdUFLM0FnSGJORXo3Y3ItU1Jrai1lMjg2RlhlN2xOUWxjNTI1Q0dr0gGvAUFVX3lxTFBCZjF4bE1oY0VVbDVuZk90Zk9HQllZQXhCQ3JUWUlWak42Ny1wa2xKcU8zX01fMHk4VE1EeFJVYkdUNk5JTlpUWWYyTFFyampnVEpwRlFjRXFDRFBYZGJOaUpIVkVXN1hyem4tVndFTTdzdG9qYl9lYnlGTXI1TlZuam96MWstX3ppOTBUVUdzZHNVbmx3LVZiM1VuWF9VUENmcEJST0gxQS0wVXhFV1U?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "US threatens sanctions against Chinese AI models over IP theft",
-        "US Threatens Sanctions on China Over Alleged AI Model Theft",
-        "As US-Chinese AI model gap narrows, what next for Washington?"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 44,
+      "signal": 58,
       "sources": 2,
       "writtenSources": 2,
       "h": "Anthropic s landmark $1.5B copyright settlement is approved",
@@ -248,11 +165,119 @@
       "srcTitles": [
         "Anthropic s landmark $1.5B copyright settlement is approved",
         "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out"
+      ],
+      "ts": "2026-07-21T19:12:09.758Z"
+    },
+    {
+      "cat": "products",
+      "signal": 56,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "Nvidia wants to own every chip inside AI data centers",
+      "s": "Nvidia’s Vera Rubin system signals a shift toward fully integrated AI data-center hardware, promising tighter optimization across CPUs and GPUs and faster, more efficient AI workloads.",
+      "b": [
+        "Vera Rubin is Nvidia’s next-generation system, described as a one-CPU-for-every-two-GPUs configuration.",
+        "In an NVL72 rack, Nvidia claims 36 Vera CPUs are paired with 72 Rubin GPUs, marketed as “cable-free compute” and easily hot-swappable for rapid deployment.",
+        "Nvidia asserts Vera Rubin delivers up to 10x the tokens-per-watt vs. its Grace Blackwell system and offers nearly three times the memory bandwidth with its localized memory subsystems.",
+        "The company also notes the Vera Rubin NVL72 system is 100% liquid-cooled and emphasizes reduced cabling to speed up rack installation."
+      ],
+      "body": [
+        "Nvidia is pushing deeper into AI infrastructure with Vera Rubin, a hardware system designed to pair CPUs with GPUs in a tightly integrated package for data-center workloads. The Vera Rubin NVL72 configuration is described as a one CPU for every two GPUs setup, with a 36‑CPU to 72‑GPU ratio per rack.",
+        "Nvidia executives showcased NVL72 racks as being more plug-and-play than earlier offerings, and the company highlighted that OpenAI already operates a Vera Rubin rack in use at a data-center facility. The announcements were made during a workshop in Santa Clara as part of a broader push into complete AI systems rather than chips alone.",
+        "Nvidia claims that Vera Rubin delivers an order of magnitude more tokens-per-watt than its Grace Blackwell system and features localized memory subsystems that provide nearly three times the memory bandwidth of Blackwell. The company also touts a cable-free design and hot-swappability to simplify installation and maintenance, along with 100% liquid cooling to reduce energy use.",
+        "While Nvidia has repeatedly said Vera Rubin is ramping to full production and will ship on schedule, the workshop did not provide a precise delivery date, instead emphasizing strategic positioning ahead of industry events."
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRDNCTFMwQzB6VjdfRHB1TUhneXF0dFROTkJvWXN4ei15ZW0xdFBQVHd1UnFiWHRvVzZEOEVBU3lCRE84UXVlamFmNFU2MXY1OGVPZFhXRU56V28tcUJjZERqVzA5SFlVMGdkZGlGeHJxLXZaVHY5aVh2TzRNOS1MMkFmS1diZ291cTlTajhPbmtNdmozYXB3NzZRR2Y0Ujl4OTA2Yk8wZnJiaDZHeU4xNFppQUlzUkxRWFZHX2lIRU5yY3B1S3kxVTBCSTg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+        "Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon"
+      ],
+      "ts": "2026-07-21T19:12:09.758Z"
+    },
+    {
+      "cat": "policy",
+      "signal": 50,
+      "sources": 33,
+      "writtenSources": 31,
+      "h": "Egypt launches national AI competency framework for teachers",
+      "s": "The move signals a formal step toward embedding AI literacy in education, with potential long-term effects on teacher training and classroom curricula in Egypt.",
+      "b": [
+        "Egypt launches a national AI competency framework for teachers (UNESCO)",
+        "The story is sourced from UNESCO’s reporting on AI education initiatives in Egypt"
+      ],
+      "body": [
+        "UNESCO published coverage noting that Egypt has launched a national AI competency framework for teachers. The release highlights the country’s move as part of its AI education initiatives. ",
+        "The UNESCO piece positions the framework within broader efforts to advance AI literacy and education policy, signaling government priority in equipping teachers with AI-related competencies. ",
+        "The coverage does not provide a date or implementation details beyond the launch, nor does it specify how the framework will be rolled out or funded."
+      ],
+      "l": [
+        {
+          "d": "ourworldindata.org",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTdJQ0Ywb3FHcmNHRHFScm9RdzlIcWNRa1NZV0ZJVW0xTVFHSFdwTFk3VEMyTDBuMTlDbEFMTWZ2WlpPTGZXakx4SnJUQzgySGlmZVVZemRXUXpnYV9UWjhQenlBazl0X21pbEtQSzdRUFlRUFVfX3RqMk1UdzhOd1FkN19OTUtYZE5fc2tvbG01Uno1?oc=5"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
+        },
+        {
+          "d": "hcahealthcaretoday.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0pCRDJwU0ZRRFBsYjM2UzVLNTNFOHFkQ0s0dDZPWTNxWkJCS3lBQlE3OTlfMVc1VkFHMnh2eWNkZjR6VmhmTXdCeDY0V19LSndVc0VVVUJ3Qmp5enZ6VTJmcXVocGJrTU9kVDR1MlJVX2dqZzNwSTQ2cU9GMl9iMU1EOE9xNXdCX0VVNzZSRElFRnRoeHdBSEk3Zmh0TkJrcjA4OFQ1bzhIS3FpZ1g0Z3Bn?oc=5"
+        },
+        {
+          "d": "unesco.org",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPcXY3TDFSWGZjbU9kbUMwcUtrYjctMFNTN0JVUzZlTXhaMEc2amlndGVnN1VXR2JjUEZQakFXNEtsZkJpVld0aElIU1VmbW1FdDZYeERRV2QtVk9zS1dlYmZPYWRsZlZQX0JjejBaczFfWGIyZ2dmT1ZFTDMxWHpFLVZtak5Ta1hJUGY5R3dMX3A3NWJvLU80ZXRDbTJRSnBjUDZqczRjVGpaMlBZZWlR?oc=5"
+        },
+        {
+          "d": "+29"
+        }
+      ],
+      "srcTitles": [
+        "How much energy do data centers and artificial intelligence use?",
+        "Artificial Intelligence - ABC News",
+        "HCA Healthcare’s strategic approach to scaling artificial intelligence",
+        "National artificial intelligence competency framework for teachers launched in Egypt"
+      ],
+      "ts": "2026-07-21T19:12:09.757Z"
+    },
+    {
+      "cat": "products",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-07-21T17:00:00.000Z",
+      "writtenSources": 1,
+      "h": "OpenAI launches ChatGPT for Small Businesses program",
+      "s": "The program could accelerate AI adoption among small businesses by teaching AI skills and enabling automation, potentially reshaping how SMBs compete and scale.",
+      "b": [
+        "OpenAI launches the ChatGPT for Small Businesses program.",
+        "The program aims to help entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
+      ],
+      "body": [
+        "OpenAI has announced a new ChatGPT for Small Businesses program designed to help entrepreneurs build AI skills, automate routine tasks, and grow using ChatGPT Work. The initiative targets SMBs looking to leverage AI to improve productivity and decision-making.",
+        "The program’s framing centers on enabling small businesses to integrate AI into their workflows, with a focus on practical outcomes rather than just access to tools. The move aligns with OpenAI’s broader strategy to broaden AI adoption across business sizes by providing guided, actionable use cases.",
+        "While the coverage does not detail pricing or eligibility, the program signals a continued push by OpenAI to embed its AI capabilities in everyday business operations, potentially expanding the SMB market for ChatGPT-powered solutions."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-chatgpt-small-business-program"
+        }
+      ],
+      "srcTitles": [
+        "Introducing the ChatGPT for small business program"
       ]
     },
     {
       "cat": "products",
-      "signal": 44,
+      "signal": 46,
       "sources": 2,
       "writtenSources": 3,
       "h": "Adobe camera app s new feature will critique your photos using AI",
@@ -282,7 +307,8 @@
       "srcTitles": [
         "Adobe camera app s new feature will critique your photos using AI",
         "Adobe’s ‘natural look’ camera app embraces generative AI"
-      ]
+      ],
+      "ts": "2026-07-21T19:12:09.758Z"
     },
     {
       "cat": "policy",
@@ -355,38 +381,41 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 42,
-      "sources": 2,
+      "cat": "policy",
+      "signal": 40,
+      "sources": 3,
       "writtenSources": 2,
-      "h": "Nvidia wants to own every chip inside AI data centers",
-      "s": "Nvidia’s Vera Rubin system signals a shift toward fully integrated AI data-center hardware, promising tighter optimization across CPUs and GPUs and faster, more efficient AI workloads.",
+      "h": "US weighs sanctions on Chinese AI models over distillation claims",
+      "s": "If the headline reflects a real policy move, it would represent a sharp hardening of the U.S. stance toward foreign AI tech and could affect how models are trained and distributed internationally.",
       "b": [
-        "Vera Rubin is Nvidia’s next-generation system, described as a one-CPU-for-every-two-GPUs configuration.",
-        "In an NVL72 rack, Nvidia claims 36 Vera CPUs are paired with 72 Rubin GPUs, marketed as “cable-free compute” and easily hot-swappable for rapid deployment.",
-        "Nvidia asserts Vera Rubin delivers up to 10x the tokens-per-watt vs. its Grace Blackwell system and offers nearly three times the memory bandwidth with its localized memory subsystems.",
-        "The company also notes the Vera Rubin NVL72 system is 100% liquid-cooled and emphasizes reduced cabling to speed up rack installation."
+        "The provided coverage includes a Guardian piece titled Could AI be conscious? and KFGO reporting on Sub-Saharan Africa's AI impact, neither of which discuss sanctions.",
+        "There are no substantive details in the supplied sources about which models would be sanctioned, what actions would be taken, or timelines."
       ],
       "body": [
-        "Nvidia is pushing deeper into AI infrastructure with Vera Rubin, a hardware system designed to pair CPUs with GPUs in a tightly integrated package for data-center workloads. The Vera Rubin NVL72 configuration is described as a one CPU for every two GPUs setup, with a 36‑CPU to 72‑GPU ratio per rack.",
-        "Nvidia executives showcased NVL72 racks as being more plug-and-play than earlier offerings, and the company highlighted that OpenAI already operates a Vera Rubin rack in use at a data-center facility. The announcements were made during a workshop in Santa Clara as part of a broader push into complete AI systems rather than chips alone.",
-        "Nvidia claims that Vera Rubin delivers an order of magnitude more tokens-per-watt than its Grace Blackwell system and features localized memory subsystems that provide nearly three times the memory bandwidth of Blackwell. The company also touts a cable-free design and hot-swappability to simplify installation and maintenance, along with 100% liquid cooling to reduce energy use.",
-        "While Nvidia has repeatedly said Vera Rubin is ramping to full production and will ship on schedule, the workshop did not provide a precise delivery date, instead emphasizing strategic positioning ahead of industry events."
+        "The headline from the prompt states that the United States is weighing sanctions on Chinese AI models over distillation claims. However, the supplied sources in the dataset do not provide reporting on sanctions or related government actions. The Guardian’s piece titled Could AI be conscious? and KFGO’s AI-economy piece do not address sanctions, IP theft, or distillation policy in China or the U.S.",
+        "Without concrete coverage detailing which models would be targeted, the legal mechanism, or the potential scope of sanctions, readers are left with a headline and no verifiable context from the provided material.",
+        "Given the absence of direct reporting in the supplied sources, the next steps or official government positions remain unclear based on the current coverage."
       ],
       "l": [
         {
-          "d": "wired.com",
-          "u": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
         },
         {
-          "d": "tomshardware.com",
-          "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRDNCTFMwQzB6VjdfRHB1TUhneXF0dFROTkJvWXN4ei15ZW0xdFBQVHd1UnFiWHRvVzZEOEVBU3lCRE84UXVlamFmNFU2MXY1OGVPZFhXRU56V28tcUJjZERqVzA5SFlVMGdkZGlGeHJxLXZaVHY5aVh2TzRNOS1MMkFmS1diZ291cTlTajhPbmtNdmozYXB3NzZRR2Y0Ujl4OTA2Yk8wZnJiaDZHeU4xNFppQUlzUkxRWFZHX2lIRU5yY3B1S3kxVTBCSTg?oc=5"
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWgyMGZkdno3UUlLcW5BMDE0Nk9LR3A4TzlqRGZLTV9tWUlROFlRbTctQVVodVgwNW1jUEdaQnNrOGpjTDN2NERLcjl4SHpRMFNBZjdoeUtndDhNNTA0LUtGQUd5cDVuZHFtZzBsQjBiSjFOQmNuLVVKZlJQazExdFpUTS1FMXhnd2wycFlvY3ZCOHVwZlUwRThjclBnQ1BHaEFYSUwtSmpyLVZ5d21mSFoySXl0ZFRqaU1ZS2pvemt5akU?oc=5"
+        },
+        {
+          "d": "scmp.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2dZUDE4cW5MS29sVE1YOHY2RW12bTZBU3dwZlNUMjFkd28yMWc4SVYxTTZSb21oU0lSYWpVbkpVclZMSFdoWjVaYUlfRzJhRkRyMzJTYThMc2REVFhBSl9IRjFHZ29ybm9yRG0yLWI1WURYdHo1U25LaDBhU2x4RWNaVjcyRVlDdUFLM0FnSGJORXo3Y3ItU1Jrai1lMjg2RlhlN2xOUWxjNTI1Q0dr0gGvAUFVX3lxTFBCZjF4bE1oY0VVbDVuZk90Zk9HQllZQXhCQ3JUWUlWak42Ny1wa2xKcU8zX01fMHk4VE1EeFJVYkdUNk5JTlpUWWYyTFFyampnVEpwRlFjRXFDRFBYZGJOaUpIVkVXN1hyem4tVndFTTdzdG9qYl9lYnlGTXI1TlZuam96MWstX3ppOTBUVUdzZHNVbmx3LVZiM1VuWF9VUENmcEJST0gxQS0wVXhFV1U?oc=5"
         }
       ],
       "srcTitles": [
-        "Nvidia Wants to Own Every Chip Inside AI Data Centers",
-        "Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon"
-      ]
+        "US threatens sanctions against Chinese AI models over IP theft",
+        "US Threatens Sanctions on China Over Alleged AI Model Theft",
+        "As US-Chinese AI model gap narrows, what next for Washington?"
+      ],
+      "ts": "2026-07-21T19:12:09.758Z"
     },
     {
       "cat": "models",
@@ -449,7 +478,7 @@
     },
     {
       "cat": "policy",
-      "signal": 36,
+      "signal": 30,
       "sources": 3,
       "writtenSources": 2,
       "h": "China weighs tighter export controls on AI models and chips",
@@ -470,46 +499,20 @@
           "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVURTZEhNNV8xRTlJSmtQbWZjNFRpc3dSanpRM01BZnlwT2lhbjlGMUQwTnROSWxJcDZLZ0NmSUh0dXd0aW82cWVtZ0hKMzY2LTN3dTBfR2JOVEJlNFYxejVtMzBzQmsyYlRGUUJmODM0WFJZNG1PVkZ5UEtzc2g3QTcyUlA?oc=5"
         },
         {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5"
-        },
-        {
           "d": "tomshardware.com",
           "u": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOdUw4cW56a1pyMmo2SjZmZkdUZmxIeGJiT3lDVTFYUzVWczV0dTZGdTlNcTlTVFlhcjdpVW85dVpXQ0ZpT0FBQTNvcDRpRkJrNFNfMjdHa05wLWVkaHFKcXN1d1VVYU82SXBONXZCclR6VHEyQXQzb1BGVmx4Ylp0VGVjOE5kdGVBSTBXOUdlRXNBcGk3YVNicHNBNEVZakRtSDlmdHB6dnJNWHh6aXA5VWNMZ0RFak55c3lyYjFxTzBFRlc1ellkaXBBSHltUVU0OFdsNWtLQ2VCbldpekhPZlQ3SDdKSW5zN3U3YURwa0pkazVNQXdqazlDNS0zdWhFM0htaVRQM05nMlU0WEkzNXhzOEJ6RklKMmFwMTJpeWUwYXJrWEVkTjFDQ0dNeDFYZXJhbExlU3hGZnZYUmZHWGNOQ2N4S1MzV0NWTWRYOWR5ajVReFZpWldaX3ZxajlVd2xoN2ZGNG1GRGVLWlRvTjExVFMzRjZLQWNrREoyb29wOVk?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5"
         }
       ],
       "srcTitles": [
         "China weighs tighter export controls on AI models and chips",
-        "China considers tighter export controls on AI models and chips, FT reports",
-        "China is considering export controls on AI technologies, including banning local companies from using TSMC, report claims — restrictions would also advanced AI models, training data, and overseas acquisitions"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-07-21T17:00:00.000Z",
-      "writtenSources": 1,
-      "h": "OpenAI launches ChatGPT for Small Businesses program",
-      "s": "The program could accelerate AI adoption among small businesses by teaching AI skills and enabling automation, potentially reshaping how SMBs compete and scale.",
-      "b": [
-        "OpenAI launches the ChatGPT for Small Businesses program.",
-        "The program aims to help entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
+        "China is considering export controls on AI technologies, including banning local companies from using TSMC, report claims — restrictions would also advanced AI models, training data, and overseas acquisitions",
+        "China considers tighter export controls on AI models and chips, FT reports"
       ],
-      "body": [
-        "OpenAI has announced a new ChatGPT for Small Businesses program designed to help entrepreneurs build AI skills, automate routine tasks, and grow using ChatGPT Work. The initiative targets SMBs looking to leverage AI to improve productivity and decision-making.",
-        "The program’s framing centers on enabling small businesses to integrate AI into their workflows, with a focus on practical outcomes rather than just access to tools. The move aligns with OpenAI’s broader strategy to broaden AI adoption across business sizes by providing guided, actionable use cases.",
-        "While the coverage does not detail pricing or eligibility, the program signals a continued push by OpenAI to embed its AI capabilities in everyday business operations, potentially expanding the SMB market for ChatGPT-powered solutions."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/introducing-chatgpt-small-business-program"
-        }
-      ],
-      "srcTitles": [
-        "Introducing the ChatGPT for small business program"
-      ]
+      "ts": "2026-07-21T19:12:09.758Z"
     },
     {
       "cat": "policy",
@@ -538,7 +541,8 @@
       ],
       "srcTitles": [
         "China’s AI models have Trump’s AI world at war with itself"
-      ]
+      ],
+      "ts": "2026-07-21T19:12:09.758Z"
     },
     {
       "cat": "policy",
@@ -565,7 +569,8 @@
       ],
       "srcTitles": [
         "Safety and alignment in an era of long-horizon models"
-      ]
+      ],
+      "ts": "2026-07-21T19:12:09.758Z"
     },
     {
       "cat": "research",
@@ -594,7 +599,8 @@
       ],
       "srcTitles": [
         "AI is more likely than humans to form biases when hiring"
-      ]
+      ],
+      "ts": "2026-07-21T19:12:09.758Z"
     }
   ]
 }
