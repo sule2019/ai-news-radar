@@ -2,6 +2,45 @@
   "date": "2026-07-21",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 49,
+      "sources": 3,
+      "writtenSources": 2,
+      "h": "Anthropic s landmark $1.5B copyright settlement is approved",
+      "s": "The settlement monetizes past copyright disputes while shaping how training data could be treated in future AI development and litigation.",
+      "b": [
+        "The class-action settlement is $1.5 billion with authors and publishers, averaging about $3,000 per work for roughly 500,000 works.",
+        "Judge Araceli Martínez-Olguín signed off on final approval after predecessor Judge William Alsup’s preliminary approval, with Alsup having ruled that training on copyrighted text can be fair use but piracy remains unlawful.",
+        "Anthropic will resolve claims tied to books it downloaded from piracy sites as part of its training data, while noting ongoing copyright litigation with additional authors.",
+        "The case would not set binding precedent as a district court decision; other lawsuits against Google, Meta, Midjourney, and OpenAI remain ongoing."
+      ],
+      "body": [
+        "A federal judge signed off on Anthropic’s $1.5 billion class-action copyright settlement, paving the way for authors and publishers to receive compensation for works allegedly used to train its AI models. Reuters reported that final approval was granted by Judge Araceli Martínez-Olguín in the U.S. District Court for the Northern District of California.",
+        "The settlement would pay approximately $3,000 per book across an estimated 500,000 works, to be shared among rights holders. The agreement follows a ruling by the now-retired Judge William Alsup that training AI models on copyrighted text can count as fair use, while piracy conducted via sites like Library Genesis could still be illegal.",
+        "Anthropic previously disclosed that it built its training library from both legitimately purchased and scanned books and works downloaded from pirate sites. The settlement acknowledges the piracy concerns and avoids a jury trial on the unresolved issues, though it does not resolve the broader industry-wide copyright questions or set binding precedent since it is a district-court resolution.",
+        "The Verge’s coverage notes that, while many authors view the payout as meaningful, it may not satisfy all rights holders, and other lawsuits against major players in the space remain active."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic s landmark $1.5B copyright settlement is approved",
+        "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+        "Judge approves Anthropic’s $1.5 billion copyright settlement with authors"
+      ]
+    },
+    {
       "cat": "products",
       "signal": 47,
       "sources": 2,
@@ -63,16 +102,11 @@
         {
           "d": "theverge.com",
           "u": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update"
-        },
-        {
-          "d": "rsmus.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmdwT25kYWdBWmhQZkZWUk8xUzVBbjY1RnRnUjl3TkpFSEtWZTYyc295QVhOeTV0eHg1ODdwcGlfYVpISV9ibkxjRGFnOXNMSVlHNTF6ejU0NEVvbVVRM2cwX09LaUM2TkJ1RmhGZk9GQkotU1M2ZXl6UVlZVFJTM2pKRmVodFI4d08tTQ?oc=5"
         }
       ],
       "srcTitles": [
         "Adobe camera app s new feature will critique your photos using AI",
-        "Adobe’s ‘natural look’ camera app embraces generative AI",
-        "How manufacturers are using AI in 2026"
+        "Adobe’s ‘natural look’ camera app embraces generative AI"
       ]
     },
     {
@@ -167,40 +201,6 @@
       "srcTitles": [
         "Could AI be conscious?",
         "AI could lift Sub-Saharan Africa economy 4% if power, internet improve, IMF says"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 43,
-      "sources": 2,
-      "writtenSources": 2,
-      "h": "Anthropic s landmark $1.5B copyright settlement is approved",
-      "s": "The settlement monetizes past copyright disputes while shaping how training data could be treated in future AI development and litigation.",
-      "b": [
-        "The class-action settlement is $1.5 billion with authors and publishers, averaging about $3,000 per work for roughly 500,000 works.",
-        "Judge Araceli Martínez-Olguín signed off on final approval after predecessor Judge William Alsup’s preliminary approval, with Alsup having ruled that training on copyrighted text can be fair use but piracy remains unlawful.",
-        "Anthropic will resolve claims tied to books it downloaded from piracy sites as part of its training data, while noting ongoing copyright litigation with additional authors.",
-        "The case would not set binding precedent as a district court decision; other lawsuits against Google, Meta, Midjourney, and OpenAI remain ongoing."
-      ],
-      "body": [
-        "A federal judge signed off on Anthropic’s $1.5 billion class-action copyright settlement, paving the way for authors and publishers to receive compensation for works allegedly used to train its AI models. Reuters reported that final approval was granted by Judge Araceli Martínez-Olguín in the U.S. District Court for the Northern District of California.",
-        "The settlement would pay approximately $3,000 per book across an estimated 500,000 works, to be shared among rights holders. The agreement follows a ruling by the now-retired Judge William Alsup that training AI models on copyrighted text can count as fair use, while piracy conducted via sites like Library Genesis could still be illegal.",
-        "Anthropic previously disclosed that it built its training library from both legitimately purchased and scanned books and works downloaded from pirate sites. The settlement acknowledges the piracy concerns and avoids a jury trial on the unresolved issues, though it does not resolve the broader industry-wide copyright questions or set binding precedent since it is a district-court resolution.",
-        "The Verge’s coverage notes that, while many authors view the payout as meaningful, it may not satisfy all rights holders, and other lawsuits against major players in the space remain active."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic s landmark $1.5B copyright settlement is approved",
-        "Anthropic’s $1.5 billion book piracy settlement approved by judge"
       ]
     },
     {
@@ -311,7 +311,7 @@
         },
         {
           "d": "simonwillison.net",
-          "u": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/"
+          "u": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything"
         }
       ],
       "srcTitles": [
@@ -728,6 +728,73 @@
       "srcTitles": [
         "3 Unstoppable Artificial Intelligence (AI) Stocks That Are No-Brainer Buys for the Long Haul",
         "Artificial Intelligence Stocks To Add to Your Watchlist - July 21st"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-07-21T17:07:00.000Z",
+      "writtenSources": 2,
+      "h": "SpaceX: the AI infrastructure build-out just got interesting",
+      "s": "It signals growing investor and industry attention to SpaceX's AI infrastructure strategy and its potential influence on how AI deployments by private aerospace players are perceived.",
+      "b": [
+        "NASDAQ: SPCX is referenced in the headline across Yahoo Finance and The Globe and Mail",
+        "SpaceX is the subject of the build-out mentioned in the headline",
+        "Yahoo Finance and The Globe and Mail published the story with the same headline"
+      ],
+      "body": [
+        "Yahoo Finance and The Globe and Mail published a story about SpaceX and its AI infrastructure efforts.",
+        "The coverage notes a NASDAQ ticker, SPCX, in connection with the SpaceX AI infrastructure build-out.",
+        "SpaceX is identified as the subject of the AI infrastructure build-out in the headlines reviewed.",
+        "The provided snippets do not include dates, figures, quotes, or further details beyond the headline."
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEFkRV9wMXhCZTVveGxvTXc5eks4QjFDdlZoVi1YNFJhWk00Y0hYQlhBR3pKTHpnNXdlc1VfSmpyQWVIUG9sdFdwendxUnh3UEduUklYamJTazZpTlgtbGJKc3VIYXEtSmZBN3dNZUVaaUpQSkozOXJxbkZpZTlJbno3MlUybk84cERzOTgzcC02eWpQRHdxaGZWdjJydy1iZTlWc1lxazRNOEd2LU5ZY053?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOd0NDSjRzTTVLemc3NExJT0hxdE9WZmpocmF0TmJtaGo2NmJ1Z3MxektTUU55em1NOV9Vck9KcDF1Y1lLX1FHbmQ1LUl4LWJqaS1JM2NGNDY5cjk5d1IzT2JmaElOMGM0YTMzN1BHbm1iV0hBWFVjTWRFUDNpaUNlY0ZSTk9HeGo4Sk05QkpXNG1uQjZoWkNSdjh5WFhoNUZnVE9aTXlKX2hJejFTeVgzYnl0VGV6cXU4UHZwVDJoTUM3eE42bkxzNE8wVFFLb3pteUEwTHJoeWhjZGxzQTUxSVBwXzE2VGdTVXZhcWlfbHRKb0QxQUhrbTRnWEljTGI1UmRIVkpWWEtiLXc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "SpaceX: The Artificial Intelligence (AI) Infrastructure Build-out Just Got Interesting (NASDAQ:SPCX)",
+        "SpaceX: The Artificial Intelligence (AI) Infrastructure Build-out Just Got Interesting (NASDAQ:SPCX)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-07-20T22:23:42.000Z",
+      "writtenSources": 2,
+      "h": "Head of US AI safety agency resigns as China questions US safety curbs",
+      "s": "The resignation could shift safety governance momentum and affect how AI deployments are supervised, particularly amid ongoing policy debates.",
+      "b": [
+        "Reuters reports the head of the US AI safety agency resigns",
+        "South China Morning Post reports China’s Kimi K3 calls US safety curbs on top AI models into question"
+      ],
+      "body": [
+        "Reuters reports that the head of the US AI safety agency has resigned.",
+        "South China Morning Post reports China’s Kimi K3 calls US safety curbs on top AI models into question.",
+        "The two outlets frame the developing situation within broader debates about AI safety policy and governance.",
+        "The pieces do not provide further details on dates, reasons, or follow-up actions in the provided coverage."
+      ],
+      "l": [
+        {
+          "d": "scmp.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWF5NkljQlhzaWFZcVRDUjBlam9POHY0bHk0MkpvX2Utak8wTThIclMySDVwQWhDcGw5VVdjd2tEX0NlM2NvbmZLMHozY2tZNnRUSFZySHN4ZWJQeVl0VzdwbnBtYS1uQWh3bVp1MWkxT1k4d0I1T1h4SWNhdVduNFhQb3ZMSC0tcURfdDRNTHJpdUVnZFBQd0NiMmNhaUktOG9TWjBRQzY3c0pubzRrX3dhT0doY2fSAbcBQVVfeXFMUGZYcExSRS15UGRERmtUWW9RWlZ0ZndiUHVMdDREd0pIaS1Jdkp3OENxaWJlS3VCOXZreGJmeFZVNGZiZEFDWWtKR2NhdERJRWVmN29Na2xpbE5mRDRSbkpJenVaTnlIa1Bkd0YycDhmZ0s1S2xpc2pBZ2ZzbWctX1FFazh2Y1hldmg1LUVmSnBaMktzUTlKc1lfcjZ3dFRfRVZJTHBJNUhEN0NaTHBWTDZNMWpMWXJV?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMl9UaTNLMHV0QmlCSkNjQXhIb3JZTVBYZHhPTVNZUURJb1UwUnZvazVGNXo2cU9FVmx4VE9UV2ZQZUxpeWFZTFZtOVQxNGJlaHRkWmNoNVByclhUUmNuX1FVczRSTHE2V1d2c2pnZkgzTzNUWkJId083ZUI1OFBTYTVyaw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "China’s Kimi K3 calls US safety curbs on top AI models into question",
+        "Head of US AI safety agency resigns"
       ]
     }
   ]
