@@ -2,7 +2,9 @@
   "date": "2026-07-21",
   "stories": [
     {
-      "cat": "models", "signal": 94, "sources": 41,
+      "cat": "models",
+      "signal": 94,
+      "sources": 41,
       "h": "OpenAI ships GPT-5.5 with cross-session memory on by default",
       "s": "Assistants that remember you across weeks changes what \"chatbot\" means — and raises fresh privacy questions.",
       "b": [
@@ -16,10 +18,17 @@
         "The privacy reaction was immediate. MIT Technology Review reports that digital rights groups are questioning how the feature interacts with data-deletion requests — whether deleting a conversation actually removes what the model has already absorbed into its memory profile. OpenAI told reporters that deletion requests purge associated memory entries within 30 days, but several researchers quoted in the coverage called for independent verification.",
         "The launch also sharpens the competitive picture: memory has become the new battleground among assistant makers, with each of the major labs now shipping some form of persistence. Coverage across 41 outlets makes this the most widely reported AI story of the day."
       ],
-      "l": ["openai.com", "theverge.com", "technologyreview.com", "+38"]
+      "l": [
+        "openai.com",
+        "theverge.com",
+        "technologyreview.com",
+        "+38"
+      ]
     },
     {
-      "cat": "policy", "signal": 88, "sources": 33,
+      "cat": "policy",
+      "signal": 88,
+      "sources": 33,
       "h": "EU begins enforcing AI Act rules for frontier models",
       "s": "First real test of whether the world's biggest AI law has teeth — labs must now file safety documentation.",
       "b": [
@@ -27,10 +36,17 @@
         "Fines can reach 3% of global revenue for non-compliance.",
         "US labs are lobbying for a grace period; Brussels says no."
       ],
-      "l": ["ft.com", "politico.eu", "reuters.com", "+30"]
+      "l": [
+        "ft.com",
+        "politico.eu",
+        "reuters.com",
+        "+30"
+      ]
     },
     {
-      "cat": "models", "signal": 83, "sources": 27,
+      "cat": "models",
+      "signal": 83,
+      "sources": 27,
       "h": "Meta open-sources Llama 5 weights, including the 400B flagship",
       "s": "The open-vs-closed gap narrows again — fine-tuners get frontier-class weights for free.",
       "b": [
@@ -38,10 +54,16 @@
         "License still restricts use by companies over 700M monthly users.",
         "Cloud providers raced out hosted versions within hours."
       ],
-      "l": ["ai.meta.com", "arstechnica.com", "+24"]
+      "l": [
+        "ai.meta.com",
+        "arstechnica.com",
+        "+24"
+      ]
     },
     {
-      "cat": "funding", "signal": 71, "sources": 19,
+      "cat": "funding",
+      "signal": 71,
+      "sources": 19,
       "h": "Mistral raises €2B at a €40B valuation",
       "s": "Europe's champion lab now has the war chest to stay in the frontier race through 2027.",
       "b": [
@@ -49,10 +71,16 @@
         "Money earmarked for a new training cluster in southern France.",
         "Valuation has 4x'd in eighteen months."
       ],
-      "l": ["bloomberg.com", "techcrunch.com", "+16"]
+      "l": [
+        "bloomberg.com",
+        "techcrunch.com",
+        "+16"
+      ]
     },
     {
-      "cat": "research", "signal": 67, "sources": 14,
+      "cat": "research",
+      "signal": 67,
+      "sources": 14,
       "h": "DeepMind system writes formally verified proofs for open math problems",
       "s": "Self-checking AI math is a big deal: the proofs can't be wrong, only incomplete.",
       "b": [
@@ -60,10 +88,16 @@
         "Cracked two previously unsolved competition-class problems.",
         "Mathematicians split on whether this counts as \"understanding.\""
       ],
-      "l": ["nature.com", "quantamagazine.org", "+11"]
+      "l": [
+        "nature.com",
+        "quantamagazine.org",
+        "+11"
+      ]
     },
     {
-      "cat": "products", "signal": 62, "sources": 12,
+      "cat": "products",
+      "signal": 62,
+      "sources": 12,
       "h": "Cursor launches autonomous multi-day coding agents for teams",
       "s": "Agents that run for days, not minutes — the IDE is becoming a place you review work, not write it.",
       "b": [
@@ -71,10 +105,16 @@
         "Priced per completed task rather than per seat.",
         "Early customers report 30–40% of merged PRs are now agent-authored."
       ],
-      "l": ["cursor.com", "news.ycombinator.com", "+9"]
+      "l": [
+        "cursor.com",
+        "news.ycombinator.com",
+        "+9"
+      ]
     },
     {
-      "cat": "research", "signal": 55, "sources": 10,
+      "cat": "research",
+      "signal": 55,
+      "sources": 10,
       "h": "Stanford study: AI triage matched senior doctors in 12-hospital trial",
       "s": "Strongest real-world evidence yet for AI in frontline medicine — but only with a human signing off.",
       "b": [
@@ -82,10 +122,16 @@
         "AI-assisted triage cut critical-case wait times by 18%.",
         "Authors stress results depended on clinician oversight at every step."
       ],
-      "l": ["nejm.org", "statnews.com", "+7"]
+      "l": [
+        "nejm.org",
+        "statnews.com",
+        "+7"
+      ]
     },
     {
-      "cat": "funding", "signal": 49, "sources": 9,
+      "cat": "funding",
+      "signal": 49,
+      "sources": 9,
       "h": "Nvidia commits $10B to AI infrastructure fund for smaller labs",
       "s": "Nvidia is now bankrolling its own future customers — vertical integration, but for demand.",
       "b": [
@@ -93,10 +139,16 @@
         "Aimed at labs and startups too small for hyperscaler deals.",
         "Antitrust watchers note it deepens ecosystem lock-in."
       ],
-      "l": ["cnbc.com", "wsj.com", "+7"]
+      "l": [
+        "cnbc.com",
+        "wsj.com",
+        "+7"
+      ]
     },
     {
-      "cat": "policy", "signal": 44, "sources": 8,
+      "cat": "policy",
+      "signal": 44,
+      "sources": 8,
       "h": "California's AI transparency law survives federal preemption challenge",
       "s": "States keep the right to regulate AI disclosure — expect a patchwork, not one national rule.",
       "b": [
@@ -104,10 +156,88 @@
         "Requires disclosure when consumers interact with AI systems.",
         "Similar bills pending in 14 other states."
       ],
-      "l": ["politico.com", "theverge.com", "+6"]
+      "l": [
+        "politico.com",
+        "theverge.com",
+        "+6"
+      ]
     },
     {
-      "cat": "products", "signal": 38, "sources": 7,
+      "cat": "policy",
+      "signal": 43,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "China’s AI models have Trump’s AI world at war with itself",
+      "s": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Over the weekend, several current and former advisors to Pres",
+      "b": [
+        "technologyreview.com: China’s AI models have Trump’s AI world at war with itself",
+        "wi-broadcasters.org: AI’s Impact on the Creative World"
+      ],
+      "body": [
+        "technologyreview.com: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Over the weekend, several current and former advisors to President Donald Trump on AI publicly lobbed insults at the country’s leading AI companies. David Sacks, the president’s AI and crypto “czar” until March, branded Anthropic’s models as “lobotomized” and “woke.” Emil Michael, a top Pentagon official, called OpenAI’s new head of strategic futures a “supreme village idiot.” It began because no one can agree on what to do about Kimi, a free, open source model that Chinese AI company Moonshot launched last week. It appears to rival the intelligence of models from OpenAI and Anthropic, which are very much not free. Kimi and other Chinese models like it pose a real problem for Trump. And they’re dividing the top AI strategists in his orbit into factions. Every time a new smart, free model from China like Kimi gets released, US companies see less reason to fork out money to access models from Anthropic or OpenAI. Given that enthusiasm for these and other AI companies is driving an outsized share of economic growth, China’s AI models create both economic and political problems for the president. They are “a threat for an administration that really doesn’t want more economic bad news,” Anton Leicht, a fellow at the Carnegie Endowment, wrote on X. They’ve already rattled US stocks . What is Trump to do? First, consider that this is all happening just a week after New York imposed the country’s first state ban on new data centers. There is growing distrust of AI companies, and I imagine a not-insignificant share of Americans would have little sympathy for OpenAI or Anthropic as they fend off cheaper competitors, and would say it’s not the government’s job to protect their interests. On this point, they’d see a sliver of agreement (and really just a sliver) with David Sacks, who on July 19 criticized top AI companies that “want the gove",
+        "wi-broadcasters.org: AI’s Impact on the Creative World Wisconsin Broadcasters Association"
+      ],
+      "l": [
+        "technologyreview.com",
+        "wi-broadcasters.org"
+      ],
+      "srcTitles": [
+        "China’s AI models have Trump’s AI world at war with itself",
+        "AI’s Impact on the Creative World"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 43,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "Adobe camera app s new feature will critique your photos using AI",
+      "s": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+      "b": [
+        "techcrunch.com: Adobe camera app s new feature will critique your photos using AI",
+        "theverge.com: Adobe’s ‘natural look’ camera app embraces generative AI"
+      ],
+      "body": [
+        "techcrunch.com: Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+        "theverge.com: Adobe's experimental camera app has taken an unexpected turn. After Project Indigo was launched last year to provide a \"more natural (SLR-like) look\" for iPhone photography, the Indigo camera app is now being updated with a suite of generative AI tools. And the change doesn't rely upon Adobe's own Firefly AI models. Adobe describes the [ ]"
+      ],
+      "l": [
+        "techcrunch.com",
+        "theverge.com"
+      ],
+      "srcTitles": [
+        "Adobe camera app s new feature will critique your photos using AI",
+        "Adobe’s ‘natural look’ camera app embraces generative AI"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 43,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "Halliday’s latest smart glasses feature a much-improved display",
+      "s": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-",
+      "b": [
+        "theverge.com: Halliday’s latest smart glasses feature a much-improved display",
+        "wired.com: Halliday’s New Smart Glasses Skip the Camera"
+      ],
+      "body": [
+        "theverge.com: I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-minute demo left me with achy eyeballs. It was an interesting concept with terrible execution, especially compared to the [ ]",
+        "wired.com: Halliday’s G2 glasses can listen to and summarize your workplace meetings—with no video involved."
+      ],
+      "l": [
+        "theverge.com",
+        "wired.com"
+      ],
+      "srcTitles": [
+        "Halliday’s latest smart glasses feature a much-improved display",
+        "Halliday’s New Smart Glasses Skip the Camera"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 38,
+      "sources": 7,
       "h": "Perplexity adds live audio briefings built from your follow topics",
       "s": "News is becoming something you subscribe to as a feed of interests, not publications.",
       "b": [
@@ -115,10 +245,16 @@
         "Cites sources inline; tap to jump to the article.",
         "Free tier limited to one topic."
       ],
-      "l": ["perplexity.ai", "techcrunch.com", "+5"]
+      "l": [
+        "perplexity.ai",
+        "techcrunch.com",
+        "+5"
+      ]
     },
     {
-      "cat": "research", "signal": 31, "sources": 5,
+      "cat": "research",
+      "signal": 31,
+      "sources": 5,
       "h": "Anthropic publishes interpretability atlas for production-scale models",
       "s": "A public map of what's happening inside a frontier model — catnip for safety researchers.",
       "b": [
@@ -126,10 +262,16 @@
         "Includes tooling for reproducing the analysis on open models.",
         "Third major interpretability release this year."
       ],
-      "l": ["anthropic.com", "arxiv.org", "+3"]
+      "l": [
+        "anthropic.com",
+        "arxiv.org",
+        "+3"
+      ]
     },
     {
-      "cat": "models", "signal": 24, "sources": 4,
+      "cat": "models",
+      "signal": 24,
+      "sources": 4,
       "h": "Alibaba's Qwen 4 tops open-weight leaderboards in 40 languages",
       "s": "Multilingual is where open Chinese models now clearly lead — worth watching if you ship globally.",
       "b": [
@@ -137,7 +279,11 @@
         "Strong on low-resource languages where Western models lag.",
         "Apache 2.0 licensed, no usage restrictions."
       ],
-      "l": ["qwenlm.ai", "huggingface.co", "+2"]
+      "l": [
+        "qwenlm.ai",
+        "huggingface.co",
+        "+2"
+      ]
     }
   ]
 }
