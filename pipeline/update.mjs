@@ -195,18 +195,21 @@ function clusterItems(items) {
     }
     c.domains = [...domains.keys()];
     c.rawWeight = [...domains.values()].reduce((a, b) => a + b, 0);
-    // Signal: log curve over effective source count. Strong sources (weight ≥2:
-    // labs, major press) count fully; weight-1 long-tail outlets count as √n so
-    // syndication spam can't inflate a story. Primary sources add a bonus.
-    // Roughly: 2 strong ≈ 44, 3 ≈ 57, 4 ≈ 68, 5+ → hot (70+).
+    // Signal = who it's about (primary) + coverage (secondary) + freshness.
+    // Base: tier-1 entity (frontier labs / big tech / major governments) 42,
+    // tier-2 30, unknown 20 — a major-player story with 2 sources outranks an
+    // unknown with 4. Coverage: log curve over effective sources; weight-1
+    // long-tail outlets count as √n so syndication can't inflate a story.
+    // Freshness: small boost that decays as the story ages within the day.
     const strong = [...domains.values()].filter((w) => w >= 2);
     const weak = c.domains.length - strong.length;
     const effN = strong.length + Math.sqrt(weak);
-    const bonus = 2 * strong.reduce((a, w) => a + (w - 1), 0);
-    c.signal = Math.max(
-      15,
-      Math.min(98, Math.round(20 + 66 * Math.log10(Math.max(1, effN)) + bonus))
-    );
+    const tier = entityTier(c);
+    const base = tier === 1 ? 42 : tier === 2 ? 30 : 20;
+    const coverage = 40 * Math.log10(Math.max(1, effN)) + 2 * strong.reduce((a, w) => a + (w - 1), 0);
+    const ageH = (Date.now() - Math.min(...c.items.map((it) => it.published))) / 3600000;
+    const freshness = ageH < 2 ? 6 : ageH < 5 ? 3 : 0;
+    c.signal = Math.max(15, Math.min(98, Math.round(base + coverage + freshness)));
     c.lead = c.items[0];
   }
   return clusters.sort((a, b) => b.signal - a.signal);
@@ -250,6 +253,40 @@ function storySim(cluster, story) {
 
 function keepCluster(c) {
   return c.domains.length >= 2 || c.rawWeight >= 3;
+}
+
+/* ---------------- entity weighting ---------------- */
+
+// Who the story is about matters more than how many outlets covered it.
+// Tier 1: frontier labs, big tech, majors — their news moves the field.
+const TIER1 = [
+  'openai', 'chatgpt', 'gpt', 'sora', 'anthropic', 'claude', 'google', 'deepmind', 'gemini',
+  'meta', 'llama', 'microsoft', 'copilot', 'nvidia', 'apple', 'siri', 'amazon', 'aws',
+  'alexa', 'xai', 'grok', 'tesla', 'mistral', 'deepseek', 'alibaba', 'qwen', 'baidu',
+  'bytedance', 'tiktok', 'moonshot', 'kimi', 'samsung', 'intel', 'amd', 'oracle', 'ibm',
+  'white house', 'congress', 'senate', 'eu ai act', 'european union', 'brussels',
+];
+// Tier 2: notable AI companies and institutions — significant but not field-moving.
+const TIER2 = [
+  'cursor', 'perplexity', 'hugging face', 'cohere', 'stability ai', 'midjourney', 'runway',
+  'databricks', 'scale ai', 'salesforce', 'adobe', 'palantir', 'spacex', 'stanford', 'mit',
+  'harvard', 'oxford', 'fda', 'sec', 'doj', 'pentagon', 'united nations', 'california',
+];
+
+// Word-boundary matching — 'intel' must not match "intelligence"
+const tierRegex = (list) =>
+  new RegExp(`\\b(${list.map((e) => e.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|')})\\b`);
+const TIER1_RE = tierRegex(TIER1);
+const TIER2_RE = tierRegex(TIER2);
+
+function entityTier(c) {
+  const text = c.items
+    .slice(0, 6)
+    .map((it) => it.title.toLowerCase())
+    .join(' ');
+  if (TIER1_RE.test(text)) return 1;
+  if (TIER2_RE.test(text)) return 2;
+  return 0;
 }
 
 function sourceChips(c) {
@@ -466,6 +503,7 @@ async function main() {
       // Signal always reflects the latest measured coverage (not a stale max)
       story.signal = c.signal;
       story.sources = c.domains.length;
+      if (!story.ts) story.ts = new Date().toISOString(); // fallback: scan time
       story.l = sourceChips(c);
       story.srcTitles = c.items.slice(0, 4).map((it) => it.title);
       // Re-write copy when coverage grew meaningfully, or when the story

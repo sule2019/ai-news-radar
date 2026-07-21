@@ -51,10 +51,9 @@ const description = `Today's AI news, ranked and summarized — the latest artif
       </form>
     </div>
     <footer class="colophon" id="scanstatus" data-built={builtAt}>
-      <span>Ranked by signal — coverage breadth × source quality. Rescanned every hour.</span>
-      <span class="scanline">
+      <span class="scanline" title="Rescanned every hour — green means on schedule">
         <span class="scan-dot" id="scan-dot"></span>
-        <span id="scan-text">Last scan {builtAt.slice(11, 16)} UTC</span>
+        <span id="scan-text">Last {builtAt.slice(11, 16)} UTC</span>
       </span>
     </footer>
   </div>
@@ -107,11 +106,9 @@ const description = `Today's AI news, ranked and summarized — the latest artif
       const ago = mins < 1 ? 'just now' : mins < 60 ? `${mins}m ago` : `${Math.round(mins / 60)}h ago`;
       const next = new Date(Math.ceil((Date.now() + 60000) / 3600000) * 3600000);
       const nextLabel = `${String(next.getUTCHours()).padStart(2, '0')}:${String(next.getUTCMinutes()).padStart(2, '0')}`;
-      const [cls, label] =
-        mins < 75 ? ['live', 'Live'] : mins < 150 ? ['late', 'Running late'] : ['down', 'Updates stalled'];
+      const cls = mins < 75 ? 'live' : mins < 150 ? 'late' : 'down';
       document.getElementById('scan-dot')!.className = `scan-dot ${cls}`;
-      document.getElementById('scan-text')!.textContent =
-        `Last scan ${ago} · next ~${nextLabel} UTC · ${label}`;
+      document.getElementById('scan-text')!.textContent = `Last ${ago} · Next ${nextLabel} UTC`;
     }
 
     if (sentinel && older.length > 0) {

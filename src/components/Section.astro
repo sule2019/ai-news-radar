@@ -19,21 +19,24 @@ const { section } = Astro.props;
               <span class="sowhat">{st.s}</span>
               <span class="meta">
                 <span class={`cat ${st.cat}`}><i></i>{CATS[st.cat]}</span>
-                {section.kind === 'month' ? (
-                  <span class="srcmeta">{st.date}</span>
-                ) : (
-                  <span class="srcmeta">{st.sources} sources</span>
-                )}
-                {st.ts && <span class="srcmeta ago" data-ts={st.ts}>{agoLabel(st.ts)}</span>}
+                {section.kind === 'month' && <span class="srcmeta">{st.date}</span>}
               </span>
             </span>
-            <span class={`sigpill ${sigTier(st.signal)}`}>
-              <span class="bars">
-                {[1, 2, 3, 4].map((n) => (
-                  <i class={n <= sigBarsOn(st.signal) ? 'on' : ''}></i>
-                ))}
+            <span class="sigcol">
+              <span class={`sigpill ${sigTier(st.signal)}`}>
+                <span class="bars">
+                  {[1, 2, 3, 4].map((n) => (
+                    <i class={n <= sigBarsOn(st.signal) ? 'on' : ''}></i>
+                  ))}
+                </span>
+                {st.signal}
               </span>
-              {st.signal}
+              {section.kind !== 'month' && (
+                <span class="sigsub">
+                  {st.sources} src
+                  {st.ts && <span class="ago" data-ts={st.ts}>{agoLabel(st.ts)}</span>}
+                </span>
+              )}
             </span>
           </a>
         </li>

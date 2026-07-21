@@ -191,6 +191,12 @@ h1, h2, h3, p, ul, ol { margin: 0; }
   color: var(--faint);
 }
 
+/* Signal column: score pill with source count + freshness beneath */
+.sigcol { display: flex; flex-direction: column; align-items: flex-end; gap: 4px; flex-shrink: 0; }
+.sigsub { font-size: 11px; color: var(--faint); white-space: nowrap; }
+.sigsub .ago::before { content: ' · '; }
+.sigsub .ago:empty::before { content: ''; }
+
 /* Scan status footer */
 #scanstatus { display: flex; flex-direction: column; gap: 6px; align-items: center; }
 .scanline { display: inline-flex; align-items: center; gap: 7px; }
