@@ -2,25 +2,40 @@
 import Base from '../layouts/Base.astro';
 import Nav from '../components/Nav.astro';
 import Section from '../components/Section.astro';
-import { getSections } from '../lib/data.js';
+import { getDays, getMonths } from '../lib/data.js';
 
-const sections = getSections();
-const today = sections[0];
-const description = `Today's AI news, ranked and summarized from 200+ sources — every story that mattered in one 90-second scan. Today: ${today.stories
+const days = getDays();
+const months = getMonths();
+
+// The most recent days ship inline in the HTML; older days lazy-load
+// as the reader scrolls toward them (each also has its own indexed page).
+const INLINE_DAYS = 7;
+const inlineDays = days.slice(0, INLINE_DAYS);
+const olderDays = days.slice(INLINE_DAYS).map((d) => ({ url: d.url, title: d.title, sub: d.sub }));
+const navSections = [...inlineDays, ...months];
+
+const today = days[0];
+const description = `Today's AI news, ranked and summarized — the latest artificial intelligence stories from 200+ sources: model releases, research, funding, and policy in one 90-second scan. Now: ${today.stories
   .slice(0, 2)
   .map((s) => s.h)
   .join(' · ')}`;
 ---
 <Base title="AI News Radar — Today's Top AI Stories, Ranked & Summarized" description={description} page="home">
-  <Nav slot="nav" sections={sections} />
+  <Nav slot="nav" sections={navSections} />
 
   <header class="intro">
     <h1>Today's AI news, ranked.</h1>
-    <p>Every story that mattered from 200+ sources, rewritten in one line each. Scan the day in 90 seconds.</p>
+    <p>
+      The latest AI news from 200+ sources, ranked by how much each story matters and summarized in
+      one line — new artificial intelligence developments, model releases, research, funding, and
+      policy, updated every hour. Scan the day in 90 seconds.
+    </p>
   </header>
 
-  <main>
-    {sections.map((section) => <Section section={section} />)}
+  <main id="feed" data-older={JSON.stringify(olderDays)}>
+    {inlineDays.map((section) => <Section section={section} />)}
+    {olderDays.length > 0 && <div id="lazy-sentinel" class="lazy-sentinel" aria-hidden="true"></div>}
+    {months.map((section) => <Section section={section} />)}
   </main>
 
   <div class="feed-end">
@@ -35,4 +50,52 @@ const description = `Today's AI news, ranked and summarized from 200+ sources �
     </div>
     <p class="colophon">Ranked by signal — how widely and seriously each story is covered.</p>
   </div>
+
+  <script>
+    // Lazy-load older days as the reader scrolls toward the end of the feed.
+    // Fetches each day's own static page and lifts its section into the feed,
+    // starting ~1.5 screens before the sentinel becomes visible.
+    const feed = document.getElementById('feed');
+    const sentinel = document.getElementById('lazy-sentinel');
+    const older: { url: string; title: string; sub: string }[] = JSON.parse(
+      feed?.dataset.older || '[]'
+    );
+    let next = 0;
+    let loading = false;
+
+    async function loadNextDay() {
+      if (loading || next >= older.length || !sentinel) return;
+      loading = true;
+      sentinel.classList.add('loading');
+      const day = older[next];
+      try {
+        const html = await (await fetch(day.url)).text();
+        const doc = new DOMParser().parseFromString(html, 'text/html');
+        const section = doc.querySelector('section.day');
+        if (section) {
+          // Day pages use absolute titles ("AI News · Monday, July 14, 2026");
+          // in the feed, restore the relative label ("6 days ago · Mon, Jul 14").
+          const h2 = section.querySelector('.day-head h2');
+          if (h2) h2.innerHTML = `${day.title}<span class="sub">${day.sub}</span>`;
+          sentinel.before(section);
+        }
+        next++;
+      } catch {
+        // network hiccup — retry on the next intersection
+      }
+      sentinel.classList.remove('loading');
+      if (next >= older.length) sentinel.remove();
+      loading = false;
+    }
+
+    if (sentinel && older.length > 0) {
+      const io = new IntersectionObserver(
+        (entries) => {
+          if (entries.some((e) => e.isIntersecting)) loadNextDay();
+        },
+        { rootMargin: '1200px 0px' }
+      );
+      io.observe(sentinel);
+    }
+  </script>
 </Base>

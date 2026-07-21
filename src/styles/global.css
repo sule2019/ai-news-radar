@@ -179,6 +179,17 @@ h1, h2, h3, p, ul, ol { margin: 0; }
 }
 .stories { list-style: none; margin: 0; padding: 0; }
 .story + .story { border-top: 1px solid var(--line); }
+/* Native lazy rendering: offscreen stories aren't laid out or painted
+   until the reader scrolls near them */
+.story { content-visibility: auto; contain-intrinsic-size: auto 96px; }
+
+/* Sentinel for lazy-loading older days into the feed */
+.lazy-sentinel { min-height: 48px; display: flex; align-items: center; justify-content: center; }
+.lazy-sentinel.loading::after {
+  content: 'Loading earlier days…';
+  font-size: 12.5px;
+  color: var(--faint);
+}
 
 .row {
   display: flex;

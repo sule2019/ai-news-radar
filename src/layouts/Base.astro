@@ -50,7 +50,6 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
       // and the URL follows the day you're reading (real, shareable URLs).
       if (document.body.dataset.page === 'home') {
         const pills = [...document.querySelectorAll('.seg a[data-section]')] as HTMLAnchorElement[];
-        const sections = [...document.querySelectorAll('section.day[data-url]')] as HTMLElement[];
 
         pills.forEach((pill) => {
           pill.addEventListener('click', (e) => {
@@ -62,6 +61,8 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
         });
 
         const sync = () => {
+          // Query live — older days are appended to the feed as they lazy-load
+          const sections = [...document.querySelectorAll('section.day[data-url]')] as HTMLElement[];
           let active: HTMLElement | null = null;
           for (const sec of sections) {
             if (sec.getBoundingClientRect().top <= 130) active = sec;
