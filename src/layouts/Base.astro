@@ -53,6 +53,29 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
       formatAgo();
       (window as any).formatAgo = formatAgo; // used by the homepage lazy loader
 
+      // Share: native share sheet on mobile, copy-link on desktop
+      document.querySelectorAll('.sharebtn').forEach((btn) => {
+        btn.addEventListener('click', async () => {
+          const payload = { title: document.title, url: location.href };
+          if (navigator.share) {
+            try {
+              await navigator.share(payload);
+            } catch {
+              /* user dismissed the sheet */
+            }
+          } else {
+            try {
+              await navigator.clipboard.writeText(payload.url);
+              const prev = btn.textContent;
+              btn.textContent = 'Link copied ✓';
+              setTimeout(() => (btn.textContent = prev), 1800);
+            } catch {
+              window.prompt('Copy this link:', payload.url);
+            }
+          }
+        });
+      });
+
       // Newsletter form (placeholder until a provider is wired up)
       document.querySelectorAll('.subform').forEach((form) => {
         form.addEventListener('submit', (e) => {

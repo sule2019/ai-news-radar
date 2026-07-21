@@ -289,6 +289,20 @@ h1, h2, h3, p, ul, ol { margin: 0; }
 }
 .article-meta { display: flex; align-items: center; gap: 14px; flex-wrap: wrap; }
 .article-meta .sigpill { margin-left: auto; }
+
+.sharebtn {
+  font: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 12px;
+  border-radius: 99px;
+  border: 1px solid var(--line-2);
+  background: var(--card);
+  color: var(--mut);
+  cursor: pointer;
+}
+.sharebtn:hover { color: var(--ink); border-color: var(--faint); }
+.sharebtn:focus-visible { outline: 2px solid var(--hot); outline-offset: 2px; }
 .article h1 {
   font-size: 25px;
   font-weight: 700;
