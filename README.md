@@ -61,7 +61,7 @@ Before deploying: set the real domain in `astro.config.mjs` (`site:`) and `publi
 4. Keeps clusters covered by 2+ outlets (or a single weight-3 primary source)
 5. Matches clusters against stories already published today — existing copy stays stable, only signal/source counts update
 6. New clusters get their headline / why-it-matters / bullets / category written by GPT-5 nano (OpenAI structured outputs). Without an API key it falls back to draft copy from feed text.
-7. Writes `src/data/days/<today>.json` (max 15 stories/day, sorted by signal) and commits. At midnight UTC the day freezes automatically — a new file starts.
+7. Writes `src/data/days/<today>.json` (every cluster that passes the quality gate, sorted by signal) and commits. At midnight UTC the day freezes automatically — a new file starts.
 
 Test locally with `node pipeline/update.mjs --dry-run` (prints instead of writing).
 

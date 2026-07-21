@@ -22,7 +22,6 @@ const MODEL = 'gpt-5-nano'; // the one dial for writing quality vs cost
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const DRY_RUN = process.argv.includes('--dry-run');
-const MAX_STORIES_PER_DAY = 15;
 const MAX_ITEM_AGE_HOURS = 36;
 
 /* ---------------- helpers ---------------- */
@@ -395,12 +394,11 @@ async function main() {
     }
   }
 
-  // New clusters → new stories (respect the per-day cap)
-  const room = MAX_STORIES_PER_DAY - existing.stories.length;
+  // New clusters → new stories (no cap: the quality gate in keepCluster
+  // does the curation; the day's length reflects the news cycle)
   const fresh = clusters
     .map((c, ci) => ({ c, ci }))
-    .filter(({ ci }) => !usedClusters.has(ci))
-    .slice(0, Math.max(0, room));
+    .filter(({ ci }) => !usedClusters.has(ci));
 
   if (fresh.length > 0 || rewrites.length > 0) {
     console.log(`${fresh.length} new stories, ${rewrites.length} to enrich with grown coverage`);
