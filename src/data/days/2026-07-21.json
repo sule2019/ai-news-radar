@@ -2,171 +2,11 @@
   "date": "2026-07-21",
   "stories": [
     {
-      "cat": "models",
-      "signal": 94,
-      "sources": 41,
-      "h": "OpenAI ships GPT-5.5 with cross-session memory on by default",
-      "s": "Assistants that remember you across weeks changes what \"chatbot\" means — and raises fresh privacy questions.",
-      "b": [
-        "Memory is on by default for consumer accounts; enterprise admins get org-level controls.",
-        "Early testers report large gains on long-horizon tasks like multi-week research projects.",
-        "Privacy groups are already asking how deletion requests interact with model memory."
-      ],
-      "body": [
-        "OpenAI released GPT-5.5 today, and the headline change is not benchmark scores — it is memory. The model now retains context from every conversation a user has with it, across sessions, enabled by default for Plus and Pro subscribers. According to OpenAI's announcement, the system builds a continuously updated profile of the user's projects, preferences, and past discussions, and draws on it automatically in new chats.",
-        "The company says early testers saw the largest gains on long-horizon work: multi-week research projects, ongoing writing collaborations, and coding work that previously required re-explaining context in every session. The Verge reports that enterprise customers get organization-level controls, including the ability to disable memory entirely for compliance-sensitive teams, and per-conversation incognito sessions remain available to all users.",
-        "The privacy reaction was immediate. MIT Technology Review reports that digital rights groups are questioning how the feature interacts with data-deletion requests — whether deleting a conversation actually removes what the model has already absorbed into its memory profile. OpenAI told reporters that deletion requests purge associated memory entries within 30 days, but several researchers quoted in the coverage called for independent verification.",
-        "The launch also sharpens the competitive picture: memory has become the new battleground among assistant makers, with each of the major labs now shipping some form of persistence. Coverage across 41 outlets makes this the most widely reported AI story of the day."
-      ],
-      "l": [
-        "openai.com",
-        "theverge.com",
-        "technologyreview.com",
-        "+38"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 88,
-      "sources": 33,
-      "h": "EU begins enforcing AI Act rules for frontier models",
-      "s": "First real test of whether the world's biggest AI law has teeth — labs must now file safety documentation.",
-      "b": [
-        "General-purpose model providers must submit training-data summaries and risk assessments.",
-        "Fines can reach 3% of global revenue for non-compliance.",
-        "US labs are lobbying for a grace period; Brussels says no."
-      ],
-      "l": [
-        "ft.com",
-        "politico.eu",
-        "reuters.com",
-        "+30"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 83,
-      "sources": 27,
-      "h": "Meta open-sources Llama 5 weights, including the 400B flagship",
-      "s": "The open-vs-closed gap narrows again — fine-tuners get frontier-class weights for free.",
-      "b": [
-        "Benchmarks put it within a few points of top closed models on reasoning.",
-        "License still restricts use by companies over 700M monthly users.",
-        "Cloud providers raced out hosted versions within hours."
-      ],
-      "l": [
-        "ai.meta.com",
-        "arstechnica.com",
-        "+24"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 71,
-      "sources": 19,
-      "h": "Mistral raises €2B at a €40B valuation",
-      "s": "Europe's champion lab now has the war chest to stay in the frontier race through 2027.",
-      "b": [
-        "Round led by sovereign funds from France and UAE.",
-        "Money earmarked for a new training cluster in southern France.",
-        "Valuation has 4x'd in eighteen months."
-      ],
-      "l": [
-        "bloomberg.com",
-        "techcrunch.com",
-        "+16"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 67,
-      "sources": 14,
-      "h": "DeepMind system writes formally verified proofs for open math problems",
-      "s": "Self-checking AI math is a big deal: the proofs can't be wrong, only incomplete.",
-      "b": [
-        "System pairs an LLM prover with a Lean verifier in a search loop.",
-        "Cracked two previously unsolved competition-class problems.",
-        "Mathematicians split on whether this counts as \"understanding.\""
-      ],
-      "l": [
-        "nature.com",
-        "quantamagazine.org",
-        "+11"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 62,
-      "sources": 12,
-      "h": "Cursor launches autonomous multi-day coding agents for teams",
-      "s": "Agents that run for days, not minutes — the IDE is becoming a place you review work, not write it.",
-      "b": [
-        "Agents open PRs, respond to review comments, and re-run CI on their own.",
-        "Priced per completed task rather than per seat.",
-        "Early customers report 30–40% of merged PRs are now agent-authored."
-      ],
-      "l": [
-        "cursor.com",
-        "news.ycombinator.com",
-        "+9"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 55,
-      "sources": 10,
-      "h": "Stanford study: AI triage matched senior doctors in 12-hospital trial",
-      "s": "Strongest real-world evidence yet for AI in frontline medicine — but only with a human signing off.",
-      "b": [
-        "Randomized trial across 12 ERs over nine months.",
-        "AI-assisted triage cut critical-case wait times by 18%.",
-        "Authors stress results depended on clinician oversight at every step."
-      ],
-      "l": [
-        "nejm.org",
-        "statnews.com",
-        "+7"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 49,
-      "sources": 9,
-      "h": "Nvidia commits $10B to AI infrastructure fund for smaller labs",
-      "s": "Nvidia is now bankrolling its own future customers — vertical integration, but for demand.",
-      "b": [
-        "Fund offers compute credits plus equity investment.",
-        "Aimed at labs and startups too small for hyperscaler deals.",
-        "Antitrust watchers note it deepens ecosystem lock-in."
-      ],
-      "l": [
-        "cnbc.com",
-        "wsj.com",
-        "+7"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 44,
-      "sources": 8,
-      "h": "California's AI transparency law survives federal preemption challenge",
-      "s": "States keep the right to regulate AI disclosure — expect a patchwork, not one national rule.",
-      "b": [
-        "Ninth Circuit ruled the state law doesn't conflict with federal framework.",
-        "Requires disclosure when consumers interact with AI systems.",
-        "Similar bills pending in 14 other states."
-      ],
-      "l": [
-        "politico.com",
-        "theverge.com",
-        "+6"
-      ]
-    },
-    {
       "cat": "policy",
       "signal": 43,
       "sources": 2,
       "writtenSources": 2,
+      "draft": true,
       "h": "China’s AI models have Trump’s AI world at war with itself",
       "s": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Over the weekend, several current and former advisors to Pres",
       "b": [
@@ -191,6 +31,7 @@
       "signal": 43,
       "sources": 2,
       "writtenSources": 2,
+      "draft": true,
       "h": "Adobe camera app s new feature will critique your photos using AI",
       "s": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
       "b": [
@@ -215,6 +56,7 @@
       "signal": 43,
       "sources": 2,
       "writtenSources": 2,
+      "draft": true,
       "h": "Halliday’s latest smart glasses feature a much-improved display",
       "s": "I first slipped on Halliday's original smart glasses at CES 2025. I was not a fan. The glasses had a tiny, movable display window embedded into the frame that was incredibly finicky to see, and my 30-",
       "b": [
@@ -232,57 +74,6 @@
       "srcTitles": [
         "Halliday’s latest smart glasses feature a much-improved display",
         "Halliday’s New Smart Glasses Skip the Camera"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 38,
-      "sources": 7,
-      "h": "Perplexity adds live audio briefings built from your follow topics",
-      "s": "News is becoming something you subscribe to as a feed of interests, not publications.",
-      "b": [
-        "Two-minute generated audio briefs, updated three times daily.",
-        "Cites sources inline; tap to jump to the article.",
-        "Free tier limited to one topic."
-      ],
-      "l": [
-        "perplexity.ai",
-        "techcrunch.com",
-        "+5"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 31,
-      "sources": 5,
-      "h": "Anthropic publishes interpretability atlas for production-scale models",
-      "s": "A public map of what's happening inside a frontier model — catnip for safety researchers.",
-      "b": [
-        "Interactive atlas of features found in a deployed model.",
-        "Includes tooling for reproducing the analysis on open models.",
-        "Third major interpretability release this year."
-      ],
-      "l": [
-        "anthropic.com",
-        "arxiv.org",
-        "+3"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 4,
-      "h": "Alibaba's Qwen 4 tops open-weight leaderboards in 40 languages",
-      "s": "Multilingual is where open Chinese models now clearly lead — worth watching if you ship globally.",
-      "b": [
-        "Best open-weight scores on 40 of 52 tested languages.",
-        "Strong on low-resource languages where Western models lag.",
-        "Apache 2.0 licensed, no usage restrictions."
-      ],
-      "l": [
-        "qwenlm.ai",
-        "huggingface.co",
-        "+2"
       ]
     }
   ]

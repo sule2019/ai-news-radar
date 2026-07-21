@@ -327,7 +327,9 @@ async function main() {
       story.sources = Math.max(story.sources, c.domains.length);
       story.l = sourceChips(c);
       story.srcTitles = c.items.slice(0, 4).map((it) => it.title);
-      if (c.domains.length >= (story.writtenSources ?? story.sources) + 3) {
+      // Re-write copy when coverage grew meaningfully, or when the story
+      // only has draft copy (written while the LLM was unavailable)
+      if (story.draft || c.domains.length >= (story.writtenSources ?? story.sources) + 3) {
         rewrites.push({ story, cluster: c });
       }
     }
@@ -360,6 +362,7 @@ async function main() {
         signal: c.signal,
         sources: c.domains.length,
         writtenSources: c.domains.length,
+        ...(copies ? {} : { draft: true }),
         h: copy.h,
         s: copy.s,
         b: copy.b,
@@ -371,10 +374,12 @@ async function main() {
     rewrites.forEach(({ story, cluster }, ri) => {
       const copy = copies?.find((x) => x.id === fresh.length + ri);
       if (!copy) return; // no LLM available — keep the existing copy
+      story.cat = copy.cat;
       story.s = copy.s;
       story.b = copy.b;
       story.body = copy.body;
       story.writtenSources = cluster.domains.length;
+      delete story.draft;
     });
   } else {
     console.log('No new stories this run');
