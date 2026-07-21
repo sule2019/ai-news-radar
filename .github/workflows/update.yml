@@ -50,5 +50,6 @@ jobs:
             echo "No changes this run"
           else
             git commit -m "feed: $(date -u '+%Y-%m-%d %H:%M') UTC update"
+            git pull --rebase origin main
             git push
           fi
