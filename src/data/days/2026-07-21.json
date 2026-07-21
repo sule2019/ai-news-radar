@@ -2,351 +2,100 @@
   "date": "2026-07-21",
   "stories": [
     {
-      "cat": "funding",
-      "signal": 49,
-      "sources": 3,
-      "writtenSources": 2,
-      "h": "Anthropic s landmark $1.5B copyright settlement is approved",
-      "s": "The settlement monetizes past copyright disputes while shaping how training data could be treated in future AI development and litigation.",
+      "cat": "products",
+      "signal": 71,
+      "sources": 5,
+      "writtenSources": 5,
+      "h": "Google unveils Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber",
+      "s": "Lower token costs and faster, more reliable agentic workflows could meaningfully cut operating costs for AI deployments and enable larger-scale automation.",
       "b": [
-        "The class-action settlement is $1.5 billion with authors and publishers, averaging about $3,000 per work for roughly 500,000 works.",
-        "Judge Araceli Martínez-Olguín signed off on final approval after predecessor Judge William Alsup’s preliminary approval, with Alsup having ruled that training on copyrighted text can be fair use but piracy remains unlawful.",
-        "Anthropic will resolve claims tied to books it downloaded from piracy sites as part of its training data, while noting ongoing copyright litigation with additional authors.",
-        "The case would not set binding precedent as a district court decision; other lawsuits against Google, Meta, Midjourney, and OpenAI remain ongoing."
+        "3.6 Flash consumes 17% fewer output tokens than 3.5 Flash on the Artificial Analysis Index.",
+        "Price: 1.50/1M input tokens and 7.50/1M output tokens.",
+        "3.5 Flash-Lite runs at 350 output tokens per second.",
+        "3.6 Flash API rollout starts today and will replace 3.5 Flash in the Gemini app."
       ],
       "body": [
-        "A federal judge signed off on Anthropic’s $1.5 billion class-action copyright settlement, paving the way for authors and publishers to receive compensation for works allegedly used to train its AI models. Reuters reported that final approval was granted by Judge Araceli Martínez-Olguín in the U.S. District Court for the Northern District of California.",
-        "The settlement would pay approximately $3,000 per book across an estimated 500,000 works, to be shared among rights holders. The agreement follows a ruling by the now-retired Judge William Alsup that training AI models on copyrighted text can count as fair use, while piracy conducted via sites like Library Genesis could still be illegal.",
-        "Anthropic previously disclosed that it built its training library from both legitimately purchased and scanned books and works downloaded from pirate sites. The settlement acknowledges the piracy concerns and avoids a jury trial on the unresolved issues, though it does not resolve the broader industry-wide copyright questions or set binding precedent since it is a district-court resolution.",
-        "The Verge’s coverage notes that, while many authors view the payout as meaningful, it may not satisfy all rights holders, and other lawsuits against major players in the space remain active."
+        "Google announced Gemini 3.6 Flash, along with 3.5 Flash-Lite and 3.5 Flash Cyber, in a post describing the new models as delivering improved efficiency, lower latency, and more reliable performance for production AI agents.",
+        "The blog notes that 3.6 Flash builds on feedback from 3.5 Flash and delivers a step up in coding and knowledge work while markedly improving token efficiency. It cites a 17% reduction in output tokens on the Artificial Analysis Index and mentions fewer reasoning steps and tool calls for multi-step workflows, in addition to a lower cost per task (1.50/1M input tokens and 7.50/1M output tokens).",
+        "Google also introduces 3.5 Flash-Lite, described as the fastest model in the 3.5 series, capable of 350 output tokens per second. Pricing for Flash-Lite is 0.30/1M input tokens and 2.50/1M output tokens, with claimed improvements in throughput and cost efficiency for high-volume developer workloads. The post highlights benchmarks where 3.5 Flash-Lite outperforms earlier Flash iterations on several tasks and notes built-in capabilities like computer use as a tool for agentic tasks.",
+        "Other notes in the release include that 3.6 Flash will begin rolling out in the API today and will take over from 3.5 Flash in the Gemini app. The company also released 3.5 Flash-Lite and 3.5 Flash Cyber, with Cyber described as a limited pilot for cybersecurity applications, and a fuller 3.5 Pro in testing with partners and planned for broader availability when ready. Google also mentions that it has started a pre-training run for Gemini 4 and has added enhanced Frontier Safety safeguards for CBRN and cyber offense misuses to 3.6 Flash.",
+        "Ars Technica’s coverage adds a performance datapoint from the DeepSWE coding test, noting 3.6 Flash achieves 49% vs 37% for 3.5 Flash in that benchmark, and that 3.6 Flash uses fewer tokens overall while improving coding performance. The report also notes 3.5 Flash Lite’s deployment in the ecosystem and that 3.5 Pro remains in testing with partners, with a stated goal to release “as soon as it’s ready.”"
       ],
       "l": [
         {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved"
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
         },
         {
           "d": "arstechnica.com",
-          "u": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic s landmark $1.5B copyright settlement is approved",
-        "Anthropic’s $1.5 billion book piracy settlement approved by judge",
-        "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 47,
-      "sources": 2,
-      "writtenSources": 2,
-      "h": "Google unveils Gemini 3.6 Flash, 3.5 Flash-Lite and 3.5 Flash Cyber",
-      "s": "The new pricing and token efficiency could lower the cost of running AI agents at scale, changing the economics of enterprise AI.",
-      "b": [
-        "3.6 Flash reduces output tokens by 17% versus 3.5 Flash on the Artificial Analysis Index, with fewer reasoning steps and tool calls for multi-step workflows.",
-        "3.6 Flash price is $1.50 per 1M input tokens and $7.50 per 1M output tokens.",
-        "3.5 Flash-Lite is the fastest in the 3.5 series, delivering 350 output tokens per second and priced at $0.30 per 1M input tokens and $2.50 per 1M output tokens, with several benchmarks showing strong price‑to‑performance gains (e.g., SWE‑Bench Pro, OSWorld‑Verified).",
-        "3.6 Flash ships with enhanced Frontier Safety safeguards for CBRN and cyber misuse, designed to resist jailbreaks while still enabling beneficial uses."
-      ],
-      "body": [
-        "Google has introduced a new generation of its Gemini agents, detailing Gemini 3.6 Flash along with 3.5 Flash-Lite and 3.5 Flash Cyber. The release emphasizes higher efficiency and reliability to support production AI agents at scale, with claims of reduced token usage and lower costs for running agentic tasks, according to Google. The company notes that 3.6 Flash builds on feedback from 3.5 Flash to push gains in coding and knowledge tasks while cutting token waste.",
-        "On efficiency and price, Google states that 3.6 Flash consumes 17% fewer output tokens than 3.5 Flash on the Artificial Analysis Index, and it also reduces the number of reasoning steps and tool calls required for multi-step workflows. The model is priced at $1.50 per 1 million input tokens and $7.50 per 1 million output tokens, with the intent of making agents more cost-effective to build and run.",
-        "Gemini 3.5 Flash-Lite is highlighted as the fastest in the 3.5 series, reportedly running at 350 output tokens per second. It is priced at $0.30 per 1 million input tokens and $2.50 per 1 million output tokens and is positioned for high-throughput developer workflows like agentic search and document processing. Google cites multiple evaluations where 3.5 Flash-Lite outperformed earlier Flash variants on various tasks, including benchmarks showing improvements in long-context and real-world task execution.",
-        "The release also describes 3.5 Flash-Lite’s capability to scale for agentic systems, with configurable tradeoffs for latency and cost. It notes that across multiple thinking levels, 3.5 Flash-Lite outperforms 3.1 Flash-Lite in several metrics and adds new built-in tools to support agentic tasks across surfaces. Google provides benchmarks such as Terminal-Bench 2.1 (54% vs. 31%), GDM-MRCR v2 (72.2% vs. 60.1%), and GDPval-AA v2 (1140 vs. 642) to illustrate performance gains. It also notes that 3.5 Flash-Lite can generate 25 ready-to-explore web design concepts when used with the master agent.",
-        "Finally, the company flags safety as a focus, reporting that 3.6 Flash includes Frontier Safety safeguards for misuse in CBRN and cyber offense domains and is designed to be less prone to refusals for beneficial uses. Beyond these Flash models, Google says it has begun a pre-training run for Gemini 4 and is testing Gemini 3.5 Flash-Cyber as part of its broader roadmap."
-      ],
-      "l": [
-        {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/"
+          "u": "https://arstechnica.com/google/2026/07/google-reveals-faster-and-cheaper-gemini-3-6-flash-says-3-5-pro-is-still-in-testing/"
         },
         {
           "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260721/p29#a260721p29"
+          "u": "https://www.techmeme.com/260721/p30#a260721p30"
+        },
+        {
+          "d": "onnj.com",
+          "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sREkzVUVpblJMbnh4aUd6Y1hLNXYzaEp4U2ZnZHU4cS1TZ0dWVEFzREotVXNiQTFPc2l0cEVpVlB6ZUpYNjBfX2xQZjdwRWs?oc=5"
+        },
+        {
+          "d": "+1"
         }
       ],
       "srcTitles": [
         "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+        "Google announces Gemini 3.6 Flash and cybersecurity AI, teases 3.5 Pro and Gemini 4",
+        "Google says Gemini 3.6 Flash delivers better coding, knowledge work, and multimodal performance while reducing output token usage by up to 17% vs. 3.5 Flash (MacKenzie Sigalos/CNBC)",
         "Google launches Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber, and says it has started its \"most ambitious pre-training run yet\" for Gemini 4 (Tulsee Doshi/Google)"
       ]
     },
     {
-      "cat": "products",
-      "signal": 47,
-      "sources": 3,
-      "writtenSources": 3,
-      "h": "Adobe camera app s new feature will critique your photos using AI",
-      "s": "If testers embrace AI critique and automated edits, Project Indigo could reshape consumer photography workflows and privacy considerations.",
-      "b": [
-        "Project Indigo adds AI-powered photo critique and editing suggestions to an experimental iOS camera app, using LLMs to guide improvements.",
-        "The app’s new capabilities include a critique of framing, lighting, colors, and emotional impact, plus capture and edit suggestions for reshooting and adjustments.",
-        "Adobe says the features are part of an “AI Playground” in Indigo, with a design that favors deterministic outputs via button-driven prompts and the option to opt out and continue using the app as before.",
-        "Testing is limited to select users, with free access to the AI Playground being tested over the coming weeks and potential expansion to paid tiers if the experiment proves successful."
-      ],
-      "body": [
-        "Adobe has expanded its experimental iOS camera app, Project Indigo, with AI-powered features that will critique photos and propose editing changes. The company describes Indigo as an ongoing experiment designed to provide more deterministic outputs through button-based prompts, while letting users opt out of the AI features and continue using the app in its original form. The updates are part of the app’s broader AI Playground and are currently being tested with a subset of users.",
-        "The new capabilities include a photo critique that offers professional opinions on framing, lighting, colors, and the emotional impact of an image, as well as capture and edit suggestions that guide users on how to reframe, adjust exposure, or change objects in viewfinder. Adobe says the features are intended to teach users photography tricks even if they don’t agree with the AI assessment.",
-        "Project Indigo’s AI Playground relies on Gemini-based Nano Banana for these features, but Adobe says it is open to swapping in other models, including its own Firefly family. The features, grouped under the AI Playground banner, are described as an experiment and may never reach a wider audience depending on user uptake and feedback.",
-        "The update also introduces four sections within the AI Playground: Styles, Object Editing, Photo Guidance, and Custom Edit. Each section contains multiple buttons or toggles that trigger GenAI prompts engineered for those tasks. Users can re-run an edit flow by pressing a button again to get a slightly different result."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update"
-        }
-      ],
-      "srcTitles": [
-        "Adobe camera app s new feature will critique your photos using AI",
-        "Adobe’s ‘natural look’ camera app embraces generative AI"
-      ]
-    },
-    {
       "cat": "policy",
-      "signal": 43,
-      "sources": 2,
-      "writtenSources": 1,
-      "h": "China’s AI models have Trump’s AI world at war with itself",
-      "s": "The intra‑US political debate over AI strategy is intersecting with open‑source Chinese models, complicating how policy makers weigh security, economics, and international competition.",
-      "b": [
-        "The story centers on open-source Chinese model Kimi from Moonshot and how it has inflamed debate within Trump’s AI advisory circle.",
-        "Advisors have publicly criticized OpenAI and Anthropic, underscoring tensions over whether cheaper, open models should be used or restricted for national security reasons.",
-        "The piece notes export controls on chips and the broader push to vet AI models for security before release, a policy area that has become a focal point in the White House review process.",
-        "The coverage frames a broader question about how the US should respond to cheaper, open Chinese models that challenge incumbents while raising questions about national security and economic growth."
-      ],
-      "body": [
-        "MIT Technology Review reports a flare-up in the US political orbit around AI after several current and former Trump AI advisors publicly attacked China’s leading AI firms. The discussion centers on Kimi, a free, open-source Chinese model from Moonshot that some see as a wake-up call to domestic policy makers about the pace of open-source competition.",
-        "The story highlights a split among Trump’s AI circle, with some arguing that China’s cheaper models threaten the economic and strategic position of OpenAI and Anthropic, while others warn against overreacting to a model that may be limited by chip constraints and data access.",
-        "It also notes that the current debate comes as export controls on chips have loosened and as the White House pursues a process to vet AI models for security before release, a step that has been described by some as a potential licensing regime for frontier AI.",
-        "The piece underscores the tension between fostering innovation through open models and protecting national security and economic interests in a rapidly evolving AI landscape."
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/"
-        }
-      ],
-      "srcTitles": [
-        "China’s AI models have Trump’s AI world at war with itself"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 43,
-      "sources": 2,
-      "writtenSources": 2,
-      "h": "Halliday’s latest smart glasses feature a much-improved display",
-      "s": "A camera-free design and real-time meeting tools are aimed at professional users who want AI-powered notes without privacy drawbacks or visible recording indicators.",
-      "b": [
-        "The Gen 2 Halliday glasses are camera-free, use a monochrome green display with 1,600 nits brightness and 600x300 per-eye resolution, and are lighter than many competing smart glasses.",
-        "They boast a four-microphone array, offer about 12 hours of typical use, and can surface meeting context via AI in the wearer's field of view.",
-        "A new Meeting Flow feature surfaces context and facts during meetings, with tools like Thread Tracker, Decision Confirmation, and Commitment Check to summarize what was decided and what remains to be done.",
-        "Pricing and availability are noted by one outlet as $599 with shipments planned for September 2026, and paid AI service tiers from $10 to $99 per month, plus a free tier that includes 120 minutes of recording."
-      ],
-      "body": [
-        "The Gen 2 glasses from Halliday are pitched as a camera-free tool for work meetings, designed to capture and summarize conversations through AI voice recognition. The design emphasizes privacy and practicality, with a display that keeps the camera out of sight and a focus on meeting-oriented features.",
-        "The glasses use a monochrome green display with a maximum brightness of 1,600 nits and a per-eye resolution of 600x300. Halliday says the four-microphone array can pick up commands even in noisy environments and that the device can run for about 12 hours on typical use.",
-        "Halliday is introducing Meeting Flow, which helps wearers follow along in conversations by surfacing context or facts without looking away from the meeting. Other real-time tools include Thread Tracker (to show ongoing discussion threads), Decision Confirmation (to indicate project decisions), and Commitment Check (to track what’s been agreed to and what remains to be done).",
-        "The WIRED coverage notes a price of $599 and that first shipments are planned for September 2026, with AI service tiers ranging from $10 to $99 per month and a free tier offering 120 minutes of recording. Both outlets describe the glasses as a professional tool for meetings where cameras are undesirable or prohibited."
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables"
-        },
-        {
-          "d": "wired.com",
-          "u": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/"
-        }
-      ],
-      "srcTitles": [
-        "Halliday’s latest smart glasses feature a much-improved display",
-        "Halliday’s New Smart Glasses Skip the Camera"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 43,
-      "sources": 3,
-      "writtenSources": 2,
-      "h": "US weighs sanctions on Chinese AI models over distillation claims",
-      "s": "If the headline reflects a real policy move, it would represent a sharp hardening of the U.S. stance toward foreign AI tech and could affect how models are trained and distributed internationally.",
-      "b": [
-        "The provided coverage includes a Guardian piece titled Could AI be conscious? and KFGO reporting on Sub-Saharan Africa's AI impact, neither of which discuss sanctions.",
-        "There are no substantive details in the supplied sources about which models would be sanctioned, what actions would be taken, or timelines."
-      ],
-      "body": [
-        "The headline from the prompt states that the United States is weighing sanctions on Chinese AI models over distillation claims. However, the supplied sources in the dataset do not provide reporting on sanctions or related government actions. The Guardian’s piece titled Could AI be conscious? and KFGO’s AI-economy piece do not address sanctions, IP theft, or distillation policy in China or the U.S.",
-        "Without concrete coverage detailing which models would be targeted, the legal mechanism, or the potential scope of sanctions, readers are left with a headline and no verifiable context from the provided material.",
-        "Given the absence of direct reporting in the supplied sources, the next steps or official government positions remain unclear based on the current coverage."
-      ],
-      "l": [
-        {
-          "d": "theguardian.com",
-          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5"
-        },
-        {
-          "d": "kfgo.com",
-          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQckpkT0pITjN1TTRPSDJkVWJoMzJfanpUT1c0eFJQNkREMUxJTVBzRE52ZGxjeDRCX2l0MFNxOTR5dkxyLU0ycnFkREZ4ZE9DNno4cFhhMzJRQ1puMklkLXV3UDhOeXBrLU13SE4xTEtkcERZbDBmdE54UF9Wd1Y5T1JfZE8zeEJzVXgzLVU1QW96VUNXY3ROaGNyZUtSNTFhRGRVOTlaVjl5Zw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Could AI be conscious?",
-        "AI could lift Sub-Saharan Africa economy 4% if power, internet improve, IMF says"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 43,
-      "sources": 2,
-      "writtenSources": 2,
-      "h": "Advancing next-gen AI with materials science innovation",
-      "s": "Materials science is becoming a strategic lever to push AI hardware performance and efficiency, with implications for data-center design and sustainability.",
-      "b": [
-        "Advanced materials underpin the performance and reliability of AI hardware as AI workloads grow more demanding, driving new polymer, elastomer, and fluid solutions.",
-        "The article highlights the role of materials in thermal management, high-voltage power architectures, and high-bandwidth memory for data centers.",
-        "Syensqo discusses applying cross-market knowledge (e.g., from EV cooling and semiconductors) to develop new cooling and power solutions for AI servers, enabling greater density and reliability.",
-        "Sustainability considerations are shaping material choices, such as fluorosurfactant-free manufacturing for perfluoroelastomers used in semiconductor equipment."
-      ],
-      "body": [
-        "MIT Technology Review argues that advances in AI are increasingly tethered to developments in materials science. As AI pushes semiconductors and data centers toward new physical limits, advanced materials become essential to sustain performance gains while maintaining reliability and energy efficiency.",
-        "The piece contends that the demands of next‑generation AI require not only smarter chips and better system design but also innovations in materials—polymers, elastomers, specialty fluids, and other advanced materials—that can withstand harsher operating conditions and higher processing density.",
-        "Manufacturability and yield are central concerns, as tiny variations in processing can impact costs. The article emphasizes the importance of materials that offer higher purity, chemical resistance, and stability under extreme environments, and notes that qualification timelines for new materials can stretch for years.",
-        "Cross‑market knowledge is highlighted as a way to accelerate progress: Syensqo cites adapting cooling and power-management know‑how from semiconductor manufacturing and automotive sectors to develop direct liquid-cooling designs for AI servers, illustrating how material innovations can unlock scalable AI infrastructure."
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
-        }
-      ],
-      "srcTitles": [
-        "Advancing next-gen AI with materials science innovation"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 43,
-      "sources": 4,
-      "writtenSources": 3,
+      "signal": 69,
+      "sources": 31,
+      "writtenSources": 31,
       "h": "Egypt launches national AI competency framework for teachers",
-      "s": "A national framework aims to equip teachers with AI literacy and pedagogy to prepare students for an AI-enabled economy.",
+      "s": "The move signals a formal step toward embedding AI literacy in education, with potential long-term effects on teacher training and classroom curricula in Egypt.",
       "b": [
-        "UNESCO reports a national AI competency framework for teachers launched in Egypt.",
-        "Local outlets (WALB and WRDW) cover related education technology themes, highlighting how AI skills are becoming part of teacher training.",
-        "The framework is positioned as a step toward integrating AI into classrooms and teacher professional development in Egypt."
+        "Egypt launches a national AI competency framework for teachers (UNESCO)",
+        "The story is sourced from UNESCO’s reporting on AI education initiatives in Egypt"
       ],
       "body": [
-        "UNESCO announced the launch of a national artificial intelligence competency framework for teachers in Egypt, outlining the skills and knowledge needed for AI education in classrooms and teacher professional development.",
-        "The coverage from UNESCO emphasizes building teacher capacity to teach AI concepts and integrate AI tools into pedagogy, aligning with broader international efforts to prepare students for an AI-enabled economy.",
-        "Local coverage from WALB and WRDW underscores the broader emphasis on AI in education and how teachers can be supported to incorporate AI literacy into their curricula.",
-        "The framework marks a policy-oriented move to standardize AI education and ensure teachers have the competences to guide students in a rapidly evolving tech landscape."
+        "UNESCO published coverage noting that Egypt has launched a national AI competency framework for teachers. The release highlights the country’s move as part of its AI education initiatives. ",
+        "The UNESCO piece positions the framework within broader efforts to advance AI literacy and education policy, signaling government priority in equipping teachers with AI-related competencies. ",
+        "The coverage does not provide a date or implementation details beyond the launch, nor does it specify how the framework will be rolled out or funded."
       ],
       "l": [
+        {
+          "d": "ourworldindata.org",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTdJQ0Ywb3FHcmNHRHFScm9RdzlIcWNRa1NZV0ZJVW0xTVFHSFdwTFk3VEMyTDBuMTlDbEFMTWZ2WlpPTGZXakx4SnJUQzgySGlmZVVZemRXUXpnYV9UWjhQenlBazl0X21pbEtQSzdRUFlRUFVfX3RqMk1UdzhOd1FkN19OTUtYZE5fc2tvbG01Uno1?oc=5"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
+        },
+        {
+          "d": "hcahealthcaretoday.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa0pCRDJwU0ZRRFBsYjM2UzVLNTNFOHFkQ0s0dDZPWTNxWkJCS3lBQlE3OTlfMVc1VkFHMnh2eWNkZjR6VmhmTXdCeDY0V19LSndVc0VVVUJ3Qmp5enZ6VTJmcXVocGJrTU9kVDR1MlJVX2dqZzNwSTQ2cU9GMl9iMU1EOE9xNXdCX0VVNzZSRElFRnRoeHdBSEk3Zmh0TkJrcjA4OFQ1bzhIS3FpZ1g0Z3Bn?oc=5"
+        },
         {
           "d": "unesco.org",
           "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPcXY3TDFSWGZjbU9kbUMwcUtrYjctMFNTN0JVUzZlTXhaMEc2amlndGVnN1VXR2JjUEZQakFXNEtsZkJpVld0aElIU1VmbW1FdDZYeERRV2QtVk9zS1dlYmZPYWRsZlZQX0JjejBaczFfWGIyZ2dmT1ZFTDMxWHpFLVZtak5Ta1hJUGY5R3dMX3A3NWJvLU80ZXRDbTJRSnBjUDZqczRjVGpaMlBZZWlR?oc=5"
         },
         {
-          "d": "walb.com",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVEJkejBwWDY0TFlRYjVfRHRPcGVVaTRTWFhxd09VTmpqdFZXU0M3V1ZoWWdGYlYtNExUWVBVQWVENDBwMmxITnhmNG91S1BSSjRwNC1qUDVpbFRBeU5pQVBsazdPdXFfaWpkQXFOMlgtX0dVX0Z6TUJzT0RRTW41UmR0NA?oc=5"
-        },
-        {
-          "d": "wrdw.com",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2FXYnhPWTQ1a2lMNE0yeDJMbWs4SUM4WnFhekRITmpxSGF4bE5CSDF1QTJaSGxVQlU0R0lKb3JtQXRwOXB2TkZMTFpyUlJmYkw2Tzk1VlNyRHFvQ0xkaGppSlNuNmo4dTRlNkVWVjZwQVZVYVBIdTJTOWRrOXU2YTQyZw?oc=5"
-        },
-        {
-          "d": "einnews.com",
-          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWTNueHRYOTFzN2MxeGI1WjFGOHVMT0Q1aHVGaU5sV3R6dFgwSDYxLXhUYmlUejkwbm0zSUVQSEdvbXJnMFVqcmg4RTUyLXVnMzVlT2FCejMydmFnTFpTMGlRTWhtdEVJZnN0aDhiaEM3VmtSZWlCa2t6NHBQRXNSZ1pnMjZPNW1iQUVzZGlUOFBNcHdEVmVzcHBGbjZsMTViU2JCaV9xSkdvc2ZXV0JHVzh3dng3c1ppMjd0bWdYdkJwNHlU?oc=5"
+          "d": "+27"
         }
       ],
       "srcTitles": [
-        "National artificial intelligence competency framework for teachers launched in Egypt",
-        "Local teachers and artificial intelligence",
-        "Local teachers and artificial intelligence",
+        "How much energy do data centers and artificial intelligence use?",
+        "Artificial Intelligence - ABC News",
+        "HCA Healthcare’s strategic approach to scaling artificial intelligence",
         "National artificial intelligence competency framework for teachers launched in Egypt"
       ]
     },
     {
       "cat": "policy",
-      "signal": 43,
-      "sources": 3,
-      "ts": "2026-07-20T17:09:19.000Z",
-      "writtenSources": 3,
-      "h": "US threatens sanctions on Chinese open-source AI models over IP theft",
-      "s": "Sanctions would escalate the U.S. push to shield domestic AI firms from foreign copying, potentially reshaping who can access Chinese open-source models and how AI technology is developed and funded abroad.",
-      "b": [
-        "The U.S. would examine open-source Chinese AI models for signs of IP theft and sanction them if theft is established, according to Treasury Secretary Scott Bessent.",
-        "The move follows concerns as Chinese models like Moonshot AI’s Kimi K3 gain capabilities and threaten the business models of major U.S. firms.",
-        "Axios reported the Trump administration is considering a wholesale ban on Chinese open-source models, a claim others have disputed.",
-        "Anthropic recently settled a $1.5 billion case over training data practices, underscoring IP and data-use risks in AI development."
-      ],
-      "body": [
-        "The report from TechCrunch states that the U.S. government will review open-source Chinese AI models for indications of intellectual property theft and could sanction companies if theft is proven. Treasury Secretary Scott Bessent is quoted outlining the stance in an interview on Fox Business, saying the administration supports open-source models but not IP theft.",
-        "The move comes as Chinese models, including Moonshot AI’s Kimi K3, are reported to be increasing in capability and market presence, potentially challenging conventional US leadership in frontier AI labs and funding rounds.",
-        "Observers note that model distillation and open-source approaches complicate IP questions. Some industry voices argue distillation isn't theft, while others warn that unauthorized use of proprietary data could raise legal and strategic risks for foreign models.",
-        "The broader context includes ongoing concerns about training practices and IP protection, with Anthropic recently approved a $1.5 billion settlement tied to copyrighted books used to train its AI, illustrating the financial and legal stakes involved in AI training data."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
-        },
-        {
-          "d": "simonwillison.net",
-          "u": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models/#atom-everything"
-        }
-      ],
-      "srcTitles": [
-        "US threatens sanctions against Chinese AI models over IP theft",
-        "Who’s Afraid of Chinese Models?"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 43,
-      "sources": 2,
-      "ts": "2026-07-21T15:00:00.000Z",
-      "writtenSources": 2,
-      "h": "Google pitches Gemini 3.5 Flash Cyber as a cost-efficient security model",
-      "s": "If validated, Gemini 3.5 Flash Cyber could lower the cost of running AI-powered security checks and vulnerability scanning, potentially accelerating government and enterprise adoption of AI security tools.",
-      "b": [
-        "Gemini 3.5 Flash Cyber is described as a “cost-efficient and highly capable alternative” to larger AI systems like Mythos, available first to governments and trusted partners via CodeMender.",
-        "CodeMender can call Gemini 3.5 Flash Cyber “multiple times at high speed and low cost” to scan more code paths and identify vulnerabilities.",
-        "In testing, Gemini 3.5 Flash Cyber achieved “competitive performance” on the CyberGym AI cybersecurity benchmark when invoked up to five times and found 55 unique confirmed issues in the V8 JavaScript Engine (47 by 3.5 Flash, 36 by Opus 4.6), with 10 issues discovered that no other model found.",
-        "Google also notes upgrades across the Gemini 3.6 and 3.5 Flash lines, including a 3.5 Flash-Lite as the most cost-effective option in the 3.5 series."
-      ],
-      "body": [
-        "The Verge, via Emma Roth, reports that Google is positioning Gemini 3.5 Flash Cyber as a cost-efficient and highly capable alternative to larger security-focused models such as Mythos. The model is set to be available first to governments and trusted partners through CodeMender, Google’s security-focused coding agent.",
-        "CodeMender is described as capable of calling 3.5 Flash Cyber multiple times at high speed and low cost, enabling more thorough code-path analysis and vulnerability detection. The Verge notes that Gemini 3.5 Flash Cyber’s performance on a cybersecurity benchmark, CyberGym, is competitive when used up to five times. In the reported tests, 3.5 Flash Cyber identified 55 unique confirmed issues in the V8 JavaScript Engine, compared with 47 for 3.5 Flash and 36 for Opus 4.6, with 10 issues being unique to 3.5 Flash Cyber.",
-        "The article also highlights related Gemini updates, including the 3.6 Flash version and the 3.5 Flash-Lite as a cost-efficient member of the 3.5 series, framing Google's push as a response to rising cybersecurity needs in enterprise environments."
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/968572/google-gemini-flash-cyber-ai-security-model"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260721/p26#a260721p26"
-        }
-      ],
-      "srcTitles": [
-        "Google launches a cheaper alternative to large AI security models like Mythos",
-        "Google says Gemini 3.5 Flash Cyber is a \"cost-efficient and highly capable alternative\" to models like Mythos, available first to governments and some partners (Emma Roth/The Verge)"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 43,
+      "signal": 47,
       "sources": 3,
       "ts": "2026-07-21T15:45:58.000Z",
       "writtenSources": 3,
@@ -380,6 +129,74 @@
         "University of Tennessee Research Foundation sues Anthropic in Delaware for allegedly infringing neural network patents, the first such case against Anthropic (Blake Brittain/Reuters)",
         "University of Tennessee sues Anthropic over neural network technology",
         "University of Tennessee sues Anthropic over neural network technology"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 44,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "Anthropic s landmark $1.5B copyright settlement is approved",
+      "s": "The settlement monetizes past copyright disputes while shaping how training data could be treated in future AI development and litigation.",
+      "b": [
+        "The class-action settlement is $1.5 billion with authors and publishers, averaging about $3,000 per work for roughly 500,000 works.",
+        "Judge Araceli Martínez-Olguín signed off on final approval after predecessor Judge William Alsup’s preliminary approval, with Alsup having ruled that training on copyrighted text can be fair use but piracy remains unlawful.",
+        "Anthropic will resolve claims tied to books it downloaded from piracy sites as part of its training data, while noting ongoing copyright litigation with additional authors.",
+        "The case would not set binding precedent as a district court decision; other lawsuits against Google, Meta, Midjourney, and OpenAI remain ongoing."
+      ],
+      "body": [
+        "A federal judge signed off on Anthropic’s $1.5 billion class-action copyright settlement, paving the way for authors and publishers to receive compensation for works allegedly used to train its AI models. Reuters reported that final approval was granted by Judge Araceli Martínez-Olguín in the U.S. District Court for the Northern District of California.",
+        "The settlement would pay approximately $3,000 per book across an estimated 500,000 works, to be shared among rights holders. The agreement follows a ruling by the now-retired Judge William Alsup that training AI models on copyrighted text can count as fair use, while piracy conducted via sites like Library Genesis could still be illegal.",
+        "Anthropic previously disclosed that it built its training library from both legitimately purchased and scanned books and works downloaded from pirate sites. The settlement acknowledges the piracy concerns and avoids a jury trial on the unresolved issues, though it does not resolve the broader industry-wide copyright questions or set binding precedent since it is a district-court resolution.",
+        "The Verge’s coverage notes that, while many authors view the payout as meaningful, it may not satisfy all rights holders, and other lawsuits against major players in the space remain active."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic s landmark $1.5B copyright settlement is approved",
+        "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 44,
+      "sources": 2,
+      "writtenSources": 3,
+      "h": "Adobe camera app s new feature will critique your photos using AI",
+      "s": "If testers embrace AI critique and automated edits, Project Indigo could reshape consumer photography workflows and privacy considerations.",
+      "b": [
+        "Project Indigo adds AI-powered photo critique and editing suggestions to an experimental iOS camera app, using LLMs to guide improvements.",
+        "The app’s new capabilities include a critique of framing, lighting, colors, and emotional impact, plus capture and edit suggestions for reshooting and adjustments.",
+        "Adobe says the features are part of an “AI Playground” in Indigo, with a design that favors deterministic outputs via button-driven prompts and the option to opt out and continue using the app as before.",
+        "Testing is limited to select users, with free access to the AI Playground being tested over the coming weeks and potential expansion to paid tiers if the experiment proves successful."
+      ],
+      "body": [
+        "Adobe has expanded its experimental iOS camera app, Project Indigo, with AI-powered features that will critique photos and propose editing changes. The company describes Indigo as an ongoing experiment designed to provide more deterministic outputs through button-based prompts, while letting users opt out of the AI features and continue using the app in its original form. The updates are part of the app’s broader AI Playground and are currently being tested with a subset of users.",
+        "The new capabilities include a photo critique that offers professional opinions on framing, lighting, colors, and the emotional impact of an image, as well as capture and edit suggestions that guide users on how to reframe, adjust exposure, or change objects in viewfinder. Adobe says the features are intended to teach users photography tricks even if they don’t agree with the AI assessment.",
+        "Project Indigo’s AI Playground relies on Gemini-based Nano Banana for these features, but Adobe says it is open to swapping in other models, including its own Firefly family. The features, grouped under the AI Playground banner, are described as an experiment and may never reach a wider audience depending on user uptake and feedback.",
+        "The update also introduces four sections within the AI Playground: Styles, Object Editing, Photo Guidance, and Custom Edit. Each section contains multiple buttons or toggles that trigger GenAI prompts engineered for those tasks. Users can re-run an edit flow by pressing a button again to get a slightly different result."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update"
+        }
+      ],
+      "srcTitles": [
+        "Adobe camera app s new feature will critique your photos using AI",
+        "Adobe’s ‘natural look’ camera app embraces generative AI"
       ]
     },
     {
@@ -419,59 +236,102 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 39,
-      "sources": 1,
-      "writtenSources": 1,
-      "h": "Safety and alignment in an era of long-horizon models",
-      "s": "As AI models run longer, deployment challenges grow, making iterative safety enhancements and guardrails critical for responsible use and risk management.",
+      "cat": "products",
+      "signal": 43,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "Halliday’s latest smart glasses feature a much-improved display",
+      "s": "A camera-free design and real-time meeting tools are aimed at professional users who want AI-powered notes without privacy drawbacks or visible recording indicators.",
       "b": [
-        "OpenAI discusses lessons from deploying long-running AI models, highlighting new safety risks and observed failures.",
-        "The company also describes improved safeguards achieved through iterative deployment.",
-        "The post frames safety as an ongoing, deployment-driven process rather than a one-time fix."
+        "The Gen 2 Halliday glasses are camera-free, use a monochrome green display with 1,600 nits brightness and 600x300 per-eye resolution, and are lighter than many competing smart glasses.",
+        "They boast a four-microphone array, offer about 12 hours of typical use, and can surface meeting context via AI in the wearer's field of view.",
+        "A new Meeting Flow feature surfaces context and facts during meetings, with tools like Thread Tracker, Decision Confirmation, and Commitment Check to summarize what was decided and what remains to be done.",
+        "Pricing and availability are noted by one outlet as $599 with shipments planned for September 2026, and paid AI service tiers from $10 to $99 per month, plus a free tier that includes 120 minutes of recording."
       ],
       "body": [
-        "OpenAI posted a briefing highlighting what it has learned from deploying AI models that operate over long horizons. The document outlines new safety risks that emerge when models run for extended periods and notes observed failures in real-world deployments.",
-        "The company emphasizes that safeguards have evolved through iterative deployment, with refinements intended to improve risk management while expanding capabilities.",
-        "Overall, the message is that safety and alignment are ongoing processes in the era of long-horizon models, requiring continual monitoring, evaluation, and updates as models and use cases mature."
+        "The Gen 2 glasses from Halliday are pitched as a camera-free tool for work meetings, designed to capture and summarize conversations through AI voice recognition. The design emphasizes privacy and practicality, with a display that keeps the camera out of sight and a focus on meeting-oriented features.",
+        "The glasses use a monochrome green display with a maximum brightness of 1,600 nits and a per-eye resolution of 600x300. Halliday says the four-microphone array can pick up commands even in noisy environments and that the device can run for about 12 hours on typical use.",
+        "Halliday is introducing Meeting Flow, which helps wearers follow along in conversations by surfacing context or facts without looking away from the meeting. Other real-time tools include Thread Tracker (to show ongoing discussion threads), Decision Confirmation (to indicate project decisions), and Commitment Check (to track what’s been agreed to and what remains to be done).",
+        "The WIRED coverage notes a price of $599 and that first shipments are planned for September 2026, with AI service tiers ranging from $10 to $99 per month and a free tier offering 120 minutes of recording. Both outlets describe the glasses as a professional tool for meetings where cameras are undesirable or prohibited."
       ],
       "l": [
         {
-          "d": "openai.com",
-          "u": "https://openai.com/index/safety-alignment-long-horizon-models"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/"
         }
       ],
       "srcTitles": [
-        "Safety and alignment in an era of long-horizon models"
+        "Halliday’s latest smart glasses feature a much-improved display",
+        "Halliday’s New Smart Glasses Skip the Camera"
       ]
     },
     {
-      "cat": "research",
-      "signal": 39,
-      "sources": 1,
-      "writtenSources": 1,
-      "h": "AI is more likely than humans to form biases when hiring",
-      "s": "AI can both inherit human stereotypes and generate new biases, with implications for fair hiring as models gain more memory and decision‑making power.",
+      "cat": "policy",
+      "signal": 42,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "US weighs sanctions on Chinese AI models over distillation claims",
+      "s": "If the headline reflects a real policy move, it would represent a sharp hardening of the U.S. stance toward foreign AI tech and could affect how models are trained and distributed internationally.",
       "b": [
-        "A Princeton-Chicago study simulated hiring with LLMs (including ChatGPT, Claude, Gemini) across 20 jobs and four demographic groups, learning from outcomes over 40 rounds.",
-        "Models tended to segregate candidates by group, even though all candidates had equal success probabilities, with higher bias in newer, more capable models (e.g., OpenAI o3, DeepSeek R1).",
-        "Humans scored 0.84 on a segregation scale, while models scored roughly 65% higher (o3 around 1.83, near the top of the scale).",
-        "Promising better societal outcomes, the researchers found that explicitly rewarding diverse hiring reduced bias in models."
+        "The provided coverage includes a Guardian piece titled Could AI be conscious? and KFGO reporting on Sub-Saharan Africa's AI impact, neither of which discuss sanctions.",
+        "There are no substantive details in the supplied sources about which models would be sanctioned, what actions would be taken, or timelines."
       ],
       "body": [
-        "MIT Technology Review summarizes a study where Princeton and University of Chicago researchers tested LLMs by having them act as hiring consultants for 20 jobs across four fictional ethnic groups. In each round, candidates had equal chances of success, but models tended to assign jobs based on early outcomes, effectively forming stereotypes about groups.",
-        "Newer models with greater reasoning capabilities, such as OpenAI’s o3 and DeepSeek’s R1, showed stronger biases than earlier versions. On a segregation scale, where 2 means complete separation, humans scored 0.84, while models scored roughly 65% higher, with o3 at about 1.83.",
-        "Researchers note that LLMs generalize from limited data because generalization is a core objective of their training. The study suggests that if models are incentivized to favor diverse hiring, biases can decrease.",
-        "The study also notes that providing more personal information about individuals can influence bias dynamics, and that while asking models to be fair did not dramatically shift behavior, adjusting the goal structure to include social value considerations can improve outcomes."
+        "The headline from the prompt states that the United States is weighing sanctions on Chinese AI models over distillation claims. However, the supplied sources in the dataset do not provide reporting on sanctions or related government actions. The Guardian’s piece titled Could AI be conscious? and KFGO’s AI-economy piece do not address sanctions, IP theft, or distillation policy in China or the U.S.",
+        "Without concrete coverage detailing which models would be targeted, the legal mechanism, or the potential scope of sanctions, readers are left with a headline and no verifiable context from the provided material.",
+        "Given the absence of direct reporting in the supplied sources, the next steps or official government positions remain unclear based on the current coverage."
       ],
       "l": [
         {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWgyMGZkdno3UUlLcW5BMDE0Nk9LR3A4TzlqRGZLTV9tWUlROFlRbTctQVVodVgwNW1jUEdaQnNrOGpjTDN2NERLcjl4SHpRMFNBZjdoeUtndDhNNTA0LUtGQUd5cDVuZHFtZzBsQjBiSjFOQmNuLVVKZlJQazExdFpUTS1FMXhnd2wycFlvY3ZCOHVwZlUwRThjclBnQ1BHaEFYSUwtSmpyLVZ5d21mSFoySXl0ZFRqaU1ZS2pvemt5akU?oc=5"
         }
       ],
       "srcTitles": [
-        "AI is more likely than humans to form biases when hiring"
+        "US threatens sanctions against Chinese AI models over IP theft",
+        "US Threatens Sanctions on China Over Alleged AI Model Theft"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 42,
+      "sources": 2,
+      "writtenSources": 2,
+      "h": "Nvidia wants to own every chip inside AI data centers",
+      "s": "Nvidia’s Vera Rubin system signals a shift toward fully integrated AI data-center hardware, promising tighter optimization across CPUs and GPUs and faster, more efficient AI workloads.",
+      "b": [
+        "Vera Rubin is Nvidia’s next-generation system, described as a one-CPU-for-every-two-GPUs configuration.",
+        "In an NVL72 rack, Nvidia claims 36 Vera CPUs are paired with 72 Rubin GPUs, marketed as “cable-free compute” and easily hot-swappable for rapid deployment.",
+        "Nvidia asserts Vera Rubin delivers up to 10x the tokens-per-watt vs. its Grace Blackwell system and offers nearly three times the memory bandwidth with its localized memory subsystems.",
+        "The company also notes the Vera Rubin NVL72 system is 100% liquid-cooled and emphasizes reduced cabling to speed up rack installation."
+      ],
+      "body": [
+        "Nvidia is pushing deeper into AI infrastructure with Vera Rubin, a hardware system designed to pair CPUs with GPUs in a tightly integrated package for data-center workloads. The Vera Rubin NVL72 configuration is described as a one CPU for every two GPUs setup, with a 36‑CPU to 72‑GPU ratio per rack.",
+        "Nvidia executives showcased NVL72 racks as being more plug-and-play than earlier offerings, and the company highlighted that OpenAI already operates a Vera Rubin rack in use at a data-center facility. The announcements were made during a workshop in Santa Clara as part of a broader push into complete AI systems rather than chips alone.",
+        "Nvidia claims that Vera Rubin delivers an order of magnitude more tokens-per-watt than its Grace Blackwell system and features localized memory subsystems that provide nearly three times the memory bandwidth of Blackwell. The company also touts a cable-free design and hot-swappability to simplify installation and maintenance, along with 100% liquid cooling to reduce energy use.",
+        "While Nvidia has repeatedly said Vera Rubin is ramping to full production and will ship on schedule, the workshop did not provide a precise delivery date, instead emphasizing strategic positioning ahead of industry events."
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRDNCTFMwQzB6VjdfRHB1TUhneXF0dFROTkJvWXN4ei15ZW0xdFBQVHd1UnFiWHRvVzZEOEVBU3lCRE84UXVlamFmNFU2MXY1OGVPZFhXRU56V28tcUJjZERqVzA5SFlVMGdkZGlGeHJxLXZaVHY5aVh2TzRNOS1MMkFmS1diZ291cTlTajhPbmtNdmozYXB3NzZRR2Y0Ujl4OTA2Yk8wZnJiaDZHeU4xNFppQUlzUkxRWFZHX2lIRU5yY3B1S3kxVTBCSTg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia Wants to Own Every Chip Inside AI Data Centers",
+        "Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon"
       ]
     },
     {
@@ -534,42 +394,45 @@
       "draft": true
     },
     {
-      "cat": "products",
-      "signal": 39,
-      "sources": 2,
+      "cat": "policy",
+      "signal": 36,
+      "sources": 3,
       "writtenSources": 2,
-      "h": "Nvidia wants to own every chip inside AI data centers",
-      "s": "Nvidia’s Vera Rubin system signals a shift toward fully integrated AI data-center hardware, promising tighter optimization across CPUs and GPUs and faster, more efficient AI workloads.",
+      "h": "China weighs tighter export controls on AI models and chips",
+      "s": "If enacted, tighter controls could slow the spread of AI capabilities abroad and influence global AI competitiveness and supply chains.",
       "b": [
-        "Vera Rubin is Nvidia’s next-generation system, described as a one-CPU-for-every-two-GPUs configuration.",
-        "In an NVL72 rack, Nvidia claims 36 Vera CPUs are paired with 72 Rubin GPUs, marketed as “cable-free compute” and easily hot-swappable for rapid deployment.",
-        "Nvidia asserts Vera Rubin delivers up to 10x the tokens-per-watt vs. its Grace Blackwell system and offers nearly three times the memory bandwidth with its localized memory subsystems.",
-        "The company also notes the Vera Rubin NVL72 system is 100% liquid-cooled and emphasizes reduced cabling to speed up rack installation."
+        "Financial Times reports China is weighing tighter export controls on AI models and chips (policy tightening).",
+        "Reuters reports a parallel version of the story, noting potential new licensing regimes or vetting processes for frontier AI exports.",
+        "The coverage frames the move as part of broader national security and economic strategy amid a shifting global AI landscape."
       ],
       "body": [
-        "Nvidia is pushing deeper into AI infrastructure with Vera Rubin, a hardware system designed to pair CPUs with GPUs in a tightly integrated package for data-center workloads. The Vera Rubin NVL72 configuration is described as a one CPU for every two GPUs setup, with a 36‑CPU to 72‑GPU ratio per rack.",
-        "Nvidia executives showcased NVL72 racks as being more plug-and-play than earlier offerings, and the company highlighted that OpenAI already operates a Vera Rubin rack in use at a data-center facility. The announcements were made during a workshop in Santa Clara as part of a broader push into complete AI systems rather than chips alone.",
-        "Nvidia claims that Vera Rubin delivers an order of magnitude more tokens-per-watt than its Grace Blackwell system and features localized memory subsystems that provide nearly three times the memory bandwidth of Blackwell. The company also touts a cable-free design and hot-swappability to simplify installation and maintenance, along with 100% liquid cooling to reduce energy use.",
-        "While Nvidia has repeatedly said Vera Rubin is ramping to full production and will ship on schedule, the workshop did not provide a precise delivery date, instead emphasizing strategic positioning ahead of industry events."
+        "Financial Times reports that China is weighing tighter export controls on AI models and chips as part of a broader national-security and economic strategy. The proposed controls could affect how Chinese and foreign AI technologies are shared or deployed internationally.",
+        "Reuters provides a parallel account of the discussions, noting the possibility of new licensing regimes or vetting processes for frontier AI exports that could constrain access to certain models or hardware.",
+        "The stories together depict a policy shift aimed at tightening oversight of advanced AI models and related components, with implications for global AI competitiveness, supply chains, and cross-border collaboration."
       ],
       "l": [
         {
-          "d": "wired.com",
-          "u": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/"
+          "d": "ft.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVURTZEhNNV8xRTlJSmtQbWZjNFRpc3dSanpRM01BZnlwT2lhbjlGMUQwTnROSWxJcDZLZ0NmSUh0dXd0aW82cWVtZ0hKMzY2LTN3dTBfR2JOVEJlNFYxejVtMzBzQmsyYlRGUUJmODM0WFJZNG1PVkZ5UEtzc2g3QTcyUlA?oc=5"
         },
         {
-          "d": "justsecurity.org",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVVhnUkVlNXRONVNsYTB6TUNZTHhuV2RQeXhmMjhsdkIxV3VXTEd3aU93TnU2VFEydDMwQ3pOR0JiamYtWl80RURCXzNCdEF0YWdDSWFCYXdtelE0cEFTZ1lWZmdGVTFPcW5xZ1RLQTUtWDc0ZVU4eXphb19TNzJjX0NVcw?oc=5"
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOdUw4cW56a1pyMmo2SjZmZkdUZmxIeGJiT3lDVTFYUzVWczV0dTZGdTlNcTlTVFlhcjdpVW85dVpXQ0ZpT0FBQTNvcDRpRkJrNFNfMjdHa05wLWVkaHFKcXN1d1VVYU82SXBONXZCclR6VHEyQXQzb1BGVmx4Ylp0VGVjOE5kdGVBSTBXOUdlRXNBcGk3YVNicHNBNEVZakRtSDlmdHB6dnJNWHh6aXA5VWNMZ0RFak55c3lyYjFxTzBFRlc1ellkaXBBSHltUVU0OFdsNWtLQ2VCbldpekhPZlQ3SDdKSW5zN3U3YURwa0pkazVNQXdqazlDNS0zdWhFM0htaVRQM05nMlU0WEkzNXhzOEJ6RklKMmFwMTJpeWUwYXJrWEVkTjFDQ0dNeDFYZXJhbExlU3hGZnZYUmZHWGNOQ2N4S1MzV0NWTWRYOWR5ajVReFZpWldaX3ZxajlVd2xoN2ZGNG1GRGVLWlRvTjExVFMzRjZLQWNrREoyb29wOVk?oc=5"
         }
       ],
       "srcTitles": [
-        "Nvidia Wants to Own Every Chip Inside AI Data Centers",
-        "AI and the Commercial Data Loophole"
+        "China weighs tighter export controls on AI models and chips",
+        "China considers tighter export controls on AI models and chips, FT reports",
+        "China is considering export controls on AI technologies, including banning local companies from using TSMC, report claims — restrictions would also advanced AI models, training data, and overseas acquisitions"
       ]
     },
     {
       "cat": "products",
-      "signal": 39,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-07-21T17:00:00.000Z",
       "writtenSources": 1,
@@ -595,237 +458,117 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 39,
-      "sources": 2,
-      "ts": "2026-07-21T15:40:03.000Z",
-      "writtenSources": 2,
-      "h": "Google's Gemini 3.6 Flash delivers better coding, knowledge work, and multimodal performance",
-      "s": "The upgrade could raise the bar for enterprise AI assistants and reduce token costs, influencing how large deployments are budgeted and how quickly companies adopt AI-enhanced tooling.",
-      "b": [
-        "CNBC reports Google says Gemini 3.6 Flash delivers better coding, knowledge work, and multimodal performance while reducing output token usage by up to 17% versus 3.5 Flash.",
-        "Alphabet is releasing three new Gemini models on Tuesday, including a clearest answer yet to Anthropic's lead in cybersecurity.",
-        "The 3.6/3.5 family expansion positions Google as a direct competitor to Mythos in security-focused AI tooling."
-      ],
-      "body": [
-        "CNBC’s MacKenzie Sigalos covers Google’s claim that Gemini 3.6 Flash improves coding, knowledge work, and multimodal performance while cutting output token usage by as much as 17% compared with 3.5 Flash. The report notes that Google plans to roll out three new Gemini models on Tuesday, among them the 3.6 Flash, as part of a broader push to address cybersecurity and enterprise needs in AI tooling.",
-        "The release positions Google to compete with Mythos and other security-focused AI offerings, with Google outlining the potential for faster code analysis and vulnerability discovery through its updated Gemini architecture.",
-        "The coverage suggests a broader Gemini 3.x line expansion aimed at enterprise customers, with Google framing the updates as part of ongoing efforts to improve AI-assisted coding and multi-modal capabilities."
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260721/p30#a260721p30"
-        },
-        {
-          "d": "artificialintelligence-news.com",
-          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdmJnUWFUTlZYTDJDb3NfWWc2c1BlUHgtazdjZVFzS2J6NnhEcDBFUzY3eXdEYUQ2dmhsR284WXA5UG9QcjR1ME1Td29sd2ppS04wc2dOcDNjOFNGRl9HZ3FBUTdwVXhlcXFTVUlRbTMtazZsNVhjWXprZncyazhUN2MxS1pFbWYzOHpxR2xfNmlEMFJNeEZOMkRSSjB6Q3RBNmRnSDMxQnZqa0VzbzNSOQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Google says Gemini 3.6 Flash delivers better coding, knowledge work, and multimodal performance while reducing output token usage by up to 17% vs. 3.5 Flash (MacKenzie Sigalos/CNBC)",
-        "Google’s Gemini 3.6 Flash targets enterprise agent token costs"
-      ]
-    },
-    {
       "cat": "policy",
-      "signal": 39,
-      "sources": 3,
-      "ts": "2026-07-21T10:31:54.000Z",
-      "writtenSources": 2,
-      "h": "Louisiana AI laws take effect Aug 1",
-      "s": "The new rules signal state-level regulatory activity on AI usage, with potential implications for vendors and public-sector AI deployments in Louisiana.",
+      "signal": 24,
+      "sources": 1,
+      "writtenSources": 1,
+      "h": "China’s AI models have Trump’s AI world at war with itself",
+      "s": "The intra‑US political debate over AI strategy is intersecting with open‑source Chinese models, complicating how policy makers weigh security, economics, and international competition.",
       "b": [
-        "New Louisiana AI laws take effect August 1.",
-        "Coverage also notes a separate ABC News AI topic page, but the Louisiana law item is the focus here."
+        "The story centers on open-source Chinese model Kimi from Moonshot and how it has inflamed debate within Trump’s AI advisory circle.",
+        "Advisors have publicly criticized OpenAI and Anthropic, underscoring tensions over whether cheaper, open models should be used or restricted for national security reasons.",
+        "The piece notes export controls on chips and the broader push to vet AI models for security before release, a policy area that has become a focal point in the White House review process.",
+        "The coverage frames a broader question about how the US should respond to cheaper, open Chinese models that challenge incumbents while raising questions about national security and economic growth."
       ],
       "body": [
-        "The Yahoo summary notes that Louisiana’s new artificial intelligence laws are scheduled to take effect on August 1, marking a movement toward state-level regulatory activity around AI deployment and governance.",
-        "Beyond the date, the provided coverage does not include detail on the specific provisions or affected sectors, so the practical implications for vendors and public agencies remain to be clarified based on subsequent reporting.",
-        "The combination of state-level AI regulations and broader national policy discussions suggests increasing regulatory scrutiny of AI use in both public and private sectors in the United States."
+        "MIT Technology Review reports a flare-up in the US political orbit around AI after several current and former Trump AI advisors publicly attacked China’s leading AI firms. The discussion centers on Kimi, a free, open-source Chinese model from Moonshot that some see as a wake-up call to domestic policy makers about the pace of open-source competition.",
+        "The story highlights a split among Trump’s AI circle, with some arguing that China’s cheaper models threaten the economic and strategic position of OpenAI and Anthropic, while others warn against overreacting to a model that may be limited by chip constraints and data access.",
+        "It also notes that the current debate comes as export controls on chips have loosened and as the White House pursues a process to vet AI models for security before release, a step that has been described by some as a potential licensing regime for frontier AI.",
+        "The piece underscores the tension between fostering innovation through open models and protecting national security and economic interests in a rapidly evolving AI landscape."
       ],
       "l": [
         {
-          "d": "yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXJKMmVHd0l1eVdxeUg4dmtKQ2ZISXJEcWlud3dVdE5Nelo2aEw1akpCTGpEUTNFOTdrbURnZnUzWWdCVEp0NnpNOXpwYXpvYmdUQ2w0cnFoXzk5cGZOczRlX3Ntc0V0djNLRjkxTE5qRjZwVWIza0tRSjFLb3gxQk9JMkVPYURLMmRMQkZYaFJGOEdSS0Z5Zk9XaFRnUG1sSTgwX0owTU4?oc=5"
-        },
-        {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
-        },
-        {
-          "d": "americanpress.com",
-          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSHdkX1p4WlVtR0VvZDhjY05SSnFrX3pwNVllaGkxdHpaMVQwN1ZTamR2aGdfTGhub1JvRWRZMDMycndsXzZwZk5odXVheTRCN3VMbG5XSjVMTUxtMGt1NjZMbzhONU1nNmVDbXUwaWM2c2hULTdIYVd1eVg2d0M1Qkp4M2YwcXhyT1VOVzljRUVjYktKUS1SY19ZVHpZUlk?oc=5"
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/"
         }
       ],
       "srcTitles": [
-        "New Louisiana artificial intelligence laws take effect Aug. 1",
-        "Artificial Intelligence - ABC News",
-        "New Louisiana artificial intelligence laws take effect Aug. 1"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 34,
-      "sources": 2,
-      "writtenSources": 2,
-      "h": "China weighs tighter export controls on AI models and chips",
-      "s": "If enacted, tighter controls could slow the spread of AI capabilities abroad and influence global AI competitiveness and supply chains.",
-      "b": [
-        "Financial Times reports China is weighing tighter export controls on AI models and chips (policy tightening).",
-        "Reuters reports a parallel version of the story, noting potential new licensing regimes or vetting processes for frontier AI exports.",
-        "The coverage frames the move as part of broader national security and economic strategy amid a shifting global AI landscape."
-      ],
-      "body": [
-        "Financial Times reports that China is weighing tighter export controls on AI models and chips as part of a broader national-security and economic strategy. The proposed controls could affect how Chinese and foreign AI technologies are shared or deployed internationally.",
-        "Reuters provides a parallel account of the discussions, noting the possibility of new licensing regimes or vetting processes for frontier AI exports that could constrain access to certain models or hardware.",
-        "The stories together depict a policy shift aimed at tightening oversight of advanced AI models and related components, with implications for global AI competitiveness, supply chains, and cross-border collaboration."
-      ],
-      "l": [
-        {
-          "d": "ft.com",
-          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVURTZEhNNV8xRTlJSmtQbWZjNFRpc3dSanpRM01BZnlwT2lhbjlGMUQwTnROSWxJcDZLZ0NmSUh0dXd0aW82cWVtZ0hKMzY2LTN3dTBfR2JOVEJlNFYxejVtMzBzQmsyYlRGUUJmODM0WFJZNG1PVkZ5UEtzc2g3QTcyUlA?oc=5"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "China weighs tighter export controls on AI models and chips",
-        "China considers tighter export controls on AI models and chips, FT reports"
+        "China’s AI models have Trump’s AI world at war with itself"
       ]
     },
     {
       "cat": "research",
-      "signal": 34,
-      "sources": 2,
+      "signal": 24,
+      "sources": 1,
       "writtenSources": 2,
-      "h": "How much energy do data centers and artificial intelligence use?",
-      "s": "Understanding energy use in AI infrastructure is key to balancing performance with sustainability in large-scale AI deployments.",
+      "h": "Advancing next-gen AI with materials science innovation",
+      "s": "Materials science is becoming a strategic lever to push AI hardware performance and efficiency, with implications for data-center design and sustainability.",
       "b": [
-        "Our World in Data frames data-center energy and AI energy use as an area of ongoing research and public reporting.",
-        "ABC News hosts a broad overview of artificial intelligence and related energy themes, linking AI with energy consumption discourse.",
-        "The coverage points to data-driven resources and ongoing debates about AI’s energy footprint, prompting policymakers and industry to consider efficiency and sustainability measures."
+        "Advanced materials underpin the performance and reliability of AI hardware as AI workloads grow more demanding, driving new polymer, elastomer, and fluid solutions.",
+        "The article highlights the role of materials in thermal management, high-voltage power architectures, and high-bandwidth memory for data centers.",
+        "Syensqo discusses applying cross-market knowledge (e.g., from EV cooling and semiconductors) to develop new cooling and power solutions for AI servers, enabling greater density and reliability.",
+        "Sustainability considerations are shaping material choices, such as fluorosurfactant-free manufacturing for perfluoroelastomers used in semiconductor equipment."
       ],
       "body": [
-        "Our World in Data discusses the energy footprint of data centers and artificial intelligence as a topic of ongoing research and public reporting, underscoring the need for better data to inform policy and industry practice.",
-        "ABC News provides a broad overview of artificial intelligence, touching on energy use as part of the larger discussion about the environmental impact of AI systems and the need for efficient, sustainable approaches to scaling AI infrastructure.",
-        "The coverage reflects a growing interest in quantifying AI energy consumption and emphasizes the role of data centers, hardware efficiency, and cooling technologies in shaping AI’s environmental footprint.",
-        "Researchers and policymakers are watching this space closely as AI workloads grow and data-center architectures evolve."
+        "MIT Technology Review argues that advances in AI are increasingly tethered to developments in materials science. As AI pushes semiconductors and data centers toward new physical limits, advanced materials become essential to sustain performance gains while maintaining reliability and energy efficiency.",
+        "The piece contends that the demands of next‑generation AI require not only smarter chips and better system design but also innovations in materials—polymers, elastomers, specialty fluids, and other advanced materials—that can withstand harsher operating conditions and higher processing density.",
+        "Manufacturability and yield are central concerns, as tiny variations in processing can impact costs. The article emphasizes the importance of materials that offer higher purity, chemical resistance, and stability under extreme environments, and notes that qualification timelines for new materials can stretch for years.",
+        "Cross‑market knowledge is highlighted as a way to accelerate progress: Syensqo cites adapting cooling and power-management know‑how from semiconductor manufacturing and automotive sectors to develop direct liquid-cooling designs for AI servers, illustrating how material innovations can unlock scalable AI infrastructure."
       ],
       "l": [
         {
-          "d": "ourworldindata.org",
-          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTdJQ0Ywb3FHcmNHRHFScm9RdzlIcWNRa1NZV0ZJVW0xTVFHSFdwTFk3VEMyTDBuMTlDbEFMTWZ2WlpPTGZXakx4SnJUQzgySGlmZVVZemRXUXpnYV9UWjhQenlBazl0X21pbEtQSzdRUFlRUFVfX3RqMk1UdzhOd1FkN19OTUtYZE5fc2tvbG01Uno1?oc=5"
-        },
-        {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
         }
       ],
       "srcTitles": [
-        "How much energy do data centers and artificial intelligence use?",
-        "Artificial Intelligence - ABC News"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 34,
-      "sources": 2,
-      "ts": "2026-07-21T13:15:00.000Z",
-      "writtenSources": 2,
-      "h": "3 AI stocks to watch for the long haul",
-      "s": "As AI investment activity and valuations evolve, these picks could shape long-term portfolio exposure to AI-enabled growth across industries.",
-      "b": [
-        "The Motley Fool touts 3 unstoppable AI stocks as long-term buys for the portfolio.",
-        "MarketBeat lists AI stocks to add to your watchlist as of July 21."
-      ],
-      "body": [
-        "The Motley Fool features a piece highlighting three AI-focused stocks deemed strong long-term buys, suggesting a durable growth thesis for investors betting on AI-enabled productivity and innovation.",
-        "MarketBeat’s July 21 watchlist adds AI stocks to monitor, reflecting ongoing investor interest in AI-centric equity exposure.",
-        "As AI adoption accelerates across sectors, investors may increasingly rely on guidance from outlets that track stock performance and valuation trends in the AI space, though specific company names and figures are not provided in the sourced headlines."
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1dVeEVJWEw3aHpzeE5aVF9NazhfX0VVdmU1OE9tNk1hNXJNQ0pRU0NUYXJjSUszTUVBY2ZzT05LLUpaZTB0MHVqaGtLYzdZMV9rOW45Z3hEUEo3R0I2MmsxeTVsZzJSYTlQb3VzMlJlVERGZV90ajlaMjRpMnFoSXRVQTRCZjlfaEYzaFZ4REdMc1Z3a3l1Yg?oc=5"
-        },
-        {
-          "d": "marketbeat.com",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX2M2Nm41ck1DaHdUOHJrWWpra0tPd0VkRDJmVjlwVVNfVEF4OHUtb2wycWVqYXdvLUVEOG9JenA4N0pValpKeVhaMEhXNVhWOXRaVmJON0xQYzBiZU1QSHh2QTlHcHpqVkR3OEpsOFJfZGhrWGN5ajJnT2k2UE9DUmRTUUhJTWJpSGZOVDVtTG1henlVaHVGZi13QkdmM2ExZnVycGpNVmJreTdBa1hmVFYwVmxObzV1M1FZ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "3 Unstoppable Artificial Intelligence (AI) Stocks That Are No-Brainer Buys for the Long Haul",
-        "Artificial Intelligence Stocks To Add to Your Watchlist - July 21st"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 34,
-      "sources": 2,
-      "ts": "2026-07-21T17:07:00.000Z",
-      "writtenSources": 2,
-      "h": "SpaceX: the AI infrastructure build-out just got interesting",
-      "s": "It signals growing investor and industry attention to SpaceX's AI infrastructure strategy and its potential influence on how AI deployments by private aerospace players are perceived.",
-      "b": [
-        "NASDAQ: SPCX is referenced in the headline across Yahoo Finance and The Globe and Mail",
-        "SpaceX is the subject of the build-out mentioned in the headline",
-        "Yahoo Finance and The Globe and Mail published the story with the same headline"
-      ],
-      "body": [
-        "Yahoo Finance and The Globe and Mail published a story about SpaceX and its AI infrastructure efforts.",
-        "The coverage notes a NASDAQ ticker, SPCX, in connection with the SpaceX AI infrastructure build-out.",
-        "SpaceX is identified as the subject of the AI infrastructure build-out in the headlines reviewed.",
-        "The provided snippets do not include dates, figures, quotes, or further details beyond the headline."
-      ],
-      "l": [
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEFkRV9wMXhCZTVveGxvTXc5eks4QjFDdlZoVi1YNFJhWk00Y0hYQlhBR3pKTHpnNXdlc1VfSmpyQWVIUG9sdFdwendxUnh3UEduUklYamJTazZpTlgtbGJKc3VIYXEtSmZBN3dNZUVaaUpQSkozOXJxbkZpZTlJbno3MlUybk84cERzOTgzcC02eWpQRHdxaGZWdjJydy1iZTlWc1lxazRNOEd2LU5ZY053?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOd0NDSjRzTTVLemc3NExJT0hxdE9WZmpocmF0TmJtaGo2NmJ1Z3MxektTUU55em1NOV9Vck9KcDF1Y1lLX1FHbmQ1LUl4LWJqaS1JM2NGNDY5cjk5d1IzT2JmaElOMGM0YTMzN1BHbm1iV0hBWFVjTWRFUDNpaUNlY0ZSTk9HeGo4Sk05QkpXNG1uQjZoWkNSdjh5WFhoNUZnVE9aTXlKX2hJejFTeVgzYnl0VGV6cXU4UHZwVDJoTUM3eE42bkxzNE8wVFFLb3pteUEwTHJoeWhjZGxzQTUxSVBwXzE2VGdTVXZhcWlfbHRKb0QxQUhrbTRnWEljTGI1UmRIVkpWWEtiLXc?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "SpaceX: The Artificial Intelligence (AI) Infrastructure Build-out Just Got Interesting (NASDAQ:SPCX)",
-        "SpaceX: The Artificial Intelligence (AI) Infrastructure Build-out Just Got Interesting (NASDAQ:SPCX)"
+        "Advancing next-gen AI with materials science innovation"
       ]
     },
     {
       "cat": "policy",
-      "signal": 34,
-      "sources": 2,
-      "ts": "2026-07-20T22:23:42.000Z",
-      "writtenSources": 2,
-      "h": "Head of US AI safety agency resigns as China questions US safety curbs",
-      "s": "The resignation could shift safety governance momentum and affect how AI deployments are supervised, particularly amid ongoing policy debates.",
+      "signal": 24,
+      "sources": 1,
+      "writtenSources": 1,
+      "h": "Safety and alignment in an era of long-horizon models",
+      "s": "As AI models run longer, deployment challenges grow, making iterative safety enhancements and guardrails critical for responsible use and risk management.",
       "b": [
-        "Reuters reports the head of the US AI safety agency resigns",
-        "South China Morning Post reports China’s Kimi K3 calls US safety curbs on top AI models into question"
+        "OpenAI discusses lessons from deploying long-running AI models, highlighting new safety risks and observed failures.",
+        "The company also describes improved safeguards achieved through iterative deployment.",
+        "The post frames safety as an ongoing, deployment-driven process rather than a one-time fix."
       ],
       "body": [
-        "Reuters reports that the head of the US AI safety agency has resigned.",
-        "South China Morning Post reports China’s Kimi K3 calls US safety curbs on top AI models into question.",
-        "The two outlets frame the developing situation within broader debates about AI safety policy and governance.",
-        "The pieces do not provide further details on dates, reasons, or follow-up actions in the provided coverage."
+        "OpenAI posted a briefing highlighting what it has learned from deploying AI models that operate over long horizons. The document outlines new safety risks that emerge when models run for extended periods and notes observed failures in real-world deployments.",
+        "The company emphasizes that safeguards have evolved through iterative deployment, with refinements intended to improve risk management while expanding capabilities.",
+        "Overall, the message is that safety and alignment are ongoing processes in the era of long-horizon models, requiring continual monitoring, evaluation, and updates as models and use cases mature."
       ],
       "l": [
         {
-          "d": "scmp.com",
-          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWF5NkljQlhzaWFZcVRDUjBlam9POHY0bHk0MkpvX2Utak8wTThIclMySDVwQWhDcGw5VVdjd2tEX0NlM2NvbmZLMHozY2tZNnRUSFZySHN4ZWJQeVl0VzdwbnBtYS1uQWh3bVp1MWkxT1k4d0I1T1h4SWNhdVduNFhQb3ZMSC0tcURfdDRNTHJpdUVnZFBQd0NiMmNhaUktOG9TWjBRQzY3c0pubzRrX3dhT0doY2fSAbcBQVVfeXFMUGZYcExSRS15UGRERmtUWW9RWlZ0ZndiUHVMdDREd0pIaS1Jdkp3OENxaWJlS3VCOXZreGJmeFZVNGZiZEFDWWtKR2NhdERJRWVmN29Na2xpbE5mRDRSbkpJenVaTnlIa1Bkd0YycDhmZ0s1S2xpc2pBZ2ZzbWctX1FFazh2Y1hldmg1LUVmSnBaMktzUTlKc1lfcjZ3dFRfRVZJTHBJNUhEN0NaTHBWTDZNMWpMWXJV?oc=5"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMl9UaTNLMHV0QmlCSkNjQXhIb3JZTVBYZHhPTVNZUURJb1UwUnZvazVGNXo2cU9FVmx4VE9UV2ZQZUxpeWFZTFZtOVQxNGJlaHRkWmNoNVByclhUUmNuX1FVczRSTHE2V1d2c2pnZkgzTzNUWkJId083ZUI1OFBTYTVyaw?oc=5"
+          "d": "openai.com",
+          "u": "https://openai.com/index/safety-alignment-long-horizon-models"
         }
       ],
       "srcTitles": [
-        "China’s Kimi K3 calls US safety curbs on top AI models into question",
-        "Head of US AI safety agency resigns"
+        "Safety and alignment in an era of long-horizon models"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 24,
+      "sources": 1,
+      "writtenSources": 1,
+      "h": "AI is more likely than humans to form biases when hiring",
+      "s": "AI can both inherit human stereotypes and generate new biases, with implications for fair hiring as models gain more memory and decision‑making power.",
+      "b": [
+        "A Princeton-Chicago study simulated hiring with LLMs (including ChatGPT, Claude, Gemini) across 20 jobs and four demographic groups, learning from outcomes over 40 rounds.",
+        "Models tended to segregate candidates by group, even though all candidates had equal success probabilities, with higher bias in newer, more capable models (e.g., OpenAI o3, DeepSeek R1).",
+        "Humans scored 0.84 on a segregation scale, while models scored roughly 65% higher (o3 around 1.83, near the top of the scale).",
+        "Promising better societal outcomes, the researchers found that explicitly rewarding diverse hiring reduced bias in models."
+      ],
+      "body": [
+        "MIT Technology Review summarizes a study where Princeton and University of Chicago researchers tested LLMs by having them act as hiring consultants for 20 jobs across four fictional ethnic groups. In each round, candidates had equal chances of success, but models tended to assign jobs based on early outcomes, effectively forming stereotypes about groups.",
+        "Newer models with greater reasoning capabilities, such as OpenAI’s o3 and DeepSeek’s R1, showed stronger biases than earlier versions. On a segregation scale, where 2 means complete separation, humans scored 0.84, while models scored roughly 65% higher, with o3 at about 1.83.",
+        "Researchers note that LLMs generalize from limited data because generalization is a core objective of their training. The study suggests that if models are incentivized to favor diverse hiring, biases can decrease.",
+        "The study also notes that providing more personal information about individuals can influence bias dynamics, and that while asking models to be fair did not dramatically shift behavior, adjusting the goal structure to include social value considerations can improve outcomes."
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
+        }
+      ],
+      "srcTitles": [
+        "AI is more likely than humans to form biases when hiring"
       ]
     }
   ]
