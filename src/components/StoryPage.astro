@@ -20,11 +20,14 @@ const chips = story.l.map((x) => {
 const description = story.s;
 const jsonLd = {
   '@context': 'https://schema.org',
-  '@type': 'Article',
+  '@type': 'NewsArticle',
   headline: story.h,
   description: story.s,
-  ...(dateISO ? { datePublished: dateISO } : {}),
+  datePublished: story.ts ?? (dateISO ? `${dateISO}T12:00:00Z` : undefined),
+  dateModified: story.ts ?? undefined,
+  author: { '@type': 'Organization', name: 'AI News Radar' },
   publisher: { '@type': 'Organization', name: 'AI News Radar' },
+  mainEntityOfPage: new URL(Astro.url.pathname, Astro.site).href,
 };
 ---
 <Base title={`${story.h} — AI News Radar`} description={description}>
