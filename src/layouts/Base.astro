@@ -53,6 +53,41 @@ const canonical = new URL(Astro.url.pathname, Astro.site);
       formatAgo();
       (window as any).formatAgo = formatAgo; // used by the homepage lazy loader
 
+      // "New" badges: mark today's stories that broke since the reader's
+      // previous visit. Purely client-side (localStorage) — no tracking.
+      // Visits <30min apart count as one sitting so badges survive refreshes.
+      try {
+        const KEY = 'anr-visits';
+        const now = Date.now();
+        const stored = JSON.parse(localStorage.getItem(KEY) || 'null');
+        let prevVisit = null;
+        if (stored) {
+          prevVisit = now - stored.last > 30 * 60 * 1000 ? stored.last : stored.prev;
+          localStorage.setItem(KEY, JSON.stringify({ last: now, prev: prevVisit }));
+        } else {
+          localStorage.setItem(KEY, JSON.stringify({ last: now, prev: null }));
+        }
+        if (prevVisit) {
+          const today = new Date().toDateString();
+          document.querySelectorAll('.story').forEach((story) => {
+            const tsEl = story.querySelector('[data-ts]');
+            if (!tsEl) return;
+            const ts = Date.parse((tsEl as HTMLElement).dataset.ts!);
+            if (ts > prevVisit! && new Date(ts).toDateString() === today) {
+              const headline = story.querySelector('.headline');
+              if (headline && !headline.querySelector('.newchip')) {
+                const chip = document.createElement('span');
+                chip.className = 'newchip';
+                chip.textContent = 'New';
+                headline.prepend(chip);
+              }
+            }
+          });
+        }
+      } catch {
+        /* localStorage unavailable (private mode etc.) — no badges */
+      }
+
       // Share: native share sheet on mobile, copy-link on desktop
       document.querySelectorAll('.sharebtn').forEach((btn) => {
         btn.addEventListener('click', async () => {
