@@ -19,8 +19,14 @@
         "Additionally, Gemini 3.5 Flash is noted for integrating into CodeMender, allowing it to identify and patch vulnerabilities in software."
       ],
       "l": [
-        "deepmind.google",
-        "techmeme.com"
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260721/p29#a260721p29"
+        }
       ],
       "srcTitles": [
         "Introducing Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
@@ -43,9 +49,18 @@
         "The Verge covers Adobe’s updated camera app with generative AI features aimed at producing a more natural look, and notes the changes do not rely on Adobe’s Firefly models."
       ],
       "l": [
-        "techcrunch.com",
-        "theverge.com",
-        "rsmus.com"
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update"
+        },
+        {
+          "d": "rsmus.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSmdwT25kYWdBWmhQZkZWUk8xUzVBbjY1RnRnUjl3TkpFSEtWZTYyc295QVhOeTV0eHg1ODdwcGlfYVpISV9ibkxjRGFnOXNMSVlHNTF6ejU0NEVvbVVRM2cwX09LaUM2TkJ1RmhGZk9GQkotU1M2ZXl6UVlZVFJTM2pKRmVodFI4d08tTQ?oc=5"
+        }
       ],
       "srcTitles": [
         "Adobe camera app s new feature will critique your photos using AI",
@@ -71,7 +86,10 @@
         "It also highlights how US companies’ access to Chinese models versus US-developed models affects competition, stock markets, and strategic policy considerations amid ongoing US-China AI rivalry."
       ],
       "l": [
-        "technologyreview.com"
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/"
+        }
       ],
       "srcTitles": [
         "China’s AI models have Trump’s AI world at war with itself"
@@ -94,8 +112,14 @@
         "The two pieces together show how Halliday’s new generation focuses on display quality while offering new AI-enabled productivity features."
       ],
       "l": [
-        "theverge.com",
-        "wired.com"
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/968255/halliday-gen-2-smart-glasses-hands-on-ai-wearables"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/halliday-new-smart-glasses-skip-the-camera/"
+        }
       ],
       "srcTitles": [
         "Halliday’s latest smart glasses feature a much-improved display",
@@ -121,8 +145,14 @@
         "Simon Willison’s post discusses Ben Thompson’s proposal for a copyright policy that (1) treats data collection for training models as fair use and (2) bars terms of service that forbid distillation, noting that Alibaba released Qwen 3.8 Max as open weights in a move that may have been influenced by a Xi Jinping speech promoting openness."
       ],
       "l": [
-        "techmeme.com",
-        "theguardian.com"
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260721/p21#a260721p21"
+        },
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15X1VKMzVOVzRtRGlveWc3b3AtX2Y4Q21oLWd4YkVHS3JrNUVxSkRMWU5jbTJHRktyeEdOS2pjYXNZUFVzbEdwT2hqX1RKdng0QUZmeXJsRWNUMlJ3cDlQMDZDWFdGWGNmNnVUWjE4WkFMaXJMVVNKUWpOcno?oc=5"
+        }
       ],
       "srcTitles": [
         "US Treasury Secretary Scott Bessent says the Trump administration is looking into Chinese AI models over distillation claims and it could \"sanction them\" (Ashley Capoot/CNBC)",
@@ -146,7 +176,10 @@
         "The article frames the discussion around how longer-running, long-horizon AI deployments change the safety landscape and necessitate evolving safeguards as models operate over extended periods."
       ],
       "l": [
-        "openai.com"
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/safety-alignment-long-horizon-models"
+        }
       ],
       "srcTitles": [
         "Safety and alignment in an era of long-horizon models"
@@ -172,7 +205,10 @@
         "Ultimately, it notes that materials innovation is now defining the limits of what is possible in AI performance, and that materials companies must evolve in step with AI progress."
       ],
       "l": [
-        "technologyreview.com"
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
+        }
       ],
       "srcTitles": [
         "Advancing next-gen AI with materials science innovation"
@@ -197,7 +233,10 @@
         " The article uses the simulated hiring scenario to highlight concerns about fairness in AI hiring, showing how biases can be amplified by model capabilities and feedback loops."
       ],
       "l": [
-        "technologyreview.com"
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/"
+        }
       ],
       "srcTitles": [
         "AI is more likely than humans to form biases when hiring"
@@ -244,8 +283,14 @@
         "Inside INdiana Business accompanies the cluster with a piece titled Is AI a dirty little secret?, highlighting transparency concerns around AI deployments."
       ],
       "l": [
-        "techcrunch.com",
-        "insideindianabusiness.com"
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/"
+        },
+        {
+          "d": "insideindianabusiness.com",
+          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1hYWowNzN4UGhsdXZyaG5hQnJDOHFNWE9ESnlqT1B4dl9ZNnk5RDBrekxaMlYyT284Y2VZYU5mV1h2QU9Gc280cTdadnltQ0FBb05WbUJxLUdjLUFhWUxYcUxSRUtDZVVxLTZKNlpzRmVHeEpaVFNuUmduUWJsbEE?oc=5"
+        }
       ],
       "srcTitles": [
         "AI s most important protocol is getting a little bit easier to use",
@@ -292,8 +337,14 @@
         "Just Security discusses AI and the commercial data loophole, placing Nvidia’s hardware strategy in the broader policy context of AI data use and governance."
       ],
       "l": [
-        "wired.com",
-        "justsecurity.org"
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/nvidia-wants-to-own-every-chip-inside-an-ai-data-center/"
+        },
+        {
+          "d": "justsecurity.org",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVVhnUkVlNXRONVNsYTB6TUNZTHhuV2RQeXhmMjhsdkIxV3VXTEd3aU93TnU2VFEydDMwQ3pOR0JiamYtWl80RURCXzNCdEF0YWdDSWFCYXdtelE0cEFTZ1lWZmdGVTFPcW5xZ1RLQTUtWDc0ZVU4eXphb19TNzJjX0NVcw?oc=5"
+        }
       ],
       "srcTitles": [
         "Nvidia Wants to Own Every Chip Inside AI Data Centers",
@@ -318,9 +369,18 @@
         "The coverage situates the framework within broader education policy efforts to prepare teachers and students for AI-enabled learning."
       ],
       "l": [
-        "unesco.org",
-        "walb.com",
-        "wrdw.com"
+        {
+          "d": "unesco.org",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWElPcXY3TDFSWGZjbU9kbUMwcUtrYjctMFNTN0JVUzZlTXhaMEc2amlndGVnN1VXR2JjUEZQakFXNEtsZkJpVld0aElIU1VmbW1FdDZYeERRV2QtVk9zS1dlYmZPYWRsZlZQX0JjejBaczFfWGIyZ2dmT1ZFTDMxWHpFLVZtak5Ta1hJUGY5R3dMX3A3NWJvLU80ZXRDbTJRSnBjUDZqczRjVGpaMlBZZWlR?oc=5"
+        },
+        {
+          "d": "walb.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVEJkejBwWDY0TFlRYjVfRHRPcGVVaTRTWFhxd09VTmpqdFZXU0M3V1ZoWWdGYlYtNExUWVBVQWVENDBwMmxITnhmNG91S1BSSjRwNC1qUDVpbFRBeU5pQVBsazdPdXFfaWpkQXFOMlgtX0dVX0Z6TUJzT0RRTW41UmR0NA?oc=5"
+        },
+        {
+          "d": "wrdw.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2FXYnhPWTQ1a2lMNE0yeDJMbWs4SUM4WnFhekRITmpxSGF4bE5CSDF1QTJaSGxVQlU0R0lKb3JtQXRwOXB2TkZMTFpyUlJmYkw2Tzk1VlNyRHFvQ0xkaGppSlNuNmo4dTRlNkVWVjZwQVZVYVBIdTJTOWRrOXU2YTQyZw?oc=5"
+        }
       ],
       "srcTitles": [
         "National artificial intelligence competency framework for teachers launched in Egypt",
@@ -344,8 +404,14 @@
         "Reuters corroborates the FT report, noting tighter controls on exports of AI models and chips and the potential implications for research and supply chains."
       ],
       "l": [
-        "ft.com",
-        "reuters.com"
+        {
+          "d": "ft.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVURTZEhNNV8xRTlJSmtQbWZjNFRpc3dSanpRM01BZnlwT2lhbjlGMUQwTnROSWxJcDZLZ0NmSUh0dXd0aW82cWVtZ0hKMzY2LTN3dTBfR2JOVEJlNFYxejVtMzBzQmsyYlRGUUJmODM0WFJZNG1PVkZ5UEtzc2g3QTcyUlA?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMnQtRVFFNl9xQzJhYWtqMjlrVEx5NW9FYmp4UzM3QlNHdjYwaDhfT3BTdkdaX0QwUHF2X0Z3a3pEMnl0b0RqN0VVMFZ2NndBT1YtWDhjbE85dGZKT2lpWmtFYTJaY1E5UHljUmVvcXhvV0FTTUFyck5GZHBYRU1Nc1hTNDg4aUxoeFFNZmhKOVVKcDNLQVo3SFBYcnZ0VFFhVlBhNndHOWtuMVZpaDhmVE9JY051NmVzQUx4QUln?oc=5"
+        }
       ],
       "srcTitles": [
         "China weighs tighter export controls on AI models and chips",
@@ -368,8 +434,14 @@
         "ABC News provides broader coverage on artificial intelligence and energy usage, reflecting public interest in the environmental impact of AI."
       ],
       "l": [
-        "ourworldindata.org",
-        "abcnews.com"
+        {
+          "d": "ourworldindata.org",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZTdJQ0Ywb3FHcmNHRHFScm9RdzlIcWNRa1NZV0ZJVW0xTVFHSFdwTFk3VEMyTDBuMTlDbEFMTWZ2WlpPTGZXakx4SnJUQzgySGlmZVVZemRXUXpnYV9UWjhQenlBazl0X21pbEtQSzdRUFlRUFVfX3RqMk1UdzhOd1FkN19OTUtYZE5fc2tvbG01Uno1?oc=5"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
+        }
       ],
       "srcTitles": [
         "How much energy do data centers and artificial intelligence use?",
