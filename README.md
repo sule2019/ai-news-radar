@@ -33,7 +33,7 @@ Day file shape:
       "h": "Headline, punchy",
       "s": "One-line why-it-matters.",
       "b": ["Detail bullet 1", "Detail bullet 2", "Detail bullet 3"],
-      "l": ["openai.com", "theverge.com", "+38"]   // source chips
+      "l": [{"d": "openai.com", "u": "https://openai.com/news/..."}, {"d": "+38"}]  // source chips linking to exact articles
     }
   ]
 }

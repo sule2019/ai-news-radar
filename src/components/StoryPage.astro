@@ -6,6 +6,17 @@ import { CATS, getSections, sigTier, sigBarsOn } from '../lib/data.js';
 const { section, story, prev, next, dateISO = null } = Astro.props;
 const sections = getSections();
 
+// Source chips: new-format entries are {d, u} objects linking to the exact
+// article; legacy entries are plain domain strings (link to the outlet) or
+// "+N" overflow counts.
+const chips = story.l.map((x) => {
+  const d = typeof x === 'string' ? x : x.d;
+  const isMore = d.startsWith('+');
+  const u =
+    typeof x === 'object' && x.u ? x.u : !isMore && typeof x === 'string' ? `https://${d}` : null;
+  return { d, u, isMore };
+});
+
 const description = story.s;
 const jsonLd = {
   '@context': 'https://schema.org',
@@ -63,11 +74,11 @@ const jsonLd = {
     <div class="coverage">
       <h2>Coverage</h2>
       <div class="srcrow">
-        {story.l.map((x) =>
-          x.startsWith('+') ? (
-            <span>{x} more outlets</span>
+        {chips.map((c) =>
+          c.u ? (
+            <a href={c.u} target="_blank" rel="noopener">{c.d} ↗</a>
           ) : (
-            <a href={`https://${x}`} target="_blank" rel="noopener">{x} ↗</a>
+            <span>{c.isMore ? `${c.d} more outlets` : c.d}</span>
           )
         )}
       </div>

@@ -177,9 +177,15 @@ function keepCluster(c) {
 }
 
 function sourceChips(c) {
-  const shown = c.domains.slice(0, 3);
-  const extra = c.domains.length - shown.length;
-  return extra > 0 ? [...shown, `+${extra}`] : shown;
+  // One chip per outlet, linking to that outlet's actual article
+  const seen = new Map();
+  for (const it of c.items) {
+    if (!seen.has(it.domain)) seen.set(it.domain, it.link || null);
+  }
+  const chips = [...seen.entries()].slice(0, 4).map(([d, u]) => (u ? { d, u } : { d }));
+  const extra = seen.size - Math.min(seen.size, 4);
+  if (extra > 0) chips.push({ d: `+${extra}` });
+  return chips;
 }
 
 /* ---------------- LLM copywriting ---------------- */
