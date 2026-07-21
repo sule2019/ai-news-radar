@@ -26,13 +26,18 @@
           "u": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/"
         },
         {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved"
+        },
+        {
           "d": "arstechnica.com",
           "u": "https://arstechnica.com/tech-policy/2026/07/judge-approves-anthropics-1-5-billion-copyright-settlement-with-authors/"
         }
       ],
       "srcTitles": [
         "Anthropic s landmark $1.5B copyright settlement is approved",
-        "Judge approves Anthropic’s $1.5 billion copyright settlement with authors"
+        "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+        "Anthropic’s $1.5B copyright settlement approved; only 350 authors opted out"
       ]
     },
     {
@@ -389,6 +394,42 @@
     },
     {
       "cat": "policy",
+      "signal": 43,
+      "sources": 2,
+      "ts": "2026-07-21T11:08:56.000Z",
+      "writtenSources": 2,
+      "h": "Chinese AI breakthroughs trigger market jitters and calls for new alignment metrics",
+      "s": "These breakthroughs could accelerate policy debates and force a rethink of AI infrastructure spending and vendor dependence, with implications for national competitiveness.",
+      "b": [
+        "Moonshot AI unveiled a flagship model on Friday claiming it outperforms nearly every US model, trailing only OpenAI’s GPT-5.6 Sol.",
+        "AP described the Chinese model as taking the US tech industry by surprise.",
+        "Bloomberg described the development as a 'surprise breakthrough' roiling markets, with concerns about AI infrastructure costs like data centers and chips.",
+        "IEEE Spectrum proposes Genie coefficient as a new metric to measure whether AI does what you mean, by Barath Raghavan, Bruce Schneier, and Ryan Snook."
+      ],
+      "body": [
+        "The Verge reports that last week two Chinese AI companies unveiled models they say can credibly compete with the leading systems from OpenAI and Anthropic. Beijing-based Moonshot AI, described as one of China’s leading AI model developers, unveiled a flagship model on Friday claiming it outperforms nearly every US model, trailing only OpenAI’s GPT-5.6 Sol.",
+        " The response from markets and commentators was swift. The Associated Press said the move took the US tech industry by surprise, while Bloomberg called it a 'surprise breakthrough' that is roiling markets and prompting discussions about the costs of AI infrastructure such as data centers and chips. Business Insider explored whether the launch could be the next DeepSeek, and XPRIZE founder Peter Diamandis went as far as to call the release America’s 'AI Sputnik moment.'",
+        "The Verge notes that Washington’s AI strategy has swung between intervention and laissez-faire, and that Beijing has been keen to back homegrown AI through incentives and funding while cracking down on firms trying to shed ties to China. It also points out that six of the top 10 AI tools on OpenRouter’s leaderboard are Chinese, and that Chinese models are reportedly cheaper to use, contributing to growing US interest in Chinese tooling as domestic costs rise.",
+        "IEEE Spectrum’s piece on AI alignment argues for a new metric—the Genie coefficient—to measure not just what AI can do but whether it does what you actually want. Barath Raghavan, Bruce Schneier, and Ryan Snook describe it as a way to quantify the gap between user intent and an AI’s actions, addressing a core challenge in frontier AI deployment.",
+        "Taken together, the coverage portrays a high-stakes moment in AI where market reactions and policy considerations intersect, underscoring that both the cost of AI infrastructure and the alignment between user goals and AI behavior will shape the next phase of AI deployment and national strategy."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/968136/chinese-ai-models-another-sputnik-moment"
+        },
+        {
+          "d": "spectrum.ieee.org",
+          "u": "https://spectrum.ieee.org/ai-agent-benchmark"
+        }
+      ],
+      "srcTitles": [
+        "America needs to stop getting shocked by Chinese AI",
+        "Why AI Needs a “Genie Coefficient”"
+      ]
+    },
+    {
+      "cat": "policy",
       "signal": 39,
       "sources": 1,
       "writtenSources": 1,
@@ -598,6 +639,43 @@
     },
     {
       "cat": "policy",
+      "signal": 39,
+      "sources": 3,
+      "ts": "2026-07-21T10:31:54.000Z",
+      "writtenSources": 2,
+      "h": "Louisiana AI laws take effect Aug 1",
+      "s": "The new rules signal state-level regulatory activity on AI usage, with potential implications for vendors and public-sector AI deployments in Louisiana.",
+      "b": [
+        "New Louisiana AI laws take effect August 1.",
+        "Coverage also notes a separate ABC News AI topic page, but the Louisiana law item is the focus here."
+      ],
+      "body": [
+        "The Yahoo summary notes that Louisiana’s new artificial intelligence laws are scheduled to take effect on August 1, marking a movement toward state-level regulatory activity around AI deployment and governance.",
+        "Beyond the date, the provided coverage does not include detail on the specific provisions or affected sectors, so the practical implications for vendors and public agencies remain to be clarified based on subsequent reporting.",
+        "The combination of state-level AI regulations and broader national policy discussions suggests increasing regulatory scrutiny of AI use in both public and private sectors in the United States."
+      ],
+      "l": [
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXJKMmVHd0l1eVdxeUg4dmtKQ2ZISXJEcWlud3dVdE5Nelo2aEw1akpCTGpEUTNFOTdrbURnZnUzWWdCVEp0NnpNOXpwYXpvYmdUQ2w0cnFoXzk5cGZOczRlX3Ntc0V0djNLRjkxTE5qRjZwVWIza0tRSjFLb3gxQk9JMkVPYURLMmRMQkZYaFJGOEdSS0Z5Zk9XaFRnUG1sSTgwX0owTU4?oc=5"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
+        },
+        {
+          "d": "americanpress.com",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSHdkX1p4WlVtR0VvZDhjY05SSnFrX3pwNVllaGkxdHpaMVQwN1ZTamR2aGdfTGhub1JvRWRZMDMycndsXzZwZk5odXVheTRCN3VMbG5XSjVMTUxtMGt1NjZMbzhONU1nNmVDbXUwaWM2c2hULTdIYVd1eVg2d0M1Qkp4M2YwcXhyT1VOVzljRUVjYktKUS1SY19ZVHpZUlk?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "New Louisiana artificial intelligence laws take effect Aug. 1",
+        "Artificial Intelligence - ABC News",
+        "New Louisiana artificial intelligence laws take effect Aug. 1"
+      ]
+    },
+    {
+      "cat": "policy",
       "signal": 34,
       "sources": 2,
       "writtenSources": 2,
@@ -659,38 +737,6 @@
       "srcTitles": [
         "How much energy do data centers and artificial intelligence use?",
         "Artificial Intelligence - ABC News"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 34,
-      "sources": 2,
-      "ts": "2026-07-21T10:31:54.000Z",
-      "writtenSources": 2,
-      "h": "Louisiana AI laws take effect Aug 1",
-      "s": "The new rules signal state-level regulatory activity on AI usage, with potential implications for vendors and public-sector AI deployments in Louisiana.",
-      "b": [
-        "New Louisiana AI laws take effect August 1.",
-        "Coverage also notes a separate ABC News AI topic page, but the Louisiana law item is the focus here."
-      ],
-      "body": [
-        "The Yahoo summary notes that Louisiana’s new artificial intelligence laws are scheduled to take effect on August 1, marking a movement toward state-level regulatory activity around AI deployment and governance.",
-        "Beyond the date, the provided coverage does not include detail on the specific provisions or affected sectors, so the practical implications for vendors and public agencies remain to be clarified based on subsequent reporting.",
-        "The combination of state-level AI regulations and broader national policy discussions suggests increasing regulatory scrutiny of AI use in both public and private sectors in the United States."
-      ],
-      "l": [
-        {
-          "d": "yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXJKMmVHd0l1eVdxeUg4dmtKQ2ZISXJEcWlud3dVdE5Nelo2aEw1akpCTGpEUTNFOTdrbURnZnUzWWdCVEp0NnpNOXpwYXpvYmdUQ2w0cnFoXzk5cGZOczRlX3Ntc0V0djNLRjkxTE5qRjZwVWIza0tRSjFLb3gxQk9JMkVPYURLMmRMQkZYaFJGOEdSS0Z5Zk9XaFRnUG1sSTgwX0owTU4?oc=5"
-        },
-        {
-          "d": "americanpress.com",
-          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSHdkX1p4WlVtR0VvZDhjY05SSnFrX3pwNVllaGkxdHpaMVQwN1ZTamR2aGdfTGhub1JvRWRZMDMycndsXzZwZk5odXVheTRCN3VMbG5XSjVMTUxtMGt1NjZMbzhONU1nNmVDbXUwaWM2c2hULTdIYVd1eVg2d0M1Qkp4M2YwcXhyT1VOVzljRUVjYktKUS1SY19ZVHpZUlk?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "New Louisiana artificial intelligence laws take effect Aug. 1",
-        "New Louisiana artificial intelligence laws take effect Aug. 1"
       ]
     },
     {
