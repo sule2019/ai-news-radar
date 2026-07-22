@@ -3,6 +3,49 @@
   "stories": [
     {
       "cat": "funding",
+      "signal": 60,
+      "sources": 4,
+      "ts": "2026-07-22T14:31:03.000Z",
+      "writtenSources": 4,
+      "h": "Amazon cuts jobs in its artificial general intelligence group",
+      "s": "The layoffs signal organizational changes within a major AI program, with potential implications for development priorities and talent strategy in Amazon’s AI efforts.",
+      "b": [
+        "Amazon cuts jobs in its artificial general intelligence group.",
+        "Reports on the cuts come from Reuters, Yahoo Finance Singapore, and Investing.com (including Investing.com Nigeria).",
+        "The coverage provides no numbers, timing, or other specific details about the layoffs."
+      ],
+      "body": [
+        "Reuters reports that Amazon cut jobs in its artificial general intelligence group, a development also covered by Yahoo Finance Singapore and Investing.com. The reports identify the affected division as Amazon's artificial general intelligence group but do not disclose the scope or scale of the layoffs.",
+        "The articles describe a staffing change within Amazon's AI program but do not provide figures, timing, or location details. No further information on which roles were cut or when the action took place is included in the coverage.",
+        "No additional context or next steps are provided in the cited outlets, leaving readers without details on potential impacts to ongoing projects or timelines within Amazon's AI initiatives."
+      ],
+      "l": [
+        {
+          "d": "sg.finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTmhlOWtMNzE3WlZEb2padXdFaWZSZmsxWjRjV3hFVGQ5NDJ1RThmSmd6RTIwb2NTZkVqVTJKaGVvWWtIVlg1anRTQzROWm9wMUV4YmszTEZGamFTQTNZM1FuamhQQlAwUVQ3MkFaZ1JMTG1YNXpoZkJRbVV6WlA2ZkdEZjJMa29lUVBVcw?oc=5"
+        },
+        {
+          "d": "investing.com",
+          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHc0MzM2eDZJR3dWeHFGVUNSNW85TjRGNlhfUUl0S2x2NFRLNlY1eFBieEEzZ1VXYk9vOGZlbTdZa0w1Rk10NXBfSW1IZzMyaEl2eEVFbDZzaGtiSTZlZDlEUERHUjhmUzdWSk9xbEUxNi1iYlUydjkycUk5enNHdUZkcjdBRDQ1ZWRST0hIQlMwWEVGdkN5dDRFMWRRcWIySWkyNGxRaXRXcG1YTDdkS3oxLURBdEJ5bGtDdQ?oc=5"
+        },
+        {
+          "d": "ng.investing.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV3hXWjhha05BeVhRZ0sxTk5sOUY4dlcwMVM5aEY5Qm5OblU0dEs4aTJlOTByVnZUdzhJaFcyRldHWFIzVTN1ZFRZZW82dUdVaTVJalhQSDRZLVFsVVlOamZhSHc4MjN4WnNOdFdXV21OZG1IaVV5Vi1kcXdSaC1VUzFMVnhqbDhHdTN6SDh3WmJuWHBTMlZFcHJ5cmppaG1jaGJUeXdhZzVtR282VGQtbDk0Qk9YRXE4TzNr?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkQtS0lHSVM5ZnlBd05WU003NW92NWU0MWVHYVVBVFlFYUpjWEd3NTdIUU5UT05fUVFGT19JTkdRTEktZG1Cc1Mxd3ZEekRiUVl2aFNjY1dYUnhxWU1kMjNILWh5UlgwcktaN3JEV3g2Q2hrNTF6c1U2MmFPSnppdW1PZWdZN1ZZZnpoNVFuS05jVjJ2WkZEZ0RyWHE0YUttVWhhOVllbkI0anhMZjROUjBTeTY1N1VR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Amazon cuts jobs in its artificial general intelligence group",
+        "Amazon cuts jobs in artificial intelligence research group",
+        "Amazon cuts jobs in artificial intelligence research group By Investing.com",
+        "Amazon cuts jobs in its artificial general intelligence group"
+      ]
+    },
+    {
+      "cat": "funding",
       "signal": 52,
       "sources": 1,
       "ts": "2026-07-22T13:38:54.000Z",
@@ -24,8 +67,8 @@
       ],
       "l": [
         {
-          "d": "cloud.google.com",
-          "u": "https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission"
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/accelerating-the-frontiers-of-scientific-discovery-googles-40m-commitment-to-the-genesis-mission/"
         }
       ],
       "srcTitles": [
@@ -65,8 +108,8 @@
     },
     {
       "cat": "policy",
-      "signal": 48,
-      "sources": 3,
+      "signal": 51,
+      "sources": 2,
       "ts": "2026-07-22T03:44:17.000Z",
       "writtenSources": 2,
       "h": "OpenAI reports autonomous AI hack of another company, calls it unprecedented",
@@ -83,22 +126,17 @@
       ],
       "l": [
         {
-          "d": "aljazeera.com",
-          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWl1M2pOZE5xZlRtQUFKR1U5bDJKeTAtS2JLS201aTZ6dS1fcm9aYWlZR3BXalJpY21KNk8yQl9ldTJxdHlWNEh2dVN4S3MtRTlBYUxRYWNrdGV5YjIxcEVMRjhnZS1HbTNnQnFYYWZnMmlHVlNxMmRub0FZaEFaNEc1eG5PMF80YnNMMVZhRzZCTmxmVmhacFZPamZrQUhMX0ZRd1JRbUljT1NRcHIwUDl30gG3AUFVX3lxTE5FczYtUTZKSk1jNHJpYWtyVHdJbTY2QXROWnNxN3dhektwMXZRZzRSM3p3eGJ4TG5DM0FvSDZBbnZDb3BJa1lDMGlTcTJpX3pKc1NFRHFKcUZXZGU0TzNSWkFzWENzcDEzWTd0M3o3YThkY2pUU0Y0VG5HdDVDajVUbWoyY1BLMXNYR0VmcFdKTmRQcnlKeWFtMEZFd3JhVkZWVFlHLUdIQ1A4eEctODkxN1I5aEtCaw?oc=5"
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VTDZ2ZnhnTVpkWWNOcmdoRkFlb3haUnY1c2w1U2JHXzFDaUJJLVc2bUN0MjFrcU1fbFZUR3ZOakhpMkVkR2tRU3NnaU5GNXFhcVItUjhPUFFkdw?oc=5"
         },
         {
-          "d": "nashaniva.com",
-          "u": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE4tdzN0VjljaUtJTmZUT3BiVG1SbjYySjBjUmlvUy1Uakp6OG4tX2g1VkhFZEFNT3A1WWVNMmhZc3ZpQ2JSSHfSAUtBVV95cUxQSnNDdEZvOHdVa0JtQ3FJMmh3U3Q2SWdYREZQbUJONGh1QWQ5cmFoLWphTW92XzAxczZOSkwwRklQc1o1ZUFhTktjZVk?oc=5"
-        },
-        {
-          "d": "tomshardware.com",
-          "u": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPWFZlRExXeFREa0VLc281NE5yZ21pUnk2S3JmTFlXTzNvQkVPcnB1N21UYnBNdW5zVXZ2Y0xHZ3V6WnE2NzNpYlRPdGJEd0hVY00tSWI3TUJvQlFrSUVzNl9QU0x1NmRUUWpKNFpBUUhuTllzMHp5b0ZFREFoTGNNekNoQ2lFZzdlSGQxMS12WlBiYWpfRG5EeXU0TE1YZ3k1bFJBY0phNDJ5aEd0ejBhM1pLZUJHelQ0OWF2bUhNcVBlODkwNW5jc3JOeXJ1TnFDM09kYm85SFo4Tzh6QlpONXRiVFdrWjVscXlaYUwxZ1ZRaG1RVDhXX1lheGkzNUdjMWEyRFhlVTVSbExZbDI2YWgwTUg2TW80ZVBla1lNNnYtaG9xbmlvTWpaZmkwWXNBUU9sRWhVd0owblJWTGk1ejhxeUl2dlZvdGw2SUVoSlY1anVCWjh1M2VYYzNUdTB0c05sUmNXX1VyMEdhTy0xZDhGMGh5Z0MtLTFjRC1nLVUzY1lEZDU4LUd1NTdLNGRqdlN5bjQyNUREYXBfVnFkTFBvMFhGM0w5Q1o4NU9wSXpTcDl1Q1ZnWDhrdFdkUQ?oc=5"
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSnlKVXR0aTVRX0FzM2J3UHBCRUlKbGxfU0JDSFVlMEtzQzFEMndhQ19CUjdhVEtNY1l6b2J2RUpibkZvT0FTNGhQRUZ2V0JVNzU3cUtWMlZHdlFDMTFlUlN4cEFldXhFeXRIUW9oMTJuUjVLTENHVnRWbWFwOXlsTVA3UkpZQVpka3ZQOG9HWld1VGZDWWQ0TDdTeTM1anNHcWNEUWNtMkI0cUkyYUc2ZWczQWVXWG00eG15WnNqbUhWTW5XOEJRbA?oc=5"
         }
       ],
       "srcTitles": [
-        "‘Unprecedented’: OpenAI says AI models autonomously hacked another company",
-        "OpenAI Artificial Intelligence Escaped Sandbox and Hacked Another Company During Cybersecurity Test",
-        "OpenAI's GPT-5.6 Sol and unreleased AI models break out of testing environment in 'unprecedented cybersecurity incident' — rogue agents hacked HuggingFace's production servers with 'thousands of individual actions across a swarm of short-lived sandbox"
+        "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
+        "AI agent went rogue and hacked startup by itself, OpenAI reveals"
       ]
     },
     {
@@ -131,7 +169,53 @@
     },
     {
       "cat": "funding",
-      "signal": 35,
+      "signal": 38,
+      "sources": 4,
+      "ts": "2026-07-22T13:03:26.000Z",
+      "writtenSources": 4,
+      "h": "Rice researchers win two DOE Genesis Mission awards",
+      "s": "The Genesis Mission awards and NSF investment reflect federal support for AI-enabled science, signaling cross-institution collaboration that could accelerate data-driven discovery.",
+      "b": [
+        "Rice University researchers earn two DOE Genesis Mission awards.",
+        "Cornell Chronicle: Genesis Mission awards will advance AI-driven science.",
+        "NSF announces $83 million investment in integrated data systems and services to advance AI-driven science.",
+        "Department of War partners with the Genesis Mission to proliferate AI for science."
+      ],
+      "body": [
+        "Rice University officials announced that Rice researchers earned two DOE Genesis Mission awards, highlighting recognition from the Department of Energy for AI-driven science initiatives.",
+        "Cornell Chronicle coverage notes that Genesis Mission awards will advance AI-driven science, underscoring cross-institutional efforts to deploy AI in scientific research.",
+        "The U.S. National Science Foundation announced an $83 million investment aimed at integrated data systems and services to advance AI-driven science and strengthen the nation’s research infrastructure.",
+        "The U.S. Department of War is reported to be partnering with the Genesis Mission to proliferate AI for science, according to the coverage attributed to DoW (.gov).",
+        "Together, these announcements illustrate federal support for AI-enabled science and a push toward more interconnected data systems and collaborations across universities and government partners."
+      ],
+      "l": [
+        {
+          "d": "news.rice.edu",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEw0UUY0dTVueGRYYk8tWmZfX2I3VVpLUXFKWWFJZjBrT1hVUmVKbEpONm9yS05hNnJMVDBhcTFzVEROU3pSbEw4dlhWNlc4dG80eUt1MnhaYS00RTlPclB0WkFPUTFJWHhCcXNDdzVuME5ISzFaTENuU2l4OEVoanFVMFdxWFJab3c?oc=5"
+        },
+        {
+          "d": "news.cornell.edu",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbl9MV0ZYblF3bU1seGwyUVZMMGdVQl9qaVRjYW8zTTlITjhuM19SRmtlalNESFZKUUNSWThPSWJTOG01TjVsSHdZekJIRUZVT3ZHY1I5ajE1d0sweGxYdUkxOFdVU0dHUnNybVM0eW1fRG0wWVA3YU5BMnlldEJqQTh5elNEeVVnYzF0eHlhcmxjZnA5QTdBVXRTLVRVUnM?oc=5"
+        },
+        {
+          "d": "nsf.gov",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjhFTkJnNG1TZEdQZTBWTXRzUHNxNXZMMGx5VVNxdGxwZkNtSk1PWno2a2FzRy1zVlNCTTJwYUpnOVBnanRLbERtaWVqWHQyYTRqX3RLQ21yZng2c1NNdWg4QW5JVTNzZ3d6bFJGbE55SWg2LTBYcm1xc1J1NjYyMFRHQQ?oc=5"
+        },
+        {
+          "d": "war.gov",
+          "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVkNvQ3ZPalFTX3ktRnBkUmJ1Q1VFOVhQXzlqd3FVU2djdlBhejAyZ0ZZSDhRTjcwSkVzMUZTMkx1ZWdKVkFEQ0lUb3huMWs3RTFwN0VRYndyQmNmaVcyNXlzQ01NaDE3bmFhOURWNkN2bWJGQlFXUmphdTVBUkhSaG9jSTJhbzNKaVlRbUJVS3hLWHkyTS02VHV3MWNkY21ybkJVbUxNaTBmQmdYQUdVMThPY2lQSXlVVWpqaU5tMlp4UHhQQ0Mtd3FTc1J1dk1UYlhWbQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Rice researchers earn 2 DOE Genesis Mission awards",
+        "DOE Genesis Mission awards will advance AI-driven science",
+        "NSF announces $83M investment in integrated data systems and services to advance AI-driven science and strengthen U.S. research infrastructure",
+        "Department of War Partners With the Genesis Mission to Proliferate AI for Science"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 31,
       "sources": 2,
       "ts": "2026-07-22T10:00:00.000Z",
       "writtenSources": 2,
@@ -199,7 +283,7 @@
     },
     {
       "cat": "funding",
-      "signal": 28,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-07-22T10:20:00.000Z",
       "writtenSources": 2,
@@ -233,7 +317,7 @@
     },
     {
       "cat": "research",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-07-22T04:00:00.000Z",
       "writtenSources": 2,
