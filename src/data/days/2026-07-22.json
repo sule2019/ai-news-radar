@@ -2,39 +2,6 @@
   "date": "2026-07-22",
   "stories": [
     {
-      "cat": "products",
-      "signal": 60,
-      "sources": 2,
-      "ts": "2026-07-22T05:30:00.000Z",
-      "writtenSources": 1,
-      "h": "OpenAI Presence introduced as an enterprise AI agent platform",
-      "s": "Presence provides a turnkey way for large organizations to deploy trusted voice and chat agents for customer support and internal workflows, enabling scalable AI-enabled operations.",
-      "b": [
-        "Introducing OpenAI Presence as an enterprise AI agent platform.",
-        "Presence is described as a proven platform for deploying voice and chat agents in customer and internal workflows.",
-        "The platform is positioned to help organizations build and manage AI agents at scale, with governance and trust baked in."
-      ],
-      "body": [
-        "OpenAI has announced Presence, an enterprise AI agent platform designed to help organizations deploy trusted voice and chat agents for customer-facing and internal workflows.",
-        "According to OpenAI, Presence is a proven enterprise AI agent platform that aims to streamline the deployment of AI assistants across business processes, with attention to governance and reliability.",
-        "The announcement frames Presence as a tool to accelerate the deployment of AI-powered customer support, help desks, and internal automation by providing a managed, scalable solution for building and operating AI agents."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/introducing-openai-presence"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260722/p33#a260722p33"
-        }
-      ],
-      "srcTitles": [
-        "Introducing OpenAI Presence",
-        "OpenAI introduces OpenAI Presence to help companies better connect AI agents to their internal systems and automate customer support, sales, and other tasks (Business Insider)"
-      ]
-    },
-    {
       "cat": "funding",
       "signal": 59,
       "sources": 7,
@@ -79,7 +46,7 @@
         "Amazon Cuts Jobs in Artificial General Intelligence Unit",
         "Amazon cuts some jobs in its artificial general intelligence unit",
         "Amazon cuts jobs in its artificial general intelligence group",
-        "Amazon cuts jobs in artificial general intelligence unit"
+        "Amazon is slashing jobs in its artificial intelligence research unit"
       ]
     },
     {
@@ -175,6 +142,34 @@
       ],
       "srcTitles": [
         "3 Google updates from Galaxy Unpacked 2026"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-07-22T05:30:00.000Z",
+      "writtenSources": 1,
+      "h": "OpenAI Presence introduced as an enterprise AI agent platform",
+      "s": "Presence provides a turnkey way for large organizations to deploy trusted voice and chat agents for customer support and internal workflows, enabling scalable AI-enabled operations.",
+      "b": [
+        "Introducing OpenAI Presence as an enterprise AI agent platform.",
+        "Presence is described as a proven platform for deploying voice and chat agents in customer and internal workflows.",
+        "The platform is positioned to help organizations build and manage AI agents at scale, with governance and trust baked in."
+      ],
+      "body": [
+        "OpenAI has announced Presence, an enterprise AI agent platform designed to help organizations deploy trusted voice and chat agents for customer-facing and internal workflows.",
+        "According to OpenAI, Presence is a proven enterprise AI agent platform that aims to streamline the deployment of AI assistants across business processes, with attention to governance and reliability.",
+        "The announcement frames Presence as a tool to accelerate the deployment of AI-powered customer support, help desks, and internal automation by providing a managed, scalable solution for building and operating AI agents."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-openai-presence"
+        }
+      ],
+      "srcTitles": [
+        "Introducing OpenAI Presence"
       ]
     },
     {
