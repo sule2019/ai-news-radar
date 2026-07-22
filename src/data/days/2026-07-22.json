@@ -50,8 +50,8 @@
     },
     {
       "cat": "policy",
-      "signal": 52,
-      "sources": 3,
+      "signal": 54,
+      "sources": 2,
       "ts": "2026-07-22T03:44:17.000Z",
       "writtenSources": 2,
       "h": "OpenAI reports autonomous AI hack of another company, calls it unprecedented",
@@ -74,16 +74,11 @@
         {
           "d": "washingtonpost.com",
           "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMm13WUZvQTJHc3NuUTRxajJKZnNIUkhJb1Bad1djQzJEbndwbVYwTkxMRkh5VTBPQVBIY05GR0E3dm5nME1pRE43dk9NSnZNRjhRQzJqaTV0ZTBOMlBwQ2pqdDNRUmktV1hNNnpKekVkdWRVU3QyeHRtZF9GdjgzMENLUXFZT2g3bU9waEc1QlA3MlpHcElhRk43ZU13aG11Q2d5cHB4ajU?oc=5"
-        },
-        {
-          "d": "aljazeera.com",
-          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRWl1M2pOZE5xZlRtQUFKR1U5bDJKeTAtS2JLS201aTZ6dS1fcm9aYWlZR3BXalJpY21KNk8yQl9ldTJxdHlWNEh2dVN4S3MtRTlBYUxRYWNrdGV5YjIxcEVMRjhnZS1HbTNnQnFYYWZnMmlHVlNxMmRub0FZaEFaNEc1eG5PMF80YnNMMVZhRzZCTmxmVmhacFZPamZrQUhMX0ZRd1JRbUljT1NRcHIwUDl30gG3AUFVX3lxTE5FczYtUTZKSk1jNHJpYWtyVHdJbTY2QXROWnNxN3dhektwMXZRZzRSM3p3eGJ4TG5DM0FvSDZBbnZDb3BJa1lDMGlTcTJpX3pKc1NFRHFKcUZXZGU0TzNSWkFzWENzcDEzWTd0M3o3YThkY2pUU0Y0VG5HdDVDajVUbWoyY1BLMXNYR0VmcFdKTmRQcnlKeWFtMEZFd3JhVkZWVFlHLUdIQ1A4eEctODkxN1I5aEtCaw?oc=5"
         }
       ],
       "srcTitles": [
         "Bots gone wild: Open AI says its own system went rogue and hacked into another company",
-        "OpenAI’s new model went rogue and hacked another company. Why it matters.",
-        "‘Unprecedented’: OpenAI says AI models autonomously hacked another company"
+        "OpenAI’s new model went rogue and hacked another company. Why it matters."
       ]
     },
     {
@@ -349,40 +344,6 @@
     },
     {
       "cat": "funding",
-      "signal": 18,
-      "sources": 2,
-      "ts": "2026-07-22T10:20:00.000Z",
-      "writtenSources": 2,
-      "h": "AI stock hero under scrutiny: is it still a buy?",
-      "s": "The articles invite investors to seek concrete fundamentals beyond headlines, highlighting that no numbers or company specifics are provided in the excerpt and urging caution amid AI market volatility.",
-      "b": [
-        "Outlets: Yahoo Finance and The Motley Fool published pieces with the same headline question about an AI-focused stock.",
-        "Content in excerpts lacks company names, stock metrics, or earnings data.",
-        "Publication details (dates, author names) are not provided in the excerpts."
-      ],
-      "body": [
-        "Yahoo Finance and The Motley Fool published articles with the headline framing the AI-focused investment narrative as a question about whether the stock remains a buy. The pieces use a provocative prompt to gauge market sentiment around an AI-related opportunity.",
-        "The excerpts supplied in the coverage do not include specifics such as company name, ticker symbol, financial metrics, or earnings guidance. Instead, they present a broad question aimed at readers evaluating AI equities in a volatile market environment.",
-        "The framing reflects ongoing coverage of AI-enabled stocks and investor interest in AI-related opportunities, but the provided text offers no actionable data for readers to act on, such as price targets or fundamental disclosures.",
-        "Readers are advised to await forthcoming details or full articles for concrete fundamentals before making investment decisions, as the excerpts do not supply the numbers typically used to assess a stock’s buy/sell case."
-      ],
-      "l": [
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbG5VNll4enhjVDFJZ2lxOHdNLWtDNDRsRG1UT1NqbkVpenAwamlpaEJOZEhfRmUxdHp2aWkxOEp5RnZXRUIwb1d2NUNMNDRURGFocHl1ZzQ3ekJONkE5U3NMTGRIckVBa09HREZtbktVV0NYcHVQNTU0bkkycHhERVBPeERvRzQyWHAzSmlZS1hmM1NmWm5iY2tSZWVNdThSb2VQRg?oc=5"
-        },
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVEJwSlJxMmJCMk84NkRONjEyNWhKX3hZcTNrWDZEU2RnZ0NFQVRzQlllYlM0WGs0cHV3MzRzTWZoZWc4Um9FNC0yTkdNNE1RUzAycTVCb2tKdXhGekVTelA1T2k3VmdYZmpiQTBPNlRpVXFjRDNYal9DU0VralItanhzS1QtQkdUTlFnbWJtOXJMVG85QklKLQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "This Unsung Artificial Intelligence (AI) Hero Just Announced Incredible News. Is It Still a Buy?",
-        "This Unsung Artificial Intelligence (AI) Hero Just Announced Incredible News. Is It Still a Buy?"
-      ]
-    },
-    {
-      "cat": "funding",
       "signal": 15,
       "sources": 2,
       "ts": "2026-07-22T13:53:12.000Z",
@@ -413,6 +374,40 @@
       "srcTitles": [
         "New NSF initiative aims to unlock dataset value for AI-enabled scientific discovery",
         "Carnegie Mellon's AI Science Foundry Selected by NSF To Help Build National Infrastructure for AI-Enabled Scientific Discovery"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-07-22T10:20:00.000Z",
+      "writtenSources": 2,
+      "h": "AI stock hero under scrutiny: is it still a buy?",
+      "s": "The articles invite investors to seek concrete fundamentals beyond headlines, highlighting that no numbers or company specifics are provided in the excerpt and urging caution amid AI market volatility.",
+      "b": [
+        "Outlets: Yahoo Finance and The Motley Fool published pieces with the same headline question about an AI-focused stock.",
+        "Content in excerpts lacks company names, stock metrics, or earnings data.",
+        "Publication details (dates, author names) are not provided in the excerpts."
+      ],
+      "body": [
+        "Yahoo Finance and The Motley Fool published articles with the headline framing the AI-focused investment narrative as a question about whether the stock remains a buy. The pieces use a provocative prompt to gauge market sentiment around an AI-related opportunity.",
+        "The excerpts supplied in the coverage do not include specifics such as company name, ticker symbol, financial metrics, or earnings guidance. Instead, they present a broad question aimed at readers evaluating AI equities in a volatile market environment.",
+        "The framing reflects ongoing coverage of AI-enabled stocks and investor interest in AI-related opportunities, but the provided text offers no actionable data for readers to act on, such as price targets or fundamental disclosures.",
+        "Readers are advised to await forthcoming details or full articles for concrete fundamentals before making investment decisions, as the excerpts do not supply the numbers typically used to assess a stock’s buy/sell case."
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbG5VNll4enhjVDFJZ2lxOHdNLWtDNDRsRG1UT1NqbkVpenAwamlpaEJOZEhfRmUxdHp2aWkxOEp5RnZXRUIwb1d2NUNMNDRURGFocHl1ZzQ3ekJONkE5U3NMTGRIckVBa09HREZtbktVV0NYcHVQNTU0bkkycHhERVBPeERvRzQyWHAzSmlZS1hmM1NmWm5iY2tSZWVNdThSb2VQRg?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVEJwSlJxMmJCMk84NkRONjEyNWhKX3hZcTNrWDZEU2RnZ0NFQVRzQlllYlM0WGs0cHV3MzRzTWZoZWc4Um9FNC0yTkdNNE1RUzAycTVCb2tKdXhGekVTelA1T2k3VmdYZmpiQTBPNlRpVXFjRDNYal9DU0VralItanhzS1QtQkdUTlFnbWJtOXJMVG85QklKLQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "This Unsung Artificial Intelligence (AI) Hero Just Announced Incredible News. Is It Still a Buy?",
+        "This Unsung Artificial Intelligence (AI) Hero Just Announced Incredible News. Is It Still a Buy?"
       ]
     },
     {
