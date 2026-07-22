@@ -2,54 +2,6 @@
   "date": "2026-07-22",
   "stories": [
     {
-      "cat": "funding",
-      "signal": 61,
-      "sources": 6,
-      "ts": "2026-07-22T14:31:03.000Z",
-      "writtenSources": 7,
-      "h": "Amazon cuts jobs in its artificial general intelligence group",
-      "s": "The cuts within Amazon’s AGI unit demonstrate that large tech firms are actively reworking AI talent and priorities.",
-      "b": [
-        "Amazon reportedly cut some jobs in its artificial general intelligence unit",
-        "Reports come from Reuters, CNBC, WSJ and other outlets",
-        "The unit is described as the artificial general intelligence group in Reuters' coverage",
-        "No specific headcount or percentage figures were disclosed in the reported coverage"
-      ],
-      "body": [
-        "Amazon reportedly cut jobs in its artificial general intelligence group, with Reuters noting the action and CNBC and The Wall Street Journal echoing the report.",
-        "Reuters describes the effort as cuts in the company’s artificial general intelligence group, while CNBC uses the phrasing that the unit had \"cuts some jobs\" in its AGI team. The Wall Street Journal likewise reports on job cuts within the same AI-focused unit.",
-        "The reports do not provide any numbers or percentages for how many roles were affected, leaving the exact scope unclear from the coverage.",
-        "Other outlets that published the story include Quartz, Investing.com, Crypto Briefing and Seeking Alpha, all noting that Amazon trimmed positions in its artificial general intelligence unit. No further timing or detail on future steps was provided in the cited coverage."
-      ],
-      "l": [
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkQtS0lHSVM5ZnlBd05WU003NW92NWU0MWVHYVVBVFlFYUpjWEd3NTdIUU5UT05fUVFGT19JTkdRTEktZG1Cc1Mxd3ZEekRiUVl2aFNjY1dYUnhxWU1kMjNILWh5UlgwcktaN3JEV3g2Q2hrNTF6c1U2MmFPSnppdW1PZWdZN1ZZZnpoNVFuS05jVjJ2WkZEZ0RyWHE0YUttVWhhOVllbkI0anhMZjROUjBTeTY1N1VR?oc=5"
-        },
-        {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFlfczRxV0p5OWJkUEQzYm10cUpNSTFUNUQ4NERwY1pqcTRUbTFhbVZURjdBNEl1MVpoSkNqM2hwNDlLaWxNTlRKclJ0TGJFVkcxV194OWR5ekRrdGR1eWMyTXBaV2pWSEZiNkRTVzFjVm83azlqTzhkeTFzdEFtaC1zTDB1SGQzcjBV0gGQAUFVX3lxTE9oQjhWRGJzem1MU1ZjWmN5NGRIMGNOUk82VGRXWTRVZ0Y2QTN6T0xJdHZaWmtkMkZHakl3MDVqRXI2SWF2dExQS2g5N09kRG1GSkRBS0t0NEtCQzlBS3JpalRQaXdkMldOVWtGdnR5dFRET3l0em45NHFaSmszdUUyTVlXQldJTTlHRURBSVNDSg?oc=5"
-        },
-        {
-          "d": "wsj.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0VZaUtnWWYyYndPMF9QbmZ4c3Q5Q1hGcFJwZk5RQmxXeWNSOWw4aUl0bEtEVUc1RnNLTGk3QXJiVk84c1FGRDJ6aTRLc3JFc24ycUl4S3NlUlFOYV9DU0VNeWFnN2s2RGxOV1JGQ0pNRnN6YzAzM0p0WDNqejNDS3oyMDRLYmpjcjZEdTExLTQyS0pzZ2xEbA?oc=5"
-        },
-        {
-          "d": "qz.com",
-          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41NENnckhVc2lZWVh4V3hnN0FKOFViTTBMcDhka1RXdGlHSEdPaWhmRGZsdWNZUzNUM19Uem9UOUswUlA2VWx3VUV2bzBZWV9ySW4tdWFPSXJCZHg1cHNPc280NTVqNlRxNjFaeEhJVG9WUURESW4w?oc=5"
-        },
-        {
-          "d": "+2"
-        }
-      ],
-      "srcTitles": [
-        "Amazon cuts jobs in its artificial general intelligence group",
-        "Amazon cuts some jobs in its artificial general intelligence unit",
-        "Amazon Cuts Jobs in Artificial General Intelligence Unit",
-        "Amazon cuts jobs in artificial general intelligence unit"
-      ]
-    },
-    {
       "cat": "products",
       "signal": 60,
       "sources": 2,
@@ -80,6 +32,54 @@
       "srcTitles": [
         "Introducing OpenAI Presence",
         "OpenAI introduces OpenAI Presence to help companies better connect AI agents to their internal systems and automate customer support, sales, and other tasks (Business Insider)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 59,
+      "sources": 7,
+      "ts": "2026-07-22T14:31:03.000Z",
+      "writtenSources": 7,
+      "h": "Amazon cuts jobs in its artificial general intelligence group",
+      "s": "The cuts within Amazon’s AGI unit demonstrate that large tech firms are actively reworking AI talent and priorities.",
+      "b": [
+        "Amazon reportedly cut some jobs in its artificial general intelligence unit",
+        "Reports come from Reuters, CNBC, WSJ and other outlets",
+        "The unit is described as the artificial general intelligence group in Reuters' coverage",
+        "No specific headcount or percentage figures were disclosed in the reported coverage"
+      ],
+      "body": [
+        "Amazon reportedly cut jobs in its artificial general intelligence group, with Reuters noting the action and CNBC and The Wall Street Journal echoing the report.",
+        "Reuters describes the effort as cuts in the company’s artificial general intelligence group, while CNBC uses the phrasing that the unit had \"cuts some jobs\" in its AGI team. The Wall Street Journal likewise reports on job cuts within the same AI-focused unit.",
+        "The reports do not provide any numbers or percentages for how many roles were affected, leaving the exact scope unclear from the coverage.",
+        "Other outlets that published the story include Quartz, Investing.com, Crypto Briefing and Seeking Alpha, all noting that Amazon trimmed positions in its artificial general intelligence unit. No further timing or detail on future steps was provided in the cited coverage."
+      ],
+      "l": [
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0VZaUtnWWYyYndPMF9QbmZ4c3Q5Q1hGcFJwZk5RQmxXeWNSOWw4aUl0bEtEVUc1RnNLTGk3QXJiVk84c1FGRDJ6aTRLc3JFc24ycUl4S3NlUlFOYV9DU0VNeWFnN2s2RGxOV1JGQ0pNRnN6YzAzM0p0WDNqejNDS3oyMDRLYmpjcjZEdTExLTQyS0pzZ2xEbA?oc=5"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFlfczRxV0p5OWJkUEQzYm10cUpNSTFUNUQ4NERwY1pqcTRUbTFhbVZURjdBNEl1MVpoSkNqM2hwNDlLaWxNTlRKclJ0TGJFVkcxV194OWR5ekRrdGR1eWMyTXBaV2pWSEZiNkRTVzFjVm83azlqTzhkeTFzdEFtaC1zTDB1SGQzcjBV0gGQAUFVX3lxTE9oQjhWRGJzem1MU1ZjWmN5NGRIMGNOUk82VGRXWTRVZ0Y2QTN6T0xJdHZaWmtkMkZHakl3MDVqRXI2SWF2dExQS2g5N09kRG1GSkRBS0t0NEtCQzlBS3JpalRQaXdkMldOVWtGdnR5dFRET3l0em45NHFaSmszdUUyTVlXQldJTTlHRURBSVNDSg?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkQtS0lHSVM5ZnlBd05WU003NW92NWU0MWVHYVVBVFlFYUpjWEd3NTdIUU5UT05fUVFGT19JTkdRTEktZG1Cc1Mxd3ZEekRiUVl2aFNjY1dYUnhxWU1kMjNILWh5UlgwcktaN3JEV3g2Q2hrNTF6c1U2MmFPSnppdW1PZWdZN1ZZZnpoNVFuS05jVjJ2WkZEZ0RyWHE0YUttVWhhOVllbkI0anhMZjROUjBTeTY1N1VR?oc=5"
+        },
+        {
+          "d": "qz.com",
+          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41NENnckhVc2lZWVh4V3hnN0FKOFViTTBMcDhka1RXdGlHSEdPaWhmRGZsdWNZUzNUM19Uem9UOUswUlA2VWx3VUV2bzBZWV9ySW4tdWFPSXJCZHg1cHNPc280NTVqNlRxNjFaeEhJVG9WUURESW4w?oc=5"
+        },
+        {
+          "d": "+3"
+        }
+      ],
+      "srcTitles": [
+        "Amazon Cuts Jobs in Artificial General Intelligence Unit",
+        "Amazon cuts some jobs in its artificial general intelligence unit",
+        "Amazon cuts jobs in its artificial general intelligence group",
+        "Amazon cuts jobs in artificial general intelligence unit"
       ]
     },
     {
@@ -179,7 +179,7 @@
     },
     {
       "cat": "funding",
-      "signal": 37,
+      "signal": 44,
       "sources": 7,
       "ts": "2026-07-22T12:00:00.000Z",
       "writtenSources": 8,
@@ -204,30 +204,30 @@
       ],
       "l": [
         {
-          "d": "sg.finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNDFNNEhOcGlYTGVvM240eHVkRm1MV2JET1NPTHlIcktBZ3otU1JtdzVRVFNGTnp4bDBqQ0ZGb2JlekJDWXJ2YllTdTFocDMxWmo3cVZHTk8wb3R3LVljNkNCb3h1TlQxdVJseVd6VUo5RWpXcS1ZSGk3UGFTMm0tN2NkemNtbm8?oc=5"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/"
         },
         {
-          "d": "news.cornell.edu",
-          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbl9MV0ZYblF3bU1seGwyUVZMMGdVQl9qaVRjYW8zTTlITjhuM19SRmtlalNESFZKUUNSWThPSWJTOG01TjVsSHdZekJIRUZVT3ZHY1I5ajE1d0sweGxYdUkxOFdVU0dHUnNybVM0eW1fRG0wWVA3YU5BMnlldEJqQTh5elNEeVVnYzF0eHlhcmxjZnA5QTdBVXRTLVRVUnM?oc=5"
-        },
-        {
-          "d": "news.utexas.edu",
-          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMTIwWXBRV3hKc0FLVk12OGZUdndkenNlNU5wWXdFenFMQmZkQk9MLWhGYzJKRE1EcTJIZS1WU1lDc2tfMThtSWhUQ1dzSjB1U0xIX2ZRTW5ZVFVmRFBJNENsS0lmRW4zcGNEM3otdkpDemVYSjRnbWtCemRWOHFzN0l6LXJYYXpvVFE4VVZvZGJjZnNPel9vc2NtQ3JFak5ObWZ3aEtqS3F3VlNJRnc3UVliZ1VTNGtSZEZ1QTFRcmR4cmktOFdsUTZWRi1zZw?oc=5"
+          "d": "dylancastillo.co",
+          "u": "https://dylancastillo.co/posts/pelicanmaxxing.html"
         },
         {
           "d": "news.wisc.edu",
           "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaTFJZTZDUEZhZFBPSkR5Ymswc0JGcm16am1pV21UYko3MkJYSzdQQmJUSmFzQWlQc1haTTUtdlZ0UEdQTmRjMjIySlV0NzdnX1R5emMyUVI0UDhGeGlVMUVTa0ZsLXg2aEF1VEtCQWFRLXZRTDVIOUtrcGRIN2lxUnJJNWdzWkVpb3psSFFfczZoUF9SbTlxd2N6c3RoQ1VVNk9LTjNGd3JwbFBpM2E3bUtMZ29Ubjg3TFdxbTV6Y25ZRW81MzVmMHFSQQ?oc=5"
         },
         {
+          "d": "news.utexas.edu",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPMTIwWXBRV3hKc0FLVk12OGZUdndkenNlNU5wWXdFenFMQmZkQk9MLWhGYzJKRE1EcTJIZS1WU1lDc2tfMThtSWhUQ1dzSjB1U0xIX2ZRTW5ZVFVmRFBJNENsS0lmRW4zcGNEM3otdkpDemVYSjRnbWtCemRWOHFzN0l6LXJYYXpvVFE4VVZvZGJjZnNPel9vc2NtQ3JFak5ObWZ3aEtqS3F3VlNJRnc3UVliZ1VTNGtSZEZ1QTFRcmR4cmktOFdsUTZWRi1zZw?oc=5"
+        },
+        {
           "d": "+3"
         }
       ],
       "srcTitles": [
-        "BlueQubit and Partners Awarded $1.5M in DOE Genesis Mission Grants to Advance AI-Driven Quantum Error Correction",
-        "DOE Genesis Mission awards will advance AI-driven science",
-        "Department of Energy's New AI-for-Science ‘Genesis Mission’ Awards Funding to 5 UT Research Projects",
-        "5 projects at UW–Madison aimed at transforming science and energy with AI receive DOE Genesis Mission funding"
+        "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+        "Are AI Labs Pelicanmaxxing?",
+        "5 projects at UW–Madison aimed at transforming science and energy with AI receive DOE Genesis Mission funding",
+        "Department of Energy's New AI-for-Science ‘Genesis Mission’ Awards Funding to 5 UT Research Projects"
       ]
     },
     {
@@ -295,6 +295,34 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-07-22T13:00:00.000Z",
+      "writtenSources": 1,
+      "h": "OpenAI tools help newsrooms strengthen reporting, grow audiences, and improve operations",
+      "s": "AI-enabled tools could reshape newsroom workflows and audience reach for publishers worldwide, altering how stories are produced and distributed",
+      "b": [
+        "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations.",
+        "OpenAI tools are supporting journalists and publishers worldwide."
+      ],
+      "body": [
+        "OpenAI notes that news organizations are using artificial intelligence to strengthen reporting, grow audiences, and improve business operations. OpenAI tools are supporting journalists and publishers worldwide.",
+        "AI is being integrated into newsroom workflows, with OpenAI tools helping editors and publishers manage editorial tasks and operations.",
+        "The adoption is described as global, with journalists and publishers across regions using these tools to advance their missions.",
+        "The article positions OpenAI as a facilitator of these capabilities for journalists and publishers worldwide."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/how-news-organizations-are-using-ai"
+        }
+      ],
+      "srcTitles": [
+        "How news organizations are using AI to advance their vital missions"
+      ]
+    },
+    {
       "cat": "policy",
       "signal": 24,
       "sources": 1,
@@ -325,7 +353,7 @@
     },
     {
       "cat": "funding",
-      "signal": 17,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-07-22T13:53:12.000Z",
       "writtenSources": 2,
