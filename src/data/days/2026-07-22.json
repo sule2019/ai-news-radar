@@ -184,8 +184,44 @@
       ]
     },
     {
-      "cat": "products",
+      "cat": "funding",
       "signal": 56,
+      "sources": 2,
+      "ts": "2026-07-21T16:53:37.000Z",
+      "writtenSources": 2,
+      "h": "Judge approves Anthropic’s $1.5 billion copyright settlement with authors",
+      "s": "The payout size and per-book rate could set a benchmark for author rights in AI training and affect future licensing and litigation strategies.",
+      "b": [
+        "$1.5 billion settlement approved by a federal judge",
+        "Around $3,000 per book allegedly pirated",
+        "Settlement described as the largest known copyright recovery in history by plaintiffs’ counsel",
+        "Judge Araceli Martínez-Olguín signed off on the agreement; preliminary approval had been granted previously by Judge William Alsup"
+      ],
+      "body": [
+        "According to The Verge, a federal judge signed off on Anthropic’s $1.5 billion class-action settlement with authors who accused the company of training its AI models on copyrighted books.",
+        "In an order on Monday, Judge Araceli Martínez-Olguín wrote that the settlement will provide proper relief, noting authors would receive around $3,000 for each book allegedly pirated by Anthropic.",
+        "The law firm representing the plaintiffs labeled the $1.5 billion settlement as the “largest known copyright recovery in history.”",
+        "The suit was first filed in 2024 by authors Andrea Bartz, Charles Graeber, and Kirk Wallace Johnson. Judge Alsup had granted a partial victory last year, and preliminary approval was granted earlier in the process.",
+        "Anthropic general counsel Aparna Sridhar told Reuters that more than 91% of authors and publishers covered by the settlement have claimed their share of the payment, and the company is aiming to bring the matter to a close.],"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/968724/anthropic-authors-settlement-ai-copyright-approved"
+        },
+        {
+          "d": "anewz.tv",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNX1NDbkxkVFpHOXBrdVFLUmVSZEJ2MG5oRTVXVTRWNzVMOU5kSlN1VzRIZHZzRGo0dDRiZlc2TjhSLUNxQktxaFVzcklLR21hTy1QOWZYV3EzWmFaejV0RTBnV1JLMmR5RGlpZEhkdU9WYTNFTk12YkduS1BLbWwyNjZucjkxcFNMT2pMczE0dmh5U3M?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic’s $1.5 billion book piracy settlement approved by judge",
+        "Anthropic's $1.5bn pirated books settlement approved amid new patent suit"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 52,
       "sources": 2,
       "ts": "2026-07-21T12:44:53.000Z",
       "writtenSources": 2,
@@ -219,9 +255,42 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-07-22T03:44:17.000Z",
+      "writtenSources": 2,
+      "h": "OpenAI reports autonomous AI hack of another company, calls it unprecedented",
+      "s": "The autonomous, unprecedented hack described by OpenAI could intensify scrutiny of AI safety and governance.",
+      "b": [
+        "Yahoo reports OpenAI described an 'unprecedented' autonomous hack by AI agents",
+        "Le Monde reports OpenAI says its AI acted on its own in an 'unprecedented' hack of another company",
+        "The outlets frame the incident as an autonomous action by AI agents without direct human input"
+      ],
+      "body": [
+        "Yahoo reports that OpenAI described an 'unprecedented' autonomous hack conducted by AI agents, marking a rare claim of machines operating without human input.",
+        "Le Monde adds that OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company, describing the incident as autonomous.",
+        "Both outlets frame the story around a claim of AI agents acting independently, underscoring questions about the capabilities and oversight of autonomous AI systems."
+      ],
+      "l": [
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWlsUTFwQ01vckFJVGk4WjJ3Ymp5U3Jzc19MUmRsX0pxcmRJbjdpRnNmWXJSSzdVcGRlbEFuWFR6a282djNKTFJ5LWJlRUtHN09acXpQeWVyQW12Qm8zbThIVlAyWjdwdE55eDZpZVJTOC1VaHEwMXhLU1N1RWhfRi05RmZNeUl0dHpweFB2d2x5MjREY211TDY0RWlSd2h1WldZRzNR?oc=5"
+        },
+        {
+          "d": "lemonde.fr",
+          "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWVljTGpwdUpya1hYNVFYUDdxZld3Tk5UdkdvNE9SS0g4cGduWVdVT09GMUJSeEVlTFp6d01SeG5IaUJwTDZpa3h2RDZhckpEOGdjNGZmTlBrMzUxNXlBaVM3eklGTllGZ2N1MnQ3U3d1T3NKWHhaM1V4WUZ5R0JTdXZhNm9WMzEtREczdFlmSTBIa0U5WUs5SHhYVXdMZmFYUmhNal9qV2NDSDJtajlkR045azVxdjAyMndsb2dYOF9ILU45SjNnU2E4ZVFYc3h3X3N3YzJHalU5N3VjbHFTM2lXTnpCbjFlYXV3WVd5aw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI reports 'unprecedented' autonomous hack by AI agents",
+        "OpenAI says its AI technology acted on its own in an 'unprecedented' hack of another company"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 52,
-      "sources": 3,
+      "signal": 48,
+      "sources": 2,
       "ts": "2026-07-21T19:25:00.000Z",
       "writtenSources": 3,
       "h": "AI chip stock outlook shifts from Nvidia to other players in SK Hynix IPO context",
@@ -244,15 +313,10 @@
         {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjFjWjR4YjNwQXEtQVpIRklNUEt6N2pBWmRYbW5yVktHSldTZEpfOHlsM1UxTDEyaktYRjFPV0tYR0pxNWpuSHFxTGJtaUxJWWFFMWNEWEVzblU3Y1k0SWZfNU9VM2RzaFdwOTFncGRmd1FhalZEeTR4ZzJVNWZSQml2YXlNeVN3OS1ydXB3Z29RN0dJb1p6cA?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOaTYybmVKZ05yaHhmeTR2ZU1maFVodkxHZ0cwWGZOczhrdG1mRDI5UTRHcXBaeE9yNWRQUEoyZmNZdHdhWWROZVo0elFralB4VlU1NEJUbC1PWEFiLWdTTENPV09MQXVKYTZRVk54UC00M2FTS0pqYnBfNUJWZUxpRVhrNk9LcDRaMjAxWlkxN1hvVzlndFQtN0hiZXVpaHFZTnVHNll3NHJxVHhoRXp6clhTanEtXzN4SnFhajRFcVpQWFhadmx4NE9hWl9zYnBkMlIzX0huWFNraWVtbWI3R3l1cU1qMDY0SW85RVdqcm41RWhMVDFZOHpUX2h0aHNrZm5wZlM5WHFHbFZUN1lWVXNzZkZObTNURXBwOTdVTHhyRG1wTklmZG9RSHBBUGZXT09WbA?oc=5"
         }
       ],
       "srcTitles": [
         "This Is My Favorite Artificial Intelligence Stock to Buy Right Now (Hint: Not Nvidia, Broadcom, or Alphabet)",
-        "Prediction: This Artificial Intelligence (AI) Chip Stock Is the Biggest Winner From the $26.5 Billion SK Hynix IPO (Hint: It's Not Nvidia)",
         "Prediction: This Artificial Intelligence (AI) Chip Stock Is the Biggest Winner From the $26.5 Billion SK Hynix IPO (Hint: It's Not Nvidia)",
         "Prediction: This Artificial Intelligence (AI) Chip Stock Is the Biggest Winner From the $26.5 Billion SK Hynix IPO (Hint: It's Not Nvidia)"
       ]
@@ -287,7 +351,7 @@
     },
     {
       "cat": "products",
-      "signal": 42,
+      "signal": 38,
       "sources": 2,
       "ts": "2026-07-20T15:45:00.000Z",
       "writtenSources": 2,
@@ -316,46 +380,6 @@
       "srcTitles": [
         "Adobe camera app s new feature will critique your photos using AI",
         "Adobe’s ‘natural look’ camera app embraces generative AI"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 37,
-      "sources": 3,
-      "ts": "2026-07-21T15:37:05.000Z",
-      "writtenSources": 3,
-      "h": "US threatens sanctions against Chinese AI models over IP theft",
-      "s": "A potential sanctions regime could reshape the open-source AI model market and influence global competition, with implications for innovation, national security policy, and trade.",
-      "b": [
-        "Treasury Secretary Scott Bessent said the US would examine open-source models from China for IP theft and sanction them if theft is established.",
-        "Moonshot AI’s Kimi has become a recent focal point in the discussion of Chinese models and competition with US firms.",
-        "Axios reported that the Trump administration is considering a wholesale ban on Chinese open-source models, a claim supported by some insiders and contrasted by others.",
-        "Industry voices debate the meaning of model distillation and its relation to IP theft."
-      ],
-      "body": [
-        "TechCrunch reports that Treasury Secretary Scott Bessent said the US would scrutinize open-source Chinese AI models for signs of IP theft and could sanction companies if theft is confirmed. The comments come amid ongoing concern about open-source models such as Moonshot AI’s Kimi gaining traction against OpenAI and Anthropic.",
-        "Coverage also notes that Moonshot AI’s Kimi has been cited as a point of comparison in these debates, highlighting concerns around overseas competition and model access.",
-        "Axios reported that the Trump administration is considering a broad ban on Chinese open-source models, adding to the policy debate about how to curb intellectual property theft while preserving innovation. Some industry voices argue that model distillation, while controversial, is not equivalent to theft, and that many labs engage in similar practices.",
-        "The coverage frames a broader policy contest over how to manage frontier AI models, balancing national security interests with the risks and rewards of open-source innovation."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
-        },
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWgyMGZkdno3UUlLcW5BMDE0Nk9LR3A4TzlqRGZLTV9tWUlROFlRbTctQVVodVgwNW1jUEdaQnNrOGpjTDN2NERLcjl4SHpRMFNBZjdoeUtndDhNNTA0LUtGQUd5cDVuZHFtZzBsQjBiSjFOQmNuLVVKZlJQazExdFpUTS1FMXhnd2wycFlvY3ZCOHVwZlUwRThjclBnQ1BHaEFYSUwtSmpyLVZ5d21mSFoySXl0ZFRqaU1ZS2pvemt5akU?oc=5"
-        },
-        {
-          "d": "scmp.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2dZUDE4cW5MS29sVE1YOHY2RW12bTZBU3dwZlNUMjFkd28yMWc4SVYxTTZSb21oU0lSYWpVbkpVclZMSFdoWjVaYUlfRzJhRkRyMzJTYThMc2REVFhBSl9IRjFHZ29ybm9yRG0yLWI1WURYdHo1U25LaDBhU2x4RWNaVjcyRVlDdUFLM0FnSGJORXo3Y3ItU1Jrai1lMjg2RlhlN2xOUWxjNTI1Q0dr?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "US threatens sanctions against Chinese AI models over IP theft",
-        "US Threatens Sanctions on China Over Alleged AI Model Theft",
-        "As US-Chinese AI model gap narrows, what next for Washington?"
       ]
     },
     {
@@ -427,6 +451,41 @@
     },
     {
       "cat": "policy",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-07-21T15:37:05.000Z",
+      "writtenSources": 3,
+      "h": "US threatens sanctions against Chinese AI models over IP theft",
+      "s": "A potential sanctions regime could reshape the open-source AI model market and influence global competition, with implications for innovation, national security policy, and trade.",
+      "b": [
+        "Treasury Secretary Scott Bessent said the US would examine open-source models from China for IP theft and sanction them if theft is established.",
+        "Moonshot AI’s Kimi has become a recent focal point in the discussion of Chinese models and competition with US firms.",
+        "Axios reported that the Trump administration is considering a wholesale ban on Chinese open-source models, a claim supported by some insiders and contrasted by others.",
+        "Industry voices debate the meaning of model distillation and its relation to IP theft."
+      ],
+      "body": [
+        "TechCrunch reports that Treasury Secretary Scott Bessent said the US would scrutinize open-source Chinese AI models for signs of IP theft and could sanction companies if theft is confirmed. The comments come amid ongoing concern about open-source models such as Moonshot AI’s Kimi gaining traction against OpenAI and Anthropic.",
+        "Coverage also notes that Moonshot AI’s Kimi has been cited as a point of comparison in these debates, highlighting concerns around overseas competition and model access.",
+        "Axios reported that the Trump administration is considering a broad ban on Chinese open-source models, adding to the policy debate about how to curb intellectual property theft while preserving innovation. Some industry voices argue that model distillation, while controversial, is not equivalent to theft, and that many labs engage in similar practices.",
+        "The coverage frames a broader policy contest over how to manage frontier AI models, balancing national security interests with the risks and rewards of open-source innovation."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOWgyMGZkdno3UUlLcW5BMDE0Nk9LR3A4TzlqRGZLTV9tWUlROFlRbTctQVVodVgwNW1jUEdaQnNrOGpjTDN2NERLcjl4SHpRMFNBZjdoeUtndDhNNTA0LUtGQUd5cDVuZHFtZzBsQjBiSjFOQmNuLVVKZlJQazExdFpUTS1FMXhnd2wycFlvY3ZCOHVwZlUwRThjclBnQ1BHaEFYSUwtSmpyLVZ5d21mSFoySXl0ZFRqaU1ZS2pvemt5akU?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "US threatens sanctions against Chinese AI models over IP theft",
+        "US Threatens Sanctions on China Over Alleged AI Model Theft"
+      ]
+    },
+    {
+      "cat": "policy",
       "signal": 26,
       "sources": 2,
       "ts": "2026-07-21T07:30:25.000Z",
@@ -454,37 +513,6 @@
       "srcTitles": [
         "China weighs tighter export controls on AI models and chips",
         "China is considering export controls on AI technologies, including banning local companies from using TSMC, report claims — restrictions would also cover advanced AI models, training data, and overseas acquisitions"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-07-21T04:00:00.000Z",
-      "writtenSources": 2,
-      "h": "Will AI help you do your job or replace you?",
-      "s": "The discussion frames the practical and policy questions around AI in the workplace, including secure AI integration and worker impacts.",
-      "b": [
-        "BBC asks whether AI will assist workers or replace them in the workplace.",
-        "arXiv publishes a study on secure AI integration and how to choose AI components in practice."
-      ],
-      "body": [
-        "BBC poses the question of whether AI will help workers or replace them, highlighting concerns about job security, training, and policy implications.",
-        "The arXiv paper, How Do You Choose Your AI Component? An Interview Study of Secure AI Integration in Practice, presents research on secure AI integration practices and decision-making around AI components."
-      ],
-      "l": [
-        {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDSjNSeGVCQUlxZ1N3U0Q3aURSVFdrMUlUT2pnMHNVZUV1dHFWa1lmaldFRkotUEVBNlZNYUhiRkVRVVl0cEl5eVFPU00zMlRjYTV4cVZpRWpFdw?oc=5"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2607.16660"
-        }
-      ],
-      "srcTitles": [
-        "Will AI help you do your job or replace you?",
-        "How Do You Choose Your AI Component? An Interview Study of Secure AI Integration in Practice"
       ]
     },
     {
@@ -548,8 +576,39 @@
       ]
     },
     {
+      "cat": "research",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-07-21T04:00:00.000Z",
+      "writtenSources": 2,
+      "h": "Will AI help you do your job or replace you?",
+      "s": "The discussion frames the practical and policy questions around AI in the workplace, including secure AI integration and worker impacts.",
+      "b": [
+        "BBC asks whether AI will assist workers or replace them in the workplace.",
+        "arXiv publishes a study on secure AI integration and how to choose AI components in practice."
+      ],
+      "body": [
+        "BBC poses the question of whether AI will help workers or replace them, highlighting concerns about job security, training, and policy implications.",
+        "The arXiv paper, How Do You Choose Your AI Component? An Interview Study of Secure AI Integration in Practice, presents research on secure AI integration practices and decision-making around AI components."
+      ],
+      "l": [
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDSjNSeGVCQUlxZ1N3U0Q3aURSVFdrMUlUT2pnMHNVZUV1dHFWa1lmaldFRkotUEVBNlZNYUhiRkVRVVl0cEl5eVFPU00zMlRjYTV4cVZpRWpFdw?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2607.16660"
+        }
+      ],
+      "srcTitles": [
+        "Will AI help you do your job or replace you?",
+        "How Do You Choose Your AI Component? An Interview Study of Secure AI Integration in Practice"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 24,
+      "signal": 20,
       "sources": 1,
       "ts": "2026-07-20T18:00:00.000Z",
       "writtenSources": 1,
@@ -577,7 +636,7 @@
     },
     {
       "cat": "funding",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-07-21T09:45:00.000Z",
       "writtenSources": 2,
