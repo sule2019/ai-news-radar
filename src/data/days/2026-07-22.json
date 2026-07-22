@@ -21,8 +21,8 @@
       ],
       "l": [
         {
-          "d": "sg.finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTmhlOWtMNzE3WlZEb2padXdFaWZSZmsxWjRjV3hFVGQ5NDJ1RThmSmd6RTIwb2NTZkVqVTJKaGVvWWtIVlg1anRTQzROWm9wMUV4YmszTEZGamFTQTNZM1FuamhQQlAwUVQ3MkFaZ1JMTG1YNXpoZkJRbVV6WlA2ZkdEZjJMa29lUVBVcw?oc=5"
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkQtS0lHSVM5ZnlBd05WU003NW92NWU0MWVHYVVBVFlFYUpjWEd3NTdIUU5UT05fUVFGT19JTkdRTEktZG1Cc1Mxd3ZEekRiUVl2aFNjY1dYUnhxWU1kMjNILWh5UlgwcktaN3JEV3g2Q2hrNTF6c1U2MmFPSnppdW1PZWdZN1ZZZnpoNVFuS05jVjJ2WkZEZ0RyWHE0YUttVWhhOVllbkI0anhMZjROUjBTeTY1N1VR?oc=5"
         },
         {
           "d": "investing.com",
@@ -33,8 +33,8 @@
           "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV3hXWjhha05BeVhRZ0sxTk5sOUY4dlcwMVM5aEY5Qm5OblU0dEs4aTJlOTByVnZUdzhJaFcyRldHWFIzVTN1ZFRZZW82dUdVaTVJalhQSDRZLVFsVVlOamZhSHc4MjN4WnNOdFdXV21OZG1IaVV5Vi1kcXdSaC1VUzFMVnhqbDhHdTN6SDh3WmJuWHBTMlZFcHJ5cmppaG1jaGJUeXdhZzVtR282VGQtbDk0Qk9YRXE4TzNr?oc=5"
         },
         {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkQtS0lHSVM5ZnlBd05WU003NW92NWU0MWVHYVVBVFlFYUpjWEd3NTdIUU5UT05fUVFGT19JTkdRTEktZG1Cc1Mxd3ZEekRiUVl2aFNjY1dYUnhxWU1kMjNILWh5UlgwcktaN3JEV3g2Q2hrNTF6c1U2MmFPSnppdW1PZWdZN1ZZZnpoNVFuS05jVjJ2WkZEZ0RyWHE0YUttVWhhOVllbkI0anhMZjROUjBTeTY1N1VR?oc=5"
+          "d": "sg.finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTmhlOWtMNzE3WlZEb2padXdFaWZSZmsxWjRjV3hFVGQ5NDJ1RThmSmd6RTIwb2NTZkVqVTJKaGVvWWtIVlg1anRTQzROWm9wMUV4YmszTEZGamFTQTNZM1FuamhQQlAwUVQ3MkFaZ1JMTG1YNXpoZkJRbVV6WlA2ZkdEZjJMa29lUVBVcw?oc=5"
         }
       ],
       "srcTitles": [
@@ -77,7 +77,7 @@
     },
     {
       "cat": "products",
-      "signal": 52,
+      "signal": 49,
       "sources": 1,
       "ts": "2026-07-22T13:00:00.000Z",
       "writtenSources": 1,
@@ -108,7 +108,7 @@
     },
     {
       "cat": "policy",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-07-22T03:44:17.000Z",
       "writtenSources": 2,
@@ -169,8 +169,8 @@
     },
     {
       "cat": "funding",
-      "signal": 38,
-      "sources": 4,
+      "signal": 37,
+      "sources": 5,
       "ts": "2026-07-22T13:03:26.000Z",
       "writtenSources": 4,
       "h": "Rice researchers win two DOE Genesis Mission awards",
@@ -194,6 +194,10 @@
           "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEw0UUY0dTVueGRYYk8tWmZfX2I3VVpLUXFKWWFJZjBrT1hVUmVKbEpONm9yS05hNnJMVDBhcTFzVEROU3pSbEw4dlhWNlc4dG80eUt1MnhaYS00RTlPclB0WkFPUTFJWHhCcXNDdzVuME5ISzFaTENuU2l4OEVoanFVMFdxWFJab3c?oc=5"
         },
         {
+          "d": "news.stonybrook.edu",
+          "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcUZ1YmtxQTM2NjVWcnZNckpFYzQySVVMeHA4RWN1MDZHN2J2b1FLQmpVbXZTdHlWRjdPb1RIT1ZRUTd1WUFGYVVEOW92UlI1amJ2TzAyWlFJOHQzalJMaWVNa3VqX2N5aHhYRnlydUZQNWpZQ0d0TWtyZ0hoMHBMMERjMTNHellwVjVaTWN6SnlJVGtLWGJqRVAzQVY4NEZFby14dl82S2lkS1pjaktjUW9pYVJhdUYtTTVfbjlFVjBwbEM5UVB3d1NrODEtbm5Ib3c?oc=5"
+        },
+        {
           "d": "news.cornell.edu",
           "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbl9MV0ZYblF3bU1seGwyUVZMMGdVQl9qaVRjYW8zTTlITjhuM19SRmtlalNESFZKUUNSWThPSWJTOG01TjVsSHdZekJIRUZVT3ZHY1I5ajE1d0sweGxYdUkxOFdVU0dHUnNybVM0eW1fRG0wWVA3YU5BMnlldEJqQTh5elNEeVVnYzF0eHlhcmxjZnA5QTdBVXRTLVRVUnM?oc=5"
         },
@@ -202,83 +206,14 @@
           "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjhFTkJnNG1TZEdQZTBWTXRzUHNxNXZMMGx5VVNxdGxwZkNtSk1PWno2a2FzRy1zVlNCTTJwYUpnOVBnanRLbERtaWVqWHQyYTRqX3RLQ21yZng2c1NNdWg4QW5JVTNzZ3d6bFJGbE55SWg2LTBYcm1xc1J1NjYyMFRHQQ?oc=5"
         },
         {
-          "d": "war.gov",
-          "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVkNvQ3ZPalFTX3ktRnBkUmJ1Q1VFOVhQXzlqd3FVU2djdlBhejAyZ0ZZSDhRTjcwSkVzMUZTMkx1ZWdKVkFEQ0lUb3huMWs3RTFwN0VRYndyQmNmaVcyNXlzQ01NaDE3bmFhOURWNkN2bWJGQlFXUmphdTVBUkhSaG9jSTJhbzNKaVlRbUJVS3hLWHkyTS02VHV3MWNkY21ybkJVbUxNaTBmQmdYQUdVMThPY2lQSXlVVWpqaU5tMlp4UHhQQ0Mtd3FTc1J1dk1UYlhWbQ?oc=5"
+          "d": "+1"
         }
       ],
       "srcTitles": [
         "Rice researchers earn 2 DOE Genesis Mission awards",
+        "Stony Brook University Researchers Chosen for Landmark DOE Genesis Mission AI-for-Science Awards",
         "DOE Genesis Mission awards will advance AI-driven science",
-        "NSF announces $83M investment in integrated data systems and services to advance AI-driven science and strengthen U.S. research infrastructure",
-        "Department of War Partners With the Genesis Mission to Proliferate AI for Science"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 31,
-      "sources": 2,
-      "ts": "2026-07-22T10:00:00.000Z",
-      "writtenSources": 2,
-      "h": "Glow raises $180 million Series A at a $1.2 billion valuation to rethink endpoint security",
-      "s": "If Glow proves scalable, it could shift who is responsible for stopping AI-enabled risks on employee devices and push change across a crowded cybersecurity market.",
-      "b": [
-        "Valuation: $1.2 billion after an all-equity Series A of $180 million.",
-        "Investors: Sequoia Capital, Cyberstarts, Greenoaks, Redpoint Ventures, with participation from Index Ventures, Swish Ventures, Lux Capital, Operator Collective, and Holly Ventures.",
-        "Founding and team: Palo Alto-based Glow, founded in 2025 by Roi Tiger, Omer Singer, Ophir Arie, and Arnon Joseph; leadership includes COO Emily Heath; nearly 100 employees (about 70% in Israel).",
-        "Platform details: uses AI models from Anthropic and Google’s Gemini via Amazon Bedrock, plus Glow’s own software to provide enterprise context and improve reliability for security tasks; designed to map environments in real time and enforce policies.",
-        "Capabilities cited by the company: preventing malicious npm packages from being installed, flagging AI agents attempting to pull in such software, and detecting devices where endpoint tools are missing or limited in function.",
-        "Market context: operates in a space with incumbents like CrowdStrike, Microsoft, SentinelOne, and Palo Alto Networks, aiming to move beyond detection toward prevention of risky software and AI-enabled tools."
-      ],
-      "body": [
-        "Glow, a Palo Alto-born cybersecurity startup, emerged from stealth today with unicorn status, announcing a $1.2 billion valuation following an all-equity Series A worth $180 million. The funding underscores a surge of investor interest in AI-native endpoint security as companies rethink how to safeguard employee devices in an era of more capable AI models.",
-        "The round was led by Sequoia Capital and Cyberstarts, with backing from Greenoaks and Redpoint Ventures, alongside participation from Index Ventures, Swish Ventures, Lux Capital, Operator Collective, and Holly Ventures. Glow was founded in 2025 by former Meta and Snowflake executives, including Roi Tiger as CEO, Omer Singer, Ophir Arie, and Arnon Joseph, and operates out of Palo Alto with a leadership team that also includes Emily Heath as chief operating officer.",
-        "Glow describes its platform as an endpoint security solution that uses specialized AI agents to continuously map enterprise environments, assess risk in real time, and enforce security policies. The company said it relies on AI models from Anthropic and Google’s Gemini through Amazon Bedrock, while building its own software to provide the models with enterprise context and improve reliability for security tasks.",
-        "Tiger told TechCrunch that the security market is shifting as AI lands on the endpoint in ways not seen before, emphasizing a push toward preventing risky software and tools from entering corporate environments rather than only detecting threats after they appear. Glow has said it already has paying customers across healthcare, retail, and financial services, though it declined to disclose customer names or numbers. Its deployments typically span tens of thousands of employee devices across global organizations.",
-        "In a note on Glow’s positioning, Tiger contrasted the new approach with traditional endpoint detection and response products, arguing Glow’s emphasis on preemptive risk management could redefine how enterprises defend their networks. The company employs roughly 100 people, with about 70% based in Israel and the remainder in the United States. As the market contends with the security implications of increasingly capable AI models, Glow’s approach aims to establish a distinct category for AI-native endpoint security pending broader industry adoption."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260722/p9#a260722p9"
-        }
-      ],
-      "srcTitles": [
-        "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-        "Glow, a cybersecurity startup that uses AI agents to monitor software and developer tools, emerges from stealth with a $180M Series A at a $1.2B valuation (Jagmeet Singh/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 30,
-      "sources": 1,
-      "ts": "2026-07-22T13:00:00.000Z",
-      "writtenSources": 1,
-      "h": "OpenAI launches Project Camellia in Effingham County, Georgia",
-      "s": "OpenAI’s Camellia project signals a local, community-focused AI infrastructure push with commitments to responsible energy, community investment, jobs, and access to Codex that could shape local AI adoption and workforce development.",
-      "b": [
-        "Project Camellia is being announced in Effingham County, Georgia.",
-        "OpenAI commits to responsible energy use, community investment, job creation, and access to Codex as part of Camellia.",
-        "Codex access is included as part of the Camellia initiative to empower local developers and students.",
-        "This represents OpenAI’s ongoing community infrastructure efforts to bring AI tools and training to local contexts."
-      ],
-      "body": [
-        "OpenAI has announced Project Camellia in Effingham County, Georgia, as part of a community-focused AI infrastructure initiative.",
-        "The project includes commitments to responsible energy use, community investment, job creation, and access to Codex for local developers and students, reflecting OpenAI’s emphasis on sustainable and inclusive AI deployment.",
-        "Codex access is highlighted as a core component of Camellia, intended to enable local developers and learners to build AI-powered applications and tools.",
-        "OpenAI describes Camellia as part of its broader strategy to expand AI infrastructure and skills at the local level, signaling how AI tools and training can be integrated into communities beyond major tech hubs."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
-        }
-      ],
-      "srcTitles": [
-        "Building AI infrastructure with the Effingham County community"
+        "NSF announces $83M investment in integrated data systems and services to advance AI-driven science and strengthen U.S. research infrastructure"
       ]
     },
     {
@@ -316,8 +251,76 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 27,
+      "sources": 2,
+      "ts": "2026-07-22T10:00:00.000Z",
+      "writtenSources": 2,
+      "h": "Glow raises $180 million Series A at a $1.2 billion valuation to rethink endpoint security",
+      "s": "If Glow proves scalable, it could shift who is responsible for stopping AI-enabled risks on employee devices and push change across a crowded cybersecurity market.",
+      "b": [
+        "Valuation: $1.2 billion after an all-equity Series A of $180 million.",
+        "Investors: Sequoia Capital, Cyberstarts, Greenoaks, Redpoint Ventures, with participation from Index Ventures, Swish Ventures, Lux Capital, Operator Collective, and Holly Ventures.",
+        "Founding and team: Palo Alto-based Glow, founded in 2025 by Roi Tiger, Omer Singer, Ophir Arie, and Arnon Joseph; leadership includes COO Emily Heath; nearly 100 employees (about 70% in Israel).",
+        "Platform details: uses AI models from Anthropic and Google’s Gemini via Amazon Bedrock, plus Glow’s own software to provide enterprise context and improve reliability for security tasks; designed to map environments in real time and enforce policies.",
+        "Capabilities cited by the company: preventing malicious npm packages from being installed, flagging AI agents attempting to pull in such software, and detecting devices where endpoint tools are missing or limited in function.",
+        "Market context: operates in a space with incumbents like CrowdStrike, Microsoft, SentinelOne, and Palo Alto Networks, aiming to move beyond detection toward prevention of risky software and AI-enabled tools."
+      ],
+      "body": [
+        "Glow, a Palo Alto-born cybersecurity startup, emerged from stealth today with unicorn status, announcing a $1.2 billion valuation following an all-equity Series A worth $180 million. The funding underscores a surge of investor interest in AI-native endpoint security as companies rethink how to safeguard employee devices in an era of more capable AI models.",
+        "The round was led by Sequoia Capital and Cyberstarts, with backing from Greenoaks and Redpoint Ventures, alongside participation from Index Ventures, Swish Ventures, Lux Capital, Operator Collective, and Holly Ventures. Glow was founded in 2025 by former Meta and Snowflake executives, including Roi Tiger as CEO, Omer Singer, Ophir Arie, and Arnon Joseph, and operates out of Palo Alto with a leadership team that also includes Emily Heath as chief operating officer.",
+        "Glow describes its platform as an endpoint security solution that uses specialized AI agents to continuously map enterprise environments, assess risk in real time, and enforce security policies. The company said it relies on AI models from Anthropic and Google’s Gemini through Amazon Bedrock, while building its own software to provide the models with enterprise context and improve reliability for security tasks.",
+        "Tiger told TechCrunch that the security market is shifting as AI lands on the endpoint in ways not seen before, emphasizing a push toward preventing risky software and tools from entering corporate environments rather than only detecting threats after they appear. Glow has said it already has paying customers across healthcare, retail, and financial services, though it declined to disclose customer names or numbers. Its deployments typically span tens of thousands of employee devices across global organizations.",
+        "In a note on Glow’s positioning, Tiger contrasted the new approach with traditional endpoint detection and response products, arguing Glow’s emphasis on preemptive risk management could redefine how enterprises defend their networks. The company employs roughly 100 people, with about 70% based in Israel and the remainder in the United States. As the market contends with the security implications of increasingly capable AI models, Glow’s approach aims to establish a distinct category for AI-native endpoint security pending broader industry adoption."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260722/p9#a260722p9"
+        }
+      ],
+      "srcTitles": [
+        "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+        "Glow, a cybersecurity startup that uses AI agents to monitor software and developer tools, emerges from stealth with a $180M Series A at a $1.2B valuation (Jagmeet Singh/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-07-22T13:00:00.000Z",
+      "writtenSources": 1,
+      "h": "OpenAI launches Project Camellia in Effingham County, Georgia",
+      "s": "OpenAI’s Camellia project signals a local, community-focused AI infrastructure push with commitments to responsible energy, community investment, jobs, and access to Codex that could shape local AI adoption and workforce development.",
+      "b": [
+        "Project Camellia is being announced in Effingham County, Georgia.",
+        "OpenAI commits to responsible energy use, community investment, job creation, and access to Codex as part of Camellia.",
+        "Codex access is included as part of the Camellia initiative to empower local developers and students.",
+        "This represents OpenAI’s ongoing community infrastructure efforts to bring AI tools and training to local contexts."
+      ],
+      "body": [
+        "OpenAI has announced Project Camellia in Effingham County, Georgia, as part of a community-focused AI infrastructure initiative.",
+        "The project includes commitments to responsible energy use, community investment, job creation, and access to Codex for local developers and students, reflecting OpenAI’s emphasis on sustainable and inclusive AI deployment.",
+        "Codex access is highlighted as a core component of Camellia, intended to enable local developers and learners to build AI-powered applications and tools.",
+        "OpenAI describes Camellia as part of its broader strategy to expand AI infrastructure and skills at the local level, signaling how AI tools and training can be integrated into communities beyond major tech hubs."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
+        }
+      ],
+      "srcTitles": [
+        "Building AI infrastructure with the Effingham County community"
+      ]
+    },
+    {
       "cat": "research",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-07-22T04:00:00.000Z",
       "writtenSources": 2,
