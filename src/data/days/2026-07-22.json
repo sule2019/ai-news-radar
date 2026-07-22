@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 78,
-      "sources": 38,
+      "signal": 77,
+      "sources": 35,
       "ts": "2026-07-22T14:31:03.000Z",
       "writtenSources": 40,
       "h": "Amazon cuts jobs in its artificial general intelligence group",
@@ -34,24 +34,24 @@
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0VZaUtnWWYyYndPMF9QbmZ4c3Q5Q1hGcFJwZk5RQmxXeWNSOWw4aUl0bEtEVUc1RnNLTGk3QXJiVk84c1FGRDJ6aTRLc3JFc24ycUl4S3NlUlFOYV9DU0VNeWFnN2s2RGxOV1JGQ0pNRnN6YzAzM0p0WDNqejNDS3oyMDRLYmpjcjZEdTExLTQyS0pzZ2xEbA?oc=5"
         },
         {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOFlfczRxV0p5OWJkUEQzYm10cUpNSTFUNUQ4NERwY1pqcTRUbTFhbVZURjdBNEl1MVpoSkNqM2hwNDlLaWxNTlRKclJ0TGJFVkcxV194OWR5ekRrdGR1eWMyTXBaV2pWSEZiNkRTVzFjVm83azlqTzhkeTFzdEFtaC1zTDB1SGQzcjBV0gGQAUFVX3lxTE9oQjhWRGJzem1MU1ZjWmN5NGRIMGNOUk82VGRXWTRVZ0Y2QTN6T0xJdHZaWmtkMkZHakl3MDVqRXI2SWF2dExQS2g5N09kRG1GSkRBS0t0NEtCQzlBS3JpalRQaXdkMldOVWtGdnR5dFRET3l0em45NHFaSmszdUUyTVlXQldJTTlHRURBSVNDSg?oc=5"
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
         },
         {
-          "d": "+34"
+          "d": "+31"
         }
       ],
       "srcTitles": [
         "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
         "Amazon cuts jobs in its artificial general intelligence group",
         "Amazon Cuts Jobs in Artificial General Intelligence Unit",
-        "Amazon cuts some jobs in its artificial general intelligence unit"
+        "Artificial Intelligence - ABC News"
       ]
     },
     {
       "cat": "policy",
-      "signal": 54,
-      "sources": 2,
+      "signal": 52,
+      "sources": 3,
       "ts": "2026-07-22T03:44:17.000Z",
       "writtenSources": 2,
       "h": "OpenAI reports autonomous AI hack of another company, calls it unprecedented",
@@ -68,6 +68,10 @@
       ],
       "l": [
         {
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQnNhQ2FIWkl2R2ZoUVBCbVppQkdocFNtNUd1TGVSbVZjZDdzRWxRbFFfZTJlTTh5NnpkTGJHZWZ3bWtHU3hJTU1Zb0UyVmJzbXhzNUtVS05iQnl0WEd0ZDFFenUzdmlxby1WRHZBY09PRXZodklTU2RNMnlzWURPUjZyZ29WaTd3NVpINDJrUC1FX181SWtDVENXZlZRcVRpaEhZUVY5cjQ?oc=5"
+        },
+        {
           "d": "bostonherald.com",
           "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUHdwRlcwbk5ISWdpdkVEVEJ6aDVXM25Vc0JIbkRoa0pTbzRTZFBqUzAxRDlSLUxCQnpfNXFscHRJYU1Wek9lY2xQQ3VWMkFQSXhnVkItc3lXYUhLZldKSDNqVFNRdGFNZlNuYmdNb3N6dUU3dVZJZ2tJNFc5aHJKbGF5Y2dhejctR3NuaXJmb0pxSlVVaTFVSENpVm8zeTZOTlJNU3dPOWREWjNPRWZiX2hQdXRnX0I2c1BTdTl1WTBkZ0l2?oc=5"
         },
@@ -77,6 +81,8 @@
         }
       ],
       "srcTitles": [
+        "Machine learning professor breaks down OpenAI model's hack of another AI company",
+        "OpenAI says its technology, on its own, carried out \"unprecedented\" hack of another AI company",
         "Bots gone wild: Open AI says its own system went rogue and hacked into another company",
         "OpenAI’s new model went rogue and hacked another company. Why it matters."
       ]
@@ -173,8 +179,8 @@
     },
     {
       "cat": "funding",
-      "signal": 39,
-      "sources": 4,
+      "signal": 41,
+      "sources": 5,
       "ts": "2026-07-22T12:00:00.000Z",
       "writtenSources": 8,
       "h": "DOE Genesis Mission funds AI-enabled discovery across Princeton, Fermilab, and national labs",
@@ -206,19 +212,57 @@
           "u": "https://dylancastillo.co/posts/pelicanmaxxing.html"
         },
         {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything"
+        },
+        {
           "d": "news.wisc.edu",
           "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaTFJZTZDUEZhZFBPSkR5Ymswc0JGcm16am1pV21UYko3MkJYSzdQQmJUSmFzQWlQc1haTTUtdlZ0UEdQTmRjMjIySlV0NzdnX1R5emMyUVI0UDhGeGlVMUVTa0ZsLXg2aEF1VEtCQWFRLXZRTDVIOUtrcGRIN2lxUnJJNWdzWkVpb3psSFFfczZoUF9SbTlxd2N6c3RoQ1VVNk9LTjNGd3JwbFBpM2E3bUtMZ29Ubjg3TFdxbTV6Y25ZRW81MzVmMHFSQQ?oc=5"
         },
         {
-          "d": "newscenter.lbl.gov",
-          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRWtYWk9rVDF6am5LVVJ3cllJRkJNSXlJMVhQYUdmNFdwdkF5bk5lN2kwOUwwRVNHb3FLaUJZRURCM0g2ZFF5MUJCWnBNcUQwOWNBbW9VaDFGVnA2U2F3YlRKOUVUVWh3eEEyMkVqQU1uMjZCVlBGRjZmeDh1TlNiRGh1WmlHaFY1Yi1NdHJzcVVRbVVIWEo2eGJ3?oc=5"
+          "d": "+1"
         }
       ],
       "srcTitles": [
         "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
         "Are AI Labs Pelicanmaxxing?",
-        "5 projects at UW–Madison aimed at transforming science and energy with AI receive DOE Genesis Mission funding",
-        "Berkeley Lab to Lead 13 New Genesis Mission AI Projects"
+        "Are AI labs pelicanmaxxing?",
+        "5 projects at UW–Madison aimed at transforming science and energy with AI receive DOE Genesis Mission funding"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-07-22T21:58:00.000Z",
+      "writtenSources": 2,
+      "h": "Startup founders urge Trump not to shut off Chinese open weight AI",
+      "s": "The push could determine whether US startups retain access to Chinese open-weight AI, affecting early experimentation, funding, and competitive dynamics in the tech ecosystem.",
+      "b": [
+        "About 200 Silicon Valley startups participate in the effort, including Y Combinator and Proton.",
+        "The coalition is named The Little Tech Association.",
+        "They urge the Trump administration not to ban or cut off access to Chinese open-weight AI.",
+        "The coverage comes from Politico, citing Sophia Cai."
+      ],
+      "body": [
+        "Politico reports that The Little Tech Association, a coalition of almost 200 startups including Y Combinator and Proton, is urging the Trump administration not to ban or cut off access to Chinese open-weight AI. The group frames the appeal as a policy stake that could influence how startups source and experiment with AI models from China.",
+        "The effort is presented as a coordinated appeal from a broad cross-section of the startup community, with participation from notable accelerator-backed companies. The group’s stance centers on preserving access to open-weight AI, rather than severing ties with Chinese AI offerings, amid broader regulatory discussions.",
+        "Politico notes that the push is part of a larger policy debate about AI access and national security, though the specific policy outcomes remain unsettled as policymakers weigh potential restrictions. The story highlights the tension between fostering innovation in the startup ecosystem and addressing strategic and security concerns around Chinese AI tools.",
+        "What happens next is not detailed in the coverage, but the act of mobilizing hundreds of startups signals that the policy question has significant industry visibility and could shape lobbying and public advocacy as it moves through any regulatory consideration."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260722/p56#a260722p56"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVm0tMHRNVTFOYy1DazJ4U0hlNmEzQ3VqRmtjdVRsakJJNndjdFhHWENQU1U2Sk5oTmU5eHpSdU1BS3Jna1duOEd2bkhTdkdzRXpSZ25TZkliQTRVQlQyM194dVU0a3lORURrc2FPZDVnVHJKMDB1NVBfcUtJUlY5LVVONmZlZk9GOVZjWi1vaXo4bmIwYWxpaVB6dndQSjZOdnNnMzIxbnlfTF9aVlFlMUVNUnlqRTQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The Little Tech Association, a new group of ~200 companies across the startup community, including Y Combinator, urges Trump not to ban Chinese open-weight AI (Sophia Cai/Politico)",
+        "Startup founders urge Trump not to shut off Chinese open weight AI"
       ]
     },
     {
@@ -343,6 +387,36 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-07-22T00:00:00.000Z",
+      "writtenSources": 1,
+      "h": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+      "s": "A large enterprise deployment shows how AI-enabled tools can dramatically speed up incident analysis for thousands of employees, potentially reshaping enterprise workflow and security practices.",
+      "b": [
+        "9,000 employees are described as using the integrated tools.",
+        "Incident analysis time is reduced to 30 minutes.",
+        "Tools involved are ChatGPT Enterprise and Codex.",
+        "OpenAI’s description frames this as part of scaling secure AI adoption at the company."
+      ],
+      "body": [
+        "NTT DATA Group is described as using ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption, according to OpenAI. The deployment aims to accelerate how the organization handles incidents and automates routine tasks through AI-enabled workflows.",
+        "The OpenAI page presents Codex in conjunction with ChatGPT Enterprise as the stack enabling broader automation and faster analysis across a large workforce. The emphasis is on efficiency gains and the ability to scale secure AI usage within a large enterprise context.",
+        "Industry observers have noted that enterprise deployments of AI tooling are increasingly focused on both speed and security, with providers highlighting governance and risk controls as part of scale-up efforts. The NTT DATA Group case is cited by OpenAI as an example of how large organizations can leverage AI assistants to streamline operations.",
+        "The coverage stops short of detailing the specific incident types or security controls deployed, but positions the project as a model for expanding AI adoption across sizable employee bases, signaling ongoing interest in enterprise-grade AI acceleration."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/ntt-data"
+        }
+      ],
+      "srcTitles": [
+        "NTT DATA Group cuts incident analysis to 30 minutes with Codex"
+      ]
+    },
+    {
       "cat": "funding",
       "signal": 15,
       "sources": 2,
@@ -374,40 +448,6 @@
       "srcTitles": [
         "New NSF initiative aims to unlock dataset value for AI-enabled scientific discovery",
         "Carnegie Mellon's AI Science Foundry Selected by NSF To Help Build National Infrastructure for AI-Enabled Scientific Discovery"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 15,
-      "sources": 2,
-      "ts": "2026-07-22T10:20:00.000Z",
-      "writtenSources": 2,
-      "h": "AI stock hero under scrutiny: is it still a buy?",
-      "s": "The articles invite investors to seek concrete fundamentals beyond headlines, highlighting that no numbers or company specifics are provided in the excerpt and urging caution amid AI market volatility.",
-      "b": [
-        "Outlets: Yahoo Finance and The Motley Fool published pieces with the same headline question about an AI-focused stock.",
-        "Content in excerpts lacks company names, stock metrics, or earnings data.",
-        "Publication details (dates, author names) are not provided in the excerpts."
-      ],
-      "body": [
-        "Yahoo Finance and The Motley Fool published articles with the headline framing the AI-focused investment narrative as a question about whether the stock remains a buy. The pieces use a provocative prompt to gauge market sentiment around an AI-related opportunity.",
-        "The excerpts supplied in the coverage do not include specifics such as company name, ticker symbol, financial metrics, or earnings guidance. Instead, they present a broad question aimed at readers evaluating AI equities in a volatile market environment.",
-        "The framing reflects ongoing coverage of AI-enabled stocks and investor interest in AI-related opportunities, but the provided text offers no actionable data for readers to act on, such as price targets or fundamental disclosures.",
-        "Readers are advised to await forthcoming details or full articles for concrete fundamentals before making investment decisions, as the excerpts do not supply the numbers typically used to assess a stock’s buy/sell case."
-      ],
-      "l": [
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbG5VNll4enhjVDFJZ2lxOHdNLWtDNDRsRG1UT1NqbkVpenAwamlpaEJOZEhfRmUxdHp2aWkxOEp5RnZXRUIwb1d2NUNMNDRURGFocHl1ZzQ3ekJONkE5U3NMTGRIckVBa09HREZtbktVV0NYcHVQNTU0bkkycHhERVBPeERvRzQyWHAzSmlZS1hmM1NmWm5iY2tSZWVNdThSb2VQRg?oc=5"
-        },
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVEJwSlJxMmJCMk84NkRONjEyNWhKX3hZcTNrWDZEU2RnZ0NFQVRzQlllYlM0WGs0cHV3MzRzTWZoZWc4Um9FNC0yTkdNNE1RUzAycTVCb2tKdXhGekVTelA1T2k3VmdYZmpiQTBPNlRpVXFjRDNYal9DU0VralItanhzS1QtQkdUTlFnbWJtOXJMVG85QklKLQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "This Unsung Artificial Intelligence (AI) Hero Just Announced Incredible News. Is It Still a Buy?",
-        "This Unsung Artificial Intelligence (AI) Hero Just Announced Incredible News. Is It Still a Buy?"
       ]
     },
     {
