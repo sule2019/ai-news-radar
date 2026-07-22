@@ -27,6 +27,10 @@
           "u": "https://openai.com/index/hugging-face-model-evaluation-security-incident"
         },
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/"
+        },
+        {
           "d": "wired.com",
           "u": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/"
         },
@@ -35,18 +39,14 @@
           "u": "https://www.techmeme.com/260721/p47#a260721p47"
         },
         {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/"
-        },
-        {
           "d": "+1"
         }
       ],
       "srcTitles": [
         "OpenAI and Hugging Face partner to address security incident during model evaluation",
+        "OpenAI says Hugging Face was breached by its pre-release models",
         "OpenAI Models Escaped Containment and Hacked Hugging Face",
-        "OpenAI says its models chained vulnerabilities across its research environment and Hugging Face's infrastructure to find solutions for the ExploitGym benchmark (OpenAI)",
-        "OpenAI says Hugging Face was breached by its own pre-release models"
+        "OpenAI says its models chained vulnerabilities across its research environment and Hugging Face's infrastructure to find solutions for the ExploitGym benchmark (OpenAI)"
       ]
     },
     {
@@ -70,8 +70,8 @@
       ],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/"
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-gemini-36-flash-35-flash-lite-and-35-flash-cyber/"
         },
         {
           "d": "arstechnica.com",
@@ -220,7 +220,7 @@
     },
     {
       "cat": "funding",
-      "signal": 55,
+      "signal": 52,
       "sources": 3,
       "ts": "2026-07-21T19:25:00.000Z",
       "writtenSources": 3,
@@ -239,11 +239,11 @@
       "l": [
         {
           "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYkVYczRSay1INWtIQVo0c2p5TXZCalFVX3c5TmZZczJxOGJVdnVKcU9FeDl0REVsMHAzNUVNeWR5dGJyTkVPRFZ1UWtrc2FpZUNTZl9NY2VGR3lxY1d0aGVEOF9OODB3SzFPb2ZZRHpLanBVUmdncnV3cWhyek94Vzd0YXY4ZFVfcGUxVnRHdmxPWXA4Zk5zR0N0MUVuSjBOdS1BYVRHdnVNUQ?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON3JBc3luR09UcW1fc01FWDJpUjNoMldZaEpvakJ2QTI1Tko3Yi1DdXF4U0dXdDhqaFZMXzZyWDhOR3RNUlVyWTNJakVVTWEtalgwQjlCS0VjUHZWVW4tTVhXQTJZWjBqc3F6WHFnLXNWeFp1SUthamhoaVVpMThIZS10OW45Y1dOelplRGZPVHJDb2ppeVhmSVhQNGY1elVsYi1CSzNEenh2QQ?oc=5"
         },
         {
           "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb19wdEo1bEU0U0s4WC1KT1ZnNFhHMi02WXNfcGFrdU9YV1RMMHozWkpDUDA3cU9OX2NiR09sdllyLV9WTUxYOXRRSkZ5Q0JHcmNQZV9jMFJndEViN0hsUTVwX2FleE1Fc2MwTElkOUliZ2d5N1M0UUxwdjM5Z2ZDNWFVUm9LSmFnSXYxVkhrTVpsdkJYb3VN?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNjFjWjR4YjNwQXEtQVpIRklNUEt6N2pBWmRYbW5yVktHSldTZEpfOHlsM1UxTDEyaktYRjFPV0tYR0pxNWpuSHFxTGJtaUxJWWFFMWNEWEVzblU3Y1k0SWZfNU9VM2RzaFdwOTFncGRmd1FhalZEeTR4ZzJVNWZSQml2YXlNeVN3OS1ydXB3Z29RN0dJb1p6cA?oc=5"
         },
         {
           "d": "theglobeandmail.com",
@@ -251,43 +251,10 @@
         }
       ],
       "srcTitles": [
-        "Prediction: This Artificial Intelligence (AI) Chip Stock Is the Biggest Winner From the $26.5 Billion SK Hynix IPO (Hint: It's Not Nvidia)",
         "This Is My Favorite Artificial Intelligence Stock to Buy Right Now (Hint: Not Nvidia, Broadcom, or Alphabet)",
         "Prediction: This Artificial Intelligence (AI) Chip Stock Is the Biggest Winner From the $26.5 Billion SK Hynix IPO (Hint: It's Not Nvidia)",
+        "Prediction: This Artificial Intelligence (AI) Chip Stock Is the Biggest Winner From the $26.5 Billion SK Hynix IPO (Hint: It's Not Nvidia)",
         "Prediction: This Artificial Intelligence (AI) Chip Stock Is the Biggest Winner From the $26.5 Billion SK Hynix IPO (Hint: It's Not Nvidia)"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 46,
-      "sources": 2,
-      "ts": "2026-07-20T15:45:00.000Z",
-      "writtenSources": 2,
-      "h": "Adobe camera app Indigo adds AI critique and editing guidance",
-      "s": "Adobe’s experiment with AI-enabled critique and editing guidance for photography shows how AI can become a built-in mentor, shaping how users frame, shoot, and edit images.",
-      "b": [
-        "Project Indigo’s AI Playground adds photo critique and editing guidance features, plus advanced object removal and depth-of-field generation.",
-        "The updates use Google’s Gemini-based Nano Banana as a starting point but may switch models over time.",
-        "The features are being tested with a subset of Indigo users and could become a paid option if successful."
-      ],
-      "body": [
-        "Adobe’s experimental iOS camera app, Project Indigo, received an update that adds AI-powered critique and editing guidance as part of its AI Playground. The new tools offer a professional assessment of framing, lighting, colors, and emotional impact, alongside guidance for potential reshoots.",
-        "In addition to critique, the update includes capture and edit suggestions that explain how to reframe shots, adjust exposure, or remove undesirable elements. The update also introduces an element of deterministic outputs, offering multiple iterations of prompts to refine results.",
-        "Adobe’s authors note that Indigo’s AI Playground currently relies on Google’s Nano Banana model but may swap in other models over time. The features are in testing with a limited user group, with the potential to become a paid option if adopted widely."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update"
-        }
-      ],
-      "srcTitles": [
-        "Adobe camera app s new feature will critique your photos using AI",
-        "Adobe’s ‘natural look’ camera app embraces generative AI"
       ]
     },
     {
@@ -316,6 +283,39 @@
       ],
       "srcTitles": [
         "Introducing the ChatGPT for small business program"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 42,
+      "sources": 2,
+      "ts": "2026-07-20T15:45:00.000Z",
+      "writtenSources": 2,
+      "h": "Adobe camera app Indigo adds AI critique and editing guidance",
+      "s": "Adobe’s experiment with AI-enabled critique and editing guidance for photography shows how AI can become a built-in mentor, shaping how users frame, shoot, and edit images.",
+      "b": [
+        "Project Indigo’s AI Playground adds photo critique and editing guidance features, plus advanced object removal and depth-of-field generation.",
+        "The updates use Google’s Gemini-based Nano Banana as a starting point but may switch models over time.",
+        "The features are being tested with a subset of Indigo users and could become a paid option if successful."
+      ],
+      "body": [
+        "Adobe’s experimental iOS camera app, Project Indigo, received an update that adds AI-powered critique and editing guidance as part of its AI Playground. The new tools offer a professional assessment of framing, lighting, colors, and emotional impact, alongside guidance for potential reshoots.",
+        "In addition to critique, the update includes capture and edit suggestions that explain how to reframe shots, adjust exposure, or remove undesirable elements. The update also introduces an element of deterministic outputs, offering multiple iterations of prompts to refine results.",
+        "Adobe’s authors note that Indigo’s AI Playground currently relies on Google’s Nano Banana model but may swap in other models over time. The features are in testing with a limited user group, with the potential to become a paid option if adopted widely."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/967791/adobe-indigo-camera-app-ai-playground-update"
+        }
+      ],
+      "srcTitles": [
+        "Adobe camera app s new feature will critique your photos using AI",
+        "Adobe’s ‘natural look’ camera app embraces generative AI"
       ]
     },
     {
@@ -349,7 +349,7 @@
         },
         {
           "d": "scmp.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2dZUDE4cW5MS29sVE1YOHY2RW12bTZBU3dwZlNUMjFkd28yMWc4SVYxTTZSb21oU0lSYWpVbkpVclZMSFdoWjVaYUlfRzJhRkRyMzJTYThMc2REVFhBSl9IRjFHZ29ybm9yRG0yLWI1WURYdHo1U25LaDBhU2x4RWNaVjcyRVlDdUFLM0FnSGJORXo3Y3ItU1Jrai1lMjg2RlhlN2xOUWxjNTI1Q0dr0gGvAUFVX3lxTFBCZjF4bE1oY0VVbDVuZk90Zk9HQllZQXhCQ3JUWUlWak42Ny1wa2xKcU8zX01fMHk4VE1EeFJVYkdUNk5JTlpUWWYyTFFyampnVEpwRlFjRXFDRFBYZGJOaUpIVkVXN1hyem4tVndFTTdzdG9qYl9lYnlGTXI1TlZuam96MWstX3ppOTBUVUdzZHNVbmx3LVZiM1VuWF9VUENmcEJST0gxQS0wVXhFV1U?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPa2dZUDE4cW5MS29sVE1YOHY2RW12bTZBU3dwZlNUMjFkd28yMWc4SVYxTTZSb21oU0lSYWpVbkpVclZMSFdoWjVaYUlfRzJhRkRyMzJTYThMc2REVFhBSl9IRjFHZ29ybm9yRG0yLWI1WURYdHo1U25LaDBhU2x4RWNaVjcyRVlDdUFLM0FnSGJORXo3Y3ItU1Jrai1lMjg2RlhlN2xOUWxjNTI1Q0dr?oc=5"
         }
       ],
       "srcTitles": [
@@ -423,37 +423,6 @@
       "srcTitles": [
         "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
         "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-07-21T09:45:00.000Z",
-      "writtenSources": 2,
-      "h": "3 AI stocks to buy for the long haul",
-      "s": "Market watchers flag AI-related stocks as long-term winners, highlighting the breadth of AI adoption beyond a few marquee players.",
-      "b": [
-        "Yahoo Finance lists three AI-focused stocks for long-term investment.",
-        "The Motley Fool offers a Buffett-backed AI stock pick and suggests it could outperform the market."
-      ],
-      "body": [
-        "Yahoo Finance published a piece titled 3 Unstoppable Artificial Intelligence (AI) Stocks That Are No-Brainer Buys for the Long Haul, pointing to AI-enabled growth opportunities across multiple companies.",
-        "The Motley Fool followed with articles such as 2 Reason(s) to Buy Warren Buffett's Favorite Artificial Intelligence (AI) Stock and Never Sell, arguing that one AI stock aligns with Buffett’s investment philosophy."
-      ],
-      "l": [
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNemxpRGFkT0FacVUxbUlGVVdhaTBrVVA2QVMyV1k2anlNS2RQRVRZYVU0NnM3N2RlNXN3QkxkQmdYNG5ZeGhzZEZXZkVITVNDS2F3ejFIT1E3Z0d0bEJ0WEhGUEpKUG9ZaGRXLUxlVjlyRzBXUjNMYlMtVEFoZVJCajRKVmZjaVhoY2ZSUmpXQ3JUamdQd05OaXlSazdoSUZXaGNvYnRzdw?oc=5"
-        },
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbG1DZ1RMY1cxeXBRU1VlaEdyM0F6UkstRGN3SWw1b2V2Nkl2cjZVUWJacGx3ZjhRdE9sdWp3X1k3OUI4cmpNYWowSnZ3RE0wbWdiOEtiZ2lxd2dTOThmX1lPWGlSbzJ1Y3pLYlB0WXhsV1ZKN2ZYS2pDNlp1U3hWWFpDcFdZM0VxRW1EaA?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "3 Unstoppable Artificial Intelligence (AI) Stocks That Are No-Brainer Buys for the Long Haul",
-        "2 Reason(s) to Buy Warren Buffett's Favorite Artificial Intelligence (AI) Stock and Never Sell"
       ]
     },
     {
@@ -604,6 +573,37 @@
       ],
       "srcTitles": [
         "China’s AI models have Trump’s AI world at war with itself"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-07-21T09:45:00.000Z",
+      "writtenSources": 2,
+      "h": "3 AI stocks to buy for the long haul",
+      "s": "Market watchers flag AI-related stocks as long-term winners, highlighting the breadth of AI adoption beyond a few marquee players.",
+      "b": [
+        "Yahoo Finance lists three AI-focused stocks for long-term investment.",
+        "The Motley Fool offers a Buffett-backed AI stock pick and suggests it could outperform the market."
+      ],
+      "body": [
+        "Yahoo Finance published a piece titled 3 Unstoppable Artificial Intelligence (AI) Stocks That Are No-Brainer Buys for the Long Haul, pointing to AI-enabled growth opportunities across multiple companies.",
+        "The Motley Fool followed with articles such as 2 Reason(s) to Buy Warren Buffett's Favorite Artificial Intelligence (AI) Stock and Never Sell, arguing that one AI stock aligns with Buffett’s investment philosophy."
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNemxpRGFkT0FacVUxbUlGVVdhaTBrVVA2QVMyV1k2anlNS2RQRVRZYVU0NnM3N2RlNXN3QkxkQmdYNG5ZeGhzZEZXZkVITVNDS2F3ejFIT1E3Z0d0bEJ0WEhGUEpKUG9ZaGRXLUxlVjlyRzBXUjNMYlMtVEFoZVJCajRKVmZjaVhoY2ZSUmpXQ3JUamdQd05OaXlSazdoSUZXaGNvYnRzdw?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbG1DZ1RMY1cxeXBRU1VlaEdyM0F6UkstRGN3SWw1b2V2Nkl2cjZVUWJacGx3ZjhRdE9sdWp3X1k3OUI4cmpNYWowSnZ3RE0wbWdiOEtiZ2lxd2dTOThmX1lPWGlSbzJ1Y3pLYlB0WXhsV1ZKN2ZYS2pDNlp1U3hWWFpDcFdZM0VxRW1EaA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "3 Unstoppable Artificial Intelligence (AI) Stocks That Are No-Brainer Buys for the Long Haul",
+        "2 Reason(s) to Buy Warren Buffett's Favorite Artificial Intelligence (AI) Stock and Never Sell"
       ]
     }
   ]
