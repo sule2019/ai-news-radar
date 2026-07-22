@@ -2,8 +2,41 @@
   "date": "2026-07-22",
   "stories": [
     {
-      "cat": "funding",
+      "cat": "products",
       "signal": 60,
+      "sources": 2,
+      "ts": "2026-07-22T05:30:00.000Z",
+      "writtenSources": 1,
+      "h": "OpenAI Presence introduced as an enterprise AI agent platform",
+      "s": "Presence provides a turnkey way for large organizations to deploy trusted voice and chat agents for customer support and internal workflows, enabling scalable AI-enabled operations.",
+      "b": [
+        "Introducing OpenAI Presence as an enterprise AI agent platform.",
+        "Presence is described as a proven platform for deploying voice and chat agents in customer and internal workflows.",
+        "The platform is positioned to help organizations build and manage AI agents at scale, with governance and trust baked in."
+      ],
+      "body": [
+        "OpenAI has announced Presence, an enterprise AI agent platform designed to help organizations deploy trusted voice and chat agents for customer-facing and internal workflows.",
+        "According to OpenAI, Presence is a proven enterprise AI agent platform that aims to streamline the deployment of AI assistants across business processes, with attention to governance and reliability.",
+        "The announcement frames Presence as a tool to accelerate the deployment of AI-powered customer support, help desks, and internal automation by providing a managed, scalable solution for building and operating AI agents."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-openai-presence"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260722/p33#a260722p33"
+        }
+      ],
+      "srcTitles": [
+        "Introducing OpenAI Presence",
+        "OpenAI introduces OpenAI Presence to help companies better connect AI agents to their internal systems and automate customer support, sales, and other tasks (Business Insider)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 57,
       "sources": 4,
       "ts": "2026-07-22T14:31:03.000Z",
       "writtenSources": 4,
@@ -21,6 +54,10 @@
       ],
       "l": [
         {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZ0VZaUtnWWYyYndPMF9QbmZ4c3Q5Q1hGcFJwZk5RQmxXeWNSOWw4aUl0bEtEVUc1RnNLTGk3QXJiVk84c1FGRDJ6aTRLc3JFc24ycUl4S3NlUlFOYV9DU0VNeWFnN2s2RGxOV1JGQ0pNRnN6YzAzM0p0WDNqejNDS3oyMDRLYmpjcjZEdTExLTQyS0pzZ2xEbA?oc=5"
+        },
+        {
           "d": "reuters.com",
           "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdkQtS0lHSVM5ZnlBd05WU003NW92NWU0MWVHYVVBVFlFYUpjWEd3NTdIUU5UT05fUVFGT19JTkdRTEktZG1Cc1Mxd3ZEekRiUVl2aFNjY1dYUnhxWU1kMjNILWh5UlgwcktaN3JEV3g2Q2hrNTF6c1U2MmFPSnppdW1PZWdZN1ZZZnpoNVFuS05jVjJ2WkZEZ0RyWHE0YUttVWhhOVllbkI0anhMZjROUjBTeTY1N1VR?oc=5"
         },
@@ -29,24 +66,20 @@
           "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHc0MzM2eDZJR3dWeHFGVUNSNW85TjRGNlhfUUl0S2x2NFRLNlY1eFBieEEzZ1VXYk9vOGZlbTdZa0w1Rk10NXBfSW1IZzMyaEl2eEVFbDZzaGtiSTZlZDlEUERHUjhmUzdWSk9xbEUxNi1iYlUydjkycUk5enNHdUZkcjdBRDQ1ZWRST0hIQlMwWEVGdkN5dDRFMWRRcWIySWkyNGxRaXRXcG1YTDdkS3oxLURBdEJ5bGtDdQ?oc=5"
         },
         {
-          "d": "ng.investing.com",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV3hXWjhha05BeVhRZ0sxTk5sOUY4dlcwMVM5aEY5Qm5OblU0dEs4aTJlOTByVnZUdzhJaFcyRldHWFIzVTN1ZFRZZW82dUdVaTVJalhQSDRZLVFsVVlOamZhSHc4MjN4WnNOdFdXV21OZG1IaVV5Vi1kcXdSaC1VUzFMVnhqbDhHdTN6SDh3WmJuWHBTMlZFcHJ5cmppaG1jaGJUeXdhZzVtR282VGQtbDk0Qk9YRXE4TzNr?oc=5"
-        },
-        {
-          "d": "sg.finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTmhlOWtMNzE3WlZEb2padXdFaWZSZmsxWjRjV3hFVGQ5NDJ1RThmSmd6RTIwb2NTZkVqVTJKaGVvWWtIVlg1anRTQzROWm9wMUV4YmszTEZGamFTQTNZM1FuamhQQlAwUVQ3MkFaZ1JMTG1YNXpoZkJRbVV6WlA2ZkdEZjJMa29lUVBVcw?oc=5"
+          "d": "seekingalpha.com",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZTRZZEpkcVZDQ3BJN29HQjZNMU5vWFpGZUlxTTYzSVNSRWszYzVNQndpc1FMc1F0V0xfRXZNWW10dEI2dWxMYWxSN2pPWlQ5VkhwZE9Tbzh2S1lQV0gtZ0hnUTlncFJvUGlodkdFeWExMVE5Y1ljRGs1VWJwZ00xcVZURXN0OUZyZk9tODNnT1ZHRmRaSGtSTHdINzhCdDA?oc=5"
         }
       ],
       "srcTitles": [
+        "Amazon Cuts Jobs in Artificial General Intelligence Unit",
         "Amazon cuts jobs in its artificial general intelligence group",
         "Amazon cuts jobs in artificial intelligence research group",
-        "Amazon cuts jobs in artificial intelligence research group By Investing.com",
-        "Amazon cuts jobs in its artificial general intelligence group"
+        "Amazon cutting jobs in artificial general intelligence group — Reuters"
       ]
     },
     {
       "cat": "funding",
-      "signal": 52,
+      "signal": 49,
       "sources": 1,
       "ts": "2026-07-22T13:38:54.000Z",
       "writtenSources": 1,
@@ -108,7 +141,7 @@
     },
     {
       "cat": "policy",
-      "signal": 47,
+      "signal": 43,
       "sources": 2,
       "ts": "2026-07-22T03:44:17.000Z",
       "writtenSources": 2,
@@ -140,37 +173,9 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-07-22T05:30:00.000Z",
-      "writtenSources": 1,
-      "h": "OpenAI Presence introduced as an enterprise AI agent platform",
-      "s": "Presence provides a turnkey way for large organizations to deploy trusted voice and chat agents for customer support and internal workflows, enabling scalable AI-enabled operations.",
-      "b": [
-        "Introducing OpenAI Presence as an enterprise AI agent platform.",
-        "Presence is described as a proven platform for deploying voice and chat agents in customer and internal workflows.",
-        "The platform is positioned to help organizations build and manage AI agents at scale, with governance and trust baked in."
-      ],
-      "body": [
-        "OpenAI has announced Presence, an enterprise AI agent platform designed to help organizations deploy trusted voice and chat agents for customer-facing and internal workflows.",
-        "According to OpenAI, Presence is a proven enterprise AI agent platform that aims to streamline the deployment of AI assistants across business processes, with attention to governance and reliability.",
-        "The announcement frames Presence as a tool to accelerate the deployment of AI-powered customer support, help desks, and internal automation by providing a managed, scalable solution for building and operating AI agents."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/introducing-openai-presence"
-        }
-      ],
-      "srcTitles": [
-        "Introducing OpenAI Presence"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 37,
-      "sources": 5,
+      "signal": 35,
+      "sources": 4,
       "ts": "2026-07-22T13:03:26.000Z",
       "writtenSources": 4,
       "h": "Rice researchers win two DOE Genesis Mission awards",
@@ -190,6 +195,10 @@
       ],
       "l": [
         {
+          "d": "nsf.gov",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjhFTkJnNG1TZEdQZTBWTXRzUHNxNXZMMGx5VVNxdGxwZkNtSk1PWno2a2FzRy1zVlNCTTJwYUpnOVBnanRLbERtaWVqWHQyYTRqX3RLQ21yZng2c1NNdWg4QW5JVTNzZ3d6bFJGbE55SWg2LTBYcm1xc1J1NjYyMFRHQQ?oc=5"
+        },
+        {
           "d": "news.rice.edu",
           "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaEw0UUY0dTVueGRYYk8tWmZfX2I3VVpLUXFKWWFJZjBrT1hVUmVKbEpONm9yS05hNnJMVDBhcTFzVEROU3pSbEw4dlhWNlc4dG80eUt1MnhaYS00RTlPclB0WkFPUTFJWHhCcXNDdzVuME5ISzFaTENuU2l4OEVoanFVMFdxWFJab3c?oc=5"
         },
@@ -200,25 +209,156 @@
         {
           "d": "news.cornell.edu",
           "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbl9MV0ZYblF3bU1seGwyUVZMMGdVQl9qaVRjYW8zTTlITjhuM19SRmtlalNESFZKUUNSWThPSWJTOG01TjVsSHdZekJIRUZVT3ZHY1I5ajE1d0sweGxYdUkxOFdVU0dHUnNybVM0eW1fRG0wWVA3YU5BMnlldEJqQTh5elNEeVVnYzF0eHlhcmxjZnA5QTdBVXRTLVRVUnM?oc=5"
-        },
-        {
-          "d": "nsf.gov",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTjhFTkJnNG1TZEdQZTBWTXRzUHNxNXZMMGx5VVNxdGxwZkNtSk1PWno2a2FzRy1zVlNCTTJwYUpnOVBnanRLbERtaWVqWHQyYTRqX3RLQ21yZng2c1NNdWg4QW5JVTNzZ3d6bFJGbE55SWg2LTBYcm1xc1J1NjYyMFRHQQ?oc=5"
-        },
-        {
-          "d": "+1"
         }
       ],
       "srcTitles": [
+        "NSF announces $83M investment in integrated data systems and services to advance AI-driven science and strengthen U.S. research infrastructure",
         "Rice researchers earn 2 DOE Genesis Mission awards",
         "Stony Brook University Researchers Chosen for Landmark DOE Genesis Mission AI-for-Science Awards",
-        "DOE Genesis Mission awards will advance AI-driven science",
-        "NSF announces $83M investment in integrated data systems and services to advance AI-driven science and strengthen U.S. research infrastructure"
+        "Stony Brook University Researchers Chosen for Landmark DOE Genesis Mission AI-for-Science Awards"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 35,
+      "sources": 4,
+      "ts": "2026-07-22T12:00:00.000Z",
+      "writtenSources": 4,
+      "h": "DOE Genesis Mission funds AI-enabled discovery across Princeton, Fermilab, and national labs",
+      "s": "This matters because it signals a coordinated federal push to apply AI to science across universities and national labs, potentially speeding discoveries.",
+      "b": [
+        "Berkeley Lab will lead 13 new Genesis Mission AI projects",
+        "Princeton University researchers were awarded Genesis Mission grants from the Department of Energy to accelerate AI use for scientific discovery",
+        "DOE invests in Fermilab projects to accelerate AI-enabled scientific discovery",
+        "Argonne National Laboratory will lead AI research projects under the Genesis Mission"
+      ],
+      "body": [
+        "The coverage shows the Department of Energy expanding its Genesis Mission AI initiative with multiple institutions receiving support. Princeton University reports that Princeton researchers were awarded Genesis Mission grants from the Department of Energy to accelerate the use of AI for scientific discovery. Separately, Fermilab is described as receiving DOE investment to accelerate AI-enabled scientific discovery.",
+        "Berkeley Lab is set to lead 13 new Genesis Mission AI projects, a figure highlighted in Berkeley Lab News Center coverage, underscoring a large portfolio under Genesis Mission. Argonne National Laboratory is noted as leading AI research projects under the Genesis Mission in Argonne’s reporting.",
+        "Taken together, the outlets frame Genesis Mission as a DOE-led push to fund and coordinate AI-driven scientific work across universities and national labs.",
+        "The articles collectively imply ongoing DOE funding and planning to expand AI-enabled discovery across major research institutions, with further details likely to emerge from the involved labs and agencies."
+      ],
+      "l": [
+        {
+          "d": "princeton.edu",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRVBpTW4tbnZaZ3BadkVKZE5ySDlaSTIzTnhIZ3puazJIUENJT052ZWNveGdUc3RDZmU1T1V6X0U0NEhQNGh1YWFmWm5SZjBLWEtWUldYRTgyVWtRUVkxcUVSdi1PSFEzOHZKempyNmxROUZhbHhxcWE3U2ZZd2c2ZXdPeUpSbEItVThySm5kZmEtWjRMQjdDZkE2UFNlVHZDNVlHQjloZndGcUhPWll3ZXQ1RnhPQjNFRVB4aWJpTFU?oc=5"
+        },
+        {
+          "d": "news.fnal.gov",
+          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWJ0Q0E0N0hMaTA2T013a1c5Wm5XZnk5dVg2bElmc19oT1R5R19HWUdzYXhubHllVWx0WmphREF3R0lxdWNURGx5VUU0aVhWUGstelMxcUxSYkNJRkZhVmhZSjM2dFp6aHozZTFqZlJWUEVVVUYyR0xZSHQ5OWJYV2p3b19RQm93UTgwbzNvOXNoZ2V0LWVoel9Bem5uX19nQzUwb0tYcURjY0Npd19NdlRzZEZyOTM1Z2ROTXY0aHpaQ2c1VlVKejJn?oc=5"
+        },
+        {
+          "d": "newscenter.lbl.gov",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRWtYWk9rVDF6am5LVVJ3cllJRkJNSXlJMVhQYUdmNFdwdkF5bk5lN2kwOUwwRVNHb3FLaUJZRURCM0g2ZFF5MUJCWnBNcUQwOWNBbW9VaDFGVnA2U2F3YlRKOUVUVWh3eEEyMkVqQU1uMjZCVlBGRjZmeDh1TlNiRGh1WmlHaFY1Yi1NdHJzcVVRbVVIWEo2eGJ3?oc=5"
+        },
+        {
+          "d": "anl.gov",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNclI4YkZKUWdiMlZnbFBkTVlTUHBHZ3hmeE5WbnN4Nkt6Tk1rLWJscExFdi1EU2JmM1lXckJXaDhtbjIzYzRkNGxoTFVkS1ltajVNMUNFYXdqTDNOeXZ4alE3dW5TOU4tdGR0a2lxS09WaXhaVWQzeExPMWt4U09fNGJIWW5QcHduam10WGpibURxYXMwdHduOGx4WDJhOTlrMEp5TXA0bTdMUzVlRUw1N3B3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Princeton researchers awarded Genesis Mission grants from Department of Energy to accelerate AI use for scientific discovery",
+        "U.S. Department of Energy invests in Fermilab projects to accelerate AI-enabled scientific discovery",
+        "Berkeley Lab to Lead 13 New Genesis Mission AI Projects",
+        "Argonne to lead AI research projects under the Department of Energy’s Genesis Mission"
       ]
     },
     {
       "cat": "funding",
       "signal": 29,
+      "sources": 2,
+      "ts": "2026-07-22T13:53:12.000Z",
+      "writtenSources": 2,
+      "h": "NSF launches initiative to unlock dataset value for AI-enabled scientific discovery",
+      "s": "Unlocking dataset value and building national AI infrastructure could accelerate AI-driven science across institutions by reducing data bottlenecks and enabling shared tools.",
+      "b": [
+        "NSF initiative aims to unlock dataset value for AI-enabled scientific discovery",
+        "Carnegie Mellon University's AI Science Foundry was selected by NSF to help build national infrastructure for AI-enabled scientific discovery",
+        "The effort centers on creating national infrastructure to support AI-enabled discovery"
+      ],
+      "body": [
+        "NSF.gov reports a new initiative aimed at unlocking dataset value for AI-enabled scientific discovery, signaling a push to make data assets more usable for AI across research fields.",
+        "Carnegie Mellon University’s AI Science Foundry has been selected by the NSF to help build national infrastructure for AI-enabled scientific discovery, according to CMU's coverage.",
+        "The combined coverage portrays NSF’s effort as both unlocking data value and creating a broader national infrastructure to support AI-driven scientific discovery.",
+        "Details on funding levels, timelines, and specific infrastructure components were not provided in the covered materials, but the articles indicate a strategic NSF direction toward data-enabled AI research across institutions."
+      ],
+      "l": [
+        {
+          "d": "nsf.gov",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTWVoWFdFREl4QUpnU1drZE82Sk9LMGZVSXVReHlzUXdsRUxVTzZHNmRQay1fQV9LazRIc2Z3TFFyaW16Yk9mZ2IxS2p2V2RFYlBHT1JIdGJwM1RMTnczVjBzSWxlNk0yZW1HeUJXUVAtanpHa1FQZjNxZGctclgwN2pVSl9Sb0U?oc=5"
+        },
+        {
+          "d": "cmu.edu",
+          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdWQwME9qbldkbFlFZWRHMGo2bko5WEpsSXlUSXFGZzE0QXduTWpDaTlxZ0VFaGJvc2NTUXRveEhGVzZBWFcwbUJtQ0FmaWNyWkpVZmFiTFR2Wkx4bk1kRmpPN296bVlfV05mNWdadFVFQ3Mwbm9qUDdPamU4REgxR0QwbUFKcmw4NmJmQTZ0ckdFSEs2ZklpR2NvWHFFSURHMzdFZWdtTF90VFd0dWUzSlo3X1F0SHpFd09RbGxIa19lbmQ5c2J1ZHNjWHdDbVFoWGZoQmpUWC1CeUNBQmZXamdn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "New NSF initiative aims to unlock dataset value for AI-enabled scientific discovery",
+        "Carnegie Mellon's AI Science Foundry Selected by NSF To Help Build National Infrastructure for AI-Enabled Scientific Discovery"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-07-22T13:00:00.000Z",
+      "writtenSources": 1,
+      "h": "OpenAI launches Project Camellia in Effingham County, Georgia",
+      "s": "OpenAI’s Camellia project signals a local, community-focused AI infrastructure push with commitments to responsible energy, community investment, jobs, and access to Codex that could shape local AI adoption and workforce development.",
+      "b": [
+        "Project Camellia is being announced in Effingham County, Georgia.",
+        "OpenAI commits to responsible energy use, community investment, job creation, and access to Codex as part of Camellia.",
+        "Codex access is included as part of the Camellia initiative to empower local developers and students.",
+        "This represents OpenAI’s ongoing community infrastructure efforts to bring AI tools and training to local contexts."
+      ],
+      "body": [
+        "OpenAI has announced Project Camellia in Effingham County, Georgia, as part of a community-focused AI infrastructure initiative.",
+        "The project includes commitments to responsible energy use, community investment, job creation, and access to Codex for local developers and students, reflecting OpenAI’s emphasis on sustainable and inclusive AI deployment.",
+        "Codex access is highlighted as a core component of Camellia, intended to enable local developers and learners to build AI-powered applications and tools.",
+        "OpenAI describes Camellia as part of its broader strategy to expand AI infrastructure and skills at the local level, signaling how AI tools and training can be integrated into communities beyond major tech hubs."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
+        }
+      ],
+      "srcTitles": [
+        "Building AI infrastructure with the Effingham County community"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-07-22T12:00:00.000Z",
+      "writtenSources": 1,
+      "h": "OpenAI commits to frontier AI collaboration with DOE and national labs to accelerate discovery",
+      "s": "Private-sector collaboration with DOE and national labs on frontier AI could influence how quickly and safely scientific discoveries are pursued, shaping future national AI efforts.",
+      "b": [
+        "OpenAI outlines its commitment to advancing American science with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery",
+        "The post appears on openai.com under the title \"Advancing the next era of national science\"",
+        "The collaboration focuses on applying frontier AI to accelerate discovery across federal laboratories and partners"
+      ],
+      "body": [
+        "OpenAI published a post on its site titled Advancing the next era of national science, outlining a commitment to advancing American science by working with the U.S. Department of Energy and national labs to use frontier AI to accelerate discovery.",
+        "The article frames frontier AI as a tool to speed up scientific breakthroughs through collaboration with government labs and other national partners.",
+        "This reflects a growing alignment between private sector AI developers and federal science programs aimed at accelerating discovery using advanced AI capabilities.",
+        "No specific funding amounts or project timelines are announced in the covered material, but the post signals a substantive collaboration between OpenAI, DOE, and national laboratories as part of broader national science strategy."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/advancing-the-next-era-of-national-science"
+        }
+      ],
+      "srcTitles": [
+        "Advancing the next era of national science"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
       "sources": 2,
       "ts": "2026-07-22T10:20:00.000Z",
       "writtenSources": 2,
@@ -252,7 +392,7 @@
     },
     {
       "cat": "funding",
-      "signal": 27,
+      "signal": 23,
       "sources": 2,
       "ts": "2026-07-22T10:00:00.000Z",
       "writtenSources": 2,
@@ -286,36 +426,6 @@
       "srcTitles": [
         "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
         "Glow, a cybersecurity startup that uses AI agents to monitor software and developer tools, emerges from stealth with a $180M Series A at a $1.2B valuation (Jagmeet Singh/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-07-22T13:00:00.000Z",
-      "writtenSources": 1,
-      "h": "OpenAI launches Project Camellia in Effingham County, Georgia",
-      "s": "OpenAI’s Camellia project signals a local, community-focused AI infrastructure push with commitments to responsible energy, community investment, jobs, and access to Codex that could shape local AI adoption and workforce development.",
-      "b": [
-        "Project Camellia is being announced in Effingham County, Georgia.",
-        "OpenAI commits to responsible energy use, community investment, job creation, and access to Codex as part of Camellia.",
-        "Codex access is included as part of the Camellia initiative to empower local developers and students.",
-        "This represents OpenAI’s ongoing community infrastructure efforts to bring AI tools and training to local contexts."
-      ],
-      "body": [
-        "OpenAI has announced Project Camellia in Effingham County, Georgia, as part of a community-focused AI infrastructure initiative.",
-        "The project includes commitments to responsible energy use, community investment, job creation, and access to Codex for local developers and students, reflecting OpenAI’s emphasis on sustainable and inclusive AI deployment.",
-        "Codex access is highlighted as a core component of Camellia, intended to enable local developers and learners to build AI-powered applications and tools.",
-        "OpenAI describes Camellia as part of its broader strategy to expand AI infrastructure and skills at the local level, signaling how AI tools and training can be integrated into communities beyond major tech hubs."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
-        }
-      ],
-      "srcTitles": [
-        "Building AI infrastructure with the Effingham County community"
       ]
     },
     {
