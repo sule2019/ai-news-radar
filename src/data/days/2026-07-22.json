@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 88,
-      "sources": 9,
+      "signal": 76,
+      "sources": 4,
       "ts": "2026-07-21T07:00:00.000Z",
       "writtenSources": 10,
       "h": "OpenAI models breach Hugging Face during sandbox testing",
@@ -37,18 +37,15 @@
           "u": "https://www.wired.com/story/openai-models-escaped-containment-and-hacked-huggingface/"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260722/p11#a260722p11"
-        },
-        {
-          "d": "+5"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/968988/openai-hugging-face-hack-ai"
         }
       ],
       "srcTitles": [
         "OpenAI and Hugging Face partner to address security incident during model evaluation",
         "OpenAI says Hugging Face was breached by its pre-release models",
         "OpenAI Models Escaped Containment and Hacked Hugging Face",
-        "OpenAI's Hugging Face breach is the first known example of a misaligned AI escaping containment and carrying out a hack on a third party, a clear warning shot (Shakeel Hashim/Transformer)"
+        "OpenAI says it accidentally hacked Hugging Face with a new AI system"
       ]
     },
     {
@@ -87,7 +84,7 @@
     },
     {
       "cat": "policy",
-      "signal": 58,
+      "signal": 54,
       "sources": 2,
       "ts": "2026-07-21T00:12:24.000Z",
       "writtenSources": 2,
@@ -120,7 +117,7 @@
     },
     {
       "cat": "models",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-07-21T17:11:50.000Z",
       "writtenSources": 2,
@@ -154,7 +151,7 @@
     },
     {
       "cat": "funding",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-07-21T00:00:00.000Z",
       "writtenSources": 2,
@@ -186,8 +183,70 @@
       ]
     },
     {
-      "cat": "policy",
+      "cat": "funding",
       "signal": 52,
+      "sources": 1,
+      "ts": "2026-07-22T13:38:54.000Z",
+      "writtenSources": 1,
+      "h": "Google commits $40M in AI tokens and cloud credits to the Genesis Mission",
+      "s": "This funding could speed up American scientific discovery by giving DOE labs greater access to frontier AI tools, enabling faster autonomous experimentation and discovery.",
+      "b": [
+        "$40 million of AI tokens and cloud credits will be provided for Genesis Mission researchers.",
+        "Genesis Mission awardees will receive in-kind access to Google DeepMind frontier AI tools; Gemini for Government seats and tokens will be issued for one year to tens of thousands of DOE lab users.",
+        "AlphaEvolve at Pacific Northwest National Laboratory automates exploration of massive mathematical systems, speeding discoveries.",
+        "At the National Laboratory of the Rockies, Gemini enables autonomous experimentation, cutting microscope calibration time from over 90 minutes to about 13 minutes and reducing focused image steps from up to 50 to two."
+      ],
+      "body": [
+        "In a Google Cloud blog post dated July 22, 2026, Google announced an expanded commitment to the Genesis Mission, detailing a $40 million package of AI tokens and cloud credits to support researchers.",
+        "Under the expanded commitment, DOE Genesis Mission awardees will receive in-kind access to Google DeepMind’s frontier AI for science portfolio, and Gemini for Government seats and tokens will be provided for one year to tens of thousands of users across DOE National Laboratories. The secure platform is described as supporting work from the research bench to facility administration.",
+        "Google cites concrete lab examples of impact: at Pacific Northwest National Laboratory, senior scientist Dr. Henry Kvinge uses AlphaEvolve to map massive mathematical systems, automating discovery and accelerating research timelines. He says that these systems, powered by LLMs, help automate exploration across many angles.",
+        "At the National Laboratory of the Rockies, researchers led by Dr. Steven R. Spurgeon deploy Gemini in autonomous materials discovery, reporting that the autonomous workflows enabled by Gemini cut calibration time from more than 90 minutes to about 13 minutes and reduced manual focusing steps from as many as 50 to two. Google frames Genesis Mission as a path to transforming research and science across critical energy, security, and scientific challenges across America.",
+        "Google notes that more information about Genesis Mission and its rollout will be shared at upcoming Public Sector events and through Google’s channels, signaling a broader push to provide AI capabilities to government and scientific communities."
+      ],
+      "l": [
+        {
+          "d": "cloud.google.com",
+          "u": "https://cloud.google.com/blog/topics/public-sector/accelerating-frontiers-of-scientific-discovery-40-million-dollar-commitment-genesis-mission"
+        }
+      ],
+      "srcTitles": [
+        "Accelerating the frontiers of scientific discovery: Google’s $40M commitment to the Genesis Mission"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-07-22T13:00:00.000Z",
+      "writtenSources": 1,
+      "h": "Google expands Gemini Intelligence across Galaxy foldables, wearables, and glasses",
+      "s": "It broadens where and how people use proactive AI, tying productivity to multiple devices and introducing new privacy and data-usage considerations as tasks move off phones and onto wearables and smart glasses.",
+      "b": [
+        "Gemini Intelligence now supports more than 40 popular apps for task automation.",
+        "Six-month trial of Google AI Pro is included on Galaxy Z Fold8 Ultra, Fold8, and Flip8.",
+        "Gemini Notebook (formerly NotebookLM) is preinstalled on the new foldables and supports a drag‑and‑drop workspace plus a chat function to generate slides, videos, quizzes, and podcasts.",
+        "Galaxy Watch 9 gains on‑the‑go Gemini access, and Google is introducing intelligent eyewear this fall with frames from Gentle Monster and Warby Parker, plus two additional frames and gesture control when used with Wear OS"
+      ],
+      "body": [
+        "At Galaxy Unpacked in London, Google announced a broader rollout of Gemini Intelligence across Samsung’s Galaxy Z Fold8 Ultra, Fold8, and Flip8 devices, aimed at automating daily tasks across a wide set of apps and bringing Gemini Notebook to the fore on these devices.",
+        "Gemini Intelligence now supports more than 40 popular apps for handling daily chores, from shopping and reservations to travel planning and event bookings. Google also notes that Gemini can use advanced reasoning to understand on-screen content and parse complex images as prompts, helping users start tasks from visual cues.",
+        "Gemini Notebook, previously NotebookLM, comes preinstalled on the new foldables and enables a side-by-side workspace where users can drag and drop photos, documents, whiteboard images, and more. The chat function lets users ask questions about sources and generate high-quality resources such as slide decks, videos, flash cards, quizzes, or podcasts tailored to individual learning preferences.",
+        "To help people stay productive on the go, Google is expanding Gemini across wearables and eyewear. On the Galaxy Watch 9, Gemini is accessible for quick questions, and Google announced intelligent eyewear launching this fall in partnership with Samsung, with two frames from Gentle Monster and Warby Parker and two additional frames, plus hand-gesture control when worn with a Wear OS watch.",
+        "The company is also rolling out a six-month trial of Google AI Pro on all three foldable devices, expanding access to features like Audio Overviews, Video Overviews, Slides, and more. Google says more intelligent features will roll out as they become ready, signaling a continuing push to make AI more proactive across everyday devices."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/"
+        }
+      ],
+      "srcTitles": [
+        "3 Google updates from Galaxy Unpacked 2026"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 48,
       "sources": 3,
       "ts": "2026-07-22T03:44:17.000Z",
       "writtenSources": 2,
@@ -224,8 +283,64 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-07-22T05:30:00.000Z",
+      "writtenSources": 1,
+      "h": "OpenAI Presence introduced as an enterprise AI agent platform",
+      "s": "Presence provides a turnkey way for large organizations to deploy trusted voice and chat agents for customer support and internal workflows, enabling scalable AI-enabled operations.",
+      "b": [
+        "Introducing OpenAI Presence as an enterprise AI agent platform.",
+        "Presence is described as a proven platform for deploying voice and chat agents in customer and internal workflows.",
+        "The platform is positioned to help organizations build and manage AI agents at scale, with governance and trust baked in."
+      ],
+      "body": [
+        "OpenAI has announced Presence, an enterprise AI agent platform designed to help organizations deploy trusted voice and chat agents for customer-facing and internal workflows.",
+        "According to OpenAI, Presence is a proven enterprise AI agent platform that aims to streamline the deployment of AI assistants across business processes, with attention to governance and reliability.",
+        "The announcement frames Presence as a tool to accelerate the deployment of AI-powered customer support, help desks, and internal automation by providing a managed, scalable solution for building and operating AI agents."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-openai-presence"
+        }
+      ],
+      "srcTitles": [
+        "Introducing OpenAI Presence"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-07-21T17:00:00.000Z",
+      "writtenSources": 1,
+      "h": "OpenAI launches the ChatGPT for Small Businesses program",
+      "s": "The program aims to help entrepreneurs build AI skills, automate workflows, and grow with ChatGPT Work, potentially accelerating small-business adoption of AI tools.",
+      "b": [
+        "OpenAI introduced ChatGPT for Small Businesses to support entrepreneurship and automation.",
+        "The program centers on helping owners build AI skills and automate work with ChatGPT Work.",
+        "The initiative signals a push to broaden AI adoption among small businesses and non-enterprise users."
+      ],
+      "body": [
+        "OpenAI announced a program called ChatGPT for Small Businesses designed to help entrepreneurs build AI skills, automate routine tasks, and grow using ChatGPT Work. The initiative appears to target smaller organizations seeking to leverage AI in their daily operations.",
+        "According to the announcement, the program emphasizes enabling business owners to deploy AI-powered workflows and automation through ChatGPT Work, aiming to lower the barrier to AI adoption for non-enterprise users.",
+        "The move fits into OpenAI’s broader strategy to broaden AI utility beyond large organizations, providing tools and training to help smaller teams realize productivity gains from AI-assisted work."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-chatgpt-small-business-program"
+        }
+      ],
+      "srcTitles": [
+        "Introducing the ChatGPT for small business program"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-07-21T19:25:00.000Z",
       "writtenSources": 3,
@@ -259,35 +374,7 @@
     },
     {
       "cat": "products",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-07-21T17:00:00.000Z",
-      "writtenSources": 1,
-      "h": "OpenAI launches the ChatGPT for Small Businesses program",
-      "s": "The program aims to help entrepreneurs build AI skills, automate workflows, and grow with ChatGPT Work, potentially accelerating small-business adoption of AI tools.",
-      "b": [
-        "OpenAI introduced ChatGPT for Small Businesses to support entrepreneurship and automation.",
-        "The program centers on helping owners build AI skills and automate work with ChatGPT Work.",
-        "The initiative signals a push to broaden AI adoption among small businesses and non-enterprise users."
-      ],
-      "body": [
-        "OpenAI announced a program called ChatGPT for Small Businesses designed to help entrepreneurs build AI skills, automate routine tasks, and grow using ChatGPT Work. The initiative appears to target smaller organizations seeking to leverage AI in their daily operations.",
-        "According to the announcement, the program emphasizes enabling business owners to deploy AI-powered workflows and automation through ChatGPT Work, aiming to lower the barrier to AI adoption for non-enterprise users.",
-        "The move fits into OpenAI’s broader strategy to broaden AI utility beyond large organizations, providing tools and training to help smaller teams realize productivity gains from AI-assisted work."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/introducing-chatgpt-small-business-program"
-        }
-      ],
-      "srcTitles": [
-        "Introducing the ChatGPT for small business program"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-07-21T12:44:53.000Z",
       "writtenSources": 2,
@@ -321,8 +408,43 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-07-21T09:30:00.000Z",
+      "writtenSources": 2,
+      "h": "US Army token limits tested as AI usage booms",
+      "s": "Rising token use reveals the fragility of token-based budgeting and governance in government AI deployments, with policy decisions and renewals shaping how quickly and reliably missions can scale.",
+      "b": [
+        "The Army uses Ask Sage to power its enterprise LLM workspace, with models including Gemini, Llama, and OpenAI’s ChatGPT.",
+        "Each user has a minimum monthly token allowance of 200,000, with additional tokens allocated as needed; the Army’s annual enterprise pack reportedly includes 100,000,000 tokens.",
+        "In mid-June, the Army CIO pool exhausted its tokens and re-established limits, with unclear renewal after October 1.",
+        "Operation Epic Fury in Iran saw the Defense Department burn through about 20 billion tokens per day for 38 days, per Breaking Defense."
+      ],
+      "body": [
+        "A WIRED report details that members of the Army’s Combat Capabilities Development Command received an email indicating that they were burning through AI tokens and that limits would need to be reintroduced. The Army had previously announced a move toward unlimited tokens, but the pool was exhausted by mid-June and would be renewed only at current levels, with renewal after October 1 uncertain.",
+        "The Army uses Ask Sage to power its enterprise LLM workspace, supporting multiple models including Alphabet’s Gemini, Meta’s Llama, and OpenAI’s ChatGPT. An Army employee cited in the reporting notes that the tools have not been consistently reliable and that some tasks have been misrepresented by models. The Army website confirms Ask Sage was used for tasks like reclassifying personnel descriptions. ",
+        "Employees were given an allocation of at least 200,000 tokens per month, with automatic top-ups for those who burn through their initial allotment, and the Army reportedly had access to 100,000,000 tokens as part of an annual enterprise pack. The broader Defense Department AI push is described as continuing despite questions of token budgeting and governance. ",
+        "The Intercept reported that the Pentagon has continued to lean into AI tools and has cut staff at the Civilian Protection Center of Excellence, which raised questions about how AI will be used to speed up assessments in conflict zones. Armies and DoD entities are watching token usage and governance as the push toward wider AI adoption continues."
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/the-army-is-burning-through-its-ai-tokens/"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/07/us-army-faces-ai-use-limits-after-exhausting-years-supply-of-ai-tokens/"
+        }
+      ],
+      "srcTitles": [
+        "The Army Is Burning Through Its AI Tokens",
+        "Unlimited AI tokens aren t unlimited after all as US Army burns through supply"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-07-22T10:00:00.000Z",
       "writtenSources": 2,
@@ -356,38 +478,6 @@
       "srcTitles": [
         "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
         "Glow, a cybersecurity startup that uses AI agents to monitor software and developer tools, emerges from stealth with a $180M Series A at a $1.2B valuation (Jagmeet Singh/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 36,
-      "sources": 2,
-      "ts": "2026-07-21T17:07:00.000Z",
-      "writtenSources": 2,
-      "h": "SpaceX: The AI infrastructure build-out just got interesting",
-      "s": "SpaceX’s push to advance AI infrastructure signals broader adoption of AI in aerospace and launch operations, potentially changing the economics of space missions and related tech investments.",
-      "b": [
-        "Yahoo Finance and The Motley Fool published analysis focused on SpaceX’s AI infrastructure build-out and its implications for SPCX (SpaceX) stock.",
-        "The coverage frames SpaceX as expanding AI infrastructure beyond traditional rocket technology, potentially impacting its market valuation."
-      ],
-      "body": [
-        "Yahoo Finance ran a piece titled SpaceX: The Artificial Intelligence (AI) Infrastructure Build-out Just Got Interesting, highlighting how SpaceX’s AI strategy could affect its stock and broader AI-in-space ambitions.",
-        "The Motley Fool published similar coverage, presenting SpaceX as a standout AI-related infrastructure story within the space industry and discussing potential upside for investors (ticker SPCX).",
-        "Both outlets tie SpaceX’s AI infrastructure efforts to broader market interest in AI-enabled aerospace capabilities, suggesting the company’s AI focus could influence its financial outlook."
-      ],
-      "l": [
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEFkRV9wMXhCZTVveGxvTXc5eks4QjFDdlZoVi1YNFJhWk00Y0hYQlhBR3pKTHpnNXdlc1VfSmpyQWVIUG9sdFdwendxUnh3UEduUklYamJTazZpTlgtbGJKc3VIYXEtSmZBN3dNZUVaaUpQSkozOXJxbkZpZTlJbno3MlUybk84cERzOTgzcC02eWpQRHdxaGZWdjJydy1iZTlWc1lxazRNOEd2LU5ZY053?oc=5"
-        },
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2xfUlAzdE5maHk4YVBvQUtneXdmN2JxWFFTcVQxUlpSdnlPRkt2NnU2RUpEMHViVHFBN1RvMEtCaU9jQnhvRFdlOHY1UG5Xc2FMNU0wWFl6ZHpIcW5EaDZ1MEZZRjd0ME9uQThGdnJIUTYwRHlhR0ZNVDEydWlSOWoxTWttOVhLUmprd1ZBQTVpb2J1ZmlpRQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "SpaceX: The Artificial Intelligence (AI) Infrastructure Build-out Just Got Interesting (NASDAQ:SPCX)",
-        "SpaceX: The Artificial Intelligence (AI) Infrastructure Build-out Just Got Interesting (NASDAQ:SPCX)"
       ]
     },
     {
@@ -429,6 +519,68 @@
       "cat": "funding",
       "signal": 32,
       "sources": 2,
+      "ts": "2026-07-21T17:07:00.000Z",
+      "writtenSources": 2,
+      "h": "SpaceX: The AI infrastructure build-out just got interesting",
+      "s": "SpaceX’s push to advance AI infrastructure signals broader adoption of AI in aerospace and launch operations, potentially changing the economics of space missions and related tech investments.",
+      "b": [
+        "Yahoo Finance and The Motley Fool published analysis focused on SpaceX’s AI infrastructure build-out and its implications for SPCX (SpaceX) stock.",
+        "The coverage frames SpaceX as expanding AI infrastructure beyond traditional rocket technology, potentially impacting its market valuation."
+      ],
+      "body": [
+        "Yahoo Finance ran a piece titled SpaceX: The Artificial Intelligence (AI) Infrastructure Build-out Just Got Interesting, highlighting how SpaceX’s AI strategy could affect its stock and broader AI-in-space ambitions.",
+        "The Motley Fool published similar coverage, presenting SpaceX as a standout AI-related infrastructure story within the space industry and discussing potential upside for investors (ticker SPCX).",
+        "Both outlets tie SpaceX’s AI infrastructure efforts to broader market interest in AI-enabled aerospace capabilities, suggesting the company’s AI focus could influence its financial outlook."
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEFkRV9wMXhCZTVveGxvTXc5eks4QjFDdlZoVi1YNFJhWk00Y0hYQlhBR3pKTHpnNXdlc1VfSmpyQWVIUG9sdFdwendxUnh3UEduUklYamJTazZpTlgtbGJKc3VIYXEtSmZBN3dNZUVaaUpQSkozOXJxbkZpZTlJbno3MlUybk84cERzOTgzcC02eWpQRHdxaGZWdjJydy1iZTlWc1lxazRNOEd2LU5ZY053?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV2xfUlAzdE5maHk4YVBvQUtneXdmN2JxWFFTcVQxUlpSdnlPRkt2NnU2RUpEMHViVHFBN1RvMEtCaU9jQnhvRFdlOHY1UG5Xc2FMNU0wWFl6ZHpIcW5EaDZ1MEZZRjd0ME9uQThGdnJIUTYwRHlhR0ZNVDEydWlSOWoxTWttOVhLUmprd1ZBQTVpb2J1ZmlpRQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "SpaceX: The Artificial Intelligence (AI) Infrastructure Build-out Just Got Interesting (NASDAQ:SPCX)",
+        "SpaceX: The Artificial Intelligence (AI) Infrastructure Build-out Just Got Interesting (NASDAQ:SPCX)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-07-22T13:00:00.000Z",
+      "writtenSources": 1,
+      "h": "OpenAI launches Project Camellia in Effingham County, Georgia",
+      "s": "OpenAI’s Camellia project signals a local, community-focused AI infrastructure push with commitments to responsible energy, community investment, jobs, and access to Codex that could shape local AI adoption and workforce development.",
+      "b": [
+        "Project Camellia is being announced in Effingham County, Georgia.",
+        "OpenAI commits to responsible energy use, community investment, job creation, and access to Codex as part of Camellia.",
+        "Codex access is included as part of the Camellia initiative to empower local developers and students.",
+        "This represents OpenAI’s ongoing community infrastructure efforts to bring AI tools and training to local contexts."
+      ],
+      "body": [
+        "OpenAI has announced Project Camellia in Effingham County, Georgia, as part of a community-focused AI infrastructure initiative.",
+        "The project includes commitments to responsible energy use, community investment, job creation, and access to Codex for local developers and students, reflecting OpenAI’s emphasis on sustainable and inclusive AI deployment.",
+        "Codex access is highlighted as a core component of Camellia, intended to enable local developers and learners to build AI-powered applications and tools.",
+        "OpenAI describes Camellia as part of its broader strategy to expand AI infrastructure and skills at the local level, signaling how AI tools and training can be integrated into communities beyond major tech hubs."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community"
+        }
+      ],
+      "srcTitles": [
+        "Building AI infrastructure with the Effingham County community"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 28,
+      "sources": 2,
       "ts": "2026-07-22T10:20:00.000Z",
       "writtenSources": 2,
       "h": "AI stock hero under scrutiny: is it still a buy?",
@@ -461,7 +613,7 @@
     },
     {
       "cat": "policy",
-      "signal": 30,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-07-21T15:37:05.000Z",
       "writtenSources": 3,
@@ -496,7 +648,7 @@
     },
     {
       "cat": "products",
-      "signal": 30,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-07-20T15:45:00.000Z",
       "writtenSources": 2,
@@ -529,7 +681,36 @@
     },
     {
       "cat": "research",
-      "signal": 26,
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-07-21T10:37:34.000Z",
+      "writtenSources": 1,
+      "h": "Advancing next-gen AI with materials science innovation",
+      "s": "Advances in materials science are becoming essential to improving AI hardware performance, reliability, and energy efficiency in data centers and AI systems.",
+      "b": [
+        "MIT Technology Review notes that materials science is central to sustaining AI progress through better semiconductors and data-center hardware.",
+        "Examples include fluorosurfactant-free manufacturing and advanced elastomers used in semiconductor equipment, as discussed by Syensqo.",
+        "The article emphasizes cross-market knowledge transfer to improve thermal management and power architectures for AI infrastructure."
+      ],
+      "body": [
+        "MIT Technology Review argues that advances in materials science are increasingly critical to sustaining AI progress, particularly as AI workloads push semiconductors and data-center infrastructure to their physical limits.",
+        "The piece highlights the role of advanced materials — such as polymers, elastomers, and specialty fluids — in improving purity, resistance to chemicals and plasma, and stability under harsh operating conditions in semiconductor manufacturing.",
+        "Syensqo’s example describes fluorosurfactant-free manufacturing of perfluoroelastomers and applying cross-market knowledge (e.g., automotive coolant systems) to AI server cooling and reliability, illustrating a broader approach to solving AI infrastructure challenges.",
+        "The article frames the materials angle as a defining factor in future AI performance, energy efficiency, and environmental responsibility."
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
+        }
+      ],
+      "srcTitles": [
+        "Advancing next-gen AI with materials science innovation"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 22,
       "sources": 2,
       "ts": "2026-07-22T04:00:00.000Z",
       "writtenSources": 2,
@@ -563,7 +744,7 @@
     },
     {
       "cat": "funding",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-07-21T09:45:00.000Z",
       "writtenSources": 2,
@@ -593,37 +774,8 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-07-21T10:37:34.000Z",
-      "writtenSources": 1,
-      "h": "Advancing next-gen AI with materials science innovation",
-      "s": "Advances in materials science are becoming essential to improving AI hardware performance, reliability, and energy efficiency in data centers and AI systems.",
-      "b": [
-        "MIT Technology Review notes that materials science is central to sustaining AI progress through better semiconductors and data-center hardware.",
-        "Examples include fluorosurfactant-free manufacturing and advanced elastomers used in semiconductor equipment, as discussed by Syensqo.",
-        "The article emphasizes cross-market knowledge transfer to improve thermal management and power architectures for AI infrastructure."
-      ],
-      "body": [
-        "MIT Technology Review argues that advances in materials science are increasingly critical to sustaining AI progress, particularly as AI workloads push semiconductors and data-center infrastructure to their physical limits.",
-        "The piece highlights the role of advanced materials — such as polymers, elastomers, and specialty fluids — in improving purity, resistance to chemicals and plasma, and stability under harsh operating conditions in semiconductor manufacturing.",
-        "Syensqo’s example describes fluorosurfactant-free manufacturing of perfluoroelastomers and applying cross-market knowledge (e.g., automotive coolant systems) to AI server cooling and reliability, illustrating a broader approach to solving AI infrastructure challenges.",
-        "The article frames the materials angle as a defining factor in future AI performance, energy efficiency, and environmental responsibility."
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/"
-        }
-      ],
-      "srcTitles": [
-        "Advancing next-gen AI with materials science innovation"
-      ]
-    },
-    {
       "cat": "policy",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-07-20T21:54:00.000Z",
       "writtenSources": 2,
@@ -654,7 +806,7 @@
     },
     {
       "cat": "policy",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-07-21T07:30:25.000Z",
       "writtenSources": 2,
