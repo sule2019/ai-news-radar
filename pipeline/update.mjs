@@ -536,10 +536,35 @@ async function main() {
   if (dupes.length > 0) console.log(`Removed ${dupes.length} duplicate stories:\n  ${dupes.join('\n  ')}`);
 
   // New clusters → new stories (no cap: the quality gate in keepCluster
-  // does the curation; the day's length reflects the news cycle)
+  // does the curation; the day's length reflects the news cycle).
+  // Two extra gates: RSS feeds keep carrying yesterday's articles, so a
+  // cluster only becomes a NEW story if (a) it actually broke today — earliest
+  // publish time after UTC midnight, minus a 2h grace window for stories
+  // breaking just before — and (b) it wasn't already covered on yesterday's
+  // page under different wording.
+  const dayStart = Date.parse(`${date}T00:00:00Z`) - 2 * 3600000;
+  const yDate = new Date(Date.parse(`${date}T00:00:00Z`) - 86400000).toISOString().slice(0, 10);
+  const yPath = join(ROOT, 'src', 'data', 'days', `${yDate}.json`);
+  const yesterdayStories = existsSync(yPath) ? JSON.parse(readFileSync(yPath, 'utf8')).stories : [];
+  let droppedOld = 0;
+  let droppedCovered = 0;
   const fresh = clusters
     .map((c, ci) => ({ c, ci }))
-    .filter(({ ci }) => !usedClusters.has(ci));
+    .filter(({ ci }) => !usedClusters.has(ci))
+    .filter(({ c }) => {
+      if (Math.min(...c.items.map((it) => it.published)) < dayStart) {
+        droppedOld++;
+        return false;
+      }
+      if (yesterdayStories.some((s) => storySim(c, s) > 0)) {
+        droppedCovered++;
+        return false;
+      }
+      return true;
+    });
+  if (droppedOld || droppedCovered) {
+    console.log(`Skipped ${droppedOld} clusters that broke before today, ${droppedCovered} already covered yesterday`);
+  }
 
   if (fresh.length > 0 || rewrites.length > 0) {
     console.log(`${fresh.length} new stories, ${rewrites.length} to enrich with grown coverage`);

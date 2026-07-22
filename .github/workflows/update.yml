@@ -2,7 +2,10 @@ name: Update and deploy
 
 on:
   schedule:
-    - cron: '23 * * * *' # hourly at :23 — off-peak minute; GitHub drops runs scheduled on the congested :00 slot
+    # GitHub's shared cron scheduler drops slots under load — two chances per
+    # hour on off-peak minutes; concurrency group makes overlaps queue safely
+    - cron: '23 * * * *'
+    - cron: '53 * * * *'
   workflow_dispatch: {} # allows manual runs from the GitHub UI
   push:
     branches: [main] # code changes deploy immediately too
