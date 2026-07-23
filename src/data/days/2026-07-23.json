@@ -3,47 +3,6 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 70,
-      "sources": 3,
-      "ts": "2026-07-23T19:00:00.000Z",
-      "writtenSources": 3,
-      "h": "Anthropic adds Opus and Sonnet to Claude voice mode with app integrations",
-      "s": "By enabling deeper problem-solving and cross-app actions, the update could shorten cycles for tasks like turning chats into pitches, drafting emails, and rescheduling meetings.",
-      "b": [
-        "Models available: Opus, Sonnet, and Haiku; Claude uses the last model touched in text chat and defaults to the fastest version.",
-        "Voice mode can tap into Gmail, Google Calendar, Slack, Canva, and Notion to perform tasks like updating meetings or drafting emails.",
-        "Languages supported in voice mode span English, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Portuguese (Brazilian), and Spanish.",
-        "Availability: beta across platforms; free users limited to Haiku with one connected app."
-      ],
-      "body": [
-        "Anthropic is expanding Claude's voice mode to include the Opus and Sonnet models, according to TechCrunch and The Verge. The feature was previously powered by Claude Haiku and is now available with three model options in beta across platforms, with Claude using the last model a user engaged with in text chat and defaulting to the fastest version of that model.",
-        "The company positions Sonnet and Opus as deeper models designed for hard problem-solving, capable of delivering more complex responses and taking action on user prompts. In practice, users can have voice conversations that slip into more involved tasks, including turning a chat into a one-page pitch or adjusting calendar appointments when plans change.",
-        "Anthropic also notes that Claude's voice mode can connect to external apps such as Gmail, Google Calendar, Slack, Canva, and Notion, enabling tasks like updating a meeting slot, drafting an email, or creating a document in Notion through voice commands. This marks a notable difference from OpenAI's voice mode, which has emphasized conversational style without tool integrations, according to TechCrunch.",
-        "Language support for voice mode has expanded beyond English. The Verge reports that languages available in voice mode now include French, German, Spanish, Hindi, Indonesian, Italian, Japanese, Korean, and Portuguese, with English included as part of the lineup. The Verge also notes a correction: the feature launched in 2025, not 2026.",
-        "On availability, the latest update is described as a beta across platforms, with free users restricted to Haiku and only one connected app. TechCrunch also notes that Anthropic has not announced changes to the underlying voice stack."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260723/p41#a260723p41"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic updates Claude voice mode with more capable models",
-        "Claude’s voice mode is now available for Opus and Sonnet",
-        "Anthropic makes its Opus and Sonnet models available in voice mode, and says voice mode can now tap into some connected apps like Gmail, Slack, and Notion (Ivan Mehta/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "products",
       "signal": 69,
       "sources": 3,
       "ts": "2026-07-23T00:00:00.000Z",
@@ -80,6 +39,47 @@
         "Launching Health in ChatGPT",
         "OpenAI makes ChatGPT Health available to all US users",
         "OpenAI is making big claims as it rolls out ChatGPT Health to everyone"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 66,
+      "sources": 3,
+      "ts": "2026-07-23T19:00:00.000Z",
+      "writtenSources": 3,
+      "h": "Anthropic adds Opus and Sonnet to Claude voice mode with app integrations",
+      "s": "By enabling deeper problem-solving and cross-app actions, the update could shorten cycles for tasks like turning chats into pitches, drafting emails, and rescheduling meetings.",
+      "b": [
+        "Models available: Opus, Sonnet, and Haiku; Claude uses the last model touched in text chat and defaults to the fastest version.",
+        "Voice mode can tap into Gmail, Google Calendar, Slack, Canva, and Notion to perform tasks like updating meetings or drafting emails.",
+        "Languages supported in voice mode span English, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Portuguese (Brazilian), and Spanish.",
+        "Availability: beta across platforms; free users limited to Haiku with one connected app."
+      ],
+      "body": [
+        "Anthropic is expanding Claude's voice mode to include the Opus and Sonnet models, according to TechCrunch and The Verge. The feature was previously powered by Claude Haiku and is now available with three model options in beta across platforms, with Claude using the last model a user engaged with in text chat and defaulting to the fastest version of that model.",
+        "The company positions Sonnet and Opus as deeper models designed for hard problem-solving, capable of delivering more complex responses and taking action on user prompts. In practice, users can have voice conversations that slip into more involved tasks, including turning a chat into a one-page pitch or adjusting calendar appointments when plans change.",
+        "Anthropic also notes that Claude's voice mode can connect to external apps such as Gmail, Google Calendar, Slack, Canva, and Notion, enabling tasks like updating a meeting slot, drafting an email, or creating a document in Notion through voice commands. This marks a notable difference from OpenAI's voice mode, which has emphasized conversational style without tool integrations, according to TechCrunch.",
+        "Language support for voice mode has expanded beyond English. The Verge reports that languages available in voice mode now include French, German, Spanish, Hindi, Indonesian, Italian, Japanese, Korean, and Portuguese, with English included as part of the lineup. The Verge also notes a correction: the feature launched in 2025, not 2026.",
+        "On availability, the latest update is described as a beta across platforms, with free users restricted to Haiku and only one connected app. TechCrunch also notes that Anthropic has not announced changes to the underlying voice stack."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260723/p41#a260723p41"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic updates Claude voice mode with more capable models",
+        "Claude’s voice mode is now available for Opus and Sonnet",
+        "Anthropic makes its Opus and Sonnet models available in voice mode, and says voice mode can now tap into some connected apps like Gmail, Slack, and Notion (Ivan Mehta/TechCrunch)"
       ]
     },
     {
@@ -193,8 +193,8 @@
     },
     {
       "cat": "research",
-      "signal": 54,
-      "sources": 4,
+      "signal": 52,
+      "sources": 3,
       "ts": "2026-07-23T04:00:00.000Z",
       "writtenSources": 4,
       "h": "AWS unveils Bedrock AgentCore optimization to detect silent agent failures",
@@ -219,10 +219,6 @@
           "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pS3JSemRUNExVQU5ZaTJuSXBoRlJlY25MbVN3cElTZlk2QXotSXViT0xPUUZ0YTFqMVc1a01hRUh4NzBrSFIweVJTcWJlbmt1czhnd0FMYw?oc=5"
         },
         {
-          "d": "wral.com",
-          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlNPNTg3QU5NSlVJYTZzU1pIYkhISFVQNUR2cjRFVGJ5dFN2cHBFaWlPRDI5TEJPQXNiNkU1aks4ZFZGRlZ5emZEem4weno3WVUzQ0E3UG5SQ0d4MmJNWFgtZHBkbC1jNHlvdjdqbFItN3JRZ1VfaHBEMjZiNThEV3J0RG9uOV9mODlvUG00MC1oblRvc2pITE43UzFNOFVhLTNMeERhNFlzWU1hZ2E0bTZkVjBPVXNremJ6MEo1OG8?oc=5"
-        },
-        {
           "d": "arxiv.org",
           "u": "https://arxiv.org/abs/2607.18243"
         }
@@ -230,14 +226,14 @@
       "srcTitles": [
         "Detecting silent agent failures with Amazon Bedrock AgentCore optimization",
         "Control Failure",
-        "AI models' breakout from human control brings a told-you-so moment for technology researchers",
-        "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI"
+        "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
+        "Integro-differential equations in angular stabilization of drone motion by distributed feedback control"
       ]
     },
     {
       "cat": "products",
-      "signal": 45,
-      "sources": 4,
+      "signal": 43,
+      "sources": 3,
       "ts": "2026-07-23T17:07:35.000Z",
       "writtenSources": 2,
       "h": "Runway launches AI model router for generative media",
@@ -262,10 +258,6 @@
           "u": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/"
         },
         {
-          "d": "dylancastillo.co",
-          "u": "https://dylancastillo.co/posts/pelicanmaxxing.html"
-        },
-        {
           "d": "simonwillison.net",
           "u": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything"
         },
@@ -277,13 +269,12 @@
       "srcTitles": [
         "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
         "Are AI labs pelicanmaxxing?",
-        "Are AI labs pelicanmaxxing?",
         "Germany's Black Forest Labs launches Flux 3 and Flux-mimic, its first models for robotics, as it expands from generative AI into physical AI (Yazhou Sun/Bloomberg)"
       ]
     },
     {
       "cat": "policy",
-      "signal": 40,
+      "signal": 37,
       "sources": 2,
       "ts": "2026-07-23T20:50:01.000Z",
       "writtenSources": 2,
@@ -318,8 +309,8 @@
     },
     {
       "cat": "policy",
-      "signal": 37,
-      "sources": 3,
+      "signal": 34,
+      "sources": 2,
       "ts": "2026-07-23T11:00:32.000Z",
       "writtenSources": 2,
       "h": "Lawmakers propose AI kill switch act giving DHS authority to shut down dangerous AI",
@@ -345,16 +336,11 @@
         {
           "d": "nextgov.com",
           "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzU5S1NvVFZ0OUY2TEgzRGNsUmRrQXhYWWZsM0ZoWnhmWE1uR3RnTVBaUGVXMG4xdVlGTUw1WEhvM0RsT2wtQmxDWnVQN1IwQ29SS3dPdDJpeVczdjZQR1pxTU1CaWVWTDZoNG92dFdkeDQ2UTNlQzBCTDROU0pyS0Y3Yy1TRlpIU2djY0lOS2d1c3dSdTJFV3pEd3lvWVROV3RBbHl6UmNlR3F4TjhnRFhTLWVIUkoyaEF2Z2NUMTk2VUZoVHBIMFBHYmt3WWRDdy1YbXNDalFycE1wMEE?oc=5"
-        },
-        {
-          "d": "tomshardware.com",
-          "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc2NFdXlET015WFMzVERsc0RrZF9CeFJNZ1B5TDVJZ3VITC1SU1R1UXVjUDZHQzdkTEZXaTNmZkxlQkVyNnVYM1dSeXQ3VG44TGloQXNGOXZnMlotSnJQLUtCUXM4NUl2MUNQd1FPUlNpV3ZkNkVOVXBROXpqSDdmT3BwX2dXUUxadmVfX0VHR05IMVJpQzg5aHlaUUR1Y0xMZFRURDRvWHZDRnRDZ1RrMFlSeGxJNWJkTXBBUHdSYVhQWVJ5OUUza2dhenNDMXEtZHR6SkxoR3A?oc=5"
         }
       ],
       "srcTitles": [
         "Lawmakers prepare bill requiring AI ‘kill switch’",
-        "Lawmakers introduce bill mandating kill switches for AI models",
-        "Kill switches for most powerful AI models proposed by Bipartisan bill — DHS could order throttling or full shutdown, with fines up to $20 million per day"
+        "Lawmakers introduce bill mandating kill switches for AI models"
       ]
     },
     {
@@ -426,7 +412,7 @@
     },
     {
       "cat": "policy",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-07-23T19:47:05.000Z",
       "writtenSources": 2,
@@ -454,41 +440,6 @@
       "srcTitles": [
         "Should Alabama students learn AI? Tuberville says yes.",
         "Should Alabama students learn AI? Tuberville says yes."
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 19,
-      "sources": 2,
-      "ts": "2026-07-23T15:00:00.000Z",
-      "writtenSources": 2,
-      "h": "Etched raises $300 million Series C at a $10.3 billion valuation",
-      "s": "The funding round signals strong investor appetite for AI inference hardware, but the company still faces scaling, manufacturing, and market adoption hurdles before mass production proves it can compete broadly.",
-      "b": [
-        "Etched closed a $300 million Series C led by Sequoia; other participants include Andreessen Horowitz, SK Hynix, Jane Street, and Diffusion Capital",
-        "Valuation post-money is $10.3 billion, up from $5 billion in December, making this the highest Sequoia-led Series C valuation at the time",
-        "The company has manufactured homegrown chips, tested full systems with clients, and reported about $1 billion of booked orders; headcount is around 400 and a 2 megawatt data center is in operation",
-        "Etched touts two new components to speed up AI inference: a prefill chip that runs at low voltage for higher efficiency and a cluster-scale memory interconnect to enable fast, low-latency multi-chip memory pools"
-      ],
-      "body": [
-        "Etched, the AI inference chip startup founded by three Harvard dropouts in 2022, has closed a $300 million Series C funding round at a $10.3 billion valuation, co-founder and COO Robert Wachen told TechCrunch. The round was led by Sequoia, with participation from Andreessen Horowitz, SK Hynix, Jane Street, and Diffusion Capital, among others. Earlier investors also joined the round, underscoring strong support from notable backers.",
-        "Etched was valued at $5 billion in December after a $500 million round, meaning the company has more than doubled its valuation in roughly seven months. Wachen says the round represents the highest valuation ever for a Sequoia-led Series C.",
-        "The startup has been building and testing homegrown chips and full rack systems with client pilots; Etched says it has already booked about $1 billion of orders and has a team of roughly 400 people operating out of a 2 megawatt data center. Founders Gavin Uberti, Wachen, and CTO Chris Zhu have described a path to mass production despite substantial skepticism since the company’s inception.",
-        "Etched is marketing an inference architecture built around two new components designed to speed up the two stages of inference: a low-voltage prefill chip that reduces heat and increases packing density, and a memory/interconnect design called cluster-scale memory that enables many chips to connect to a shared memory pool with very low latency. The systems are pitched as capable of running a range of AI models, including Mixture of Experts like DeepSeek and Qwen, as well as non-transformer designs like Mamba, rather than being limited to a single model family."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260723/p27#a260723p27"
-        }
-      ],
-      "srcTitles": [
-        "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-        "AI inference chip startup Etched raised a $300M Series C led by Sequoia at a $10.3B valuation, up from $5B in December; a16z, SK Hynix, and others also invested (Julie Bort/TechCrunch)"
       ]
     },
     {
@@ -521,6 +472,41 @@
       "srcTitles": [
         "Trump unveils plan to keep AI boom from raising your electric bill",
         "Trump unveils plan to keep AI boom from raising your electric bill"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-07-23T15:00:00.000Z",
+      "writtenSources": 2,
+      "h": "Etched raises $300 million Series C at a $10.3 billion valuation",
+      "s": "The funding round signals strong investor appetite for AI inference hardware, but the company still faces scaling, manufacturing, and market adoption hurdles before mass production proves it can compete broadly.",
+      "b": [
+        "Etched closed a $300 million Series C led by Sequoia; other participants include Andreessen Horowitz, SK Hynix, Jane Street, and Diffusion Capital",
+        "Valuation post-money is $10.3 billion, up from $5 billion in December, making this the highest Sequoia-led Series C valuation at the time",
+        "The company has manufactured homegrown chips, tested full systems with clients, and reported about $1 billion of booked orders; headcount is around 400 and a 2 megawatt data center is in operation",
+        "Etched touts two new components to speed up AI inference: a prefill chip that runs at low voltage for higher efficiency and a cluster-scale memory interconnect to enable fast, low-latency multi-chip memory pools"
+      ],
+      "body": [
+        "Etched, the AI inference chip startup founded by three Harvard dropouts in 2022, has closed a $300 million Series C funding round at a $10.3 billion valuation, co-founder and COO Robert Wachen told TechCrunch. The round was led by Sequoia, with participation from Andreessen Horowitz, SK Hynix, Jane Street, and Diffusion Capital, among others. Earlier investors also joined the round, underscoring strong support from notable backers.",
+        "Etched was valued at $5 billion in December after a $500 million round, meaning the company has more than doubled its valuation in roughly seven months. Wachen says the round represents the highest valuation ever for a Sequoia-led Series C.",
+        "The startup has been building and testing homegrown chips and full rack systems with client pilots; Etched says it has already booked about $1 billion of orders and has a team of roughly 400 people operating out of a 2 megawatt data center. Founders Gavin Uberti, Wachen, and CTO Chris Zhu have described a path to mass production despite substantial skepticism since the company’s inception.",
+        "Etched is marketing an inference architecture built around two new components designed to speed up the two stages of inference: a low-voltage prefill chip that reduces heat and increases packing density, and a memory/interconnect design called cluster-scale memory that enables many chips to connect to a shared memory pool with very low latency. The systems are pitched as capable of running a range of AI models, including Mixture of Experts like DeepSeek and Qwen, as well as non-transformer designs like Mamba, rather than being limited to a single model family."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260723/p27#a260723p27"
+        }
+      ],
+      "srcTitles": [
+        "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+        "AI inference chip startup Etched raised a $300M Series C led by Sequoia at a $10.3B valuation, up from $5B in December; a16z, SK Hynix, and others also invested (Julie Bort/TechCrunch)"
       ]
     },
     {
