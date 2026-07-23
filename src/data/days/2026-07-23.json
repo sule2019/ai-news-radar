@@ -2,8 +2,39 @@
   "date": "2026-07-23",
   "stories": [
     {
+      "cat": "research",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-07-23T12:00:00.000Z",
+      "writtenSources": 1,
+      "h": "AstraZeneca deploys AI to speed biologic drug design with a lab of the future in Cambridge",
+      "s": "If AI can cut discovery timelines by up to 50%, pharma pipelines could accelerate approvals, reshape budgeting, and bring therapies to patients faster.",
+      "b": [
+        "McKinsey estimates AI could cut drug discovery timelines by as much as 50%",
+        "AstraZeneca is building a 'lab of the future' in Kendall Square, Cambridge, Massachusetts",
+        "The approach follows a build-measure-learn loop with AI prioritizing designs and researchers testing top candidates",
+        "AstraZeneca’s datasets are proprietary and multimodal, including molecular structures, binding measurements, safety profiles, and manufacturing outcomes"
+      ],
+      "body": [
+        "MIT Technology Review reports that AI used to design drugs is moving beyond hype, with AstraZeneca actively expanding its AI-enabled biologics program to accelerate discovery timelines.",
+        "Puja Sapra, senior vice president and head of R&D biologics engineering and oncology targeted discovery at AstraZeneca, describes a workflow where AI generates or prioritizes candidate molecules and scientists then focus lab resources on the top-ranked designs, creating a tighter feedback loop and faster iteration.",
+        "The company is pursuing a multi-pronged strategy that includes new classes of medicines. Sapra says AI-driven models could help identify which targets to prioritize and then optimize across multiple parameters to balance a molecule’s potency, stability, manufacturability, and safety. She adds, “Drugging the undruggable is becoming a reality.”",
+        "McKinsey estimates that generative AI, combined with other computational tools, could cut drug discovery timelines by as much as 50%. Sapra emphasizes that data quality is a differentiator, noting AstraZeneca’s datasets are proprietary and multimodal, including molecular structures, binding measurements, safety profiles, and manufacturing outcomes.",
+        "To bring together data and experiments, AstraZeneca is building what it calls a “lab of the future” facility in Kendall Square, Cambridge, Massachusetts, where AI and robotic automation will form a continuous, closed-loop discovery system. Sapra explains that the system parallels the self-driving car analogy—“Where a self-driving car uses sensors and models to navigate its environment, this system uses AI to make predictions, robotic systems to execute experiments, and instruments to generate data.” Scientists will remain central to oversee outputs, ensuring explainability, tolerability, and patient-directed directions."
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
+        }
+      ],
+      "srcTitles": [
+        "How AI helps scientists design the next generation of medicines"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 31,
+      "signal": 27,
       "sources": 2,
       "ts": "2026-07-23T00:52:25.000Z",
       "writtenSources": 2,
