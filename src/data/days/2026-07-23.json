@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 39,
-      "sources": 2,
+      "signal": 65,
+      "sources": 3,
       "ts": "2026-07-23T11:00:32.000Z",
       "writtenSources": 2,
       "h": "Lawmakers propose AI kill switch act giving DHS authority to shut down dangerous AI",
@@ -30,11 +30,87 @@
         {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260723/p17#a260723p17"
+        },
+        {
+          "d": "washingtonexaminer.com",
+          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSy1WZWxvS2tmTnRzRE5jV1VZQ2RsT3RFWk1hWHpMM0xVcGhDY1AzOHU5dzZVcHdpOEY3US1fX24wQkprZ1JsZ09DdXI4UWp3aHA3RUFRdVdvN2xqODN2WUxiWnJlM0x1dS13MVZya3dieDE1dndTRWc0NEFPaHpOaEtHQXJ5Q0hIenkzRjlzVkRKd1JIc0k5ekFtYnZBSTFIZXJidWQ4X1hWOEY1dE9iQzBjSHNmWElVYmF3V0lnTEp1SWtpSlZaR0h6QQ?oc=5"
         }
       ],
       "srcTitles": [
         "Lawmakers prepare bill requiring AI ‘kill switch’",
-        "Bipartisan US House lawmakers introduce the AI Kill Switch Act, which would grant the DHS the authority to shut down or slow AI models that it deems dangerous (Politico)"
+        "Bipartisan US House lawmakers introduce the AI Kill Switch Act, which would grant the DHS the authority to shut down or slow AI models that it deems dangerous (Politico)",
+        "House AI 'Kill Switch' bill unveiled after OpenAI hack"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-07-22T22:01:52.000Z",
+      "writtenSources": 2,
+      "h": "Google Cloud revenue jumps 82% as AI investments pay off",
+      "s": "The cloud growth shows enterprise demand for AI is real, but investors will also watch whether the heavy infrastructure spend can translate into sustained profits as capex stays elevated and cash flow remains tight.",
+      "b": [
+        "Google Cloud revenue rose to $24.8 billion, up 82% year over year (TechCrunch), with prior quarter growth at 63% to $20 billion",
+        "Alphabet total revenue was $119.8 billion; Google Services revenue $94.5 billion; profit $112.1 billion; Gemini MAU 950 million",
+        "Cloud backlog climbed to $514 billion, signaling future revenue tied to ongoing enterprise AI deployments",
+        "Capex guidance for 2026 ranges from $180–$190 billion, with some estimates suggesting up to $205 billion; the company argues demand indicators remain strong; stock reaction included a drop after the update (Ars Technica)"
+      ],
+      "body": [
+        "Alphabet's latest earnings show Google Cloud revenue accelerating as AI-related enterprise demand powers the business. TechCrunch reports Google Cloud revenue reached $24.8 billion in the quarter, an 82% year-over-year increase, driven by enterprise AI adoption and cloud infrastructure demand.",
+        "Alphabet’s overall results also highlighted broad scale: total revenue of $119.8 billion and Google Services revenue of $94.5 billion, with net profit of $112.1 billion. The company noted that Gemini, its AI chatbot, attracted 950 million monthly active users, up from 750 million in Q4 2025.",
+        "Alphabet also pointed to a sprawling backlog for cloud deals, saying cloud contracting work awaiting revenue recognition stood at $514 billion. CEO Sundar Pichai reiterated that AI investments are redefining the business across divisions and that demand indicators remain strong.",
+        "Investors were warned that the spending pace is intense. Alphabet has projected 2026 capital expenditures between $180 billion and $190 billion, with some industry chatter that the figure could reach as high as $205 billion. The company argues that compute-capacity investments are necessary given long-term deals and healthier dynamics than a year ago, but the scale of AI infrastructure spending remains a pressure point.",
+        "The earnings narrative was put into a broader context by Ars Technica, which notes Google’s quarterly cash-flow picture was affected by the AI push: free cash flow was negative for the first time (approximately -$5.8 billion in Q2 2026) despite roughly $39.1 billion in operating cash flow. The stock responded by sliding about 4.5% as investors weighed the sustainability of such capex and the potential for AI investments to pay off later. The coverage also points to Gemini 3.5 Pro’s delayed release as part of the ongoing evaluation of competitive positioning in AI chips and models."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/google/2026/07/google-just-had-its-first-negative-cash-flow-quarter-ever-due-to-massive-ai-spending/"
+        }
+      ],
+      "srcTitles": [
+        "Google justifies its massive AI spending with a booming cloud business",
+        "Google just had its first negative cash flow quarter due to massive AI spending"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 42,
+      "sources": 2,
+      "ts": "2026-07-23T15:00:00.000Z",
+      "writtenSources": 2,
+      "h": "Etched raises $300 million Series C at a $10.3 billion valuation",
+      "s": "The funding round signals strong investor appetite for AI inference hardware, but the company still faces scaling, manufacturing, and market adoption hurdles before mass production proves it can compete broadly.",
+      "b": [
+        "Etched closed a $300 million Series C led by Sequoia; other participants include Andreessen Horowitz, SK Hynix, Jane Street, and Diffusion Capital",
+        "Valuation post-money is $10.3 billion, up from $5 billion in December, making this the highest Sequoia-led Series C valuation at the time",
+        "The company has manufactured homegrown chips, tested full systems with clients, and reported about $1 billion of booked orders; headcount is around 400 and a 2 megawatt data center is in operation",
+        "Etched touts two new components to speed up AI inference: a prefill chip that runs at low voltage for higher efficiency and a cluster-scale memory interconnect to enable fast, low-latency multi-chip memory pools"
+      ],
+      "body": [
+        "Etched, the AI inference chip startup founded by three Harvard dropouts in 2022, has closed a $300 million Series C funding round at a $10.3 billion valuation, co-founder and COO Robert Wachen told TechCrunch. The round was led by Sequoia, with participation from Andreessen Horowitz, SK Hynix, Jane Street, and Diffusion Capital, among others. Earlier investors also joined the round, underscoring strong support from notable backers.",
+        "Etched was valued at $5 billion in December after a $500 million round, meaning the company has more than doubled its valuation in roughly seven months. Wachen says the round represents the highest valuation ever for a Sequoia-led Series C.",
+        "The startup has been building and testing homegrown chips and full rack systems with client pilots; Etched says it has already booked about $1 billion of orders and has a team of roughly 400 people operating out of a 2 megawatt data center. Founders Gavin Uberti, Wachen, and CTO Chris Zhu have described a path to mass production despite substantial skepticism since the company’s inception.",
+        "Etched is marketing an inference architecture built around two new components designed to speed up the two stages of inference: a low-voltage prefill chip that reduces heat and increases packing density, and a memory/interconnect design called cluster-scale memory that enables many chips to connect to a shared memory pool with very low latency. The systems are pitched as capable of running a range of AI models, including Mixture of Experts like DeepSeek and Qwen, as well as non-transformer designs like Mamba, rather than being limited to a single model family."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260723/p27#a260723p27"
+        }
+      ],
+      "srcTitles": [
+        "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+        "AI inference chip startup Etched raised a $300M Series C led by Sequoia, with a16z, SK Hynix, others participating, at a $10.3B valuation, up from $5B in Dec. (Julie Bort/TechCrunch)"
       ]
     },
     {
@@ -106,7 +182,7 @@
     },
     {
       "cat": "policy",
-      "signal": 19,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-07-23T00:52:25.000Z",
       "writtenSources": 2,
