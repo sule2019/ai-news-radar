@@ -84,6 +84,45 @@
     },
     {
       "cat": "products",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-07-23T17:45:00.000Z",
+      "writtenSources": 2,
+      "h": "AMD unveils Helios AI rack-scale system",
+      "s": "If Helios ships on schedule and wins early customers, it could shift who dominates large-scale AI training and push Nvidia’s rack market share to contend with a new competitor.",
+      "b": [
+        "Helios is a rack-scale system AMD says is built to power the world’s largest AI labs and will be shipped later this year (TechCrunch)",
+        "Customers cited include OpenAI, Meta, Oracle, Anthropic, and Microsoft (TechCrunch)",
+        "Anthropic and AMD announced a strategic partnership to deploy up to two gigawatts of GPUs via Helios (TechCrunch)",
+        "Venice-X CPU announced for data centers with launch expected in 2027 (TechCrunch)",
+        "Microsoft CEO Satya Nadella said Microsoft would expand its Azure infrastructure with Helios (TechCrunch)",
+        "AMD claims Helios as the industry’s highest performance AI rack and that it will be deployed at gigawatt-scale (TechCrunch)",
+        "By 2030, AI accelerator market is projected to reach about $1.4 trillion, with GPUs making up the vast majority (TechCrunch)"
+      ],
+      "body": [
+        "At its Advancing AI conference in San Francisco, AMD unveiled its Helios AI rack-scale system, aiming to challenge Nvidia in the market for large-scale AI compute. TechCrunch notes the system is designed to power some of the world’s largest AI labs and will ship later this year, with a Sold-out audience in attendance at the company’s San Francisco event.",
+        "CEO Lisa Su described Helios as the tech industry’s highest performance AI rack, meant to train and run frontier models at massive scale. AMD said the system is aimed at gigawatt-scale deployments by leading AI companies. The narrative frames Helios as a counterweight to Nvidia’s Vera Rubin and Grace Blackwell rack-scale platforms, which have historically dominated this space (TechCrunch).",
+        " AMD highlighted a growing customer list already aligned with Helios, including OpenAI, Meta, Oracle, Anthropic, and Microsoft, with Microsoft signaling further Azure infrastructure expansion using the system. The partnership with Anthropic was framed as a deployment agreement for up to two gigawatts of GPUs via Helios (TechCrunch).",
+        "AMD also announced Venice-X, a data-center CPU intended to handle high-compute workloads, with a launch planned for 2027. The company has previously teased Helios since 2025 and showed it on stage at CES 2026 (TechCrunch).",
+        "In the broader market context, Su projected that by 2030 the AI accelerator market would reach about $1.4 trillion and that GPUs would comprise the vast majority of that market as workloads evolve and demand more programmable silicon (TechCrunch)."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260723/p55#a260723p55"
+        }
+      ],
+      "srcTitles": [
+        "AMD takes on Nvidia with its Helios AI rack-scale system",
+        "AMD is working with Cerebras to combine AMD Helios and Cerebras wafer-scale chips for an AI inference solution to make workloads faster; CBRS closed up 4.86% (Phoebe Liu/The Information)"
+      ]
+    },
+    {
+      "cat": "products",
       "signal": 58,
       "sources": 2,
       "ts": "2026-07-23T16:28:50.000Z",
@@ -153,48 +192,9 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 55,
-      "sources": 2,
-      "ts": "2026-07-23T17:45:00.000Z",
-      "writtenSources": 2,
-      "h": "AMD unveils Helios AI rack-scale system",
-      "s": "If Helios ships on schedule and wins early customers, it could shift who dominates large-scale AI training and push Nvidia’s rack market share to contend with a new competitor.",
-      "b": [
-        "Helios is a rack-scale system AMD says is built to power the world’s largest AI labs and will be shipped later this year (TechCrunch)",
-        "Customers cited include OpenAI, Meta, Oracle, Anthropic, and Microsoft (TechCrunch)",
-        "Anthropic and AMD announced a strategic partnership to deploy up to two gigawatts of GPUs via Helios (TechCrunch)",
-        "Venice-X CPU announced for data centers with launch expected in 2027 (TechCrunch)",
-        "Microsoft CEO Satya Nadella said Microsoft would expand its Azure infrastructure with Helios (TechCrunch)",
-        "AMD claims Helios as the industry’s highest performance AI rack and that it will be deployed at gigawatt-scale (TechCrunch)",
-        "By 2030, AI accelerator market is projected to reach about $1.4 trillion, with GPUs making up the vast majority (TechCrunch)"
-      ],
-      "body": [
-        "At its Advancing AI conference in San Francisco, AMD unveiled its Helios AI rack-scale system, aiming to challenge Nvidia in the market for large-scale AI compute. TechCrunch notes the system is designed to power some of the world’s largest AI labs and will ship later this year, with a Sold-out audience in attendance at the company’s San Francisco event.",
-        "CEO Lisa Su described Helios as the tech industry’s highest performance AI rack, meant to train and run frontier models at massive scale. AMD said the system is aimed at gigawatt-scale deployments by leading AI companies. The narrative frames Helios as a counterweight to Nvidia’s Vera Rubin and Grace Blackwell rack-scale platforms, which have historically dominated this space (TechCrunch).",
-        " AMD highlighted a growing customer list already aligned with Helios, including OpenAI, Meta, Oracle, Anthropic, and Microsoft, with Microsoft signaling further Azure infrastructure expansion using the system. The partnership with Anthropic was framed as a deployment agreement for up to two gigawatts of GPUs via Helios (TechCrunch).",
-        "AMD also announced Venice-X, a data-center CPU intended to handle high-compute workloads, with a launch planned for 2027. The company has previously teased Helios since 2025 and showed it on stage at CES 2026 (TechCrunch).",
-        "In the broader market context, Su projected that by 2030 the AI accelerator market would reach about $1.4 trillion and that GPUs would comprise the vast majority of that market as workloads evolve and demand more programmable silicon (TechCrunch)."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
-        },
-        {
-          "d": "tomshardware.com",
-          "u": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxONUR1LWxRN2NHcmxqZThsMHN6NmJOZmRDSjlZOExqYjl3Z3ZyWUVFa0dILXF1LVZ4SWN5Y1BvSEtMSU0yYlFMT3hlRTk3YWxMMERORWxHNWxuUHpoUE1BTEtaMVR1bFFJRWdybWF2S183M0UzQkJkR1ZLb0hYOXFUNkppNWNjNGFJUzcweWl4cTRQWDhBQ3hzUjJZS085MWRyd1l6X2xucUhfRjUzZlJFMGVkTUNnTW1lb25VMFkydEtVOU02WnNfbG5vTkE1b1ZEOGE2WDQ4UHVxMDVvcG1pR2dsbU1WNFA4TW4zbVkzLW14TnJMNXFiOF81TVpzeGd6RTE5R1ZyN1lWS0VGa1JkMHBETm1OVzZjYzFfdDlndmdQX0NyNnoxeGdSMnhaaUh0TTN2UkxJdU1TbG1qTWtWOXgwVVpxRDk2RzZYSHhSNHRheWhWVzFkTzdOZ05GQQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "AMD takes on Nvidia with its Helios AI rack-scale system",
-        "AMD and Cerebras partner on low-latency, high-throughput AI inference — EPYC processors in Helios rack-scale infrastructure paired with Cerebras' Wafer-Scale Engine (WSE) solutions"
-      ]
-    },
-    {
       "cat": "research",
-      "signal": 52,
-      "sources": 3,
+      "signal": 54,
+      "sources": 4,
       "ts": "2026-07-23T04:00:00.000Z",
       "writtenSources": 4,
       "h": "AWS unveils Bedrock AgentCore optimization to detect silent agent failures",
@@ -219,6 +219,10 @@
           "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pS3JSemRUNExVQU5ZaTJuSXBoRlJlY25MbVN3cElTZlk2QXotSXViT0xPUUZ0YTFqMVc1a01hRUh4NzBrSFIweVJTcWJlbmt1czhnd0FMYw?oc=5"
         },
         {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlNPNTg3QU5NSlVJYTZzU1pIYkhISFVQNUR2cjRFVGJ5dFN2cHBFaWlPRDI5TEJPQXNiNkU1aks4ZFZGRlZ5emZEem4weno3WVUzQ0E3UG5SQ0d4MmJNWFgtZHBkbC1jNHlvdjdqbFItN3JRZ1VfaHBEMjZiNThEV3J0RG9uOV9mODlvUG00MC1oblRvc2pITE43UzFNOFVhLTNMeERhNFlzWU1hZ2E0bTZkVjBPVXNremJ6MEo1OG8?oc=5"
+        },
+        {
           "d": "arxiv.org",
           "u": "https://arxiv.org/abs/2607.18243"
         }
@@ -226,8 +230,8 @@
       "srcTitles": [
         "Detecting silent agent failures with Amazon Bedrock AgentCore optimization",
         "Control Failure",
-        "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
-        "Integro-differential equations in angular stabilization of drone motion by distributed feedback control"
+        "AI models' breakout from human control brings a told-you-so moment for technology researchers",
+        "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI"
       ]
     },
     {
@@ -390,38 +394,6 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 25,
-      "sources": 2,
-      "ts": "2026-07-23T19:47:05.000Z",
-      "writtenSources": 2,
-      "h": "Tuberville says Alabama should teach AI in schools",
-      "s": "A political stance on AI education could influence whether AI literacy becomes a statewide curriculum priority and shape future workforce policies in Alabama.",
-      "b": [
-        "WBMA and mynBC15 both report the same headline: Should Alabama students learn AI? Tuberville says yes. (WBMA, mynBC15)",
-        "The articles present Tuberville’s stance as a direct endorsement for teaching AI in Alabama schools (coverage by two local outlets)"
-      ],
-      "body": [
-        "Two local outlets, WBMA and mynBC15, publish identical pieces with the headline Should Alabama students learn AI? Tuberville says yes. (WBMA; mynBC15).",
-        "The coverage presents a direct stance from U.S. Senator Tuberville advocating for AI education in Alabama, signaling a potential policy trajectory for integrating AI topics into state schooling. The articles do not detail curricula or implementation timelines beyond the stated position.",
-        "The shared framing across outlets suggests political momentum around AI literacy at the state level, though the coverage does not provide additional policy specifics or dates."
-      ],
-      "l": [
-        {
-          "d": "abc3340.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY2htSTRLWFp0cTFXdEVCd3FMd1pXNjR3eEdfVmIyQU5WUFFJVlhfbW14ZlhxRFFjLW4yenpNQ0tVVE1HX2VYN0xxSEJ0UW9wbVY3WmNBZm9zTjZKTHBYNjRFWF9GRjN3ZUlUMWowNFpTVU9SZncxZnA5V0sxcTlacFhDX1FfdEt5d212S2lZUXkzLWRTaWRwZF9mRFlrYjdKaFJz?oc=5"
-        },
-        {
-          "d": "mynbc15.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcWNJem5LZzNiaUhEbF94Q1BUb0ExYlh4YmR1Yl9FLVY4TTJ6R1RrS0dSYkg4T09wNFU2bm9nZVBkUlF0VmFpSGNiNU1aMnlSQmxnZnVDeE9wd0YxRTJHU0tfem53cGlOZUJoZTBoZ2c4VG95YmVNbnhCWEdPZm5MWGRWeHhaWjlldHN2SWxiZG1CNVBZT2pYUDF3VlJRUkVXQlV3?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Should Alabama students learn AI? Tuberville says yes.",
-        "Should Alabama students learn AI? Tuberville says yes."
-      ]
-    },
-    {
       "cat": "research",
       "signal": 24,
       "sources": 1,
@@ -453,8 +425,40 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 21,
+      "sources": 2,
+      "ts": "2026-07-23T19:47:05.000Z",
+      "writtenSources": 2,
+      "h": "Tuberville says Alabama should teach AI in schools",
+      "s": "A political stance on AI education could influence whether AI literacy becomes a statewide curriculum priority and shape future workforce policies in Alabama.",
+      "b": [
+        "WBMA and mynBC15 both report the same headline: Should Alabama students learn AI? Tuberville says yes. (WBMA, mynBC15)",
+        "The articles present Tuberville’s stance as a direct endorsement for teaching AI in Alabama schools (coverage by two local outlets)"
+      ],
+      "body": [
+        "Two local outlets, WBMA and mynBC15, publish identical pieces with the headline Should Alabama students learn AI? Tuberville says yes. (WBMA; mynBC15).",
+        "The coverage presents a direct stance from U.S. Senator Tuberville advocating for AI education in Alabama, signaling a potential policy trajectory for integrating AI topics into state schooling. The articles do not detail curricula or implementation timelines beyond the stated position.",
+        "The shared framing across outlets suggests political momentum around AI literacy at the state level, though the coverage does not provide additional policy specifics or dates."
+      ],
+      "l": [
+        {
+          "d": "abc3340.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY2htSTRLWFp0cTFXdEVCd3FMd1pXNjR3eEdfVmIyQU5WUFFJVlhfbW14ZlhxRFFjLW4yenpNQ0tVVE1HX2VYN0xxSEJ0UW9wbVY3WmNBZm9zTjZKTHBYNjRFWF9GRjN3ZUlUMWowNFpTVU9SZncxZnA5V0sxcTlacFhDX1FfdEt5d212S2lZUXkzLWRTaWRwZF9mRFlrYjdKaFJz?oc=5"
+        },
+        {
+          "d": "mynbc15.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcWNJem5LZzNiaUhEbF94Q1BUb0ExYlh4YmR1Yl9FLVY4TTJ6R1RrS0dSYkg4T09wNFU2bm9nZVBkUlF0VmFpSGNiNU1aMnlSQmxnZnVDeE9wd0YxRTJHU0tfem53cGlOZUJoZTBoZ2c4VG95YmVNbnhCWEdPZm5MWGRWeHhaWjlldHN2SWxiZG1CNVBZT2pYUDF3VlJRUkVXQlV3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Should Alabama students learn AI? Tuberville says yes.",
+        "Should Alabama students learn AI? Tuberville says yes."
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 23,
+      "signal": 19,
       "sources": 2,
       "ts": "2026-07-23T15:00:00.000Z",
       "writtenSources": 2,
@@ -489,7 +493,7 @@
     },
     {
       "cat": "policy",
-      "signal": 16,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-07-23T18:29:37.000Z",
       "writtenSources": 2,
