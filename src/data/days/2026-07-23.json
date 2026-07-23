@@ -2,8 +2,48 @@
   "date": "2026-07-23",
   "stories": [
     {
+      "cat": "products",
+      "signal": 69,
+      "sources": 3,
+      "ts": "2026-07-23T00:00:00.000Z",
+      "writtenSources": 3,
+      "h": "OpenAI rolls out ChatGPT Health to all U.S. users",
+      "s": "Expanding Health in ChatGPT to every eligible U.S. user widens access to AI-driven health guidance while bringing more personal health data into chat, raising privacy, safety, and regulatory considerations for AI in health.",
+      "b": [
+        "300 million health-related queries per week, up from about 230 million",
+        "Data connections include Epic and Oracle Health medical records, plus Apple Health, Function, One Medical, and MyFitnessPal",
+        "Rollout to all logged-in U.S. users 18+ across free, Go, Plus, and Pro on web and iOS this week",
+        "OpenAI says it does not use user data to train health models and works with physicians to improve health responses"
+      ],
+      "body": [
+        "OpenAI is expanding Health in ChatGPT to all logged-in U.S. users aged 18 and older across web and iOS on free, Go, Plus, and Pro plans, enabling eligible users to securely connect medical records and Apple Health to get more personalized insights.",
+        "TechCrunch reports that the expansion follows a testing phase carried out through a dedicated health hub that began earlier this year. The company has said health-related queries have grown from about 230 million per week to 300 million. Users can connect medical records from Epic and Oracle Health, and data from health apps and services such as Apple Health, Function, One Medical, and MyFitnessPal. TechCrunch notes that about 70% of health-related queries occurred outside the hub, and OpenAI says it does not use any user data to train its health models and works with physicians to improve health responses. The publication also notes that the service is not intended for diagnosis or treatment, per the terms. ",
+        "The Verge reports that OpenAI is rolling out ChatGPT Health to everyone in the United States on Thursday, with Ashley Alexander, OpenAI’s vice president of health product, stating the company’s models are “capable of reasoning at levels that are better than clinician level,” though health lead Karan Singhal tempered that claim and cited Harvard and Stanford studies. The Verge adds that the broader release comes after OpenAI launched a health-focused model, GPT-5.6 Sol, and that ChatGPT Health will run on the company’s latest models.",
+        "OpenAI outlines safety and data controls as part of the rollout. The Verge notes that, with this update, users can ask questions about their connected health data in the main chat experience, and that conversations are encrypted at rest and at transit with additional encryption protections for Health data. Users can review and change which health data they connect to ChatGPT, including post-visit notes, notes from care teams, lab results, and medications. OpenAI also reiterates that its health features are designed to augment professional care, not replace it."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/health-in-chatgpt"
+        },
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
+        }
+      ],
+      "srcTitles": [
+        "Launching Health in ChatGPT",
+        "OpenAI makes ChatGPT Health available to all U.S. users",
+        "OpenAI is making big claims as it rolls out ChatGPT Health to everyone"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 65,
+      "signal": 61,
       "sources": 3,
       "ts": "2026-07-23T11:00:32.000Z",
       "writtenSources": 2,
@@ -80,7 +120,7 @@
     },
     {
       "cat": "funding",
-      "signal": 42,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-07-23T15:00:00.000Z",
       "writtenSources": 2,
@@ -111,37 +151,6 @@
       "srcTitles": [
         "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
         "AI inference chip startup Etched raised a $300M Series C led by Sequoia, with a16z, SK Hynix, others participating, at a $10.3B valuation, up from $5B in Dec. (Julie Bort/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-07-23T12:00:00.000Z",
-      "writtenSources": 1,
-      "h": "AstraZeneca deploys AI to speed biologic drug design with a lab of the future in Cambridge",
-      "s": "If AI can cut discovery timelines by up to 50%, pharma pipelines could accelerate approvals, reshape budgeting, and bring therapies to patients faster.",
-      "b": [
-        "McKinsey estimates AI could cut drug discovery timelines by as much as 50%",
-        "AstraZeneca is building a 'lab of the future' in Kendall Square, Cambridge, Massachusetts",
-        "The approach follows a build-measure-learn loop with AI prioritizing designs and researchers testing top candidates",
-        "AstraZeneca’s datasets are proprietary and multimodal, including molecular structures, binding measurements, safety profiles, and manufacturing outcomes"
-      ],
-      "body": [
-        "MIT Technology Review reports that AI used to design drugs is moving beyond hype, with AstraZeneca actively expanding its AI-enabled biologics program to accelerate discovery timelines.",
-        "Puja Sapra, senior vice president and head of R&D biologics engineering and oncology targeted discovery at AstraZeneca, describes a workflow where AI generates or prioritizes candidate molecules and scientists then focus lab resources on the top-ranked designs, creating a tighter feedback loop and faster iteration.",
-        "The company is pursuing a multi-pronged strategy that includes new classes of medicines. Sapra says AI-driven models could help identify which targets to prioritize and then optimize across multiple parameters to balance a molecule’s potency, stability, manufacturability, and safety. She adds, “Drugging the undruggable is becoming a reality.”",
-        "McKinsey estimates that generative AI, combined with other computational tools, could cut drug discovery timelines by as much as 50%. Sapra emphasizes that data quality is a differentiator, noting AstraZeneca’s datasets are proprietary and multimodal, including molecular structures, binding measurements, safety profiles, and manufacturing outcomes.",
-        "To bring together data and experiments, AstraZeneca is building what it calls a “lab of the future” facility in Kendall Square, Cambridge, Massachusetts, where AI and robotic automation will form a continuous, closed-loop discovery system. Sapra explains that the system parallels the self-driving car analogy—“Where a self-driving car uses sensors and models to navigate its environment, this system uses AI to make predictions, robotic systems to execute experiments, and instruments to generate data.” Scientists will remain central to oversee outputs, ensuring explainability, tolerability, and patient-directed directions."
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
-        }
-      ],
-      "srcTitles": [
-        "How AI helps scientists design the next generation of medicines"
       ]
     },
     {
@@ -178,6 +187,37 @@
       "srcTitles": [
         "Global Studies Show Companies Use AI for Collaboration Not Automation",
         "Global Automation Atlas"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-07-23T12:00:00.000Z",
+      "writtenSources": 1,
+      "h": "AstraZeneca deploys AI to speed biologic drug design with a lab of the future in Cambridge",
+      "s": "If AI can cut discovery timelines by up to 50%, pharma pipelines could accelerate approvals, reshape budgeting, and bring therapies to patients faster.",
+      "b": [
+        "McKinsey estimates AI could cut drug discovery timelines by as much as 50%",
+        "AstraZeneca is building a 'lab of the future' in Kendall Square, Cambridge, Massachusetts",
+        "The approach follows a build-measure-learn loop with AI prioritizing designs and researchers testing top candidates",
+        "AstraZeneca’s datasets are proprietary and multimodal, including molecular structures, binding measurements, safety profiles, and manufacturing outcomes"
+      ],
+      "body": [
+        "MIT Technology Review reports that AI used to design drugs is moving beyond hype, with AstraZeneca actively expanding its AI-enabled biologics program to accelerate discovery timelines.",
+        "Puja Sapra, senior vice president and head of R&D biologics engineering and oncology targeted discovery at AstraZeneca, describes a workflow where AI generates or prioritizes candidate molecules and scientists then focus lab resources on the top-ranked designs, creating a tighter feedback loop and faster iteration.",
+        "The company is pursuing a multi-pronged strategy that includes new classes of medicines. Sapra says AI-driven models could help identify which targets to prioritize and then optimize across multiple parameters to balance a molecule’s potency, stability, manufacturability, and safety. She adds, “Drugging the undruggable is becoming a reality.”",
+        "McKinsey estimates that generative AI, combined with other computational tools, could cut drug discovery timelines by as much as 50%. Sapra emphasizes that data quality is a differentiator, noting AstraZeneca’s datasets are proprietary and multimodal, including molecular structures, binding measurements, safety profiles, and manufacturing outcomes.",
+        "To bring together data and experiments, AstraZeneca is building what it calls a “lab of the future” facility in Kendall Square, Cambridge, Massachusetts, where AI and robotic automation will form a continuous, closed-loop discovery system. Sapra explains that the system parallels the self-driving car analogy—“Where a self-driving car uses sensors and models to navigate its environment, this system uses AI to make predictions, robotic systems to execute experiments, and instruments to generate data.” Scientists will remain central to oversee outputs, ensuring explainability, tolerability, and patient-directed directions."
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
+        }
+      ],
+      "srcTitles": [
+        "How AI helps scientists design the next generation of medicines"
       ]
     },
     {
