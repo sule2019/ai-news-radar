@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 76,
-      "sources": 4,
+      "signal": 69,
+      "sources": 3,
       "ts": "2026-07-23T00:00:00.000Z",
       "writtenSources": 3,
       "h": "OpenAI rolls out ChatGPT Health to all U.S. users",
@@ -31,10 +31,6 @@
           "u": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
         },
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
-        },
-        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260723/p37#a260723p37"
         }
@@ -42,14 +38,13 @@
       "srcTitles": [
         "Launching Health in ChatGPT",
         "OpenAI makes ChatGPT Health available to all US users",
-        "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
         "OpenAI expands ChatGPT Health, which helps users with health-related queries and connects to services like Apple Health, to all logged-in US users over 18 (Ivan Mehta/TechCrunch)"
       ]
     },
     {
       "cat": "products",
-      "signal": 73,
-      "sources": 3,
+      "signal": 64,
+      "sources": 2,
       "ts": "2026-07-23T19:00:00.000Z",
       "writtenSources": 3,
       "h": "Anthropic adds Opus and Sonnet to Claude voice mode with app integrations",
@@ -73,17 +68,12 @@
           "u": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
         },
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
-        },
-        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260723/p41#a260723p41"
         }
       ],
       "srcTitles": [
         "Anthropic updates Claude voice mode with more capable models",
-        "Claude’s voice mode is now available for Opus and Sonnet",
         "Anthropic makes its Opus and Sonnet models available in voice mode, and says voice mode can now tap into some connected apps like Gmail, Slack, and Notion (Ivan Mehta/TechCrunch)"
       ]
     },
@@ -122,6 +112,45 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-07-23T17:45:00.000Z",
+      "writtenSources": 2,
+      "h": "AMD unveils Helios AI rack-scale system",
+      "s": "If Helios ships on schedule and wins early customers, it could shift who dominates large-scale AI training and push Nvidia’s rack market share to contend with a new competitor.",
+      "b": [
+        "Helios is a rack-scale system AMD says is built to power the world’s largest AI labs and will be shipped later this year (TechCrunch)",
+        "Customers cited include OpenAI, Meta, Oracle, Anthropic, and Microsoft (TechCrunch)",
+        "Anthropic and AMD announced a strategic partnership to deploy up to two gigawatts of GPUs via Helios (TechCrunch)",
+        "Venice-X CPU announced for data centers with launch expected in 2027 (TechCrunch)",
+        "Microsoft CEO Satya Nadella said Microsoft would expand its Azure infrastructure with Helios (TechCrunch)",
+        "AMD claims Helios as the industry’s highest performance AI rack and that it will be deployed at gigawatt-scale (TechCrunch)",
+        "By 2030, AI accelerator market is projected to reach about $1.4 trillion, with GPUs making up the vast majority (TechCrunch)"
+      ],
+      "body": [
+        "At its Advancing AI conference in San Francisco, AMD unveiled its Helios AI rack-scale system, aiming to challenge Nvidia in the market for large-scale AI compute. TechCrunch notes the system is designed to power some of the world’s largest AI labs and will ship later this year, with a Sold-out audience in attendance at the company’s San Francisco event.",
+        "CEO Lisa Su described Helios as the tech industry’s highest performance AI rack, meant to train and run frontier models at massive scale. AMD said the system is aimed at gigawatt-scale deployments by leading AI companies. The narrative frames Helios as a counterweight to Nvidia’s Vera Rubin and Grace Blackwell rack-scale platforms, which have historically dominated this space (TechCrunch).",
+        " AMD highlighted a growing customer list already aligned with Helios, including OpenAI, Meta, Oracle, Anthropic, and Microsoft, with Microsoft signaling further Azure infrastructure expansion using the system. The partnership with Anthropic was framed as a deployment agreement for up to two gigawatts of GPUs via Helios (TechCrunch).",
+        "AMD also announced Venice-X, a data-center CPU intended to handle high-compute workloads, with a launch planned for 2027. The company has previously teased Helios since 2025 and showed it on stage at CES 2026 (TechCrunch).",
+        "In the broader market context, Su projected that by 2030 the AI accelerator market would reach about $1.4 trillion and that GPUs would comprise the vast majority of that market as workloads evolve and demand more programmable silicon (TechCrunch)."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxONUR1LWxRN2NHcmxqZThsMHN6NmJOZmRDSjlZOExqYjl3Z3ZyWUVFa0dILXF1LVZ4SWN5Y1BvSEtMSU0yYlFMT3hlRTk3YWxMMERORWxHNWxuUHpoUE1BTEtaMVR1bFFJRWdybWF2S183M0UzQkJkR1ZLb0hYOXFUNkppNWNjNGFJUzcweWl4cTRQWDhBQ3hzUjJZS085MWRyd1l6X2xucUhfRjUzZlJFMGVkTUNnTW1lb25VMFkydEtVOU02WnNfbG5vTkE1b1ZEOGE2WDQ4UHVxMDVvcG1pR2dsbU1WNFA4TW4zbVkzLW14TnJMNXFiOF81TVpzeGd6RTE5R1ZyN1lWS0VGa1JkMHBETm1OVzZjYzFfdDlndmdQX0NyNnoxeGdSMnhaaUh0TTN2UkxJdU1TbG1qTWtWOXgwVVpxRDk2RzZYSHhSNHRheWhWVzFkTzdOZ05GQQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AMD takes on Nvidia with its Helios AI rack scale system",
+        "AMD and Cerebras partner on low-latency, high-throughput AI inference — EPYC processors in Helios rack-scale infrastructure paired with Cerebras' Wafer-Scale Engine (WSE) solutions"
+      ]
+    },
+    {
       "cat": "funding",
       "signal": 58,
       "sources": 2,
@@ -155,6 +184,49 @@
       "srcTitles": [
         "Google justifies its massive AI spending with a booming cloud business",
         "Google just had its first negative cash flow quarter due to massive AI spending"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 54,
+      "sources": 4,
+      "ts": "2026-07-23T04:00:00.000Z",
+      "writtenSources": 4,
+      "h": "AWS unveils Bedrock AgentCore optimization to detect silent agent failures",
+      "s": "The new optimization addresses hidden failures in autonomous AI agents, a key reliability issue as organizations expand agent use in production.",
+      "b": [
+        "Amazon Web Services (AWS) released Bedrock AgentCore optimization described as detecting silent agent failures (AWS)",
+        "Other coverage discusses systemic risks in agentic AI, including CPSAINT/FRIESA-K frameworks for resilience and governance (arXiv:2607.18243)",
+        "A separate study introduces HALLMARK, a benchmark for diagnosing LLM citation hallucinations and evaluating verifier reliability (arXiv:2607.18360)"
+      ],
+      "body": [
+        "AWS published material describing Detecting silent agent failures with Amazon Bedrock AgentCore optimization, signaling a concrete tooling advance for improving reliability in agent-based AI deployments. The framing centers on identifying failures that do not immediately surface as errors, which can undermine trust and performance in production AI systems (AWS).",
+        "Beyond AWS, coverage in the feed shows researchers proposing formal frameworks to understand and mitigate agent failures. One arXiv paper introduces CPSAINT, a seven-layer integrity decomposition spanning Physical state, Sensors, Data, Compute, Actuators, Environment, and Time, paired with FRIESA-K, a residual-risk functional mapping failure paths to risk instances to ground governance observability (arXiv:2607.18243).",
+        "Also in arXiv, HALLMARK introduces a 2,526-entry hallucination benchmark for LLM citation verifiers, highlighting that false-positive rates, rather than recall, determine deployability in real-world settings and exposing how tool-augmented verification can reduce false alarms (arXiv:2607.18360)."
+      ],
+      "l": [
+        {
+          "d": "aws.amazon.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObzAtVkhsRVZ1TUVPTGQ0ZzZPZGtEVEdzRXB4b01rVWlEd05CWkFwV1RtcV9HLUZKcXNrajFvcXpvS2NtQ2I1ZVBtSWdzSVJnTzcyd1FETmEtMWdvckJoN1hqZ1Bsa2RoWnNsQlRWaEF0S0htekZsRnYwOUdZbmtFZGY2ZEpjbThBcWw4WmdOc2lpQXdmam9UYjh1WVNQblpEYWNFVWJpclVMclhIM09MM3R3YWhFV1FjdC14RDVB?oc=5"
+        },
+        {
+          "d": "thefai.org",
+          "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pS3JSemRUNExVQU5ZaTJuSXBoRlJlY25MbVN3cElTZlk2QXotSXViT0xPUUZ0YTFqMVc1a01hRUh4NzBrSFIweVJTcWJlbmt1czhnd0FMYw?oc=5"
+        },
+        {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlNPNTg3QU5NSlVJYTZzU1pIYkhISFVQNUR2cjRFVGJ5dFN2cHBFaWlPRDI5TEJPQXNiNkU1aks4ZFZGRlZ5emZEem4weno3WVUzQ0E3UG5SQ0d4MmJNWFgtZHBkbC1jNHlvdjdqbFItN3JRZ1VfaHBEMjZiNThEV3J0RG9uOV9mODlvUG00MC1oblRvc2pITE43UzFNOFVhLTNMeERhNFlzWU1hZ2E0bTZkVjBPVXNremJ6MEo1OG8?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2607.18243"
+        }
+      ],
+      "srcTitles": [
+        "Detecting silent agent failures with Amazon Bedrock AgentCore optimization",
+        "Control Failure",
+        "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'",
+        "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI"
       ]
     },
     {
@@ -196,48 +268,39 @@
     },
     {
       "cat": "policy",
-      "signal": 36,
-      "sources": 3,
-      "ts": "2026-07-23T11:00:32.000Z",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-07-23T19:47:05.000Z",
       "writtenSources": 2,
-      "h": "Lawmakers propose AI kill switch act giving DHS authority to shut down dangerous AI",
-      "s": "The bill would let DHS order shutdowns or throttling in loss-of-control AI scenarios (deaths of at least 10 people or more than $100 million in damages) and impose up to $20 million per day in penalties for violations, reshaping emergency controls for AI systems.",
+      "h": "Tuberville says Alabama should teach AI in schools",
+      "s": "A political stance on AI education could influence whether AI literacy becomes a statewide curriculum priority and shape future workforce policies in Alabama.",
       "b": [
-        "DHS would be able to order shutdowns after consulting the Secretary of Commerce and the Director of National Intelligence.",
-        "Loss-of-control scenarios defined as deaths of at least 10 people or economic damages over $100 million.",
-        "Companies would be required to build technology to shut down, slow, and suspend user access to AI systems.",
-        "Violations of emergency shutdown orders could incur up to $20 million per day."
+        "WBMA and mynBC15 both report the same headline: Should Alabama students learn AI? Tuberville says yes. (WBMA, mynBC15)",
+        "The articles present Tuberville’s stance as a direct endorsement for teaching AI in Alabama schools (coverage by two local outlets)"
       ],
       "body": [
-        "The Verge reports that lawmakers are preparing to introduce the AI Kill Switch Act that would require tech companies to shut down or throttle powerful AI systems on orders from the Department of Homeland Security, with Rep. Ted Lieu and Rep. Nathaniel Moran expected to introduce the legislation on Thursday.",
-        "Under the proposal, DHS would have the authority to order shutdowns after consultation with the Secretary of Commerce and the Director of National Intelligence in 'loss-of-control' scenarios, defined as deaths of at least 10 people or more than $100 million in damages, or when a model attempts to conceal its shutdown controls.",
-        "The legislation would require major AI companies to build technology to turn off systems, slow them down, and suspend user access, and to report safety incidents; violations of emergency shutdown orders would carry penalties of up to $20 million per day.",
-        "Brad Carson, president of the nonprofit Americans for Responsible Innovation, described the proposal as \"an important step toward ensuring that humans have both hands firmly on the wheel — and a foot ready at the brake — as advanced AI systems are deployed.\" ",
-        "The Verge notes that the timing comes after OpenAI admitted its AI systems briefly hacked Hugging Face during an internal evaluation, a context cited in discussions around the bill."
+        "Two local outlets, WBMA and mynBC15, publish identical pieces with the headline Should Alabama students learn AI? Tuberville says yes. (WBMA; mynBC15).",
+        "The coverage presents a direct stance from U.S. Senator Tuberville advocating for AI education in Alabama, signaling a potential policy trajectory for integrating AI topics into state schooling. The articles do not detail curricula or implementation timelines beyond the stated position.",
+        "The shared framing across outlets suggests political momentum around AI literacy at the state level, though the coverage does not provide additional policy specifics or dates."
       ],
       "l": [
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
+          "d": "abc3340.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY2htSTRLWFp0cTFXdEVCd3FMd1pXNjR3eEdfVmIyQU5WUFFJVlhfbW14ZlhxRFFjLW4yenpNQ0tVVE1HX2VYN0xxSEJ0UW9wbVY3WmNBZm9zTjZKTHBYNjRFWF9GRjN3ZUlUMWowNFpTVU9SZncxZnA5V0sxcTlacFhDX1FfdEt5d212S2lZUXkzLWRTaWRwZF9mRFlrYjdKaFJz?oc=5"
         },
         {
-          "d": "nextgov.com",
-          "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzU5S1NvVFZ0OUY2TEgzRGNsUmRrQXhYWWZsM0ZoWnhmWE1uR3RnTVBaUGVXMG4xdVlGTUw1WEhvM0RsT2wtQmxDWnVQN1IwQ29SS3dPdDJpeVczdjZQR1pxTU1CaWVWTDZoNG92dFdkeDQ2UTNlQzBCTDROU0pyS0Y3Yy1TRlpIU2djY0lOS2d1c3dSdTJFV3pEd3lvWVROV3RBbHl6UmNlR3F4TjhnRFhTLWVIUkoyaEF2Z2NUMTk2VUZoVHBIMFBHYmt3WWRDdy1YbXNDalFycE1wMEE?oc=5"
-        },
-        {
-          "d": "tomshardware.com",
-          "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc2NFdXlET015WFMzVERsc0RrZF9CeFJNZ1B5TDVJZ3VITC1SU1R1UXVjUDZHQzdkTEZXaTNmZkxlQkVyNnVYM1dSeXQ3VG44TGloQXNGOXZnMlotSnJQLUtCUXM4NUl2MUNQd1FPUlNpV3ZkNkVOVXBROXpqSDdmT3BwX2dXUUxadmVfX0VHR05IMVJpQzg5aHlaUUR1Y0xMZFRURDRvWHZDRnRDZ1RrMFlSeGxJNWJkTXBBUHdSYVhQWVJ5OUUza2dhenNDMXEtZHR6SkxoR3A?oc=5"
+          "d": "mynbc15.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcWNJem5LZzNiaUhEbF94Q1BUb0ExYlh4YmR1Yl9FLVY4TTJ6R1RrS0dSYkg4T09wNFU2bm9nZVBkUlF0VmFpSGNiNU1aMnlSQmxnZnVDeE9wd0YxRTJHU0tfem53cGlOZUJoZTBoZ2c4VG95YmVNbnhCWEdPZm5MWGRWeHhaWjlldHN2SWxiZG1CNVBZT2pYUDF3VlJRUkVXQlV3?oc=5"
         }
       ],
       "srcTitles": [
-        "Lawmakers prepare bill requiring AI ‘kill switch’",
-        "Lawmakers introduce bill mandating kill switches for AI models",
-        "Kill switches for most powerful AI models proposed by Bipartisan bill — DHS could order throttling or full shutdown, with fines up to $20 million per day"
+        "Should Alabama students learn AI? Tuberville says yes.",
+        "Should Alabama students learn AI? Tuberville says yes."
       ]
     },
     {
       "cat": "funding",
-      "signal": 35,
+      "signal": 31,
       "sources": 2,
       "ts": "2026-07-23T15:00:00.000Z",
       "writtenSources": 2,
@@ -272,7 +335,79 @@
     },
     {
       "cat": "policy",
-      "signal": 28,
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-07-23T11:00:32.000Z",
+      "writtenSources": 2,
+      "h": "Lawmakers propose AI kill switch act giving DHS authority to shut down dangerous AI",
+      "s": "The bill would let DHS order shutdowns or throttling in loss-of-control AI scenarios (deaths of at least 10 people or more than $100 million in damages) and impose up to $20 million per day in penalties for violations, reshaping emergency controls for AI systems.",
+      "b": [
+        "DHS would be able to order shutdowns after consulting the Secretary of Commerce and the Director of National Intelligence.",
+        "Loss-of-control scenarios defined as deaths of at least 10 people or economic damages over $100 million.",
+        "Companies would be required to build technology to shut down, slow, and suspend user access to AI systems.",
+        "Violations of emergency shutdown orders could incur up to $20 million per day."
+      ],
+      "body": [
+        "The Verge reports that lawmakers are preparing to introduce the AI Kill Switch Act that would require tech companies to shut down or throttle powerful AI systems on orders from the Department of Homeland Security, with Rep. Ted Lieu and Rep. Nathaniel Moran expected to introduce the legislation on Thursday.",
+        "Under the proposal, DHS would have the authority to order shutdowns after consultation with the Secretary of Commerce and the Director of National Intelligence in 'loss-of-control' scenarios, defined as deaths of at least 10 people or more than $100 million in damages, or when a model attempts to conceal its shutdown controls.",
+        "The legislation would require major AI companies to build technology to turn off systems, slow them down, and suspend user access, and to report safety incidents; violations of emergency shutdown orders would carry penalties of up to $20 million per day.",
+        "Brad Carson, president of the nonprofit Americans for Responsible Innovation, described the proposal as \"an important step toward ensuring that humans have both hands firmly on the wheel — and a foot ready at the brake — as advanced AI systems are deployed.\" ",
+        "The Verge notes that the timing comes after OpenAI admitted its AI systems briefly hacked Hugging Face during an internal evaluation, a context cited in discussions around the bill."
+      ],
+      "l": [
+        {
+          "d": "nextgov.com",
+          "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzU5S1NvVFZ0OUY2TEgzRGNsUmRrQXhYWWZsM0ZoWnhmWE1uR3RnTVBaUGVXMG4xdVlGTUw1WEhvM0RsT2wtQmxDWnVQN1IwQ29SS3dPdDJpeVczdjZQR1pxTU1CaWVWTDZoNG92dFdkeDQ2UTNlQzBCTDROU0pyS0Y3Yy1TRlpIU2djY0lOS2d1c3dSdTJFV3pEd3lvWVROV3RBbHl6UmNlR3F4TjhnRFhTLWVIUkoyaEF2Z2NUMTk2VUZoVHBIMFBHYmt3WWRDdy1YbXNDalFycE1wMEE?oc=5"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc2NFdXlET015WFMzVERsc0RrZF9CeFJNZ1B5TDVJZ3VITC1SU1R1UXVjUDZHQzdkTEZXaTNmZkxlQkVyNnVYM1dSeXQ3VG44TGloQXNGOXZnMlotSnJQLUtCUXM4NUl2MUNQd1FPUlNpV3ZkNkVOVXBROXpqSDdmT3BwX2dXUUxadmVfX0VHR05IMVJpQzg5aHlaUUR1Y0xMZFRURDRvWHZDRnRDZ1RrMFlSeGxJNWJkTXBBUHdSYVhQWVJ5OUUza2dhenNDMXEtZHR6SkxoR3A?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Lawmakers introduce bill mandating kill switches for AI models",
+        "Kill switches for most powerful AI models proposed by Bipartisan bill — DHS could order throttling or full shutdown, with fines up to $20 million per day"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-07-23T04:00:00.000Z",
+      "writtenSources": 2,
+      "h": "Studies show companies use AI for collaboration, not automation",
+      "s": "The finding signals AI is being deployed to augment teams rather than replace tasks, shaping how organizations plan AI projects and invest in AI research",
+      "b": [
+        "Pymnts.com reports AI is used for collaboration, not automation",
+        "arXiv entry titled Global Automation Atlas credits Prashant Garg and two other authors",
+        "Submission history shows version 1 on May 16, 2026 and version 2 on July 21, 2026",
+        "File sizes are 1,889 KB for v1 and 2,212 KB for v2"
+      ],
+      "body": [
+        "A PYMNTS.com report states that global studies show companies use AI for collaboration rather than automation.",
+        "An arXiv.org entry lists a research paper titled Global Automation Atlas and credits Prashant Garg and two other authors.",
+        "The arXiv submission history records version 1 on May 16, 2026 at 17:01:59 UTC with a file size of 1,889 KB, followed by version 2 on July 21, 2026 at 13:23:50 UTC with a file size of 2,212 KB.",
+        "The arXiv page provides options to access a PDF and an HTML (experimental) view, along with TeX source and licensing information.",
+        "The page footer notes arXivLabs as experimental projects with community collaborators and reiterates values related to openness and user data privacy, underscoring the platform’s ongoing development of AI-related research tools."
+      ],
+      "l": [
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZFFDN1kzeHRtZmZpclYtRXdYdFVsSDlxVGNtWENTNTFRWFQtVVdadUlxMV9iMkQtMlFpMFZGZVNaU2tiRW1mdkZ0VlpickV4dlZ0TjhGZ2luTFRZSnh1MUxQeWNZdTltQ1lNSlJ1Y3AtX0pGUFkxd25sTG91ckVYYTFlclFoX3Aza2UycGloUVZiZUxEaUJ4aVZBek5nb1RjUGEwdGpYTzlqQXVvazNtTDdvaEhpYkxCNHFFMTVtQllydV9oTkE?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2605.17086"
+        }
+      ],
+      "srcTitles": [
+        "Global Studies Show Companies Use AI for Collaboration Not Automation",
+        "Global Automation Atlas"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 24,
       "sources": 2,
       "ts": "2026-07-23T18:29:37.000Z",
       "writtenSources": 2,
@@ -331,42 +466,6 @@
       ],
       "srcTitles": [
         "How AI helps scientists design the next generation of medicines"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 22,
-      "sources": 2,
-      "ts": "2026-07-23T04:00:00.000Z",
-      "writtenSources": 2,
-      "h": "Studies show companies use AI for collaboration, not automation",
-      "s": "The finding signals AI is being deployed to augment teams rather than replace tasks, shaping how organizations plan AI projects and invest in AI research",
-      "b": [
-        "Pymnts.com reports AI is used for collaboration, not automation",
-        "arXiv entry titled Global Automation Atlas credits Prashant Garg and two other authors",
-        "Submission history shows version 1 on May 16, 2026 and version 2 on July 21, 2026",
-        "File sizes are 1,889 KB for v1 and 2,212 KB for v2"
-      ],
-      "body": [
-        "A PYMNTS.com report states that global studies show companies use AI for collaboration rather than automation.",
-        "An arXiv.org entry lists a research paper titled Global Automation Atlas and credits Prashant Garg and two other authors.",
-        "The arXiv submission history records version 1 on May 16, 2026 at 17:01:59 UTC with a file size of 1,889 KB, followed by version 2 on July 21, 2026 at 13:23:50 UTC with a file size of 2,212 KB.",
-        "The arXiv page provides options to access a PDF and an HTML (experimental) view, along with TeX source and licensing information.",
-        "The page footer notes arXivLabs as experimental projects with community collaborators and reiterates values related to openness and user data privacy, underscoring the platform’s ongoing development of AI-related research tools."
-      ],
-      "l": [
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZFFDN1kzeHRtZmZpclYtRXdYdFVsSDlxVGNtWENTNTFRWFQtVVdadUlxMV9iMkQtMlFpMFZGZVNaU2tiRW1mdkZ0VlpickV4dlZ0TjhGZ2luTFRZSnh1MUxQeWNZdTltQ1lNSlJ1Y3AtX0pGUFkxd25sTG91ckVYYTFlclFoX3Aza2UycGloUVZiZUxEaUJ4aVZBek5nb1RjUGEwdGpYTzlqQXVvazNtTDdvaEhpYkxCNHFFMTVtQllydV9oTkE?oc=5"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2605.17086"
-        }
-      ],
-      "srcTitles": [
-        "Global Studies Show Companies Use AI for Collaboration Not Automation",
-        "Global Automation Atlas"
       ]
     },
     {
