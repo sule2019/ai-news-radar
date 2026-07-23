@@ -34,7 +34,7 @@
       ],
       "srcTitles": [
         "Lawmakers prepare bill requiring AI ‘kill switch’",
-        "Bipartisan House lawmakers introduce the AI Kill Switch Act, which would grant the US DHS authority to shut down or throttle AI models that it deems dangerous (Politico)"
+        "Bipartisan US House lawmakers introduce the AI Kill Switch Act, which would grant the DHS the authority to shut down or slow AI models that it deems dangerous (Politico)"
       ]
     },
     {
@@ -69,8 +69,44 @@
       ]
     },
     {
+      "cat": "research",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-07-23T04:00:00.000Z",
+      "writtenSources": 2,
+      "h": "Studies show companies use AI for collaboration, not automation",
+      "s": "The finding signals AI is being deployed to augment teams rather than replace tasks, shaping how organizations plan AI projects and invest in AI research",
+      "b": [
+        "Pymnts.com reports AI is used for collaboration, not automation",
+        "arXiv entry titled Global Automation Atlas credits Prashant Garg and two other authors",
+        "Submission history shows version 1 on May 16, 2026 and version 2 on July 21, 2026",
+        "File sizes are 1,889 KB for v1 and 2,212 KB for v2"
+      ],
+      "body": [
+        "A PYMNTS.com report states that global studies show companies use AI for collaboration rather than automation.",
+        "An arXiv.org entry lists a research paper titled Global Automation Atlas and credits Prashant Garg and two other authors.",
+        "The arXiv submission history records version 1 on May 16, 2026 at 17:01:59 UTC with a file size of 1,889 KB, followed by version 2 on July 21, 2026 at 13:23:50 UTC with a file size of 2,212 KB.",
+        "The arXiv page provides options to access a PDF and an HTML (experimental) view, along with TeX source and licensing information.",
+        "The page footer notes arXivLabs as experimental projects with community collaborators and reiterates values related to openness and user data privacy, underscoring the platform’s ongoing development of AI-related research tools."
+      ],
+      "l": [
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZFFDN1kzeHRtZmZpclYtRXdYdFVsSDlxVGNtWENTNTFRWFQtVVdadUlxMV9iMkQtMlFpMFZGZVNaU2tiRW1mdkZ0VlpickV4dlZ0TjhGZ2luTFRZSnh1MUxQeWNZdTltQ1lNSlJ1Y3AtX0pGUFkxd25sTG91ckVYYTFlclFoX3Aza2UycGloUVZiZUxEaUJ4aVZBek5nb1RjUGEwdGpYTzlqQXVvazNtTDdvaEhpYkxCNHFFMTVtQllydV9oTkE?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2605.17086"
+        }
+      ],
+      "srcTitles": [
+        "Global Studies Show Companies Use AI for Collaboration Not Automation",
+        "Global Automation Atlas"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 23,
+      "signal": 19,
       "sources": 2,
       "ts": "2026-07-23T00:52:25.000Z",
       "writtenSources": 2,
