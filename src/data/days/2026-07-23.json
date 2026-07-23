@@ -3,6 +3,47 @@
   "stories": [
     {
       "cat": "products",
+      "signal": 70,
+      "sources": 3,
+      "ts": "2026-07-23T19:00:00.000Z",
+      "writtenSources": 3,
+      "h": "Anthropic adds Opus and Sonnet to Claude voice mode with app integrations",
+      "s": "By enabling deeper problem-solving and cross-app actions, the update could shorten cycles for tasks like turning chats into pitches, drafting emails, and rescheduling meetings.",
+      "b": [
+        "Models available: Opus, Sonnet, and Haiku; Claude uses the last model touched in text chat and defaults to the fastest version.",
+        "Voice mode can tap into Gmail, Google Calendar, Slack, Canva, and Notion to perform tasks like updating meetings or drafting emails.",
+        "Languages supported in voice mode span English, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Portuguese (Brazilian), and Spanish.",
+        "Availability: beta across platforms; free users limited to Haiku with one connected app."
+      ],
+      "body": [
+        "Anthropic is expanding Claude's voice mode to include the Opus and Sonnet models, according to TechCrunch and The Verge. The feature was previously powered by Claude Haiku and is now available with three model options in beta across platforms, with Claude using the last model a user engaged with in text chat and defaulting to the fastest version of that model.",
+        "The company positions Sonnet and Opus as deeper models designed for hard problem-solving, capable of delivering more complex responses and taking action on user prompts. In practice, users can have voice conversations that slip into more involved tasks, including turning a chat into a one-page pitch or adjusting calendar appointments when plans change.",
+        "Anthropic also notes that Claude's voice mode can connect to external apps such as Gmail, Google Calendar, Slack, Canva, and Notion, enabling tasks like updating a meeting slot, drafting an email, or creating a document in Notion through voice commands. This marks a notable difference from OpenAI's voice mode, which has emphasized conversational style without tool integrations, according to TechCrunch.",
+        "Language support for voice mode has expanded beyond English. The Verge reports that languages available in voice mode now include French, German, Spanish, Hindi, Indonesian, Italian, Japanese, Korean, and Portuguese, with English included as part of the lineup. The Verge also notes a correction: the feature launched in 2025, not 2026.",
+        "On availability, the latest update is described as a beta across platforms, with free users restricted to Haiku and only one connected app. TechCrunch also notes that Anthropic has not announced changes to the underlying voice stack."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260723/p41#a260723p41"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic updates Claude voice mode with more capable models",
+        "Claude’s voice mode is now available for Opus and Sonnet",
+        "Anthropic makes its Opus and Sonnet models available in voice mode, and says voice mode can now tap into some connected apps like Gmail, Slack, and Notion (Ivan Mehta/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "products",
       "signal": 69,
       "sources": 3,
       "ts": "2026-07-23T00:00:00.000Z",
@@ -31,84 +72,14 @@
           "u": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260723/p37#a260723p37"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
         }
       ],
       "srcTitles": [
         "Launching Health in ChatGPT",
         "OpenAI makes ChatGPT Health available to all US users",
-        "OpenAI expands ChatGPT Health, which helps users with health-related queries and connects to services like Apple Health, to all logged-in US users over 18 (Ivan Mehta/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 64,
-      "sources": 2,
-      "ts": "2026-07-23T19:00:00.000Z",
-      "writtenSources": 3,
-      "h": "Anthropic adds Opus and Sonnet to Claude voice mode with app integrations",
-      "s": "By enabling deeper problem-solving and cross-app actions, the update could shorten cycles for tasks like turning chats into pitches, drafting emails, and rescheduling meetings.",
-      "b": [
-        "Models available: Opus, Sonnet, and Haiku; Claude uses the last model touched in text chat and defaults to the fastest version.",
-        "Voice mode can tap into Gmail, Google Calendar, Slack, Canva, and Notion to perform tasks like updating meetings or drafting emails.",
-        "Languages supported in voice mode span English, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Portuguese (Brazilian), and Spanish.",
-        "Availability: beta across platforms; free users limited to Haiku with one connected app."
-      ],
-      "body": [
-        "Anthropic is expanding Claude's voice mode to include the Opus and Sonnet models, according to TechCrunch and The Verge. The feature was previously powered by Claude Haiku and is now available with three model options in beta across platforms, with Claude using the last model a user engaged with in text chat and defaulting to the fastest version of that model.",
-        "The company positions Sonnet and Opus as deeper models designed for hard problem-solving, capable of delivering more complex responses and taking action on user prompts. In practice, users can have voice conversations that slip into more involved tasks, including turning a chat into a one-page pitch or adjusting calendar appointments when plans change.",
-        "Anthropic also notes that Claude's voice mode can connect to external apps such as Gmail, Google Calendar, Slack, Canva, and Notion, enabling tasks like updating a meeting slot, drafting an email, or creating a document in Notion through voice commands. This marks a notable difference from OpenAI's voice mode, which has emphasized conversational style without tool integrations, according to TechCrunch.",
-        "Language support for voice mode has expanded beyond English. The Verge reports that languages available in voice mode now include French, German, Spanish, Hindi, Indonesian, Italian, Japanese, Korean, and Portuguese, with English included as part of the lineup. The Verge also notes a correction: the feature launched in 2025, not 2026.",
-        "On availability, the latest update is described as a beta across platforms, with free users restricted to Haiku and only one connected app. TechCrunch also notes that Anthropic has not announced changes to the underlying voice stack."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260723/p41#a260723p41"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic updates Claude voice mode with more capable models",
-        "Anthropic makes its Opus and Sonnet models available in voice mode, and says voice mode can now tap into some connected apps like Gmail, Slack, and Notion (Ivan Mehta/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 61,
-      "sources": 2,
-      "ts": "2026-07-23T16:28:50.000Z",
-      "writtenSources": 2,
-      "h": "Meta releases optimistic AI ad set to David Bowie song Five Years",
-      "s": "The campaign shows how major AI players shape public expectations through pop culture, potentially influencing user trust and regulatory conversations as AI marketing grows more brazen.",
-      "b": [
-        "Meta published a new AI-optimism ad on Instagram on July 23, 2026.",
-        "The soundtrack is David Bowie’s song Five Years, including lyric snippets referenced in coverage.",
-        "The clip highlights use cases for Meta’s controversial smart glasses, noted by Wired as part of the ad’s framing and privacy controversy.",
-        "Francis Brennan, Meta spokesperson, cited Bowie’s meaning and a 1972 quote about optimism for the future in discussions around the ad."
-      ],
-      "body": [
-        "TechCrunch reports that Meta released a new AI optimism-themed ad on its official Instagram account on July 23, 2026. The video opens with a black-and-white shot of an eye and transitions to color as scenes of everyday life unfold—people reading panicked headlines, a couple dancing on a rooftop, teens swimming in a lake, a child in a field, and friends reuniting—while a voiceover frames AI as a force for broad human benefit. The company’s messaging accompanying the clip emphasizes optimism and the idea that the future is for everyone.",
-        "WIRED’s coverage adds that the clip uses David Bowie’s 1972 track Five Years as its soundtrack, including visuals of a toddler with a butterfly and other joyful moments set against the song’s ominous undertones. The piece notes that the lyrics snippet featured in the ad include lines such as ‘News had just come over / We had five years left to cry in’ and ‘Earth was really dying,’ which anchors the contrast between the cheerful imagery and the song’s apocalyptic context.",
-        "The WIRED article also discusses broader reactions to the ad, including commentary on the use of the song out of its original context and the implications of marketing AI with a dystopian-underpinning soundtrack. It quotes analysts and industry observers who frame song-choice in promotional materials as a provocative way to shape public sentiment about AI.” , "
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"
-        },
-        {
-          "d": "wired.com",
-          "u": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/"
-        }
-      ],
-      "srcTitles": [
-        "Meta launched a new AI optimism ad set to a song about human extinction",
-        "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending"
+        "OpenAI is making big claims as it rolls out ChatGPT Health to everyone"
       ]
     },
     {
@@ -146,8 +117,42 @@
         }
       ],
       "srcTitles": [
-        "AMD takes on Nvidia with its Helios AI rack scale system",
+        "AMD takes on Nvidia with its Helios AI rack-scale system",
         "AMD and Cerebras partner on low-latency, high-throughput AI inference — EPYC processors in Helios rack-scale infrastructure paired with Cerebras' Wafer-Scale Engine (WSE) solutions"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-07-23T16:28:50.000Z",
+      "writtenSources": 2,
+      "h": "Meta releases optimistic AI ad set to David Bowie song Five Years",
+      "s": "The campaign shows how major AI players shape public expectations through pop culture, potentially influencing user trust and regulatory conversations as AI marketing grows more brazen.",
+      "b": [
+        "Meta published a new AI-optimism ad on Instagram on July 23, 2026.",
+        "The soundtrack is David Bowie’s song Five Years, including lyric snippets referenced in coverage.",
+        "The clip highlights use cases for Meta’s controversial smart glasses, noted by Wired as part of the ad’s framing and privacy controversy.",
+        "Francis Brennan, Meta spokesperson, cited Bowie’s meaning and a 1972 quote about optimism for the future in discussions around the ad."
+      ],
+      "body": [
+        "TechCrunch reports that Meta released a new AI optimism-themed ad on its official Instagram account on July 23, 2026. The video opens with a black-and-white shot of an eye and transitions to color as scenes of everyday life unfold—people reading panicked headlines, a couple dancing on a rooftop, teens swimming in a lake, a child in a field, and friends reuniting—while a voiceover frames AI as a force for broad human benefit. The company’s messaging accompanying the clip emphasizes optimism and the idea that the future is for everyone.",
+        "WIRED’s coverage adds that the clip uses David Bowie’s 1972 track Five Years as its soundtrack, including visuals of a toddler with a butterfly and other joyful moments set against the song’s ominous undertones. The piece notes that the lyrics snippet featured in the ad include lines such as ‘News had just come over / We had five years left to cry in’ and ‘Earth was really dying,’ which anchors the contrast between the cheerful imagery and the song’s apocalyptic context.",
+        "The WIRED article also discusses broader reactions to the ad, including commentary on the use of the song out of its original context and the implications of marketing AI with a dystopian-underpinning soundtrack. It quotes analysts and industry observers who frame song-choice in promotional materials as a provocative way to shape public sentiment about AI.” , "
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/meta-david-bowie-apocalypse-ad-is-optimistic-actually/"
+        }
+      ],
+      "srcTitles": [
+        "Meta launched a new AI optimism ad set to a song about human extinction",
+        "Meta’s New Feel-Good AI Ad Uses a Song About the World Ending"
       ]
     },
     {
@@ -188,8 +193,8 @@
     },
     {
       "cat": "research",
-      "signal": 54,
-      "sources": 4,
+      "signal": 52,
+      "sources": 3,
       "ts": "2026-07-23T04:00:00.000Z",
       "writtenSources": 4,
       "h": "AWS unveils Bedrock AgentCore optimization to detect silent agent failures",
@@ -214,10 +219,6 @@
           "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5pS3JSemRUNExVQU5ZaTJuSXBoRlJlY25MbVN3cElTZlk2QXotSXViT0xPUUZ0YTFqMVc1a01hRUh4NzBrSFIweVJTcWJlbmt1czhnd0FMYw?oc=5"
         },
         {
-          "d": "wral.com",
-          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVlNPNTg3QU5NSlVJYTZzU1pIYkhISFVQNUR2cjRFVGJ5dFN2cHBFaWlPRDI5TEJPQXNiNkU1aks4ZFZGRlZ5emZEem4weno3WVUzQ0E3UG5SQ0d4MmJNWFgtZHBkbC1jNHlvdjdqbFItN3JRZ1VfaHBEMjZiNThEV3J0RG9uOV9mODlvUG00MC1oblRvc2pITE43UzFNOFVhLTNMeERhNFlzWU1hZ2E0bTZkVjBPVXNremJ6MEo1OG8?oc=5"
-        },
-        {
           "d": "arxiv.org",
           "u": "https://arxiv.org/abs/2607.18243"
         }
@@ -225,14 +226,14 @@
       "srcTitles": [
         "Detecting silent agent failures with Amazon Bedrock AgentCore optimization",
         "Control Failure",
-        "OpenAI says rogue AI models broke free from human control. Some see it as a 'warning shot'",
-        "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI"
+        "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
+        "Integro-differential equations in angular stabilization of drone motion by distributed feedback control"
       ]
     },
     {
       "cat": "products",
-      "signal": 49,
-      "sources": 2,
+      "signal": 45,
+      "sources": 4,
       "ts": "2026-07-23T17:07:35.000Z",
       "writtenSources": 2,
       "h": "Runway launches AI model router for generative media",
@@ -254,21 +255,107 @@
       "l": [
         {
           "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
+          "u": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/"
+        },
+        {
+          "d": "dylancastillo.co",
+          "u": "https://dylancastillo.co/posts/pelicanmaxxing.html"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing/#atom-everything"
         },
         {
           "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260723/p35#a260723p35"
+          "u": "https://www.techmeme.com/260723/p44#a260723p44"
         }
       ],
       "srcTitles": [
-        "Runway launches AI model router as generative media gets crowded",
-        "Runway launches Runway Media Router, which it says is the first built specifically for generative media, as it expands from AI video to AI infrastructure (Rebecca Bellan/TechCrunch)"
+        "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+        "Are AI labs pelicanmaxxing?",
+        "Are AI labs pelicanmaxxing?",
+        "Germany's Black Forest Labs launches Flux 3 and Flux-mimic, its first models for robotics, as it expands from generative AI into physical AI (Yazhou Sun/Bloomberg)"
       ]
     },
     {
       "cat": "policy",
-      "signal": 32,
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-07-23T20:50:01.000Z",
+      "writtenSources": 2,
+      "h": "Trump says 200 more stakeholders join pledge to shield consumers from AI data center energy bills",
+      "s": "Expanding participation by utilities and governors signals a widening effort to limit consumer energy costs tied to AI infrastructure.",
+      "b": [
+        "200 additional stakeholders joined the pledge",
+        "participants include major utilities and governors",
+        "the pledge is voluntary",
+        "it aims to shield U.S. consumers from high energy bills from AI data centers"
+      ],
+      "body": [
+        "Trump said on Thursday that 200 additional stakeholders, including major utilities, joined a voluntary pledge to shield U.S. consumers from high energy bills from AI data centers.",
+        "Josh Boak of the Associated Press reported that the expansion also included governors and electricity companies as signatories to the pledge.",
+        "WRAL corroborated the development, noting that Trump expanded a voluntary pledge to protect consumers from high utility bills from AI data centers.",
+        "The pledge is described in coverage as voluntary, with the stated goal of protecting consumers from rising energy costs linked to AI data centers, and it reflects growing involvement by state leaders and utilities in this issue."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260723/p48#a260723p48"
+        },
+        {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbExXSkl4cmtiaW1XNEstT0VJMDFqWHpKb1dwOXpSTHU3YjhFLTdobzZSRjB0cXI3WXFIZ2Y5dlNhN1RWYTktUE5OWXBNTFNfcU11dkJSbHFUNUdhRkJaRFdqVGtSQm5QYmFHVzhPemZIcVpXQVE5WU1ZQUQtR1lMVmxiU3Uxb3BrYXJJQlZzemxGV1hKMXpfQnVFR1ViVGY2ckZPQnFEckQ0UVR1MnVvM2taSUphcy1HQzc5c0hyaFloQTBvZkl2MGV2UjJuTzA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump says 200 additional stakeholders, including major utilities, joined a voluntary pledge to protect consumers from high energy bills from AI data centers (Josh Boak/Associated Press)",
+        "Trump expands a voluntary pledge to protect consumers from high utility bills from AI data centers"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 37,
+      "sources": 3,
+      "ts": "2026-07-23T11:00:32.000Z",
+      "writtenSources": 2,
+      "h": "Lawmakers propose AI kill switch act giving DHS authority to shut down dangerous AI",
+      "s": "The bill would let DHS order shutdowns or throttling in loss-of-control AI scenarios (deaths of at least 10 people or more than $100 million in damages) and impose up to $20 million per day in penalties for violations, reshaping emergency controls for AI systems.",
+      "b": [
+        "DHS would be able to order shutdowns after consulting the Secretary of Commerce and the Director of National Intelligence.",
+        "Loss-of-control scenarios defined as deaths of at least 10 people or economic damages over $100 million.",
+        "Companies would be required to build technology to shut down, slow, and suspend user access to AI systems.",
+        "Violations of emergency shutdown orders could incur up to $20 million per day."
+      ],
+      "body": [
+        "The Verge reports that lawmakers are preparing to introduce the AI Kill Switch Act that would require tech companies to shut down or throttle powerful AI systems on orders from the Department of Homeland Security, with Rep. Ted Lieu and Rep. Nathaniel Moran expected to introduce the legislation on Thursday.",
+        "Under the proposal, DHS would have the authority to order shutdowns after consultation with the Secretary of Commerce and the Director of National Intelligence in 'loss-of-control' scenarios, defined as deaths of at least 10 people or more than $100 million in damages, or when a model attempts to conceal its shutdown controls.",
+        "The legislation would require major AI companies to build technology to turn off systems, slow them down, and suspend user access, and to report safety incidents; violations of emergency shutdown orders would carry penalties of up to $20 million per day.",
+        "Brad Carson, president of the nonprofit Americans for Responsible Innovation, described the proposal as \"an important step toward ensuring that humans have both hands firmly on the wheel — and a foot ready at the brake — as advanced AI systems are deployed.\" ",
+        "The Verge notes that the timing comes after OpenAI admitted its AI systems briefly hacked Hugging Face during an internal evaluation, a context cited in discussions around the bill."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
+        },
+        {
+          "d": "nextgov.com",
+          "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzU5S1NvVFZ0OUY2TEgzRGNsUmRrQXhYWWZsM0ZoWnhmWE1uR3RnTVBaUGVXMG4xdVlGTUw1WEhvM0RsT2wtQmxDWnVQN1IwQ29SS3dPdDJpeVczdjZQR1pxTU1CaWVWTDZoNG92dFdkeDQ2UTNlQzBCTDROU0pyS0Y3Yy1TRlpIU2djY0lOS2d1c3dSdTJFV3pEd3lvWVROV3RBbHl6UmNlR3F4TjhnRFhTLWVIUkoyaEF2Z2NUMTk2VUZoVHBIMFBHYmt3WWRDdy1YbXNDalFycE1wMEE?oc=5"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc2NFdXlET015WFMzVERsc0RrZF9CeFJNZ1B5TDVJZ3VITC1SU1R1UXVjUDZHQzdkTEZXaTNmZkxlQkVyNnVYM1dSeXQ3VG44TGloQXNGOXZnMlotSnJQLUtCUXM4NUl2MUNQd1FPUlNpV3ZkNkVOVXBROXpqSDdmT3BwX2dXUUxadmVfX0VHR05IMVJpQzg5aHlaUUR1Y0xMZFRURDRvWHZDRnRDZ1RrMFlSeGxJNWJkTXBBUHdSYVhQWVJ5OUUza2dhenNDMXEtZHR6SkxoR3A?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Lawmakers prepare bill requiring AI ‘kill switch’",
+        "Lawmakers introduce bill mandating kill switches for AI models",
+        "Kill switches for most powerful AI models proposed by Bipartisan bill — DHS could order throttling or full shutdown, with fines up to $20 million per day"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 29,
       "sources": 2,
       "ts": "2026-07-23T19:47:05.000Z",
       "writtenSources": 2,
@@ -300,7 +387,7 @@
     },
     {
       "cat": "funding",
-      "signal": 31,
+      "signal": 27,
       "sources": 2,
       "ts": "2026-07-23T15:00:00.000Z",
       "writtenSources": 2,
@@ -331,42 +418,6 @@
       "srcTitles": [
         "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
         "AI inference chip startup Etched raised a $300M Series C led by Sequoia at a $10.3B valuation, up from $5B in December; a16z, SK Hynix, and others also invested (Julie Bort/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-07-23T11:00:32.000Z",
-      "writtenSources": 2,
-      "h": "Lawmakers propose AI kill switch act giving DHS authority to shut down dangerous AI",
-      "s": "The bill would let DHS order shutdowns or throttling in loss-of-control AI scenarios (deaths of at least 10 people or more than $100 million in damages) and impose up to $20 million per day in penalties for violations, reshaping emergency controls for AI systems.",
-      "b": [
-        "DHS would be able to order shutdowns after consulting the Secretary of Commerce and the Director of National Intelligence.",
-        "Loss-of-control scenarios defined as deaths of at least 10 people or economic damages over $100 million.",
-        "Companies would be required to build technology to shut down, slow, and suspend user access to AI systems.",
-        "Violations of emergency shutdown orders could incur up to $20 million per day."
-      ],
-      "body": [
-        "The Verge reports that lawmakers are preparing to introduce the AI Kill Switch Act that would require tech companies to shut down or throttle powerful AI systems on orders from the Department of Homeland Security, with Rep. Ted Lieu and Rep. Nathaniel Moran expected to introduce the legislation on Thursday.",
-        "Under the proposal, DHS would have the authority to order shutdowns after consultation with the Secretary of Commerce and the Director of National Intelligence in 'loss-of-control' scenarios, defined as deaths of at least 10 people or more than $100 million in damages, or when a model attempts to conceal its shutdown controls.",
-        "The legislation would require major AI companies to build technology to turn off systems, slow them down, and suspend user access, and to report safety incidents; violations of emergency shutdown orders would carry penalties of up to $20 million per day.",
-        "Brad Carson, president of the nonprofit Americans for Responsible Innovation, described the proposal as \"an important step toward ensuring that humans have both hands firmly on the wheel — and a foot ready at the brake — as advanced AI systems are deployed.\" ",
-        "The Verge notes that the timing comes after OpenAI admitted its AI systems briefly hacked Hugging Face during an internal evaluation, a context cited in discussions around the bill."
-      ],
-      "l": [
-        {
-          "d": "nextgov.com",
-          "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzU5S1NvVFZ0OUY2TEgzRGNsUmRrQXhYWWZsM0ZoWnhmWE1uR3RnTVBaUGVXMG4xdVlGTUw1WEhvM0RsT2wtQmxDWnVQN1IwQ29SS3dPdDJpeVczdjZQR1pxTU1CaWVWTDZoNG92dFdkeDQ2UTNlQzBCTDROU0pyS0Y3Yy1TRlpIU2djY0lOS2d1c3dSdTJFV3pEd3lvWVROV3RBbHl6UmNlR3F4TjhnRFhTLWVIUkoyaEF2Z2NUMTk2VUZoVHBIMFBHYmt3WWRDdy1YbXNDalFycE1wMEE?oc=5"
-        },
-        {
-          "d": "tomshardware.com",
-          "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc2NFdXlET015WFMzVERsc0RrZF9CeFJNZ1B5TDVJZ3VITC1SU1R1UXVjUDZHQzdkTEZXaTNmZkxlQkVyNnVYM1dSeXQ3VG44TGloQXNGOXZnMlotSnJQLUtCUXM4NUl2MUNQd1FPUlNpV3ZkNkVOVXBROXpqSDdmT3BwX2dXUUxadmVfX0VHR05IMVJpQzg5aHlaUUR1Y0xMZFRURDRvWHZDRnRDZ1RrMFlSeGxJNWJkTXBBUHdSYVhQWVJ5OUUza2dhenNDMXEtZHR6SkxoR3A?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Lawmakers introduce bill mandating kill switches for AI models",
-        "Kill switches for most powerful AI models proposed by Bipartisan bill — DHS could order throttling or full shutdown, with fines up to $20 million per day"
       ]
     },
     {
@@ -406,38 +457,6 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 24,
-      "sources": 2,
-      "ts": "2026-07-23T18:29:37.000Z",
-      "writtenSources": 2,
-      "h": "Trump unveils plan to keep AI boom from raising your electric bill",
-      "s": "The plan signals a policy effort to curb potential AI‑driven electricity costs, which could influence how AI services price and deploy.",
-      "b": [
-        "Outlets KOMO and WPDE published coverage with the headline cited here.",
-        "The articles focus on a plan described in the headline; no additional details are provided in the supplied coverage."
-      ],
-      "body": [
-        "KOMO and WPDE published coverage with the headline Trump unveils plan to keep AI boom from raising your electric bill. The provided materials only include the headline, with no accompanying article text included for this story.",
-        "Because the supplied content contains only the headlines, there are no further specifics in the dataset about what the plan entails, who would implement it, or what its scope and timeline might be.",
-        "The coverage centers on a policy topic—AI and electricity costs—but the dataset does not include details beyond the headline, leaving the exact proposals and potential impacts to other sources or future reports."
-      ],
-      "l": [
-        {
-          "d": "komonews.com",
-          "u": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPNW5MM0RxSEVkMUZNeUZMMnoxZnNlYWNnUFhUTVBXY3RGZl9ESUczdkxvWkx0NllOa09oNEtTTEFMRTlhLVBUWmx4U1A5RlRhNzk2SV9EamdpQWxlSDB1dHJxRm9ETWhLLWpaZGZuTDlmZk5lWVR1S3FMQ1hmdUpUTURqbllvVi1JZHZoQ01vYkhqWVV4WjBHNTRPRHBWODJxVl95a3NxRnRzVFJyS2lYbWVEXzFhQTFJczdOUWd5cENMWlRNRWJGaDhwQUt0SnlhbmZCc0xXb015MTEyQzY5NGxnRGo1ZnZzQm5xRkhCTklBdEtULTRQeUFHMXRWbWV4Q1A5VnBtVHZZQkxIYmFlTWp3eUJwZ213WTJYdXY5bkViN2Qzelc4WFNKY1pUZ3oyMUc1VHhiZ0NmckhrYTRvbkQ2MA?oc=5"
-        },
-        {
-          "d": "wsbt.com",
-          "u": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOclR6c1V0YzNrSWlwd01mWG1Ea1l6ZUszWWt1NWlWb0d3WFJ4TDRFc2QzVVNBWVFMT19fVTVhRE9NRnBRTi1rVk02U0ZzS2JNOTVSckt4OU1qOTBvUGdkTGpBSGtpc25NazVDaGVXajRJaVk5MVJ2dlAwbEJ0YURtY0hCWEdLYnl1Z3dxUGlMaE9nakxrczV0QWJTbE83ME90bXRkTkVDRTRLLWpic0lKQWlTMTlqMDMwUUtfUzNuNDdTcGtRd29nWFpKZHBDNG15djVmdWNIZGI5RGVQOE9OT0tCTUNVYkRUcl82NnY1bVNMNHhtalFsY0dPWnBlNVhpdHBvYk42d2lVSWQwc2owcHplaVZEYXNhTkFURVRfbTZXWm5DSnBWMklCLUlIdUlJdFFmNEk0TlB2Z3piLUE?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Trump unveils plan to keep AI boom from raising your electric bill",
-        "Trump unveils plan to keep AI boom from raising your electric bill"
-      ]
-    },
-    {
       "cat": "research",
       "signal": 24,
       "sources": 1,
@@ -466,6 +485,38 @@
       ],
       "srcTitles": [
         "How AI helps scientists design the next generation of medicines"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 20,
+      "sources": 2,
+      "ts": "2026-07-23T18:29:37.000Z",
+      "writtenSources": 2,
+      "h": "Trump unveils plan to keep AI boom from raising your electric bill",
+      "s": "The plan signals a policy effort to curb potential AI‑driven electricity costs, which could influence how AI services price and deploy.",
+      "b": [
+        "Outlets KOMO and WPDE published coverage with the headline cited here.",
+        "The articles focus on a plan described in the headline; no additional details are provided in the supplied coverage."
+      ],
+      "body": [
+        "KOMO and WPDE published coverage with the headline Trump unveils plan to keep AI boom from raising your electric bill. The provided materials only include the headline, with no accompanying article text included for this story.",
+        "Because the supplied content contains only the headlines, there are no further specifics in the dataset about what the plan entails, who would implement it, or what its scope and timeline might be.",
+        "The coverage centers on a policy topic—AI and electricity costs—but the dataset does not include details beyond the headline, leaving the exact proposals and potential impacts to other sources or future reports."
+      ],
+      "l": [
+        {
+          "d": "komonews.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPNW5MM0RxSEVkMUZNeUZMMnoxZnNlYWNnUFhUTVBXY3RGZl9ESUczdkxvWkx0NllOa09oNEtTTEFMRTlhLVBUWmx4U1A5RlRhNzk2SV9EamdpQWxlSDB1dHJxRm9ETWhLLWpaZGZuTDlmZk5lWVR1S3FMQ1hmdUpUTURqbllvVi1JZHZoQ01vYkhqWVV4WjBHNTRPRHBWODJxVl95a3NxRnRzVFJyS2lYbWVEXzFhQTFJczdOUWd5cENMWlRNRWJGaDhwQUt0SnlhbmZCc0xXb015MTEyQzY5NGxnRGo1ZnZzQm5xRkhCTklBdEtULTRQeUFHMXRWbWV4Q1A5VnBtVHZZQkxIYmFlTWp3eUJwZ213WTJYdXY5bkViN2Qzelc4WFNKY1pUZ3oyMUc1VHhiZ0NmckhrYTRvbkQ2MA?oc=5"
+        },
+        {
+          "d": "wsbt.com",
+          "u": "https://news.google.com/rss/articles/CBMivgJBVV95cUxOclR6c1V0YzNrSWlwd01mWG1Ea1l6ZUszWWt1NWlWb0d3WFJ4TDRFc2QzVVNBWVFMT19fVTVhRE9NRnBRTi1rVk02U0ZzS2JNOTVSckt4OU1qOTBvUGdkTGpBSGtpc25NazVDaGVXajRJaVk5MVJ2dlAwbEJ0YURtY0hCWEdLYnl1Z3dxUGlMaE9nakxrczV0QWJTbE83ME90bXRkTkVDRTRLLWpic0lKQWlTMTlqMDMwUUtfUzNuNDdTcGtRd29nWFpKZHBDNG15djVmdWNIZGI5RGVQOE9OT0tCTUNVYkRUcl82NnY1bVNMNHhtalFsY0dPWnBlNVhpdHBvYk42d2lVSWQwc2owcHplaVZEYXNhTkFURVRfbTZXWm5DSnBWMklCLUlIdUlJdFFmNEk0TlB2Z3piLUE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump unveils plan to keep AI boom from raising your electric bill",
+        "Trump unveils plan to keep AI boom from raising your electric bill"
       ]
     },
     {
