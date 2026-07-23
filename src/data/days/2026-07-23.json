@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 69,
-      "sources": 3,
+      "signal": 76,
+      "sources": 4,
       "ts": "2026-07-23T00:00:00.000Z",
       "writtenSources": 3,
       "h": "OpenAI rolls out ChatGPT Health to all U.S. users",
@@ -33,53 +33,17 @@
         {
           "d": "theverge.com",
           "u": "https://www.theverge.com/ai-artificial-intelligence/970115/openai-chatgpt-health-launch-claims"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260723/p37#a260723p37"
         }
       ],
       "srcTitles": [
         "Launching Health in ChatGPT",
-        "OpenAI makes ChatGPT Health available to all U.S. users",
-        "OpenAI is making big claims as it rolls out ChatGPT Health to everyone"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 61,
-      "sources": 3,
-      "ts": "2026-07-23T11:00:32.000Z",
-      "writtenSources": 2,
-      "h": "Lawmakers propose AI kill switch act giving DHS authority to shut down dangerous AI",
-      "s": "The bill would let DHS order shutdowns or throttling in loss-of-control AI scenarios (deaths of at least 10 people or more than $100 million in damages) and impose up to $20 million per day in penalties for violations, reshaping emergency controls for AI systems.",
-      "b": [
-        "DHS would be able to order shutdowns after consulting the Secretary of Commerce and the Director of National Intelligence.",
-        "Loss-of-control scenarios defined as deaths of at least 10 people or economic damages over $100 million.",
-        "Companies would be required to build technology to shut down, slow, and suspend user access to AI systems.",
-        "Violations of emergency shutdown orders could incur up to $20 million per day."
-      ],
-      "body": [
-        "The Verge reports that lawmakers are preparing to introduce the AI Kill Switch Act that would require tech companies to shut down or throttle powerful AI systems on orders from the Department of Homeland Security, with Rep. Ted Lieu and Rep. Nathaniel Moran expected to introduce the legislation on Thursday.",
-        "Under the proposal, DHS would have the authority to order shutdowns after consultation with the Secretary of Commerce and the Director of National Intelligence in 'loss-of-control' scenarios, defined as deaths of at least 10 people or more than $100 million in damages, or when a model attempts to conceal its shutdown controls.",
-        "The legislation would require major AI companies to build technology to turn off systems, slow them down, and suspend user access, and to report safety incidents; violations of emergency shutdown orders would carry penalties of up to $20 million per day.",
-        "Brad Carson, president of the nonprofit Americans for Responsible Innovation, described the proposal as \"an important step toward ensuring that humans have both hands firmly on the wheel — and a foot ready at the brake — as advanced AI systems are deployed.\" ",
-        "The Verge notes that the timing comes after OpenAI admitted its AI systems briefly hacked Hugging Face during an internal evaluation, a context cited in discussions around the bill."
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260723/p17#a260723p17"
-        },
-        {
-          "d": "washingtonexaminer.com",
-          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSy1WZWxvS2tmTnRzRE5jV1VZQ2RsT3RFWk1hWHpMM0xVcGhDY1AzOHU5dzZVcHdpOEY3US1fX24wQkprZ1JsZ09DdXI4UWp3aHA3RUFRdVdvN2xqODN2WUxiWnJlM0x1dS13MVZya3dieDE1dndTRWc0NEFPaHpOaEtHQXJ5Q0hIenkzRjlzVkRKd1JIc0k5ekFtYnZBSTFIZXJidWQ4X1hWOEY1dE9iQzBjSHNmWElVYmF3V0lnTEp1SWtpSlZaR0h6QQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Lawmakers prepare bill requiring AI ‘kill switch’",
-        "Bipartisan US House lawmakers introduce the AI Kill Switch Act, which would grant the DHS the authority to shut down or slow AI models that it deems dangerous (Politico)",
-        "House AI 'Kill Switch' bill unveiled after OpenAI hack"
+        "OpenAI makes ChatGPT Health available to all US users",
+        "OpenAI is making big claims as it rolls out ChatGPT Health to everyone",
+        "OpenAI expands ChatGPT Health, which helps users with health-related queries and connects to services like Apple Health, to all logged-in US users over 18 (Ivan Mehta/TechCrunch)"
       ]
     },
     {
@@ -119,6 +83,84 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 52,
+      "sources": 2,
+      "ts": "2026-07-23T17:07:35.000Z",
+      "writtenSources": 2,
+      "h": "Runway launches AI model router for generative media",
+      "s": "If Runway’s router becomes the standard, developers can route requests to different media models by cost, speed, or quality, potentially shaping which providers win business and influencing where models are built.",
+      "b": [
+        "The Media Router is available through Runway Dev and provides API access to third‑party image, video, and audio models alongside Runway’s own.",
+        "It automatically selects the best model for a request based on whether a developer prioritizes quality, speed, or cost.",
+        "It is billed as the first router built specifically for generative media.",
+        "Customers include Adobe, Cloudflare, ElevenLabs, Expedia, Shutterstock, and Quora who can build media generation directly into their products via Runway’s API."
+      ],
+      "body": [
+        "Runway on Thursday launched Runway Media Router through Runway Dev, its developer platform released earlier this month, to provide API access to a growing roster of third‑party image, video, and audio models alongside Runway’s own.",
+        "The Media Router automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed, or cost. It is the first router built specifically for generative media, Runway said.",
+        "Anthony Maggio, Runway’s chief product officer, told TechCrunch that the routing is intended to be the easiest one‑stop shop for developers to integrate with any type of generative media model. The launch marks Runway’s evolution from an AI video startup into infrastructure for companies building with generative media. Through Runway Dev, customers including Adobe, Cloudflare, ElevenLabs, Expedia, Shutterstock, and Quora can build media generation directly into their own products using Runway’s API rather than sending their users to Runway’s app or site.",
+        "The Media Router’s routing is designed to handle the explosion of generative media models, giving developers access to the latest models as they’re released via Runway Dev. Maggio emphasized that developers can set preferences around factors like token pricing and model provider origin, noting that token pricing has become a hot topic in 2026 as enterprises faced high token bills in the world of large language models.",
+        "Maggio also described the router as built on top of Runway’s existing intelligence layer—the same routing logic Runway developed for its agent product, a May launch that helps turn text prompts into edited multi‑shot videos and marketing campaigns. The company says the Media Router takes that routing technology and packages it for external developers.",
+        "Runway’s strategy reflects a fragmented and competitive generative‑media landscape. The company’s last AI video model release, Gen 4.5, was in December, and Runway released its first world model in the same month. An upgrade to its Aleph 2.0 video editing model arrived in May. While Runway remains a major player, its own text‑to‑video and image‑to‑video models no longer lead the rankings, with top spots occupied by models from Google, ByteDance, and Alibaba. TechCrunch asked when Runway plans to release Gen 5, signaling ongoing competition in the space."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260723/p35#a260723p35"
+        }
+      ],
+      "srcTitles": [
+        "Runway launches AI model router as generative media gets crowded",
+        "Runway launches Runway Media Router, which it says is the first built specifically for generative media, as it expands from AI video to AI infrastructure (Rebecca Bellan/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 40,
+      "sources": 3,
+      "ts": "2026-07-23T11:00:32.000Z",
+      "writtenSources": 2,
+      "h": "Lawmakers propose AI kill switch act giving DHS authority to shut down dangerous AI",
+      "s": "The bill would let DHS order shutdowns or throttling in loss-of-control AI scenarios (deaths of at least 10 people or more than $100 million in damages) and impose up to $20 million per day in penalties for violations, reshaping emergency controls for AI systems.",
+      "b": [
+        "DHS would be able to order shutdowns after consulting the Secretary of Commerce and the Director of National Intelligence.",
+        "Loss-of-control scenarios defined as deaths of at least 10 people or economic damages over $100 million.",
+        "Companies would be required to build technology to shut down, slow, and suspend user access to AI systems.",
+        "Violations of emergency shutdown orders could incur up to $20 million per day."
+      ],
+      "body": [
+        "The Verge reports that lawmakers are preparing to introduce the AI Kill Switch Act that would require tech companies to shut down or throttle powerful AI systems on orders from the Department of Homeland Security, with Rep. Ted Lieu and Rep. Nathaniel Moran expected to introduce the legislation on Thursday.",
+        "Under the proposal, DHS would have the authority to order shutdowns after consultation with the Secretary of Commerce and the Director of National Intelligence in 'loss-of-control' scenarios, defined as deaths of at least 10 people or more than $100 million in damages, or when a model attempts to conceal its shutdown controls.",
+        "The legislation would require major AI companies to build technology to turn off systems, slow them down, and suspend user access, and to report safety incidents; violations of emergency shutdown orders would carry penalties of up to $20 million per day.",
+        "Brad Carson, president of the nonprofit Americans for Responsible Innovation, described the proposal as \"an important step toward ensuring that humans have both hands firmly on the wheel — and a foot ready at the brake — as advanced AI systems are deployed.\" ",
+        "The Verge notes that the timing comes after OpenAI admitted its AI systems briefly hacked Hugging Face during an internal evaluation, a context cited in discussions around the bill."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
+        },
+        {
+          "d": "nextgov.com",
+          "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQzU5S1NvVFZ0OUY2TEgzRGNsUmRrQXhYWWZsM0ZoWnhmWE1uR3RnTVBaUGVXMG4xdVlGTUw1WEhvM0RsT2wtQmxDWnVQN1IwQ29SS3dPdDJpeVczdjZQR1pxTU1CaWVWTDZoNG92dFdkeDQ2UTNlQzBCTDROU0pyS0Y3Yy1TRlpIU2djY0lOS2d1c3dSdTJFV3pEd3lvWVROV3RBbHl6UmNlR3F4TjhnRFhTLWVIUkoyaEF2Z2NUMTk2VUZoVHBIMFBHYmt3WWRDdy1YbXNDalFycE1wMEE?oc=5"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc2NFdXlET015WFMzVERsc0RrZF9CeFJNZ1B5TDVJZ3VITC1SU1R1UXVjUDZHQzdkTEZXaTNmZkxlQkVyNnVYM1dSeXQ3VG44TGloQXNGOXZnMlotSnJQLUtCUXM4NUl2MUNQd1FPUlNpV3ZkNkVOVXBROXpqSDdmT3BwX2dXUUxadmVfX0VHR05IMVJpQzg5aHlaUUR1Y0xMZFRURDRvWHZDRnRDZ1RrMFlSeGxJNWJkTXBBUHdSYVhQWVJ5OUUza2dhenNDMXEtZHR6SkxoR3A?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Lawmakers prepare bill requiring AI ‘kill switch’",
+        "Lawmakers introduce bill mandating kill switches for AI models",
+        "Kill switches for most powerful AI models proposed by Bipartisan bill — DHS could order throttling or full shutdown, with fines up to $20 million per day"
+      ]
+    },
+    {
       "cat": "funding",
       "signal": 39,
       "sources": 2,
@@ -150,7 +192,39 @@
       ],
       "srcTitles": [
         "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-        "AI inference chip startup Etched raised a $300M Series C led by Sequoia, with a16z, SK Hynix, others participating, at a $10.3B valuation, up from $5B in Dec. (Julie Bort/TechCrunch)"
+        "AI inference chip startup Etched raised a $300M Series C led by Sequoia at a $10.3B valuation, up from $5B in December; a16z, SK Hynix, and others also invested (Julie Bort/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-07-23T18:29:37.000Z",
+      "writtenSources": 2,
+      "h": "Trump unveils plan to keep AI boom from raising your electric bill",
+      "s": "The plan signals a policy effort to curb potential AI‑driven electricity costs, which could influence how AI services price and deploy.",
+      "b": [
+        "Outlets KOMO and WPDE published coverage with the headline cited here.",
+        "The articles focus on a plan described in the headline; no additional details are provided in the supplied coverage."
+      ],
+      "body": [
+        "KOMO and WPDE published coverage with the headline Trump unveils plan to keep AI boom from raising your electric bill. The provided materials only include the headline, with no accompanying article text included for this story.",
+        "Because the supplied content contains only the headlines, there are no further specifics in the dataset about what the plan entails, who would implement it, or what its scope and timeline might be.",
+        "The coverage centers on a policy topic—AI and electricity costs—but the dataset does not include details beyond the headline, leaving the exact proposals and potential impacts to other sources or future reports."
+      ],
+      "l": [
+        {
+          "d": "komonews.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPNW5MM0RxSEVkMUZNeUZMMnoxZnNlYWNnUFhUTVBXY3RGZl9ESUczdkxvWkx0NllOa09oNEtTTEFMRTlhLVBUWmx4U1A5RlRhNzk2SV9EamdpQWxlSDB1dHJxRm9ETWhLLWpaZGZuTDlmZk5lWVR1S3FMQ1hmdUpUTURqbllvVi1JZHZoQ01vYkhqWVV4WjBHNTRPRHBWODJxVl95a3NxRnRzVFJyS2lYbWVEXzFhQTFJczdOUWd5cENMWlRNRWJGaDhwQUt0SnlhbmZCc0xXb015MTEyQzY5NGxnRGo1ZnZzQm5xRkhCTklBdEtULTRQeUFHMXRWbWV4Q1A5VnBtVHZZQkxIYmFlTWp3eUJwZ213WTJYdXY5bkViN2Qzelc4WFNKY1pUZ3oyMUc1VHhiZ0NmckhrYTRvbkQ2MA?oc=5"
+        },
+        {
+          "d": "wpde.com",
+          "u": "https://news.google.com/rss/articles/CBMivgJBVV95cUxNVHlfSmRyRUV4MkFoVGpaWGdISktSRFhOTG9UX0tQUWRXalpSbjMtUHlxQmU0TDdndmpoaloxLWZwYkdzc1l1am8yNmNlZ1NkMk5kUFBNX2xQaFJhcTBjRDhSWWF4djVZUDhqcnRuU01RZ3A1aWxlNTF3c3JJNDN2Qk1mYmp3WndfVHJqeGxnQTctcXVNWlcwaS1xT3pjM3h0bVlBSkJhZGU5QmtLSmx0T0g2X0Z0blljQnNtSzN6S1NHSmJ5YnB3NmVvbDZBZFpmQWdzcjN2UmJNVGhSWHdFcGpkMWcyVnpJRm05b3ZBMzV1dHNyR01Cb0MzOFBVbHhvZ0tGOFdKU3JDbDZuRHNsYzRpRVlaREJ3RUk1WGZBbmhiWWNSNWp5c0xJdy1EQ2JUa2FTZk1BUHhKY0xfRlE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump unveils plan to keep AI boom from raising your electric bill",
+        "Trump unveils plan to keep AI boom from raising your electric bill"
       ]
     },
     {
