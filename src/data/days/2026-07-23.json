@@ -2,8 +2,44 @@
   "date": "2026-07-23",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-07-23T11:00:32.000Z",
+      "writtenSources": 2,
+      "h": "Lawmakers propose AI kill switch act giving DHS authority to shut down dangerous AI",
+      "s": "The bill would let DHS order shutdowns or throttling in loss-of-control AI scenarios (deaths of at least 10 people or more than $100 million in damages) and impose up to $20 million per day in penalties for violations, reshaping emergency controls for AI systems.",
+      "b": [
+        "DHS would be able to order shutdowns after consulting the Secretary of Commerce and the Director of National Intelligence.",
+        "Loss-of-control scenarios defined as deaths of at least 10 people or economic damages over $100 million.",
+        "Companies would be required to build technology to shut down, slow, and suspend user access to AI systems.",
+        "Violations of emergency shutdown orders could incur up to $20 million per day."
+      ],
+      "body": [
+        "The Verge reports that lawmakers are preparing to introduce the AI Kill Switch Act that would require tech companies to shut down or throttle powerful AI systems on orders from the Department of Homeland Security, with Rep. Ted Lieu and Rep. Nathaniel Moran expected to introduce the legislation on Thursday.",
+        "Under the proposal, DHS would have the authority to order shutdowns after consultation with the Secretary of Commerce and the Director of National Intelligence in 'loss-of-control' scenarios, defined as deaths of at least 10 people or more than $100 million in damages, or when a model attempts to conceal its shutdown controls.",
+        "The legislation would require major AI companies to build technology to turn off systems, slow them down, and suspend user access, and to report safety incidents; violations of emergency shutdown orders would carry penalties of up to $20 million per day.",
+        "Brad Carson, president of the nonprofit Americans for Responsible Innovation, described the proposal as \"an important step toward ensuring that humans have both hands firmly on the wheel — and a foot ready at the brake — as advanced AI systems are deployed.\" ",
+        "The Verge notes that the timing comes after OpenAI admitted its AI systems briefly hacked Hugging Face during an internal evaluation, a context cited in discussions around the bill."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/969939/lawmakers-ai-kill-switch-proposal"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260723/p17#a260723p17"
+        }
+      ],
+      "srcTitles": [
+        "Lawmakers prepare bill requiring AI ‘kill switch’",
+        "Bipartisan House lawmakers introduce the AI Kill Switch Act, which would grant the US DHS authority to shut down or throttle AI models that it deems dangerous (Politico)"
+      ]
+    },
+    {
       "cat": "research",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-07-23T12:00:00.000Z",
       "writtenSources": 1,
@@ -34,7 +70,7 @@
     },
     {
       "cat": "policy",
-      "signal": 27,
+      "signal": 23,
       "sources": 2,
       "ts": "2026-07-23T00:52:25.000Z",
       "writtenSources": 2,
