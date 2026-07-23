@@ -1,4 +1,39 @@
 {
   "date": "2026-07-23",
-  "stories": []
+  "stories": [
+    {
+      "cat": "policy",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-07-23T00:52:25.000Z",
+      "writtenSources": 2,
+      "h": "Trump adviser accuses Moonshot AI of stealing from Anthropic; China pushes back on U.S. theft claims",
+      "s": "This dispute signals how IP and safety debates in AI are becoming a flashpoint in U.S.-China tech rivalry, potentially affecting policy, investment, and cross-border collaboration.",
+      "b": [
+        "Moonshot AI accused of stealing from Anthropic, per a Trump tech adviser (BBC)",
+        "NBC News reports China has pushed back on U.S. claims that its AI companies steal U.S. tech",
+        "Anthropic is the U.S. firm named in the allegation (per BBC)"
+      ],
+      "body": [
+        "BBC reports that a Trump tech adviser alleges Moonshot AI, a Chinese AI project, stole from Anthropic. The claim is framed as part of public commentary from a U.S. political ally rather than as independently verified fact, according to the coverage.",
+        "NBC News covers China’s response to U.S. administration claims that its AI companies steal U.S. tech, noting that Beijing has fired back against those accusations. The story portrays the dispute as part of a broader U.S.-China rhetorical confrontation over AI IP and national competitiveness.",
+        "Together, the reports illustrate a broader dispute over intellectual property in artificial intelligence between the United States and China, with each side publicly disputing the other’s conduct and capabilities.",
+        "Neither article provides independent verification of the theft allegations, and both describe the claims as allegations rather than proven facts, leaving room for future clarification or investigation."
+      ],
+      "l": [
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iWFdWWk1rRjktUk5wZnBrNHBnd0xhU01XRmo1dTV0aHpGWmRDcTJhWndnUzV3R25aT2VjSHZxaWNzUUhWZF9MeVZnSkRZZUlJYXJrc3RBM2Vvdw?oc=5"
+        },
+        {
+          "d": "nbcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONmpyMEpWd01PYjRjWkxjcHZVYnhwek9rUWdjWEEyamJjaTJaaWtyZ0hibTg3aTdXa2pEcGVGSW1yd2x1MjlUUmJtY2JMWmtFaE92ejZoOFhwWmwxOGwxWW1xWlZlWXZLVUxkcXl4OGdvOFhzNS1FaEMtLTFZS0Q0bzhKejE3eXYtQ2p4aHk1NU8tczU0Z1ZpMlpGaFBoMWtsczlZTzdWWQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "China's Moonshot AI stole from Anthropic, Trump tech adviser says",
+        "China fires back at Trump administration claims that its AI companies steal U.S. tech"
+      ]
+    }
+  ]
 }
