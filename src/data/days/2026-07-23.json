@@ -48,6 +48,47 @@
     },
     {
       "cat": "products",
+      "signal": 73,
+      "sources": 3,
+      "ts": "2026-07-23T19:00:00.000Z",
+      "writtenSources": 3,
+      "h": "Anthropic adds Opus and Sonnet to Claude voice mode with app integrations",
+      "s": "By enabling deeper problem-solving and cross-app actions, the update could shorten cycles for tasks like turning chats into pitches, drafting emails, and rescheduling meetings.",
+      "b": [
+        "Models available: Opus, Sonnet, and Haiku; Claude uses the last model touched in text chat and defaults to the fastest version.",
+        "Voice mode can tap into Gmail, Google Calendar, Slack, Canva, and Notion to perform tasks like updating meetings or drafting emails.",
+        "Languages supported in voice mode span English, French, German, Hindi, Indonesian, Italian, Japanese, Korean, Portuguese (Brazilian), and Spanish.",
+        "Availability: beta across platforms; free users limited to Haiku with one connected app."
+      ],
+      "body": [
+        "Anthropic is expanding Claude's voice mode to include the Opus and Sonnet models, according to TechCrunch and The Verge. The feature was previously powered by Claude Haiku and is now available with three model options in beta across platforms, with Claude using the last model a user engaged with in text chat and defaulting to the fastest version of that model.",
+        "The company positions Sonnet and Opus as deeper models designed for hard problem-solving, capable of delivering more complex responses and taking action on user prompts. In practice, users can have voice conversations that slip into more involved tasks, including turning a chat into a one-page pitch or adjusting calendar appointments when plans change.",
+        "Anthropic also notes that Claude's voice mode can connect to external apps such as Gmail, Google Calendar, Slack, Canva, and Notion, enabling tasks like updating a meeting slot, drafting an email, or creating a document in Notion through voice commands. This marks a notable difference from OpenAI's voice mode, which has emphasized conversational style without tool integrations, according to TechCrunch.",
+        "Language support for voice mode has expanded beyond English. The Verge reports that languages available in voice mode now include French, German, Spanish, Hindi, Indonesian, Italian, Japanese, Korean, and Portuguese, with English included as part of the lineup. The Verge also notes a correction: the feature launched in 2025, not 2026.",
+        "On availability, the latest update is described as a beta across platforms, with free users restricted to Haiku and only one connected app. TechCrunch also notes that Anthropic has not announced changes to the underlying voice stack."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260723/p41#a260723p41"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic updates Claude voice mode with more capable models",
+        "Claude’s voice mode is now available for Opus and Sonnet",
+        "Anthropic makes its Opus and Sonnet models available in voice mode, and says voice mode can now tap into some connected apps like Gmail, Slack, and Notion (Ivan Mehta/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "products",
       "signal": 61,
       "sources": 2,
       "ts": "2026-07-23T16:28:50.000Z",
@@ -118,7 +159,7 @@
     },
     {
       "cat": "products",
-      "signal": 52,
+      "signal": 49,
       "sources": 2,
       "ts": "2026-07-23T17:07:35.000Z",
       "writtenSources": 2,
@@ -155,7 +196,7 @@
     },
     {
       "cat": "policy",
-      "signal": 40,
+      "signal": 36,
       "sources": 3,
       "ts": "2026-07-23T11:00:32.000Z",
       "writtenSources": 2,
@@ -196,7 +237,7 @@
     },
     {
       "cat": "funding",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-07-23T15:00:00.000Z",
       "writtenSources": 2,
@@ -231,7 +272,7 @@
     },
     {
       "cat": "policy",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-07-23T18:29:37.000Z",
       "writtenSources": 2,
@@ -263,7 +304,38 @@
     },
     {
       "cat": "research",
-      "signal": 26,
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-07-23T12:00:00.000Z",
+      "writtenSources": 1,
+      "h": "AstraZeneca deploys AI to speed biologic drug design with a lab of the future in Cambridge",
+      "s": "If AI can cut discovery timelines by up to 50%, pharma pipelines could accelerate approvals, reshape budgeting, and bring therapies to patients faster.",
+      "b": [
+        "McKinsey estimates AI could cut drug discovery timelines by as much as 50%",
+        "AstraZeneca is building a 'lab of the future' in Kendall Square, Cambridge, Massachusetts",
+        "The approach follows a build-measure-learn loop with AI prioritizing designs and researchers testing top candidates",
+        "AstraZeneca’s datasets are proprietary and multimodal, including molecular structures, binding measurements, safety profiles, and manufacturing outcomes"
+      ],
+      "body": [
+        "MIT Technology Review reports that AI used to design drugs is moving beyond hype, with AstraZeneca actively expanding its AI-enabled biologics program to accelerate discovery timelines.",
+        "Puja Sapra, senior vice president and head of R&D biologics engineering and oncology targeted discovery at AstraZeneca, describes a workflow where AI generates or prioritizes candidate molecules and scientists then focus lab resources on the top-ranked designs, creating a tighter feedback loop and faster iteration.",
+        "The company is pursuing a multi-pronged strategy that includes new classes of medicines. Sapra says AI-driven models could help identify which targets to prioritize and then optimize across multiple parameters to balance a molecule’s potency, stability, manufacturability, and safety. She adds, “Drugging the undruggable is becoming a reality.”",
+        "McKinsey estimates that generative AI, combined with other computational tools, could cut drug discovery timelines by as much as 50%. Sapra emphasizes that data quality is a differentiator, noting AstraZeneca’s datasets are proprietary and multimodal, including molecular structures, binding measurements, safety profiles, and manufacturing outcomes.",
+        "To bring together data and experiments, AstraZeneca is building what it calls a “lab of the future” facility in Kendall Square, Cambridge, Massachusetts, where AI and robotic automation will form a continuous, closed-loop discovery system. Sapra explains that the system parallels the self-driving car analogy—“Where a self-driving car uses sensors and models to navigate its environment, this system uses AI to make predictions, robotic systems to execute experiments, and instruments to generate data.” Scientists will remain central to oversee outputs, ensuring explainability, tolerability, and patient-directed directions."
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
+        }
+      ],
+      "srcTitles": [
+        "How AI helps scientists design the next generation of medicines"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 22,
       "sources": 2,
       "ts": "2026-07-23T04:00:00.000Z",
       "writtenSources": 2,
@@ -295,37 +367,6 @@
       "srcTitles": [
         "Global Studies Show Companies Use AI for Collaboration Not Automation",
         "Global Automation Atlas"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-07-23T12:00:00.000Z",
-      "writtenSources": 1,
-      "h": "AstraZeneca deploys AI to speed biologic drug design with a lab of the future in Cambridge",
-      "s": "If AI can cut discovery timelines by up to 50%, pharma pipelines could accelerate approvals, reshape budgeting, and bring therapies to patients faster.",
-      "b": [
-        "McKinsey estimates AI could cut drug discovery timelines by as much as 50%",
-        "AstraZeneca is building a 'lab of the future' in Kendall Square, Cambridge, Massachusetts",
-        "The approach follows a build-measure-learn loop with AI prioritizing designs and researchers testing top candidates",
-        "AstraZeneca’s datasets are proprietary and multimodal, including molecular structures, binding measurements, safety profiles, and manufacturing outcomes"
-      ],
-      "body": [
-        "MIT Technology Review reports that AI used to design drugs is moving beyond hype, with AstraZeneca actively expanding its AI-enabled biologics program to accelerate discovery timelines.",
-        "Puja Sapra, senior vice president and head of R&D biologics engineering and oncology targeted discovery at AstraZeneca, describes a workflow where AI generates or prioritizes candidate molecules and scientists then focus lab resources on the top-ranked designs, creating a tighter feedback loop and faster iteration.",
-        "The company is pursuing a multi-pronged strategy that includes new classes of medicines. Sapra says AI-driven models could help identify which targets to prioritize and then optimize across multiple parameters to balance a molecule’s potency, stability, manufacturability, and safety. She adds, “Drugging the undruggable is becoming a reality.”",
-        "McKinsey estimates that generative AI, combined with other computational tools, could cut drug discovery timelines by as much as 50%. Sapra emphasizes that data quality is a differentiator, noting AstraZeneca’s datasets are proprietary and multimodal, including molecular structures, binding measurements, safety profiles, and manufacturing outcomes.",
-        "To bring together data and experiments, AstraZeneca is building what it calls a “lab of the future” facility in Kendall Square, Cambridge, Massachusetts, where AI and robotic automation will form a continuous, closed-loop discovery system. Sapra explains that the system parallels the self-driving car analogy—“Where a self-driving car uses sensors and models to navigate its environment, this system uses AI to make predictions, robotic systems to execute experiments, and instruments to generate data.” Scientists will remain central to oversee outputs, ensuring explainability, tolerability, and patient-directed directions."
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/"
-        }
-      ],
-      "srcTitles": [
-        "How AI helps scientists design the next generation of medicines"
       ]
     },
     {
