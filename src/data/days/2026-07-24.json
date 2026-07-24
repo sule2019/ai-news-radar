@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 32,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-07-24T11:37:22.000Z",
       "writtenSources": 2,
@@ -34,6 +34,40 @@
       "srcTitles": [
         "Kevin Warsh's Federal Reserve Is Split on Artificial Intelligence, and It Could Have Dire Consequences for Investors",
         "Federal Reserve divided on artificial intelligence’s impact on investors"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-07-24T08:08:11.000Z",
+      "writtenSources": 2,
+      "h": "AI redefines where innovation happens",
+      "s": "The coverage frames AI as a central driver of innovation, signaling shifts in how organizations think about R&D and product development.",
+      "b": [
+        "Outlets cited: Electronic Payments International; CityWatch LA",
+        "Headlines covered: 'Artificial intelligence is redefining where innovation happens'; 'Artificial Intelligence as a Driver of Innovation'",
+        "The supplied coverage text contains only the headlines, with no further details in the input."
+      ],
+      "body": [
+        "Two outlets published pieces on AI and innovation. Electronic Payments International published the headline 'Artificial intelligence is redefining where innovation happens', while CityWatch LA published 'Artificial Intelligence as a Driver of Innovation'.",
+        "The headlines suggest AI is being framed as a central factor in innovation and as a force that could redefine where innovation occurs across contexts, according to the two cited sources.",
+        "The input provides only the headlines from these outlets, with no additional content, quotes, dates, or data to elaborate on the claims.",
+        "Readers seeking fuller context would need to consult the full articles from Electronic Payments International and CityWatch LA to understand the scope, examples, and any evidence behind these frames."
+      ],
+      "l": [
+        {
+          "d": "electronicpaymentsinternational.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTBQQ3pqZWc3OGF3alJZTm1oY2psTmVnZ1lzWTVJSlZ4SWs0cDQzVERxZVVOaFFoSUg1ZkRHa2xoVzZ3NjZfcFdmMDNRVGRhOXBGajkwMjZCQmdkY2p4X3p5dG1vQ1J6UUkxNkNqZkxxUDFfOXJ2NGY1VXNjMUU3ek05WVBINHBpRUlTanVZSHE2ZTlHMWlxOHdvYw?oc=5"
+        },
+        {
+          "d": "citywatchla.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVVg5U1dXTFdmUnlWYU5KX3BvUWJYZl9PUzJzSmlmcFdVZEpMWFRLX2lQeWw1cnhXbDZMTDZ6NFBFdTFydmxTZlNCRWRJSHg1NGhYbTktbjd0OXkzT0JsUVdNdmVsMHppMTU2M0ZpUFlQYVVqY3JvTjJfR1BzYW5CV0VmNHQzOEVKUlVsQ0dRMkVzYTJTYnozdjNuM3hKS2o1?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial intelligence is redefining where innovation happens",
+        "Artificial Intelligence as a Driver of Innovation"
       ]
     },
     {
