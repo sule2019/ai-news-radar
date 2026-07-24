@@ -2,6 +2,102 @@
   "date": "2026-07-24",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 52,
+      "sources": 2,
+      "ts": "2026-07-24T15:09:55.000Z",
+      "writtenSources": 2,
+      "h": "Midjourney acquires astrology app Co-Star",
+      "s": "The deal folds a 4.3 million MAU consumer app and its small team into a lab known for image generation, signaling AI labs’ move into broader consumer services and the potential for a standalone app",
+      "b": [
+        "Deal terms undisclosed",
+        "Co-Star has about 4.3 million monthly active users",
+        "Co-Star’s team of about 24 employees joined Midjourney",
+        "Midjourney has no standalone app yet and is exploring other ventures like a medical arm and spa"
+      ],
+      "body": [
+        "Midjourney, the AI lab best known for its image and video generation, has acquired the astrology app Co-Star, according to Bloomberg. The terms of the deal were not disclosed."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260724/p16#a260724p16"
+        }
+      ],
+      "srcTitles": [
+        "Midjourney acquired the astrology app Co-Star",
+        "Midjourney bought astrology app Co-Star, which uses AI to offer personalized advice, in the spring and is building its first standalone image-generation app (Natalie Lung/Bloomberg)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-07-24T14:19:00.000Z",
+      "writtenSources": 2,
+      "h": "Big tech defends open-weight AI models in lawmakers' letter",
+      "s": "A coordinated push from major AI players could shape regulatory framing around model access, with implications for competition, innovation, and global leadership in AI",
+      "b": [
+        "Signatories include Nvidia, Microsoft, Meta, Palantir and more than 20 other companies",
+        "The letter argues against premature restrictions on open-weight AI models",
+        "The move was reported by CNBC and Politico",
+        "The letter aims to prevent restrictions that could stifle competition or push innovation overseas"
+      ],
+      "body": [
+        "Nvidia, Microsoft, Meta, Palantir and more than 20 other companies released a letter defending open-weight AI models and urged policymakers to avoid premature restrictions that might stifle competition or drive innovation overseas, according to CNBC. Politico also covered the event under the headline \"Big Tech companies defend open-weight AI models.\" The signatories argued that premature restrictions could hinder competition and innovation, and the letter emphasizes keeping model weights accessible to sustain competition and global leadership in AI, the CNBC report notes."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260724/p15#a260724p15"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmRxcmw1WmJqMk1SekYzRFZYdm52RWtoMmZDbWtpeTlsdU02bXY3dDV5VkVmSnNnT1VDaXZOd2I1aDNzX0J3Y2NoZHg1ZWxEQTVOdzFPMGVpOV9LY2ZuQ2FwR0FFRFhhcWoySTREUnNXdTVXb0l6VnkwV1JBNHlFeFpzZmtQNkdTX3VwQWUxVXBURExKa3U5N2RxVkJKdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "In their letter defending open-weight AI, tech companies urge lawmakers to avoid \"premature restrictions\" that \"stifle competition or drive innovation overseas\" (Ashley Capoot/CNBC)",
+        "Big Tech companies defend open-weight AI models"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-07-24T04:00:00.000Z",
+      "writtenSources": 2,
+      "h": "Bluesky expands Attie into open social research tool with Quests",
+      "s": "Attie’s new Quests feature could turn Bluesky into a more capable research platform across the AT Protocol, potentially boosting growth and monetization opportunities",
+      "b": [
+        "Attie gains a feature called Quests that lets users ask for information and news across the Atmosphere",
+        "Atmosphere includes Bluesky and any app that integrates with the AT Protocol",
+        "Bluesky’s registered user base is about 45.6 million; growth slowed after reaching ~40 million last October",
+        "Attie launched in March and is currently in beta, with a waitlist for invites; it remains free for now and may move to premium later"
+      ],
+      "body": [
+        "Bluesky’s AI assistant Attie is expanding into a new open-ended research tool, with a feature called Quests that lets users ask it for information and news spreading across the broader Bluesky network, nicknamed the Atmosphere. The Atmosphere includes Bluesky itself and any app that integrates with the AT Protocol, Bluesky said."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2607.21306"
+        }
+      ],
+      "srcTitles": [
+        "Bluesky’s AI assistant Attie expands into an open social research tool",
+        "AI Assistants Overassist"
+      ]
+    },
+    {
       "cat": "policy",
       "signal": 29,
       "sources": 2,
@@ -72,7 +168,7 @@
     },
     {
       "cat": "policy",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-07-23T22:58:15.000Z",
       "writtenSources": 2,
