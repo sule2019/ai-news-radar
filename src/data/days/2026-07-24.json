@@ -2,8 +2,45 @@
   "date": "2026-07-24",
   "stories": [
     {
+      "cat": "products",
+      "signal": 65,
+      "sources": 3,
+      "ts": "2026-07-24T04:00:00.000Z",
+      "writtenSources": 2,
+      "h": "Bluesky expands Attie into open social research tool with Quests",
+      "s": "Attie’s new Quests feature could turn Bluesky into a more capable research platform across the AT Protocol, potentially boosting growth and monetization opportunities",
+      "b": [
+        "Attie gains a feature called Quests that lets users ask for information and news across the Atmosphere",
+        "Atmosphere includes Bluesky and any app that integrates with the AT Protocol",
+        "Bluesky’s registered user base is about 45.6 million; growth slowed after reaching ~40 million last October",
+        "Attie launched in March and is currently in beta, with a waitlist for invites; it remains free for now and may move to premium later"
+      ],
+      "body": [
+        "Bluesky’s AI assistant Attie is expanding into a new open-ended research tool, with a feature called Quests that lets users ask it for information and news spreading across the broader Bluesky network, nicknamed the Atmosphere. The Atmosphere includes Bluesky itself and any app that integrates with the AT Protocol, Bluesky said."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2607.21306"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update"
+        }
+      ],
+      "srcTitles": [
+        "Bluesky’s AI assistant Attie expands into an open social research tool",
+        "AI Assistants Overassist",
+        "Meta is making its AI chatbot more like an assistant"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 52,
+      "signal": 49,
       "sources": 2,
       "ts": "2026-07-24T15:09:55.000Z",
       "writtenSources": 2,
@@ -35,7 +72,7 @@
     },
     {
       "cat": "policy",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-07-24T14:19:00.000Z",
       "writtenSources": 2,
@@ -66,40 +103,42 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 34,
+      "cat": "funding",
+      "signal": 32,
       "sources": 2,
-      "ts": "2026-07-24T04:00:00.000Z",
+      "ts": "2026-07-24T16:07:00.000Z",
       "writtenSources": 2,
-      "h": "Bluesky expands Attie into open social research tool with Quests",
-      "s": "Attie’s new Quests feature could turn Bluesky into a more capable research platform across the AT Protocol, potentially boosting growth and monetization opportunities",
+      "h": "3 stocks primed to cash in if artificial intelligence (AI) spending hits $1 trillion next year",
+      "s": "Investors tracking AI trends could gain exposure to three stocks labeled as primed to benefit if AI spending reaches $1 trillion next year.",
       "b": [
-        "Attie gains a feature called Quests that lets users ask for information and news across the Atmosphere",
-        "Atmosphere includes Bluesky and any app that integrates with the AT Protocol",
-        "Bluesky’s registered user base is about 45.6 million; growth slowed after reaching ~40 million last October",
-        "Attie launched in March and is currently in beta, with a waitlist for invites; it remains free for now and may move to premium later"
+        "3 stocks identified as primed to cash in",
+        "AI spending projected to reach $1 trillion next year",
+        "Sources cited: Yahoo Finance and The Motley Fool"
       ],
       "body": [
-        "Bluesky’s AI assistant Attie is expanding into a new open-ended research tool, with a feature called Quests that lets users ask it for information and news spreading across the broader Bluesky network, nicknamed the Atmosphere. The Atmosphere includes Bluesky itself and any app that integrates with the AT Protocol, Bluesky said."
+        "Yahoo Finance and The Motley Fool published pieces identifying a trio of stocks they say could benefit if artificial intelligence spending reaches $1 trillion next year.",
+        "The articles tie the forecast to a broader expectation of rising AI-related investment and frame the upside for equities as meaningful for investors.",
+        "In the coverage, the three stocks are identified as beneficiaries, though the excerpts do not name them in the given summary.",
+        "The takeaway for readers is to monitor AI spending trends into next year and consider how exposure to these stocks might fit their portfolios."
       ],
       "l": [
         {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbWZaN215VmxWQTRLREFBYUxXemRlQlk5MTdjU2ZJSGVLTmk0alJKZG10QXBhT2dQeVVKOG5KT3g3bDBtLURVV3EwQ3NNOU4zZzNJek1od1RsX3h6akl4LXp6cXdTdjQ0M1E1YXRWSDVpNGNJMGd0UkJxRXd0UUZicVF3SkFxZ2dTYVZOWll3NU5hZDlOUk5SYlBab0I?oc=5"
         },
         {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2607.21306"
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdl9ld0JXNmpTV2J1SklSY0FRZTRnZUdBeTJnWGFlaW1wbGdwTWtMb2ZhRFc2VzIyTkFqc1VMTHhsTXR4TnkxRXNNT3BRU0tocE92ZzE3dEJVT3ppMjZyajR3UHQ2MTVEMHI5RXk5Zldycjd5aXNDa19BODVNcmh3Rlg1d0YxWng4dXJIRmhyYTVubVlabVp6Rw?oc=5"
         }
       ],
       "srcTitles": [
-        "Bluesky’s AI assistant Attie expands into an open social research tool",
-        "AI Assistants Overassist"
+        "3 Stocks Primed to Cash In if Artificial Intelligence (AI) Spending Hits $1 Trillion Next Year",
+        "3 Stocks Primed to Cash In if Artificial Intelligence (AI) Spending Hits $1 Trillion Next Year"
       ]
     },
     {
       "cat": "policy",
-      "signal": 29,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-07-24T11:37:22.000Z",
       "writtenSources": 2,
@@ -168,7 +207,7 @@
     },
     {
       "cat": "policy",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-07-23T22:58:15.000Z",
       "writtenSources": 2,
