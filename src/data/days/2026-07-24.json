@@ -2,6 +2,48 @@
   "date": "2026-07-24",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 67,
+      "sources": 4,
+      "ts": "2026-07-24T14:19:00.000Z",
+      "writtenSources": 2,
+      "h": "Big tech defends open-weight AI models in lawmakers' letter",
+      "s": "A coordinated push from major AI players could shape regulatory framing around model access, with implications for competition, innovation, and global leadership in AI",
+      "b": [
+        "Signatories include Nvidia, Microsoft, Meta, Palantir and more than 20 other companies",
+        "The letter argues against premature restrictions on open-weight AI models",
+        "The move was reported by CNBC and Politico",
+        "The letter aims to prevent restrictions that could stifle competition or push innovation overseas"
+      ],
+      "body": [
+        "Nvidia, Microsoft, Meta, Palantir and more than 20 other companies released a letter defending open-weight AI models and urged policymakers to avoid premature restrictions that might stifle competition or drive innovation overseas, according to CNBC. Politico also covered the event under the headline \"Big Tech companies defend open-weight AI models.\" The signatories argued that premature restrictions could hinder competition and innovation, and the letter emphasizes keeping model weights accessible to sustain competition and global leadership in AI, the CNBC report notes."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSWRMeFVQR2pHTnZQc014ajdLVTMtQkZLZlM5NmF4aE11LUpiOUxGcVZwc0o1QndBV0o1VEdXMXN1V05qRndOUzVtejI2NEIzLTJwN2RkSWFOVzVuTjZxSGVvcEZLTTY0eTlfR0NpSHJSR0lWeXZGV1ZZZndfZ05hODlNQmlHOGo2V0lOUDcxQjB3cGZtX3k1aVFYY3ZFSUVLUkU5dG80bEF0aUVvTFZ6bUtNQlRJMUsxbEc1NW5vdGZFb1A2N2c?oc=5"
+        },
+        {
+          "d": "tombedor.dev",
+          "u": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260724/p13#a260724p13"
+        }
+      ],
+      "srcTitles": [
+        "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
+        "Microsoft and Nvidia Lead Push Against US Open-Source AI Restrictions",
+        "The arguments against open source AI are bad",
+        "Meta, Nvidia, Microsoft, a16z, and others sign a letter defending open-source AI; Jensen Huang, in his first X post, says open models strengthen cybersecurity (Leo Schwartz/The Information)"
+      ]
+    },
+    {
       "cat": "products",
       "signal": 65,
       "sources": 3,
@@ -71,40 +113,8 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 36,
-      "sources": 2,
-      "ts": "2026-07-24T14:19:00.000Z",
-      "writtenSources": 2,
-      "h": "Big tech defends open-weight AI models in lawmakers' letter",
-      "s": "A coordinated push from major AI players could shape regulatory framing around model access, with implications for competition, innovation, and global leadership in AI",
-      "b": [
-        "Signatories include Nvidia, Microsoft, Meta, Palantir and more than 20 other companies",
-        "The letter argues against premature restrictions on open-weight AI models",
-        "The move was reported by CNBC and Politico",
-        "The letter aims to prevent restrictions that could stifle competition or push innovation overseas"
-      ],
-      "body": [
-        "Nvidia, Microsoft, Meta, Palantir and more than 20 other companies released a letter defending open-weight AI models and urged policymakers to avoid premature restrictions that might stifle competition or drive innovation overseas, according to CNBC. Politico also covered the event under the headline \"Big Tech companies defend open-weight AI models.\" The signatories argued that premature restrictions could hinder competition and innovation, and the letter emphasizes keeping model weights accessible to sustain competition and global leadership in AI, the CNBC report notes."
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260724/p15#a260724p15"
-        },
-        {
-          "d": "politico.com",
-          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMmRxcmw1WmJqMk1SekYzRFZYdm52RWtoMmZDbWtpeTlsdU02bXY3dDV5VkVmSnNnT1VDaXZOd2I1aDNzX0J3Y2NoZHg1ZWxEQTVOdzFPMGVpOV9LY2ZuQ2FwR0FFRFhhcWoySTREUnNXdTVXb0l6VnkwV1JBNHlFeFpzZmtQNkdTX3VwQWUxVXBURExKa3U5N2RxVkJKdw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "In their letter defending open-weight AI, tech companies urge lawmakers to avoid \"premature restrictions\" that \"stifle competition or drive innovation overseas\" (Ashley Capoot/CNBC)",
-        "Big Tech companies defend open-weight AI models"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 32,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-07-24T16:07:00.000Z",
       "writtenSources": 2,
@@ -207,7 +217,7 @@
     },
     {
       "cat": "policy",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-07-23T22:58:15.000Z",
       "writtenSources": 2,
