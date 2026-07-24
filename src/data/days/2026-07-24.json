@@ -3,6 +3,41 @@
   "stories": [
     {
       "cat": "policy",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-07-24T11:37:22.000Z",
+      "writtenSources": 2,
+      "h": "Fed divided on AI's impact on investors",
+      "s": "A split among Fed policymakers about AI’s impact introduces policy ambiguity that could influence how investors price risk around AI technologies.",
+      "b": [
+        "The Motley Fool article centers on a split in the Fed over artificial intelligence with dire consequences for investors (Kevin Warsh headline)",
+        "Crypto Briefing reports the Federal Reserve is divided on AI’s impact on investors",
+        "Both outlets frame the discussion around AI's potential effects on investors and market responses",
+        "The pieces do not specify concrete policy actions, dates, or individuals beyond the reported disagreement"
+      ],
+      "body": [
+        "The Motley Fool published a piece with the headline Kevin Warsh's Federal Reserve Is Split on Artificial Intelligence, and It Could Have Dire Consequences for Investors, signaling a division within the Federal Reserve over AI’s impact on markets and investors.",
+        "Crypto Briefing followed with its own report stating that the Federal Reserve is divided on artificial intelligence’s impact on investors, reinforcing the sense of internal policy disagreement surrounding AI considerations.",
+        "The articles place the focus on how AI growth and investments intersect with monetary policy, highlighting investor risk and market implications as central to the discussion.",
+        "Neither article provides a detailed policy action, timeline, or concrete next steps; instead, they present the split as a topic of debate with potential implications for investors depending on how the Fed interprets AI-related risks in its future guidance."
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGpFWDdwcmR4c05DQ3ZOTG1Zc21iZ1FlaXNYRVlTd05WM0oxT0gzX1Nfel9sOUNybnFnaU1LbThBRWRjdFI2R2VabWotVzZWTkhPS1lPNUpDV2lXNWxGVDFwTGZKWEVfbnpOWlZSRXlDblhJdE5jYnVqLWJwdDk3cDVXcmtaYk54UUtXc0Z5empseU4wenlDag?oc=5"
+        },
+        {
+          "d": "cryptobriefing.com",
+          "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rWGNNajVYTVNnems0QTFuVzdUX0hzU21OWXlIRFItT3o5Q1hWcEhpOWxwZXRHMUd1dENUdmpEcTVybUlqMkFkb2lGdzJsMWV6NUxHNUVzazIzcUg5cGVwUjdLU2VMMFowcXRN?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Kevin Warsh's Federal Reserve Is Split on Artificial Intelligence, and It Could Have Dire Consequences for Investors",
+        "Federal Reserve divided on artificial intelligence’s impact on investors"
+      ]
+    },
+    {
+      "cat": "policy",
       "signal": 26,
       "sources": 2,
       "ts": "2026-07-23T22:58:15.000Z",
@@ -21,8 +56,8 @@
       ],
       "l": [
         {
-          "d": "wjhl.com",
-          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOc3BhZVFTbkQwZlp0RzNQSnpoU1Q3RkU5LUNEckFyRzRpZ3pkc0VHZlVjNkRVUU9TNEZNM09PMkEwbU9OVWJKcHRHYXcxQlpaVUJ5blAyWXNwcmZsQ0JBeWpZbzUzcDBEMlg0R3RPOFlFZUZCM0hFRWVrT0NuYzRIMWd6YVZEekdzeUFtSU1RVU9zVTAxNlljM2x6Qk5tMzEzREJ2NElQZ1VXek5COU9FaHR5Z19LcEtkT1B6RdIBwgFBVV95cUxQTER0Tm5ESXlsT1cyNFUzX3QwcGZrUEJwWFFNc0hNWWtQLTkwcWlZelY2MmhzZmc2TjQtTmx5WFctcUNxSmdtaDNYd2dIOGpZaTFXTXFmNDZyaG9VT3ZseVZlMnJITGlKOHJSb3ZqaXVKZk1yV1NKRGRtMVA0TlBMRS1kUFJhdjRISW02Y2tMNnhtLWV2UXJib3JBOUhTRTFwbWJCeVQxRV81SHVVSTF1U2NVZVRUUmpMSXFCOVpOQ2Nndw?oc=5"
+          "d": "wric.com",
+          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ3lQemVzZ3Y4UnZEb2JJN194YXVMX3dNNVlDUk1xUzNURDRRdmIyRXZFWl81bEw4RXY5ZHRob0ZDWElHOXdSZUJqcnhxdUNvYWowdkJhR2dUeU1zZXlzWElrbUlJczY1Ym9CSURmQ3F2QnhQd1hSRHR2Z09QOUVzM2hHV1pDenlxOFdaMDE2N0dQS0RoNnBqOUF2cDMwY2RFWXU5WF9DcEt5SzlZdWxjRU81YnJHb2h1TjBBLUM4d2x6aGpQS01MZmV30gHPAUFVX3lxTE1NSXNfd3JkUE5nM0JvUkExbndoc3VMbHZOQUtSVUozX1hJcE9ocEQxRUszUjlYNzJGUnc0Rl91bnpYcWIyaHBIaTJma3p5cUlWUFFEVFRUTE05QlR5U0g3TXNQdEtvV2RyMFQ5aENZUl9lb21pd1hhSWpPSk9CVjhwVFhFVG90Skt2WTdiejE5YWl6YmVfRXQ2R3NrRll2TFd6X3VTNDBtRjctNVh6ZG9jeFNsOXQ5aE9RdEpEaVR3MWxTbmRqS1Z6TnNjSXZGVQ?oc=5"
         },
         {
           "d": "wfxrtv.com",
