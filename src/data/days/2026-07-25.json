@@ -1,4 +1,40 @@
 {
   "date": "2026-07-25",
-  "stories": []
+  "stories": [
+    {
+      "cat": "funding",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-07-25T00:45:00.000Z",
+      "writtenSources": 2,
+      "h": "Nvidia and SK Group announce a $500 billion AI initiative with memory supply and HBM development",
+      "s": "Securing next-gen memory and co-developing HBM could enable larger, faster AI data centers and reshape the supplier landscape for Nvidia.",
+      "b": [
+        "Value: more than $500 billion AI initiative",
+        "Partners: Nvidia and SK Group; includes SK Hynix memory-supply partnership",
+        "Technology: joint development of high-bandwidth memory (HBM)",
+        "Scope: focus on large-scale data centers and plans for massive AI factories"
+      ],
+      "body": [
+        "Reuters reports that Nvidia and South Korea's SK Group unveiled a more than $500 billion AI initiative spanning large-scale AI data centers.",
+        "The package includes a partnership with SK Hynix to secure next-gen memory supply for Nvidia and joint development of high-bandwidth memory (HBM), according to Reuters.",
+        "Tom's Hardware adds that the deal is described as a plan to supercharge AI infrastructure with next-gen memory and involves the construction of massive AI factories, per coverage from Tom's Hardware.",
+        "Together, the outlets characterize the initiative as a sweeping alliance aimed at securing critical memory technology and expanding capabilities for AI data-center deployments, signaling a high-stakes push to control key hardware supply chains for next-generation AI workloads."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260724/p38#a260724p38"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMirwJBVV95cUxNdFVPajJESWc0ZHlxdk1Rdkhja3E4NXktbU12VFBNVWFFQzlRZ3R0bElJNVV1RlRsRUpkcXR5Q0hZWEVNQ0NzQVpjUU8tenlDaVp6VEVMMnhtQjlTd21KTVd4M0Vkd3JuUDZEX3QyUU5EUzAtTlJOUF9iMDg2OThmdHcwaFlvYWgxeVpjSlMwdnRBV1ppRklFQmh6OHdqSEpYT005U2h2Q3hVcjc5eEdmNXdEaExRb2o4THc1Vmt4dXJkRkI3N2g4eS04RE90VTRocU1CcE5zeXd5X0ZFeE5YcjJOMmxfMkpYOHkzOG1Sd0lROVZITDRieWthbG5MN2ljQ3V0b1BkdE10WFMwMUNEMXBrN1g3WjhsWWZ5VmR5YUdfTkYycVhGMUp3emlhZXc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia and SK Group unveil a $500B+ AI initiative that includes an SK Hynix partnership to secure next-gen memory supply for Nvidia and joint development of HBM (Reuters)",
+        "Nvidia and SK Group enter $500 billion AI partnership — plan to supercharge AI infrastructure with next-gen memory and massive AI factories"
+      ]
+    }
+  ]
 }
