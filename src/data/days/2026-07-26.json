@@ -1,4 +1,39 @@
 {
   "date": "2026-07-26",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-07-26T04:04:00.000Z",
+      "writtenSources": 2,
+      "h": "Chinese AI models cheaper, open and intelligent, gaining ground in the US",
+      "s": "US developers and policymakers may see a shift in AI tooling as Chinese models described as cheaper, open, and intelligent start making inroads in the US, potentially altering competition and access to AI capabilities.",
+      "b": [
+        "Cheaper, open and intelligent Chinese AI models described as gaining ground in the US (per headlines from US News & World Report and WRAL).",
+        "The trend is framed as inroads in the US market by Chinese AI models.",
+        "No specific model names, vendors, dates, or pricing details are provided in the coverage."
+      ],
+      "body": [
+        "Two outlets reported on Chinese AI models making inroads in the United States, describing the models as cheaper, open and intelligent.",
+        "US News & World Report and WRAL both ran coverage with the framing that these Chinese AI models are gaining ground in the US market.",
+        "The coverage focuses on the attributes of the models—cheaper, open, and intelligent—as the key takeaways from the discussion about their growing presence in the United States, but the provided text does not enumerate particular vendors, model names, dates, or numerical adoption figures.",
+        "The articles do not detail next steps or government or industry responses within the provided text, leaving the trajectory of these inroads unresolved in the available material."
+      ],
+      "l": [
+        {
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNblF2MGxnamNIVGJyLURUNnhvcjFRYlVERHo4azBsUnpZaF9RVmtXY1g0Ti1CclQtMFl4bXpOczhjRnRFQVU3M1BKSUlRRi1ScFdBV0IzX3F2ZFhjbWNUS0tFdmtsdHFHMXNDMk1hZnFQNGVyS0J0WnduY3NfcW1sV1FPdDRsMTBTZkF5X1JjbHhVcGhDT3ZEQnpGeUZCbHp3Q3k5YUlSQS0tUkZvcmxYM2tKRXRPdWdHbEFsZVhxbmJrcE5MdW5TU0JjWVBXT3lJSHA0UG1iQW9IcFRSY01R?oc=5"
+        },
+        {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdmF2ZE5EVkwtQ2RFdWttSVNOSUpaakRIOS1sdVlOWlo0Y3JxREladTBBYTJCaVI4Qy1NWE5tOEs0ZDVuaGxTb01vTG1iZk8tLXh2Z2VJTmZmRFBCSm5yeU9YclltUFh2eVFrUXNfc0hRTGNLUTdQcVdCYlc4NmZDQjEwMmRkeVdqMkdYUFJ3a3prb0p0bFNqeVE1TzRUZWNMSWx5eF9vUmJuLVg5UG1YR3d2UmxxYVBXZXJkd09qUURHMHM?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Cheaper, Open and Intelligent: Chinese AI Models Gain Ground, as They Make Inroads in the US",
+        "Cheaper, open and intelligent: Chinese AI models gain ground, as they make inroads in the US"
+      ]
+    }
+  ]
 }
