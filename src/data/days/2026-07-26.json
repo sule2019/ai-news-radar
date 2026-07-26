@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 32,
+      "signal": 54,
       "sources": 2,
       "ts": "2026-07-26T16:16:44.000Z",
       "writtenSources": 2,
@@ -22,17 +22,51 @@
       ],
       "l": [
         {
-          "d": "wtop.com",
-          "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbzhqc3VrWkxES0VDN0l5eUdzQlBoY25GMm5BdkFFZ3ZzdXd5Ty1nQzM1Njd5U0k5TFAwVXdYZmxHRkVsV3l5el9mNkRUb2ZZSEJJdlM3b3pmY1RkbnpwcFdIRFZLcXFTcEpwMmwtRlE1Rmd6eWNQQUJpQW9Jc3gyVUFBZnBaUHZOWGh4Q2I4Q3ZSSEtqMEd4YTVhMlE1LUlic21SNHRiekhNWG5iT3lPcERUQWNfTUNTYlZGNTM2RWM3ckNtNTdFejBWYUs?oc=5"
+          "d": "fortune.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkgyYmNRLUxnbVFmNmdQcVRqSFhyekVwVzhaVzBObXdJZ1d6RktnSWxpMWVXTDZfWnlNZEhISjl1UFBPWVZJTTVwMUFZdEQwZnZNdmZBbzkzSEtqZUdJSXpfV2dDdHpjSllPeDdPMlFNYXFoUGpnUUh3RW5MdjdOT0JpZkViZ0hLdlZVdEZZM2c0ZEY4aXFJMVNHQXpYS3JxbVI0?oc=5"
         },
         {
-          "d": "washingtonpost.com",
-          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVmF4dGM5YXJlVHdTOWF6Vld0RUJzanJWLVZ3MklQUnA2eDI0SjBuTnR4SlpTMUhtMFFZR1gwQnNPUmsyMkZ2M3FhQ0RhR0U3M1NxQ0hmelNrQWJOeHgyNng1LVJHQzczT3ZsZXlDd2pIanhlVy1QREFmcVNua2ZIQ2hGbkNDMHctVDFOR2o4NzZkaHkwd2ljZ3h5SG9uQTdvS2YwVjIxYXpXUzNNclRRdTY0SGlfUzZwWXczWnA4eVFaQW9raGVPdDZfQmg4SmRqZXgyeXp0MlpGTU0?oc=5"
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNR3A5aGI2dDlxSDNuM2F6Z0VZMmszN0UxSTNKdnA0d3JGeTQ5dlI4N1BsNXZ1SDFCVTBfa0xNX2JfN1V4M25Ua21XdFNEWlNJd0JBVEUwOE5WejdzWFVrcEJTYWxHY2lBSjVqZmllemdDS0JjWWE0eFo3TE1nZTF2c0RXZ3VhSzhaNDJ5ZC11cE55QW9nYndFWGI4R2lmUDdFWkZzTlRPUQ?oc=5"
         }
       ],
       "srcTitles": [
-        "For some, so-called ‘Skynet Day’ came too close to sci-fi after a rogue agent hacked into a startup",
+        "'Skynet Day' is now shorthand for OpenAI's agent going rogue and hacking into a startup",
         "For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-07-26T13:00:00.000Z",
+      "writtenSources": 2,
+      "h": "Big Tech earnings face investor revolt over AI spending",
+      "s": "This matters because it signals a shift in investor tolerance for AI-related spending and could influence how tech firms value their AI initiatives and allocate funds",
+      "b": [
+        "Bloomberg.com and Fortune both ran the same framing about AI spending and earnings",
+        "The headline cited is 'Big Tech Earnings Slam Into a Market in Revolt Over AI Spending'",
+        "No numeric data, dates, or company-by-company detail is provided in the shared text"
+      ],
+      "body": [
+        "Bloomberg.com and Fortune published stories that frame this earnings season as Big Tech earnings colliding with a market that is increasingly resistant to AI-related costs. The coverage centers on investor concerns around AI spending by major technology firms and the potential impact on earnings trajectories.",
+        "The two outlets share a headline that emphasizes a revolt over AI spending, signaling a broader market reassessment of how aggressively companies should invest in AI initiatives.",
+        "The supplied material offers no numeric data, company-by-company breakdowns, or dates beyond the headline itself, so the full specifics and individual company performances are not detailed here.",
+        "What happens next is not outlined in the provided material; readers will need additional reporting to quantify the impact on earnings, spending, or stock performance."
+      ],
+      "l": [
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLTlyY0loRTZCSWVPcmtFSW0zWUF3Tmc3ekN1ajNfMkZYZThOTFJLaDNxdUNCaVNyb0ZHQTB4b01QREFXVXcwZkdRYUExUkdoOFRPMHdXelRNRTZ5ZV9XM0twdi1neDZvWmdEZjFHdmxiZXJHSWpiWDN5WWFmVFRWY0xDdmtLN25HSEloYXpjeUFqRjlZMmhQbWtzSnZ3amRjeEEtODlfa1BSS3Z6bnFUVE43TkE?oc=5"
+        },
+        {
+          "d": "fortune.com",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT3RZajdfZVBqRTR4TFVYZlh1bUMwUEZtRnRORzlQVk9jcnJMVTdqRl9aN19YS0JNZjl1SWVFUFJSUlBQel9HeTVLeV8wSDRvS1NpR3dyXzZfckVIUWtKeUFkZnZpTE45OTc5T3poNVpMQ2JWeDVtTnFtMWQ1c0k5YlFvNTNpX0NnS3VLMG5lTnRvQ25TYmw0WjVZTWd6RnRxbi1GNWZ3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Big Tech Earnings Slam Into a Market in Revolt Over AI Spending",
+        "Big Tech earnings slam into a market in revolt over AI spending"
       ]
     },
     {
