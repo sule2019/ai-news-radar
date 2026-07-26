@@ -22,8 +22,8 @@
       ],
       "l": [
         {
-          "d": "abc7.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPalgyZnZUblNzYkthY254aFUxOFBFaDhiMno5dGgwODl5cWZROWZkUkFlSHlxU0lWNy1OVHR6ZjVUellJWkpwMUY4NTJ3U3hpLUE1T2xHSFlaNkFnRElKcXpGWGVRd25iUncwcTljNVFpN1BPZlF2VmlOMHpxN0NxckU5bVcwZUtwSDFUTkNlLVpaYUZUTkhLMDE3aXRFUHZxZjg40gGoAUFVX3lxTE1jTWRYN3Z5NXNqSV9nY2JZY2QxYkQ1OFM3LXNRRHRVZml2aXFhLTROV2xfVnhvVGFsaVhCdXBUaksxWlNGNDdnOU1OTGxrQWUzNWVtZmxCQldmQzMwMGRsUWVyb05OOGZKZHNJLVVfT2lscEdXTHVjVk1jNnFZTkRkQ2JKSUNDTVZhNHFDcVV3YTBoaUZ0dVBPa1VmdE10dmhrcTBDOWJIRw?oc=5"
+          "d": "fortune.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQkgyYmNRLUxnbVFmNmdQcVRqSFhyekVwVzhaVzBObXdJZ1d6RktnSWxpMWVXTDZfWnlNZEhISjl1UFBPWVZJTTVwMUFZdEQwZnZNdmZBbzkzSEtqZUdJSXpfV2dDdHpjSllPeDdPMlFNYXFoUGpnUUh3RW5MdjdOT0JpZkViZ0hLdlZVdEZZM2c0ZEY4aXFJMVNHQXpYS3JxbVI0?oc=5"
         },
         {
           "d": "apnews.com",
@@ -31,13 +31,50 @@
         }
       ],
       "srcTitles": [
-        "For some, so-called 'Skynet Day' came too close to sci-fi after a rogue OpenAI agent hacked into a startup",
+        "'Skynet Day' is now shorthand for OpenAI's agent going rogue and hacking into a startup",
         "For some, so-called 'Skynet Day' came too close to sci-fi after a rogue agent hacked into a startup"
       ]
     },
     {
       "cat": "funding",
-      "signal": 18,
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-07-26T10:20:00.000Z",
+      "writtenSources": 2,
+      "h": "Micron vs Nvidia: which is the better AI stock",
+      "s": "The coverage shows ongoing AI stock debates by publisher outlets, signaling investor interest in whether a traditional chipmaker or Nvidia-led plays will lead in AI growth.",
+      "b": [
+        "Yahoo Finance published 'Is Micron a Better Artificial Intelligence (AI) Stock Than Nvidia?'",
+        "The Motley Fool published 'Is Micron a Better Artificial Intelligence (AI) Stock Than Nvidia?'",
+        "Yahoo Finance published 'SpaceX vs. Nvidia: Which Trillion-Dollar Artificial Intelligence (AI) Stock Is the Better Buy After the Recent Pullback?'",
+        "The articles focus on AI stock comparisons involving Nvidia and peers, with no numbers or buy/sell guidance provided in the headlines"
+      ],
+      "body": [
+        "Yahoo Finance published an article with the headline Is Micron a Better Artificial Intelligence (AI) Stock Than Nvidia?, and The Motley Fool published a piece carrying the same title. These items are the first two strands of coverage in the provided set.",
+        "In addition, Yahoo Finance released a piece titled SpaceX vs. Nvidia: Which Trillion-Dollar Artificial Intelligence (AI) Stock Is the Better Buy After the Recent Pullback?, highlighting Nvidia in a separate AI-stock comparison and noting a recent pullback as part of the framing.",
+        "The coverage records these headlines as the basis for AI stock discussion, signaling continued interest in how Nvidia compares with other players such as Micron and SpaceX in the AI investment landscape.",
+        "No further specifics, data, or quotes from the articles are provided in the coverage excerpt, so the exact analysis, figures, or recommendations are not disclosed here.",
+        "The next steps or conclusions from the articles are not included in the coverage text provided."
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMkd6clo2eFhram5uODJkV25OUWQ0RDVnSUtlekxlZEphelpyWmF0dkljVVA3SlB4X2hueWpSbUhENlloeERQUFpOSkhOcFQtd01IUDdWdW1QRnRibEEyZGZNSkxZRU5WWl9tWEY5R0RVSG5Hd290RVNBd2VxcEVnUHd5YWptcEFsak5XTmlVQzBEdWVsbWZlSXlaX0NPTTZmMkY3U1R4bGo?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdGN4VldSLXUxT0g2Uy1LQy1oTFJSWl9xQmpwY1lHZVN5WHBzQ1Y3RmctaTgwdTVzajRYb0VmWEdZNjFGeVpXTmdxZkNpNFFxUHlGdmR2azRJTjJrOXlBR3lTNHlGVlg2RjRPN0dxbmVaM1FXVjlzUDJqM3VTVmZVN2pTWkVSVkUySVBfSEd2eDkyRkFERFY5Wg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Is Micron a Better Artificial Intelligence (AI) Stock Than Nvidia?",
+        "Is Micron a Better Artificial Intelligence (AI) Stock Than Nvidia?",
+        "SpaceX vs. Nvidia: Which Trillion-Dollar Artificial Intelligence (AI) Stock Is the Better Buy After the Recent Pullback?"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 15,
       "sources": 2,
       "ts": "2026-07-26T13:00:00.000Z",
       "writtenSources": 2,
