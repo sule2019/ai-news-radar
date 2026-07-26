@@ -3,6 +3,42 @@
   "stories": [
     {
       "cat": "funding",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-07-26T23:19:00.000Z",
+      "writtenSources": 2,
+      "h": "Nvidia in talks with OpenAI to guarantee $250 billion financing for data center",
+      "s": "According to the Wall Street Journal, the plan would finance a 10GW data-center project in Ohio with power controlled by the U.S. government, potentially creating one of the largest AI computing hubs in the United States.",
+      "b": [
+        "$250 billion financing backstop for a data-center project",
+        "10GW data center in Ohio being developed by SoftBank",
+        "Power for the site reportedly controlled by the U.S. government",
+        "Exclusive WSJ reporting on ongoing negotiations (no financing agreement yet)"
+      ],
+      "body": [
+        "The Wall Street Journal reports that Nvidia is in discussions with OpenAI to guarantee $250 billion in financing for a data-center project. The talks are described as exclusive and are still ongoing, with no binding agreement announced at this time.",
+        "The project is said to be a 10 gigawatt data-center development in Ohio, developed by SoftBank. The scale would place it among the largest AI computing hubs proposed in the United States.",
+        "According to the report, the plan would involve power for the facility that is controlled by the U.S. government, a detail highlighted by WSJ in describing the arrangement.",
+        "The Journal notes that these discussions are in a formative stage with no financing guarantee yet, but the reports underscore the potential shift in how large-scale AI compute infrastructure could be financed and located in the United States.",
+        "If realized, the backstop could underpin a major compute hub and influence the allocation of capex and policy considerations around AI infrastructure."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260726/p10#a260726p10"
+        },
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHE0OEhmOHhqTDNLbU9NSXRleVFYNGZubkkyYjJKNVpTRGtYQmFPWGRYUjVQZDdnc0pQX3BZaldxeEE1MUYtSmZ3Q2JPdGo1MnAxT2VTSFVGUDdqdUJaVGJ1N0hvVVVsMkNIS2I3dXBlTVBfeGw0ZGxlRmtTVEZ5RE9Kc2JjTnFUbFhPakFHcTI1aXVzRTdHMHMwV2RwZ1gyZXJvUTlJODVXUXl1R19aMkh6T1cydw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: Nvidia is in talks to provide a ~$250B backstop for OpenAI as part of a 10GW data center project that SoftBank is developing in Ohio (Wall Street Journal)",
+        "Exclusive | Nvidia in Talks With OpenAI to Guarantee $250 Billion Financing for Data Center"
+      ]
+    },
+    {
+      "cat": "funding",
       "signal": 48,
       "sources": 2,
       "ts": "2026-07-26T10:20:00.000Z",
@@ -41,7 +77,7 @@
     },
     {
       "cat": "policy",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-07-26T16:16:44.000Z",
       "writtenSources": 2,
