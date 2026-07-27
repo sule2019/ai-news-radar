@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 63,
-      "sources": 5,
+      "signal": 59,
+      "sources": 3,
       "ts": "2026-07-27T05:06:03.000Z",
       "writtenSources": 7,
       "h": "OpenAI not part of the new Open Secure AI Alliance",
@@ -33,25 +33,17 @@
         {
           "d": "nextgov.com",
           "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWWJtUHJlRFExbEh0M25QSXI3ZGwzNXYtSEJUT1MwclVrTDZDWTNlalhfQkQxeC1Yd2E5MlpDS2J5WEdUMzAzM3BvT3BmZzFJV1BDb1lTT01BQU02Qk8tMjNfYm04UDZpS0RYRlpUeGFMZ1FISHk1a0JEWEI1ZE85N3plMVM4RHAyWjVFbUEyVnN4NzVmcjBOWEhrb29iUXhOeDhBVzFTWWl0ckIzdV80?oc=5"
-        },
-        {
-          "d": "csoonline.com",
-          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc3IzSU1LN3hLSWlTbXlFN003RVdWamhQcVA2M1BPamt1MzQwc3lzX0dTd21WYmZ0X1E5R3dtWFowT05KQzFDTUVHaTN3U1BsX2hKWGZGWFF2WlA4RG8yb0ExZ1d0YjhGaEM5Q3prUjdOVHpxbUNSU2hiTDBBelRqNnlQUEZubUdCZlhjR1o0LThuamY2a2l0OFhka3djdw?oc=5"
-        },
-        {
-          "d": "+1"
         }
       ],
       "srcTitles": [
         "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
         "OpenAI, Google, and Anthropic absent from Nvidia-led Open Secure AI Alliance — 30+ companies join security alliance after OpenAI agent breach",
-        "Over 30 companies form open-source AI alliance",
-        "OpenAI not part of the new Open Secure AI Alliance"
+        "Over 30 companies form open-source AI alliance"
       ]
     },
     {
       "cat": "products",
-      "signal": 61,
+      "signal": 58,
       "sources": 2,
       "ts": "2026-07-27T16:50:03.000Z",
       "writtenSources": 2,
@@ -86,7 +78,7 @@
     },
     {
       "cat": "models",
-      "signal": 59,
+      "signal": 56,
       "sources": 2,
       "ts": "2026-07-27T16:30:04.000Z",
       "writtenSources": 2,
@@ -152,6 +144,39 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-07-27T18:03:35.000Z",
+      "writtenSources": 2,
+      "h": "Nvidia’s $750 billion AI deals spark circular AI concerns",
+      "s": "The scale of Nvidia’s deals, framed around circular AI fears, could shape how investors view AI hardware ecosystems and how regulators scrutinize big technology transactions.",
+      "b": [
+        "$750 billion total value of Nvidia’s AI-related deals, as cited in the coverage.",
+        "Coverage appears in Bloomberg Law News and StartupHub.ai.",
+        "The discussion centers on the idea of “circular AI” and related concerns highlighted in the headlines."
+      ],
+      "body": [
+        "Bloomberg Law News reports that Nvidia has $750 billion in AI-related deals, a figure described in the article’s headline as reigniting concerns around circular AI. The coverage frames the topic within a larger debate over how Nvidia’s expansive deal activity interacts with sustainability and governance questions in the AI ecosystem.",
+        "StartupHub.ai also covers the topic with a headline that mirrors Bloomberg Law’s, noting Nvidia’s $750 billion in AI deals and labeling the scrutiny as related to “circular” AI. The coverage signals a cross-check of the same core figure and concern from two outlets, underscoring the amount at stake in AI deal activity.",
+        "The shorthand in both outlets centers on the phrase circular AI fears, indicating a broader conversation about the resilience, governance, and potential risks associated with large-scale AI hardware and software ecosystems. What happens next in the reporting remains to be seen as more details about the deals and their broader implications emerge."
+      ],
+      "l": [
+        {
+          "d": "news.bloomberglaw.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS0pna2d4dWs3NXBqbFFKYUtULUlqUU9IN1RMQXB2QmFCOVZ5T2hlVjlkUUlHUEZxRGotdXVvRmNTT1kzYVhiZndLOVYtZFZKMkk5bHFCMzJaTC1PcmQtSkZKMGlNTm1VaU1sRU1kOHBpbDc3OEU4ZnMxbmh6cDNPd0FTd0hCMmh6T2RyYTRTYUtlMUFoZ0xoZ2E3SW5DRHprYTF3cU84WDdnTnZBY19sQg?oc=5"
+        },
+        {
+          "d": "startuphub.ai",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZS1va2ktYWc1NnZ4T011SjdFSUtBYkNUbWJlR252eEpCT0lsVlU3NFI2U0VnSUYzcGdnSHkwR3dkMlF6S2xDZlJTb0V2bUwtM1FBT2YydmpfWVhxUW1taUdxVTVJZW9oVUVhWm9YX2toZkxuZjhVUEtWQ1U1aW5GeWZMLVR4UVAzY2lsV2RKMmRSaVAtZjBVT1JVamFPRG5WT1NRMGQtVl9BUmgyTDV6cy1Qbko0Zw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia’s $750 Billion in Deals Reignite Circular AI Fears (4)",
+        "Nvidia's $750 Billion AI Deals Face 'Circular' Scru…"
+      ]
+    },
+    {
       "cat": "research",
       "signal": 49,
       "sources": 1,
@@ -184,8 +209,39 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-07-27T10:03:10.000Z",
+      "writtenSources": 3,
+      "h": "Artificial Intelligence Technology Solutions, Inc. outlines six hardware releases and nine software initiatives",
+      "s": "AITX’s product roadmap signals how AI hardware and software vendors are lining up near-term releases to capture demand in the AI push.",
+      "b": [
+        "AITX plans six hardware releases and nine software initiatives.",
+        "Coverage appears on Stock Titan, TradingView, and MarketsScreener."
+      ],
+      "body": [
+        "Stock Titan reports that Artificial Intelligence Technology Solutions, Inc. (AITX) is outlining a roadmap that includes six hardware releases and nine software initiatives. TradingView reports a similar roadmap phrased as six hardware and nine software efforts. MarketsScreener echoes the same pattern in its coverage of the company’s product development plans."
+      ],
+      "l": [
+        {
+          "d": "stocktitan.net",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWxZNFBIUS14M0hxaWR3U0FNakVkM2JJdUwyRTR0NEpuZ3ZQYmd5N0lhXzJVOWJMTlVFdkQ1VUQ3dDR2ajhPeHpVbnZZNkgyZ3hpSnh2akxlVUZTYU5pSmVtQnlvSGNpUktucVktLTAzdjZodUFPU1hNVU0wVWFpdHQyRjdncnpEUVJrY0NEamY1amJyUjZITTdiQVV3VEcyZjJRMTlHdnN5SWNXaVBzX0lfeGxzWFQ3dnJXNnVXN29PVHNvQW93?oc=5"
+        },
+        {
+          "d": "tradingview.com",
+          "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLUpOTGNhR2UtQ1dKTHN6LTN3WFQxeEVqMHFsRENINE11eWZ4djc3V1l3YmpseDU5eTNZNTlpQnlrSFh3SWtoWmRBbEpjRU9tck9Heldhc2xZVUkwdTBON21BeUNzZXhXaGRhd0p1T2NkM0lQMEo0X2FmVXNxUkVjRWE4LURIdUZBdERUb0JTdXQ4bkx4TThpWG9hdldhcFVMMzJrbnFySTJUeFkyNzNZZUpvUTcyN1BHbDNTM0F2V0Zyd2M0VXR3U1h2MkVzZ3l1TUFSanNiZm1TYlZLaENrbmdDYmRRRUd2b05pQWQ4bS05ejd5dmxyaFB1OA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial Intelligence Technology Solutions Inc. SEC Filing (Jul 27, 2026)",
+        "Artificial Intelligence Technology Solutions, Inc. (AITX) plans 6 hardware, 9 software efforts",
+        "Artificial Intelligence Technology Solutions outlines roadmap for six hardware and nine software releases"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 38,
+      "signal": 34,
       "sources": 2,
       "ts": "2026-07-27T16:01:10.000Z",
       "writtenSources": 2,
@@ -216,37 +272,6 @@
       "srcTitles": [
         "OpenAI CEO Sam Altman claims AI singularity has arrived - ABC News",
         "Sam Altman Announces That the Singularity Has Arrived"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 36,
-      "sources": 2,
-      "ts": "2026-07-27T10:03:10.000Z",
-      "writtenSources": 3,
-      "h": "Artificial Intelligence Technology Solutions, Inc. outlines six hardware releases and nine software initiatives",
-      "s": "AITX’s product roadmap signals how AI hardware and software vendors are lining up near-term releases to capture demand in the AI push.",
-      "b": [
-        "AITX plans six hardware releases and nine software initiatives.",
-        "Coverage appears on Stock Titan, TradingView, and MarketsScreener."
-      ],
-      "body": [
-        "Stock Titan reports that Artificial Intelligence Technology Solutions, Inc. (AITX) is outlining a roadmap that includes six hardware releases and nine software initiatives. TradingView reports a similar roadmap phrased as six hardware and nine software efforts. MarketsScreener echoes the same pattern in its coverage of the company’s product development plans."
-      ],
-      "l": [
-        {
-          "d": "stocktitan.net",
-          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWxZNFBIUS14M0hxaWR3U0FNakVkM2JJdUwyRTR0NEpuZ3ZQYmd5N0lhXzJVOWJMTlVFdkQ1VUQ3dDR2ajhPeHpVbnZZNkgyZ3hpSnh2akxlVUZTYU5pSmVtQnlvSGNpUktucVktLTAzdjZodUFPU1hNVU0wVWFpdHQyRjdncnpEUVJrY0NEamY1amJyUjZITTdiQVV3VEcyZjJRMTlHdnN5SWNXaVBzX0lfeGxzWFQ3dnJXNnVXN29PVHNvQW93?oc=5"
-        },
-        {
-          "d": "tradingview.com",
-          "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLUpOTGNhR2UtQ1dKTHN6LTN3WFQxeEVqMHFsRENINE11eWZ4djc3V1l3YmpseDU5eTNZNTlpQnlrSFh3SWtoWmRBbEpjRU9tck9Heldhc2xZVUkwdTBON21BeUNzZXhXaGRhd0p1T2NkM0lQMEo0X2FmVXNxUkVjRWE4LURIdUZBdERUb0JTdXQ4bkx4TThpWG9hdldhcFVMMzJrbnFySTJUeFkyNzNZZUpvUTcyN1BHbDNTM0F2V0Zyd2M0VXR3U1h2MkVzZ3l1TUFSanNiZm1TYlZLaENrbmdDYmRRRUd2b05pQWQ4bS05ejd5dmxyaFB1OA?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Artificial Intelligence Technology Solutions Inc. SEC Filing (Jul 27, 2026)",
-        "Artificial Intelligence Technology Solutions, Inc. (AITX) plans 6 hardware, 9 software efforts",
-        "Artificial Intelligence Technology Solutions outlines roadmap for six hardware and nine software releases"
       ]
     },
     {
@@ -286,6 +311,39 @@
     },
     {
       "cat": "funding",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-07-27T20:13:42.000Z",
+      "writtenSources": 2,
+      "h": "AI seen as biggest investing theme in recorded history, expert argues",
+      "s": "If AI is indeed the dominant investing theme, markets and fund managers may adjust allocations and risk assessments to reflect AI concentration and related exposure, per Fox outlets.",
+      "b": [
+        "Fox News and Fox Business publish the same claim in separate pieces.",
+        "The claim attributes the idea to an unnamed expert in the headlines.",
+        "The coverage comes from Fox News and Fox Business."
+      ],
+      "body": [
+        "Fox News published an article stating that an expert argues AI is the biggest investing theme in recorded human history. The coverage presents AI as a central lens through which investors should view market opportunities and risks, according to Fox News.",
+        "Fox Business ran a similar piece with the same framing, attributing the assertion to an unnamed expert and reinforcing the notion that AI is the leading investment theme in recent history, per Fox Business.",
+        "Both outlets frame AI as a dominant narrative for investors, though the articles do not provide further details within the headline itself. The coverage suggests AI’s investment prominence is a topic of ongoing discussion among Fox News-affiliated outlets and reflects a broader media narrative about AI’s market impact."
+      ],
+      "l": [
+        {
+          "d": "foxnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8wcS1vMWZmOTY0WDBzc1hEUGhSNFYtelRHOWdCalZReTZFN3FjcU5YZlo0SnVrdDVzR3cwVGZxby0tY0k0WUJzV3M4RzlVcWtpaUdoV1p3?oc=5"
+        },
+        {
+          "d": "foxbusiness.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DN2tHeWJ5QVZacDNEaWotZzdnbk54bVphTGwwNWJIdVBqS3RrWjhmcURmcUdvWXc3ZGRqTlVYamMwLThLQWNQTENaY3h5d1hRT0cwdmlic2diQnM?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial intelligence the 'biggest single investing theme' in recorded human history, expert argues",
+        "Artificial intelligence the 'biggest single investing theme' in recorded human history, expert argues"
+      ]
+    },
+    {
+      "cat": "funding",
       "signal": 26,
       "sources": 2,
       "ts": "2026-07-27T14:00:00.000Z",
@@ -317,41 +375,6 @@
       "srcTitles": [
         "Massive Bio and GELL Announce Strategic Partnership to Advance Research, Medical Education, and Artificial Intelligence Across Latin America and the United States",
         "Massive Bio and GELL Announce Strategic Partnership to Advance Research, Medical Education, and Artificial Intelligence Across Latin America and the United States"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-07-27T12:25:00.000Z",
-      "writtenSources": 2,
-      "h": "SciSparc announces decision to target agentic AI",
-      "s": "The move signals a governance-focused push as the company targets agentic AI, including the formation of a Scientific Advisory Board for AI and cybersecurity.",
-      "b": [
-        "Company: SciSparc",
-        "Target area: agentic AI",
-        "Action taken: decision to target agentic AI; forms Scientific Advisory Board for AI and cybersecurity",
-        "Coverage sources: GlobeNewswire and TradingView"
-      ],
-      "body": [
-        "GlobeNewswire reported that SciSparc announced a decision to target what it calls agentic AI.",
-        "TradingView reported that the company forms a Scientific Advisory Board for Artificial Intelligence and Cybersecurity, indicating an emphasis on governance and oversight for advanced AI work.",
-        "The two outlets describe related but slightly different facets of SciSparc’s strategy: the initial targeting of agentic AI and the establishment of a formal scientific oversight body.",
-        "No further details on timeline, board members, or specific governance measures are provided in the cited coverage."
-      ],
-      "l": [
-        {
-          "d": "globenewswire.com",
-          "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNVi02U1hyUkRPNGw5cWs3dzQzZDNOcjhoNWJSaU9OUnRXRGZHR3VkTF9faGF0SVI5Z0EtdlhHVVZBenVLMUxkc0VsTlN2Zld4MG9mSExJYk9xam1HTTRzRjZyekJhY2VBVWI5NzdXQ0tSTGk0TzNLMXVvS2JKT1NNRzZFbHAzZW1aSnk3dWVURmpKYzN0dUtTcGFfNWdzcVQydlE5UTNqSTJhRWo0Rl9ELTRXbkFqY2JqamdVdkJUb0c0RFJaZElTakdIZ09BM0ZPSFk0SlNWdjZnLXFFRWlQbEJldXA2V0NGejFid2p1eXM4NmowVWtzZVRvVzF3NExIYllXdDlSVFVudnVGY2Y1Mzd6QUtMajEwZWI0Z3ktSy1FcWh4ZzdDNTF3bEd0N1ktUUgw?oc=5"
-        },
-        {
-          "d": "tradingview.com",
-          "u": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPX051aHQzaFBPSXY5SDdBeDRpX0FPbnpYZzRKUVFnN3hTRnJFbkc2TGpFTnlOOHdKS25NNkZJaHExaWlfb3hkbGJwci1HMGJGcnFqVWI2ZWIwUVNGTzUyd3hEUWlKYUdaeGVhSGNlQTR2QUdrYnNQZUFNTnl6eTd3azc5RzAtU2FjSzMzbFRaUEwwVjZnQ0lzSTJQd2ZqeTlJNjN1NE05NDNmaUNPWnQteGVBSkt2NHdGUTVnVndua2pNR0Zic1M5d0ZKSm5yLWJieURfQWU3cW8wbVJQajBHcFZhQmN2aC11em1jWEdhRlV6czJTbk9MaWM4eVVZWkxYVnFQWEw5QVdiN2puazZueUVYcUxfdGM3YmhpeGEzeXlsdkVKNlhEZWtDTVFqUFNq?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "SciSparc Announces Decision to Target the Agentic AI",
-        "Scisparc Announces Decision To Target The Agentic Ai Market Forms Scientific Advisory Board For Artificial Intelligence And Cybersecurity"
       ]
     },
     {
@@ -495,6 +518,41 @@
       ],
       "srcTitles": [
         "How AI is expanding what people do at work"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-07-27T12:25:00.000Z",
+      "writtenSources": 2,
+      "h": "SciSparc announces decision to target agentic AI",
+      "s": "The move signals a governance-focused push as the company targets agentic AI, including the formation of a Scientific Advisory Board for AI and cybersecurity.",
+      "b": [
+        "Company: SciSparc",
+        "Target area: agentic AI",
+        "Action taken: decision to target agentic AI; forms Scientific Advisory Board for AI and cybersecurity",
+        "Coverage sources: GlobeNewswire and TradingView"
+      ],
+      "body": [
+        "GlobeNewswire reported that SciSparc announced a decision to target what it calls agentic AI.",
+        "TradingView reported that the company forms a Scientific Advisory Board for Artificial Intelligence and Cybersecurity, indicating an emphasis on governance and oversight for advanced AI work.",
+        "The two outlets describe related but slightly different facets of SciSparc’s strategy: the initial targeting of agentic AI and the establishment of a formal scientific oversight body.",
+        "No further details on timeline, board members, or specific governance measures are provided in the cited coverage."
+      ],
+      "l": [
+        {
+          "d": "globenewswire.com",
+          "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNVi02U1hyUkRPNGw5cWs3dzQzZDNOcjhoNWJSaU9OUnRXRGZHR3VkTF9faGF0SVI5Z0EtdlhHVVZBenVLMUxkc0VsTlN2Zld4MG9mSExJYk9xam1HTTRzRjZyekJhY2VBVWI5NzdXQ0tSTGk0TzNLMXVvS2JKT1NNRzZFbHAzZW1aSnk3dWVURmpKYzN0dUtTcGFfNWdzcVQydlE5UTNqSTJhRWo0Rl9ELTRXbkFqY2JqamdVdkJUb0c0RFJaZElTakdIZ09BM0ZPSFk0SlNWdjZnLXFFRWlQbEJldXA2V0NGejFid2p1eXM4NmowVWtzZVRvVzF3NExIYllXdDlSVFVudnVGY2Y1Mzd6QUtMajEwZWI0Z3ktSy1FcWh4ZzdDNTF3bEd0N1ktUUgw?oc=5"
+        },
+        {
+          "d": "tradingview.com",
+          "u": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPX051aHQzaFBPSXY5SDdBeDRpX0FPbnpYZzRKUVFnN3hTRnJFbkc2TGpFTnlOOHdKS25NNkZJaHExaWlfb3hkbGJwci1HMGJGcnFqVWI2ZWIwUVNGTzUyd3hEUWlKYUdaeGVhSGNlQTR2QUdrYnNQZUFNTnl6eTd3azc5RzAtU2FjSzMzbFRaUEwwVjZnQ0lzSTJQd2ZqeTlJNjN1NE05NDNmaUNPWnQteGVBSkt2NHdGUTVnVndua2pNR0Zic1M5d0ZKSm5yLWJieURfQWU3cW8wbVJQajBHcFZhQmN2aC11em1jWEdhRlV6czJTbk9MaWM4eVVZWkxYVnFQWEw5QVdiN2puazZueUVYcUxfdGM3YmhpeGEzeXlsdkVKNlhEZWtDTVFqUFNq?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "SciSparc Announces Decision to Target the Agentic AI",
+        "Scisparc Announces Decision To Target The Agentic Ai Market Forms Scientific Advisory Board For Artificial Intelligence And Cybersecurity"
       ]
     },
     {
