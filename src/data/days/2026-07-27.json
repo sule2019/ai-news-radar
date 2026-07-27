@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 69,
-      "sources": 5,
+      "signal": 68,
+      "sources": 3,
       "ts": "2026-07-27T05:06:03.000Z",
       "writtenSources": 3,
       "h": "OpenAI not part of the new Open Secure AI Alliance",
@@ -25,22 +25,14 @@
           "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc3IzSU1LN3hLSWlTbXlFN003RVdWamhQcVA2M1BPamt1MzQwc3lzX0dTd21WYmZ0X1E5R3dtWFowT05KQzFDTUVHaTN3U1BsX2hKWGZGWFF2WlA4RG8yb0ExZ1d0YjhGaEM5Q3prUjdOVHpxbUNSU2hiTDBBelRqNnlQUEZubUdCZlhjR1o0LThuamY2a2l0OFhka3djdw?oc=5"
         },
         {
-          "d": "jamaica-gleaner.com",
-          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcjFwM3NzMG1oUnRIMG5ncloxUERCS2htZnFxb0JheVBRVFpKMDBMa2cwRXRNQTJsQXpTNFNqcWhwY2t2TTQ2Q2VOUmxEcUFfbkZoWlFjcGJpcGZvNXhLeWtSRUZ5dUFvQ21rR1h3ek5PSkZhTWhYcVRXNjROTU5hZVd1M21FcFIzNExqRnZiaFV5andpNk1NUkdlemhQS2dDTm9SajJtNFprMlJxZ0tzSmpHUjltRjU5TDJRRWtaTXg?oc=5"
-        },
-        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260727/p9#a260727p9"
-        },
-        {
-          "d": "+1"
         }
       ],
       "srcTitles": [
-        "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
+        "Nvidia, Microsoft launch open AI security alliance — without OpenAI, Google, or Anthropic",
         "OpenAI not part of the new Open Secure AI Alliance",
-        "‘AI not the problem’ - Artificial intelligence expert warns CXC preparing students for ‘a world that no longer exists’",
-        "Nvidia launches the Open Secure AI Alliance, a coalition with Hugging Face and others to develop and share tools for AI safety and cybersecurity (Jaspreet Singh/Reuters)"
+        "Nvidia forms the Open Secure AI Alliance, a coalition including CrowdStrike, Hugging Face, and Dell to develop and share tools for AI safety and cybersecurity (Jaspreet Singh/Reuters)"
       ]
     },
     {
@@ -76,8 +68,84 @@
       ]
     },
     {
-      "cat": "funding",
+      "cat": "products",
       "signal": 40,
+      "sources": 3,
+      "ts": "2026-07-27T10:03:10.000Z",
+      "writtenSources": 3,
+      "h": "Artificial Intelligence Technology Solutions, Inc. outlines six hardware releases and nine software initiatives",
+      "s": "AITX’s product roadmap signals how AI hardware and software vendors are lining up near-term releases to capture demand in the AI push.",
+      "b": [
+        "AITX plans six hardware releases and nine software initiatives.",
+        "Coverage appears on Stock Titan, TradingView, and MarketsScreener."
+      ],
+      "body": [
+        "Stock Titan reports that Artificial Intelligence Technology Solutions, Inc. (AITX) is outlining a roadmap that includes six hardware releases and nine software initiatives. TradingView reports a similar roadmap phrased as six hardware and nine software efforts. MarketsScreener echoes the same pattern in its coverage of the company’s product development plans."
+      ],
+      "l": [
+        {
+          "d": "stocktitan.net",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWxZNFBIUS14M0hxaWR3U0FNakVkM2JJdUwyRTR0NEpuZ3ZQYmd5N0lhXzJVOWJMTlVFdkQ1VUQ3dDR2ajhPeHpVbnZZNkgyZ3hpSnh2akxlVUZTYU5pSmVtQnlvSGNpUktucVktLTAzdjZodUFPU1hNVU0wVWFpdHQyRjdncnpEUVJrY0NEamY1amJyUjZITTdiQVV3VEcyZjJRMTlHdnN5SWNXaVBzX0lfeGxzWFQ3dnJXNnVXN29PVHNvQW93?oc=5"
+        },
+        {
+          "d": "tradingview.com",
+          "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLUpOTGNhR2UtQ1dKTHN6LTN3WFQxeEVqMHFsRENINE11eWZ4djc3V1l3YmpseDU5eTNZNTlpQnlrSFh3SWtoWmRBbEpjRU9tck9Heldhc2xZVUkwdTBON21BeUNzZXhXaGRhd0p1T2NkM0lQMEo0X2FmVXNxUkVjRWE4LURIdUZBdERUb0JTdXQ4bkx4TThpWG9hdldhcFVMMzJrbnFySTJUeFkyNzNZZUpvUTcyN1BHbDNTM0F2V0Zyd2M0VXR3U1h2MkVzZ3l1TUFSanNiZm1TYlZLaENrbmdDYmRRRUd2b05pQWQ4bS05ejd5dmxyaFB1OA?oc=5"
+        },
+        {
+          "d": "marketscreener.com",
+          "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOck9DRzl2SXFUWVJMZUNrZ1VKV1JOM3Q2M05fdlZWNkhRa2xQYzVGeWZJTnVuVzBOUlBiX3RnRVBvckVwZzBuOEdGVVdyQ2EtZkZHOHdtRDRJOGhoYmZwV2M5OVhIaXJCNmQ0SUh5SXVwS1JZSEJqd0swLWJxRnAxQmo4Y1gyX0pjR2ZzRVpGZ2U4X3BaZDZmSG5YWmducUJtOGU3Y3pYZXltbGFKaEZQQndmSGEwZzFYdVF5MXlqUWw4MlE2Ri1BVENIRnN6bnRpZHo3V0JhNkpDUkpRdUVXQTNHWHFNRUk?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial Intelligence Technology Solutions Inc. SEC Filing (Jul 27, 2026)",
+        "Artificial Intelligence Technology Solutions, Inc. (AITX) plans 6 hardware, 9 software efforts",
+        "Artificial Intelligence Technology Solutions outlines roadmap for six hardware and nine software releases",
+        "Artificial Intelligence Technology Solutions Inc Outlines Product Development Roadmap Targeting Six Hardware Releases and Nine Software Initiatives"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 36,
+      "sources": 3,
+      "ts": "2026-07-27T14:00:00.000Z",
+      "writtenSources": 3,
+      "h": "Massive Bio and GELL announce strategic partnership to advance research, medical education, and artificial intelligence across Latin America and the United States",
+      "s": "The partnership signals cross-border collaboration in healthcare AI across Latin America and the United States, potentially influencing how AI is applied in research and medical education in both regions.",
+      "b": [
+        "Parties involved: Massive Bio and GELL",
+        "Focus areas: research, medical education, and artificial intelligence",
+        "Regions covered: Latin America and the United States",
+        "Nature of release: press release distributed by Business Wire and carried by multiple outlets (Rutland Herald, News-Press NOW)"
+      ],
+      "body": [
+        "A press release distributed by Business Wire announced that Massive Bio and GELL have formed a strategic partnership to advance research, medical education, and artificial intelligence across Latin America and the United States.",
+        "The same headline was published by other outlets, including Rutland Herald and News-Press NOW, underscoring the cross-regional scope of the agreement.",
+        "The articles accompanying the headline do not provide additional details on terms, scope, or timelines beyond the stated aims of the partnership.",
+        "At this time, coverage does not outline next steps or specific projects tied to the collaboration, leaving the operational details and expected milestones unreported in the cited outlets."
+      ],
+      "l": [
+        {
+          "d": "businesswire.com",
+          "u": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQMDJmblF6R3hfWUtyTFAyeU1BMWJza0dvYjNvVXZwaHZic2xUZ0NLM3dfOXJEd1R4czExdVBMUzNhNmhINWdrVFdYYXRkUWJhcHB2clJUdG4wRnJyNUVtcWMyT1BVdkVJMGExc3VxSjFTUmpHUTQ5U2NSR0RuTUNCRXRZT1g4RS05UUFsQlRhYUJLV2N1VVhYR0tEVnJrVXEtSVBSNjZ5ZVg0TVZzbDFEdHF0SEE1by1iVkJWMFNiZUJIWFoySkh2cFRRTVNQZGdtM1ltanpoWS1Nd2NPZHZJUnk5QXYxTGF1WUlxaGpBaDF6NHFsU3dqN2wzWU5DOER6T3BIbzg3Y01Zazd4SDRBN3hhbEVhMnR3QUJ3MkdVSk1LUW9LUFFwSkhTWVhtWTdZeEQwa19DRTFwaExUQnc?oc=5"
+        },
+        {
+          "d": "rutlandherald.com",
+          "u": "https://news.google.com/rss/articles/CBMitgJBVV95cUxQZTVZT0pjTlp3OWxMT21PU0IteHhZNVNEVjdWTGV2TEQ5dXpFRU9VUVN0aHZkeDdaQnQ1aUducmpOZWpfOEVBRDhFWjBiRG41UDVfaGgtcmdmTjZHMW1tOF9KdXV6UjM2OEtHcENVY3U1d0YwYVJjczZjcFVwUVJGb1hxaFY1WEdBTzdOV0FzRUc2bkFaTXNQUW1TcXpUNmNRNFJUTnNzRWNSTVNERzNUYkhNQmJPRDZ1ellsNVhycTA1dFZRMDFNS05XYmg5UjRrSzRDLWl2ck0yRWJmbWNIWGhSWFFhemZfMDdHTGlkQVRDU0g4OHFPdWl3YVRCT182UDgzS2lEazlyQzRfbTBMbzg4Qzg5eEhoM2pLODVsbmdOYkN0WFBDaDhsN29kdU5BczZtX1Nn?oc=5"
+        },
+        {
+          "d": "newspressnow.com",
+          "u": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNNjNOSS1nQkdoUnFVWGg0aEFSWXgxOXRHckRkNDJ0ZEpVRlg5LWFQblFnYTE0ajZyNXk0c2l2RTBqTm5yUTV3aTBibHB5STdTMHdmUVl5T3FJZWVkbjZlXzN1OVU5ZkFEaWVQQkYzZnFUNGo0SjdybF80Ym8tZk9TZ2dVRTlWYUxTVjRXWlBBeXYzbVhhLTMxdC1LU29sVkkzWS1yV1dMM3EyanJWNi1YZkdTdWRXb0lVd0ZQYWpsWHdwUmgzRk9wZUUxVk52MURBUHFjQ1RpZnZvclpab0RibmE5ZU04QmFzUldXdU5SbVd5NmRuZmlaM3FjbmtQYzI5bEh0cEFHYnV4OWdzNlBLejFQQXhVNWZtZkxGMWlKUlFVM0F5MmdxUGlReVNyOGFaVkE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Massive Bio and GELL Announce Strategic Partnership to Advance Research, Medical Education, and Artificial Intelligence Across Latin America and the United States",
+        "Massive Bio and GELL Announce Strategic Partnership to Advance Research, Medical Education, and Artificial Intelligence Across Latin America and the United States",
+        "Massive Bio and GELL Announce Strategic Partnership to Advance Research, Medical Education, and Artificial Intelligence Across Latin America and the United States - News-Press NOW"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 36,
       "sources": 2,
       "ts": "2026-07-27T00:55:03.000Z",
       "writtenSources": 2,
@@ -112,43 +180,43 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 33,
-      "sources": 3,
-      "ts": "2026-07-27T10:03:10.000Z",
-      "writtenSources": 3,
-      "h": "Artificial Intelligence Technology Solutions, Inc. outlines six hardware releases and nine software initiatives",
-      "s": "AITX’s product roadmap signals how AI hardware and software vendors are lining up near-term releases to capture demand in the AI push.",
+      "cat": "funding",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-07-27T12:25:00.000Z",
+      "writtenSources": 2,
+      "h": "SciSparc announces decision to target agentic AI",
+      "s": "The move signals a governance-focused push as the company targets agentic AI, including the formation of a Scientific Advisory Board for AI and cybersecurity.",
       "b": [
-        "AITX plans six hardware releases and nine software initiatives.",
-        "Coverage appears on Stock Titan, TradingView, and MarketsScreener."
+        "Company: SciSparc",
+        "Target area: agentic AI",
+        "Action taken: decision to target agentic AI; forms Scientific Advisory Board for AI and cybersecurity",
+        "Coverage sources: GlobeNewswire and TradingView"
       ],
       "body": [
-        "Stock Titan reports that Artificial Intelligence Technology Solutions, Inc. (AITX) is outlining a roadmap that includes six hardware releases and nine software initiatives. TradingView reports a similar roadmap phrased as six hardware and nine software efforts. MarketsScreener echoes the same pattern in its coverage of the company’s product development plans."
+        "GlobeNewswire reported that SciSparc announced a decision to target what it calls agentic AI.",
+        "TradingView reported that the company forms a Scientific Advisory Board for Artificial Intelligence and Cybersecurity, indicating an emphasis on governance and oversight for advanced AI work.",
+        "The two outlets describe related but slightly different facets of SciSparc’s strategy: the initial targeting of agentic AI and the establishment of a formal scientific oversight body.",
+        "No further details on timeline, board members, or specific governance measures are provided in the cited coverage."
       ],
       "l": [
         {
-          "d": "stocktitan.net",
-          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS040SDh1ZkRhQzdPR0lOS3hpcjBrVWR0cUp2RGFSZVVMczFsc1hDN2F2YVdZV3g3YU1tTTJpVUhlWmtnMkpVR0VpMEZJaUMwSEhHRjVHbm45UWIySjNqSDJnSmk0ODdmU0NqLWROZ1dNV2FydjBiaHNSQzlmcFdWYWJwalJaRmY5V2VCTlFOcFczQnJSeERQRkYzbEM1S05IeXktMGVNdHJJRVdqU1BpTXVmVjU0bnczRWhKVnJnOWJtelZ3Y2k2dFJ4Zw?oc=5"
+          "d": "globenewswire.com",
+          "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNVi02U1hyUkRPNGw5cWs3dzQzZDNOcjhoNWJSaU9OUnRXRGZHR3VkTF9faGF0SVI5Z0EtdlhHVVZBenVLMUxkc0VsTlN2Zld4MG9mSExJYk9xam1HTTRzRjZyekJhY2VBVWI5NzdXQ0tSTGk0TzNLMXVvS2JKT1NNRzZFbHAzZW1aSnk3dWVURmpKYzN0dUtTcGFfNWdzcVQydlE5UTNqSTJhRWo0Rl9ELTRXbkFqY2JqamdVdkJUb0c0RFJaZElTakdIZ09BM0ZPSFk0SlNWdjZnLXFFRWlQbEJldXA2V0NGejFid2p1eXM4NmowVWtzZVRvVzF3NExIYllXdDlSVFVudnVGY2Y1Mzd6QUtMajEwZWI0Z3ktSy1FcWh4ZzdDNTF3bEd0N1ktUUgw?oc=5"
         },
         {
           "d": "tradingview.com",
-          "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOLUpOTGNhR2UtQ1dKTHN6LTN3WFQxeEVqMHFsRENINE11eWZ4djc3V1l3YmpseDU5eTNZNTlpQnlrSFh3SWtoWmRBbEpjRU9tck9Heldhc2xZVUkwdTBON21BeUNzZXhXaGRhd0p1T2NkM0lQMEo0X2FmVXNxUkVjRWE4LURIdUZBdERUb0JTdXQ4bkx4TThpWG9hdldhcFVMMzJrbnFySTJUeFkyNzNZZUpvUTcyN1BHbDNTM0F2V0Zyd2M0VXR3U1h2MkVzZ3l1TUFSanNiZm1TYlZLaENrbmdDYmRRRUd2b05pQWQ4bS05ejd5dmxyaFB1OA?oc=5"
-        },
-        {
-          "d": "marketscreener.com",
-          "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOck9DRzl2SXFUWVJMZUNrZ1VKV1JOM3Q2M05fdlZWNkhRa2xQYzVGeWZJTnVuVzBOUlBiX3RnRVBvckVwZzBuOEdGVVdyQ2EtZkZHOHdtRDRJOGhoYmZwV2M5OVhIaXJCNmQ0SUh5SXVwS1JZSEJqd0swLWJxRnAxQmo4Y1gyX0pjR2ZzRVpGZ2U4X3BaZDZmSG5YWmducUJtOGU3Y3pYZXltbGFKaEZQQndmSGEwZzFYdVF5MXlqUWw4MlE2Ri1BVENIRnN6bnRpZHo3V0JhNkpDUkpRdUVXQTNHWHFNRUk?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPX051aHQzaFBPSXY5SDdBeDRpX0FPbnpYZzRKUVFnN3hTRnJFbkc2TGpFTnlOOHdKS25NNkZJaHExaWlfb3hkbGJwci1HMGJGcnFqVWI2ZWIwUVNGTzUyd3hEUWlKYUdaeGVhSGNlQTR2QUdrYnNQZUFNTnl6eTd3azc5RzAtU2FjSzMzbFRaUEwwVjZnQ0lzSTJQd2ZqeTlJNjN1NE05NDNmaUNPWnQteGVBSkt2NHdGUTVnVndua2pNR0Zic1M5d0ZKSm5yLWJieURfQWU3cW8wbVJQajBHcFZhQmN2aC11em1jWEdhRlV6czJTbk9MaWM4eVVZWkxYVnFQWEw5QVdiN2puazZueUVYcUxfdGM3YmhpeGEzeXlsdkVKNlhEZWtDTVFqUFNq?oc=5"
         }
       ],
       "srcTitles": [
-        "Artificial Intelligence Technology Solutions, Inc. (AITX) plans 6 hardware, 9 software efforts",
-        "Artificial Intelligence Technology Solutions outlines roadmap for six hardware and nine software releases",
-        "Artificial Intelligence Technology Solutions Inc Outlines Product Development Roadmap Targeting Six Hardware Releases and Nine Software Initiatives"
+        "SciSparc Announces Decision to Target the Agentic AI",
+        "Scisparc Announces Decision To Target The Agentic Ai Market Forms Scientific Advisory Board For Artificial Intelligence And Cybersecurity"
       ]
     },
     {
       "cat": "products",
-      "signal": 32,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-07-27T11:15:00.000Z",
       "writtenSources": 2,
@@ -178,7 +246,7 @@
     },
     {
       "cat": "research",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-07-27T12:00:00.000Z",
       "writtenSources": 1,
@@ -211,7 +279,7 @@
     },
     {
       "cat": "research",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-07-27T11:40:16.000Z",
       "writtenSources": 1,
@@ -235,13 +303,12 @@
         }
       ],
       "srcTitles": [
-        "Closing the data loop in AI-driven drug discovery",
         "Closing the data loop in AI-driven drug discovery"
       ]
     },
     {
       "cat": "research",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-07-27T11:32:58.000Z",
       "writtenSources": 1,
@@ -262,13 +329,12 @@
         }
       ],
       "srcTitles": [
-        "Building the enterprise environment for agentic AI",
         "Building the enterprise environment for agentic AI"
       ]
     },
     {
       "cat": "funding",
-      "signal": 29,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-07-27T08:37:00.000Z",
       "writtenSources": 2,
