@@ -1,4 +1,41 @@
 {
   "date": "2026-07-27",
-  "stories": []
+  "stories": [
+    {
+      "cat": "funding",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-07-27T00:55:03.000Z",
+      "writtenSources": 2,
+      "h": "Nvidia to invest $1 billion in Naver for 4.5% stake, deepening AI factory alliance",
+      "s": "The deal ties Nvidia to Naver’s AI ambitions and could influence how joint AI work unfolds in the ecosystem around both companies.",
+      "b": [
+        "Investment amount: $1 billion",
+        "Stake acquired: 4.5% of Naver",
+        "Alliance described: AI factory alliance",
+        "WSJ framing: investment tied to Naver's AI Project"
+      ],
+      "body": [
+        "Nvidia plans to invest $1 billion in Naver for a 4.5% stake, a move described by KedGlobal as deepening an AI factory alliance between the two companies.",
+        "The Wall Street Journal also covered the development, noting the investment is connected to Naver’s AI Project.",
+        " Details on how the funds will be used, governance structures, or timing were not disclosed in the coverage provided.",
+        "Both outlets frame the investment as part of a broader collaboration around artificial intelligence, with the alliance described in varying terms but centered on joint AI initiatives.",
+        "No further timeline or operational specifics were included in the reports."
+      ],
+      "l": [
+        {
+          "d": "kedglobal.com",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xWGl5bWpqWkFXTDFQRDZyellHUWtYM2VDbTgtTUcyOU5ILVNwUmljSG5QSGJubTFVT2RvWXZkU3A1d0MxeTJIX25VODd1Ym50SlRSWmw1dm9tM2lFcFd2THFZUTBoYU45TnlWanc4dkxuM0ZPeVdEdGhKcw?oc=5"
+        },
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPei1YM1NQOTJ5QWc0THBIUmNjd255MUdfbTViZ2NIRk1hWFlFUjV4N1BBNk80WjhRVXF2WUMtTExvV3RZdXJpbDVIQk5pOGJqVHc3dkN3VF9yYzZYdkZaajdId0dfcTNMNFpvWm90NlNzbXRvMk9LaTRSUDdWSWlYSjM5OEFBTjdlYXRfZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia to invest $1 bn in Naver for 4.5% stake, deepening AI factory alliance",
+        "Nvidia to Invest $1 Billion in Naver’s AI Project"
+      ]
+    }
+  ]
 }
