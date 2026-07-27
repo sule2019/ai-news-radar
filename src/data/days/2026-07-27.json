@@ -2,6 +2,48 @@
   "date": "2026-07-27",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 69,
+      "sources": 5,
+      "ts": "2026-07-27T05:06:03.000Z",
+      "writtenSources": 3,
+      "h": "OpenAI not part of the new Open Secure AI Alliance",
+      "s": "OpenAI's absence from the alliance raises questions about who will shape safety and interoperability standards in AI collaboration efforts.",
+      "b": [
+        "OpenAI not part of the new Open Secure AI Alliance, per CSO Online."
+      ],
+      "body": [
+        "CSO Online reports that OpenAI is not included in a newly announced Open Secure AI Alliance, highlighting questions about which organizations will participate in setting safety and interoperability norms. Jamaica Gleaner covers a related AI governance angle with a piece titled “AI not the problem” that references an AI expert warning about education systems. AMWatch likewise carries coverage echoing a cautious stance on AI, quoting an Evli CEO who frames AI as a tool rather than a master."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/971281/nvidia-open-secure-ai-alliance-cybersecurity"
+        },
+        {
+          "d": "csoonline.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc3IzSU1LN3hLSWlTbXlFN003RVdWamhQcVA2M1BPamt1MzQwc3lzX0dTd21WYmZ0X1E5R3dtWFowT05KQzFDTUVHaTN3U1BsX2hKWGZGWFF2WlA4RG8yb0ExZ1d0YjhGaEM5Q3prUjdOVHpxbUNSU2hiTDBBelRqNnlQUEZubUdCZlhjR1o0LThuamY2a2l0OFhka3djdw?oc=5"
+        },
+        {
+          "d": "jamaica-gleaner.com",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcjFwM3NzMG1oUnRIMG5ncloxUERCS2htZnFxb0JheVBRVFpKMDBMa2cwRXRNQTJsQXpTNFNqcWhwY2t2TTQ2Q2VOUmxEcUFfbkZoWlFjcGJpcGZvNXhLeWtSRUZ5dUFvQ21rR1h3ek5PSkZhTWhYcVRXNjROTU5hZVd1M21FcFIzNExqRnZiaFV5andpNk1NUkdlemhQS2dDTm9SajJtNFprMlJxZ0tzSmpHUjltRjU5TDJRRWtaTXg?oc=5"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260727/p9#a260727p9"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic",
+        "OpenAI not part of the new Open Secure AI Alliance",
+        "‘AI not the problem’ - Artificial intelligence expert warns CXC preparing students for ‘a world that no longer exists’",
+        "Nvidia launches the Open Secure AI Alliance, a coalition with Hugging Face and others to develop and share tools for AI safety and cybersecurity (Jaspreet Singh/Reuters)"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 56,
       "sources": 2,
@@ -34,42 +76,8 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 52,
-      "sources": 3,
-      "ts": "2026-07-27T05:06:03.000Z",
-      "writtenSources": 3,
-      "h": "OpenAI not part of the new Open Secure AI Alliance",
-      "s": "OpenAI's absence from the alliance raises questions about who will shape safety and interoperability standards in AI collaboration efforts.",
-      "b": [
-        "OpenAI not part of the new Open Secure AI Alliance, per CSO Online."
-      ],
-      "body": [
-        "CSO Online reports that OpenAI is not included in a newly announced Open Secure AI Alliance, highlighting questions about which organizations will participate in setting safety and interoperability norms. Jamaica Gleaner covers a related AI governance angle with a piece titled “AI not the problem” that references an AI expert warning about education systems. AMWatch likewise carries coverage echoing a cautious stance on AI, quoting an Evli CEO who frames AI as a tool rather than a master."
-      ],
-      "l": [
-        {
-          "d": "csoonline.com",
-          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc3IzSU1LN3hLSWlTbXlFN003RVdWamhQcVA2M1BPamt1MzQwc3lzX0dTd21WYmZ0X1E5R3dtWFowT05KQzFDTUVHaTN3U1BsX2hKWGZGWFF2WlA4RG8yb0ExZ1d0YjhGaEM5Q3prUjdOVHpxbUNSU2hiTDBBelRqNnlQUEZubUdCZlhjR1o0LThuamY2a2l0OFhka3djdw?oc=5"
-        },
-        {
-          "d": "jamaica-gleaner.com",
-          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcjFwM3NzMG1oUnRIMG5ncloxUERCS2htZnFxb0JheVBRVFpKMDBMa2cwRXRNQTJsQXpTNFNqcWhwY2t2TTQ2Q2VOUmxEcUFfbkZoWlFjcGJpcGZvNXhLeWtSRUZ5dUFvQ21rR1h3ek5PSkZhTWhYcVRXNjROTU5hZVd1M21FcFIzNExqRnZiaFV5andpNk1NUkdlemhQS2dDTm9SajJtNFprMlJxZ0tzSmpHUjltRjU5TDJRRWtaTXg?oc=5"
-        },
-        {
-          "d": "amwatch.com",
-          "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB5OHJIN2VkVVlPRlpMLWh6SXBCaGo1X05GMjN6WkdSLWtvQTZmZHY5b21JaTlyT0pYNnZzRmtNd0xnZVRFbUJaZ2tFTG9tX0x6MzlibXFTd3F3QWFuelMza19DbEZrNHJHQmo1bzhzTQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI not part of the new Open Secure AI Alliance",
-        "‘AI not the problem’ - Artificial intelligence expert warns CXC preparing students for ‘a world that no longer exists’",
-        "AI is a \"really useful tool, but not the master,\" Evli CEO says"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-07-27T00:55:03.000Z",
       "writtenSources": 2,
@@ -105,7 +113,7 @@
     },
     {
       "cat": "products",
-      "signal": 36,
+      "signal": 33,
       "sources": 3,
       "ts": "2026-07-27T10:03:10.000Z",
       "writtenSources": 3,
@@ -159,13 +167,76 @@
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNWRDZXpvWHpzSnRXZzB0NmdEc3d1N0xNWFg0UmJGaFNZNEtsSktFSXdHa19pM0dxUnFhTHMwYi1DM19yUWVFdG53REt6bGNBQkp3OVA0cGMwbkctUU12OGdGS0czOTVVdk1uVHVGZHVscmtYaXZaSDdfN0t5a3lySzdNdWZsSWdBQXZsMmxaSUlmZ1pMTjFleA?oc=5"
         },
         {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNNzQ3U0JUZDJocG8xQ1RqajR5ZkxreE5fV2JXOFJvTUVxcWptOC1YcmIzeDN1UGdjbG5Sdm10TFFhT2lTd1h1WnpIMi0zeFI4bVBRZHJ1N1VkM3dkMHlKbGtZV1Y2Y3BWOG1uVlZualR5VHdWUHFfRmdUZ1V5VmZDOVpUbk9VOElndmJGZ3llR0pmSGczWjYtVVlQaS04by1uQjRVREotTkFNc2x6YmxoeDdXaUpqTDdHT3Vadk05RTN1VnBoWU16di1uRUdMaEs1eUc0bjJ5Q3Q2RHoxQzN6X0hERHBqSkRUNzRYaXZvMGx6QnlNSGdWRFAwSnVBU2VvVmJXb0I3X1NSY3psTy0yaA?oc=5"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDR4X3NCNEJwUlBvMnc2RXlINWF0VGMxZlB1eFhQMjNQcjNoaDBKRU9WWE9ZYm5oZExJb0NNeFFxZ2VRMHp6bEpWaWJhRy1COFVNYWQ2M2VIM1pxVU1NdkVoZjdMRm9nY0psWXlXTjlNdlJ6RHByOWo1UHF3S0N0V3kxbTV5WGJINjh3?oc=5"
         }
       ],
       "srcTitles": [
         "Tech Sell-Off: 1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $85 and Hold for the Long Term",
         "Tech Sell-Off: 1 No-Brainer Artificial Intelligence (AI) ETF to Buy With $85 and Hold for the Long Term"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-07-27T12:00:00.000Z",
+      "writtenSources": 1,
+      "h": "AI multi-agent systems need a shared cognition layer to coordinate across domains",
+      "s": "If realized, a shared cognition layer would let agents align goals, pool memory, and reason together across different systems, enabling coordinated problem solving at scale beyond what any single agent can do today.",
+      "b": [
+        "AGNTCY is an open-source connectivity layer for agents, now under the Linux Foundation.",
+        "Mycelium is a coordination layer that helps agents declare goals, surface missing information, and resolve conflicts; internal testing raised decision-making success from ~33% to 93% across 14 scenarios.",
+        "The approach rests on three pillars: shared intent through cognition state protocols, shared context via cognition fabric, and shared reasoning to trade off between options."
+      ],
+      "body": [
+        "MIT Technology Review describes a path toward artificial superintelligence built from coordinated AI agents rather than a single monolithic system. The piece outlines a horizontal architecture where multiple domain experts—each an AI agent—can share intent, context, and reasoning to tackle wide-scale problems that no individual agent was trained to solve. The concept hinges on a semantic layer called the Internet of Cognition, paired with a connectivity layer the article calls the Internet of Agents, enabling autonomous agents to discover one another, prove identity, and exchange messages across domains.",
+        "Vijoy Pandey, senior vice president and general manager of Outshift by Cisco, argues that the missing piece is architectural rather than a prompting fix: the right coordination layer is needed to turn scattered agents into a coordinated team. He says the next axis of scale for AI is horizontal, not just adding more data or bigger models.",
+        "Outshift has built AGNTCY, an open-source connectivity layer intended to let agents across different systems, companies, and platforms find and talk to one another using standardized protocols. The goal is to enable the Internet of Cognition to recruit shared goals, context, and collective reasoning among diverse agents.",
+        "The article notes that multi-agent systems are already explored in software engineering, drug discovery, and scientific simulations, but current performance has been uneven. A cited study reports a failure rate between 41% and about 87% when evaluating seven open-source multi-agent systems, highlighting a gap that is described as architectural rather than a prompting problem.",
+        "Pandey emphasizes that without a proper coordination layer, naive multi-agent setups can underperform compared with a single agent, and that the real step is a team of agents converging on a new problem without human stitching.",
+        "Three pillars anchor the proposed stack: cognition state protocols for shared intent, cognition fabric for shared context, and shared reasoning for collective trade-offs. The article explains how these layers would enable agents to align goals, pool institutional memory, and negotiate outcomes.",
+        "The piece also highlights Mycelium as an open-source coordination layer that organizations can clone to run against their own agents. It cites internal testing results showing substantial improvements in coordination and decision-making when a formal protocol is used."
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/"
+        }
+      ],
+      "srcTitles": [
+        "The path to artificial superintelligence",
+        "The path to artificial superintelligence"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-07-27T11:40:16.000Z",
+      "writtenSources": 1,
+      "h": "Data bottlenecks slow AI-driven drug discovery",
+      "s": "As AI speeds drug candidate design, gaps in data quality, access to negative results, and lab integration determine whether AI can meaningfully shorten development timelines and reduce costs.",
+      "b": [
+        "Cost to bring a new drug to market is cited as $1 billion to $2.5 billion, with development times of 10–15 years and failure rates above 90%.",
+        "The field cites Eroom’s Law, noting costs have roughly doubled every nine years since the 1950s.",
+        "AI is shifting workflows from empirical screening to predictive design, enabling AI-designed candidates and predicted interactions before physical RD work begins.",
+        "AI cannot yet reliably predict kinetics or developability of new compounds, so all AI-generated candidates require lab validation before further development.",
+        "Data quality and accessibility problems are acute: publicly available datasets are biased toward positive results, and negative data are scarce; some researchers call for a “journal of negative data.”",
+        "Fabrication and other practicalities enabled by AI are creating new concerns about data integrity and reproducibility."
+      ],
+      "body": [
+        "MIT Technology Review examines how AI is accelerating drug discovery but reveals that the speed comes with tangible bottlenecks in the lab and data systems. As AI helps identify new therapeutics targets faster, the main costs now hinge on the clinical phase, and getting reliable data remains essential to translating AI insights into successful drugs."
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/"
+        }
+      ],
+      "srcTitles": [
+        "Closing the data loop in AI-driven drug discovery",
+        "Closing the data loop in AI-driven drug discovery"
       ]
     },
     {
