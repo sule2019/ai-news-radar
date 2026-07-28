@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 64,
+      "signal": 61,
       "sources": 2,
       "ts": "2026-07-28T13:19:17.000Z",
       "writtenSources": 2,
@@ -34,8 +34,39 @@
         }
       ],
       "srcTitles": [
-        "Recursive Superintelligence signs $410 compute deal with Amazon",
+        "Recursive Superintelligence signs $410 million compute deal with Amazon",
         "Richard Socher's Recursive Superintelligence signs a $410M, multiyear AWS compute deal to support its self-improving AI systems, after raising $650M in May (Russell Brandom/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-07-28T16:00:00.000Z",
+      "writtenSources": 1,
+      "h": "Gemini API managed agents default to 3.6 Flash with environment hooks",
+      "s": "Developers can prototype autonomous agent workflows inside a sandbox, using free tier access and token caps to control costs.",
+      "b": [
+        "Gemini 3.6 Flash is the default for Managed Agents in Gemini API.",
+        "Free tier access is available for managed agents on projects without active billing.",
+        "Max total tokens (max_total_tokens) can cap usage; the example shows 10,000 tokens.",
+        "Explicit model pinning is supported via agent_config.model, including Gemini 3.5 Flash-Lite for lower cost."
+      ],
+      "body": [
+        "Google's blog introduces Managed Agents in the Gemini API, noting that Gemini 3.6 Flash is now the default for these agents and that new environment hooks let you block, lint, or audit tool calls inside the sandbox.",
+        "The post explains that you can explicitly select models by passing agent_config.model, with Gemini 3.5 Flash-Lite available for lower cost and the option to pin to a preferred model. It also highlights how scripts can be integrated into the agent workflow using the antigravity-preview-05-2026 release tag.",
+        "Environment hooks are a key feature, described as a way to run custom scripts before or after every tool call inside the sandbox. The example configuration shows pre_tool_execution and post_tool_execution hooks that can, for instance, enforce security checks or code formatting.",
+        "Google provides real‑world context for production use, citing an AI-native investment bank example where a post_tool_execution hook triggers a validation pipeline inside the sandbox to verify assets like logos and publish an approved manifest. The post also notes that managed agents can run multi-turn autonomous loops, which necessitates budgeting controls and pause-and-resume behavior if limits are reached.",
+        "The article also covers budgeting and scheduling: managed agents are now available on free tier projects, and a max_total_tokens setting caps overall consumption. If the limit is hit, execution pauses with status 'incomplete' and can be resumed later using a previous_interaction_id with a fresh budget, while recurring tasks can be set with scheduled triggers to reuse the same sandbox."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
+        }
+      ],
+      "srcTitles": [
+        "Gemini API Managed Agents: 3.6 Flash, hooks, and more"
       ]
     },
     {
@@ -104,7 +135,7 @@
     },
     {
       "cat": "funding",
-      "signal": 42,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-07-28T14:00:00.000Z",
       "writtenSources": 2,
@@ -134,78 +165,47 @@
         }
       ],
       "srcTitles": [
-        "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+        "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
         "Fish Audio, which offers AI voice models for creators and enterprises and has $21M in ARR, raised a $50M seed led by Coreline Ventures and Capital Today (Ivan Mehta/TechCrunch)"
       ]
     },
     {
-      "cat": "funding",
-      "signal": 29,
-      "sources": 2,
-      "ts": "2026-07-28T11:05:00.000Z",
-      "writtenSources": 2,
-      "h": "Buffett and Abel loading up on top AI stock trading at bargain price",
-      "s": "The reported purchases by Buffett and Abel indicate notable institutional interest in an AI stock.",
-      "b": [
-        "Warren Buffett and Greg Abel are reported to have been loading up on the stock, according to Yahoo Finance and The Motley Fool",
-        "The stock is described as a top AI stock and is said to be trading at a bargain-basement price",
-        "Reports come from Yahoo Finance and The Motley Fool, with no disclosed purchase amounts or timing in the coverage"
-      ],
-      "body": [
-        "Yahoo Finance and The Motley Fool report that Warren Buffett and Greg Abel have been loading up on a top AI stock, described as trading at a bargain-basement price.",
-        "The coverage does not specify how much stock was purchased or when the purchases occurred.",
-        "Both outlets frame the story around Buffett and Abel's activity in the AI stock space, highlighting this action as notable within AI-focused investing."
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGhJRURyV0lwUEtRVnMwMmVveXF5N2R5ODRyOWhRUmkyNG43VHJRaGhRX2JBbW9EcVFQLXpJZVdDYzQ1T3ZBbnl1b0M5TkVfSG9Pb1JwcVFTQmhHYkJXdlk5TklqU2JRSDF6aEpnekQ0RlEwRDZHMUhiVlVpWmRPNDdGdnItY21ETlM5Y01ieEs1VlpDM1g0?oc=5"
-        },
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFd6VEY5SEllcVh2U2pDbjBVM1ZDOWRZWEJ1Sk9iTnd2T01lZ1l3eTUwd1JLNTNNQ2NmRnhhRUJESkM0bDJ2QlVDUWNqYmlEODBxMzVBMVVwTUt5ZkE4OVVRQXpjNjI1V2h1dFpEa2J5eDJja1NSS1NmMXlxc01LZXJ3WHoyU3g3ZVpTbEtpU09MQ29FYXdLM25ybmY?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price",
-        "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price"
-      ]
-    },
-    {
       "cat": "policy",
-      "signal": 28,
+      "signal": 33,
       "sources": 3,
-      "ts": "2026-07-27T22:25:00.000Z",
+      "ts": "2026-07-28T14:42:13.000Z",
       "writtenSources": 3,
-      "h": "Anthropic’s Amodei: not backing an open-weight ban, but wary of authoritarian use and calls for global model testing",
-      "s": "The stance influences how policymakers balance openness with security, potentially shaping export controls, safety standards, and international cooperation on AI governance.",
+      "h": "US and UAE establish military AI task force, Forbes reports CENTCOM launches first task force",
+      "s": "The reports reflect a rising trend of AI integration into defense planning, with potential implications for international coordination, standards, and safety governance.",
       "b": [
-        "Amodei said in a blog post that \"Anthropic has never advocated for a ban on open-weights models.\"",
-        "An open-letter led by Nvidia, and signed by companies including Hugging Face, Meta, Microsoft, and Mistral, urged policymakers not to impose premature restrictions on open-weight models.",
-        "The UK AI Security Institute report cited in the discussion notes that once open-weights are released they cannot be withdrawn.",
-        "Amodei advocates a global model safety testing organization with testing applied to the most capable models regardless of country of origin."
+        "Anadolu Ajansı and Middle East Monitor report US and UAE to establish a military artificial intelligence task force.",
+        "Forbes reports CENTCOM and UAE have launched the first task force on military AI use.",
+        "The outlets present different framings: establishment versus launch of a task force, suggesting divergent timelines or stages of the effort."
       ],
       "body": [
-        "TechCrunch reported on July 27, 2026 that Anthropic founder and CEO Dario Amodei responded to industry chatter that his company might support government bans on open-weight models, or on open-weights in general. He pushed back on the idea that Anthropic backs broad restrictions, stating clearly that his company has not advocated for a ban."
+        "Anadolu Ajansı (AA) and Middle East Monitor carry headlines indicating that the United States and the United Arab Emirates are moving to establish a military artificial intelligence task force.",
+        "Forbes, citing CENTCOM and UAE, reports the launch of the first task force dedicated to military AI use, signaling a concrete step in integrating AI into defense planning. The coverage presents a split framing—AA and Middle East Monitor describe establishment, while Forbes describes a launch.",
+        "The reporting points to CENTCOM and UAE as central actors in this initiative, highlighting a collaborative push to organize governance or application of AI within military contexts, though the specific scope, timeline, and capabilities of the task force are not detailed in the cited pieces.",
+        "With sources giving different shades—one set indicating planning or establishment and another claiming a first-launch—the story underscores how AI governance in defense is becoming a live, international policy and coordination issue that may evolve quickly."
       ],
       "l": [
         {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
+          "d": "aa.com.tr",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX05DRVZwMEctSFNBS2ZicDViZExoLUh1djJvT1h3aThFdV9MMGRJaElFYU5VU2pkbm1FZ1M1bjZxX205SnRXUnE3SzY5WGNDMUFZQjBKUHlqbVZpTG51X1NFekVON25aNnhTSGlMTDVIRUlSaEpTMlBXSFZVbl8tRGZTdWxzZGg3Y3JlSkpQdlNCM25CQ05wVDBFb0hjT1poaGVvQk0xbWZ6V0NyV2dqdzZocGRVUQ?oc=5"
         },
         {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5"
+          "d": "middleeastmonitor.com",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGQzS2M3U1UtamxiXzdQY0FhODdmdUExa1I4YjZmbTFwR3hFblVIOGo3ajF3WnRqdVlJZWpQY0VWWDNia1h5VnB6NDBSX1ZpdkRhLXZFa3haQTFxWmlPZGs0ZUF6U3ViaWgwckk3ZnN4THlGZGZsWTJJaG5wZ3dwNFBpVzMwNnBLekNIUkN5Wm9icUIwNXV0QmdBYW85S004UlhqQ2pSS1VDUUnSAbABQVVfeXFMUGdxb1VjbGtlaFFtX1FVM2h6SUZWM3pWd3FWSWN5RUgyRUlSWDBiZmoyN0dyQmpwQ3pKNDdaRndxS3RGdzg0M2Zkc0lSNzZDNERIaWhadXUyUi12SVVQZW5SVTBVU0pfUWxueWdvUFAyeVpNNS1PVk9tTF8xaHp0bFItWGE2dzE3R0FyYlZzSmFuY0hGQmdjWkFKOW1zcUJkOHRIZk1Ua0ZkR25GVENEREg?oc=5"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260727/p32#a260727p32"
+          "d": "forbes.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVpZbEQyUkRxLWdrcHZBZTBuQmtNQ0tZSHRUV2g3VlhscGxRbW1vQzEyT1EwdFd6Y2J4VC1zbU1XeDR3aTZNT0tOMmd0Wk9Zck9GNXE2MERZUFctcExxZUR4OEhQT1JwSkFNZFM2enNDRG5adkdvTjVGeE1GZ05IVDRDNHVwaVNZdU9PTzRCM0Y5Ty1ObDVueTZsZm1kdjlQLUZZQXlYOUtZZXAza1FRTnZWZDVZdUE3bWhVOVpn?oc=5"
         }
       ],
       "srcTitles": [
-        "Anthropic s Dario Amodei responds: doesn t oppose open-weight models, but fears Chinese AI",
-        "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
-        "Dario Amodei says Anthropic has never backed an open-weights model ban, lists reasons top chips shouldn't be sold to China, calls for global model testing, more (Anthropic)"
+        "US, UAE to establish military artificial intelligence task force",
+        "US, UAE to establish military artificial intelligence task force",
+        "CENTCOM, UAE Launch First Task Force Over Military AI Use"
       ]
     },
     {
@@ -240,6 +240,39 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-07-28T07:00:00.000Z",
+      "writtenSources": 2,
+      "h": "What responsible AI policy should look like in schools",
+      "s": "Policy-focused debates in education signal a push to govern AI use in classrooms, potentially shaping future guidelines for how tools are approved and managed in schools.",
+      "b": [
+        "Marco Tedesco writes about what responsible AI should look like on State of the Planet.",
+        "The Harvard Crimson argues Cambridge schools need a new AI policy and outlines how it should look."
+      ],
+      "body": [
+        "Marco Tedesco’s piece on State of the Planet explores what responsible AI should look like, contributing to a broader discussion about governance and ethics in AI deployment.",
+        "Separately, The Harvard Crimson article argues that Cambridge schools need a new AI policy and suggests what that policy should look like, illustrating a school‑level demand for governance around AI use.",
+        "Together, the two pieces reflect a growing push for governance frameworks around AI in educational settings, indicating that schools and universities are becoming a focal point for policy development in this area.",
+        "Editorial coverage indicates that policy discussions in education are intensifying and that clearer guidelines for AI use in classrooms are likely to follow as institutions grapple with how to integrate AI responsibly."
+      ],
+      "l": [
+        {
+          "d": "news.climate.columbia.edu",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZlpxcGNtTEFzc2Vzb1h6T2VVVGxMSWt1Y2FOU1VXbGF6NEl2cEZULUJKODEwSFY0c2YxR1JIODVjd3g5LTA5WmdzN0Z4TlJhT3pzNE5pWVdKRWRmR2dYeGJPRmJlVDRkY01haWZaU3FobnJnTTBTczlQaVFuNmxLb1k2QjMta2hQMkEyN3YyMHlFTDR3QXdVaWVoQ1R5N3AzamZxVXJhV1g?oc=5"
+        },
+        {
+          "d": "thecrimson.com",
+          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeVpjd1JDUFQ1SUFqVUM2Y3ByRUNEWUFsYmd2SXRsTXlZc1dpNDZvZXl2TU5nLUNtVldjMExkcTk2dnFMSWFNTkN4MG1tOWEtZFNMRHhlYzlheE5CNXhDTUpRSmtreUp6MHVwbThkZEwyTzl2WVYySE1YRURxU3RhZFQwem03dw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Marco Tedesco Examines What Responsible AI Should Look Like",
+        "Cambridge Schools Need a New AI Policy. It Should Look Like This."
+      ]
+    },
+    {
       "cat": "funding",
       "signal": 26,
       "sources": 2,
@@ -266,13 +299,83 @@
         },
         {
           "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSFdacnhVbG9RN1NNT1FTcVpsZEYtNk9wcVZ5UHJsNGZwUTJTTEo3QVpROXZ0T0R1clF3eEJESWc4bDZ2NlNsZU1zZW1xWDZBdVFQSnVWblliNkNoUWE5T3hRVVVRMmVmUmdLTkxibHZzU2dNMGNXd1huRkhUcTJLZDVlcUFLYl9UaDBRMHNSQ0Vyb25MOHBHcjdRbXhLQjFvZUdHMjFQemVNWEZJc2xXempEMXJaM0lkMFM2eHUyZmpxRDlHbEtRVV9mVGtCMWw0dEJVcmdOUzI1WWM?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVGdpdUtBRWRxbEdHV2hkcHFld1luWFIwd1VzOWNhOTNBYlB6Snd4b25qNDV5V2hScGxjdVZGZEZJZ0NUQzZMaWtnTFp5dl82YlgwZkM1NzJndmxBNUdYWFpJSkx1aVlvV2VMbDhrdlBtVkUyYjRmMDVhbGxVd0NuSm40VmVneEJtRzduR0F5WkxSY1ZGTzRuWnlfdUJfV1BGc3JlRWZVR1pqd2g5WDF3Q3VaRGpabWZmb1pXeVdHejZpVXNUWTdhTWZ1d2JtQmg4V1lNa0NoSDAyN0tIMlQ4bHphVmM?oc=5"
         }
       ],
       "srcTitles": [
         "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
         "Forget Micron Stock at $920 Per Share. Buy This Memory-Focused Artificial Intelligence (AI) ETF Instead.",
         "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 25,
+      "sources": 2,
+      "ts": "2026-07-28T11:05:00.000Z",
+      "writtenSources": 2,
+      "h": "Buffett and Abel loading up on top AI stock trading at bargain price",
+      "s": "The reported purchases by Buffett and Abel indicate notable institutional interest in an AI stock.",
+      "b": [
+        "Warren Buffett and Greg Abel are reported to have been loading up on the stock, according to Yahoo Finance and The Motley Fool",
+        "The stock is described as a top AI stock and is said to be trading at a bargain-basement price",
+        "Reports come from Yahoo Finance and The Motley Fool, with no disclosed purchase amounts or timing in the coverage"
+      ],
+      "body": [
+        "Yahoo Finance and The Motley Fool report that Warren Buffett and Greg Abel have been loading up on a top AI stock, described as trading at a bargain-basement price.",
+        "The coverage does not specify how much stock was purchased or when the purchases occurred.",
+        "Both outlets frame the story around Buffett and Abel's activity in the AI stock space, highlighting this action as notable within AI-focused investing."
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGhJRURyV0lwUEtRVnMwMmVveXF5N2R5ODRyOWhRUmkyNG43VHJRaGhRX2JBbW9EcVFQLXpJZVdDYzQ1T3ZBbnl1b0M5TkVfSG9Pb1JwcVFTQmhHYkJXdlk5TklqU2JRSDF6aEpnekQ0RlEwRDZHMUhiVlVpWmRPNDdGdnItY21ETlM5Y01ieEs1VlpDM1g0?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFd6VEY5SEllcVh2U2pDbjBVM1ZDOWRZWEJ1Sk9iTnd2T01lZ1l3eTUwd1JLNTNNQ2NmRnhhRUJESkM0bDJ2QlVDUWNqYmlEODBxMzVBMVVwTUt5ZkE4OVVRQXpjNjI1V2h1dFpEa2J5eDJja1NSS1NmMXlxc01LZXJ3WHoyU3g3ZVpTbEtpU09MQ29FYXdLM25ybmY?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price",
+        "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 24,
+      "sources": 3,
+      "ts": "2026-07-27T22:25:00.000Z",
+      "writtenSources": 3,
+      "h": "Anthropic’s Amodei: not backing an open-weight ban, but wary of authoritarian use and calls for global model testing",
+      "s": "The stance influences how policymakers balance openness with security, potentially shaping export controls, safety standards, and international cooperation on AI governance.",
+      "b": [
+        "Amodei said in a blog post that \"Anthropic has never advocated for a ban on open-weights models.\"",
+        "An open-letter led by Nvidia, and signed by companies including Hugging Face, Meta, Microsoft, and Mistral, urged policymakers not to impose premature restrictions on open-weight models.",
+        "The UK AI Security Institute report cited in the discussion notes that once open-weights are released they cannot be withdrawn.",
+        "Amodei advocates a global model safety testing organization with testing applied to the most capable models regardless of country of origin."
+      ],
+      "body": [
+        "TechCrunch reported on July 27, 2026 that Anthropic founder and CEO Dario Amodei responded to industry chatter that his company might support government bans on open-weight models, or on open-weights in general. He pushed back on the idea that Anthropic backs broad restrictions, stating clearly that his company has not advocated for a ban."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260727/p32#a260727p32"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic s Dario Amodei responds: doesn t oppose open-weight models, but fears Chinese AI",
+        "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
+        "Dario Amodei says Anthropic has never backed an open-weights model ban, lists reasons top chips shouldn't be sold to China, calls for global model testing, more (Anthropic)"
       ]
     },
     {
