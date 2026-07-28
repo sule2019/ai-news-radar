@@ -40,7 +40,7 @@
     },
     {
       "cat": "products",
-      "signal": 52,
+      "signal": 49,
       "sources": 1,
       "ts": "2026-07-28T13:00:00.000Z",
       "writtenSources": 1,
@@ -139,8 +139,41 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-07-28T11:05:00.000Z",
+      "writtenSources": 2,
+      "h": "Buffett and Abel loading up on top AI stock trading at bargain price",
+      "s": "The reported purchases by Buffett and Abel indicate notable institutional interest in an AI stock.",
+      "b": [
+        "Warren Buffett and Greg Abel are reported to have been loading up on the stock, according to Yahoo Finance and The Motley Fool",
+        "The stock is described as a top AI stock and is said to be trading at a bargain-basement price",
+        "Reports come from Yahoo Finance and The Motley Fool, with no disclosed purchase amounts or timing in the coverage"
+      ],
+      "body": [
+        "Yahoo Finance and The Motley Fool report that Warren Buffett and Greg Abel have been loading up on a top AI stock, described as trading at a bargain-basement price.",
+        "The coverage does not specify how much stock was purchased or when the purchases occurred.",
+        "Both outlets frame the story around Buffett and Abel's activity in the AI stock space, highlighting this action as notable within AI-focused investing."
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGhJRURyV0lwUEtRVnMwMmVveXF5N2R5ODRyOWhRUmkyNG43VHJRaGhRX2JBbW9EcVFQLXpJZVdDYzQ1T3ZBbnl1b0M5TkVfSG9Pb1JwcVFTQmhHYkJXdlk5TklqU2JRSDF6aEpnekQ0RlEwRDZHMUhiVlVpWmRPNDdGdnItY21ETlM5Y01ieEs1VlpDM1g0?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFd6VEY5SEllcVh2U2pDbjBVM1ZDOWRZWEJ1Sk9iTnd2T01lZ1l3eTUwd1JLNTNNQ2NmRnhhRUJESkM0bDJ2QlVDUWNqYmlEODBxMzVBMVVwTUt5ZkE4OVVRQXpjNjI1V2h1dFpEa2J5eDJja1NSS1NmMXlxc01LZXJ3WHoyU3g3ZVpTbEtpU09MQ29FYXdLM25ybmY?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price",
+        "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 32,
+      "signal": 28,
       "sources": 3,
       "ts": "2026-07-27T22:25:00.000Z",
       "writtenSources": 3,
@@ -177,7 +210,7 @@
     },
     {
       "cat": "products",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-07-28T13:00:00.000Z",
       "writtenSources": 1,
@@ -204,39 +237,6 @@
       ],
       "srcTitles": [
         "5 ways AI Mode in Search helps you enjoy the real world"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 29,
-      "sources": 2,
-      "ts": "2026-07-28T11:05:00.000Z",
-      "writtenSources": 2,
-      "h": "Buffett and Abel loading up on top AI stock trading at bargain price",
-      "s": "The reported purchases by Buffett and Abel indicate notable institutional interest in an AI stock.",
-      "b": [
-        "Warren Buffett and Greg Abel are reported to have been loading up on the stock, according to Yahoo Finance and The Motley Fool",
-        "The stock is described as a top AI stock and is said to be trading at a bargain-basement price",
-        "Reports come from Yahoo Finance and The Motley Fool, with no disclosed purchase amounts or timing in the coverage"
-      ],
-      "body": [
-        "Yahoo Finance and The Motley Fool report that Warren Buffett and Greg Abel have been loading up on a top AI stock, described as trading at a bargain-basement price.",
-        "The coverage does not specify how much stock was purchased or when the purchases occurred.",
-        "Both outlets frame the story around Buffett and Abel's activity in the AI stock space, highlighting this action as notable within AI-focused investing."
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGhJRURyV0lwUEtRVnMwMmVveXF5N2R5ODRyOWhRUmkyNG43VHJRaGhRX2JBbW9EcVFQLXpJZVdDYzQ1T3ZBbnl1b0M5TkVfSG9Pb1JwcVFTQmhHYkJXdlk5TklqU2JRSDF6aEpnekQ0RlEwRDZHMUhiVlVpWmRPNDdGdnItY21ETlM5Y01ieEs1VlpDM1g0?oc=5"
-        },
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFd6VEY5SEllcVh2U2pDbjBVM1ZDOWRZWEJ1Sk9iTnd2T01lZ1l3eTUwd1JLNTNNQ2NmRnhhRUJESkM0bDJ2QlVDUWNqYmlEODBxMzVBMVVwTUt5ZkE4OVVRQXpjNjI1V2h1dFpEa2J5eDJja1NSS1NmMXlxc01LZXJ3WHoyU3g3ZVpTbEtpU09MQ29FYXdLM25ybmY?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price",
-        "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price"
       ]
     },
     {
