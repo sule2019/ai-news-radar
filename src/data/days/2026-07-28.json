@@ -50,9 +50,44 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-07-28T18:00:00.000Z",
+      "writtenSources": 2,
+      "h": "xAI sues Minnesota to block law banning nudification technology",
+      "s": "The suit tests how Minnesota can regulate AI‑based nudity tools, with implications for developers, users, and future state AI policy.",
+      "b": [
+        "Plaintiff: Elon Musk's xAI",
+        "Jurisdiction: Minnesota",
+        "Law targeted: Minnesota statute banning nudification technology and manipulated images to fake nudity",
+        "Action: Lawsuit filed to stop the law"
+      ],
+      "body": [
+        "Elon Musk's xAI has filed a lawsuit in Minnesota seeking to stop a state law that bans nudification technology, CBS News reports.",
+        "MPR News notes the suit targets a new Minnesota law to bar manipulated images to fake nudity.",
+        "The law in question bans nudification technology and manipulated images intended to create fake nudity.",
+        "The reports come from CBS News and MPR News and describe a challenge to Minnesota's approach toward image manipulation tech."
+      ],
+      "l": [
+        {
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVzFFYWluRWl3UXAtOXdhcy1EYUwtZjFTcWw0S0xKdGJPRmxxSDJObmpYQmE2OFVpMzJab21PQWEwa3dUUEJmSkpPamZONEhXdWVfNjZXWDd3Tl9CRFVKb3ZZYW4zWVpQanJoRFVrd0dlOENuclNwNnpIUWJiaFZxYkhYYmpIWnRjdF9STHhkZUNLVjFhdUI5YnBpNTA?oc=5"
+        },
+        {
+          "d": "mprnews.org",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPRFBmOVlxT3pNS2E5NllQSGJzRWsxLTJKbVpxVlhmcWhhNDFEWEtoZk13eGUzZWM5bVZZQ3g1TW9zcXpVanZ4MGJwTi0yU1ZVVTJFMjdpS1k1SlJLT1h0OHlYZlM5bDRYbDliNVJLRGJ1WmlHT0JVWldvZ2NZdUZjT0VTRDMwSlBPbG5sLTBjUFNHZ2VGRzRTZzJSb25GNGd3WktuLXVReUYzcnctTFd4RURxSU9lZF92YU02bW5ncW50XzRtZE9EVWU5SjZvZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Elon Musk's xAI sues to stop Minnesota law banning nudification technology",
+        "Elon Musk’s company sues Minnesota over new law to bar manipulated images to fake nudity"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 52,
-      "sources": 3,
+      "signal": 48,
+      "sources": 2,
       "ts": "2026-07-27T22:44:00.000Z",
       "writtenSources": 3,
       "h": "AMD vs Intel: which AI chip stock to own until the end of 2027?",
@@ -76,14 +111,9 @@
         {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmlRRXNPT0RKTDhibkh2X0o3ejZGY2FQak8tNzVNclhuQllGRzNzTUNxUnV4TFRkR1ZtVHBBcjVpaVZvQ1pLQlN0VFg4VTRkT2tPc1VydTBrR0tUZmN0STFJckhxa3dCRnU1ZmtOejJaYjVUVnBtZXptUTVRdmpRazI3U1NTZEpEcENSTGlRWGNjNGlGVGJ1WQ?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOaU95QkJPR2lQaHpUMjM0ekdyWVBGbS1QMzNhLUJzLUZXX3ctcldOM2JnSjFCS3JlNEtTTmRYbUMzdFNpR19jNGxndFZ4YkdzWEh0ODJLbjlZTE03UjMxQzhSRHMtTXhtSERac3k0WHV5UTFncmJaWjVxRUlVZERPYzUzMWdrR2FBYk5RaWJ5UGFiRUwyeTJaQ0ZJdVpqN05rX09xVUhWZWdvWTZaZEhpeXJFVFkyQlNySFc5VGR4aGlsWFhXck43QW1RUjIwQjBGTEV0dDZKbEROUk8yTFE1MnlWSy1pbDhhZDc3eWg3ZXdPUXdWZXpEMHI3bUVEUWcyZEVpSU5R?oc=5"
         }
       ],
       "srcTitles": [
-        "AMD vs. Intel: Which Is the Better Artificial Intelligence Chip Stock to Own Until the End of 2027?",
         "AMD vs. Intel: Which Is the Better Artificial Intelligence Chip Stock to Own Until the End of 2027?",
         "AMD vs. Intel: Which Is the Better Artificial Intelligence Chip Stock to Own Until the End of 2027?"
       ]
@@ -154,7 +184,7 @@
     },
     {
       "cat": "policy",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-07-28T04:00:00.000Z",
       "writtenSources": 2,
@@ -185,75 +215,6 @@
       "srcTitles": [
         "EU AI Act Amendments Defer and Clarify Obligations",
         "From Obligation to Specification: A Survey on Validating EU AI Act Requirements in RE"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 41,
-      "sources": 2,
-      "ts": "2026-07-28T13:19:17.000Z",
-      "writtenSources": 2,
-      "h": "Recursive Superintelligence signs $410 million compute deal with Amazon Web Services",
-      "s": "The multiyear compute commitment signals a shift toward large, long‑term cloud spend for self‑improving AI and could attract other foundation‑level labs to similar deals, speeding product timelines and infrastructure ambitions.",
-      "b": [
-        "Multi‑year compute deal with Amazon Web Services valued around $410 million (TechCrunch report)",
-        "RSI emerged from stealth in May with about $650 million in funding",
-        "Socher expects the deal to be the first of many and anticipates early products by October",
-        "AWS involvement has no investment component and includes co‑developing infrastructure tailored for RSI, per the report"
-      ],
-      "body": [
-        "Recursive Superintelligence announced a multiyear compute deal with Amazon Web Services as it scales its self‑improving AI research agenda, the company said in a TechCrunch report. The arrangement is described as a long‑term commitment meant to provide flexibility as RSI builds out its open‑ended AI systems at scale.",
-        "TechCrunch notes that RSI’s $410 million outlay represents the bulk of the company’s fundraising to date, and Socher said he expects this to be the first of many such deals as the company grows. Socher told TechCrunch that today’s announcement is likely to be one of the smaller compute agreements the company signs in the coming years.",
-        "The company’s emphasis on self‑improving AI means more budget going into compute rather than traditional headcount and operations, with Socher saying, “For us, it’s less about headcount and more about agent count.”",
-        "There is no investment component to AWS’s involvement in the deal, but AWS is expected to commit significant resources to RSI’s needs and co‑develop infrastructure tailored for these types of companies, according to Jason Bennett, AWS VP for startups and venture capital.",
-        "RSI’s leadership positions self‑improvement as a potential inflection point for AI progress, though coverage notes that the exact requirements and timelines remain ambiguous as more labs pursue the idea. Socher emphasized tangible progress, telling TechCrunch that users could see “the earliest examples before the end of the year,” with a concrete reveal around October.",
-        "Overall, RSI’s leadership frames the deal as a platform shift designed to accelerate product development and deployment, positioning AWS as a strategic partner rather than a traditional investor."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260728/p20#a260728p20"
-        }
-      ],
-      "srcTitles": [
-        "Recursive Superintelligence signs $410 million compute deal with Amazon",
-        "Richard Socher's Recursive Superintelligence signs a $410M, multiyear AWS compute deal to support its self-improving AI systems, after raising $650M in May (Russell Brandom/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 40,
-      "sources": 2,
-      "ts": "2026-07-27T22:25:00.000Z",
-      "writtenSources": 3,
-      "h": "Anthropic’s Amodei: not backing an open-weight ban, but wary of authoritarian use and calls for global model testing",
-      "s": "The stance influences how policymakers balance openness with security, potentially shaping export controls, safety standards, and international cooperation on AI governance.",
-      "b": [
-        "Amodei said in a blog post that \"Anthropic has never advocated for a ban on open-weights models.\"",
-        "An open-letter led by Nvidia, and signed by companies including Hugging Face, Meta, Microsoft, and Mistral, urged policymakers not to impose premature restrictions on open-weight models.",
-        "The UK AI Security Institute report cited in the discussion notes that once open-weights are released they cannot be withdrawn.",
-        "Amodei advocates a global model safety testing organization with testing applied to the most capable models regardless of country of origin."
-      ],
-      "body": [
-        "TechCrunch reported on July 27, 2026 that Anthropic founder and CEO Dario Amodei responded to industry chatter that his company might support government bans on open-weight models, or on open-weights in general. He pushed back on the idea that Anthropic backs broad restrictions, stating clearly that his company has not advocated for a ban."
-      ],
-      "l": [
-        {
-          "d": "nextgov.com",
-          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWdxSGp6WGp2VkgxZTdHcVdrUmVRUXNGcEVHc2Zac1hkcVZRa295TVNBalRwdE5SLUVobTlvZnpFcUtoLThXbDg4YzlEbE5odENUUVJMenIyb3RvZGVYMmhwOWlndEFJbUFYQl9YNWJhS2xvdUFUVERjRWQ1TG13MXBUT2pObzRuTVVlYWQ4aVRvdEdIV1VSVFgtbzBsTGhidjdHUnpJam5ZWF9IRm9nRA?oc=5"
-        },
-        {
-          "d": "computerworld.com",
-          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWC1yWUZtbWY3eGxsWE53TmRoRUtKWjZCSF9ONHQwQnVLZHdOVldzaVM0RTFYWTRMY0dzNENNMEEzVk45dDFCUm84b2FRZXBFOE1JV1k5N3llazZ3alpCOVk5RGxvc21HN2ZSSG9zU0czS19DYlplcjZ6REJqTHdWSGt5NmJ5SGZvOEQ0QXplODZpVU1VRm1aSC1sb09FUWJlNVlLMHZQQkVseUw2QWkwbDNkUjRmamNmaXdBVmhpcF9IM204Wk8tOEFYREZpaXZp?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic calls for threading the needle on open-source AI",
-        "Anthropic rejects open-weight AI bans, calls for China chip controls and safety tests"
       ]
     },
     {
@@ -291,6 +252,110 @@
       "srcTitles": [
         "MCP startup Runlayer accuses Rippling of stealing its product idea",
         "NYC-based AI startup Runlayer sues Rippling for allegedly stealing trade secrets to \"build essentially a clone\" of Runlayer's safety and governance product (Taylor Herzlich/New York Post)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-07-28T20:40:01.000Z",
+      "writtenSources": 2,
+      "h": "FCC bans imports of Chinese humanoid robots and power inverters",
+      "s": "The restriction could reshape supply chains for AI hardware and signal tighter national-security controls on China‑made robotics infrastructure, influencing future tech policy.",
+      "b": [
+        "Agency: U.S. Federal Communications Commission (FCC)",
+        "Targets: imports of new Chinese humanoid robots and power inverters",
+        "Rationale: to protect the US AI buildout from national security threats and to reshore key industries",
+        "Timing: bans unveiled by the Trump administration on Tuesday (Reuters exclusive)"
+      ],
+      "body": [
+        "Reuters reports that the U.S. Federal Communications Commission announced bans on importing Chinese humanoid robots and power inverters.",
+        "The move is described as intended to protect the US AI buildout from national security threats and to reshore key industries.",
+        "The Trump administration unveiled the bans on Tuesday, according to Reuters’ exclusive coverage.",
+        "The coverage frames the action as part of broader concerns about Chinese-made robotics hardware and AI infrastructure."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260728/p41#a260728p41"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTnkxZko1VERycFBhV3VqR0ZGdS1KVnhybkVqa2N3N2NKZDBKcUlSS3AtNU9oZ2xybmdoTzRwd0h4anlyU2RMdFpVNFZtdnVkcjBXSnJBZ3VDN3ZBanVJeUVOYVhvVkJGd21saURQd0lsWXlMdjY2enpyZnVDb21Bb2thM285cmVuN3V3U1puZ2h3Q3E4ZW1tMG9UQ2UwQXdoMWM0eURlTHlUZEhtOWd5Ymg2QjVOd3Y5R1ZlMG53?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The US FCC bans importing Chinese humanoid robots and power inverters to protect the US AI buildout from national security threats and to reshore key industries (Reuters)",
+        "EXCLUSIVE: Trump administration bans new Chinese humanoid robots, to protect US AI buildout"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-07-28T13:19:17.000Z",
+      "writtenSources": 2,
+      "h": "Recursive Superintelligence signs $410 million compute deal with Amazon Web Services",
+      "s": "The multiyear compute commitment signals a shift toward large, long‑term cloud spend for self‑improving AI and could attract other foundation‑level labs to similar deals, speeding product timelines and infrastructure ambitions.",
+      "b": [
+        "Multi‑year compute deal with Amazon Web Services valued around $410 million (TechCrunch report)",
+        "RSI emerged from stealth in May with about $650 million in funding",
+        "Socher expects the deal to be the first of many and anticipates early products by October",
+        "AWS involvement has no investment component and includes co‑developing infrastructure tailored for RSI, per the report"
+      ],
+      "body": [
+        "Recursive Superintelligence announced a multiyear compute deal with Amazon Web Services as it scales its self‑improving AI research agenda, the company said in a TechCrunch report. The arrangement is described as a long‑term commitment meant to provide flexibility as RSI builds out its open‑ended AI systems at scale.",
+        "TechCrunch notes that RSI’s $410 million outlay represents the bulk of the company’s fundraising to date, and Socher said he expects this to be the first of many such deals as the company grows. Socher told TechCrunch that today’s announcement is likely to be one of the smaller compute agreements the company signs in the coming years.",
+        "The company’s emphasis on self‑improving AI means more budget going into compute rather than traditional headcount and operations, with Socher saying, “For us, it’s less about headcount and more about agent count.”",
+        "There is no investment component to AWS’s involvement in the deal, but AWS is expected to commit significant resources to RSI’s needs and co‑develop infrastructure tailored for these types of companies, according to Jason Bennett, AWS VP for startups and venture capital.",
+        "RSI’s leadership positions self‑improvement as a potential inflection point for AI progress, though coverage notes that the exact requirements and timelines remain ambiguous as more labs pursue the idea. Socher emphasized tangible progress, telling TechCrunch that users could see “the earliest examples before the end of the year,” with a concrete reveal around October.",
+        "Overall, RSI’s leadership frames the deal as a platform shift designed to accelerate product development and deployment, positioning AWS as a strategic partner rather than a traditional investor."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260728/p20#a260728p20"
+        }
+      ],
+      "srcTitles": [
+        "Recursive Superintelligence signs $410 million compute deal with Amazon",
+        "Richard Socher's Recursive Superintelligence signs a $410M, multiyear AWS compute deal to support its self-improving AI systems, after raising $650M in May (Russell Brandom/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-07-27T22:25:00.000Z",
+      "writtenSources": 3,
+      "h": "Anthropic’s Amodei: not backing an open-weight ban, but wary of authoritarian use and calls for global model testing",
+      "s": "The stance influences how policymakers balance openness with security, potentially shaping export controls, safety standards, and international cooperation on AI governance.",
+      "b": [
+        "Amodei said in a blog post that \"Anthropic has never advocated for a ban on open-weights models.\"",
+        "An open-letter led by Nvidia, and signed by companies including Hugging Face, Meta, Microsoft, and Mistral, urged policymakers not to impose premature restrictions on open-weight models.",
+        "The UK AI Security Institute report cited in the discussion notes that once open-weights are released they cannot be withdrawn.",
+        "Amodei advocates a global model safety testing organization with testing applied to the most capable models regardless of country of origin."
+      ],
+      "body": [
+        "TechCrunch reported on July 27, 2026 that Anthropic founder and CEO Dario Amodei responded to industry chatter that his company might support government bans on open-weight models, or on open-weights in general. He pushed back on the idea that Anthropic backs broad restrictions, stating clearly that his company has not advocated for a ban."
+      ],
+      "l": [
+        {
+          "d": "nextgov.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWdxSGp6WGp2VkgxZTdHcVdrUmVRUXNGcEVHc2Zac1hkcVZRa295TVNBalRwdE5SLUVobTlvZnpFcUtoLThXbDg4YzlEbE5odENUUVJMenIyb3RvZGVYMmhwOWlndEFJbUFYQl9YNWJhS2xvdUFUVERjRWQ1TG13MXBUT2pObzRuTVVlYWQ4aVRvdEdIV1VSVFgtbzBsTGhidjdHUnpJam5ZWF9IRm9nRA?oc=5"
+        },
+        {
+          "d": "computerworld.com",
+          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWC1yWUZtbWY3eGxsWE53TmRoRUtKWjZCSF9ONHQwQnVLZHdOVldzaVM0RTFYWTRMY0dzNENNMEEzVk45dDFCUm84b2FRZXBFOE1JV1k5N3llazZ3alpCOVk5RGxvc21HN2ZSSG9zU0czS19DYlplcjZ6REJqTHdWSGt5NmJ5SGZvOEQ0QXplODZpVU1VRm1aSC1sb09FUWJlNVlLMHZQQkVseUw2QWkwbDNkUjRmamNmaXdBVmhpcF9IM204Wk8tOEFYREZpaXZp?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic calls for threading the needle on open-source AI",
+        "Anthropic rejects open-weight AI bans, calls for China chip controls and safety tests"
       ]
     },
     {
@@ -385,40 +450,6 @@
         "‘AI is here to stay’: Columbus County Schools launches classroom AI platform",
         "‘AI is here to stay’: Columbus County Schools launches classroom AI platform",
         "‘AI is here to stay’: Columbus County Schools launches classroom AI platform"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-07-28T15:30:24.000Z",
-      "writtenSources": 2,
-      "h": "Steven Spielberg’s A.I. Artificial Intelligence turns 25 and remains unsettling",
-      "s": "The film’s enduring questions about machine autonomy and ethics shape how audiences, researchers, and policymakers think about real-world AI risks and governance.",
-      "b": [
-        "25th anniversary of Steven Spielberg’s A.I. Artificial Intelligence is being highlighted by coverage from The Independent and The Conversation.",
-        "The Conversation’s piece is titled “A.I. at 25: the Spielberg film that feels more unsettling than ever.”",
-        "Both outlets use the milestone to revisit themes of AI autonomy, ethics, and human–technology relationships that stay relevant to current AI debates."
-      ],
-      "body": [
-        "The Independent marks the 25th anniversary of Steven Spielberg’s A.I. Artificial Intelligence, noting why the film still feels unsettling today. The piece uses the milestone to discuss the film’s ongoing resonance with audiences as AI technologies advance.",
-        "The Conversation also weighs in on the anniversary, framing it as a moment to reflect on the Spielberg film’s themes and their relevance in contemporary AI discourse. The Conversation’s take is framed around how the film’s questions about artificial sentience and human control continue to provoke unease.",
-        "Both outlets connect the film’s exploration of machine autonomy, ethics, and the complex relationship between humans and technology to the broader, real‑world conversations around AI safety, governance, and public perception.",
-        "Overall, the anniversary serves as a cultural touchstone for examining how narratives about AI influence policy debates, research priorities, and public attitudes toward increasingly capable intelligent systems."
-      ],
-      "l": [
-        {
-          "d": "independent.co.uk",
-          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGFKY01faTkzU1lPbksxcUhGMDEwRlVJUThxeEJGWHNiM281dTU0b2RuRzJfcVlGblF4UUpEdDNCWnhVMmxGUi1JMVZMY0dWbWU3Q1AxbklxWGliVk9jTWVDS1BLQUxiTUhSRHM1UWU2eUludXNOdGtfcEMtX29NQTYtRC1SdDVybkUxTUZNUnZjdDNETlVxdVV4MUtLbDlkUlRFOTRqSlFLTFFzcmdDZFBNS21nNjFta2c?oc=5"
-        },
-        {
-          "d": "theconversation.com",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMS1WTEY4NkJGbkJkQmJLUU1ZYm1VVHloNzMtSVVLM3J2SjFTdWJhRFI3UlJvUVE1TlBDcW1oUzgzMkRPeDRySWNBc2lKaHpxSzNMZVNZNG1MSWs5M3JLX244NW5mUG1YcEZqYXhqcXNualdleWVzdWxVUzNiOEZ1bUg3QlpuVnVpU3EyLVhPUGRFRzdlUVFuTFplcERMQ2l0MHc?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Steven Spielberg’s A.I. Artificial Intelligence turns 25. Here’s why the movie still feels unsettling today",
-        "A.I. at 25: the Spielberg film that feels more unsettling than ever"
       ]
     },
     {
@@ -555,8 +586,42 @@
       ]
     },
     {
-      "cat": "funding",
+      "cat": "policy",
       "signal": 22,
+      "sources": 2,
+      "ts": "2026-07-28T15:30:24.000Z",
+      "writtenSources": 2,
+      "h": "Steven Spielberg’s A.I. Artificial Intelligence turns 25 and remains unsettling",
+      "s": "The film’s enduring questions about machine autonomy and ethics shape how audiences, researchers, and policymakers think about real-world AI risks and governance.",
+      "b": [
+        "25th anniversary of Steven Spielberg’s A.I. Artificial Intelligence is being highlighted by coverage from The Independent and The Conversation.",
+        "The Conversation’s piece is titled “A.I. at 25: the Spielberg film that feels more unsettling than ever.”",
+        "Both outlets use the milestone to revisit themes of AI autonomy, ethics, and human–technology relationships that stay relevant to current AI debates."
+      ],
+      "body": [
+        "The Independent marks the 25th anniversary of Steven Spielberg’s A.I. Artificial Intelligence, noting why the film still feels unsettling today. The piece uses the milestone to discuss the film’s ongoing resonance with audiences as AI technologies advance.",
+        "The Conversation also weighs in on the anniversary, framing it as a moment to reflect on the Spielberg film’s themes and their relevance in contemporary AI discourse. The Conversation’s take is framed around how the film’s questions about artificial sentience and human control continue to provoke unease.",
+        "Both outlets connect the film’s exploration of machine autonomy, ethics, and the complex relationship between humans and technology to the broader, real‑world conversations around AI safety, governance, and public perception.",
+        "Overall, the anniversary serves as a cultural touchstone for examining how narratives about AI influence policy debates, research priorities, and public attitudes toward increasingly capable intelligent systems."
+      ],
+      "l": [
+        {
+          "d": "independent.co.uk",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGFKY01faTkzU1lPbksxcUhGMDEwRlVJUThxeEJGWHNiM281dTU0b2RuRzJfcVlGblF4UUpEdDNCWnhVMmxGUi1JMVZMY0dWbWU3Q1AxbklxWGliVk9jTWVDS1BLQUxiTUhSRHM1UWU2eUludXNOdGtfcEMtX29NQTYtRC1SdDVybkUxTUZNUnZjdDNETlVxdVV4MUtLbDlkUlRFOTRqSlFLTFFzcmdDZFBNS21nNjFta2c?oc=5"
+        },
+        {
+          "d": "theconversation.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMS1WTEY4NkJGbkJkQmJLUU1ZYm1VVHloNzMtSVVLM3J2SjFTdWJhRFI3UlJvUVE1TlBDcW1oUzgzMkRPeDRySWNBc2lKaHpxSzNMZVNZNG1MSWs5M3JLX244NW5mUG1YcEZqYXhqcXNualdleWVzdWxVUzNiOEZ1bUg3QlpuVnVpU3EyLVhPUGRFRzdlUVFuTFplcERMQ2l0MHc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Steven Spielberg’s A.I. Artificial Intelligence turns 25. Here’s why the movie still feels unsettling today",
+        "A.I. at 25: the Spielberg film that feels more unsettling than ever"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 18,
       "sources": 2,
       "ts": "2026-07-28T12:43:18.000Z",
       "writtenSources": 2,
@@ -589,7 +654,7 @@
     },
     {
       "cat": "funding",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-07-28T11:05:00.000Z",
       "writtenSources": 2,
@@ -622,7 +687,7 @@
     },
     {
       "cat": "funding",
-      "signal": 19,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-07-28T14:00:00.000Z",
       "writtenSources": 2,
