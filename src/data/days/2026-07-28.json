@@ -3,7 +3,77 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 49,
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-07-28T13:19:17.000Z",
+      "writtenSources": 2,
+      "h": "Recursive Superintelligence signs $410 million compute deal with Amazon Web Services",
+      "s": "The multiyear compute commitment signals a shift toward large, long‑term cloud spend for self‑improving AI and could attract other foundation‑level labs to similar deals, speeding product timelines and infrastructure ambitions.",
+      "b": [
+        "Multi‑year compute deal with Amazon Web Services valued around $410 million (TechCrunch report)",
+        "RSI emerged from stealth in May with about $650 million in funding",
+        "Socher expects the deal to be the first of many and anticipates early products by October",
+        "AWS involvement has no investment component and includes co‑developing infrastructure tailored for RSI, per the report"
+      ],
+      "body": [
+        "Recursive Superintelligence announced a multiyear compute deal with Amazon Web Services as it scales its self‑improving AI research agenda, the company said in a TechCrunch report. The arrangement is described as a long‑term commitment meant to provide flexibility as RSI builds out its open‑ended AI systems at scale.",
+        "TechCrunch notes that RSI’s $410 million outlay represents the bulk of the company’s fundraising to date, and Socher said he expects this to be the first of many such deals as the company grows. Socher told TechCrunch that today’s announcement is likely to be one of the smaller compute agreements the company signs in the coming years.",
+        "The company’s emphasis on self‑improving AI means more budget going into compute rather than traditional headcount and operations, with Socher saying, “For us, it’s less about headcount and more about agent count.”",
+        "There is no investment component to AWS’s involvement in the deal, but AWS is expected to commit significant resources to RSI’s needs and co‑develop infrastructure tailored for these types of companies, according to Jason Bennett, AWS VP for startups and venture capital.",
+        "RSI’s leadership positions self‑improvement as a potential inflection point for AI progress, though coverage notes that the exact requirements and timelines remain ambiguous as more labs pursue the idea. Socher emphasized tangible progress, telling TechCrunch that users could see “the earliest examples before the end of the year,” with a concrete reveal around October.",
+        "Overall, RSI’s leadership frames the deal as a platform shift designed to accelerate product development and deployment, positioning AWS as a strategic partner rather than a traditional investor."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260728/p20#a260728p20"
+        }
+      ],
+      "srcTitles": [
+        "Recursive Superintelligence signs $410 compute deal with Amazon",
+        "Richard Socher's Recursive Superintelligence signs a $410M, multiyear AWS compute deal to support its self-improving AI systems, after raising $650M in May (Russell Brandom/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-07-28T13:00:00.000Z",
+      "writtenSources": 1,
+      "h": "5 ways to host the ultimate dinner party with Google Search",
+      "s": "Google’s AI Search tools could change how people plan real‑world gatherings, potentially increasing reliance on search‑driven planning and connected apps for events and entertaining.",
+      "b": [
+        "AI features help visualize tablescapes and design custom menus",
+        "AI Mode can brainstorm recipes, find drink pairings, and curate music playlists that sync with apps",
+        "AI Mode can generate a printable menu and connect with Canva for design tasks",
+        "Prominent recipe results in Search show images and details like creator name, recipe ratings, and number of ingredients"
+      ],
+      "body": [
+        "Google’s latest AI features in Search aim to simplify dinner‑party planning by enabling users to visualize tablescapes, design menus, brainstorm recipes, locate drink pairings, and curate playlists that sync with preferred apps. The update focuses on helping you plan not just what to cook, but how to present and enjoy the overall experience.",
+        "Users can leverage Nano Banana in AI Mode to visualize how a table could look, while AI Mode helps brainstorm menu options and suggest drinks that complement chosen dishes. The AI tools are designed to streamline creative decisions, from theme to dish selection, so hosts can focus on guest experience.",
+        "Once decisions are made, AI Mode can generate a printable menu or shareable design, and it can connect with Canva to support on‑the‑fly design tasks as part of the planning flow. In addition, AI‑driven recipe results include richer details at the top of responses—images plus data such as the recipe creator’s name, ratings, and ingredient counts.",
+        "The article also notes that you can tie searches to your existing app ecosystem, for example by saving a playlist to YouTube Music or generating menu visuals you can print or share with guests, illustrating a broader push to make Google Search a planning hub for real‑world activities.",
+        "College students are highlighted as a demographic trending toward using these tools to remix dorm room spaces, with Google pointing to Search trends as evidence of growing interest in offline, real‑world planning.",
+        "",
+        ""
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/"
+        }
+      ],
+      "srcTitles": [
+        "5 ways to host the ultimate dinner party with Google Search"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 46,
       "sources": 1,
       "ts": "2026-07-28T02:05:01.000Z",
       "writtenSources": 2,
@@ -33,8 +103,44 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 42,
+      "sources": 2,
+      "ts": "2026-07-28T14:00:00.000Z",
+      "writtenSources": 2,
+      "h": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+      "s": "The seed funding underscores growing demand for expressive, controllable AI voices across creators and enterprises, while also spotlighting governance questions around consent, licensing, and ownership of trained voices.",
+      "b": [
+        "Seed round of $50 million led by Coreline Ventures and Capital Today (plus participation from 359 Capital, Parable, and others)",
+        "Fish Audio reports $21 million ARR and over 8 million users, with more than 15,000 natural language controls across its models",
+        "Five models launched in the past year (four speech generation, one speech‑to‑text); three generation models open‑sourced, latest S2.1 Pro is API‑based and paid",
+        "The company automated its voice‑ownership DMCA takedown flow to under 3 minutes for consented voice removals; creators can submit proof of ownership for fast removal"
+      ],
+      "body": [
+        "Fish Audio, a Palo Alto startup, announced a $50 million seed round led by Coreline Ventures and Capital Today to expand its library of AI voice models for creators and enterprises. The company aims to support a broad range of use cases from expressive character voices to automated customer interactions, with a library that currently features more than 15,000 natural language controls.",
+        "Since its public launch last year, Fish Audio has grown to over 8 million users across its open‑source and hosted offerings and reports annual recurring revenue of about $21 million. The startup has rolled out five models over the past year—four speech generation models and one speech‑to‑text model—and has open‑sourced three generation models, while the latest S2.1 Pro model is available only through its paid API.",
+        "Fish Audio’s CEO and co‑founder Rissa Cao indicated a broad portfolio of voice applications, with customers including companies like HeyGen, Sanas and Plaud that use its voices for different needs—realism for avatars, expressiveness for games, or natural voices for voice agents.",
+        "The company has faced earlier concerns when creators claimed their voices were uploaded without consent; Fish Audio has since automated its DMCA removal flow, allowing creators to submit a sample or contract to prove ownership and have their voice taken down within minutes. Investors stressed that consent, transparency, and clear licensing are essential to building trust in community‑driven voice ecosystems.",
+        "Looking ahead, Fish Audio plans to release an audio understanding model this year and is also working on a speech‑to‑speech model, as it competes in a crowded market with players like ElevenLabs and Krisp."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260728/p22#a260728p22"
+        }
+      ],
+      "srcTitles": [
+        "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+        "Fish Audio, which offers AI voice models for creators and enterprises and has $21M in ARR, raised a $50M seed led by Coreline Ventures and Capital Today (Ivan Mehta/TechCrunch)"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 36,
+      "signal": 32,
       "sources": 3,
       "ts": "2026-07-27T22:25:00.000Z",
       "writtenSources": 3,
@@ -70,8 +176,39 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-07-28T13:00:00.000Z",
+      "writtenSources": 1,
+      "h": "5 ways AI Mode in Search helps you enjoy the real world",
+      "s": "AI Mode in Search could pull more people into offline activities and deepen engagement with Google’s ecosystem by guiding real‑world planning, bookings, and shopping through connected apps.",
+      "b": [
+        "AI Mode helps you find local classes, shop for gear, practice new hobbies, and book tickets",
+        "Canvas in AI Mode lets you build guides (e.g., chess strategies) and practice through simulations",
+        "Personal Intelligence securely connects your Google apps to tailor AI responses (e.g., calendar‑aware suggestions)",
+        "Trends show rising offline activity interest (e.g., adult tennis lessons, trail running, hiking, run clubs) and a +110% YoY interest in digital detox"
+      ],
+      "body": [
+        "Google’s AI Mode in Search is positioned as a tool for people who want to spend more time in the real world by simplifying how they plan activities and events. The feature set includes finding local classes that fit a user’s schedule, shopping for specific gear, practicing hobbies, and booking tickets for events.",
+        "Personal Intelligence enables AI Mode to securely connect across Google apps so responses feel more personalized and aligned with a user’s calendar and preferences. This creates a tighter loop between planning and execution, helping users turn ideas into real‑world actions.",
+        "Google also highlights current interest in offline activities, noting queries like “adult tennis lessons,” “trail running,” “hiking,” and “run club” are trending, with demand for digital detox guidance up more than 110% year over year.",
+        "Canvas within AI Mode lets users create practical guides, such as a chess strategy memo, by selecting Canvas from the AI Mode plus menu and asking for a few easy‑to‑remember moves; users can use Canvas to practice by building a game simulation against a computer.",
+        "The company also describes ways to use AI Mode to find and book nearby events, and to design materials like flyers in Canva from within the Search results, illustrating how AI Mode consolidates planning tools across apps for real‑world activities."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/"
+        }
+      ],
+      "srcTitles": [
+        "5 ways AI Mode in Search helps you enjoy the real world"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 32,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-07-28T11:05:00.000Z",
       "writtenSources": 2,
@@ -89,12 +226,12 @@
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFd6VEY5SEllcVh2U2pDbjBVM1ZDOWRZWEJ1Sk9iTnd2T01lZ1l3eTUwd1JLNTNNQ2NmRnhhRUJESkM0bDJ2QlVDUWNqYmlEODBxMzVBMVVwTUt5ZkE4OVVRQXpjNjI1V2h1dFpEa2J5eDJja1NSS1NmMXlxc01LZXJ3WHoyU3g3ZVpTbEtpU09MQ29FYXdLM25ybmY?oc=5"
-        },
-        {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGhJRURyV0lwUEtRVnMwMmVveXF5N2R5ODRyOWhRUmkyNG43VHJRaGhRX2JBbW9EcVFQLXpJZVdDYzQ1T3ZBbnl1b0M5TkVfSG9Pb1JwcVFTQmhHYkJXdlk5TklqU2JRSDF6aEpnekQ0RlEwRDZHMUhiVlVpWmRPNDdGdnItY21ETlM5Y01ieEs1VlpDM1g0?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFd6VEY5SEllcVh2U2pDbjBVM1ZDOWRZWEJ1Sk9iTnd2T01lZ1l3eTUwd1JLNTNNQ2NmRnhhRUJESkM0bDJ2QlVDUWNqYmlEODBxMzVBMVVwTUt5ZkE4OVVRQXpjNjI1V2h1dFpEa2J5eDJja1NSS1NmMXlxc01LZXJ3WHoyU3g3ZVpTbEtpU09MQ29FYXdLM25ybmY?oc=5"
         }
       ],
       "srcTitles": [
@@ -124,18 +261,18 @@
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORG4xbTN5UkFaSWo5bEcyRVl1R3gzbEJlV0dpZENhcTF4aWhkZFFiTVBuQnBSOEllRUJLNmtfcC1TSnZsWnhfU1N3U3JWU29JWFV4VUlrc3czTndaWHpkeTNsLUllQndmeGVFd1k5bDJHNzRPMVRxTFpjbTJ6bTN2VTd4WkR4empPQmtOSDZlMHRvdXhqR2s3dUdKbDNCMlBUSkt6Ug?oc=5"
-        },
-        {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXlYa2g4QUZoU1QtR1haS1VkN25zamtyLWgyUXloWWxjdjNpZWlMR19leWRvdGtxdUF2N2dEYXFKNFpOcHQ1dUpPZ1dSZEJ2eGxRM21tSlpiSkxtWnBybTZPMXpsVE51cXNlR2gyak9zQ3ZEdUg1dS0xTndKVFVvNHFUdlVLNWpFR1pVVE9TajFJWExzZXlTZg?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSFdacnhVbG9RN1NNT1FTcVpsZEYtNk9wcVZ5UHJsNGZwUTJTTEo3QVpROXZ0T0R1clF3eEJESWc4bDZ2NlNsZU1zZW1xWDZBdVFQSnVWblliNkNoUWE5T3hRVVVRMmVmUmdLTkxibHZzU2dNMGNXd1huRkhUcTJLZDVlcUFLYl9UaDBRMHNSQ0Vyb25MOHBHcjdRbXhLQjFvZUdHMjFQemVNWEZJc2xXempEMXJaM0lkMFM2eHUyZmpxRDlHbEtRVV9mVGtCMWw0dEJVcmdOUzI1WWM?oc=5"
         }
       ],
       "srcTitles": [
         "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
-        "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
-        "Forget Micron Stock at $920 Per Share. Buy This Memory-Focused Artificial Intelligence (AI) ETF Instead."
+        "Forget Micron Stock at $920 Per Share. Buy This Memory-Focused Artificial Intelligence (AI) ETF Instead.",
+        "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now"
       ]
     },
     {
