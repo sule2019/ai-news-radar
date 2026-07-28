@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 60,
+      "signal": 56,
       "sources": 3,
       "ts": "2026-07-27T22:25:00.000Z",
       "writtenSources": 3,
@@ -40,7 +40,47 @@
     },
     {
       "cat": "funding",
-      "signal": 32,
+      "signal": 36,
+      "sources": 3,
+      "ts": "2026-07-28T06:20:00.000Z",
+      "writtenSources": 3,
+      "h": "Three AI stocks to buy now, according to major outlets",
+      "s": "The repetition of buy-now recommendations across outlets signals ongoing investor interest in AI equities, which could influence near-term market moves for followers of AI stocks.",
+      "b": [
+        "Yahoo Finance, The Motley Fool, and The Globe and Mail published articles carrying the headline \"My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now\".",
+        "The three outlets all use the same headline, suggesting a coordinated or shared framing around AI stock exposure.",
+        "No stock names, numbers, or specific picks are disclosed in the shared text, and no dates or prices are provided.",
+        "The coverage implies a buy recommendation but does not provide concrete stock details in the provided snippets."
+      ],
+      "body": [
+        "Yahoo Finance, The Motley Fool, and The Globe and Mail each published articles bearing the headline \"My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now.\" The shared title appears across all three outlets, indicating a consistent framing around three AI stock picks that readers are encouraged to consider buying in the near term.",
+        "In the snippets provided, there are no specific AI stock names, ticker symbols, purchase prices, or dates. The content available shows only the headline and outlet attribution, with no accompanying list or breakdown of which stocks are favored.",
+        "The presence of a buy-now call to action in the headlines suggests an investment angle to these AI stock picks, though the snippets do not disclose which equities are being recommended. Readers seeking actionable guidance would need to consult the full articles to identify the actual stock names and any accompanying rationale.",
+        "This digest is intended to alert AI-following investors that multiple prominent outlets are presenting AI exposure as a near-term purchase opportunity, but the available text offers no concrete stocks or detailed analysis to act on without accessing the original pieces."
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORG4xbTN5UkFaSWo5bEcyRVl1R3gzbEJlV0dpZENhcTF4aWhkZFFiTVBuQnBSOEllRUJLNmtfcC1TSnZsWnhfU1N3U3JWU29JWFV4VUlrc3czTndaWHpkeTNsLUllQndmeGVFd1k5bDJHNzRPMVRxTFpjbTJ6bTN2VTd4WkR4empPQmtOSDZlMHRvdXhqR2s3dUdKbDNCMlBUSkt6Ug?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXlYa2g4QUZoU1QtR1haS1VkN25zamtyLWgyUXloWWxjdjNpZWlMR19leWRvdGtxdUF2N2dEYXFKNFpOcHQ1dUpPZ1dSZEJ2eGxRM21tSlpiSkxtWnBybTZPMXpsVE51cXNlR2gyak9zQ3ZEdUg1dS0xTndKVFVvNHFUdlVLNWpFR1pVVE9TajFJWExzZXlTZg?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdmMxNFFaYWRvOS0wUGlhWjBWZ3N4b1pQMlEtblk3UE4zYzFacFFKbXBNY1AzLXhsSXF0Qmt6Q1RNd3IySmpxTXB0dHBNY0xKSWlrSWMtRkRtRk1TdUdTY29GOVRiNk9HMnlZQjVxS2tGcUEyNzkzTzg5emxoOWFsa1FTWHFDSVdCcnY4Y2F6T1o3bWlzVlFBWnJyaUVPWDB0cVhXVjdxNHhrQnp0TjJFMUJHMUl2ejNUSG4talF2MWNYdGN3czFqYktpLWgtTi1PNk5YQ2NCQ3Q4OFNValZBei00NA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
+        "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
+        "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 28,
       "sources": 2,
       "ts": "2026-07-28T04:06:47.000Z",
       "writtenSources": 2,
