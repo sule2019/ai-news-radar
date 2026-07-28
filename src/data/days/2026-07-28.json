@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 57,
+      "signal": 53,
       "sources": 2,
       "ts": "2026-07-28T13:19:17.000Z",
       "writtenSources": 2,
@@ -206,42 +206,6 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 35,
-      "sources": 2,
-      "ts": "2026-07-28T14:00:00.000Z",
-      "writtenSources": 2,
-      "h": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
-      "s": "The seed funding underscores growing demand for expressive, controllable AI voices across creators and enterprises, while also spotlighting governance questions around consent, licensing, and ownership of trained voices.",
-      "b": [
-        "Seed round of $50 million led by Coreline Ventures and Capital Today (plus participation from 359 Capital, Parable, and others)",
-        "Fish Audio reports $21 million ARR and over 8 million users, with more than 15,000 natural language controls across its models",
-        "Five models launched in the past year (four speech generation, one speech‑to‑text); three generation models open‑sourced, latest S2.1 Pro is API‑based and paid",
-        "The company automated its voice‑ownership DMCA takedown flow to under 3 minutes for consented voice removals; creators can submit proof of ownership for fast removal"
-      ],
-      "body": [
-        "Fish Audio, a Palo Alto startup, announced a $50 million seed round led by Coreline Ventures and Capital Today to expand its library of AI voice models for creators and enterprises. The company aims to support a broad range of use cases from expressive character voices to automated customer interactions, with a library that currently features more than 15,000 natural language controls.",
-        "Since its public launch last year, Fish Audio has grown to over 8 million users across its open‑source and hosted offerings and reports annual recurring revenue of about $21 million. The startup has rolled out five models over the past year—four speech generation models and one speech‑to‑text model—and has open‑sourced three generation models, while the latest S2.1 Pro model is available only through its paid API.",
-        "Fish Audio’s CEO and co‑founder Rissa Cao indicated a broad portfolio of voice applications, with customers including companies like HeyGen, Sanas and Plaud that use its voices for different needs—realism for avatars, expressiveness for games, or natural voices for voice agents.",
-        "The company has faced earlier concerns when creators claimed their voices were uploaded without consent; Fish Audio has since automated its DMCA removal flow, allowing creators to submit a sample or contract to prove ownership and have their voice taken down within minutes. Investors stressed that consent, transparency, and clear licensing are essential to building trust in community‑driven voice ecosystems.",
-        "Looking ahead, Fish Audio plans to release an audio understanding model this year and is also working on a speech‑to‑speech model, as it competes in a crowded market with players like ElevenLabs and Krisp."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260728/p22#a260728p22"
-        }
-      ],
-      "srcTitles": [
-        "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-        "Fish Audio, which offers AI voice models for creators and enterprises and has $21M in ARR, raised a $50M seed led by Coreline Ventures and Capital Today (Ivan Mehta/TechCrunch)"
-      ]
-    },
-    {
       "cat": "policy",
       "signal": 33,
       "sources": 3,
@@ -278,6 +242,42 @@
         "CENTCOM announces US-UAE task force on AI",
         "US, UAE to establish military artificial intelligence task force",
         "US, UAE to establish military artificial intelligence task force"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 31,
+      "sources": 2,
+      "ts": "2026-07-28T14:00:00.000Z",
+      "writtenSources": 2,
+      "h": "Fish Audio raises $50M seed to build AI voice models for creators and enterprises",
+      "s": "The seed funding underscores growing demand for expressive, controllable AI voices across creators and enterprises, while also spotlighting governance questions around consent, licensing, and ownership of trained voices.",
+      "b": [
+        "Seed round of $50 million led by Coreline Ventures and Capital Today (plus participation from 359 Capital, Parable, and others)",
+        "Fish Audio reports $21 million ARR and over 8 million users, with more than 15,000 natural language controls across its models",
+        "Five models launched in the past year (four speech generation, one speech‑to‑text); three generation models open‑sourced, latest S2.1 Pro is API‑based and paid",
+        "The company automated its voice‑ownership DMCA takedown flow to under 3 minutes for consented voice removals; creators can submit proof of ownership for fast removal"
+      ],
+      "body": [
+        "Fish Audio, a Palo Alto startup, announced a $50 million seed round led by Coreline Ventures and Capital Today to expand its library of AI voice models for creators and enterprises. The company aims to support a broad range of use cases from expressive character voices to automated customer interactions, with a library that currently features more than 15,000 natural language controls.",
+        "Since its public launch last year, Fish Audio has grown to over 8 million users across its open‑source and hosted offerings and reports annual recurring revenue of about $21 million. The startup has rolled out five models over the past year—four speech generation models and one speech‑to‑text model—and has open‑sourced three generation models, while the latest S2.1 Pro model is available only through its paid API.",
+        "Fish Audio’s CEO and co‑founder Rissa Cao indicated a broad portfolio of voice applications, with customers including companies like HeyGen, Sanas and Plaud that use its voices for different needs—realism for avatars, expressiveness for games, or natural voices for voice agents.",
+        "The company has faced earlier concerns when creators claimed their voices were uploaded without consent; Fish Audio has since automated its DMCA removal flow, allowing creators to submit a sample or contract to prove ownership and have their voice taken down within minutes. Investors stressed that consent, transparency, and clear licensing are essential to building trust in community‑driven voice ecosystems.",
+        "Looking ahead, Fish Audio plans to release an audio understanding model this year and is also working on a speech‑to‑speech model, as it competes in a crowded market with players like ElevenLabs and Krisp."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260728/p22#a260728p22"
+        }
+      ],
+      "srcTitles": [
+        "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+        "Fish Audio, which offers AI voice models for creators and enterprises and has $21M in ARR, raised a $50M seed led by Coreline Ventures and Capital Today (Ivan Mehta/TechCrunch)"
       ]
     },
     {
@@ -345,6 +345,43 @@
       ],
       "srcTitles": [
         "Scientific computing in the age of agentic AI"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-07-28T06:20:00.000Z",
+      "writtenSources": 3,
+      "h": "Three AI stocks to buy now, according to major outlets",
+      "s": "The repetition of buy-now recommendations across outlets signals ongoing investor interest in AI equities, which could influence near-term market moves for followers of AI stocks.",
+      "b": [
+        "Yahoo Finance, The Motley Fool, and The Globe and Mail published articles carrying the headline \"My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now\".",
+        "The three outlets all use the same headline, suggesting a coordinated or shared framing around AI stock exposure.",
+        "No stock names, numbers, or specific picks are disclosed in the shared text, and no dates or prices are provided.",
+        "The coverage implies a buy recommendation but does not provide concrete stock details in the provided snippets."
+      ],
+      "body": [
+        "Yahoo Finance, The Motley Fool, and The Globe and Mail each published articles bearing the headline \"My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now.\" The shared title appears across all three outlets, indicating a consistent framing around three AI stock picks that readers are encouraged to consider buying in the near term.",
+        "In the snippets provided, there are no specific AI stock names, ticker symbols, purchase prices, or dates. The content available shows only the headline and outlet attribution, with no accompanying list or breakdown of which stocks are favored.",
+        "The presence of a buy-now call to action in the headlines suggests an investment angle to these AI stock picks, though the snippets do not disclose which equities are being recommended. Readers seeking actionable guidance would need to consult the full articles to identify the actual stock names and any accompanying rationale.",
+        "This digest is intended to alert AI-following investors that multiple prominent outlets are presenting AI exposure as a near-term purchase opportunity, but the available text offers no concrete stocks or detailed analysis to act on without accessing the original pieces."
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkNGOEpybmJfR3B0TzM3Q1BVdF8wRjh4RHNWQnFpcWZ6U1pBTjZRalJ1SEMwMEhac2NlMzRacmVsZjdfSDFBU0t6eDNzemtXSVAyTXg2N0lkeEFHN3BkZjVFN2tSeF9OZi1QVjRGaUx0RlBnVW5JLXRsdGllSmdQVk1uMXY4NXhGS09YZ3R1VWR6T2J1bjVSQQ?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSnlnbmZLQ0xCX2M0MV81X0dRNkJxUG1QSFhIa1B5RzNaY2lZVDlBbnJwU09kTEphWGRzS2ExX1ZnR21UeWQ2M2daLUpvRld5ZnZEcHlSWTVqZnFPVGx0T3dlUTNCRWpfRzgwYlFfbFhBSnFKbFJZRFhuN1YyRjk3aUNnemhxZXpMdmN4c1RLc2pYSXA4UzZzb0pGaS1sZWtpeWMxZVVlOWV5ZVFGMk1rM1UwbDJLZ09ENHYtSndRdURHRG9MQXNnVTg4NzgzQ2wxeUR1QjUxVW5JbjJBeTFaaTlFQTUwTnBtNFNTOG9Sc3UydFE2SlpiUEVZYzZlOVBTSU53ZEllZWg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "This Healthcare Leader Just Made a Bet on Artificial Intelligence (AI): Time to Buy the Stock?",
+        "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
+        "This Healthcare Leader Just Made a Bet on Artificial Intelligence (AI): Time to Buy the Stock?",
+        "Forget Micron Stock at $920 Per Share. Buy This Memory-Focused Artificial Intelligence (AI) ETF Instead."
       ]
     },
     {
@@ -416,7 +453,7 @@
     },
     {
       "cat": "policy",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-07-28T07:00:00.000Z",
       "writtenSources": 2,
@@ -449,43 +486,7 @@
     },
     {
       "cat": "funding",
-      "signal": 22,
-      "sources": 2,
-      "ts": "2026-07-28T06:20:00.000Z",
-      "writtenSources": 3,
-      "h": "Three AI stocks to buy now, according to major outlets",
-      "s": "The repetition of buy-now recommendations across outlets signals ongoing investor interest in AI equities, which could influence near-term market moves for followers of AI stocks.",
-      "b": [
-        "Yahoo Finance, The Motley Fool, and The Globe and Mail published articles carrying the headline \"My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now\".",
-        "The three outlets all use the same headline, suggesting a coordinated or shared framing around AI stock exposure.",
-        "No stock names, numbers, or specific picks are disclosed in the shared text, and no dates or prices are provided.",
-        "The coverage implies a buy recommendation but does not provide concrete stock details in the provided snippets."
-      ],
-      "body": [
-        "Yahoo Finance, The Motley Fool, and The Globe and Mail each published articles bearing the headline \"My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now.\" The shared title appears across all three outlets, indicating a consistent framing around three AI stock picks that readers are encouraged to consider buying in the near term.",
-        "In the snippets provided, there are no specific AI stock names, ticker symbols, purchase prices, or dates. The content available shows only the headline and outlet attribution, with no accompanying list or breakdown of which stocks are favored.",
-        "The presence of a buy-now call to action in the headlines suggests an investment angle to these AI stock picks, though the snippets do not disclose which equities are being recommended. Readers seeking actionable guidance would need to consult the full articles to identify the actual stock names and any accompanying rationale.",
-        "This digest is intended to alert AI-following investors that multiple prominent outlets are presenting AI exposure as a near-term purchase opportunity, but the available text offers no concrete stocks or detailed analysis to act on without accessing the original pieces."
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXlYa2g4QUZoU1QtR1haS1VkN25zamtyLWgyUXloWWxjdjNpZWlMR19leWRvdGtxdUF2N2dEYXFKNFpOcHQ1dUpPZ1dSZEJ2eGxRM21tSlpiSkxtWnBybTZPMXpsVE51cXNlR2gyak9zQ3ZEdUg1dS0xTndKVFVvNHFUdlVLNWpFR1pVVE9TajFJWExzZXlTZg?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSFdacnhVbG9RN1NNT1FTcVpsZEYtNk9wcVZ5UHJsNGZwUTJTTEo3QVpROXZ0T0R1clF3eEJESWc4bDZ2NlNsZU1zZW1xWDZBdVFQSnVWblliNkNoUWE5T3hRVVVRMmVmUmdLTkxibHZzU2dNMGNXd1huRkhUcTJLZDVlcUFLYl9UaDBRMHNSQ0Vyb25MOHBHcjdRbXhLQjFvZUdHMjFQemVNWEZJc2xXempEMXJaM0lkMFM2eHUyZmpxRDlHbEtRVV9mVGtCMWw0dEJVcmdOUzI1WWM?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
-        "Forget Micron Stock at $920 Per Share. Buy This Memory-Focused Artificial Intelligence (AI) ETF Instead.",
-        "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 17,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-07-28T11:05:00.000Z",
       "writtenSources": 2,
