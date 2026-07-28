@@ -39,7 +39,7 @@
     },
     {
       "cat": "policy",
-      "signal": 48,
+      "signal": 44,
       "sources": 3,
       "ts": "2026-07-27T22:25:00.000Z",
       "writtenSources": 3,
@@ -96,12 +96,12 @@
       ],
       "l": [
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXlYa2g4QUZoU1QtR1haS1VkN25zamtyLWgyUXloWWxjdjNpZWlMR19leWRvdGtxdUF2N2dEYXFKNFpOcHQ1dUpPZ1dSZEJ2eGxRM21tSlpiSkxtWnBybTZPMXpsVE51cXNlR2gyak9zQ3ZEdUg1dS0xTndKVFVvNHFUdlVLNWpFR1pVVE9TajFJWExzZXlTZg?oc=5"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORG4xbTN5UkFaSWo5bEcyRVl1R3gzbEJlV0dpZENhcTF4aWhkZFFiTVBuQnBSOEllRUJLNmtfcC1TSnZsWnhfU1N3U3JWU29JWFV4VUlrc3czTndaWHpkeTNsLUllQndmeGVFd1k5bDJHNzRPMVRxTFpjbTJ6bTN2VTd4WkR4empPQmtOSDZlMHRvdXhqR2s3dUdKbDNCMlBUSkt6Ug?oc=5"
         },
         {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVGdpdUtBRWRxbEdHV2hkcHFld1luWFIwd1VzOWNhOTNBYlB6Snd4b25qNDV5V2hScGxjdVZGZEZJZ0NUQzZMaWtnTFp5dl82YlgwZkM1NzJndmxBNUdYWFpJSkx1aVlvV2VMbDhrdlBtVkUyYjRmMDVhbGxVd0NuSm40VmVneEJtRzduR0F5WkxSY1ZGTzRuWnlfdUJfV1BGc3JlRWZVR1pqd2g5WDF3Q3VaRGpabWZmb1pXeVdHejZpVXNUWTdhTWZ1d2JtQmg4V1lNa0NoSDAyN0tIMlQ4bHphVmM?oc=5"
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXlYa2g4QUZoU1QtR1haS1VkN25zamtyLWgyUXloWWxjdjNpZWlMR19leWRvdGtxdUF2N2dEYXFKNFpOcHQ1dUpPZ1dSZEJ2eGxRM21tSlpiSkxtWnBybTZPMXpsVE51cXNlR2gyak9zQ3ZEdUg1dS0xTndKVFVvNHFUdlVLNWpFR1pVVE9TajFJWExzZXlTZg?oc=5"
         }
       ],
       "srcTitles": [
@@ -112,7 +112,7 @@
     },
     {
       "cat": "funding",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-07-28T04:06:47.000Z",
       "writtenSources": 2,
