@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 61,
+      "signal": 57,
       "sources": 2,
       "ts": "2026-07-28T13:19:17.000Z",
       "writtenSources": 2,
@@ -41,6 +41,46 @@
     {
       "cat": "products",
       "signal": 52,
+      "sources": 3,
+      "ts": "2026-07-27T22:44:00.000Z",
+      "writtenSources": 3,
+      "h": "AMD vs Intel: which AI chip stock to own until the end of 2027?",
+      "s": "For investors tracking AI hardware trends, the choice between AMD and Intel could influence stock performance as AI chip demand evolves through 2027.",
+      "b": [
+        "Outlets publishing the piece include Yahoo Finance, The Motley Fool, and The Globe and Mail.",
+        "The common headline asks which AI chip stock to own through end-2027.",
+        "The coverage list includes three outlets: Yahoo Finance, The Motley Fool, The Globe and Mail."
+      ],
+      "body": [
+        "Yahoo Finance, The Motley Fool and The Globe and Mail published articles with the headline AMD vs. Intel: Which Is the Better Artificial Intelligence Chip Stock to Own Until the End of 2027?",
+        "The headline frames a comparison between AMD and Intel as AI chip investments and is used across multiple outlets in this coverage set.",
+        "The provided data does not include details of analysis, data, or conclusions beyond the headline and outlet names; readers should consult the individual outlets for the full articles.",
+        "This entry notes the existence of the articles and the shared headline, directing readers to the cited outlets for more information."
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNTU2TlRwT1pKZkFIMHFMbXFoeEU5d3J4bkltd1hoQTc4elNNekJESjdUU0x6YkVjNUVxaGlxT3pWTDBSeVp0Q3JSYWJWdGRuVWNfNGVrbVZmWkZrT2ZZVDB1SkdGT29kMlVCZ0ptSEx1Z1dfeVN5V2FScnhKdGhncHBRajZXLXlWOUEzMWFsVDdCVnhLdzZLeUFB?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmlRRXNPT0RKTDhibkh2X0o3ejZGY2FQak8tNzVNclhuQllGRzNzTUNxUnV4TFRkR1ZtVHBBcjVpaVZvQ1pLQlN0VFg4VTRkT2tPc1VydTBrR0tUZmN0STFJckhxa3dCRnU1ZmtOejJaYjVUVnBtZXptUTVRdmpRazI3U1NTZEpEcENSTGlRWGNjNGlGVGJ1WQ?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOaU95QkJPR2lQaHpUMjM0ekdyWVBGbS1QMzNhLUJzLUZXX3ctcldOM2JnSjFCS3JlNEtTTmRYbUMzdFNpR19jNGxndFZ4YkdzWEh0ODJLbjlZTE03UjMxQzhSRHMtTXhtSERac3k0WHV5UTFncmJaWjVxRUlVZERPYzUzMWdrR2FBYk5RaWJ5UGFiRUwyeTJaQ0ZJdVpqN05rX09xVUhWZWdvWTZaZEhpeXJFVFkyQlNySFc5VGR4aGlsWFhXck43QW1RUjIwQjBGTEV0dDZKbEROUk8yTFE1MnlWSy1pbDhhZDc3eWg3ZXdPUXdWZXpEMHI3bUVEUWcyZEVpSU5R?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AMD vs. Intel: Which Is the Better Artificial Intelligence Chip Stock to Own Until the End of 2027?",
+        "AMD vs. Intel: Which Is the Better Artificial Intelligence Chip Stock to Own Until the End of 2027?",
+        "AMD vs. Intel: Which Is the Better Artificial Intelligence Chip Stock to Own Until the End of 2027?",
+        "Marvell Technology vs. Snowflake: Which High-Growth Artificial Intelligence Stock Is a Better Buy in 2026?"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 49,
       "sources": 1,
       "ts": "2026-07-28T16:00:00.000Z",
       "writtenSources": 1,
@@ -70,8 +110,40 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-07-27T22:25:00.000Z",
+      "writtenSources": 3,
+      "h": "Anthropic’s Amodei: not backing an open-weight ban, but wary of authoritarian use and calls for global model testing",
+      "s": "The stance influences how policymakers balance openness with security, potentially shaping export controls, safety standards, and international cooperation on AI governance.",
+      "b": [
+        "Amodei said in a blog post that \"Anthropic has never advocated for a ban on open-weights models.\"",
+        "An open-letter led by Nvidia, and signed by companies including Hugging Face, Meta, Microsoft, and Mistral, urged policymakers not to impose premature restrictions on open-weight models.",
+        "The UK AI Security Institute report cited in the discussion notes that once open-weights are released they cannot be withdrawn.",
+        "Amodei advocates a global model safety testing organization with testing applied to the most capable models regardless of country of origin."
+      ],
+      "body": [
+        "TechCrunch reported on July 27, 2026 that Anthropic founder and CEO Dario Amodei responded to industry chatter that his company might support government bans on open-weight models, or on open-weights in general. He pushed back on the idea that Anthropic backs broad restrictions, stating clearly that his company has not advocated for a ban."
+      ],
+      "l": [
+        {
+          "d": "nextgov.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNWdxSGp6WGp2VkgxZTdHcVdrUmVRUXNGcEVHc2Zac1hkcVZRa295TVNBalRwdE5SLUVobTlvZnpFcUtoLThXbDg4YzlEbE5odENUUVJMenIyb3RvZGVYMmhwOWlndEFJbUFYQl9YNWJhS2xvdUFUVERjRWQ1TG13MXBUT2pObzRuTVVlYWQ4aVRvdEdIV1VSVFgtbzBsTGhidjdHUnpJam5ZWF9IRm9nRA?oc=5"
+        },
+        {
+          "d": "computerworld.com",
+          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWC1yWUZtbWY3eGxsWE53TmRoRUtKWjZCSF9ONHQwQnVLZHdOVldzaVM0RTFYWTRMY0dzNENNMEEzVk45dDFCUm84b2FRZXBFOE1JV1k5N3llazZ3alpCOVk5RGxvc21HN2ZSSG9zU0czS19DYlplcjZ6REJqTHdWSGt5NmJ5SGZvOEQ0QXplODZpVU1VRm1aSC1sb09FUWJlNVlLMHZQQkVseUw2QWkwbDNkUjRmamNmaXdBVmhpcF9IM204Wk8tOEFYREZpaXZp?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic calls for threading the needle on open-source AI",
+        "Anthropic rejects open-weight AI bans, calls for China chip controls and safety tests"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-07-28T13:00:00.000Z",
       "writtenSources": 1,
@@ -135,7 +207,7 @@
     },
     {
       "cat": "funding",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-07-28T14:00:00.000Z",
       "writtenSources": 2,
@@ -170,6 +242,83 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 33,
+      "sources": 3,
+      "ts": "2026-07-28T14:42:13.000Z",
+      "writtenSources": 3,
+      "h": "US and UAE establish military AI task force, Forbes reports CENTCOM launches first task force",
+      "s": "The reports reflect a rising trend of AI integration into defense planning, with potential implications for international coordination, standards, and safety governance.",
+      "b": [
+        "Anadolu Ajansı and Middle East Monitor report US and UAE to establish a military artificial intelligence task force.",
+        "Forbes reports CENTCOM and UAE have launched the first task force on military AI use.",
+        "The outlets present different framings: establishment versus launch of a task force, suggesting divergent timelines or stages of the effort."
+      ],
+      "body": [
+        "Anadolu Ajansı (AA) and Middle East Monitor carry headlines indicating that the United States and the United Arab Emirates are moving to establish a military artificial intelligence task force.",
+        "Forbes, citing CENTCOM and UAE, reports the launch of the first task force dedicated to military AI use, signaling a concrete step in integrating AI into defense planning. The coverage presents a split framing—AA and Middle East Monitor describe establishment, while Forbes describes a launch.",
+        "The reporting points to CENTCOM and UAE as central actors in this initiative, highlighting a collaborative push to organize governance or application of AI within military contexts, though the specific scope, timeline, and capabilities of the task force are not detailed in the cited pieces.",
+        "With sources giving different shades—one set indicating planning or establishment and another claiming a first-launch—the story underscores how AI governance in defense is becoming a live, international policy and coordination issue that may evolve quickly."
+      ],
+      "l": [
+        {
+          "d": "breakingdefense.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQW1RQWNvV0ZfRkxUOXduMWZmRHpYMzdLWTBRQ2lZTG1lV1F4c1g4aGtrN1VILTdwOW1hX2tJNFROWUhwZ1VRbm1vV2JZQjhSWk5RTms1WHk5SVJiUVVoT3VueTFtclJXTElNVlgweGlGUzBFUlo1eHVJWDJ0ZmJvT0c4d2I?oc=5"
+        },
+        {
+          "d": "aa.com.tr",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX05DRVZwMEctSFNBS2ZicDViZExoLUh1djJvT1h3aThFdV9MMGRJaElFYU5VU2pkbm1FZ1M1bjZxX205SnRXUnE3SzY5WGNDMUFZQjBKUHlqbVZpTG51X1NFekVON25aNnhTSGlMTDVIRUlSaEpTMlBXSFZVbl8tRGZTdWxzZGg3Y3JlSkpQdlNCM25CQ05wVDBFb0hjT1poaGVvQk0xbWZ6V0NyV2dqdzZocGRVUQ?oc=5"
+        },
+        {
+          "d": "middleeastmonitor.com",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGQzS2M3U1UtamxiXzdQY0FhODdmdUExa1I4YjZmbTFwR3hFblVIOGo3ajF3WnRqdVlJZWpQY0VWWDNia1h5VnB6NDBSX1ZpdkRhLXZFa3haQTFxWmlPZGs0ZUF6U3ViaWgwckk3ZnN4THlGZGZsWTJJaG5wZ3dwNFBpVzMwNnBLekNIUkN5Wm9icUIwNXV0QmdBYW85S004UlhqQ2pSS1VDUUnSAbABQVVfeXFMUGdxb1VjbGtlaFFtX1FVM2h6SUZWM3pWd3FWSWN5RUgyRUlSWDBiZmoyN0dyQmpwQ3pKNDdaRndxS3RGdzg0M2Zkc0lSNzZDNERIaWhadXUyUi12SVVQZW5SVTBVU0pfUWxueWdvUFAyeVpNNS1PVk9tTF8xaHp0bFItWGE2dzE3R0FyYlZzSmFuY0hGQmdjWkFKOW1zcUJkOHRIZk1Ua0ZkR25GVENEREg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "CENTCOM announces US-UAE task force on AI",
+        "US, UAE to establish military artificial intelligence task force",
+        "US, UAE to establish military artificial intelligence task force"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-07-28T12:56:00.000Z",
+      "writtenSources": 3,
+      "h": "Columbus County Schools launches classroom AI platform",
+      "s": "This local pilot shows AI tools moving into classrooms, marking a concrete step in the adoption of classroom AI in K-12 education.",
+      "b": [
+        "Outlets covering the launch include WTOC, Fox8Live and WFSB.",
+        "The coverage centers on the district’s launch of a classroom AI platform."
+      ],
+      "body": [
+        "WTOC, Fox8Live and WFSB report that Columbus County Schools has launched a classroom AI platform, marking a local instance of AI tools entering K-12 classrooms.",
+        "The articles describe the district-wide rollout as a classroom AI platform, illustrating a real-world deployment of AI tools in a school setting as covered by local outlets.",
+        "The dataset provides only the headlines and outlet names without further technical details about the platform, its capabilities, or the rollout timeline.",
+        "Readers seeking more specifics should consult the linked coverage from WTOC, Fox8Live and WFSB for full context and any statements from the district."
+      ],
+      "l": [
+        {
+          "d": "wtoc.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0tLaXg4ZGVCd2ZwMGYtMzNCbFQzR0tOdFlsaWZrTmNMMHZDNGxnTXhoQnVfMjcwbndxeFlHaFJwa3BoQnhHWnRvamxoVGRFWkFjQmUxWHJjWno2T0QwaGViaWtSMzI1VEFRc3V4XzMyUWRsd2plN3ZNMUl2Z21RcG1nU1BRWHdHUF9VOXJOb2xhbFBGT0FxdUlGdXVQS1lRZ3ljMWJlRjZMMHlxZkE?oc=5"
+        },
+        {
+          "d": "fox8live.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPLWR6dW1jUEdRb0paZ2RIV3lrdkY0elJnaUVTYVFZNy1kWXBHZDdKY010eXV3akpjZWdzUGFmVEpBbWtFdHpoc1hXVjN0VVJYMjhfVWFKUFNsSGRhdy1XeFdjZWtNMW5iUzlyOXUwekVJY1hlS3lxNXFPdW94Z3pqOS1xU3BGdnJpS1ItNVBGekIxNldjajF2WU1KRFdMVnVxVXpvYnhfbnZkRDMyOE96MXNFbw?oc=5"
+        },
+        {
+          "d": "wfsb.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZmstSWdMY29CTVJmM3JONExPdnFiSWgzUnJCVkdtcXhZWnFvUnIxQXNHREZLVWt2TGZSRWd2SW5rdnYyajdmU2tvT003YlF0SjBVdW5wUS1rT1pJVE5CUDdLcV9YQU1QbWoyNktjR2xUTlZoUnY1UVJiaTNnbjE3Tzg3a0h0ZFpZNXItR0Z3TzNKdmlwWFNSTTMyei1DNDFxZ3NwT0l4S0t4dzNMaUE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "‘AI is here to stay’: Columbus County Schools launches classroom AI platform",
+        "‘AI is here to stay’: Columbus County Schools launches classroom AI platform",
+        "‘AI is here to stay’: Columbus County Schools launches classroom AI platform"
+      ]
+    },
+    {
       "cat": "research",
       "signal": 30,
       "sources": 1,
@@ -199,42 +348,44 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 29,
+      "cat": "research",
+      "signal": 26,
       "sources": 2,
-      "ts": "2026-07-28T14:42:13.000Z",
-      "writtenSources": 3,
-      "h": "US and UAE establish military AI task force, Forbes reports CENTCOM launches first task force",
-      "s": "The reports reflect a rising trend of AI integration into defense planning, with potential implications for international coordination, standards, and safety governance.",
+      "ts": "2026-07-28T04:00:00.000Z",
+      "writtenSources": 2,
+      "h": "Operationalize machine learning and two new ML papers surface on arXiv",
+      "s": "Researchers and developers gain access to a benchmarking framework and an auto-tuning compiler, potentially improving how ML models are tested and optimized.",
       "b": [
-        "Anadolu Ajansı and Middle East Monitor report US and UAE to establish a military artificial intelligence task force.",
-        "Forbes reports CENTCOM and UAE have launched the first task force on military AI use.",
-        "The outlets present different framings: establishment versus launch of a task force, suggesting divergent timelines or stages of the effort."
+        "CIOReview lists a feature titled Operationalize Machine Learning.",
+        "Papers: Neptuna: A Comprehensive Machine Learning Framework for Benchmarking Complex Multiphase Flows by Harish Ramachandran and colleagues (arXiv v1: 24 Jul 2026; v2: 27 Jul 2026).",
+        "Papers: CrypTorch: PyTorch-based Auto-tuning Compiler for Machine Learning with Multi-party Computation by Jinyu Liu and colleagues (arXiv v1: 24 Nov 2025; v2: 23 Jul 2026).",
+        "arXiv entries include full-text links and author listings (Ramachandran et al.; Liu et al.)."
       ],
       "body": [
-        "Anadolu Ajansı (AA) and Middle East Monitor carry headlines indicating that the United States and the United Arab Emirates are moving to establish a military artificial intelligence task force.",
-        "Forbes, citing CENTCOM and UAE, reports the launch of the first task force dedicated to military AI use, signaling a concrete step in integrating AI into defense planning. The coverage presents a split framing—AA and Middle East Monitor describe establishment, while Forbes describes a launch.",
-        "The reporting points to CENTCOM and UAE as central actors in this initiative, highlighting a collaborative push to organize governance or application of AI within military contexts, though the specific scope, timeline, and capabilities of the task force are not detailed in the cited pieces.",
-        "With sources giving different shades—one set indicating planning or establishment and another claiming a first-launch—the story underscores how AI governance in defense is becoming a live, international policy and coordination issue that may evolve quickly."
+        "CIOReview lists a feature titled Operationalize Machine Learning as part of its coverage.",
+        "Two arXiv papers are highlighted in the coverage: Neptuna, a comprehensive ML framework for benchmarking complex multiphase flows by Harish Ramachandran and five other authors, with v1 posted on July 24, 2026 and v2 on July 27, 2026; and CrypTorch, a PyTorch-based auto-tuning compiler for machine learning with multi-party computation by Jinyu Liu and two other authors, with v1 posted on November 24, 2025 and v2 on July 23, 2026.",
+        "The Neptuna paper is listed with its full title and author count, and the CrypTorch paper is listed with its full title and author count; both entries include arXiv version histories and links to PDFs/HTML as provided in the coverage.",
+        "The coverage notes the authors and dates associated with each arXiv entry, reflecting ongoing updates to these works as of mid-2026."
       ],
       "l": [
         {
-          "d": "aa.com.tr",
-          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX05DRVZwMEctSFNBS2ZicDViZExoLUh1djJvT1h3aThFdV9MMGRJaElFYU5VU2pkbm1FZ1M1bjZxX205SnRXUnE3SzY5WGNDMUFZQjBKUHlqbVZpTG51X1NFekVON25aNnhTSGlMTDVIRUlSaEpTMlBXSFZVbl8tRGZTdWxzZGg3Y3JlSkpQdlNCM25CQ05wVDBFb0hjT1poaGVvQk0xbWZ6V0NyV2dqdzZocGRVUQ?oc=5"
+          "d": "cioreview.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2dEVmdSbWxLc2ZCRDlFQVZrV2JQNUx4WVZGalc2YWFpaVpKTXh2T3NIZXc1OV9TWEJyTEoxbzBPb0NGbHpPR2JNbnpXTHBOYzAzdHNENlNpR21BWHp6WlF3QmhJRWxvSjh1N1NoUzBxWjdaZjZrbUI2MmVoOFZQWkp1eDQ5LUUwcWFPa18zS211Ni1RYWNMRE4wQjNmR19zdGxETg?oc=5"
         },
         {
-          "d": "middleeastmonitor.com",
-          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGQzS2M3U1UtamxiXzdQY0FhODdmdUExa1I4YjZmbTFwR3hFblVIOGo3ajF3WnRqdVlJZWpQY0VWWDNia1h5VnB6NDBSX1ZpdkRhLXZFa3haQTFxWmlPZGs0ZUF6U3ViaWgwckk3ZnN4THlGZGZsWTJJaG5wZ3dwNFBpVzMwNnBLekNIUkN5Wm9icUIwNXV0QmdBYW85S004UlhqQ2pSS1VDUUnSAbABQVVfeXFMUGdxb1VjbGtlaFFtX1FVM2h6SUZWM3pWd3FWSWN5RUgyRUlSWDBiZmoyN0dyQmpwQ3pKNDdaRndxS3RGdzg0M2Zkc0lSNzZDNERIaWhadXUyUi12SVVQZW5SVTBVU0pfUWxueWdvUFAyeVpNNS1PVk9tTF8xaHp0bFItWGE2dzE3R0FyYlZzSmFuY0hGQmdjWkFKOW1zcUJkOHRIZk1Ua0ZkR25GVENEREg?oc=5"
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2607.22280"
         }
       ],
       "srcTitles": [
-        "US, UAE to establish military artificial intelligence task force",
-        "US, UAE to establish military artificial intelligence task force"
+        "Operationalize Machine Learning",
+        "Neptuna: A Comprehensive Machine Learning Framework for Benchmarking Complex Multiphase Flows",
+        "CrypTorch: PyTorch-based Auto-tuning Compiler for Machine Learning with Multi-party Computation"
       ]
     },
     {
       "cat": "products",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-07-28T13:00:00.000Z",
       "writtenSources": 1,
@@ -265,7 +416,7 @@
     },
     {
       "cat": "policy",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-07-28T07:00:00.000Z",
       "writtenSources": 2,
@@ -298,7 +449,7 @@
     },
     {
       "cat": "funding",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-07-28T06:20:00.000Z",
       "writtenSources": 3,
@@ -334,7 +485,7 @@
     },
     {
       "cat": "funding",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-07-28T11:05:00.000Z",
       "writtenSources": 2,
@@ -363,43 +514,6 @@
       "srcTitles": [
         "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price",
         "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 20,
-      "sources": 3,
-      "ts": "2026-07-27T22:25:00.000Z",
-      "writtenSources": 3,
-      "h": "Anthropic’s Amodei: not backing an open-weight ban, but wary of authoritarian use and calls for global model testing",
-      "s": "The stance influences how policymakers balance openness with security, potentially shaping export controls, safety standards, and international cooperation on AI governance.",
-      "b": [
-        "Amodei said in a blog post that \"Anthropic has never advocated for a ban on open-weights models.\"",
-        "An open-letter led by Nvidia, and signed by companies including Hugging Face, Meta, Microsoft, and Mistral, urged policymakers not to impose premature restrictions on open-weight models.",
-        "The UK AI Security Institute report cited in the discussion notes that once open-weights are released they cannot be withdrawn.",
-        "Amodei advocates a global model safety testing organization with testing applied to the most capable models regardless of country of origin."
-      ],
-      "body": [
-        "TechCrunch reported on July 27, 2026 that Anthropic founder and CEO Dario Amodei responded to industry chatter that his company might support government bans on open-weight models, or on open-weights in general. He pushed back on the idea that Anthropic backs broad restrictions, stating clearly that his company has not advocated for a ban."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
-        },
-        {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260727/p32#a260727p32"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic s Dario Amodei responds: doesn t oppose open-weight models, but fears Chinese AI",
-        "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
-        "Dario Amodei says Anthropic has never backed an open-weights model ban, lists reasons top chips shouldn't be sold to China, calls for global model testing, more (Anthropic)"
       ]
     },
     {
