@@ -170,9 +170,38 @@
       ]
     },
     {
+      "cat": "research",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-07-28T17:00:00.000Z",
+      "writtenSources": 1,
+      "h": "AI coding agents accelerate scientific computing",
+      "s": "It demonstrates tangible gains in software development and discovery in genomics, signaling a broader shift in research workflows.",
+      "b": [
+        "OpenAI field report describes scientists using AI coding agents to modernize scientific computing.",
+        "Genomics is cited as a key example, with acceleration of software development and discovery.",
+        "Framed within the age of agentic AI, the report situates these efforts as part of a broader shift in science."
+      ],
+      "body": [
+        "OpenAI published a field report describing scientists using AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+        "The report frames these efforts within the era of agentic AI in science and notes genomics as a primary example of where the approach is being applied.",
+        "The field report states that these AI coding agents are associated with faster progress in research projects, signaling a shift in how software is developed and discoveries are made.",
+        "OpenAI describes this as an ongoing area of exploration in scientific computing, with potential implications for future research workflows."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/scientific-computing-agentic-ai"
+        }
+      ],
+      "srcTitles": [
+        "Scientific computing in the age of agentic AI"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 33,
-      "sources": 3,
+      "signal": 29,
+      "sources": 2,
       "ts": "2026-07-28T14:42:13.000Z",
       "writtenSources": 3,
       "h": "US and UAE establish military AI task force, Forbes reports CENTCOM launches first task force",
@@ -196,16 +225,11 @@
         {
           "d": "middleeastmonitor.com",
           "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGQzS2M3U1UtamxiXzdQY0FhODdmdUExa1I4YjZmbTFwR3hFblVIOGo3ajF3WnRqdVlJZWpQY0VWWDNia1h5VnB6NDBSX1ZpdkRhLXZFa3haQTFxWmlPZGs0ZUF6U3ViaWgwckk3ZnN4THlGZGZsWTJJaG5wZ3dwNFBpVzMwNnBLekNIUkN5Wm9icUIwNXV0QmdBYW85S004UlhqQ2pSS1VDUUnSAbABQVVfeXFMUGdxb1VjbGtlaFFtX1FVM2h6SUZWM3pWd3FWSWN5RUgyRUlSWDBiZmoyN0dyQmpwQ3pKNDdaRndxS3RGdzg0M2Zkc0lSNzZDNERIaWhadXUyUi12SVVQZW5SVTBVU0pfUWxueWdvUFAyeVpNNS1PVk9tTF8xaHp0bFItWGE2dzE3R0FyYlZzSmFuY0hGQmdjWkFKOW1zcUJkOHRIZk1Ua0ZkR25GVENEREg?oc=5"
-        },
-        {
-          "d": "forbes.com",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMVpZbEQyUkRxLWdrcHZBZTBuQmtNQ0tZSHRUV2g3VlhscGxRbW1vQzEyT1EwdFd6Y2J4VC1zbU1XeDR3aTZNT0tOMmd0Wk9Zck9GNXE2MERZUFctcExxZUR4OEhQT1JwSkFNZFM2enNDRG5adkdvTjVGeE1GZ05IVDRDNHVwaVNZdU9PTzRCM0Y5Ty1ObDVueTZsZm1kdjlQLUZZQXlYOUtZZXAza1FRTnZWZDVZdUE3bWhVOVpn?oc=5"
         }
       ],
       "srcTitles": [
         "US, UAE to establish military artificial intelligence task force",
-        "US, UAE to establish military artificial intelligence task force",
-        "CENTCOM, UAE Launch First Task Force Over Military AI Use"
+        "US, UAE to establish military artificial intelligence task force"
       ]
     },
     {
@@ -299,7 +323,7 @@
         },
         {
           "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVGdpdUtBRWRxbEdHV2hkcHFld1luWFIwd1VzOWNhOTNBYlB6Snd4b25qNDV5V2hScGxjdVZGZEZJZ0NUQzZMaWtnTFp5dl82YlgwZkM1NzJndmxBNUdYWFpJSkx1aVlvV2VMbDhrdlBtVkUyYjRmMDVhbGxVd0NuSm40VmVneEJtRzduR0F5WkxSY1ZGTzRuWnlfdUJfV1BGc3JlRWZVR1pqd2g5WDF3Q3VaRGpabWZmb1pXeVdHejZpVXNUWTdhTWZ1d2JtQmg4V1lNa0NoSDAyN0tIMlQ4bHphVmM?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSFdacnhVbG9RN1NNT1FTcVpsZEYtNk9wcVZ5UHJsNGZwUTJTTEo3QVpROXZ0T0R1clF3eEJESWc4bDZ2NlNsZU1zZW1xWDZBdVFQSnVWblliNkNoUWE5T3hRVVVRMmVmUmdLTkxibHZzU2dNMGNXd1huRkhUcTJLZDVlcUFLYl9UaDBRMHNSQ0Vyb25MOHBHcjdRbXhLQjFvZUdHMjFQemVNWEZJc2xXempEMXJaM0lkMFM2eHUyZmpxRDlHbEtRVV9mVGtCMWw0dEJVcmdOUzI1WWM?oc=5"
         }
       ],
       "srcTitles": [
@@ -310,7 +334,7 @@
     },
     {
       "cat": "funding",
-      "signal": 25,
+      "signal": 21,
       "sources": 2,
       "ts": "2026-07-28T11:05:00.000Z",
       "writtenSources": 2,
@@ -343,7 +367,7 @@
     },
     {
       "cat": "policy",
-      "signal": 24,
+      "signal": 20,
       "sources": 3,
       "ts": "2026-07-27T22:25:00.000Z",
       "writtenSources": 3,
