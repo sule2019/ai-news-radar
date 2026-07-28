@@ -2,8 +2,44 @@
   "date": "2026-07-28",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 60,
+      "sources": 2,
+      "ts": "2026-07-28T02:05:01.000Z",
+      "writtenSources": 2,
+      "h": "Samsung chip workers jump ship to SK Hynix after bigger bonuses",
+      "s": "The exodus signals a high-stakes talent war that could determine who leads AI memory chips and how quickly supply and pricing shift for AI accelerators.",
+      "b": [
+        "SK Hynix is paying about $476,000 per employee this year, mostly in cash, to lure talent from Samsung",
+        "Samsung’s bonuses by division vary: memory division about $400,000 per employee vs. foundry division about $135,000",
+        "81.5% of employees in Samsung’s foundry division reportedly want to move to another company within two years, and more than 200 union members left for SK Hynix over the past four months",
+        "In H1 2026 SK Hynix added 2,152 employees to staff the expansion, and both firms topped $1 trillion in market value in May, with SK Hynix briefly dethroning Samsung as Korea’s most valuable company in June"
+      ],
+      "body": [
+        "MIT Technology Review reports that Samsung’s chip workers are jumping ship to SK Hynix as the AI hardware boom fuels a fierce talent war. Lee, an engineer in Samsung’s semiconductor division, describes coworkers applying to SK Hynix and says his team lead tells them to jump ship to SK Hynix, a message that has spread through the office as workers seek better pay and prospects.",
+        "The report notes that Samsung struck a deal in May to pay out 10.5% of the semiconductor division’s operating profits to employees as bonuses for 10 years, mostly in stock that vests over three years. In contrast, SK Hynix is paying a much larger upfront package: roughly $476,000 per employee this year, mostly in cash, a figure that dwarfs Samsung’s payouts. Within Samsung, bonuses vary by division: the memory division pays about $400,000 per employee this year, while the foundry division pays roughly $135,000.",
+        "Labor dynamics are central to the tale. Samsung’s labor union talks have yielded gains in other areas, but workers say the discrepancy in bonuses helps explain the defections. The Samsung labor union chief, Choi Seung-ho, has said that more than 200 members have left for SK Hynix in the past four months, and a June survey reported that 81.5% of foundry division employees want to move to another company within two years. Some employees also discuss their plans on Blind, an anonymous workplace forum, underscoring a broad morale challenge at Samsung’s chip plants.",
+        "The broader market context adds pressure to this talent war. MIT Technology Review notes that SK Hynix now leads the global market for high-bandwidth memory (HBM) chips, a technology central to AI accelerators, while Samsung has been scrambling to catch up. Both companies topped $1 trillion in market value in May, and SK Hynix briefly dethroned Samsung as Korea’s most valuable company in June. To staff expansion tied to this growth, SK Hynix reported adding 2,152 employees in the first half of 2026. In parallel, the AI spending boom and China’s progress in advanced chipmaking have fed a stock-market reaction: Bloomberg, via Techmeme, reported that South Korea’s KOSPI fell more than 11%, with Samsung down around 11% and SK Hynix down about 12%.",
+        "What happens next could reshape the AI hardware supply chain. MIT Technology Review frames the outcome as a race to dominate the next generation of HBMs, with the winner potentially locking in talent, boosting production capacity, and influencing pricing as demand for AI chips remains volatile."
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/07/28/1140853/samsung-chip-workers-exodus-sk-hynix/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260727/p37#a260727p37"
+        }
+      ],
+      "srcTitles": [
+        "Samsung’s chip workers are jumping ship to rival SK Hynix",
+        "South Korea's KOSPI drops 11%+, weighed down by chip stocks amid concerns over China's AI progress and the AI spending boom; Samsung falls 11%+ and SK Hynix 12% (Bloomberg)"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 52,
+      "signal": 48,
       "sources": 3,
       "ts": "2026-07-27T22:25:00.000Z",
       "writtenSources": 3,
@@ -40,8 +76,8 @@
     },
     {
       "cat": "funding",
-      "signal": 36,
-      "sources": 3,
+      "signal": 29,
+      "sources": 2,
       "ts": "2026-07-28T06:20:00.000Z",
       "writtenSources": 3,
       "h": "Three AI stocks to buy now, according to major outlets",
@@ -60,10 +96,6 @@
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORG4xbTN5UkFaSWo5bEcyRVl1R3gzbEJlV0dpZENhcTF4aWhkZFFiTVBuQnBSOEllRUJLNmtfcC1TSnZsWnhfU1N3U3JWU29JWFV4VUlrc3czTndaWHpkeTNsLUllQndmeGVFd1k5bDJHNzRPMVRxTFpjbTJ6bTN2VTd4WkR4empPQmtOSDZlMHRvdXhqR2s3dUdKbDNCMlBUSkt6Ug?oc=5"
-        },
-        {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLXlYa2g4QUZoU1QtR1haS1VkN25zamtyLWgyUXloWWxjdjNpZWlMR19leWRvdGtxdUF2N2dEYXFKNFpOcHQ1dUpPZ1dSZEJ2eGxRM21tSlpiSkxtWnBybTZPMXpsVE51cXNlR2gyak9zQ3ZEdUg1dS0xTndKVFVvNHFUdlVLNWpFR1pVVE9TajFJWExzZXlTZg?oc=5"
         },
@@ -75,12 +107,12 @@
       "srcTitles": [
         "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
         "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
-        "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now"
+        "Forget Micron Stock at $920 Per Share. Buy This Memory-Focused Artificial Intelligence (AI) ETF Instead."
       ]
     },
     {
       "cat": "funding",
-      "signal": 24,
+      "signal": 20,
       "sources": 2,
       "ts": "2026-07-28T04:06:47.000Z",
       "writtenSources": 2,
