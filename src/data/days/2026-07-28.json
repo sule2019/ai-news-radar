@@ -3,6 +3,54 @@
   "stories": [
     {
       "cat": "products",
+      "signal": 78,
+      "sources": 7,
+      "ts": "2026-07-28T16:00:00.000Z",
+      "writtenSources": 7,
+      "h": "Gemini API managed agents default to 3.6 Flash with environment hooks",
+      "s": "This update formalizes safer, cost-aware autonomous workflows and widens access for experimentation by enabling new safety and governance features in managed agents.",
+      "b": [
+        "Gemini 3.6 Flash is now the default for Gemini API Managed Agents.",
+        "Environment hooks let you block, lint, or audit tool calls inside the sandbox via a configurable setup (e.g., .agents/hooks.json).",
+        "Budget controls, scheduled triggers, and free tier access are now available for managed agents.",
+        "To cap resource use, max_total_tokens can be set in agent_config; when reached, execution pauses with status “incomplete” and the state can be resumed later."
+      ],
+      "body": [
+        "Google’s blog post on Gemini API Managed Agents announces that Gemini 3.6 Flash is now the default for managed agents, building on prior updates that introduced background tasks and remote server integrations.",
+        "A key upgrade is the introduction of environment hooks, which allow developers to run pre-tool and post-tool execution scripts inside the agent’s sandbox. The documentation notes that you can define hooks in a file like .agents/hooks.json and tailor actions for specific tools or events.",
+        "The post also highlights new governance features such as budget controls and scheduled triggers, along with free tier access for projects without active billing, making it easier to experiment with agentic workflows.",
+        "Crucially, the system supports token budgeting via max_total_tokens in agent_config. If the limit is hit, execution pauses and returns an incomplete status, preserving the environment so you can resume with a new budget and a previous_interaction_id. The update also reinforces the ability to explicitly select models through agent_config.model, including options like gemini-3.5-flash-lite."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
+        },
+        {
+          "d": "cacm.acm.org",
+          "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82dm1QRWxJN2oxVGppY0R1ZWtqM2JOVDBvTW44cGdEeDQzWDVNUHQ5ZHd2a1V4c1lfYUJFUjBta1FqSkFPa2tqRlpYYThlVHY0Ty1OX1BmOVJnNi1fWHBIYWl0bw?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2607.21596"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion/#atom-everything"
+        },
+        {
+          "d": "+3"
+        }
+      ],
+      "srcTitles": [
+        "Gemini API Managed Agents: 3.6 Flash, hooks, and more",
+        "The Weirdness of Agents",
+        "FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills",
+        "Trajectory-Aware Retrieval Agents for Temporal Decision- Making"
+      ]
+    },
+    {
+      "cat": "products",
       "signal": 52,
       "sources": 3,
       "ts": "2026-07-27T22:44:00.000Z",
@@ -38,72 +86,6 @@
         "AMD vs. Intel: Which Is the Better Artificial Intelligence Chip Stock to Own Until the End of 2027?",
         "AMD vs. Intel: Which Is the Better Artificial Intelligence Chip Stock to Own Until the End of 2027?",
         "AMD vs. Intel: Which Is the Better Artificial Intelligence Chip Stock to Own Until the End of 2027?"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 49,
-      "sources": 1,
-      "ts": "2026-07-28T16:00:00.000Z",
-      "writtenSources": 1,
-      "h": "Gemini API managed agents default to 3.6 Flash with environment hooks",
-      "s": "Developers can prototype autonomous agent workflows inside a sandbox, using free tier access and token caps to control costs.",
-      "b": [
-        "Gemini 3.6 Flash is the default for Managed Agents in Gemini API.",
-        "Free tier access is available for managed agents on projects without active billing.",
-        "Max total tokens (max_total_tokens) can cap usage; the example shows 10,000 tokens.",
-        "Explicit model pinning is supported via agent_config.model, including Gemini 3.5 Flash-Lite for lower cost."
-      ],
-      "body": [
-        "Google's blog introduces Managed Agents in the Gemini API, noting that Gemini 3.6 Flash is now the default for these agents and that new environment hooks let you block, lint, or audit tool calls inside the sandbox.",
-        "The post explains that you can explicitly select models by passing agent_config.model, with Gemini 3.5 Flash-Lite available for lower cost and the option to pin to a preferred model. It also highlights how scripts can be integrated into the agent workflow using the antigravity-preview-05-2026 release tag.",
-        "Environment hooks are a key feature, described as a way to run custom scripts before or after every tool call inside the sandbox. The example configuration shows pre_tool_execution and post_tool_execution hooks that can, for instance, enforce security checks or code formatting.",
-        "Google provides real‑world context for production use, citing an AI-native investment bank example where a post_tool_execution hook triggers a validation pipeline inside the sandbox to verify assets like logos and publish an approved manifest. The post also notes that managed agents can run multi-turn autonomous loops, which necessitates budgeting controls and pause-and-resume behavior if limits are reached.",
-        "The article also covers budgeting and scheduling: managed agents are now available on free tier projects, and a max_total_tokens setting caps overall consumption. If the limit is hit, execution pauses with status 'incomplete' and can be resumed later using a previous_interaction_id with a fresh budget, while recurring tasks can be set with scheduled triggers to reuse the same sandbox."
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks/"
-        }
-      ],
-      "srcTitles": [
-        "Gemini API Managed Agents: 3.6 Flash, hooks, and more"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 48,
-      "sources": 2,
-      "ts": "2026-07-28T04:00:00.000Z",
-      "writtenSources": 2,
-      "h": "EU AI Act amendments defer and clarify obligations",
-      "s": "Regulatory changes may affect how and when organizations demonstrate EU compliance, and the arXiv paper signals a push to translate obligations into verifiable specifications in requirements engineering.",
-      "b": [
-        "EU AI Act amendments defer and clarify obligations, per Akin Gump coverage.",
-        "The arXiv preprint titled \"From Obligation to Specification: A Survey on Validating EU AI Act Requirements in RE\" is by T.Y. Emmy Lai and 3 other authors and posted May 18, 2026.",
-        "The arXiv posting lists a date/time of May 18, 2026 13:02:16 UTC and a PDF file size of 6,215 KB.",
-        "The arXiv entry examines validating EU AI Act requirements in requirements engineering (RE)."
-      ],
-      "body": [
-        "Akin Gump publications report that amendments to the EU AI Act defer and clarify certain obligations, signaling continued evolution of the bloc's AI regulatory framework.",
-        "An accompanying arXiv preprint, \"From Obligation to Specification: A Survey on Validating EU AI Act Requirements in RE,\" provides a research perspective on how obligations in the Act can be translated into verifiable specifications within requirements engineering.",
-        "The arXiv submission, dated May 18, 2026 at 13:02:16 UTC, is listed with a PDF file size of 6,215 KB and lists T.Y. Emmy Lai as the lead author among four authors total.",
-        "Taken together, the coverage suggests ongoing efforts to align regulatory obligations with practical, testable specifications and to study how such compliance can be validated in engineering processes."
-      ],
-      "l": [
-        {
-          "d": "akingump.com",
-          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDlFZTdnZjlDbFBEZlRmZVEyT3hwbnkzYURKYU9iWXVJVmhYU1JvNTdBVDFLdXpDbUQ0NUV5NE9pLVZtTlJZNHUzYXZaM2hCSnA1ODY3RVl2dnpNc2F2N0F1Y2gyb3VqT0tHSXlZTEVZcVBHUWVsX3BHRHFhMURrNllmdi1hTW91OHRDLUMyOFhHdjRScXF6eGx3?oc=5"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2607.21608"
-        }
-      ],
-      "srcTitles": [
-        "EU AI Act Amendments Defer and Clarify Obligations",
-        "From Obligation to Specification: A Survey on Validating EU AI Act Requirements in RE"
       ]
     },
     {
@@ -171,8 +153,43 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 44,
+      "sources": 2,
+      "ts": "2026-07-28T04:00:00.000Z",
+      "writtenSources": 2,
+      "h": "EU AI Act amendments defer and clarify obligations",
+      "s": "Regulatory changes may affect how and when organizations demonstrate EU compliance, and the arXiv paper signals a push to translate obligations into verifiable specifications in requirements engineering.",
+      "b": [
+        "EU AI Act amendments defer and clarify obligations, per Akin Gump coverage.",
+        "The arXiv preprint titled \"From Obligation to Specification: A Survey on Validating EU AI Act Requirements in RE\" is by T.Y. Emmy Lai and 3 other authors and posted May 18, 2026.",
+        "The arXiv posting lists a date/time of May 18, 2026 13:02:16 UTC and a PDF file size of 6,215 KB.",
+        "The arXiv entry examines validating EU AI Act requirements in requirements engineering (RE)."
+      ],
+      "body": [
+        "Akin Gump publications report that amendments to the EU AI Act defer and clarify certain obligations, signaling continued evolution of the bloc's AI regulatory framework.",
+        "An accompanying arXiv preprint, \"From Obligation to Specification: A Survey on Validating EU AI Act Requirements in RE,\" provides a research perspective on how obligations in the Act can be translated into verifiable specifications within requirements engineering.",
+        "The arXiv submission, dated May 18, 2026 at 13:02:16 UTC, is listed with a PDF file size of 6,215 KB and lists T.Y. Emmy Lai as the lead author among four authors total.",
+        "Taken together, the coverage suggests ongoing efforts to align regulatory obligations with practical, testable specifications and to study how such compliance can be validated in engineering processes."
+      ],
+      "l": [
+        {
+          "d": "akingump.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDlFZTdnZjlDbFBEZlRmZVEyT3hwbnkzYURKYU9iWXVJVmhYU1JvNTdBVDFLdXpDbUQ0NUV5NE9pLVZtTlJZNHUzYXZaM2hCSnA1ODY3RVl2dnpNc2F2N0F1Y2gyb3VqT0tHSXlZTEVZcVBHUWVsX3BHRHFhMURrNllmdi1hTW91OHRDLUMyOFhHdjRScXF6eGx3?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2607.21608"
+        }
+      ],
+      "srcTitles": [
+        "EU AI Act Amendments Defer and Clarify Obligations",
+        "From Obligation to Specification: A Survey on Validating EU AI Act Requirements in RE"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 45,
+      "signal": 41,
       "sources": 2,
       "ts": "2026-07-28T13:19:17.000Z",
       "writtenSources": 2,
@@ -209,7 +226,7 @@
     },
     {
       "cat": "policy",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-07-27T22:25:00.000Z",
       "writtenSources": 3,
@@ -277,6 +294,54 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 34,
+      "sources": 5,
+      "ts": "2026-07-28T19:22:47.000Z",
+      "writtenSources": 5,
+      "h": "U.S. and UAE form bilateral AI task force to advance military AI development",
+      "s": "The move formalizes bilateral military AI collaboration and governance, signaling a coordinated push that could affect regional security, interoperability, and AI policy in a tense security landscape.",
+      "b": [
+        "CENTCOM announced the US-UAE bilateral military AI task force, per Breaking Defense.",
+        "An Anadolu Ajansı report and other outlets describe it as a bilateral AI task force in the Middle East.",
+        "The coverage includes DefenseScoop and Middle East Monitor citing the joint effort and its aims to advance military AI development.",
+        "Yemen Online highlights that this may be the first bilateral military AI task force in the Middle East."
+      ],
+      "body": [
+        "Multiple outlets report that the United States and the United Arab Emirates have formed a bilateral military AI task force aimed at advancing AI development in a defense context. The announcements reflect a growing emphasis on coordinating AI capabilities between allied nations in the security sphere.",
+        "Breaking Defense cites CENTCOM as the source of the announcement, noting that the task force represents an official U.S. military push to organize and oversee joint AI efforts with an ally in the region.",
+        "Other outlets—Anadolu Agency, Middle East Monitor, DefenseScoop, and Yemen Online—reiterate the bilateral nature of the initiative and frame it as a formal mechanism for collaboration on military AI, rather than a purely bilateral research program.",
+        "Yemen Online goes further to describe it as the first bilateral military AI task force in the Middle East, underscoring the regional significance of the partnership and its potential implications for interoperability and governance in AI-enabled defense capabilities."
+      ],
+      "l": [
+        {
+          "d": "aa.com.tr",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX05DRVZwMEctSFNBS2ZicDViZExoLUh1djJvT1h3aThFdV9MMGRJaElFYU5VU2pkbm1FZ1M1bjZxX205SnRXUnE3SzY5WGNDMUFZQjBKUHlqbVZpTG51X1NFekVON25aNnhTSGlMTDVIRUlSaEpTMlBXSFZVbl8tRGZTdWxzZGg3Y3JlSkpQdlNCM25CQ05wVDBFb0hjT1poaGVvQk0xbWZ6V0NyV2dqdzZocGRVUQ?oc=5"
+        },
+        {
+          "d": "breakingdefense.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQW1RQWNvV0ZfRkxUOXduMWZmRHpYMzdLWTBRQ2lZTG1lV1F4c1g4aGtrN1VILTdwOW1hX2tJNFROWUhwZ1VRbm1vV2JZQjhSWk5RTms1WHk5SVJiUVVoT3VueTFtclJXTElNVlgweGlGUzBFUlo1eHVJWDJ0ZmJvT0c4d2I?oc=5"
+        },
+        {
+          "d": "middleeastmonitor.com",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGQzS2M3U1UtamxiXzdQY0FhODdmdUExa1I4YjZmbTFwR3hFblVIOGo3ajF3WnRqdVlJZWpQY0VWWDNia1h5VnB6NDBSX1ZpdkRhLXZFa3haQTFxWmlPZGs0ZUF6U3ViaWgwckk3ZnN4THlGZGZsWTJJaG5wZ3dwNFBpVzMwNnBLekNIUkN5Wm9icUIwNXV0QmdBYW85S004UlhqQ2pSS1VDUUnSAbABQVVfeXFMUGdxb1VjbGtlaFFtX1FVM2h6SUZWM3pWd3FWSWN5RUgyRUlSWDBiZmoyN0dyQmpwQ3pKNDdaRndxS3RGdzg0M2Zkc0lSNzZDNERIaWhadXUyUi12SVVQZW5SVTBVU0pfUWxueWdvUFAyeVpNNS1PVk9tTF8xaHp0bFItWGE2dzE3R0FyYlZzSmFuY0hGQmdjWkFKOW1zcUJkOHRIZk1Ua0ZkR25GVENEREg?oc=5"
+        },
+        {
+          "d": "yemenonline.info",
+          "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9OTmYxSlc3SGlXM0pFRW80eXBKVmY5dnNGbjA4VlRJNXhvZFNxYlp3bzl4MzNmZWZhTE1jc21NbXNPQmdmMkpmTXl1RUxKS04yRFFweWMwZw?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "US, UAE to establish military artificial intelligence task force",
+        "CENTCOM announces US-UAE task force on AI",
+        "US, UAE to establish military artificial intelligence task force",
+        "United States , UAE Establish First Bilateral Military Artificial Intelligence Task Force in the Middle East"
+      ]
+    },
+    {
       "cat": "products",
       "signal": 34,
       "sources": 5,
@@ -324,211 +389,36 @@
     },
     {
       "cat": "policy",
-      "signal": 32,
-      "sources": 2,
-      "ts": "2026-07-28T19:22:47.000Z",
-      "writtenSources": 2,
-      "h": "U.S. and UAE form bilateral AI task force to advance military AI development",
-      "s": "Formal military AI collaboration between the two allies marks a step up in joint capability development, signaling intensified cooperation in defense AI without detailing timelines or budgets in the available coverage.",
-      "b": [
-        "The United States and United Arab Emirates are described as forming the first bilateral AI task force in the military domain (DefenseScoop).",
-        "Both DefenseScoop and voz.us describe the partnership as a move to advance AI development in the military.",
-        "The coverage provides no timeline, budget, or membership specifics regarding the task force."
-      ],
-      "body": [
-        "DefenseScoop reports that the U.S. military has formed the first bilateral AI task force with the United Arab Emirates, signaling a formal step in allied defense AI collaboration.",
-        "Voz.us mirrors the framing, stating that the U.S. and UAE join forces to advance AI development in the military, underscoring the strategic focus of the partnership.",
-        "The articles do not provide a timeline, funding details, or exact membership information for the task force, leaving specifics to future announcements.",
-        "Overall, the coverage indicates a tangible push toward structured cooperation on military AI between the two nations, with broader implications for interoperability and strategic technology development."
-      ],
-      "l": [
-        {
-          "d": "defensescoop.com",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNY0QwN1dIUVRycGd2cEhHQTUzVnNGMkNHUENJNlA2Yk1EU2h2ek0ySWtIZTNQdE96enE5X0x4Z2dFNkhDWnBLeHBIZGpMYTJELXpoNEZhN2s0UFBrR3Btb0tiYWEwUWtHUnFSNUZwdzNqb2NRNWljLTA3Wm5xYlM1NzhxM0tqVjlYaDdV?oc=5"
-        },
-        {
-          "d": "voz.us",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYUI4eDZvY3BZVFg3TnQxSnJsZzhyYl9zQ29nOE5JQjV4N2htVEV0N05IaUNObTZ3VFJuYkVNaDNrOVZIVUhHSlV2aVM2b05QOXpfSFhqZ2xfNXRDRmFtTHc2aDZ3cDN4NUk5cmk2c2xPaVJyc3lNMXBJbUdjbThLSTljbWZNZVlCWlVBVTBEYk5SNUtFZ19ITDhVVTU1WDY5dWVKNTZoR1lCbnR0N3c?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "U.S. military forms first bilateral AI task force with United Arab Emirates",
-        "US and United Arab Emirates join forces to advance AI development in the military"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 30,
-      "sources": 3,
-      "ts": "2026-07-28T14:42:13.000Z",
-      "writtenSources": 3,
-      "h": "US and UAE establish military AI task force, Forbes reports CENTCOM launches first task force",
-      "s": "The reports reflect a rising trend of AI integration into defense planning, with potential implications for international coordination, standards, and safety governance.",
-      "b": [
-        "Anadolu Ajansı and Middle East Monitor report US and UAE to establish a military artificial intelligence task force.",
-        "Forbes reports CENTCOM and UAE have launched the first task force on military AI use.",
-        "The outlets present different framings: establishment versus launch of a task force, suggesting divergent timelines or stages of the effort."
-      ],
-      "body": [
-        "Anadolu Ajansı (AA) and Middle East Monitor carry headlines indicating that the United States and the United Arab Emirates are moving to establish a military artificial intelligence task force.",
-        "Forbes, citing CENTCOM and UAE, reports the launch of the first task force dedicated to military AI use, signaling a concrete step in integrating AI into defense planning. The coverage presents a split framing—AA and Middle East Monitor describe establishment, while Forbes describes a launch.",
-        "The reporting points to CENTCOM and UAE as central actors in this initiative, highlighting a collaborative push to organize governance or application of AI within military contexts, though the specific scope, timeline, and capabilities of the task force are not detailed in the cited pieces.",
-        "With sources giving different shades—one set indicating planning or establishment and another claiming a first-launch—the story underscores how AI governance in defense is becoming a live, international policy and coordination issue that may evolve quickly."
-      ],
-      "l": [
-        {
-          "d": "breakingdefense.com",
-          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQW1RQWNvV0ZfRkxUOXduMWZmRHpYMzdLWTBRQ2lZTG1lV1F4c1g4aGtrN1VILTdwOW1hX2tJNFROWUhwZ1VRbm1vV2JZQjhSWk5RTms1WHk5SVJiUVVoT3VueTFtclJXTElNVlgweGlGUzBFUlo1eHVJWDJ0ZmJvT0c4d2I?oc=5"
-        },
-        {
-          "d": "aa.com.tr",
-          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX05DRVZwMEctSFNBS2ZicDViZExoLUh1djJvT1h3aThFdV9MMGRJaElFYU5VU2pkbm1FZ1M1bjZxX205SnRXUnE3SzY5WGNDMUFZQjBKUHlqbVZpTG51X1NFekVON25aNnhTSGlMTDVIRUlSaEpTMlBXSFZVbl8tRGZTdWxzZGg3Y3JlSkpQdlNCM25CQ05wVDBFb0hjT1poaGVvQk0xbWZ6V0NyV2dqdzZocGRVUQ?oc=5"
-        },
-        {
-          "d": "middleeastmonitor.com",
-          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeGQzS2M3U1UtamxiXzdQY0FhODdmdUExa1I4YjZmbTFwR3hFblVIOGo3ajF3WnRqdVlJZWpQY0VWWDNia1h5VnB6NDBSX1ZpdkRhLXZFa3haQTFxWmlPZGs0ZUF6U3ViaWgwckk3ZnN4THlGZGZsWTJJaG5wZ3dwNFBpVzMwNnBLekNIUkN5Wm9icUIwNXV0QmdBYW85S004UlhqQ2pSS1VDUUnSAbABQVVfeXFMUGdxb1VjbGtlaFFtX1FVM2h6SUZWM3pWd3FWSWN5RUgyRUlSWDBiZmoyN0dyQmpwQ3pKNDdaRndxS3RGdzg0M2Zkc0lSNzZDNERIaWhadXUyUi12SVVQZW5SVTBVU0pfUWxueWdvUFAyeVpNNS1PVk9tTF8xaHp0bFItWGE2dzE3R0FyYlZzSmFuY0hGQmdjWkFKOW1zcUJkOHRIZk1Ua0ZkR25GVENEREg?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "CENTCOM announces US-UAE task force on AI",
-        "US, UAE to establish military artificial intelligence task force",
-        "US, UAE to establish military artificial intelligence task force"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 30,
-      "sources": 3,
-      "ts": "2026-07-28T04:00:00.000Z",
-      "writtenSources": 2,
-      "h": "Operationalize machine learning and two new ML papers surface on arXiv",
-      "s": "Researchers and developers gain access to a benchmarking framework and an auto-tuning compiler, potentially improving how ML models are tested and optimized.",
-      "b": [
-        "CIOReview lists a feature titled Operationalize Machine Learning.",
-        "Papers: Neptuna: A Comprehensive Machine Learning Framework for Benchmarking Complex Multiphase Flows by Harish Ramachandran and colleagues (arXiv v1: 24 Jul 2026; v2: 27 Jul 2026).",
-        "Papers: CrypTorch: PyTorch-based Auto-tuning Compiler for Machine Learning with Multi-party Computation by Jinyu Liu and colleagues (arXiv v1: 24 Nov 2025; v2: 23 Jul 2026).",
-        "arXiv entries include full-text links and author listings (Ramachandran et al.; Liu et al.)."
-      ],
-      "body": [
-        "CIOReview lists a feature titled Operationalize Machine Learning as part of its coverage.",
-        "Two arXiv papers are highlighted in the coverage: Neptuna, a comprehensive ML framework for benchmarking complex multiphase flows by Harish Ramachandran and five other authors, with v1 posted on July 24, 2026 and v2 on July 27, 2026; and CrypTorch, a PyTorch-based auto-tuning compiler for machine learning with multi-party computation by Jinyu Liu and two other authors, with v1 posted on November 24, 2025 and v2 on July 23, 2026.",
-        "The Neptuna paper is listed with its full title and author count, and the CrypTorch paper is listed with its full title and author count; both entries include arXiv version histories and links to PDFs/HTML as provided in the coverage.",
-        "The coverage notes the authors and dates associated with each arXiv entry, reflecting ongoing updates to these works as of mid-2026."
-      ],
-      "l": [
-        {
-          "d": "cioreview.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2dEVmdSbWxLc2ZCRDlFQVZrV2JQNUx4WVZGalc2YWFpaVpKTXh2T3NIZXc1OV9TWEJyTEoxbzBPb0NGbHpPR2JNbnpXTHBOYzAzdHNENlNpR21BWHp6WlF3QmhJRWxvSjh1N1NoUzBxWjdaZjZrbUI2MmVoOFZQWkp1eDQ5LUUwcWFPa18zS211Ni1RYWNMRE4wQjNmR19zdGxETg?oc=5"
-        },
-        {
-          "d": "siliconangle.com",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRzNZOEdobXlnYnNob3M5TzM5WlZGX2huWkI3RW1La2J0Yy1ZNlQ3N1NqVmoxWHQxbTJQQk9IV2pqRzBJUlNtYkhxV2ZncTZ3TENBNC1NYXEtUFItdmVTYm1vT2NPMkhjRF85aG9QLXNuaDZTakdpYXR6UkhfTTlWazBVZ1l3NmYyd2JuR1U2SkxJeGhSM3BUb1E0UldkekJ3T2Y5SGFzOFlVa2o1V2NnQ3BCWW4?oc=5"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2607.22280"
-        }
-      ],
-      "srcTitles": [
-        "Operationalize Machine Learning",
-        "HeyDonto launches DFT Labs to pursue physics-based machine learning capabilities",
-        "Neptuna: A Comprehensive Machine Learning Framework for Benchmarking Complex Multiphase Flows",
-        "CrypTorch: PyTorch-based Auto-tuning Compiler for Machine Learning with Multi-party Computation"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-07-28T17:00:00.000Z",
-      "writtenSources": 1,
-      "h": "AI coding agents accelerate scientific computing",
-      "s": "It demonstrates tangible gains in software development and discovery in genomics, signaling a broader shift in research workflows.",
-      "b": [
-        "OpenAI field report describes scientists using AI coding agents to modernize scientific computing.",
-        "Genomics is cited as a key example, with acceleration of software development and discovery.",
-        "Framed within the age of agentic AI, the report situates these efforts as part of a broader shift in science."
-      ],
-      "body": [
-        "OpenAI published a field report describing scientists using AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
-        "The report frames these efforts within the era of agentic AI in science and notes genomics as a primary example of where the approach is being applied.",
-        "The field report states that these AI coding agents are associated with faster progress in research projects, signaling a shift in how software is developed and discoveries are made.",
-        "OpenAI describes this as an ongoing area of exploration in scientific computing, with potential implications for future research workflows."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/scientific-computing-agentic-ai"
-        }
-      ],
-      "srcTitles": [
-        "Scientific computing in the age of agentic AI"
-      ]
-    },
-    {
-      "cat": "funding",
       "signal": 26,
       "sources": 2,
-      "ts": "2026-07-28T12:43:18.000Z",
+      "ts": "2026-07-28T15:30:24.000Z",
       "writtenSources": 2,
-      "h": "Marvell Technology vs Snowflake: which AI stock is a better buy in 2026",
-      "s": "Two AI-focused growth stocks are analyzed for 2026, signaling how AI infrastructure and data-platform demand may shape investor returns.",
+      "h": "Steven Spielberg’s A.I. Artificial Intelligence turns 25 and remains unsettling",
+      "s": "The film’s enduring questions about machine autonomy and ethics shape how audiences, researchers, and policymakers think about real-world AI risks and governance.",
       "b": [
-        "Outlets: The Motley Fool and The Globe and Mail published pieces weighing which AI stock is a better buy in 2026.",
-        "Stocks discussed: Marvell Technology and Snowflake.",
-        "Titles: The Motley Fool article is titled 'Marvell Technology vs. Snowflake: Which High-Growth Artificial Intelligence Stock Is a Better Buy in 2026?' and The Globe and Mail published a piece on the same topic."
+        "25th anniversary of Steven Spielberg’s A.I. Artificial Intelligence is being highlighted by coverage from The Independent and The Conversation.",
+        "The Conversation’s piece is titled “A.I. at 25: the Spielberg film that feels more unsettling than ever.”",
+        "Both outlets use the milestone to revisit themes of AI autonomy, ethics, and human–technology relationships that stay relevant to current AI debates."
       ],
       "body": [
-        "Two outlets published pieces evaluating which AI-related stock—Marvell Technology or Snowflake—may be the better buy for 2026. The Motley Fool article carries the headline, “Marvell Technology vs. Snowflake: Which High-Growth Artificial Intelligence Stock Is a Better Buy in 2026?” and The Globe and Mail published a similar analysis on the same topic.",
-        "The coverage notes that both articles compare Marvell Technology and Snowflake as AI growth stocks for 2026, though it does not provide the conclusions of either piece. The timing and geographic focus differ: The Motley Fool piece is a U.S. publication, while The Globe and Mail provides a Canadian perspective. ",
-        "Readers interested in AI stock picks for 2026 are directed to these two analyses for differing viewpoints on where the AI rally might be strongest among these two companies. The coverage does not relay specific investment recommendations or numerical valuations from either article."
+        "The Independent marks the 25th anniversary of Steven Spielberg’s A.I. Artificial Intelligence, noting why the film still feels unsettling today. The piece uses the milestone to discuss the film’s ongoing resonance with audiences as AI technologies advance.",
+        "The Conversation also weighs in on the anniversary, framing it as a moment to reflect on the Spielberg film’s themes and their relevance in contemporary AI discourse. The Conversation’s take is framed around how the film’s questions about artificial sentience and human control continue to provoke unease.",
+        "Both outlets connect the film’s exploration of machine autonomy, ethics, and the complex relationship between humans and technology to the broader, real‑world conversations around AI safety, governance, and public perception.",
+        "Overall, the anniversary serves as a cultural touchstone for examining how narratives about AI influence policy debates, research priorities, and public attitudes toward increasingly capable intelligent systems."
       ],
       "l": [
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYXZhWjFDc1BHa3lJdm1yd0d4dGlNakFEcEowaTF2T2E3OG11UnBlT1NKczYtMm5BYzFOVGk2czJlY3c5em51Vl9sYktsVWRSakd6QzJ0Wkhoc2dRLU95bnk4aTFYaHVHQ3V2bEZxYTN1WkRzajBlMXBLQXplUnVNNEJuclQ4NE5UN1JhT0ZCQlhYRWJFR0RZV3hIT2NyeThvY1d0UklXSUhiV293OEJubU1fd0pjYW1RWkRvaUdxemdYZGVnUnRQVXluWUpjblJDRGhRRk9jTE4xV3JYM2tnWmdKZkloU1BDaDFEdQ?oc=5"
+          "d": "independent.co.uk",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONGFKY01faTkzU1lPbksxcUhGMDEwRlVJUThxeEJGWHNiM281dTU0b2RuRzJfcVlGblF4UUpEdDNCWnhVMmxGUi1JMVZMY0dWbWU3Q1AxbklxWGliVk9jTWVDS1BLQUxiTUhSRHM1UWU2eUludXNOdGtfcEMtX29NQTYtRC1SdDVybkUxTUZNUnZjdDNETlVxdVV4MUtLbDlkUlRFOTRqSlFLTFFzcmdDZFBNS21nNjFta2c?oc=5"
         },
         {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcXFCakRncGtqZy0xNEkyRmtWZnlfc3VPZU81elJadWtEZV9LV2M0c19BUmstcXFleFN6UFNaQkc3X0lZZlBaYmliX3dvT1JHNDlERkdKdm02Z3JCSmJQTnNYU0ZNQUJvcmJ0R2tkRFBkd0l3QnBSV0V4THpkbGtrdHRpVEtabDQzRThoOGw4STNsVWFjS3hCbEUxRVR0aFRtQVZkX1IyMDlXWTNYbmdhRjF1OUNuUTJDMGFGT2k2M0I3VktfVC1PZ3ladWR2NzVmNzRmeU9PVWlZaWQzY3VXRmREV0Vod3pYaVlFdmNxYldlNENnQW9GNmZ5M0VTQklvLWh2bjA0Y2lVQjBURUlJ?oc=5"
+          "d": "theconversation.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMS1WTEY4NkJGbkJkQmJLUU1ZYm1VVHloNzMtSVVLM3J2SjFTdWJhRFI3UlJvUVE1TlBDcW1oUzgzMkRPeDRySWNBc2lKaHpxSzNMZVNZNG1MSWs5M3JLX244NW5mUG1YcEZqYXhqcXNualdleWVzdWxVUzNiOEZ1bUg3QlpuVnVpU3EyLVhPUGRFRzdlUVFuTFplcERMQ2l0MHc?oc=5"
         }
       ],
       "srcTitles": [
-        "Marvell Technology vs. Snowflake: Which High-Growth Artificial Intelligence Stock Is a Better Buy in 2026?",
-        "Marvell Technology vs. Snowflake: Which High-Growth Artificial Intelligence Stock Is a Better Buy in 2026?"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-07-28T11:05:00.000Z",
-      "writtenSources": 2,
-      "h": "Buffett and Abel loading up on top AI stock trading at bargain price",
-      "s": "The reported purchases by Buffett and Abel indicate notable institutional interest in an AI stock.",
-      "b": [
-        "Warren Buffett and Greg Abel are reported to have been loading up on the stock, according to Yahoo Finance and The Motley Fool",
-        "The stock is described as a top AI stock and is said to be trading at a bargain-basement price",
-        "Reports come from Yahoo Finance and The Motley Fool, with no disclosed purchase amounts or timing in the coverage"
-      ],
-      "body": [
-        "Yahoo Finance and The Motley Fool report that Warren Buffett and Greg Abel have been loading up on a top AI stock, described as trading at a bargain-basement price.",
-        "The coverage does not specify how much stock was purchased or when the purchases occurred.",
-        "Both outlets frame the story around Buffett and Abel's activity in the AI stock space, highlighting this action as notable within AI-focused investing."
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGhJRURyV0lwUEtRVnMwMmVveXF5N2R5ODRyOWhRUmkyNG43VHJRaGhRX2JBbW9EcVFQLXpJZVdDYzQ1T3ZBbnl1b0M5TkVfSG9Pb1JwcVFTQmhHYkJXdlk5TklqU2JRSDF6aEpnekQ0RlEwRDZHMUhiVlVpWmRPNDdGdnItY21ETlM5Y01ieEs1VlpDM1g0?oc=5"
-        },
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFd6VEY5SEllcVh2U2pDbjBVM1ZDOWRZWEJ1Sk9iTnd2T01lZ1l3eTUwd1JLNTNNQ2NmRnhhRUJESkM0bDJ2QlVDUWNqYmlEODBxMzVBMVVwTUt5ZkE4OVVRQXpjNjI1V2h1dFpEa2J5eDJja1NSS1NmMXlxc01LZXJ3WHoyU3g3ZVpTbEtpU09MQ29FYXdLM25ybmY?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price",
-        "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price"
+        "Steven Spielberg’s A.I. Artificial Intelligence turns 25. Here’s why the movie still feels unsettling today",
+        "A.I. at 25: the Spielberg film that feels more unsettling than ever"
       ]
     },
     {
@@ -553,12 +443,12 @@
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFNzT091U2c2Y29tSUx5bGQyWVVCY211Y2VzcFVzeU1CX0VlODVmU3VnUm4zMFp5YjlrRkFqM0NCWklsc3VEdFZmaWk5OF80b1IxbmQzRzV3UHV1ZXFzR3FscGczZk9jNmxEU29kdHM3TE8xcFpGSHZhdURIbjVsQTJLellPX2xEVl9vclhkemlnaGUxZzQw?oc=5"
-        },
-        {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSkNGOEpybmJfR3B0TzM3Q1BVdF8wRjh4RHNWQnFpcWZ6U1pBTjZRalJ1SEMwMEhac2NlMzRacmVsZjdfSDFBU0t6eDNzemtXSVAyTXg2N0lkeEFHN3BkZjVFN2tSeF9OZi1QVjRGaUx0RlBnVW5JLXRsdGllSmdQVk1uMXY4NXhGS09YZ3R1VWR6T2J1bjVSQQ?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUFNzT091U2c2Y29tSUx5bGQyWVVCY211Y2VzcFVzeU1CX0VlODVmU3VnUm4zMFp5YjlrRkFqM0NCWklsc3VEdFZmaWk5OF80b1IxbmQzRzV3UHV1ZXFzR3FscGczZk9jNmxEU29kdHM3TE8xcFpGSHZhdURIbjVsQTJLellPX2xEVl9vclhkemlnaGUxZzQw?oc=5"
         }
       ],
       "srcTitles": [
@@ -566,6 +456,71 @@
         "This Healthcare Leader Just Made a Bet on Artificial Intelligence (AI): Time to Buy the Stock?",
         "My 3 Favorite Artificial Intelligence (AI) Stocks to Buy Right Now",
         "Forget Micron Stock at $920 Per Share. Buy This Memory-Focused Artificial Intelligence (AI) ETF Instead."
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-07-28T04:00:00.000Z",
+      "writtenSources": 2,
+      "h": "Operationalize machine learning and two new ML papers surface on arXiv",
+      "s": "Researchers and developers gain access to a benchmarking framework and an auto-tuning compiler, potentially improving how ML models are tested and optimized.",
+      "b": [
+        "CIOReview lists a feature titled Operationalize Machine Learning.",
+        "Papers: Neptuna: A Comprehensive Machine Learning Framework for Benchmarking Complex Multiphase Flows by Harish Ramachandran and colleagues (arXiv v1: 24 Jul 2026; v2: 27 Jul 2026).",
+        "Papers: CrypTorch: PyTorch-based Auto-tuning Compiler for Machine Learning with Multi-party Computation by Jinyu Liu and colleagues (arXiv v1: 24 Nov 2025; v2: 23 Jul 2026).",
+        "arXiv entries include full-text links and author listings (Ramachandran et al.; Liu et al.)."
+      ],
+      "body": [
+        "CIOReview lists a feature titled Operationalize Machine Learning as part of its coverage.",
+        "Two arXiv papers are highlighted in the coverage: Neptuna, a comprehensive ML framework for benchmarking complex multiphase flows by Harish Ramachandran and five other authors, with v1 posted on July 24, 2026 and v2 on July 27, 2026; and CrypTorch, a PyTorch-based auto-tuning compiler for machine learning with multi-party computation by Jinyu Liu and two other authors, with v1 posted on November 24, 2025 and v2 on July 23, 2026.",
+        "The Neptuna paper is listed with its full title and author count, and the CrypTorch paper is listed with its full title and author count; both entries include arXiv version histories and links to PDFs/HTML as provided in the coverage.",
+        "The coverage notes the authors and dates associated with each arXiv entry, reflecting ongoing updates to these works as of mid-2026."
+      ],
+      "l": [
+        {
+          "d": "cioreview.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2dEVmdSbWxLc2ZCRDlFQVZrV2JQNUx4WVZGalc2YWFpaVpKTXh2T3NIZXc1OV9TWEJyTEoxbzBPb0NGbHpPR2JNbnpXTHBOYzAzdHNENlNpR21BWHp6WlF3QmhJRWxvSjh1N1NoUzBxWjdaZjZrbUI2MmVoOFZQWkp1eDQ5LUUwcWFPa18zS211Ni1RYWNMRE4wQjNmR19zdGxETg?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2607.22280"
+        }
+      ],
+      "srcTitles": [
+        "Operationalize Machine Learning",
+        "Neptuna: A Comprehensive Machine Learning Framework for Benchmarking Complex Multiphase Flows",
+        "CrypTorch: PyTorch-based Auto-tuning Compiler for Machine Learning with Multi-party Computation"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-07-28T17:00:00.000Z",
+      "writtenSources": 1,
+      "h": "AI coding agents accelerate scientific computing",
+      "s": "It demonstrates tangible gains in software development and discovery in genomics, signaling a broader shift in research workflows.",
+      "b": [
+        "OpenAI field report describes scientists using AI coding agents to modernize scientific computing.",
+        "Genomics is cited as a key example, with acceleration of software development and discovery.",
+        "Framed within the age of agentic AI, the report situates these efforts as part of a broader shift in science."
+      ],
+      "body": [
+        "OpenAI published a field report describing scientists using AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+        "The report frames these efforts within the era of agentic AI in science and notes genomics as a primary example of where the approach is being applied.",
+        "The field report states that these AI coding agents are associated with faster progress in research projects, signaling a shift in how software is developed and discoveries are made.",
+        "OpenAI describes this as an ongoing area of exploration in scientific computing, with potential implications for future research workflows."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/scientific-computing-agentic-ai"
+        }
+      ],
+      "srcTitles": [
+        "Scientific computing in the age of agentic AI"
       ]
     },
     {
@@ -601,7 +556,73 @@
     },
     {
       "cat": "funding",
-      "signal": 23,
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-07-28T12:43:18.000Z",
+      "writtenSources": 2,
+      "h": "Marvell Technology vs Snowflake: which AI stock is a better buy in 2026",
+      "s": "Two AI-focused growth stocks are analyzed for 2026, signaling how AI infrastructure and data-platform demand may shape investor returns.",
+      "b": [
+        "Outlets: The Motley Fool and The Globe and Mail published pieces weighing which AI stock is a better buy in 2026.",
+        "Stocks discussed: Marvell Technology and Snowflake.",
+        "Titles: The Motley Fool article is titled 'Marvell Technology vs. Snowflake: Which High-Growth Artificial Intelligence Stock Is a Better Buy in 2026?' and The Globe and Mail published a piece on the same topic."
+      ],
+      "body": [
+        "Two outlets published pieces evaluating which AI-related stock—Marvell Technology or Snowflake—may be the better buy for 2026. The Motley Fool article carries the headline, “Marvell Technology vs. Snowflake: Which High-Growth Artificial Intelligence Stock Is a Better Buy in 2026?” and The Globe and Mail published a similar analysis on the same topic.",
+        "The coverage notes that both articles compare Marvell Technology and Snowflake as AI growth stocks for 2026, though it does not provide the conclusions of either piece. The timing and geographic focus differ: The Motley Fool piece is a U.S. publication, while The Globe and Mail provides a Canadian perspective. ",
+        "Readers interested in AI stock picks for 2026 are directed to these two analyses for differing viewpoints on where the AI rally might be strongest among these two companies. The coverage does not relay specific investment recommendations or numerical valuations from either article."
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOYXZhWjFDc1BHa3lJdm1yd0d4dGlNakFEcEowaTF2T2E3OG11UnBlT1NKczYtMm5BYzFOVGk2czJlY3c5em51Vl9sYktsVWRSakd6QzJ0Wkhoc2dRLU95bnk4aTFYaHVHQ3V2bEZxYTN1WkRzajBlMXBLQXplUnVNNEJuclQ4NE5UN1JhT0ZCQlhYRWJFR0RZV3hIT2NyeThvY1d0UklXSUhiV293OEJubU1fd0pjYW1RWkRvaUdxemdYZGVnUnRQVXluWUpjblJDRGhRRk9jTE4xV3JYM2tnWmdKZkloU1BDaDFEdQ?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOcXFCakRncGtqZy0xNEkyRmtWZnlfc3VPZU81elJadWtEZV9LV2M0c19BUmstcXFleFN6UFNaQkc3X0lZZlBaYmliX3dvT1JHNDlERkdKdm02Z3JCSmJQTnNYU0ZNQUJvcmJ0R2tkRFBkd0l3QnBSV0V4THpkbGtrdHRpVEtabDQzRThoOGw4STNsVWFjS3hCbEUxRVR0aFRtQVZkX1IyMDlXWTNYbmdhRjF1OUNuUTJDMGFGT2k2M0I3VktfVC1PZ3ladWR2NzVmNzRmeU9PVWlZaWQzY3VXRmREV0Vod3pYaVlFdmNxYldlNENnQW9GNmZ5M0VTQklvLWh2bjA0Y2lVQjBURUlJ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Marvell Technology vs. Snowflake: Which High-Growth Artificial Intelligence Stock Is a Better Buy in 2026?",
+        "Marvell Technology vs. Snowflake: Which High-Growth Artificial Intelligence Stock Is a Better Buy in 2026?"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-07-28T11:05:00.000Z",
+      "writtenSources": 2,
+      "h": "Buffett and Abel loading up on top AI stock trading at bargain price",
+      "s": "The reported purchases by Buffett and Abel indicate notable institutional interest in an AI stock.",
+      "b": [
+        "Warren Buffett and Greg Abel are reported to have been loading up on the stock, according to Yahoo Finance and The Motley Fool",
+        "The stock is described as a top AI stock and is said to be trading at a bargain-basement price",
+        "Reports come from Yahoo Finance and The Motley Fool, with no disclosed purchase amounts or timing in the coverage"
+      ],
+      "body": [
+        "Yahoo Finance and The Motley Fool report that Warren Buffett and Greg Abel have been loading up on a top AI stock, described as trading at a bargain-basement price.",
+        "The coverage does not specify how much stock was purchased or when the purchases occurred.",
+        "Both outlets frame the story around Buffett and Abel's activity in the AI stock space, highlighting this action as notable within AI-focused investing."
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGhJRURyV0lwUEtRVnMwMmVveXF5N2R5ODRyOWhRUmkyNG43VHJRaGhRX2JBbW9EcVFQLXpJZVdDYzQ1T3ZBbnl1b0M5TkVfSG9Pb1JwcVFTQmhHYkJXdlk5TklqU2JRSDF6aEpnekQ0RlEwRDZHMUhiVlVpWmRPNDdGdnItY21ETlM5Y01ieEs1VlpDM1g0?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSFd6VEY5SEllcVh2U2pDbjBVM1ZDOWRZWEJ1Sk9iTnd2T01lZ1l3eTUwd1JLNTNNQ2NmRnhhRUJESkM0bDJ2QlVDUWNqYmlEODBxMzVBMVVwTUt5ZkE4OVVRQXpjNjI1V2h1dFpEa2J5eDJja1NSS1NmMXlxc01LZXJ3WHoyU3g3ZVpTbEtpU09MQ29FYXdLM25ybmY?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price",
+        "Warren Buffett and Greg Abel Have Been Loading Up on This Top Artificial Intelligence (AI) Stock That's Trading at a Bargain-Basement Price"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 19,
       "sources": 2,
       "ts": "2026-07-28T14:00:00.000Z",
       "writtenSources": 2,
