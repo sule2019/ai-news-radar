@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 64,
+      "signal": 60,
       "sources": 3,
       "ts": "2026-07-27T22:25:00.000Z",
       "writtenSources": 3,
@@ -36,6 +36,40 @@
         "Anthropic s Dario Amodei responds: doesn t oppose open-weight models, but fears Chinese AI",
         "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
         "Dario Amodei says Anthropic has never backed an open-weights model ban, lists reasons top chips shouldn't be sold to China, calls for global model testing, more (Anthropic)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-07-28T04:06:47.000Z",
+      "writtenSources": 2,
+      "h": "AI tokenmaxxing fades as workplaces cut tech spending",
+      "s": "It signals tighter corporate AI budgets, potentially slowing enterprise adoption and affecting vendors that rely on business contracts.",
+      "b": [
+        "Outlets reporting the story: WRAL.com and ABC News.",
+        "Headline centers on AI tokenmaxxing fading as workplaces look to cut tech spending.",
+        "The framing presents a broader trend in enterprise tech budgets rather than actions by a single company."
+      ],
+      "body": [
+        "WRAL reports a trend described in the headline that AI tokenmaxxing is fading as workplaces cut tech spending.",
+        "ABC News published a similar report, framing the shift as part of broader corporate budget tightening on technology.",
+        "Both outlets use the term tokenmaxxing to describe changes in enterprise AI spending patterns, and focus on budget cuts rather than specific deployments.",
+        "No numbers, dates, or company names are provided in the materials available in this coverage, and the stories treat the trend as a general industry move rather than a single incident."
+      ],
+      "l": [
+        {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVFRvVHJFM3pOWkhQUHpUVXZadExjWnZhWU5KRF9NZVRmRkZiLVhkOGhtanZjTmFmRmdqTzNGOEIyVEJKcElmbnZOOWhGdlhFSXJJRG81Q3I1c2VZMk10Rm5aLWhGRFY4bGxqcUVlOTdldEhSQlZNQzB1cVltelIteW51N1BoWmhyYm1OMHh4cGRNTkw2azQ5M25YN2ZUdlFmemlpbmNxU2VYMmRoakptdnhYWkJoT1NELWctcmdvdDBCMVk?oc=5"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPclRlZ1hYbXpVQm1fdGtaQWpuZ01hNVZMUTdfU2NrVVRVaEVUUUctMFlJSUhYQUxZYVpuZUhIQnBjbzZpaDUtcDk4UVp6QzAxakNWX256Vk5TcndkUGxiTFBCclZzUEZBN3ByZGdpcXI1azYwdTIyb0xoMW82cFJSd2p1aXZzZ0ZuQlI5bTU0cDRUbHVxUmVrazV3Y2lheHg3N1Vydk1MZ0xOdmhM0gGyAUFVX3lxTFBiOE04aVBGSEcxdDZUX1F6QUpzbGtQNHdsS0dVWGlzMk56bWhPZmVaNTF1RUVSU3Jld19CNF92aVVEWk16am4xdGJnRVMyRmROaXR3b0hac3JYRVFTVDBMZjhSeklkZ3RCeVpnbWgtUmFLdDNSMENDUXBHdVdXRUVGeHlQNmZOVnNObUJFdkJRamc5WkY5UHBLalZ0Skl4WEdkck1fQUk1cGE5ekZyUFY0Wmc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "A flex in corporate America, AI ‘tokenmaxxing’ fades as workplaces look to cut tech spending",
+        "A flex in corporate America, AI ‘tokenmaxxing’ fades as workplaces look to cut tech spending - ABC News"
       ]
     }
   ]
