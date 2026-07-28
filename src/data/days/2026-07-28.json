@@ -1,4 +1,42 @@
 {
   "date": "2026-07-28",
-  "stories": []
+  "stories": [
+    {
+      "cat": "policy",
+      "signal": 68,
+      "sources": 3,
+      "ts": "2026-07-27T22:25:00.000Z",
+      "writtenSources": 3,
+      "h": "Anthropic’s Amodei: not backing an open-weight ban, but wary of authoritarian use and calls for global model testing",
+      "s": "The stance influences how policymakers balance openness with security, potentially shaping export controls, safety standards, and international cooperation on AI governance.",
+      "b": [
+        "Amodei said in a blog post that \"Anthropic has never advocated for a ban on open-weights models.\"",
+        "An open-letter led by Nvidia, and signed by companies including Hugging Face, Meta, Microsoft, and Mistral, urged policymakers not to impose premature restrictions on open-weight models.",
+        "The UK AI Security Institute report cited in the discussion notes that once open-weights are released they cannot be withdrawn.",
+        "Amodei advocates a global model safety testing organization with testing applied to the most capable models regardless of country of origin."
+      ],
+      "body": [
+        "TechCrunch reported on July 27, 2026 that Anthropic founder and CEO Dario Amodei responded to industry chatter that his company might support government bans on open-weight models, or on open-weights in general. He pushed back on the idea that Anthropic backs broad restrictions, stating clearly that his company has not advocated for a ban."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai/"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT3ZWTGRXN2ZtQmwyOGpqd19OcHBBbHVoRVNUakhyWGp0ZnF1UHpYTXdBeUlBTE1BS3pUaFRsVm1CUlphR0Vfa3JYVXpOMzR3R3ZaVEZlSG5QblJkaEZIV0FINzVKUTRvUW9nM25tN3dFUlBZekdIbThnMkFRR25DV0JBSDRKcElXVHFNN29KOFFzclJfYnVCY2c5cG9wb1VjN3ZR0gGoAUFVX3lxTFAtSzFnVXpjSnBGXzRMLU84enhnRmE2Rk9IVmVoOUV4cjN4eXROTGx1RjB0WjNYOEVpZUpvYWhVUUdpN3F2TkROd2FMRUhJN1A1R0R2U2JiUmVCUXIzbnFSMUdXSUNfWWxvNzZ2THRGZjZ1VnRPVmZ4Z1Q5S284cnRHWVh5blF2UmVkdXlJSnNUQmhjV1VUdVBFREx3YWkyc0hFQ0tGZldiZg?oc=5"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260727/p32#a260727p32"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic s Dario Amodei responds: doesn t oppose open-weight models, but fears Chinese AI",
+        "Anthropic CEO Dario Amodei says AI company isn't advocating for ban of open-weight models",
+        "Dario Amodei says Anthropic has never backed an open-weights model ban, lists reasons top chips shouldn't be sold to China, calls for global model testing, more (Anthropic)"
+      ]
+    }
+  ]
 }
