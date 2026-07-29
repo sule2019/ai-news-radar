@@ -4,7 +4,7 @@
     {
       "cat": "policy",
       "signal": 92,
-      "sources": 53,
+      "sources": 51,
       "ts": "2026-07-29T04:13:00.000Z",
       "writtenSources": 56,
       "h": "Dr. Linda Pajoel discusses AI and the Diembassy mission in Inspirery interview",
@@ -39,7 +39,7 @@
           "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOW0tVXFBZ2FXNkREcFU0S3dXaExacjNVemJWU3RsbnhiTTJWdkZram9nb0s2ZFdRVHJLZmM0VHdRTEMzRFpMcV9Ea0hZNEpoeDhlb0Nyc2RzUzBJSHBXckJ3aTIwQ1F6b2lqeEFkbUFNdXIwbEpLV191OTdoS2ZocUFsdXlIaGl1dFNaMDN2STN4ZXRyLThUemlSeVdoUXJMQ3hmUjdQaTR4cURDQ0JRcUpBNA?oc=5"
         },
         {
-          "d": "+49"
+          "d": "+47"
         }
       ],
       "srcTitles": [
@@ -47,35 +47,6 @@
         "The AI premium",
         "Osceola County Schools plans 'AI Fellows Program' for staff",
         "US to award GlobalFoundries $300 million to develop faster AI chip links"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 49,
-      "sources": 1,
-      "ts": "2026-07-29T16:02:10.000Z",
-      "writtenSources": 1,
-      "h": "Google launches Lyria 3.5 in Flow Music with better musicality, lyrics, and vocals",
-      "s": "For music creators, Lyria 3.5 promises more realistic vocals and lyrics with greater creative control inside Flow Music, potentially changing how AI-assisted tracks are produced",
-      "b": [
-        "Lyria 3.5 delivers significant advancements across musicality, lyrics, and vocal quality",
-        "It rolls out today in Google Flow Music",
-        "The update emphasizes enhanced creative control for users"
-      ],
-      "body": [
-        "According to blog.google, Lyria 3.5 delivers significant advancements across musicality, lyrics, and vocal quality and is rolling out today in Google Flow Music.",
-        "The post says Lyria 3.5 is designed to help users craft richer tracks with greater creative control.",
-        "Google describes the update as part of Flow Music's ongoing effort to bring more capable AI music tools into creator workflows.",
-        "The blog notes that users will be able to produce songs they love with the improved vocal realism and lyric detail provided by Lyria 3.5."
-      ],
-      "l": [
-        {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
-        }
-      ],
-      "srcTitles": [
-        "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control"
       ]
     },
     {
@@ -104,6 +75,35 @@
       ],
       "srcTitles": [
         "Accelerating scientific discovery with ChatGPT for Academic Researchers"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 45,
+      "sources": 1,
+      "ts": "2026-07-29T16:02:10.000Z",
+      "writtenSources": 1,
+      "h": "Google launches Lyria 3.5 in Flow Music with better musicality, lyrics, and vocals",
+      "s": "For music creators, Lyria 3.5 promises more realistic vocals and lyrics with greater creative control inside Flow Music, potentially changing how AI-assisted tracks are produced",
+      "b": [
+        "Lyria 3.5 delivers significant advancements across musicality, lyrics, and vocal quality",
+        "It rolls out today in Google Flow Music",
+        "The update emphasizes enhanced creative control for users"
+      ],
+      "body": [
+        "According to blog.google, Lyria 3.5 delivers significant advancements across musicality, lyrics, and vocal quality and is rolling out today in Google Flow Music.",
+        "The post says Lyria 3.5 is designed to help users craft richer tracks with greater creative control.",
+        "Google describes the update as part of Flow Music's ongoing effort to bring more capable AI music tools into creator workflows.",
+        "The blog notes that users will be able to produce songs they love with the improved vocal realism and lyric detail provided by Lyria 3.5."
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/were-launching-lyria-35-in-google-flow-music-with-advances-across-musicality-lyrics-vocals-and-creative-control/"
+        }
+      ],
+      "srcTitles": [
+        "We’re launching Lyria 3.5 in Google Flow Music, with advances across musicality, lyrics, vocals, and creative control"
       ]
     },
     {
