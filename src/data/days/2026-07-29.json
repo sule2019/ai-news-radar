@@ -4,7 +4,7 @@
     {
       "cat": "policy",
       "signal": 98,
-      "sources": 46,
+      "sources": 47,
       "ts": "2026-07-29T04:13:00.000Z",
       "writtenSources": 56,
       "h": "Dr. Linda Pajoel discusses AI and the Diembassy mission in Inspirery interview",
@@ -39,7 +39,7 @@
           "u": "https://learnvector.ai/"
         },
         {
-          "d": "+42"
+          "d": "+43"
         }
       ],
       "srcTitles": [
@@ -173,6 +173,36 @@
       ],
       "srcTitles": [
         "How GPT-5.6 fuses frontier intelligence with frontier efficiency"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-07-29T15:00:00.000Z",
+      "writtenSources": 1,
+      "h": "Two API settings tripled ARC-AGI-3 scores for GPT-5.6, OpenAI reports",
+      "s": "The result shows API-level tuning can dramatically alter benchmark scores and efficiency, highlighting how small configuration changes can influence model performance.",
+      "b": [
+        "ARC-AGI-3 benchmark",
+        "GPT-5.6 model",
+        "two API settings enabled",
+        "scores tripled and efficiency improved via retaining reasoning and enabling compaction"
+      ],
+      "body": [
+        "OpenAI published a note describing a substantial performance gain on the ARC-AGI-3 benchmark for GPT-5.6 after applying two API settings.",
+        "The company said the combination of settings led to a tripling of scores on the ARC-AGI-3 benchmark and accompanying efficiency benefits.",
+        "OpenAI attributed the improvement to the two settings facilitating retained reasoning and enabling compaction within the model's processing, according to the post.",
+        "The release focuses on these results and the described mechanism, with no details provided about broader rollout or additional steps beyond the benchmark findings."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores"
+        }
+      ],
+      "srcTitles": [
+        "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark"
       ]
     },
     {
