@@ -2,8 +2,56 @@
   "date": "2026-07-29",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 92,
+      "sources": 53,
+      "ts": "2026-07-29T04:13:00.000Z",
+      "writtenSources": 53,
+      "h": "Dr. Linda Pajoel discusses AI and the Diembassy mission in Inspirery interview",
+      "s": "The spread of AI from classrooms to policing and litigation means governance, funding, and safety decisions will determine AI’s reach, risks, and accountability.",
+      "b": [
+        "OpenAI reports a field study showing scientists using AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+        "Spectrum News 13 reports Osceola County Schools plans an AI Fellows Program for staff",
+        "Troy Police Department receives a state grant for an AI program, with residents questioning partial funding",
+        "JD Supra covers AI’s impact on litigation in a piece titled Artificial Intelligence or Artificial Interference?: How AI is Reshaping Litigation for Better and Worse, Part II"
+      ],
+      "body": [
+        "OpenAI reports a field study describing scientists using AI coding agents to modernize scientific computing, with the aim of accelerating software development and discovery in genomics and related fields. The report underscores how agentic AI tools can streamline coding workflows and enable faster iteration across complex research tasks, according to the OpenAI overview.",
+        "Spectrum News 13 reports that Osceola County Schools plan an AI Fellows Program for staff, signaling formal deployment of AI literacy and capability-building within a K-12 district. The coverage notes the program is intended for school staff, reflecting growing integration of AI into education workflows.",
+        "Troy Police Department is cited as having received a state grant to fund an AI program, while residents question the extent of public funding for the initiative. The reporting frames the grant as part of broader public-safety AI investments, and observers raise questions about funding balance and oversight, per NEWS10 ABC.",
+        "JD Supra discusses AI’s impact on litigation in a piece titled Artificial Intelligence or Artificial Interference?: How AI is Deshaping Litigation for Better and Worse, Part II, highlighting ongoing debates over how AI tools influence legal strategy, evidence analysis, and case outcomes, as described by the outlet."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/scientific-computing-agentic-ai"
+        },
+        {
+          "d": "cepr.org",
+          "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93OWhLN0h3Tk9IdnliVDZaSV9MTjlJOFBhX1BMNG9ZZkFvRzdPRGZlZjZjY2t2d3oySVlDdFdjMGF0X0V3ZWdTdE9vYnpqS3djUzdB?oc=5"
+        },
+        {
+          "d": "mynews13.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSWY1Nm1udExhZGEwX1JNVmVyVVozaVhVc3d3bVU5NUt2ZU02a0ZOWC05cTJRc2hubXNEY0c3d0dFMzNncWM2WU5xVGpBQllKSV9oaFRMdDdQYVVydVlFRVg0M3RaLXBZRmg3SXVyNEt1N2JoTUlrX0U2bU9aVUMxd09ObzF0WEx3ZnVESXFzODhIbmo1czRMOWNuQ3Y3MGZVSWh6d3kteDY?oc=5"
+        },
+        {
+          "d": "jdsupra.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNGU3UThrVnFiaXJSNVc1RzlTcjhBVC1wUGNjeWRFbDRJWHZ3Q0Fza1lSUlM2Vk1XcTNyQURCYUFHWnk4NkZzdU0xSkh3MU1kT0gzZVBmbWttZFpWcGYzUFRjdGJEZzl1R3dNeFh5TlpZQTJrd2ptSDZtbGpLSldFNWVPaGoyMms?oc=5"
+        },
+        {
+          "d": "+49"
+        }
+      ],
+      "srcTitles": [
+        "Scientific computing in the age of agentic AI",
+        "The AI premium",
+        "Osceola County Schools plans 'AI Fellows Program' for staff",
+        "Artificial Intelligence or Artificial Interference?: How AI is Reshaping Litigation for Better and Worse, Part II"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 59,
+      "signal": 56,
       "sources": 2,
       "ts": "2026-07-29T09:01:36.000Z",
       "writtenSources": 2,
@@ -37,44 +85,8 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-07-29T04:13:00.000Z",
-      "writtenSources": 3,
-      "h": "Dr. Linda Pajoel discusses AI and the Diembassy mission in Inspirery interview",
-      "s": "It matters because it frames AI entrepreneurship and mission-driven ventures for readers tracking AI industry trends.",
-      "b": [
-        "Subject: Dr. Linda Pajoel",
-        "Topic: Artificial intelligence, entrepreneurship, and the Diembassy mission",
-        "Republished by three outlets: markets.financialcontent.com, mycarrollcountynews.com, lincolnjournal.com",
-        "Original interview platform: Inspirery"
-      ],
-      "body": [
-        "Inspirery conducted an interview with Dr. Linda Pajoel about artificial intelligence, entrepreneurship, and the mission behind Diembassy.",
-        "Markets Financial Content, Carroll County Mirror-Democrat, and Lincoln Journal each published the piece and carried the same headline.",
-        "The headline referenced is \"Inspirery Interviews Dr. Linda Pajoel on Artificial Intelligence, Entrepreneurship and the Mission Behind Diembassy\".",
-        "The coverage provides no additional detail on what Dr. Pajoel said, the Diembassy project, or any reactions.",
-        "No dates, figures, or future steps are included in the outlets' coverage."
-      ],
-      "l": [
-        {
-          "d": "mycarrollcountynews.com",
-          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTktWZkJSaUVQWFZQbXZZb2dIc09TdXcwUm5mUFAzeFlMSVVGS1NCQkxWQXllX2IxNDFWZDg5Z2tzaUVUcldvenIxbjNnODk4SkNVXzBaNVNlMGFwYUJxUDQzb2xZVlF2cDdESjUtakNmaXBIMVdiRWhSeHhBS0ZxM0JpOHZ4MFY3ZFQ5a3BvRjNqUHE4bTZUU2xDeFk1My1PRFJTOXNxTkxPWmdQNWh1dlJqM0FKYWM?oc=5"
-        },
-        {
-          "d": "markets.financialcontent.com",
-          "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPVlI0NWhKeFFnRm96SHVEdFdUcUstNmtDTXR0cjJkeVNUUjI2eVBxS3paSFRMYnc5ZVdYblZCSjAzcEpsdTVJY0ppY3JpTmRzd1ItWlNmQlNHNW9MYk1mRWwxb2g0bnMtcDYtYzhKVEFQYkh6YUkwdDdjeUszbzVMcXdqbWZRQVVqQkZ4dUFTRUdrSW9WMFYtMUZodTJjb1NrUmd6Rk9nS0FHQ2dWU0V4X1k0dmpNRHYtdU95cGppU1ZfNlF1WktZd3k0VEYxQU1pdEdkLUZmN1dTdV96OTJnT1lOOWhyNjllSnRDQ0NGc0VUVk1pOUxvdkRFMzlYd05mNXRoQ3FOUnZsOHMwNE80ZGpfSXU?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Inspirery Interviews Dr. Linda Pajoel on Artificial Intelligence, Entrepreneurship and the Mission Behind Diembassy - Carroll County Mirror-Democrat",
-        "Inspirery Interviews Dr. Linda Pajoel on Artificial Intelligence, Entrepreneurship and the Mission Behind Diembassy"
-      ]
-    },
-    {
       "cat": "policy",
-      "signal": 23,
+      "signal": 19,
       "sources": 2,
       "ts": "2026-07-28T23:13:49.000Z",
       "writtenSources": 2,
