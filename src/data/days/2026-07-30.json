@@ -2,8 +2,44 @@
   "date": "2026-07-30",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-07-30T18:30:00.000Z",
+      "writtenSources": 2,
+      "h": "Judge says Trump admin lacks evidence for Anthropic supply chain risk label",
+      "s": "The ruling will influence whether the government can bar Anthropic from DoD use and set a precedent for how agencies pursue contractor risk designations.",
+      "b": [
+        "Judge Rita Lin presiding; Thursday hearing part of two March lawsuits against the DoD",
+        "DoD claimed Anthropic could disable or alter its AI models during warfighting; experts say evidence is lacking",
+        "Lin temporarily blocked the ban in March; she is weighing whether to make that order permanent",
+        "One lawsuit challenges the ban and risk designation in D.C.; the other is being heard in Washington"
+      ],
+      "body": [
+        "At a Thursday hearing, U.S. District Court Judge Rita Lin said the Trump administration had not produced enough evidence to justify labeling Anthropic a supply chain risk or banning federal government use of its technology, TechCrunch reported.",
+        "The dispute stems from stalled contract negotiations between Anthropic and the Department of Defense, with Anthropic arguing its technology should not be used for mass surveillance or for targeting or firing decisions involving lethal weapons; the Pentagon countered that a private company should not dictate how the military uses technologies and said it would be used in lawful ways.",
+        "The government also argued that Anthropic’s public criticisms of the DoD could justify the ban, a claim Lin called \"really troubling\" and warned could set a dangerous precedent for punishing federal contractors who disagree with administration policy.",
+        "The DOD further claimed Anthropic could disable or alter its AI models during warfighting operations, a point experts say lacks evidence; Lin said she did not see proof that a delivered model could be altered or a kill switch flipped.",
+        "Thursday’s hearing was part of one of two lawsuits Anthropic filed against the DoD in March, challenging the ban and risk designation; the other suit is being heard in Washington, and Lin temporarily blocked the ban in March while weighing whether to make that order permanent."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260730/p45#a260730p45"
+        }
+      ],
+      "srcTitles": [
+        "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+        "At a hearing, a US judge says \"I don't see additional evidence\" from the Pentagon justifying its designation of Anthropic as a supply-chain risk (Maria Curi/Axios)"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-07-30T15:00:59.000Z",
       "writtenSources": 1,
@@ -85,12 +121,12 @@
       ],
       "l": [
         {
-          "d": "universityworldnews.com",
-          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zZEhqN21zWklTSVVnd0pKS1MxLUlhTW4tN1RQSkloTkstdWU0a2JQU2JrT0hqeHo2Z0N3NGliNWFQMlFmaEZtRG1yZHRhWXJGR1FfQUxtaDMtVk5TVS12ZVdseFJqMGViMEF2SFluNkJ0cjlnREMw?oc=5"
-        },
-        {
           "d": "socialistchina.org",
           "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGJWLWZHckpkbXVYdVRJSENQMDl5MUNicTdFNndfdUl5eFgzbFBqbHZ0S2duUFV4NGJzZG14TkNjVUNuT2gtaW9qLXZuZzM3SWhKeVZHRFluMmpFSjM1TF9EbnFGaWNjc0RyMzU5UnBjV1dFd3l6emc1dWF3X1lQNXluMElZR1RtSHhZd25NVEdXOVkycjRjZTV6N3Qyc0JvRW13VDNsY3pkaVliTVhhbTNJeDlvTUVQRjQwN2dQZHJlbi12SmhiN1BSOHY3QQ?oc=5"
+        },
+        {
+          "d": "universityworldnews.com",
+          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zZEhqN21zWklTSVVnd0pKS1MxLUlhTW4tN1RQSkloTkstdWU0a2JQU2JrT0hqeHo2Z0N3NGliNWFQMlFmaEZtRG1yZHRhWXJGR1FfQUxtaDMtVk5TVS12ZVdseFJqMGViMEF2SFluNkJ0cjlnREMw?oc=5"
         },
         {
           "d": "ictworks.org",
@@ -98,41 +134,45 @@
         }
       ],
       "srcTitles": [
-        "What is artificial intelligence? A definition from the South",
         "The World Artificial Intelligence Cooperation Organisation is tailor-made for the Global South",
+        "What is artificial intelligence? A definition from the South",
         "We Have an Artificial Intelligence Definition Problem in ICT4D"
       ]
     },
     {
-      "cat": "funding",
+      "cat": "research",
       "signal": 26,
       "sources": 2,
-      "ts": "2026-07-29T22:46:03.000Z",
+      "ts": "2026-07-30T04:00:00.000Z",
       "writtenSources": 2,
-      "h": "Microsoft posts $3.2B gain from Anthropic stake, OpenAI investment down",
-      "s": "The split shows how large AI bets can swing quarterly earnings and influence Microsoft’s strategy toward OpenAI and Anthropic, affecting its AI platform bets and shareholder returns.",
+      "h": "MLVC aims to run cross-platform learned video codecs on consumer NPUs",
+      "s": "If realized, MLVC could unlock real-world deployment of neural video codecs across devices, overcoming cross-hardware inconsistencies that have slowed adoption.",
       "b": [
-        "Anthropic investment gain of $3.2 billion in the fiscal Q4 quarter, boosting diluted EPS by 0.33 and with the quarter’s EPS at $4.81",
-        "OpenAI investment marked down by about $600 million in the same quarter, reducing diluted EPS by about 0.07",
-        "For the full year, OpenAI investment generated a $5 billion gain and added about 0.67 to EPS",
-        "Microsoft owns about 27% of OpenAI and invested $5 billion in Anthropic in November 2025 as part of a circular agreement under which Anthropic would buy $30 billion of Azure services"
+        "Encoding and decoding run at about 100 FPS for 360p/540p video on consumer NPUs",
+        "MLVC transmits entropy-model scale parameters through the hyperprior to avoid cross-NPU bit-exact differences",
+        "On Apple M3 Neural Engine, INT8 operations are simulated via FP16 rather than true INT8",
+        "arXiv listing shows v1 on 2026-06-26 and v2 on 2026-07-29; authors include Tanel Pärnamaa and five others"
       ],
       "body": [
-        "Microsoft reported its fiscal fourth-quarter results, ending June 30, with revenue of about $90 billion and net income of roughly $35.8 billion for the quarter. In that period, the company disclosed a $3.2 billion gain from its investment in Anthropic, a gain that boosted diluted earnings per share by 33 cents. Microsoft’s quarter saw earnings per share of $4.81 as reported."
+        "MLVC stands for Multi-platform Learned Video Codec for Real-World Deployment and is presented in an arXiv preprint by Tanel Pärnamaa and five other authors. The work argues for a cross-platform learned video codec designed to work across different neural processing units (NPUs) rather than rely on traditional hand‑engineered codecs.",
+        "A core challenge the paper addresses is cross-platform compatibility: small numerical differences in entropy models across NPUs can cause decoding to disagree with encoding, breaking streams. To mitigate this, MLVC transmits the entropy-model scale parameters through the hyperprior so the neural network itself doesn’t need to run bit-exactly the same across all NPUs.",
+        "The authors claim practical performance, noting both encoding and decoding run at roughly 100 frames per second for 360p/540p video on consumer NPUs, bringing learned codecs closer to deployable reality.",
+        "The paper also notes hardware-specific caveats: on the Apple M3 Neural Engine, the relevant INT8 operations are simulated using FP16 instead of a true INT8 path, meaning bit-exact results across NPUs are not guaranteed even with MLVC’s approach.",
+        "The arXiv entry lists v1 on 2026-06-26 and a revised v2 on 2026-07-29, with authoring credited to Tanel Pärnamaa and five others."
       ],
       "l": [
         {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1vb3xwd/mlvc_multiplatform_learned_video_codec_for/"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260729/p52#a260729p52"
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2606.28027"
         }
       ],
       "srcTitles": [
-        "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-        "In Q4, Microsoft's Anthropic investment saw a $3.2B gain, while its OpenAI investment was marked down ~$600M but has generated a $5B gain on a full-year basis (Julie Bort/TechCrunch)"
+        "MLVC: Multi-platform Learned Video Codec for Real-World Deployment [P]",
+        "MLVC: Multi-platform Learned Video Codec for Real-World Deployment"
       ]
     },
     {
@@ -156,17 +196,17 @@
       ],
       "l": [
         {
-          "d": "rfdtv.com",
-          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWDh3YjNCdTFvN3BBZWZfY0NDeVBkUGdhUlNmT0RncmdyTDFaRS1LcDk4ckptb1l0N3BDTFh0YzdSQXVZM0cxTFFTNnlvdV9Nek42TWx5X2xHWnpFY1luWEhMMURLcC11LTBUTHlRRDZBTUNSNXJiczFZWUlmT0lGbW02R0dnQQ?oc=5"
-        },
-        {
           "d": "moomoo.com",
           "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONm1yWDluY2dDTnFEczA4eXVndjdBWElZY0dkYjVhU0F2WEVKd0tOQkQ0dFVHbUFKTjAxeTJreDJkYTlHN25HR3g3T3E5VnJwdmFONXpJTGdRd0lEWlV6dW9KZmhWem5EX1lQN0o2ZmhiRXdwN0ZZNWdwZTdQaU9WTHhDWGhrSGdwdlYyeEtYTnAzay1uUkFKblU3eVJSVVV0SEx1VklKRFlkR2RUNmR0SHVHTzlKNFJXaVNpY2ZQYw?oc=5"
+        },
+        {
+          "d": "rfdtv.com",
+          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWDh3YjNCdTFvN3BBZWZfY0NDeVBkUGdhUlNmT0RncmdyTDFaRS1LcDk4ckptb1l0N3BDTFh0YzdSQXVZM0cxTFFTNnlvdV9Nek42TWx5X2xHWnpFY1luWEhMMURLcC11LTBUTHlRRDZBTUNSNXJiczFZWUlmT0lGbW02R0dnQQ?oc=5"
         }
       ],
       "srcTitles": [
-        "Artificial Intelligence Gains Ground in the Beef Industry - RFD-TV",
-        "Trending Industry Today: Micron Technology Leads Gains In Artificial Intelligence Stocks"
+        "Trending Industry Today: Micron Technology Leads Gains In Artificial Intelligence Stocks",
+        "Artificial Intelligence Gains Ground in the Beef Industry - RFD-TV"
       ]
     },
     {
@@ -199,6 +239,38 @@
       ],
       "srcTitles": [
         "A fundamental flaw leaves LLMs strikingly vulnerable to attack"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-07-29T22:46:03.000Z",
+      "writtenSources": 2,
+      "h": "Microsoft posts $3.2B gain from Anthropic stake, OpenAI investment down",
+      "s": "The split shows how large AI bets can swing quarterly earnings and influence Microsoft’s strategy toward OpenAI and Anthropic, affecting its AI platform bets and shareholder returns.",
+      "b": [
+        "Anthropic investment gain of $3.2 billion in the fiscal Q4 quarter, boosting diluted EPS by 0.33 and with the quarter’s EPS at $4.81",
+        "OpenAI investment marked down by about $600 million in the same quarter, reducing diluted EPS by about 0.07",
+        "For the full year, OpenAI investment generated a $5 billion gain and added about 0.67 to EPS",
+        "Microsoft owns about 27% of OpenAI and invested $5 billion in Anthropic in November 2025 as part of a circular agreement under which Anthropic would buy $30 billion of Azure services"
+      ],
+      "body": [
+        "Microsoft reported its fiscal fourth-quarter results, ending June 30, with revenue of about $90 billion and net income of roughly $35.8 billion for the quarter. In that period, the company disclosed a $3.2 billion gain from its investment in Anthropic, a gain that boosted diluted earnings per share by 33 cents. Microsoft’s quarter saw earnings per share of $4.81 as reported."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260729/p52#a260729p52"
+        }
+      ],
+      "srcTitles": [
+        "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "In Q4, Microsoft's Anthropic investment saw a $3.2B gain, while its OpenAI investment was marked down ~$600M but has generated a $5B gain on a full-year basis (Julie Bort/TechCrunch)"
       ]
     },
     {
