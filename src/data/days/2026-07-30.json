@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 50,
+      "signal": 46,
       "sources": 2,
       "ts": "2026-07-29T22:46:03.000Z",
       "writtenSources": 2,
@@ -31,38 +31,6 @@
       "srcTitles": [
         "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
         "In Q4, Microsoft's Anthropic investment saw a $3.2B gain, while its OpenAI investment was marked down ~$600M but has generated a $5B gain on a full-year basis (Julie Bort/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 28,
-      "sources": 2,
-      "ts": "2026-07-29T22:35:01.000Z",
-      "writtenSources": 2,
-      "h": "EU plans to designate OpenAI’s ChatGPT and Roblox as very large online platforms in August",
-      "s": "Regulators are set to impose tighter rules on two of the biggest AI-enabled services, potentially altering compliance costs and how they operate in the EU.",
-      "b": [
-        "The European Commission plans to designate OpenAI's ChatGPT and Roblox as Very Large Online Platforms under the DSA",
-        "Designation could occur as soon as August",
-        "Designations would bring stricter scrutiny and monitoring requirements under the DSA",
-        "Bloomberg reports the plan; Gizmodo also notes the designation in its coverage"
-      ],
-      "body": [
-        "Bloomberg reports that the European Commission plans to designate OpenAI’s ChatGPT and the gaming company Roblox Corp. as Very Large Online Platforms under the Digital Services Act, with the designation happening as soon as August. The plan reflects the EU’s approach to targeting the largest digital services for enhanced oversight under the DSA."
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260729/p45#a260729p45"
-        },
-        {
-          "d": "gizmodo.com",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS2RBcG1DY29HbnpyVUMtcXJtYnNtOTZlTDFGWU1MaG5DMG01ekhJVndaREZCXzczSEpyUnRTUWh1OXJvYXVmRVhKMFI2UjdSaUhDeUlKYi1YdU90MnRjS2t2S3B0N3NlM1JEd0kxcEN5anpFWlJIWC1OQ2RwMGJTV2NfcTJySWhjb3NwUjRodjVCaWtqTXZLbU5KOXZmMk4wT3R0OWpIWm8zOERBN0xjN1hDcw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Source: the European Commission plans to designate OpenAI's ChatGPT and Roblox as \"very large online platforms\" under the DSA as soon as August (Bloomberg)",
-        "EU Will Reportedly Label ChatGPT and Roblox ‘Very Large Online Platforms’ (Derogatory)"
       ]
     },
     {
@@ -95,6 +63,38 @@
       ],
       "srcTitles": [
         "A fundamental flaw leaves LLMs strikingly vulnerable to attack"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 24,
+      "sources": 2,
+      "ts": "2026-07-29T22:35:01.000Z",
+      "writtenSources": 2,
+      "h": "EU plans to designate OpenAI’s ChatGPT and Roblox as very large online platforms in August",
+      "s": "Regulators are set to impose tighter rules on two of the biggest AI-enabled services, potentially altering compliance costs and how they operate in the EU.",
+      "b": [
+        "The European Commission plans to designate OpenAI's ChatGPT and Roblox as Very Large Online Platforms under the DSA",
+        "Designation could occur as soon as August",
+        "Designations would bring stricter scrutiny and monitoring requirements under the DSA",
+        "Bloomberg reports the plan; Gizmodo also notes the designation in its coverage"
+      ],
+      "body": [
+        "Bloomberg reports that the European Commission plans to designate OpenAI’s ChatGPT and the gaming company Roblox Corp. as Very Large Online Platforms under the Digital Services Act, with the designation happening as soon as August. The plan reflects the EU’s approach to targeting the largest digital services for enhanced oversight under the DSA."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260729/p45#a260729p45"
+        },
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS2RBcG1DY29HbnpyVUMtcXJtYnNtOTZlTDFGWU1MaG5DMG01ekhJVndaREZCXzczSEpyUnRTUWh1OXJvYXVmRVhKMFI2UjdSaUhDeUlKYi1YdU90MnRjS2t2S3B0N3NlM1JEd0kxcEN5anpFWlJIWC1OQ2RwMGJTV2NfcTJySWhjb3NwUjRodjVCaWtqTXZLbU5KOXZmMk4wT3R0OWpIWm8zOERBN0xjN1hDcw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Source: the European Commission plans to designate OpenAI's ChatGPT and Roblox as \"very large online platforms\" under the DSA as soon as August (Bloomberg)",
+        "EU Will Reportedly Label ChatGPT and Roblox ‘Very Large Online Platforms’ (Derogatory)"
       ]
     }
   ]
