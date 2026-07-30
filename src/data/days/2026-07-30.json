@@ -35,35 +35,32 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 34,
-      "sources": 2,
-      "ts": "2026-07-29T22:46:03.000Z",
-      "writtenSources": 2,
-      "h": "Microsoft posts $3.2B gain from Anthropic stake, OpenAI investment down",
-      "s": "The split shows how large AI bets can swing quarterly earnings and influence Microsoft’s strategy toward OpenAI and Anthropic, affecting its AI platform bets and shareholder returns.",
+      "cat": "products",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-07-30T10:00:00.000Z",
+      "writtenSources": 1,
+      "h": "OpenAI trims GPT-5.6 pricing for Luna and Terra to boost enterprise deployment",
+      "s": "Cheaper GPT-5.6 pricing for Luna and Terra could accelerate enterprise adoption of AI workflows, lowering total cost of ownership and shifting procurement dynamics.",
       "b": [
-        "Anthropic investment gain of $3.2 billion in the fiscal Q4 quarter, boosting diluted EPS by 0.33 and with the quarter’s EPS at $4.81",
-        "OpenAI investment marked down by about $600 million in the same quarter, reducing diluted EPS by about 0.07",
-        "For the full year, OpenAI investment generated a $5 billion gain and added about 0.67 to EPS",
-        "Microsoft owns about 27% of OpenAI and invested $5 billion in Anthropic in November 2025 as part of a circular agreement under which Anthropic would buy $30 billion of Azure services"
+        "GPT-5.6 pricing is being reduced for Luna and Terra",
+        "OpenAI describes the change as part of a price-performance push for enterprise use",
+        "Luna and Terra are the GPT-5.6 variants affected by the pricing change"
       ],
       "body": [
-        "Microsoft reported its fiscal fourth-quarter results, ending June 30, with revenue of about $90 billion and net income of roughly $35.8 billion for the quarter. In that period, the company disclosed a $3.2 billion gain from its investment in Anthropic, a gain that boosted diluted earnings per share by 33 cents. Microsoft’s quarter saw earnings per share of $4.81 as reported."
+        "OpenAI announced lower pricing for GPT-5.6 variants Luna and Terra, aimed at helping enterprises deploy AI workflows at scale.",
+        "The pricing adjustment centers on the GPT-5.6 family, with Luna and Terra specifically referenced in the coverage from OpenAI.",
+        "OpenAI frames the move as part of a broader effort to improve price-performance while delivering more efficient models for business deployments.",
+        "The publication notes that the change is designed to support larger-scale enterprise deployments, though no further rollout details are provided in the coverage."
       ],
       "l": [
         {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260729/p52#a260729p52"
+          "d": "openai.com",
+          "u": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6"
         }
       ],
       "srcTitles": [
-        "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-        "In Q4, Microsoft's Anthropic investment saw a $3.2B gain, while its OpenAI investment was marked down ~$600M but has generated a $5B gain on a full-year basis (Julie Bort/TechCrunch)"
+        "Advancing the price-performance frontier with GPT-5.6"
       ]
     },
     {
@@ -104,6 +101,72 @@
         "What is artificial intelligence? A definition from the South",
         "The World Artificial Intelligence Cooperation Organisation is tailor-made for the Global South",
         "We Have an Artificial Intelligence Definition Problem in ICT4D"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 30,
+      "sources": 2,
+      "ts": "2026-07-29T22:46:03.000Z",
+      "writtenSources": 2,
+      "h": "Microsoft posts $3.2B gain from Anthropic stake, OpenAI investment down",
+      "s": "The split shows how large AI bets can swing quarterly earnings and influence Microsoft’s strategy toward OpenAI and Anthropic, affecting its AI platform bets and shareholder returns.",
+      "b": [
+        "Anthropic investment gain of $3.2 billion in the fiscal Q4 quarter, boosting diluted EPS by 0.33 and with the quarter’s EPS at $4.81",
+        "OpenAI investment marked down by about $600 million in the same quarter, reducing diluted EPS by about 0.07",
+        "For the full year, OpenAI investment generated a $5 billion gain and added about 0.67 to EPS",
+        "Microsoft owns about 27% of OpenAI and invested $5 billion in Anthropic in November 2025 as part of a circular agreement under which Anthropic would buy $30 billion of Azure services"
+      ],
+      "body": [
+        "Microsoft reported its fiscal fourth-quarter results, ending June 30, with revenue of about $90 billion and net income of roughly $35.8 billion for the quarter. In that period, the company disclosed a $3.2 billion gain from its investment in Anthropic, a gain that boosted diluted earnings per share by 33 cents. Microsoft’s quarter saw earnings per share of $4.81 as reported."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260729/p52#a260729p52"
+        }
+      ],
+      "srcTitles": [
+        "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "In Q4, Microsoft's Anthropic investment saw a $3.2B gain, while its OpenAI investment was marked down ~$600M but has generated a $5B gain on a full-year basis (Julie Bort/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-07-29T22:04:21.000Z",
+      "writtenSources": 2,
+      "h": "AI gains ground in beef industry as Micron leads AI stock gains",
+      "s": "The beef industry’s AI adoption signals real-world deployment growth, while Micron’s stock performance underscores investor enthusiasm for AI-enabled hardware and components.",
+      "b": [
+        "RFDTV reports AI gains in the beef industry (title: Artificial Intelligence Gains Ground in the Beef Industry)",
+        "Moomoo reports Micron Technology leads gains among AI stocks (title: Trending Industry Today: Micron Technology Leads Gains In Artificial Intelligence Stocks)",
+        "The two outlets link AI deployment in agriculture with AI-related equities performance"
+      ],
+      "body": [
+        "RFDTV published coverage titled Artificial Intelligence Gains Ground in the Beef Industry, indicating that AI adoption is expanding within traditional agricultural sectors.",
+        "Separately, Moomoo highlighted Micron Technology as leading gains among AI-related stocks in its piece Trending Industry Today: Micron Technology Leads Gains In Artificial Intelligence Stocks.",
+        "Taken together, the coverage suggests a split AI landscape where practical deployments in sectors such as beef farming coexist with a bullish market sentiment around AI-enabled hardware producers.",
+        " The stories do not provide specific figures or dates, but they illustrate ongoing industry use of AI alongside stock market activity tied to AI expectations."
+      ],
+      "l": [
+        {
+          "d": "rfdtv.com",
+          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWDh3YjNCdTFvN3BBZWZfY0NDeVBkUGdhUlNmT0RncmdyTDFaRS1LcDk4ckptb1l0N3BDTFh0YzdSQXVZM0cxTFFTNnlvdV9Nek42TWx5X2xHWnpFY1luWEhMMURLcC11LTBUTHlRRDZBTUNSNXJiczFZWUlmT0lGbW02R0dnQQ?oc=5"
+        },
+        {
+          "d": "moomoo.com",
+          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONm1yWDluY2dDTnFEczA4eXVndjdBWElZY0dkYjVhU0F2WEVKd0tOQkQ0dFVHbUFKTjAxeTJreDJkYTlHN25HR3g3T3E5VnJwdmFONXpJTGdRd0lEWlV6dW9KZmhWem5EX1lQN0o2ZmhiRXdwN0ZZNWdwZTdQaU9WTHhDWGhrSGdwdlYyeEtYTnAzay1uUkFKblU3eVJSVVV0SEx1VklKRFlkR2RUNmR0SHVHTzlKNFJXaVNpY2ZQYw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial Intelligence Gains Ground in the Beef Industry - RFD-TV",
+        "Trending Industry Today: Micron Technology Leads Gains In Artificial Intelligence Stocks"
       ]
     },
     {
