@@ -33,7 +33,7 @@
         }
       ],
       "srcTitles": [
-        "Judge says Trump admin still lacks evidence for Anthropic ‘supply chain risk’ label",
+        "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
         "At a hearing, a US judge says \"I don't see additional evidence\" from the Pentagon justifying its designation of Anthropic as a supply-chain risk (Maria Curi/Axios)"
       ]
     },
@@ -101,7 +101,7 @@
     },
     {
       "cat": "funding",
-      "signal": 40,
+      "signal": 37,
       "sources": 2,
       "ts": "2026-07-30T19:55:17.000Z",
       "writtenSources": 2,
@@ -174,6 +174,40 @@
         "The World Artificial Intelligence Cooperation Organisation is tailor-made for the Global South",
         "What is artificial intelligence? A definition from the South",
         "We Have an Artificial Intelligence Definition Problem in ICT4D"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-07-30T17:54:12.000Z",
+      "writtenSources": 2,
+      "h": "Pusan National University study rethinks how artificial intelligence supports investment decisions",
+      "s": "The study questions AI's role in investment decisions, signaling possible shifts in how AI will be applied to financial decision-making.",
+      "b": [
+        "Study conducted by Pusan National University on AI's role in supporting investment decisions.",
+        "Reported by EurekAlert and Eurasia Review, which carried the story.",
+        "The framing emphasizes that the study rethinks how artificial intelligence supports investment decisions."
+      ],
+      "body": [
+        "According to EurekAlert, a study from Pusan National University rethinks how artificial intelligence supports investment decisions.",
+        "Eurasia Review also covered the study with the same framing, noting that AI's role in supporting investment decisions is under reconsideration.",
+        "The available coverage does not provide methodological details, data, or quantified results, and it does not specify publication dates or authors beyond the outlets cited.",
+        "Both outlets present the study as a rethink rather than a summary of findings, and the provided material does not include additional context or numbers."
+      ],
+      "l": [
+        {
+          "d": "eurekalert.org",
+          "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ZVWZ0cnk3VUZCOWFoOWZsaXJnUnJIVldUTzZDenBlcUNJUks3b3BLNnRWNUFHZS02TGZkMmR2TXhRbXhhcnJvVURZTHlsZm5hcWZ6amJ2UWVWUmpv?oc=5"
+        },
+        {
+          "d": "eurasiareview.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLUl5VUhKdEhiaVhMWTZRNzN0allHTzBwTmlsQkw5RzI3RTdLcGxadjJtYlJRRlBtRzFJZ2FiY1M5U0ozc2dBUHJiXy1jc3JyeVBMeUtJOXJFbC1rYnRJYldvUFpSQWZXY0FwdmdkRXFWdWJCa2swdHdWRWVZT0hZaVdhb0ZTZElsYUd1SU5ZT0JrWThNdWVISm9VdWJ6YlpDS2lOTXNLTU16dFB2UnBWY0Nn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Pusan National University Study Rethinks How Artificial Intelligence Supports Investment Decisions",
+        "Study Rethinks How Artificial Intelligence Supports Investment Decisions"
       ]
     },
     {
@@ -280,7 +314,7 @@
     },
     {
       "cat": "funding",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-07-29T22:46:03.000Z",
       "writtenSources": 2,
