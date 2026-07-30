@@ -100,6 +100,43 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-07-30T19:55:17.000Z",
+      "writtenSources": 2,
+      "h": "The loss of Situational Awareness",
+      "s": "The collapse shows how quickly AI-focused bets can unwind and could reshape who controls AI exposure, as a high-profile fund liquidates and sells assets to Citadel after weeks of AI-stock weakness.",
+      "b": [
+        "Valued at about $45B at the start of July; after selling assets to Citadel, the fund’s value was reported around $10B (CNBC, via The Verge)",
+        "Largest holdings at end of Q1 included Nebius Group, Sandisk, Micron and CoreWeave; all four were down more than 35% this month",
+        "Fund staff totaled eight, with four investment professionals",
+        "Founder Leopold Aschenbrenner is a 24-year-old who built the fund to pursue AI bets and has overseen the run-up and subsequent sale of assets to Citadel"
+      ],
+      "body": [
+        "The Verge reports that Situational Awareness LP, a hedge fund focused on artificial intelligence bets, was founded by Leopold Aschenbrenner and operated with a small staff before selling most or all of its public stock portfolio to Ken Griffin’s Citadel after several down weeks for AI stocks.",
+        "CNBC, cited by The Verge, said the fund was worth about $45 billion at the start of July and roughly $10 billion after the asset sale to Citadel, highlighting the scale of the loss.",
+        "The fund’s largest holdings at the end of the first quarter were Nebius Group, Sandisk, Micron, and CoreWeave; all four had fallen more than 35% in the month, the coverage notes, underscoring the magnitude of the AI stock selloff.",
+        "The Verge describes Aschenbrenner, a 24-year-old whose firm aimed to act as a brain trust on AI, and notes the fund’s self-described mission in the wake of the downturn.",
+        "The New York Times later reported that Situational Awareness was rescued by rival Citadel, adding context to the consolidation of AI exposure amid market volatility.",
+        "Looking ahead, the coverage suggests more details are expected in the coming days as the situation unfolds and more reactions from market participants emerge."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/973467/ai-bet-situational-awareness-oops-stonks"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNUl1Wm5oZjM2QVNXVm1KUVE1clZhWDJ0YjdWeC1vcTRWTzZkNlM2TEpZT0tDU2k2dmtMYTU4UG52clpmajFlTUZ5SHo2ZDAzd09acENBN2YybE9oYjV1NnBWMjNVV1pkeERoZ2RTa0tENldCMWVBeTZlQTJvNFcwdTVsdk1IdW1NVEpJY2JGZ0NNckNsMVpMRFRDS00weEVjbEV0LQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The loss of Situational Awareness",
+        "A.I. Hedge Fund Situational Awareness Rescued by Rival Citadel"
+      ]
+    },
+    {
       "cat": "policy",
       "signal": 30,
       "sources": 3,
@@ -243,7 +280,7 @@
     },
     {
       "cat": "funding",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-07-29T22:46:03.000Z",
       "writtenSources": 2,
