@@ -2,8 +2,41 @@
   "date": "2026-07-30",
   "stories": [
     {
+      "cat": "products",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-07-30T15:00:59.000Z",
+      "writtenSources": 1,
+      "h": "Google unveils Gemini Robotics ER 2 as a high-level brain for robots",
+      "s": "ER 2's real-time reasoning and cross-robot coordination could accelerate real-world robotic tasks, but safety and reliability challenges will shape how widely it can be deployed",
+      "b": [
+        "ER 2 enables real-time spatial reasoning, multi-step task planning, and multi-robot collaboration",
+        "Available now via Gemini API, Google AI Studio, and private preview on Gemini Enterprise Agent Platform",
+        "Outperforms ER 1.6 in tool orchestration across real VLA, sim VLA, and human tele-op",
+        "Demonstrated with Boston Dynamics Spot to fetch a popcorn snack on command",
+        "Progress tracking uses five levels (0-20%, 20-40%, 40-60%, 60-80%, 80-100%) with 57.4% accuracy on progress classification"
+      ],
+      "body": [
+        "Google announced Gemini Robotics ER 2, a new model designed to act as a high-level brain for robots, enabling real-time spatial reasoning, multi-step task planning, and cross-robot collaboration.",
+        "The company describes ER 2 as capable of chatting with humans, understanding the physical world, and planning multi-step tasks, while handing off motor execution to lower-level Vision-Language-Action models and to user-defined tools. It can natively call tools like Google Search to fetch information, and is designed to let the robot think ahead while acting in the world.",
+        "Compared with Gemini Robotics ER 1.6, ER 2 represents a significant upgrade in video understanding and tool orchestration, with improvements demonstrated across real-world VLA, simulated VLA, and human tele-operation modes.",
+        "Google notes that ER 2 integrates into the Gemini Live API via a bidirectional streaming endpoint optimized for latency-sensitive tasks, enabling fluid orchestration of actions and robotics APIs as tasks unfold. A Boston Dynamics Spot demo shows ER 2 orchestrating Spot APIs, including navigation and manipulator movement, to fetch objects on command.",
+        "To support complex tasks, ER 2 introduces progress understanding through progress classification and moment finding. Progress is quantified on a five-level scale (0–20%, 20–40%, 40–60%, 60–80%, 80–100%), with reported 57.4% accuracy on progress classification, enabling real-time adjustment or retries without restarting workflows.",
+        "ER 2 is publicly available to developers via the Gemini API, Google AI Studio, and in private preview on the Gemini Enterprise Agent Platform, with example configurations and prompts provided to power physical AI tasks."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-robotics-er-2/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+        }
+      ],
+      "srcTitles": [
+        "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 42,
+      "signal": 38,
       "sources": 2,
       "ts": "2026-07-29T22:46:03.000Z",
       "writtenSources": 2,
@@ -34,8 +67,48 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-07-30T04:57:03.000Z",
+      "writtenSources": 3,
+      "h": "Global South reframes AI definitions and calls for cooperation",
+      "s": "Definitions of AI shape who gets access to funding, governance, and deployment benefits, so reframing AI terms with Global South perspectives matters for policy and implementation",
+      "b": [
+        "Outlets cited: universityworldnews.com, socialistchina.org, ictworks.org",
+        "Topics include redefining AI to reflect Global South perspectives and the World Artificial Intelligence Cooperation Organisation",
+        "ICT4D framing highlights a 'definition problem' in ICT4D"
+      ],
+      "body": [
+        "University World News published What is artificial intelligence? A definition from the South, signaling an interest in rethinking AI definitions from Global South perspectives.",
+        "SocialistChina.org argues the World Artificial Intelligence Cooperation Organisation is tailor-made for the Global South, framing international cooperation around a Global South-focused AI governance agenda.",
+        "ICTworks states there is an artificial intelligence definition problem in ICT4D, underscoring definitional ambiguity as ICT4D efforts scale.",
+        "Taken together, the three pieces frame ongoing debates about how AI should be defined and governed, and highlight the push for inclusive international cooperation that centers the Global South.",
+        "The coverage does not detail specific policy changes but emphasizes that definitional questions and the design of cooperation frameworks will influence future AI governance and ICT4D initiatives."
+      ],
+      "l": [
+        {
+          "d": "universityworldnews.com",
+          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zZEhqN21zWklTSVVnd0pKS1MxLUlhTW4tN1RQSkloTkstdWU0a2JQU2JrT0hqeHo2Z0N3NGliNWFQMlFmaEZtRG1yZHRhWXJGR1FfQUxtaDMtVk5TVS12ZVdseFJqMGViMEF2SFluNkJ0cjlnREMw?oc=5"
+        },
+        {
+          "d": "socialistchina.org",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGJWLWZHckpkbXVYdVRJSENQMDl5MUNicTdFNndfdUl5eFgzbFBqbHZ0S2duUFV4NGJzZG14TkNjVUNuT2gtaW9qLXZuZzM3SWhKeVZHRFluMmpFSjM1TF9EbnFGaWNjc0RyMzU5UnBjV1dFd3l6emc1dWF3X1lQNXluMElZR1RtSHhZd25NVEdXOVkycjRjZTV6N3Qyc0JvRW13VDNsY3pkaVliTVhhbTNJeDlvTUVQRjQwN2dQZHJlbi12SmhiN1BSOHY3QQ?oc=5"
+        },
+        {
+          "d": "ictworks.org",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOczBsNVcya19zXzQ5SVVRTGM3MF82Q0JRRjR1SzBoZmFDV3ppSzJvWVpyODN5bDA0Mjd6LXRaRzVnODVvMGVKQjB2TEswc1F1OGJ2eWtzWmNVQkRWbHJPOW15R2ZBY1hmX1lWcUFjX29vNnYzVENfVlVQSUUtUXVoUUlpaEJpZ0l6cTgxU1ZQR1pkdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "What is artificial intelligence? A definition from the South",
+        "The World Artificial Intelligence Cooperation Organisation is tailor-made for the Global South",
+        "We Have an Artificial Intelligence Definition Problem in ICT4D"
+      ]
+    },
+    {
       "cat": "research",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-07-30T10:15:19.000Z",
       "writtenSources": 1,
@@ -67,7 +140,7 @@
     },
     {
       "cat": "policy",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-07-29T22:35:01.000Z",
       "writtenSources": 2,
