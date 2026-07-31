@@ -2,6 +2,41 @@
   "date": "2026-07-31",
   "stories": [
     {
+      "cat": "models",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-07-31T04:42:00.000Z",
+      "writtenSources": 2,
+      "h": "MiniMax releases H3 video model for 2K 15-second clips with stereo sound",
+      "s": "Public access to H3 weights within days could let researchers and developers run the system outside MiniMax, speeding testing and expansion of high‑fidelity synthetic video capabilities.",
+      "b": [
+        "H3 can generate up to 15‑second clips in 2K resolution with native stereo sound.",
+        "H3 accepts inputs from text, images, video and audio.",
+        "MiniMax plans to release its weights within days.",
+        "MiniMax is a Chinese AI firm listed as 0100.HK."
+      ],
+      "body": [
+        "MiniMax, a Chinese AI firm listed as 0100.HK, released a new video-generation model, H3, that can process text, images, video and audio, according to Reuters.",
+        "The model is capable of generating clips up to 15 seconds in length at 2K resolution and with native stereo sound, the report adds.",
+        "Reuters notes that MiniMax plans to release the weights for H3 within days, which would allow researchers and developers outside the company to run and experiment with the model.",
+        "The rollout of H3 signals continued competition in AI video generation from Chinese firms, with Reuters covering the development and the imminent availability of the model weights, indicating broader access could follow soon."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260731/p3#a260731p3"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDQ3NVlFdGNsSGlVcmUxZzV3YnVWX1V4bHhYc0xjYk0weFRhQWNCRG9JTjB0TmszWkRLSkxYamx2bHFWUWZnUS1QN05obnBMWTlWUnJfUHRiTllNNTlsWGVfaTBQRml4R0Y3N01USlFBZmo0bFgyRHRZV2htU0tRakxJSjdJSU41UWNPbmljdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "MiniMax releases H3, a video model that generates up to 15-second clips in 2K resolution with native stereo sound, and plans to release its weights within days (Eduardo Baptista/Reuters)",
+        "China's MiniMax releases H3 video model"
+      ]
+    },
+    {
       "cat": "policy",
       "signal": 26,
       "sources": 2,
