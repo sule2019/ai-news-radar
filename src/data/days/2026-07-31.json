@@ -2,38 +2,124 @@
   "date": "2026-07-31",
   "stories": [
     {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-07-31T04:42:00.000Z",
-      "writtenSources": 2,
-      "h": "MiniMax releases H3 video model for 2K 15-second clips with stereo sound",
-      "s": "Public access to H3 weights within days could let researchers and developers run the system outside MiniMax, speeding testing and expansion of high‑fidelity synthetic video capabilities.",
+      "cat": "policy",
+      "signal": 81,
+      "sources": 48,
+      "ts": "2026-07-30T22:00:00.000Z",
+      "writtenSources": 48,
+      "h": "Elon Musk warns the rise of AI could be like summoning a demon",
+      "s": "Governance and safety frameworks in Europe and other jurisdictions are being advanced as AI capabilities grow, shaping the regulatory landscape and industry risk management.",
       "b": [
-        "H3 can generate up to 15‑second clips in 2K resolution with native stereo sound.",
-        "H3 accepts inputs from text, images, video and audio.",
-        "MiniMax plans to release its weights within days.",
-        "MiniMax is a Chinese AI firm listed as 0100.HK."
+        "OpenAI describes governance practices for Europe focused on safety, security, transparency, and provenance as the EU AI Act progresses.",
+        "GCC policy posted July 29, 2026 rejects legally significant contributions that include LLM-generated content, using a 15-line threshold for significance and noting that the policy will be revisited.",
+        "arXiv: What Does It Take to Detect an AI Agent? identifies a three-class detection framework (humans, bots, AI agents) and shows two features yielding 100% recall with precision 0.994; evasion experiments cover 2299 sessions across 10 seeds and 3 model families (22990 per-seed predictions).",
+        "arXiv: Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities analyzes 25,000 generated stories from 10 prompts across four other LLMs, finding mostly negative implicit biases.",
+        "arXiv: Can AI agents conduct open-ended AI research? reports six days and thousands of dollars of compute for shadow evaluations on two NeurIPS 2026 submissions, where agents engineering succeeded but progress toward the research questions was limited and the authors rejected the papers.",
+        "StatMechBench-v0 benchmarks six Ising-type problems to evaluate AI agents on physics-inspired tasks.",
+        "arXiv: When benchmark inferences do not compose discusses projectibility in AI evaluation, arguing that support for adjacent projections should be validated by alignment of endpoints and assumptions."
       ],
       "body": [
-        "MiniMax, a Chinese AI firm listed as 0100.HK, released a new video-generation model, H3, that can process text, images, video and audio, according to Reuters.",
-        "The model is capable of generating clips up to 15 seconds in length at 2K resolution and with native stereo sound, the report adds.",
-        "Reuters notes that MiniMax plans to release the weights for H3 within days, which would allow researchers and developers outside the company to run and experiment with the model.",
-        "The rollout of H3 signals continued competition in AI video generation from Chinese firms, with Reuters covering the development and the imminent availability of the model weights, indicating broader access could follow soon."
+        "The coverage surrounding the widely cited warning about AI risks includes a range of governance and safety activities in Europe and beyond, as well as ongoing research into evaluation, detection, and bias. OpenAI outlines how its safety, security, transparency, and provenance practices support responsible AI governance in Europe, with the EU AI Act described as advancing the work, according to the company’s statements.",
+        "A separate GCC policy post from July 29, 2026 details the project’s stance on LLM-generated content, clarifying that the project will decline legally significant contributions that include or derive from such content, using a definition tied to a roughly 15-line threshold for significance. The policy also notes that LLM outputs may be used for research, analysis, bug discovery, and patch review as long as those outputs are not included in contributions, and it signals that the policy will evolve over time.",
+        "Research and preprint coverage from arXiv highlight ongoing work on AI evaluation and safety. One paper on detecting AI agents shows a three-class framework for distinguishing humans, bots, and AI agents; it finds that two behavioral features, mouse_event_rate and teleport_click_ratio, can yield 100% recall across evasion levels with high precision, in tests spanning 2299 evasion sessions across 10 seeds and 3 model families (22990 per-seed predictions).",
+        "Another arXiv study investigates implicit bias in LLM-based chat AI toward people with intellectual disabilities, analyzing 25,000 generated stories from 10 prompts across four LLMs and finding evidence of mostly negative implicit biases such as infantilization and paternalism.",
+        "A third arXiv piece reports on shadow evaluations of two unpublished NeurIPS submissions, showing that AI agents can do the engineering work but struggle with core research questions, and identifying recurring failure modes.",
+        "In physics-inspired AI benchmarking, StatMechBench-v0 is described as a six-problem benchmark for Ising-type tasks to probe AI agent reasoning in structured domains, while other coverage discusses issues of benchmark composition and projectibility in AI evaluation."
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260731/p3#a260731p3"
+          "d": "openai.com",
+          "u": "https://openai.com/index/advancing-responsible-ai-across-europe"
         },
         {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDQ3NVlFdGNsSGlVcmUxZzV3YnVWX1V4bHhYc0xjYk0weFRhQWNCRG9JTjB0TmszWkRLSkxYamx2bHFWUWZnUS1QN05obnBMWTlWUnJfUHRiTllNNTlsWGVfaTBQRml4R0Y3N01USlFBZmo0bFgyRHRZV2htU0tRakxJSjdJSU41UWNPbmljdw?oc=5"
+          "d": "blog.jim-nielsen.com",
+          "u": "https://blog.jim-nielsen.com/2026/ai-aesthetic/"
+        },
+        {
+          "d": "lwn.net",
+          "u": "https://lwn.net/Articles/1086041/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2607.26159"
+        },
+        {
+          "d": "+44"
         }
       ],
       "srcTitles": [
-        "MiniMax releases H3, a video model that generates up to 15-second clips in 2K resolution with native stereo sound, and plans to release its weights within days (Eduardo Baptista/Reuters)",
-        "China's MiniMax releases H3 video model"
+        "Advancing responsible AI across Europe",
+        "The AI Aesthetic",
+        "GCC steering committee announces AI policy",
+        "When benchmark inferences do not compose: Projectibility in AI evaluation"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 36,
+      "sources": 3,
+      "ts": "2026-07-31T14:31:58.000Z",
+      "writtenSources": 3,
+      "h": "China and U.S. AI race reshapes economy and security",
+      "s": "The race determines which country sets AI standards and policy priorities that affect jobs, national security, and critical infrastructure.",
+      "b": [
+        "Outlets WSBT, Fox56, and KRCR published identical coverage with the headline about China–U.S. AI race shaping the economy and security.",
+        "The stories frame the AI competition as having real implications for the economy and security, not just technology headlines.",
+        "The coverage does not include specific dates or prices in the presented material."
+      ],
+      "body": [
+        "Three local outlets — WSBT, Fox56, and KRCR — ran stories with the same headline about the China-U.S. artificial intelligence race reshaping the economy and security.",
+        "The pieces describe a strategic AI race between China and the United States and frame it as something that could influence economic policy and national security considerations, according to the local outlets.",
+        "The stories emphasize the broad stakes of AI leadership, focusing on macro-level implications for policy and security rather than technical benchmarks or product details.",
+        "Authorities and policymakers are urged to watch how this competition evolves and how it may affect global tech leadership and security planning in the near term."
+      ],
+      "l": [
+        {
+          "d": "wsbt.com",
+          "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcDZ6RjUwM0FJQS1HN3JDdUticU5GV2hsRmJXa1lJcDBWeTBscWdQSXhaaGRNM0ttenBUbjhLTjk3S1N3TzhjOHZFNXdrQlZaa3NKMEZvN3J2UzktMnRyVkpGLUpfek9SV2g3bTBIQ0FiLXl5eVo5b3NoNnhXWlBJWFZNU1hwOE52Z0Nvc0JZdnNsN0pQU3p6OHEwd0kyaDhzZFZiaDJQdk02dVpmSXpzTVFHNzlrQWFFUjhhaFN0TG5NakZiYXROdjI5S2xqNDl4Yy1jRXdxN3VLcTBHMF83dXcwSWJMVGhzY2tMTC15ZlVzaWJrempr?oc=5"
+        },
+        {
+          "d": "fox56.com",
+          "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWTNlLXNUNktueFFYdnRja3U3MWJOWEFvdW5sMFY2bkR5RDVfLV81VFpnLXcyTEhBSTdnSVNuWUtReTR4bWZ5X1dhdDNPMERCaXJQTDdJR194dzB0c3ctempLRzlRYWNidFBUb2VkQUh3X1hiRTNpSmt3MERTMTZHZ1ZXTzhQNFhsMEFrMF9xbFZmY3ZMUm5fUnRRT1cwT3JINU1QMWVTMlpZbGtfb2MzOEQ5ZUNCQjZvaTZVLVNaaHJNanVOTElYWDFsRC1jOV90S3JMOEhFSkZETk0tcS13Uzc2eWNjQQ?oc=5"
+        },
+        {
+          "d": "krcrtv.com",
+          "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWkpUM2ZpQzRfQW1lVERiNER0RnZ0eldNeDQtZFdkNjFJZmU1Sy1feWV0Mm53UmpZRGhhcFc0U2p4NVVZVzc0cDNsYVloYzF0SmhGMjYteWNSSXNQUXlaVzQzaG0wSjBNbmdzYkdJMzZpWlI1aHZtN1pmNmExakxIanI4MzQ2ejBRVGExZWZOeUdsSFQxMmRUTV91SC05aEFsUnh4b25BdkFBeEI1alBZMUFXbG1HdmNkMlc5U2hLd0N6RG9WLVdkMTVEZkFhZFFGY1FPRDBmcnF3NkZrekQ2TzdIOFVETlE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "China, U.S. in artificial intelligence race shaping the economy & security",
+        "China, U.S. in artificial intelligence race shaping the economy & security",
+        "China, U.S. in artificial intelligence race shaping the economy & security"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-07-31T15:00:00.000Z",
+      "writtenSources": 1,
+      "h": "OpenAI outlines plan for abundant intelligence",
+      "s": "A full-stack approach to AI could lower costs and widen use across industries, changing who builds and adopts AI tools.",
+      "b": [
+        "Source: OpenAI page titled Building abundant intelligence describing a full-stack approach to making advanced AI more capable, affordable, and widely useful.",
+        "The emphasis is on capability, affordability, and broad accessibility as core aims.",
+        "No price figures, dates, or specific rollout timelines are provided in the coverage."
+      ],
+      "body": [
+        "OpenAI presents a statement under the banner Building abundant intelligence that outlines a full-stack approach to making advanced AI more capable, affordable, and widely useful.",
+        "The description highlights three core objectives: increasing capability, reducing costs, and broadening the utility of AI across sectors, according to the OpenAI posting.",
+        "This framing positions AI deployment as something that should be more accessible to a wider range of users and applications, signaling a strategic push to scale both technology and practical adoption.",
+        "Industry observers may watch how this approach translates into new tools, pricing models, and available APIs or platforms as the company pursues broader use cases and partner ecosystems."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/building-abundant-intelligence"
+        }
+      ],
+      "srcTitles": [
+        "Building abundant intelligence"
       ]
     },
     {
@@ -72,36 +158,38 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 26,
+      "cat": "models",
+      "signal": 22,
       "sources": 2,
-      "ts": "2026-07-30T22:00:00.000Z",
+      "ts": "2026-07-31T04:42:00.000Z",
       "writtenSources": 2,
-      "h": "Elon Musk warns the rise of AI could be like summoning a demon",
-      "s": "Musk’s stark framing keeps AI safety and governance in the public eye as machine intelligence grows, influencing how readers think about risks and oversight.",
+      "h": "MiniMax releases H3 video model for 2K 15-second clips with stereo sound",
+      "s": "Public access to H3 weights within days could let researchers and developers run the system outside MiniMax, speeding testing and expansion of high‑fidelity synthetic video capabilities.",
       "b": [
-        "Quote attributed to Elon Musk: 'With artificial intelligence, we are summoning the demon.'",
-        "Coverage published by TechRadar and Yahoo Tech highlighting the quote as the day’s quote of the day on the rise of machine intelligence",
-        "The articles frame the remark as a warning about AI’s rapid development without detailing any follow-up actions or policy proposals"
+        "H3 can generate up to 15‑second clips in 2K resolution with native stereo sound.",
+        "H3 accepts inputs from text, images, video and audio.",
+        "MiniMax plans to release its weights within days.",
+        "MiniMax is a Chinese AI firm listed as 0100.HK."
       ],
       "body": [
-        "Elon Musk described the rise of artificial intelligence with the line 'With artificial intelligence, we are summoning the demon,' a remark highlighted by TechRadar and Yahoo Tech as the quote of the day.",
-        "TechRadar and Yahoo Tech present the remark as a stark warning about the rapid ascent of machine intelligence, tying the quote to broader discussions about AI risk.",
-        "Neither outlet's coverage details any policy proposals or subsequent actions tied to the remark; the focus is on the notoriety and provocative nature of the quote itself, rather than a concrete roadmap for governance or safety measures."
+        "MiniMax, a Chinese AI firm listed as 0100.HK, released a new video-generation model, H3, that can process text, images, video and audio, according to Reuters.",
+        "The model is capable of generating clips up to 15 seconds in length at 2K resolution and with native stereo sound, the report adds.",
+        "Reuters notes that MiniMax plans to release the weights for H3 within days, which would allow researchers and developers outside the company to run and experiment with the model.",
+        "The rollout of H3 signals continued competition in AI video generation from Chinese firms, with Reuters covering the development and the imminent availability of the model weights, indicating broader access could follow soon."
       ],
       "l": [
         {
-          "d": "techradar.com",
-          "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZ2dVZ0lBazREcmQ4Z1BOSmMybmptVWRHeGZyYlZDNnR4TldOVTZ0RlZpdk5qVTdieThnVzdzMmk3SGRPemF3WjVsSWhmZnUwNmV3akZpN3NyTU5WWWtvVktpS1RzeE93WXVDdERlZ1c0ZXJnM1dtT2s1cW1pUEEzNG5CMGxTMTh2dDRONHUxdVh1TS0tODU3VUdUUlNUc0kwb2I4T0dhcno4alpHNG9yZ0MzbDB3Vk56MlJjcHZhQWVwdEJyOHJzUjNUaVRURE1iZjNkSENjTjhObXpTaVh1UTk2Zy1IUQ?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260731/p3#a260731p3"
         },
         {
-          "d": "tech.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYW9oQ2pTU0E1ZEQxNDZkclBrY01JcERYZVlqcjFpdlNMNjNyaVEzdUpPeE1LT2UwSjhDUDlteXp6WmdBTTF2Zmd5RkJLcEN2Ui1Bc2lOZVc2Q2NsWTRQakNtYUhJYTRHdHFUV0JLN1BFUWFzNF9tcEdKbkE1bE9yMnhPQjdZaGdjdDBUX3JnTFgzdXhJVzRHOC04MA?oc=5"
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNDQ3NVlFdGNsSGlVcmUxZzV3YnVWX1V4bHhYc0xjYk0weFRhQWNCRG9JTjB0TmszWkRLSkxYamx2bHFWUWZnUS1QN05obnBMWTlWUnJfUHRiTllNNTlsWGVfaTBQRml4R0Y3N01USlFBZmo0bFgyRHRZV2htU0tRakxJSjdJSU41UWNPbmljdw?oc=5"
         }
       ],
       "srcTitles": [
-        "'With artificial intelligence, we are summoning the demon' — quote of the day by Elon Musk on the rise of machine intelligence",
-        "'With artificial intelligence, we are summoning the demon' — quote of the day by Elon Musk on the rise of m..."
+        "MiniMax releases H3, a video model that generates up to 15-second clips in 2K resolution with native stereo sound, and plans to release its weights within days (Eduardo Baptista/Reuters)",
+        "China's MiniMax releases H3 video model"
       ]
     }
   ]
