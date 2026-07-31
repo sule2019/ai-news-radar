@@ -4,27 +4,23 @@
     {
       "cat": "policy",
       "signal": 81,
-      "sources": 46,
+      "sources": 51,
       "ts": "2026-07-30T22:00:00.000Z",
-      "writtenSources": 48,
+      "writtenSources": 51,
       "h": "Elon Musk warns the rise of AI could be like summoning a demon",
-      "s": "Governance and safety frameworks in Europe and other jurisdictions are being advanced as AI capabilities grow, shaping the regulatory landscape and industry risk management.",
+      "s": "With Europe tightening AI governance and new policy frameworks under debate, governance decisions will reshape how AI is developed, shared, and regulated across research, industry, and public policy.",
       "b": [
-        "OpenAI describes governance practices for Europe focused on safety, security, transparency, and provenance as the EU AI Act progresses.",
-        "GCC policy posted July 29, 2026 rejects legally significant contributions that include LLM-generated content, using a 15-line threshold for significance and noting that the policy will be revisited.",
-        "arXiv: What Does It Take to Detect an AI Agent? identifies a three-class detection framework (humans, bots, AI agents) and shows two features yielding 100% recall with precision 0.994; evasion experiments cover 2299 sessions across 10 seeds and 3 model families (22990 per-seed predictions).",
-        "arXiv: Identifying Implicit Bias in LLM-based Chat AI Toward People with Intellectual Disabilities analyzes 25,000 generated stories from 10 prompts across four other LLMs, finding mostly negative implicit biases.",
-        "arXiv: Can AI agents conduct open-ended AI research? reports six days and thousands of dollars of compute for shadow evaluations on two NeurIPS 2026 submissions, where agents engineering succeeded but progress toward the research questions was limited and the authors rejected the papers.",
-        "StatMechBench-v0 benchmarks six Ising-type problems to evaluate AI agents on physics-inspired tasks.",
-        "arXiv: When benchmark inferences do not compose discusses projectibility in AI evaluation, arguing that support for adjacent projections should be validated by alignment of endpoints and assumptions."
+        "OpenAI describes governance, safety, transparency, and provenance practices for Europe as the EU AI Act advances.",
+        "GCC steering committee adopted an AI contributions policy that bars legally significant contributions derived from LLM-generated content, using a threshold of about 15 lines of code/text.",
+        "Policy posts related to AI governance were posted on Jul 29, 2026 (UTC), with multiple public comments and responses.",
+        "arXiv papers cited address AI evaluation, agent detection, and open-ended AI research, highlighting ongoing research into reliability, verification, and accountability."
       ],
       "body": [
-        "The coverage surrounding the widely cited warning about AI risks includes a range of governance and safety activities in Europe and beyond, as well as ongoing research into evaluation, detection, and bias. OpenAI outlines how its safety, security, transparency, and provenance practices support responsible AI governance in Europe, with the EU AI Act described as advancing the work, according to the company’s statements.",
-        "A separate GCC policy post from July 29, 2026 details the project’s stance on LLM-generated content, clarifying that the project will decline legally significant contributions that include or derive from such content, using a definition tied to a roughly 15-line threshold for significance. The policy also notes that LLM outputs may be used for research, analysis, bug discovery, and patch review as long as those outputs are not included in contributions, and it signals that the policy will evolve over time.",
-        "Research and preprint coverage from arXiv highlight ongoing work on AI evaluation and safety. One paper on detecting AI agents shows a three-class framework for distinguishing humans, bots, and AI agents; it finds that two behavioral features, mouse_event_rate and teleport_click_ratio, can yield 100% recall across evasion levels with high precision, in tests spanning 2299 evasion sessions across 10 seeds and 3 model families (22990 per-seed predictions).",
-        "Another arXiv study investigates implicit bias in LLM-based chat AI toward people with intellectual disabilities, analyzing 25,000 generated stories from 10 prompts across four LLMs and finding evidence of mostly negative implicit biases such as infantilization and paternalism.",
-        "A third arXiv piece reports on shadow evaluations of two unpublished NeurIPS submissions, showing that AI agents can do the engineering work but struggle with core research questions, and identifying recurring failure modes.",
-        "In physics-inspired AI benchmarking, StatMechBench-v0 is described as a six-problem benchmark for Ising-type tasks to probe AI agent reasoning in structured domains, while other coverage discusses issues of benchmark composition and projectibility in AI evaluation."
+        "The collection of coverage tied to the headline illustrates a broad, cross-cutting look at AI governance, safety, and research as regulatory and governance discussions intensify in multiple jurisdictions.",
+        "OpenAI outlines its approach to responsible AI governance in Europe, including safety, security, transparency, and provenance practices, with the note that work will continue as the EU AI Act progresses.",
+        "A separate policy-focused report from GCC’s steering committee describes an AI contributions policy that would decline legally significant contributions that are generated by or derived from large language models, using a definition of legally significant that centers on roughly 15 lines of code or text. The policy permits uses such as research and bug discovery so long as the output is not included in contributions, and it notes that the policy will evolve over time with periodic review.",
+        "In parallel, coverage includes discussions from a Reddit thread about AI/ML career prospects and several arXiv papers that probe AI evaluation, detection of AI agents, and the potential for AI to conduct open-ended research, illustrating the breadth of ongoing work and scrutiny in the field.",
+        "Taken together, the materials underscore how governance, safety, and verification are becoming central to AI development, deployment, and evaluation as the AI landscape grows more complex and regulated."
       ],
       "l": [
         {
@@ -40,24 +36,24 @@
           "u": "https://lwn.net/Articles/1086041/"
         },
         {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2607.26159"
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1vbwp9m/should_i_start_learning_aiml_currently_third_year/"
         },
         {
-          "d": "+42"
+          "d": "+47"
         }
       ],
       "srcTitles": [
         "Advancing responsible AI across Europe",
         "The AI Aesthetic",
         "GCC steering committee announces AI policy",
-        "When benchmark inferences do not compose: Projectibility in AI evaluation"
+        "Should I start learning AI/ML (currently third year 2nd sem stud) because i do have genuine interest in this domain but I keep watching these reels that Ai bubble burst is about to burst and all, will it affect the job market for this domain as well? [D]"
       ]
     },
     {
       "cat": "policy",
-      "signal": 38,
-      "sources": 4,
+      "signal": 33,
+      "sources": 3,
       "ts": "2026-07-31T14:31:58.000Z",
       "writtenSources": 3,
       "h": "China and U.S. AI race reshapes economy and security",
@@ -75,10 +71,6 @@
       ],
       "l": [
         {
-          "d": "komonews.com",
-          "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPU2dCc1htZnhHQlAyTTNlTTlKbE9RaXV0MjlpalJfYk9JTWxnUXNsSEJFRU41Q2tDZUE3SVJvaE1nVUlLOEFrSUpPSVhKMklnQWxWVkdMSExWRlJDd3cyUjNXWlhpU2gwUUJOWEduTDVpcDlkU05mTTNyUXZkYTF3U2hTdVRYS1laMnJBb0FCM2xBVFdUV2ZIbzBOeGRzM241ZEU2TkNIUGdjSXBwZE9QZUFTa2QwbWtWczY4MzVJaTdFX3BRYTRyU1NxWllyVGlWcjgxUjFwX3o2RWpiYnk1MXJ6eHR2TWhWeHVwdnBLb0E2Mkt5SnhzYjVOYjg?oc=5"
-        },
-        {
           "d": "wsbt.com",
           "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcDZ6RjUwM0FJQS1HN3JDdUticU5GV2hsRmJXa1lJcDBWeTBscWdQSXhaaGRNM0ttenBUbjhLTjk3S1N3TzhjOHZFNXdrQlZaa3NKMEZvN3J2UzktMnRyVkpGLUpfek9SV2g3bTBIQ0FiLXl5eVo5b3NoNnhXWlBJWFZNU1hwOE52Z0Nvc0JZdnNsN0pQU3p6OHEwd0kyaDhzZFZiaDJQdk02dVpmSXpzTVFHNzlrQWFFUjhhaFN0TG5NakZiYXROdjI5S2xqNDl4Yy1jRXdxN3VLcTBHMF83dXcwSWJMVGhzY2tMTC15ZlVzaWJrempr?oc=5"
         },
@@ -94,13 +86,41 @@
       "srcTitles": [
         "China, U.S. in artificial intelligence race shaping the economy & security",
         "China, U.S. in artificial intelligence race shaping the economy & security",
-        "China, U.S. in artificial intelligence race shaping the economy & security",
         "China, U.S. in artificial intelligence race shaping the economy & security"
       ]
     },
     {
-      "cat": "products",
+      "cat": "policy",
       "signal": 30,
+      "sources": 1,
+      "ts": "2026-07-31T17:15:28.667Z",
+      "writtenSources": 1,
+      "h": "OpenAI disrupts Cambodia-based scam operation using ChatGPT",
+      "s": "The incident shows how AI tools can be weaponized in scams, signaling a need for stronger safeguards, verification, and threat monitoring as AI tools scale.",
+      "b": [
+        "Cambodia-based scam operation leveraged ChatGPT to back up investment, romance, gambling, and impersonation schemes.",
+        "OpenAI disrupted the operation, highlighting real-world risks of AI-enabled scams.",
+        "The case underscores the urgency of safety safeguards and user verification as AI-assisted schemes proliferate."
+      ],
+      "body": [
+        "OpenAI announced that it disrupted a Cambodia-based scam operation that used ChatGPT to support a range of deceptive schemes.",
+        "The operation employed the AI model to bolster conversations around investments, romance, gambling, and impersonation, making the scams appear more credible to targets.",
+        "The coverage provides no further operational details, but the incident illustrates how widely accessible AI tools can be exploited to carry out complex, multi-faceted scams.",
+        "This incident adds to ongoing concerns about the misuse of AI tools and the need for safeguards, monitoring, and user education as such technologies become more capable."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation"
+        }
+      ],
+      "srcTitles": [
+        "Disrupting a Criminal Scam Operation"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 27,
       "sources": 1,
       "ts": "2026-07-31T15:00:00.000Z",
       "writtenSources": 1,
@@ -129,7 +149,7 @@
     },
     {
       "cat": "research",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-07-31T04:00:00.000Z",
       "writtenSources": 2,
@@ -163,42 +183,8 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-07-30T22:00:00.000Z",
-      "writtenSources": 2,
-      "h": "Elon Musk warns about AI with the quote \"With artificial intelligence, we are summoning the demon\"",
-      "s": "The quote encapsulates a high-stakes AI safety and governance debate that followers will watch for signals from industry leaders and policymakers.",
-      "b": [
-        "Quote attributed to Elon Musk: \"With artificial intelligence, we are summoning the demon.\"",
-        "TechRadar and Yahoo Tech publish this as a \"quote of the day\" on the rise of machine intelligence.",
-        "Yahoo Tech’s headline snippet appears truncated in the provided coverage as \"on the rise of m...\""
-      ],
-      "body": [
-        "TechRadar published coverage centered on Elon Musk's remark about artificial intelligence, framing the line as a \"quote of the day\" and tying it to the rise of machine intelligence.",
-        "Yahoo Tech also covered the remark in a similar fashion, using the same attributed quote in a format that highlights it as a notable takeaway on AI's progression.",
-        "Neither article provides additional context about when Musk said the line or where the remark originated, focusing instead on presenting it as a notable comment from a prominent tech figure.",
-        "The coverage underscores ongoing attention to Musk's views on AI and the broader public discourse about AI safety and governance, without adding new data or corroborating details beyond the quoted line and its framing by the two outlets."
-      ],
-      "l": [
-        {
-          "d": "techradar.com",
-          "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZ2dVZ0lBazREcmQ4Z1BOSmMybmptVWRHeGZyYlZDNnR4TldOVTZ0RlZpdk5qVTdieThnVzdzMmk3SGRPemF3WjVsSWhmZnUwNmV3akZpN3NyTU5WWWtvVktpS1RzeE93WXVDdERlZ1c0ZXJnM1dtT2s1cW1pUEEzNG5CMGxTMTh2dDRONHUxdVh1TS0tODU3VUdUUlNUc0kwb2I4T0dhcno4alpHNG9yZ0MzbDB3Vk56MlJjcHZhQWVwdEJyOHJzUjNUaVRURE1iZjNkSENjTjhObXpTaVh1UTk2Zy1IUQ?oc=5"
-        },
-        {
-          "d": "tech.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYW9oQ2pTU0E1ZEQxNDZkclBrY01JcERYZVlqcjFpdlNMNjNyaVEzdUpPeE1LT2UwSjhDUDlteXp6WmdBTTF2Zmd5RkJLcEN2Ui1Bc2lOZVc2Q2NsWTRQakNtYUhJYTRHdHFUV0JLN1BFUWFzNF9tcEdKbkE1bE9yMnhPQjdZaGdjdDBUX3JnTFgzdXhJVzRHOC04MA?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "'With artificial intelligence, we are summoning the demon' — quote of the day by Elon Musk on the rise of machine intelligence",
-        "'With artificial intelligence, we are summoning the demon' — quote of the day by Elon Musk on the rise of m..."
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-07-31T04:42:00.000Z",
       "writtenSources": 2,
