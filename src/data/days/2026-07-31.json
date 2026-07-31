@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 34,
+      "signal": 30,
       "sources": 2,
       "ts": "2026-07-31T04:42:00.000Z",
       "writtenSources": 2,
@@ -34,6 +34,41 @@
       "srcTitles": [
         "MiniMax releases H3, a video model that generates up to 15-second clips in 2K resolution with native stereo sound, and plans to release its weights within days (Eduardo Baptista/Reuters)",
         "China's MiniMax releases H3 video model"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-07-31T04:00:00.000Z",
+      "writtenSources": 2,
+      "h": "ArXiv preprint uses images and hybrid deep learning to assess dermal exposure",
+      "s": "If validated, the approach could change how dermal exposure is quantified in safety research by deriving metrics from images, accelerating risk assessment workflows.",
+      "b": [
+        "Title: A Picture Says Thousands of Words — Harnessing Dermal Exposure Data from Images through Hybrid Deep Learning for Enhanced Safety Assessment",
+        "Lead author: Hua Qian plus four other authors",
+        "Journal reference: The Synergist, October 2024",
+        "arXiv submission: July 28, 2026, 18:20:20 UTC; file size 618 KB; arXiv-issued DOI via DataCite pending"
+      ],
+      "body": [
+        "A new arXiv preprint titled 'A Picture Says Thousands of Words' presents work described as harnessing dermal exposure data from images through a hybrid deep learning approach for enhanced safety assessment.",
+        "The listing identifies Hua Qian as the lead author with four additional authors contributing to the work. The preprint notes a journal reference to The Synergist from October 2024.",
+        "According to the arXiv listing, the paper was submitted on Tue, 28 Jul 2026 18:20:20 UTC and the submission package is 618 KB in size. The listing also mentions an arXiv-issued DOI via DataCite that is pending registration.",
+        "A link labeled Access Paper indicates a PDF version of the paper is available for viewing. The context surrounding the paper on arXiv places it within the cs-related preprint ecosystem and highlights its focus on image-derived dermal exposure data using hybrid deep learning for safety."
+      ],
+      "l": [
+        {
+          "d": "news.wm.edu",
+          "u": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96bFpwdUEyOEVTNE1HUmFDVzZWQXQ4b1QwWlFzT29vWkpoOWlCS0ZwN19KaFRNWE9INm4wZWp1amotSHg1ZTN1ZmJULXRXcFBFSUhqSg?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2607.26170"
+        }
+      ],
+      "srcTitles": [
+        "Wise words",
+        "A Picture Says Thousands of Words"
       ]
     },
     {
