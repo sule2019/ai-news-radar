@@ -2,8 +2,40 @@
   "date": "2026-08-01",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-08-01T19:50:38.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "s": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "b": [
+        "techcrunch.com: Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+        "techmeme.com: US judge refuses xAI's request to stop a Minnesota law banning \"nudify\" apps, noting the request came only three days before the law was to take effect (NBC News)"
+      ],
+      "body": [
+        "techcrunch.com: Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+        "techmeme.com: NBC News : US judge refuses xAI's request to stop a Minnesota law banning nudify apps, noting the request came only three days before the law was to take effect The ruling clears the way for the first-in-the-nation law to go into effect on Saturday. A federal judge on Friday denied"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260801/p16#a260801p16"
+        }
+      ],
+      "srcTitles": [
+        "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+        "US judge refuses xAI's request to stop a Minnesota law banning \"nudify\" apps, noting the request came only three days before the law was to take effect (NBC News)"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-08-01T13:15:43.000Z",
       "writtenSources": 2,
@@ -35,8 +67,8 @@
     },
     {
       "cat": "models",
-      "signal": 24,
-      "sources": 1,
+      "signal": 36,
+      "sources": 2,
       "ts": "2026-08-01T00:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
@@ -52,9 +84,14 @@
         {
           "d": "openai.com",
           "u": "https://openai.com/index/ten-advances-in-mathematics"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics/#atom-everything"
         }
       ],
       "srcTitles": [
+        "Ten advances in mathematics and theoretical computer science",
         "Ten advances in mathematics and theoretical computer science"
       ]
     }
