@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 64,
+      "signal": 61,
       "sources": 2,
       "ts": "2026-08-01T19:50:38.000Z",
       "writtenSources": 2,
@@ -34,38 +34,6 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 36,
-      "sources": 2,
-      "ts": "2026-08-01T13:15:43.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-      "s": "Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies The Motley Fool",
-      "b": [
-        "fool.com: Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-        "aol.com: Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies"
-      ],
-      "body": [
-        "fool.com: Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies The Motley Fool",
-        "aol.com: Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies AOL.com"
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMThfSkRjRHU0a1V0bkhZZVJNMFE5dU1PX0s4ZC1xdWNBQU5qUlRrSVFDQ2RiZ3oycjA3Q2F2MjJyM3lMTjhlVTFxRnd4Qld4dW44WVN1MFhELWRKRXRqbm9KdjZjOFlqcVBqTnpJMXNxN2x5Y0F3NDJXTHU1OHhlUjEtLTRMNjh0eEtCMUQ2YXZVQVg3UmozYzFmbWw3WXBKaWRkNm8zMGFNbzluOVlTSWpMajdET0tlcjVyVkxoMHBvdUNCZ0pQSXl5NUtfblZQb044RTJ1UGtjT21Zc3BLOXkxWEFvNkR6bVcw?oc=5"
-        },
-        {
-          "d": "aol.com",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRm5lQm5sZE9ZcWFNVzBBNUthWWlkZDVQbGtJd2E3Y3dDZUsyNnlRMUIwempCbW93SjlITFJ5SHlkWTh0aFBCYm5wMHc5dE1mRjZSYllqcHZ2XzV4V3hQV0I0U3BZdlZlRWx5Wm5HQlBMVU80bTA1NzBDbTNqdHJnRWZiNA?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies",
-        "Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 36,
       "sources": 2,
@@ -93,6 +61,38 @@
       "srcTitles": [
         "Ten advances in mathematics and theoretical computer science",
         "Ten advances in mathematics and theoretical computer science"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-08-01T13:15:43.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+      "s": "Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies The Motley Fool",
+      "b": [
+        "fool.com: Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+        "aol.com: Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies"
+      ],
+      "body": [
+        "fool.com: Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies The Motley Fool",
+        "aol.com: Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies AOL.com"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMThfSkRjRHU0a1V0bkhZZVJNMFE5dU1PX0s4ZC1xdWNBQU5qUlRrSVFDQ2RiZ3oycjA3Q2F2MjJyM3lMTjhlVTFxRnd4Qld4dW44WVN1MFhELWRKRXRqbm9KdjZjOFlqcVBqTnpJMXNxN2x5Y0F3NDJXTHU1OHhlUjEtLTRMNjh0eEtCMUQ2YXZVQVg3UmozYzFmbWw3WXBKaWRkNm8zMGFNbzluOVlTSWpMajdET0tlcjVyVkxoMHBvdUNCZ0pQSXl5NUtfblZQb044RTJ1UGtjT21Zc3BLOXkxWEFvNkR6bVcw?oc=5"
+        },
+        {
+          "d": "aol.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRm5lQm5sZE9ZcWFNVzBBNUthWWlkZDVQbGtJd2E3Y3dDZUsyNnlRMUIwempCbW93SjlITFJ5SHlkWTh0aFBCYm5wMHc5dE1mRjZSYllqcHZ2XzV4V3hQV0I0U3BZdlZlRWx5Wm5HQlBMVU80bTA1NzBDbTNqdHJnRWZiNA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+        "Alphabet vs. IBM: What Diverging Revenue Trends Tell Investors About These Artificial Intelligence Companies"
       ]
     }
   ]
