@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 61,
-      "sources": 4,
+      "signal": 75,
+      "sources": 24,
       "ts": "2026-08-03T14:35:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -34,8 +34,11 @@
           "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW5rV0FSWFJPMHJTa2s5YWJnRGgxQkY2aHhidkVJM3NxMWxSOTNPTFhaSElOZkpuV3lENHBoMm0wYnh5bW1GOGg3LXJwWDgzMXF1STFLN3lGZGFOVFdzOE9EYW1zbTUwU3p4WnFBSHlzdlRnNFJ1MFBXRmc1Y0VTTDdhdHVwN0pHRWhkX3VpNU5qcmfSAZgBQVVfeXFMUDEzVmFWTS1NWEpvZVdZZzdyQ1RKalk0cGVqYlY2dGZiU1Nhdm51ZmpZd0duUUJOM3A1M0w2Q0UzbUlVZ1VYYkQ0R0Q3RUR0THoyVGs5WTMwQ2ZNeVZYSkZhYklXRTBMaDNNNEFNd085ZTF4ZjY2QXRUWklUMWIycU5nbTNhRTQ1TkJpbER2VFpIczFJNHRjMmY?oc=5"
         },
         {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOLTgzdk9HRnJQM2xpNHh0MFVkQ2RQM3N3OGd5R3E3QTZXU1JyeEF1VUtPYjRoS2hCa2hGeUhvUWhDRzluNUlRQnBJQkpjbTB0UXRJWW5obkJIYjBHSVVrRVlydWVldllFSDlLS0tYUWZaTC1SUHhKaWhuMGRHZmZuQm1WUnZZV1Zqa0R6T2RMYXRaQmUxYXpBVkt1SW9TMmhJSUViWEo3S2djaWlERnRRMzBjN3BrTUhHZXJ1X181R1ZNUldlQmh6YWNyRVQ2Y0lV?oc=5"
+          "d": "emerj.com",
+          "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1RV0hXWFNzbzNxNkRuam5TdnZ0Sk1JZ0tGdVN5OWJFU1lUeFE0SHhDbGE5MmhBUFRFUHhRZlBRcm9ZV3A5T2FUcUd4aE1vUHI4NU9Nb1I5RFNnNldVN1RqN25vOWJ0YTNv?oc=5"
+        },
+        {
+          "d": "+20"
         }
       ],
       "srcTitles": [
@@ -43,38 +46,6 @@
         "Sources: the Trump administration invites staffers from OpenAI, Google, Anthropic, and others to the White House on Tuesday to review the AI oversight framework (The Information)",
         "White House finalizes artificial intelligence oversight framework",
         "White House to host AI companies Tuesday to review new model-testing framework"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 51,
-      "sources": 2,
-      "ts": "2026-08-03T16:12:06.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "EU AI Act Article 50 transparency rules enter force",
-      "s": "EU AI Act Article 50 transparency rules enter force AI News",
-      "b": [
-        "artificialintelligence-news.com: EU AI Act Article 50 transparency rules enter force",
-        "pymnts.com: EU AI Act Transparency Rules Put Financial Institutions on Compliance Front Line"
-      ],
-      "body": [
-        "artificialintelligence-news.com: EU AI Act Article 50 transparency rules enter force AI News",
-        "pymnts.com: EU AI Act Transparency Rules Put Financial Institutions on Compliance Front Line PYMNTS.com"
-      ],
-      "l": [
-        {
-          "d": "artificialintelligence-news.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFZOeGJCU21RckExQkVNY3h1M1VIOVdkTzVueFpnRkJ1dTI4b1RtNjFPOGlGUTBKc3FvbDNIRV9lTVMyQ0lTX3pPTGE3U2VTZmVjUlNVbGJFTFQ0Y3UtQ0poeFRBVk5GdUhPN3FLOHhQeUQxdXJyM0ZZOFhVazFVRXBUdVRHb2VYakZjX2laa0lRWEQ0cm9YY2Z0X3pSTUNqZGxN?oc=5"
-        },
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmhFOEtOMkoyTDhsdTY4MlBubkdJd1lta2xzbXRzX2N4NGZTWTlocVFlYVIwVTExWUZXa0RRQXp1VkxiRW5aYnhNSlpkU1Z0ZkFnMm95SDZtWU1Oal9WbndfTGx2SmJHNEFSdGhDWUNhVWxsX0Nsa3FNejNvQk1VTXhTYURxbnNmRzRpcUg0VUMtSWhzQnI1d2FMMFlWVnhjNzFwWGctV3J0cnpwSV9JMlBHc3QzS2lFQXdLODZ4U0Q4MDR3OVQ4VVRrNGRPdG10VEJoYw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "EU AI Act Article 50 transparency rules enter force",
-        "EU AI Act Transparency Rules Put Financial Institutions on Compliance Front Line"
       ]
     },
     {
@@ -110,6 +81,38 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 47,
+      "sources": 2,
+      "ts": "2026-08-03T16:12:06.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "EU AI Act Article 50 transparency rules enter force",
+      "s": "EU AI Act Article 50 transparency rules enter force AI News",
+      "b": [
+        "artificialintelligence-news.com: EU AI Act Article 50 transparency rules enter force",
+        "pymnts.com: EU AI Act Transparency Rules Put Financial Institutions on Compliance Front Line"
+      ],
+      "body": [
+        "artificialintelligence-news.com: EU AI Act Article 50 transparency rules enter force AI News",
+        "pymnts.com: EU AI Act Transparency Rules Put Financial Institutions on Compliance Front Line PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "artificialintelligence-news.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOFZOeGJCU21RckExQkVNY3h1M1VIOVdkTzVueFpnRkJ1dTI4b1RtNjFPOGlGUTBKc3FvbDNIRV9lTVMyQ0lTX3pPTGE3U2VTZmVjUlNVbGJFTFQ0Y3UtQ0poeFRBVk5GdUhPN3FLOHhQeUQxdXJyM0ZZOFhVazFVRXBUdVRHb2VYakZjX2laa0lRWEQ0cm9YY2Z0X3pSTUNqZGxN?oc=5"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmhFOEtOMkoyTDhsdTY4MlBubkdJd1lta2xzbXRzX2N4NGZTWTlocVFlYVIwVTExWUZXa0RRQXp1VkxiRW5aYnhNSlpkU1Z0ZkFnMm95SDZtWU1Oal9WbndfTGx2SmJHNEFSdGhDWUNhVWxsX0Nsa3FNejNvQk1VTXhTYURxbnNmRzRpcUg0VUMtSWhzQnI1d2FMMFlWVnhjNzFwWGctV3J0cnpwSV9JMlBHc3QzS2lFQXdLODZ4U0Q4MDR3OVQ4VVRrNGRPdG10VEJoYw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "EU AI Act Article 50 transparency rules enter force",
+        "EU AI Act Transparency Rules Put Financial Institutions on Compliance Front Line"
+      ]
+    },
+    {
       "cat": "products",
       "signal": 27,
       "sources": 1,
@@ -132,6 +135,38 @@
       ],
       "srcTitles": [
         "Trump’s AI protectionism has come for robotics"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-03T12:51:10.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Austin's new AI report urges resident-led governance to prevent AI-related harm",
+      "s": "Austin's new AI report urges resident-led governance to prevent AI-related harm KVUE",
+      "b": [
+        "kvue.com: Austin's new AI report urges resident-led governance to prevent AI-related harm",
+        "cbsaustin.com: Austin leaders to get report on residents' priorities for AI governance"
+      ],
+      "body": [
+        "kvue.com: Austin's new AI report urges resident-led governance to prevent AI-related harm KVUE",
+        "cbsaustin.com: Austin leaders to get report on residents' priorities for AI governance KEYE"
+      ],
+      "l": [
+        {
+          "d": "kvue.com",
+          "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZmU0VXJaZkl4d0tIM2txRVk4X3Z3SWNjTHh6OVBBX0hBUmYxNWhxYXd2RzltRW9XUi1FQTlBSWxjekRaTmJwUnRYeGF4OWFLZGoyaUYySmJBX2R1Vm5XQndLd0g1LUIxRmlkeW11Y3RwSkFRRl82Y3MwczlFSjhrcFNLaTE5bVo1UFhGQmE3RXFUMzVWV3NqTjRZd1ZtU0tWbEZxNlFtUmJhd3JhYzdTajBTOXhVTGFOOUpURF94YlUtNk5DSUtwN0libXFwMll1ZDYtVFY3dldJcGYzaC1DVVZiOXVmdlMzRk1pRzhuOWthVjQ?oc=5"
+        },
+        {
+          "d": "cbsaustin.com",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3ZGdVQ2Wk42Wk9ILTFjUjJ5dkF4VnJKem9sUzRmWi1XWDR5YVYyTkVXOURhSFZDNllJR1lqTW9pY1BYMmtmbkIwRWtTVlV3V1hWRmhaU0Q0Zno1cWFFUkVQM3N4Mi1uVFN3bFdWakJKcjZoeFJjdEhKV3c3NkVOOXJaYlpXTi1hY2drY3N2M0N3ODRzOE9FaVNyZTluTmRLeldndlln?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Austin's new AI report urges resident-led governance to prevent AI-related harm",
+        "Austin leaders to get report on residents' priorities for AI governance"
       ]
     },
     {
@@ -186,7 +221,7 @@
     },
     {
       "cat": "models",
-      "signal": 23,
+      "signal": 19,
       "sources": 2,
       "ts": "2026-08-03T12:25:18.000Z",
       "writtenSources": 2,
@@ -218,7 +253,7 @@
     },
     {
       "cat": "products",
-      "signal": 16,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-03T03:58:00.000Z",
       "writtenSources": 2,
