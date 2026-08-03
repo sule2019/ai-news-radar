@@ -2,8 +2,40 @@
   "date": "2026-08-03",
   "stories": [
     {
+      "cat": "products",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-08-03T03:58:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost",
+      "s": "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost Reuters",
+      "b": [
+        "reuters.com: Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost",
+        "gulfbusiness.com: DeepSeek launches ultra-low-cost AI model"
+      ],
+      "body": [
+        "reuters.com: Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost Reuters",
+        "gulfbusiness.com: DeepSeek launches ultra-low-cost AI model Gulf Business"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxObUlCNHp6dVFoTEtqbkF3aFZqaVNUUVRJd0dicUhkb2tidzdkUWg0OVp1SU94aFJ1dmdkbDZIZGxMQVNWMm5vYXNKR0JicHNwZWRVX25ZY0hHaTNVUVdIWGdBNERsS3hDT29CdzlydEFGbFJzblgyempKcjljLVFELTVPRjdHVnRrOVRmQUs5QWVFQlg3aWVET1lNcDE4R2wwSC1vazRDaTNTZFhURm9qUGFfWGE5Sk1pMHNBUWx3TG85S1lZSWV4TUJxRU11UVhMR2Iw?oc=5"
+        },
+        {
+          "d": "gulfbusiness.com",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTUZOT1lCOTduWVpiTG5sZjFEZTdINTNfbWMwR0pTc1VCZFlqN0xQTVNtcEhjUTNvMllFREtpS28zRDk2WFBFT3dJM2FIV1c2STloMXVMV3Jpb2lhMWFYdDNVMHBXdE5FUkEySXJFdC11UHZvY051YVVVV0p3WEFuZE9TU3VTRzU3Tkx1U2c4X2ZONlhJc05jNW1YZWRISlk?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Alibaba unveils its largest AI model yet, DeepSeek's latest model is ultra-low cost",
+        "DeepSeek launches ultra-low-cost AI model"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-08-03T01:53:00.000Z",
       "writtenSources": 2,
@@ -31,6 +63,31 @@
       "srcTitles": [
         "A look at Central Asia's emerging data center race, led by Uzbekistan's 6MW TAS-1 due by year-end and Kazakhstan's 125MW facility with 100K Nvidia chips by 2027 (Yevgeniya Mikhailidi/Nikkei Asia)",
         "Starting gun for Central Asia data center race triggered"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-08-03T08:30:05.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Here’s why AI agents lie and cheat to reach their goals",
+      "s": "MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . When two OpenAI mod",
+      "b": [
+        "technologyreview.com: Here’s why AI agents lie and cheat to reach their goals"
+      ],
+      "body": [
+        "technologyreview.com: MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers to a test question. According to a postmortem from OpenAI , the models, which had been stripped of their typical security features for testing, decided to solve a cybersecurity exercise by hacking out of the isolated environment in which OpenAI had attempted to contain them and into Hugging Face’s databases, where—they reasoned—the correct answer to the problem might be stored. The Hugging Face incident has attracted intense attention over the past couple of weeks. It’s a dramatic illustration of just how good AI models have gotten at hacking: In order to get into Hugging Face’s databases, the models had to string together several previously undiscovered cybersecurity exploits. But it’s perhaps even more striking as an example of how and why AI systems lie and cheat. And as models get increasingly powerful, the consequences could get far more severe. What is reward hacking? Researchers have known for a while that AIs tend to take creative approaches to achieving the goals that have been set for them. Back in 2016, Anthropic cofounders Dario Amodei and Jack Clark, who were then working at OpenAI, published a blog post about an AI agent that they had been training to play a boat-racing Flash game called Coast Runners. Instead of driving through the race to the finish line, as the researchers had anticipated, the agent found a corner of the course where it could spin around collecting power-ups, thereby maximizing its score. The Coast Runners story quickly became one of the most famous examples of reward hacking, a phenomenon in which AI agents complete tasks or earn high scores using unintended strategies. Historically, researchers have"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
+        }
+      ],
+      "srcTitles": [
+        "Here’s why AI agents lie and cheat to reach their goals"
       ]
     }
   ]
