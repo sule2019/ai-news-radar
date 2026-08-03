@@ -3,7 +3,74 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 47,
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-08-03T14:35:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The White House says it has met its deadline to establish a voluntary framework for evaluating advanced AI models; it did not provide details of the framework (Maria Curi/Axios)",
+      "s": "Maria Curi / Axios : The White House says it has met its deadline to establish a voluntary framework for evaluating advanced AI models; it did not provide details of the framework The White House said",
+      "b": [
+        "techmeme.com: The White House says it has met its deadline to establish a voluntary framework for evaluating advanced AI models; it did not provide details of the framework (Maria Curi/Axios)",
+        "techmeme.com: Sources: the Trump administration invites staffers from OpenAI, Google, Anthropic, and others to the White House on Tuesday to review the AI oversight framework (The Information)",
+        "cnbc.com: White House to host AI companies Tuesday to review new model-testing framework"
+      ],
+      "body": [
+        "techmeme.com: Maria Curi / Axios : The White House says it has met its deadline to establish a voluntary framework for evaluating advanced AI models; it did not provide details of the framework The White House said on Monday it met its deadline to establish a voluntary framework for evaluating advanced AI models",
+        "techmeme.com: The Information : Sources: the Trump administration invites staffers from OpenAI, Google, Anthropic, and others to the White House on Tuesday to review the AI oversight framework The Trump administration has invited staffers from major tech companies including OpenAI, Google and Anthropic to the White House",
+        "cnbc.com: White House to host AI companies Tuesday to review new model-testing framework CNBC"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260803/p28#a260803p28"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMW5rV0FSWFJPMHJTa2s5YWJnRGgxQkY2aHhidkVJM3NxMWxSOTNPTFhaSElOZkpuV3lENHBoMm0wYnh5bW1GOGg3LXJwWDgzMXF1STFLN3lGZGFOVFdzOE9EYW1zbTUwU3p4WnFBSHlzdlRnNFJ1MFBXRmc1Y0VTTDdhdHVwN0pHRWhkX3VpNU5qcmfSAZgBQVVfeXFMUDEzVmFWTS1NWEpvZVdZZzdyQ1RKalk0cGVqYlY2dGZiU1Nhdm51ZmpZd0duUUJOM3A1M0w2Q0UzbUlVZ1VYYkQ0R0Q3RUR0THoyVGs5WTMwQ2ZNeVZYSkZhYklXRTBMaDNNNEFNd085ZTF4ZjY2QXRUWklUMWIycU5nbTNhRTQ1TkJpbER2VFpIczFJNHRjMmY?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The White House says it has met its deadline to establish a voluntary framework for evaluating advanced AI models; it did not provide details of the framework (Maria Curi/Axios)",
+        "Sources: the Trump administration invites staffers from OpenAI, Google, Anthropic, and others to the White House on Tuesday to review the AI oversight framework (The Information)",
+        "White House to host AI companies Tuesday to review new model-testing framework"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-08-03T05:41:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says",
+      "s": "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says Reuters",
+      "b": [
+        "reuters.com: DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says",
+        "taipeitimes.com: New DeepSeek model cheapest of well-known models to run: research firm"
+      ],
+      "body": [
+        "reuters.com: DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says Reuters",
+        "taipeitimes.com: New DeepSeek model cheapest of well-known models to run: research firm Taipei Times"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTnd6ckhOVUhwcGJjRmxRdlhObS1ncXRhZm9OeVUwaEgwOTg5YmNBTGVWcHZsdXd4dXVrWWdlZGtsYkw0eDIyY1A3NjdSM0o0bFBGUEZRNDF2NjYwZEtCamNpeTFqN3ZaQVlTclNuQWYxNXh4ZVlqaWF3WkNNVk1fbmJXcTdISlBmUVVWS01STmFYZldLSGk5akJQZVB5X09OSzVoVWF4Wko4TEF4cGozQUlWM202dFJWMGxSRTdpcTNaaUp6bmNyZXpWbVRFb2JoSzdCVQ?oc=5"
+        },
+        {
+          "d": "taipeitimes.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1MYUpXRkNYMTNTS2wya1UyMGJJUHRhLXQzTmZnZFE4S2E2S0g4eG9vSkJEa2ZKUTllVG04eU5LNTVhaHNyMF9SQWlZT0lsLTFQMW9lSHpwTGY5SWp3QWJzVG1Uamt0NTRlOUlST0xXUGYtM1c5TXc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "DeepSeek's new AI model is by far the cheapest of well-known models to run, research firm says",
+        "New DeepSeek model cheapest of well-known models to run: research firm"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 43,
       "sources": 2,
       "ts": "2026-08-03T12:25:18.000Z",
       "writtenSources": 2,
@@ -35,7 +102,7 @@
     },
     {
       "cat": "products",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-08-03T03:58:00.000Z",
       "writtenSources": 2,
@@ -67,7 +134,7 @@
     },
     {
       "cat": "models",
-      "signal": 35,
+      "signal": 31,
       "sources": 2,
       "ts": "2026-08-03T01:53:00.000Z",
       "writtenSources": 2,
