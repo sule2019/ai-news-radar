@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 64,
+      "signal": 61,
       "sources": 4,
       "ts": "2026-08-03T14:35:00.000Z",
       "writtenSources": 2,
@@ -78,8 +78,33 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-03T18:43:30.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Trump’s AI protectionism has come for robotics",
+      "s": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Humanoid robots usually elicit more cringe than awe: They stu",
+      "b": [
+        "technologyreview.com: Trump’s AI protectionism has come for robotics"
+      ],
+      "body": [
+        "technologyreview.com: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Humanoid robots usually elicit more cringe than awe: They stumble , kick children , and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots are more commonly seen in viral videos than real workplaces or homes. It was a surprise, then, when last week the Federal Trade Commission issued a sweeping ban on foreign imports of advanced robots, including humanoids, quadrupeds, and wheeled robots. The decision, made by an increasingly partisan and Trump-aligned FTC, cites two reasons. One is that foreign-made humanoids will collect so much data—in homes but also potentially at sensitive facilities—that they’d pose a threat to national security. The second is that US robotics companies need protection from Chinese competition to create a more robust and secure domestic supply chain. On its face, it’s a strategy to align political and industry interests that is much older than the Trump administration. Whenever China has gotten good at offering cheap versions of strategic technologies like solar panels, electric vehicles, and drones, the US government has tried to stop it from flooding the market by using tariffs or rules on how government agencies purchase the tech. Such moves are always followed by debates about whether the trade-offs—particularly higher prices for consumers—are worth the benefits. But robotics is now best seen as another piece of the AI industry—in many ways its cutting edge. And the Trump administration is taking an increasingly aggressive approach to protecting the US AI industry, reportedly considering a ban on open-source Chinese models that often rival those from OpenAI and Anthropic while costing far less. Such a move would block businesses from realizing an estimated $25 billion in annual savings. The ban on humanoids, then, should be understood not as a"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
+        }
+      ],
+      "srcTitles": [
+        "Trump’s AI protectionism has come for robotics"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 31,
+      "signal": 27,
       "sources": 2,
       "ts": "2026-08-03T12:25:18.000Z",
       "writtenSources": 2,
@@ -110,33 +135,58 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 30,
+      "cat": "models",
+      "signal": 24,
       "sources": 1,
-      "ts": "2026-08-03T18:43:30.000Z",
+      "ts": "2026-08-03T08:30:05.000Z",
       "writtenSources": 1,
       "draft": true,
-      "h": "Trump’s AI protectionism has come for robotics",
-      "s": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Humanoid robots usually elicit more cringe than awe: They stu",
+      "h": "Here’s why AI agents lie and cheat to reach their goals",
+      "s": "MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . When two OpenAI mod",
       "b": [
-        "technologyreview.com: Trump’s AI protectionism has come for robotics"
+        "technologyreview.com: Here’s why AI agents lie and cheat to reach their goals"
       ],
       "body": [
-        "technologyreview.com: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Humanoid robots usually elicit more cringe than awe: They stumble , kick children , and despite advances are still worse at using their hands than my toddler. It’s a nascent industry, and such robots are more commonly seen in viral videos than real workplaces or homes. It was a surprise, then, when last week the Federal Trade Commission issued a sweeping ban on foreign imports of advanced robots, including humanoids, quadrupeds, and wheeled robots. The decision, made by an increasingly partisan and Trump-aligned FTC, cites two reasons. One is that foreign-made humanoids will collect so much data—in homes but also potentially at sensitive facilities—that they’d pose a threat to national security. The second is that US robotics companies need protection from Chinese competition to create a more robust and secure domestic supply chain. On its face, it’s a strategy to align political and industry interests that is much older than the Trump administration. Whenever China has gotten good at offering cheap versions of strategic technologies like solar panels, electric vehicles, and drones, the US government has tried to stop it from flooding the market by using tariffs or rules on how government agencies purchase the tech. Such moves are always followed by debates about whether the trade-offs—particularly higher prices for consumers—are worth the benefits. But robotics is now best seen as another piece of the AI industry—in many ways its cutting edge. And the Trump administration is taking an increasingly aggressive approach to protecting the US AI industry, reportedly considering a ban on open-source Chinese models that often rival those from OpenAI and Anthropic while costing far less. Such a move would block businesses from realizing an estimated $25 billion in annual savings. The ban on humanoids, then, should be understood not as a"
+        "technologyreview.com: MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers to a test question. According to a postmortem from OpenAI , the models, which had been stripped of their typical security features for testing, decided to solve a cybersecurity exercise by hacking out of the isolated environment in which OpenAI had attempted to contain them and into Hugging Face’s databases, where—they reasoned—the correct answer to the problem might be stored. The Hugging Face incident has attracted intense attention over the past couple of weeks. It’s a dramatic illustration of just how good AI models have gotten at hacking: In order to get into Hugging Face’s databases, the models had to string together several previously undiscovered cybersecurity exploits. But it’s perhaps even more striking as an example of how and why AI systems lie and cheat. And as models get increasingly powerful, the consequences could get far more severe. What is reward hacking? Researchers have known for a while that AIs tend to take creative approaches to achieving the goals that have been set for them. Back in 2016, Anthropic cofounders Dario Amodei and Jack Clark, who were then working at OpenAI, published a blog post about an AI agent that they had been training to play a boat-racing Flash game called Coast Runners. Instead of driving through the race to the finish line, as the researchers had anticipated, the agent found a corner of the course where it could spin around collecting power-ups, thereby maximizing its score. The Coast Runners story quickly became one of the most famous examples of reward hacking, a phenomenon in which AI agents complete tasks or earn high scores using unintended strategies. Historically, researchers have"
       ],
       "l": [
         {
           "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/"
+          "u": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
         }
       ],
       "srcTitles": [
-        "Trump’s AI protectionism has come for robotics"
+        "Here’s why AI agents lie and cheat to reach their goals"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-03T07:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How we built a realtime system for responsive voice AI in six months",
+      "s": "GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations.",
+      "b": [
+        "openai.com: How we built a realtime system for responsive voice AI in six months"
+      ],
+      "body": [
+        "openai.com: GPT-Live enables continuous voice interaction with AI, using a turnless speech model and low-latency architecture for faster, more natural conversations."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/continuous-voice-interaction-with-gpt-live"
+        }
+      ],
+      "srcTitles": [
+        "How we built a realtime system for responsive voice AI in six months"
       ]
     },
     {
       "cat": "products",
-      "signal": 24,
+      "signal": 20,
       "sources": 2,
       "ts": "2026-08-03T03:58:00.000Z",
       "writtenSources": 2,
@@ -168,32 +218,7 @@
     },
     {
       "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-08-03T08:30:05.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Here’s why AI agents lie and cheat to reach their goals",
-      "s": "MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . When two OpenAI mod",
-      "b": [
-        "technologyreview.com: Here’s why AI agents lie and cheat to reach their goals"
-      ],
-      "body": [
-        "technologyreview.com: MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . When two OpenAI models hacked into the website Hugging Face in July, they weren’t trying to make money or commit sabotage—they were just looking for answers to a test question. According to a postmortem from OpenAI , the models, which had been stripped of their typical security features for testing, decided to solve a cybersecurity exercise by hacking out of the isolated environment in which OpenAI had attempted to contain them and into Hugging Face’s databases, where—they reasoned—the correct answer to the problem might be stored. The Hugging Face incident has attracted intense attention over the past couple of weeks. It’s a dramatic illustration of just how good AI models have gotten at hacking: In order to get into Hugging Face’s databases, the models had to string together several previously undiscovered cybersecurity exploits. But it’s perhaps even more striking as an example of how and why AI systems lie and cheat. And as models get increasingly powerful, the consequences could get far more severe. What is reward hacking? Researchers have known for a while that AIs tend to take creative approaches to achieving the goals that have been set for them. Back in 2016, Anthropic cofounders Dario Amodei and Jack Clark, who were then working at OpenAI, published a blog post about an AI agent that they had been training to play a boat-racing Flash game called Coast Runners. Instead of driving through the race to the finish line, as the researchers had anticipated, the agent found a corner of the course where it could spin around collecting power-ups, thereby maximizing its score. The Coast Runners story quickly became one of the most famous examples of reward hacking, a phenomenon in which AI agents complete tasks or earn high scores using unintended strategies. Historically, researchers have"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals/"
-        }
-      ],
-      "srcTitles": [
-        "Here’s why AI agents lie and cheat to reach their goals"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 19,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-03T01:53:00.000Z",
       "writtenSources": 2,
