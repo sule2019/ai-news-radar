@@ -117,8 +117,8 @@
     },
     {
       "cat": "policy",
-      "signal": 37,
-      "sources": 2,
+      "signal": 40,
+      "sources": 3,
       "ts": "2026-08-04T13:05:30.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -140,11 +140,16 @@
         {
           "d": "reuters.com",
           "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaVZGc1lSSGxvaXVoX2pBRG5rN1hTcU40dS1TQXl0ZU4yYUNDVFU2ODdCakpRai1hbFJwUVVkQVo0MVdENEg0YUQ4c25uZERIRUJqMHlBbVUwYXVfX3c0ZlpmdmVhVjRWUVFTbE93YnlzLV8zVW1FU3hhbFQ4Sy1OVkNXcHZsQzdIRXpVYmplcXdwOFJQS19XZk5TdVIxNlU?oc=5"
+        },
+        {
+          "d": "taipeitimes.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5KVjZENXFkZEhQRElHMjM2cXZxZXZ1NlVFQkc4MXZqUjNMUWxGSGQ3dlJhNnVaYWhaRTJqNUQ2bzd0NFc4Y25IVUpHMWVZNk1rd2t6Rk1scnI5VGFKUlE1MWxYVmRvcExxVUVKZk5qMVF6MmF3VGc?oc=5"
         }
       ],
       "srcTitles": [
         "A World Bank report says developing economies stand to benefit more from AI boosting their workers' output than they will lose in jobs being replaced by AI (Joseph Cotterill/Financial Times)",
-        "AI offers 'lifeline' for emerging economies, World Bank says"
+        "AI offers 'lifeline' for emerging economies, World Bank says",
+        "AI offers ’lifeline’ for emerging economies, World Bank says"
       ]
     },
     {
@@ -174,7 +179,7 @@
     },
     {
       "cat": "models",
-      "signal": 24,
+      "signal": 20,
       "sources": 2,
       "ts": "2026-08-04T13:31:56.000Z",
       "writtenSources": 2,
