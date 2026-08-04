@@ -35,7 +35,7 @@
     },
     {
       "cat": "research",
-      "signal": 51,
+      "signal": 47,
       "sources": 3,
       "ts": "2026-08-04T15:00:07.000Z",
       "writtenSources": 2,
@@ -122,8 +122,8 @@
     },
     {
       "cat": "models",
-      "signal": 45,
-      "sources": 3,
+      "signal": 36,
+      "sources": 2,
       "ts": "2026-08-04T15:33:21.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -143,23 +143,18 @@
           "u": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/"
         },
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/policy/975071/texas-data-center-audit"
-        },
-        {
           "d": "arstechnica.com",
           "u": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/"
         }
       ],
       "srcTitles": [
         "Texas halts new data centers as governor calls for audits",
-        "Texas says data centers must pass an audit before connecting to the grid",
         "Texas halts data center connections to power grid amid overwhelming demand"
       ]
     },
     {
       "cat": "policy",
-      "signal": 36,
+      "signal": 32,
       "sources": 3,
       "ts": "2026-08-04T13:05:30.000Z",
       "writtenSources": 2,
