@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 51,
-      "sources": 2,
+      "signal": 55,
+      "sources": 3,
       "ts": "2026-08-04T15:00:07.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -24,12 +24,17 @@
           "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFJnVnpobW5aT0ZjZjFYOHFVaUhFVjJlWmJWOGpLNEZfUjA3dzJsY1daWU9vWDQ5M0pJMHJ6TXZyNXg3Umg0NXNXMmdJd1hlWHRjSHpQUnNRVWlWeUlFbHNlcEFtcG5wNW9odnRZdWxfM044MjdrLVM4VUdwQ3k3eXlWZHVDeFhvMHgwdg?oc=5"
         },
         {
+          "d": "statescoop.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcU5kVExGTXRiNkcwT2RSNkVqOC1KRl93OEJWZlBZZzE4UUlCVnJlbG1qVmtVQmFXRV9kcXg1RFpGaFNWU3hVRF9Oc0s3SWk1amM4OFRxWkxtMzFJUGxzOUtuZ2l6VEdtMjZyTXNBVGlUa0pVVnowdTUxUTFvUmlhQk5MeDFyUFBUaUZCdA?oc=5"
+        },
+        {
           "d": "blogs.nvidia.com",
           "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSZTdMUk1OTDZyVEIwcFpCRVhUY3ByMVFxRXNENnhQdC1IcjZ0ZEpENmU3X1RBVVhZbzJfTkVFLUswMG4yRDl4cktlN2JIME9LYkdwczVhV2QwUENfd1lyczltaTc3NUcySW9NUy1FT0Rfdw?oc=5"
         }
       ],
       "srcTitles": [
         "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
+        "NSF announces $100M grant program for state, regional AI infrastructure hubs",
         "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US"
       ]
     },
@@ -85,7 +90,7 @@
     },
     {
       "cat": "models",
-      "signal": 42,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-08-04T15:33:21.000Z",
       "writtenSources": 2,
@@ -117,7 +122,7 @@
     },
     {
       "cat": "policy",
-      "signal": 40,
+      "signal": 37,
       "sources": 3,
       "ts": "2026-08-04T13:05:30.000Z",
       "writtenSources": 2,
@@ -154,7 +159,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-08-04T13:00:00.000Z",
       "writtenSources": 1,
@@ -179,7 +184,7 @@
     },
     {
       "cat": "models",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-08-04T13:31:56.000Z",
       "writtenSources": 2,
