@@ -89,40 +89,8 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 39,
-      "sources": 2,
-      "ts": "2026-08-04T15:33:21.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Texas halts new data centers as governor calls for audits",
-      "s": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can b",
-      "b": [
-        "techcrunch.com: Texas halts new data centers as governor calls for audits",
-        "theverge.com: Texas says data centers must pass an audit before connecting to the grid"
-      ],
-      "body": [
-        "techcrunch.com: Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
-        "theverge.com: Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new data center proposals, writing that [ ]"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/policy/975071/texas-data-center-audit"
-        }
-      ],
-      "srcTitles": [
-        "Texas halts new data centers as governor calls for audits",
-        "Texas says data centers must pass an audit before connecting to the grid"
-      ]
-    },
-    {
       "cat": "policy",
-      "signal": 37,
+      "signal": 40,
       "sources": 3,
       "ts": "2026-08-04T13:05:30.000Z",
       "writtenSources": 2,
@@ -159,6 +127,38 @@
     },
     {
       "cat": "models",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-08-04T15:33:21.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Texas halts new data centers as governor calls for audits",
+      "s": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can b",
+      "b": [
+        "techcrunch.com: Texas halts new data centers as governor calls for audits",
+        "theverge.com: Texas says data centers must pass an audit before connecting to the grid"
+      ],
+      "body": [
+        "techcrunch.com: Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+        "theverge.com: Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new data center proposals, writing that [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/975071/texas-data-center-audit"
+        }
+      ],
+      "srcTitles": [
+        "Texas halts new data centers as governor calls for audits",
+        "Texas says data centers must pass an audit before connecting to the grid"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 24,
       "sources": 1,
       "ts": "2026-08-04T13:00:00.000Z",
@@ -184,7 +184,7 @@
     },
     {
       "cat": "models",
-      "signal": 16,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-04T13:31:56.000Z",
       "writtenSources": 2,
