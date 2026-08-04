@@ -2,6 +2,63 @@
   "date": "2026-08-04",
   "stories": [
     {
+      "cat": "research",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-08-04T15:00:07.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
+      "s": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country nsf.gov",
+      "b": [
+        "nsf.gov: New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
+        "blogs.nvidia.com: NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US"
+      ],
+      "body": [
+        "nsf.gov: New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country nsf.gov",
+        "blogs.nvidia.com: NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US NVIDIA Blog"
+      ],
+      "l": [
+        {
+          "d": "nsf.gov",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFJnVnpobW5aT0ZjZjFYOHFVaUhFVjJlWmJWOGpLNEZfUjA3dzJsY1daWU9vWDQ5M0pJMHJ6TXZyNXg3Umg0NXNXMmdJd1hlWHRjSHpQUnNRVWlWeUlFbHNlcEFtcG5wNW9odnRZdWxfM044MjdrLVM4VUdwQ3k3eXlWZHVDeFhvMHgwdg?oc=5"
+        },
+        {
+          "d": "blogs.nvidia.com",
+          "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSZTdMUk1OTDZyVEIwcFpCRVhUY3ByMVFxRXNENnhQdC1IcjZ0ZEpENmU3X1RBVVhZbzJfTkVFLUswMG4yRDl4cktlN2JIME9LYkdwczVhV2QwUENfd1lyczltaTc3NUcySW9NUy1FT0Rfdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
+        "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-04T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "New ways to learn and teach with ChatGPT Work and Codex",
+      "s": "Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build.",
+      "b": [
+        "openai.com: New ways to learn and teach with ChatGPT Work and Codex"
+      ],
+      "body": [
+        "openai.com: Explore new education plugins for ChatGPT Work and Codex that help K–12 teachers, college educators, and students learn, teach, research, and build."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/learn-teach-chatgpt-work-codex"
+        }
+      ],
+      "srcTitles": [
+        "New ways to learn and teach with ChatGPT Work and Codex"
+      ]
+    },
+    {
       "cat": "products",
       "signal": 46,
       "sources": 1,
@@ -24,6 +81,38 @@
       ],
       "srcTitles": [
         "Apple is getting this wrong"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 42,
+      "sources": 2,
+      "ts": "2026-08-04T15:33:21.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Texas halts new data centers as governor calls for audits",
+      "s": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can b",
+      "b": [
+        "techcrunch.com: Texas halts new data centers as governor calls for audits",
+        "theverge.com: Texas says data centers must pass an audit before connecting to the grid"
+      ],
+      "body": [
+        "techcrunch.com: Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+        "theverge.com: Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new data center proposals, writing that [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/975071/texas-data-center-audit"
+        }
+      ],
+      "srcTitles": [
+        "Texas halts new data centers as governor calls for audits",
+        "Texas says data centers must pass an audit before connecting to the grid"
       ]
     },
     {
@@ -60,7 +149,32 @@
     },
     {
       "cat": "models",
-      "signal": 28,
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-08-04T13:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The latest AI news we announced in July 2026",
+      "s": "Here are Google’s latest AI updates from July 2026",
+      "b": [
+        "blog.google: The latest AI news we announced in July 2026"
+      ],
+      "body": [
+        "blog.google: Here are Google’s latest AI updates from July 2026"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+        }
+      ],
+      "srcTitles": [
+        "The latest AI news we announced in July 2026"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
       "sources": 2,
       "ts": "2026-08-04T13:31:56.000Z",
       "writtenSources": 2,
@@ -88,31 +202,6 @@
       "srcTitles": [
         "Skunk Works® Advances Sensor-Powered AI Fighter Intercept",
         "Sensor-driven AI conducts fighter intercepts during Skunk Works' X-62 flight tests"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-08-04T13:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "The latest AI news we announced in July 2026",
-      "s": "Here are Google’s latest AI updates from July 2026",
-      "b": [
-        "blog.google: The latest AI news we announced in July 2026"
-      ],
-      "body": [
-        "blog.google: Here are Google’s latest AI updates from July 2026"
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
-        }
-      ],
-      "srcTitles": [
-        "The latest AI news we announced in July 2026"
       ]
     }
   ]
