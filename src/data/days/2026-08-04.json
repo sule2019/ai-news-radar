@@ -1,4 +1,30 @@
 {
   "date": "2026-08-04",
-  "stories": []
+  "stories": [
+    {
+      "cat": "products",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-03T22:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Apple is getting this wrong",
+      "s": "OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened.",
+      "b": [
+        "openai.com: Apple is getting this wrong"
+      ],
+      "body": [
+        "openai.com: OpenAI addresses Apple’s baseless lawsuit, corrects claims about its employees, and shares messages documenting what happened."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/apple-is-getting-this-wrong"
+        }
+      ],
+      "srcTitles": [
+        "Apple is getting this wrong"
+      ]
+    }
+  ]
 }
