@@ -3,6 +3,36 @@
   "stories": [
     {
       "cat": "funding",
+      "signal": 63,
+      "sources": 2,
+      "ts": "2026-08-04T19:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Third-party cyber evaluations involving OpenAI models",
+      "s": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+      "b": [
+        "openai.com: Third-party cyber evaluations involving OpenAI models"
+      ],
+      "body": [
+        "openai.com: OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260804/p53#a260804p53"
+        }
+      ],
+      "srcTitles": [
+        "Third-party cyber evaluations involving OpenAI models",
+        "OpenAI says one of its models exploited a website after third-party AI security lab Irregular mistakenly gave it access to the internet during evaluations (Wired)"
+      ]
+    },
+    {
+      "cat": "funding",
       "signal": 56,
       "sources": 2,
       "ts": "2026-08-04T14:43:12.000Z",
@@ -31,31 +61,6 @@
       "srcTitles": [
         "Anthropic signs $10B deal with AI cloud startup Volta",
         "AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 49,
-      "sources": 1,
-      "ts": "2026-08-04T19:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Third-party cyber evaluations involving OpenAI models",
-      "s": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
-      "b": [
-        "openai.com: Third-party cyber evaluations involving OpenAI models"
-      ],
-      "body": [
-        "openai.com: OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
-        }
-      ],
-      "srcTitles": [
-        "Third-party cyber evaluations involving OpenAI models"
       ]
     },
     {
@@ -146,43 +151,6 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 39,
-      "sources": 3,
-      "ts": "2026-08-04T15:00:07.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
-      "s": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country nsf.gov",
-      "b": [
-        "nsf.gov: New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
-        "blogs.nvidia.com: NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US"
-      ],
-      "body": [
-        "nsf.gov: New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country nsf.gov",
-        "blogs.nvidia.com: NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US NVIDIA Blog"
-      ],
-      "l": [
-        {
-          "d": "nsf.gov",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFJnVnpobW5aT0ZjZjFYOHFVaUhFVjJlWmJWOGpLNEZfUjA3dzJsY1daWU9vWDQ5M0pJMHJ6TXZyNXg3Umg0NXNXMmdJd1hlWHRjSHpQUnNRVWlWeUlFbHNlcEFtcG5wNW9odnRZdWxfM044MjdrLVM4VUdwQ3k3eXlWZHVDeFhvMHgwdg?oc=5"
-        },
-        {
-          "d": "statescoop.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcU5kVExGTXRiNkcwT2RSNkVqOC1KRl93OEJWZlBZZzE4UUlCVnJlbG1qVmtVQmFXRV9kcXg1RFpGaFNWU3hVRF9Oc0s3SWk1amM4OFRxWkxtMzFJUGxzOUtuZ2l6VEdtMjZyTXNBVGlUa0pVVnowdTUxUTFvUmlhQk5MeDFyUFBUaUZCdA?oc=5"
-        },
-        {
-          "d": "blogs.nvidia.com",
-          "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSZTdMUk1OTDZyVEIwcFpCRVhUY3ByMVFxRXNENnhQdC1IcjZ0ZEpENmU3X1RBVVhZbzJfTkVFLUswMG4yRDl4cktlN2JIME9LYkdwczVhV2QwUENfd1lyczltaTc3NUcySW9NUy1FT0Rfdw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
-        "NSF announces $100M grant program for state, regional AI infrastructure hubs",
-        "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 37,
       "sources": 3,
@@ -217,6 +185,43 @@
         "Spotify expands AI remix and covers project with Merlin partnership",
         "Building a new project[P]",
         "What's the largest software project AI can complete on its own?"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 35,
+      "sources": 3,
+      "ts": "2026-08-04T15:00:07.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
+      "s": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country nsf.gov",
+      "b": [
+        "nsf.gov: New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
+        "blogs.nvidia.com: NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US"
+      ],
+      "body": [
+        "nsf.gov: New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country nsf.gov",
+        "blogs.nvidia.com: NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US NVIDIA Blog"
+      ],
+      "l": [
+        {
+          "d": "nsf.gov",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFJnVnpobW5aT0ZjZjFYOHFVaUhFVjJlWmJWOGpLNEZfUjA3dzJsY1daWU9vWDQ5M0pJMHJ6TXZyNXg3Umg0NXNXMmdJd1hlWHRjSHpQUnNRVWlWeUlFbHNlcEFtcG5wNW9odnRZdWxfM044MjdrLVM4VUdwQ3k3eXlWZHVDeFhvMHgwdg?oc=5"
+        },
+        {
+          "d": "statescoop.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcU5kVExGTXRiNkcwT2RSNkVqOC1KRl93OEJWZlBZZzE4UUlCVnJlbG1qVmtVQmFXRV9kcXg1RFpGaFNWU3hVRF9Oc0s3SWk1amM4OFRxWkxtMzFJUGxzOUtuZ2l6VEdtMjZyTXNBVGlUa0pVVnowdTUxUTFvUmlhQk5MeDFyUFBUaUZCdA?oc=5"
+        },
+        {
+          "d": "blogs.nvidia.com",
+          "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSZTdMUk1OTDZyVEIwcFpCRVhUY3ByMVFxRXNENnhQdC1IcjZ0ZEpENmU3X1RBVVhZbzJfTkVFLUswMG4yRDl4cktlN2JIME9LYkdwczVhV2QwUENfd1lyczltaTc3NUcySW9NUy1FT0Rfdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
+        "NSF announces $100M grant program for state, regional AI infrastructure hubs",
+        "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US"
       ]
     },
     {
@@ -259,8 +264,33 @@
       ]
     },
     {
-      "cat": "policy",
+      "cat": "models",
       "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-04T13:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The latest AI news we announced in July 2026",
+      "s": "Here are Google’s latest AI updates from July 2026",
+      "b": [
+        "blog.google: The latest AI news we announced in July 2026"
+      ],
+      "body": [
+        "blog.google: Here are Google’s latest AI updates from July 2026"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
+        }
+      ],
+      "srcTitles": [
+        "The latest AI news we announced in July 2026"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 20,
       "sources": 3,
       "ts": "2026-08-04T13:05:30.000Z",
       "writtenSources": 2,
@@ -293,31 +323,6 @@
         "A World Bank report says developing economies stand to benefit more from AI boosting their workers' output than they will lose in jobs being replaced by AI (Joseph Cotterill/Financial Times)",
         "AI offers 'lifeline' for emerging economies, World Bank says",
         "AI offers ’lifeline’ for emerging economies, World Bank says"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-08-04T13:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "The latest AI news we announced in July 2026",
-      "s": "Here are Google’s latest AI updates from July 2026",
-      "b": [
-        "blog.google: The latest AI news we announced in July 2026"
-      ],
-      "body": [
-        "blog.google: Here are Google’s latest AI updates from July 2026"
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/"
-        }
-      ],
-      "srcTitles": [
-        "The latest AI news we announced in July 2026"
       ]
     },
     {
