@@ -34,40 +34,28 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 47,
-      "sources": 3,
-      "ts": "2026-08-04T15:00:07.000Z",
-      "writtenSources": 2,
+      "cat": "funding",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-08-04T19:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
-      "s": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country nsf.gov",
+      "h": "Third-party cyber evaluations involving OpenAI models",
+      "s": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
       "b": [
-        "nsf.gov: New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
-        "blogs.nvidia.com: NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US"
+        "openai.com: Third-party cyber evaluations involving OpenAI models"
       ],
       "body": [
-        "nsf.gov: New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country nsf.gov",
-        "blogs.nvidia.com: NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US NVIDIA Blog"
+        "openai.com: OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
       ],
       "l": [
         {
-          "d": "nsf.gov",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFJnVnpobW5aT0ZjZjFYOHFVaUhFVjJlWmJWOGpLNEZfUjA3dzJsY1daWU9vWDQ5M0pJMHJ6TXZyNXg3Umg0NXNXMmdJd1hlWHRjSHpQUnNRVWlWeUlFbHNlcEFtcG5wNW9odnRZdWxfM044MjdrLVM4VUdwQ3k3eXlWZHVDeFhvMHgwdg?oc=5"
-        },
-        {
-          "d": "statescoop.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcU5kVExGTXRiNkcwT2RSNkVqOC1KRl93OEJWZlBZZzE4UUlCVnJlbG1qVmtVQmFXRV9kcXg1RFpGaFNWU3hVRF9Oc0s3SWk1amM4OFRxWkxtMzFJUGxzOUtuZ2l6VEdtMjZyTXNBVGlUa0pVVnowdTUxUTFvUmlhQk5MeDFyUFBUaUZCdA?oc=5"
-        },
-        {
-          "d": "blogs.nvidia.com",
-          "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSZTdMUk1OTDZyVEIwcFpCRVhUY3ByMVFxRXNENnhQdC1IcjZ0ZEpENmU3X1RBVVhZbzJfTkVFLUswMG4yRDl4cktlN2JIME9LYkdwczVhV2QwUENfd1lyczltaTc3NUcySW9NUy1FT0Rfdw?oc=5"
+          "d": "openai.com",
+          "u": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
         }
       ],
       "srcTitles": [
-        "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
-        "NSF announces $100M grant program for state, regional AI infrastructure hubs",
-        "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US"
+        "Third-party cyber evaluations involving OpenAI models"
       ]
     },
     {
@@ -122,8 +110,8 @@
     },
     {
       "cat": "models",
-      "signal": 36,
-      "sources": 2,
+      "signal": 45,
+      "sources": 3,
       "ts": "2026-08-04T15:33:21.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -143,18 +131,131 @@
           "u": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/"
         },
         {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/975071/texas-data-center-audit"
+        },
+        {
           "d": "arstechnica.com",
           "u": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/"
         }
       ],
       "srcTitles": [
         "Texas halts new data centers as governor calls for audits",
+        "Texas says data centers must pass an audit before connecting to the grid",
         "Texas halts data center connections to power grid amid overwhelming demand"
       ]
     },
     {
+      "cat": "research",
+      "signal": 43,
+      "sources": 3,
+      "ts": "2026-08-04T15:00:07.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
+      "s": "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country nsf.gov",
+      "b": [
+        "nsf.gov: New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
+        "blogs.nvidia.com: NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US"
+      ],
+      "body": [
+        "nsf.gov: New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country nsf.gov",
+        "blogs.nvidia.com: NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US NVIDIA Blog"
+      ],
+      "l": [
+        {
+          "d": "nsf.gov",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOFJnVnpobW5aT0ZjZjFYOHFVaUhFVjJlWmJWOGpLNEZfUjA3dzJsY1daWU9vWDQ5M0pJMHJ6TXZyNXg3Umg0NXNXMmdJd1hlWHRjSHpQUnNRVWlWeUlFbHNlcEFtcG5wNW9odnRZdWxfM044MjdrLVM4VUdwQ3k3eXlWZHVDeFhvMHgwdg?oc=5"
+        },
+        {
+          "d": "statescoop.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcU5kVExGTXRiNkcwT2RSNkVqOC1KRl93OEJWZlBZZzE4UUlCVnJlbG1qVmtVQmFXRV9kcXg1RFpGaFNWU3hVRF9Oc0s3SWk1amM4OFRxWkxtMzFJUGxzOUtuZ2l6VEdtMjZyTXNBVGlUa0pVVnowdTUxUTFvUmlhQk5MeDFyUFBUaUZCdA?oc=5"
+        },
+        {
+          "d": "blogs.nvidia.com",
+          "u": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSZTdMUk1OTDZyVEIwcFpCRVhUY3ByMVFxRXNENnhQdC1IcjZ0ZEpENmU3X1RBVVhZbzJfTkVFLUswMG4yRDl4cktlN2JIME9LYkdwczVhV2QwUENfd1lyczltaTc3NUcySW9NUy1FT0Rfdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "New NSF State and Regional AI Infrastructure Hubs will power AI-enabled scientific research across the country",
+        "NSF announces $100M grant program for state, regional AI infrastructure hubs",
+        "NVIDIA Joins NSF State and Regional AI Hubs Program to Expand AI Research and Education Across the US"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-08-04T15:50:06.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Spotify expands AI remix and covers project with Merlin partnership",
+      "s": "Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool ",
+      "b": [
+        "techcrunch.com: Spotify expands AI remix and covers project with Merlin partnership",
+        "reddit.com: Building a new project[P]"
+      ],
+      "body": [
+        "techcrunch.com: Spotify says Merlin, which represents more than 30,000 independent labels and distributors, has joined Universal Music Group in backing its upcoming AI-powered remix and covers product. The paid tool will let fans create AI-generated covers and remixes of participating artists’ music while ensuring artists opt in, receive credit, and are compensated.",
+        "reddit.com: I have a project question. Right now, I am building a webapp for advanced arabic language learners that helps in Nahw (I rab) which is something related to how Arabic sentences are built. My question is, how do you develop your idea when you know that there are other people out there doing the same thing. Additionally, how do you go beyond the idea that all you will have to do is get an OpenAI API key since ChatGPT is really good at Arabic Nahw submitted by /u/Freak-1 [link] [comments]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/04/spotify-adds-merlin-to-its-ai-music-remix-and-covers-effort/"
+        },
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1vfnuxw/building_a_new_projectp/"
+        }
+      ],
+      "srcTitles": [
+        "Spotify expands AI remix and covers project with Merlin partnership",
+        "Building a new project[P]"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-08-04T04:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Obsidian Security raises funding at $1.1 billion valuation on AI security demand",
+      "s": "Obsidian Security raises funding at $1.1 billion valuation on AI security demand Reuters",
+      "b": [
+        "reuters.com: Obsidian Security raises funding at $1.1 billion valuation on AI security demand",
+        "wheresyoured.at: The AI Demand Bubble",
+        "arxiv.org: Certificates without Electrons? Theory and Evidence on Impacts from AI-Driven Power Demand"
+      ],
+      "body": [
+        "reuters.com: Obsidian Security raises funding at $1.1 billion valuation on AI security demand Reuters",
+        "wheresyoured.at: Article URL: https://www.wheresyoured.at/the-ai-demand-bubble/ Comments URL: https://news.ycombinator.com/item?id=49170648 Points: 101 # Comments: 112",
+        "arxiv.org: arXiv:2606.00811v2 Announce Type: replace-cross Abstract: Data centers now account for 4.4% of United States electricity demand, yet the grid-level effectiveness of the renewable energy certificates (RECs) and power purchase agreements (PPAs) hyperscalers use to claim carbon neutrality remains unclear. We develop a game-theoretic model in which a data center operator chooses among RECs, PPAs, and behind-the-meter colocation while generators make entry decisions under endogenous financing costs. The model identifies a timing wedge -- the mismatch between consumption and credited renewable generation -- as a central mechanism through which AI demand degrades reliability, raises prices, and increases emissions even when RECs cover 100% of annual consumption. Colocation with storage addresses this wedge directly and induces the greatest renewable entry by eliminating generator revenue risk. We test these predictions by exploiting the staggered release of large language models as a natural experiment, using difference-in-differences on a novel dataset linking AI activity to local grid outcomes. AI demand significantly increases fossil generation, wholesale prices (up to 25% in treated PJM zones), and outage frequency (0.5--1 additional outages per year) near data centers, with impacts scaling in model size. Data centers with on-site generation exhibit a sign reversal in power-quality effects, consistent with the model's prediction that behind-the-meter capacity absorbs demand spikes. Counterfactual analyses show that edge inference, spatial reallocation, and colocated storage each substantially mitigate grid impacts, while REC-only strategies do not. Together, our results demonstrate that the externalities of AI to the grid are tightly coupled to procurement design and the spatial organization of data center infrastructure."
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQmdoY3dVd3hoSmZIbU1RajM2TVByN2s2bkpWSUV5b3N0OE02QzdEZDJwMnRLYURkcUtZZjlvVGJqWHNhb2lZQzJaUXJJcEhFbWhnMGtlSU1ELUR2NGc5aHVIRE9yQ0FUN2xPSExfb2JTeHJQaHdOV1FGb1YtM0l3dFlCS1ZhdEtlZHpVdjlxNS1NT2JMMDRUMlB2NGJ3bVhQTENsRzhndXExUm1INzEwMU1PSTZHb0FyVHdz?oc=5"
+        },
+        {
+          "d": "wheresyoured.at",
+          "u": "https://www.wheresyoured.at/the-ai-demand-bubble/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2606.00811"
+        }
+      ],
+      "srcTitles": [
+        "Obsidian Security raises funding at $1.1 billion valuation on AI security demand",
+        "The AI Demand Bubble",
+        "Certificates without Electrons? Theory and Evidence on Impacts from AI-Driven Power Demand"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 32,
+      "signal": 28,
       "sources": 3,
       "ts": "2026-08-04T13:05:30.000Z",
       "writtenSources": 2,
