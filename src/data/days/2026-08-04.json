@@ -147,7 +147,7 @@
     },
     {
       "cat": "research",
-      "signal": 43,
+      "signal": 39,
       "sources": 3,
       "ts": "2026-08-04T15:00:07.000Z",
       "writtenSources": 2,
@@ -184,8 +184,8 @@
     },
     {
       "cat": "models",
-      "signal": 34,
-      "sources": 2,
+      "signal": 37,
+      "sources": 3,
       "ts": "2026-08-04T15:50:06.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -207,11 +207,16 @@
         {
           "d": "reddit.com",
           "u": "https://www.reddit.com/r/MachineLearning/comments/1vfnuxw/building_a_new_projectp/"
+        },
+        {
+          "d": "epoch.ai",
+          "u": "https://epoch.ai/MirrorCode"
         }
       ],
       "srcTitles": [
         "Spotify expands AI remix and covers project with Merlin partnership",
-        "Building a new project[P]"
+        "Building a new project[P]",
+        "What's the largest software project AI can complete on its own?"
       ]
     },
     {
@@ -255,7 +260,7 @@
     },
     {
       "cat": "policy",
-      "signal": 28,
+      "signal": 24,
       "sources": 3,
       "ts": "2026-08-04T13:05:30.000Z",
       "writtenSources": 2,
