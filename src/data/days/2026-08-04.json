@@ -2,8 +2,40 @@
   "date": "2026-08-04",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-08-04T14:43:12.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic signs $10B deal with AI cloud startup Volta",
+      "s": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+      "b": [
+        "techcrunch.com: Anthropic signs $10B deal with AI cloud startup Volta",
+        "reuters.com: AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership"
+      ],
+      "body": [
+        "techcrunch.com: Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+        "reuters.com: AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership Reuters"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORVNKc2JqcmZfVzBfczJuMDFnREpKUl9xME1jNlMyckt5TUJJdmstdmZtZ2VmZThsbl9RWDJZNE9qV0Vtang2bzFObk8xTUl1b2taUnBTd0hBc3BvdXNONlNlbkNIZUVpblhrR2FYSXMwWmt6MHphbUhLRUxmZGZGZHRlVmhxc3hKZERHWFpYbTYxd1JzVmxXdlkxNXZIYWxSNjNYdlNBNWNJdWNzNi1QY1NJR1ZhMExRTWFUQzRR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic signs $10B deal with AI cloud startup Volta",
+        "AI cloud startup Volta valued at $2.4 billion, announces $10 billion AI partnership"
+      ]
+    },
+    {
       "cat": "research",
-      "signal": 55,
+      "signal": 51,
       "sources": 3,
       "ts": "2026-08-04T15:00:07.000Z",
       "writtenSources": 2,
@@ -89,8 +121,45 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 45,
+      "sources": 3,
+      "ts": "2026-08-04T15:33:21.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Texas halts new data centers as governor calls for audits",
+      "s": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can b",
+      "b": [
+        "techcrunch.com: Texas halts new data centers as governor calls for audits",
+        "theverge.com: Texas says data centers must pass an audit before connecting to the grid"
+      ],
+      "body": [
+        "techcrunch.com: Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
+        "theverge.com: Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new data center proposals, writing that [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/975071/texas-data-center-audit"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/08/texas-halts-data-center-connections-to-power-grid-amid-overwhelming-demand/"
+        }
+      ],
+      "srcTitles": [
+        "Texas halts new data centers as governor calls for audits",
+        "Texas says data centers must pass an audit before connecting to the grid",
+        "Texas halts data center connections to power grid amid overwhelming demand"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 40,
+      "signal": 36,
       "sources": 3,
       "ts": "2026-08-04T13:05:30.000Z",
       "writtenSources": 2,
@@ -123,38 +192,6 @@
         "A World Bank report says developing economies stand to benefit more from AI boosting their workers' output than they will lose in jobs being replaced by AI (Joseph Cotterill/Financial Times)",
         "AI offers 'lifeline' for emerging economies, World Bank says",
         "AI offers ’lifeline’ for emerging economies, World Bank says"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 39,
-      "sources": 2,
-      "ts": "2026-08-04T15:33:21.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Texas halts new data centers as governor calls for audits",
-      "s": "Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can b",
-      "b": [
-        "techcrunch.com: Texas halts new data centers as governor calls for audits",
-        "theverge.com: Texas says data centers must pass an audit before connecting to the grid"
-      ],
-      "body": [
-        "techcrunch.com: Tech companies and developers have been scouring the U.S. for places to build data centers, and they’ve been drawn to Texas’ loose regulations and seemingly abundant power supply. But even Texas can be pushed to the brink.",
-        "theverge.com: Texas announced new a audit on data centers that could slow approval for new facilities seeking to connect to the state energy grid. Governor Greg Abbott (R) on Monday directed the Public Utility Commission of Texas (PUCT) and the Electric Reliability Council of Texas (ERCOT) to verify and audit new data center proposals, writing that [ ]"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/08/04/texas-halts-new-data-centers-as-governor-calls-for-audits/"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/policy/975071/texas-data-center-audit"
-        }
-      ],
-      "srcTitles": [
-        "Texas halts new data centers as governor calls for audits",
-        "Texas says data centers must pass an audit before connecting to the grid"
       ]
     },
     {
