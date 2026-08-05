@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 58,
-      "sources": 3,
+      "signal": 57,
+      "sources": 4,
       "ts": "2026-08-04T22:17:11.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -26,6 +26,10 @@
           "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNS2FLWUNZSExUajNLYzYtQzh2aVNJMkhsNlBJcjBZY1dEd3JFSXg1OEI0Nk9VM0NIRVhhb2J3c2VUSFpFaVBIQnk1aEhOMGpZWTJMazUxR3Z0YTEwRlEzUExuTHlzZkN2NUU5cjBqX1EwX1pJOHFVNWVObnk0YkVNTWhNNkJGNDFlRndnSnV4M2l0UDZrcmV1N2UtSVJoSHNJV0htMlg1T1g1VTg5eWc?oc=5"
         },
         {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQS1FYUZPYVdVdDlxdWdUcU5xNmV5S1l0MVpGRmJjOHJiSHl1SmdvTDN6UTROcmh5MjJtdE5VTnRjM0JScGVYeUdPaW56cnEycFR5VGx1R0x6Q0VZREFQaDVyOUVoT09KRkxvLUJqb0c3T1R4dWxNUko0SldIT0tON2VlY2dOeEhSNVQtWFNta1FlYzNwLVIzNS1mbUlOT0pqRU5pdVVLLWtkbGNJSWc?oc=5"
+        },
+        {
           "d": "nytimes.com",
           "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMlB1UDdKalpjUzY3Q2JFVXZtRDZLcld6aF9hOWRpZHRzcVp3QlpVVjdneFlNR3FGY2xyWVBocFluTk9KMmVsZjBLSGFPWC00aFh6WndYcmhJMGtUMk5Vdm0xRldhZzFJWUxiQlJMc1YtV0VmaGhQUkhtc2prRGNaRA?oc=5"
         },
@@ -36,6 +40,7 @@
       ],
       "srcTitles": [
         "White House will exempt ‘open’ AI systems from security review",
+        "White House AI vetting plan to exempt lower-cost ‘open’ models",
         "White House Readies A.I. Framework to Review Security Risks",
         "White House AI Guidelines Exempt U.S. Open Models From Government Review"
       ]
