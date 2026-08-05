@@ -79,7 +79,7 @@
     },
     {
       "cat": "products",
-      "signal": 61,
+      "signal": 58,
       "sources": 2,
       "ts": "2026-08-05T15:46:27.000Z",
       "writtenSources": 2,
@@ -177,43 +177,6 @@
     },
     {
       "cat": "models",
-      "signal": 48,
-      "sources": 3,
-      "ts": "2026-08-05T03:56:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "AI agents fake identities, target real people in new security incident",
-      "s": "AI agents fake identities, target real people in new security incident CNN",
-      "b": [
-        "cnn.com: AI agents fake identities, target real people in new security incident",
-        "csoonline.com: OpenAI, Anthropic AI models created fake identities and targeted real people in cyber tests"
-      ],
-      "body": [
-        "cnn.com: AI agents fake identities, target real people in new security incident CNN",
-        "csoonline.com: OpenAI, Anthropic AI models created fake identities and targeted real people in cyber tests csoonline.com"
-      ],
-      "l": [
-        {
-          "d": "edition.cnn.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmt0OTliSDBrcGl3TU55ZlJYczRKdTB0clh6eFR5X2xNWTEteWdpOFU0RUZlVWZRa2NKR1JKdDZkR0RMQUpIRk1sV1Z0aEEzMXdPME81bmJMcHhoMHFBbzY2M1VISjNySHgwbFc0STVHOS11V29WWExBRWRjNy12ZUpiNk5qd2VPdkhldw?oc=5"
-        },
-        {
-          "d": "csoonline.com",
-          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLUQ1bnRvUFdMbXBncjV5V3lQV3YwZTA4NHZFNXd1SUM2WmRYRkJXRnRJWDl0MU5kdEMySUx2STMwaEVTajA2Q1BDcFFtaUdIdHVsNzdDQVRBcGoyYkVYWHVqRzUzZ1A2MENnSlhYanFSUURpNElwNEdYNjB3SHc2ZjBiTHgzNkFDRTAzVEdORDZTeDQ1cmJiQjZ1eDRyTENKR0tseUNDZHBzZ1lrWmZ0VTFhRUpOTm5MV3RBZWM3cnFBY1d3?oc=5"
-        },
-        {
-          "d": "kmph.com",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3IzX0VIdkRWZV94RktydVZqdEpLazg5ZjlSX1M1LTJORVg0RVB4WXRXMVFoc0xmQ09uX3JnOFhheFNubDhEVmVHSW52S3VFYnVKRmtmQjRMQjdGeUgtQ3prYnl2eWg3aEFlT25nLWVkeERJYUpqMERON0I0NU9OZGdIREZjbWo1S1F2azNiWVpZVUdFQkRreENmQXN5Zkx5M0dKbnBSa19MSWJXMUgtSlpkWEowdkxraW53?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic AI agent fakes identities, targets real people in new security incident",
-        "OpenAI, Anthropic AI models created fake identities and targeted real people in cyber tests",
-        "Anthropic, OpenAI models used fake identities to plant malicious code"
-      ]
-    },
-    {
-      "cat": "models",
       "signal": 45,
       "sources": 4,
       "ts": "2026-08-05T04:00:00.000Z",
@@ -257,8 +220,45 @@
       ]
     },
     {
-      "cat": "funding",
+      "cat": "models",
       "signal": 44,
+      "sources": 3,
+      "ts": "2026-08-05T03:56:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI agents fake identities, target real people in new security incident",
+      "s": "AI agents fake identities, target real people in new security incident CNN",
+      "b": [
+        "cnn.com: AI agents fake identities, target real people in new security incident",
+        "csoonline.com: OpenAI, Anthropic AI models created fake identities and targeted real people in cyber tests"
+      ],
+      "body": [
+        "cnn.com: AI agents fake identities, target real people in new security incident CNN",
+        "csoonline.com: OpenAI, Anthropic AI models created fake identities and targeted real people in cyber tests csoonline.com"
+      ],
+      "l": [
+        {
+          "d": "edition.cnn.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMmt0OTliSDBrcGl3TU55ZlJYczRKdTB0clh6eFR5X2xNWTEteWdpOFU0RUZlVWZRa2NKR1JKdDZkR0RMQUpIRk1sV1Z0aEEzMXdPME81bmJMcHhoMHFBbzY2M1VISjNySHgwbFc0STVHOS11V29WWExBRWRjNy12ZUpiNk5qd2VPdkhldw?oc=5"
+        },
+        {
+          "d": "csoonline.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLUQ1bnRvUFdMbXBncjV5V3lQV3YwZTA4NHZFNXd1SUM2WmRYRkJXRnRJWDl0MU5kdEMySUx2STMwaEVTajA2Q1BDcFFtaUdIdHVsNzdDQVRBcGoyYkVYWHVqRzUzZ1A2MENnSlhYanFSUURpNElwNEdYNjB3SHc2ZjBiTHgzNkFDRTAzVEdORDZTeDQ1cmJiQjZ1eDRyTENKR0tseUNDZHBzZ1lrWmZ0VTFhRUpOTm5MV3RBZWM3cnFBY1d3?oc=5"
+        },
+        {
+          "d": "kmph.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa3IzX0VIdkRWZV94RktydVZqdEpLazg5ZjlSX1M1LTJORVg0RVB4WXRXMVFoc0xmQ09uX3JnOFhheFNubDhEVmVHSW52S3VFYnVKRmtmQjRMQjdGeUgtQ3prYnl2eWg3aEFlT25nLWVkeERJYUpqMERON0I0NU9OZGdIREZjbWo1S1F2azNiWVpZVUdFQkRreENmQXN5Zkx5M0dKbnBSa19MSWJXMUgtSlpkWEowdkxraW53?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic AI agent fakes identities, targets real people in new security incident",
+        "OpenAI, Anthropic AI models created fake identities and targeted real people in cyber tests",
+        "Anthropic, OpenAI models used fake identities to plant malicious code"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 40,
       "sources": 2,
       "ts": "2026-08-05T14:15:00.000Z",
       "writtenSources": 2,
@@ -322,7 +322,7 @@
     },
     {
       "cat": "models",
-      "signal": 33,
+      "signal": 29,
       "sources": 3,
       "ts": "2026-08-05T13:03:46.000Z",
       "writtenSources": 2,
