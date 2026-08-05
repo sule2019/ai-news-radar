@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 61,
-      "sources": 2,
+      "signal": 70,
+      "sources": 3,
       "ts": "2026-08-05T16:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,6 +20,10 @@
       ],
       "l": [
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/"
+        },
+        {
           "d": "wired.com",
           "u": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/"
         },
@@ -29,8 +33,48 @@
         }
       ],
       "srcTitles": [
+        "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
         "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
         "Jeff Dean and three other Google execs are leaving to launch Discovery Loop, which will seek AI-powered breakthroughs in drug discovery, chip design, and more (Steven Levy/Wired)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 62,
+      "sources": 3,
+      "ts": "2026-08-05T16:03:12.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ (Axios)",
+      "s": "Axios : Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ Demis Hassabis is leaving his role as CEO",
+      "b": [
+        "techmeme.com: Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ (Axios)",
+        "cnbc.com: Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
+        "wsj.com: Google Overhauls AI Leadership as Longtime Chief Scientist Joins Wave of Exits"
+      ],
+      "body": [
+        "techmeme.com: Axios : Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ Demis Hassabis is leaving his role as CEO of Google DeepMind to be the unit's chairman. Chief scientist Jeff Dean and several Google AI colleagues",
+        "cnbc.com: Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO cnbc.com",
+        "wsj.com: Google Overhauls AI Leadership as Longtime Chief Scientist Joins Wave of Exits WSJ"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260805/p26#a260805p26"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkhiNlh6LVJaNmJiWXYwZm11TFRwS3JVWWVVVkRHdzlWeGhkSk04WXhnQ1R2QjhJNmU5VXdsd3FJSG81cGVlQTlJUUdIYThaSnczYU1XbE84N09ucXRPVXBhbnlkamtWV3JhVUpUZ2NMMDE2RkJhWG1pdXlSRzljSTA0eXhRdHEybUpvOEZXcGJWQzJKWndPREFCZlBXNGZqVWfSAacBQVVfeXFMTmpLM184R3JUZkd3THZNMVEwalh2LURjVDFwMFlSSEt3eVMtV2VCVVhpTF9aSjhiT0twYVFaZi15TW9yXzFEMGpIdjIwMWZTaFJKVjZmeFB5dG43dUlhX0QwYUQzbzVvdnFnX0pfaU4yYzA4OFFZM205LVd5WDNMejBWbWdHVnA2MHVIYW5JZHdZZFQzZDdqWFZpazV2LUxpS0Z2UlFWRUU?oc=5"
+        },
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTZ2R2lCZ3lyOXJqRVY4ZndqaWV5UWkzMzc3VEg0SjBIVzRUZF9RNGxiZlRlVEtSWVhEeFUzUjVUUzJHUFB2c3lJenRWNHlpdTN5TkZDemNxTVlpTGI1NjVlcWxSTDRwZkx0UjE2M1pPTVVYQUtsdW5wcnBDZElYN3NsMmV4dlVPdXlzS012cWhkZVhESTU1OXFkZ09FUmRwc2Myemp2S2tSVXZfdklYNThobw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ (Axios)",
+        "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
+        "Google Overhauls AI Leadership as Longtime Chief Scientist Joins Wave of Exits"
       ]
     },
     {
@@ -133,7 +177,7 @@
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 48,
       "sources": 3,
       "ts": "2026-08-05T03:56:00.000Z",
       "writtenSources": 2,
@@ -169,78 +213,9 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 48,
-      "sources": 2,
-      "ts": "2026-08-05T14:15:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering",
-      "s": "12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering The Motley Fool",
-      "b": [
-        "fool.com: 12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering",
-        "theglobeandmail.com: 12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering"
-      ],
-      "body": [
-        "fool.com: 12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering The Motley Fool",
-        "theglobeandmail.com: 12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering The Globe and Mail"
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObDBBM3FMQS1RNnRHOUI2dnVWM25OUHZuUXYzQmRvcEoyNFNHc0lxMHhKX2t5RHBsYkU5VGVZbUM0UmROODJPV3hjSDctYXdGMnBSZEh1U18yS1NYbDZ3SEo1Sy1JcmtBYlkyTVRQVGZTNm5FVUUyR2dkS2JmZEpzYV9uWWxpWXFnM01wMHVpV0UzLUwt?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRVNiLVpIMnJ5MWpYMDlwa0w2VjVENlA1YkJ6aEFsb3JVMjR2WlNKMVBEbjFWX3NtWFNHLVJUX0F4cTJBcnZrSWFXbFNjNllaY0g5NUZQRTNoVmtHdDU5MjdGNExITDZGSFpZeUM3THI2aFR5RVBCZENWNFZVUEdpRmZxYVZ4bV9tNFQ0VFhyRk9mUUVMRzZFMVBidG0xZ0VoajJHSGJFcF8zUUdFV2VreHAxMjQxVXJiV054ZUlOUmJwZXc1dkZhMFR1RWl5UVVYbm9EaXNvcFJ6VGlLdXphZ0RqWEp2VlRtN2NBRFAwdS1tOXNSaFlteTBYUTNRTjhRSi1SY2ZpbjBXeDFQcXhUZg?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering",
-        "12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 37,
-      "sources": 3,
-      "ts": "2026-08-05T13:03:46.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
-      "s": "Isabelle Bousquette / Wall Street Journal : How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its d",
-      "b": [
-        "techmeme.com: How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
-        "lasalle.edu: Making sense of AI"
-      ],
-      "body": [
-        "techmeme.com: Isabelle Bousquette / Wall Street Journal : How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough Kellanova, which manufactures Pringles in Europe, says a new AI project could be the key to improving production of the iconic chip",
-        "lasalle.edu: Making sense of AI La Salle University"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260805/p20#a260805p20"
-        },
-        {
-          "d": "lasalle.edu",
-          "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4dGg5TlIxcDAxeTVjMDBGREJHajVob2Q4MlVtRE9XRWRiOVZGRUdheE1wR1RheTgxaVRReWZyWHdpOGFVQ2N3U0RiUHJaZVEzeDF5Sy1nYzZrVWFQ?oc=5"
-        },
-        {
-          "d": "gizmodo.com",
-          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2gwN2d5emlzWXpqelZZUDZqOUFhSlN3WnlzNzVHVUxmY0NWTHJTTkpWYjZDZzlFR2tUc2x0V3FoTmFtOWc0ZHVaWkZrLWdvTFc0SmNmQXRDQ3pHV3A1dmNCQkRJR0xJNm05OGNaaWg1VXFwQ0RIUFlmNmptRUFCRUxWRW1Jb0Yyb29nVk5YU29lSzZtMjAzOEpn?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
-        "Making sense of AI",
-        "While AI Keeps Going Rogue, Trump’s Safety Theater Makes No Sense"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 37,
-      "sources": 3,
+      "signal": 45,
+      "sources": 4,
       "ts": "2026-08-05T04:00:00.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -268,12 +243,49 @@
         {
           "d": "arxiv.org",
           "u": "https://arxiv.org/abs/2608.00748"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/gadgets/2026/08/reddit-signals-ominous-upcoming-changes-for-old-reddit-com/"
         }
       ],
       "srcTitles": [
         "Reddit is introducing a new moderator: AI",
         "[ Removed by Reddit ]",
-        "Me and My Bot: What Users Talk About in AI Companion Communities on Reddit"
+        "Me and My Bot: What Users Talk About in AI Companion Communities on Reddit",
+        "Reddit signals ominous upcoming \"changes” for old.reddit.com"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 44,
+      "sources": 2,
+      "ts": "2026-08-05T14:15:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering",
+      "s": "12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering The Motley Fool",
+      "b": [
+        "fool.com: 12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering",
+        "theglobeandmail.com: 12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering"
+      ],
+      "body": [
+        "fool.com: 12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering The Motley Fool",
+        "theglobeandmail.com: 12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObDBBM3FMQS1RNnRHOUI2dnVWM25OUHZuUXYzQmRvcEoyNFNHc0lxMHhKX2t5RHBsYkU5VGVZbUM0UmROODJPV3hjSDctYXdGMnBSZEh1U18yS1NYbDZ3SEo1Sy1JcmtBYlkyTVRQVGZTNm5FVUUyR2dkS2JmZEpzYV9uWWxpWXFnM01wMHVpV0UzLUwt?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRVNiLVpIMnJ5MWpYMDlwa0w2VjVENlA1YkJ6aEFsb3JVMjR2WlNKMVBEbjFWX3NtWFNHLVJUX0F4cTJBcnZrSWFXbFNjNllaY0g5NUZQRTNoVmtHdDU5MjdGNExITDZGSFpZeUM3THI2aFR5RVBCZENWNFZVUEdpRmZxYVZ4bV9tNFQ0VFhyRk9mUUVMRzZFMVBidG0xZ0VoajJHSGJFcF8zUUdFV2VreHAxMjQxVXJiV054ZUlOUmJwZXc1dkZhMFR1RWl5UVVYbm9EaXNvcFJ6VGlLdXphZ0RqWEp2VlRtN2NBRFAwdS1tOXNSaFlteTBYUTNRTjhRSi1SY2ZpbjBXeDFQcXhUZg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering",
+        "12 Words From Amazon CEO Andy Jassy That Should Have Artificial Intelligence (AI) Investors Cheering"
       ]
     },
     {
@@ -306,6 +318,43 @@
       "srcTitles": [
         "Rogue AI agents created fake online identities in another hacking attempt",
         "OK, Well, Rogue AI Agents Are Hacking Again"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 33,
+      "sources": 3,
+      "ts": "2026-08-05T13:03:46.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
+      "s": "Isabelle Bousquette / Wall Street Journal : How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its d",
+      "b": [
+        "techmeme.com: How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
+        "lasalle.edu: Making sense of AI"
+      ],
+      "body": [
+        "techmeme.com: Isabelle Bousquette / Wall Street Journal : How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough Kellanova, which manufactures Pringles in Europe, says a new AI project could be the key to improving production of the iconic chip",
+        "lasalle.edu: Making sense of AI La Salle University"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260805/p20#a260805p20"
+        },
+        {
+          "d": "lasalle.edu",
+          "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4dGg5TlIxcDAxeTVjMDBGREJHajVob2Q4MlVtRE9XRWRiOVZGRUdheE1wR1RheTgxaVRReWZyWHdpOGFVQ2N3U0RiUHJaZVEzeDF5Sy1nYzZrVWFQ?oc=5"
+        },
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2gwN2d5emlzWXpqelZZUDZqOUFhSlN3WnlzNzVHVUxmY0NWTHJTTkpWYjZDZzlFR2tUc2x0V3FoTmFtOWc0ZHVaWkZrLWdvTFc0SmNmQXRDQ3pHV3A1dmNCQkRJR0xJNm05OGNaaWg1VXFwQ0RIUFlmNmptRUFCRUxWRW1Jb0Yyb29nVk5YU29lSzZtMjAzOEpn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
+        "Making sense of AI",
+        "While AI Keeps Going Rogue, Trump’s Safety Theater Makes No Sense"
       ]
     },
     {
@@ -373,38 +422,6 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 18,
-      "sources": 2,
-      "ts": "2026-08-04T23:01:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "AI stories preferred to human-written ones - study",
-      "s": "AI stories preferred to human-written ones - study BBC",
-      "b": [
-        "bbc.com: AI stories preferred to human-written ones - study",
-        "theguardian.com: AI-generated stories rated better quality than human-written ones, study finds"
-      ],
-      "body": [
-        "bbc.com: AI stories preferred to human-written ones - study BBC",
-        "theguardian.com: AI-generated stories rated better quality than human-written ones, study finds The Guardian"
-      ],
-      "l": [
-        {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OajBPWDR5VFYzY1h4Z2VNN0pJOUVZUjJBY0MtTXZTQldHOFpsS2lKVWZST0JwQ0hsc1drNTdqWHA0c1d4V2FuRnNYOGxuMWZENS1lSzVUdUUxUQ?oc=5"
-        },
-        {
-          "d": "theguardian.com",
-          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjJQTFhjTUNpdG03blhNOWhCU3R1eVNQa05EaUlPMkd6UHNuVGFvbEhvQUtVRHJoSmJRSFRfcHdtYVI2dU52d0xhcVRvQ05jSkw3TmliT1JzT2lOQWhpbWoxbUFNSHFUXzQ3OXFIYlZueGR0N0U2VUhpTVRtcjlMU3hZLXNEWldXbHdVQzZiTDhlNUVXRjJqSVI5a0UxeU0yTE5KYUdSeTlFdFZYQTAwV2NwSG5iOF95VkVHU0FXUUpSX2FyUjVZ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "AI stories preferred to human-written ones - study",
-        "AI-generated stories rated better quality than human-written ones, study finds"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 15,
       "sources": 2,
@@ -434,6 +451,38 @@
       "srcTitles": [
         "Diembassy CEO Dr. Linda Pajoel Delivers Keynote on Artificial Intelligence at Executive Leadership Retreat in Tanzania - Carroll County Mirror-Democrat",
         "Diembassy CEO Dr. Linda Pajoel Delivers Keynote on Artificial Intelligence at Executive Leadership Retreat in Tanzania"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-08-04T23:01:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI stories preferred to human-written ones - study",
+      "s": "AI stories preferred to human-written ones - study BBC",
+      "b": [
+        "bbc.com: AI stories preferred to human-written ones - study",
+        "theguardian.com: AI-generated stories rated better quality than human-written ones, study finds"
+      ],
+      "body": [
+        "bbc.com: AI stories preferred to human-written ones - study BBC",
+        "theguardian.com: AI-generated stories rated better quality than human-written ones, study finds The Guardian"
+      ],
+      "l": [
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OajBPWDR5VFYzY1h4Z2VNN0pJOUVZUjJBY0MtTXZTQldHOFpsS2lKVWZST0JwQ0hsc1drNTdqWHA0c1d4V2FuRnNYOGxuMWZENS1lSzVUdUUxUQ?oc=5"
+        },
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjJQTFhjTUNpdG03blhNOWhCU3R1eVNQa05EaUlPMkd6UHNuVGFvbEhvQUtVRHJoSmJRSFRfcHdtYVI2dU52d0xhcVRvQ05jSkw3TmliT1JzT2lOQWhpbWoxbUFNSHFUXzQ3OXFIYlZueGR0N0U2VUhpTVRtcjlMU3hZLXNEWldXbHdVQzZiTDhlNUVXRjJqSVI5a0UxeU0yTE5KYUdSeTlFdFZYQTAwV2NwSG5iOF95VkVHU0FXUUpSX2FyUjVZ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI stories preferred to human-written ones - study",
+        "AI-generated stories rated better quality than human-written ones, study finds"
       ]
     }
   ]
