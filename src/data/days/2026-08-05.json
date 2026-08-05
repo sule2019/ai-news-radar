@@ -37,7 +37,7 @@
     },
     {
       "cat": "models",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-08-05T03:56:00.000Z",
       "writtenSources": 2,
@@ -69,7 +69,7 @@
     },
     {
       "cat": "models",
-      "signal": 40,
+      "signal": 37,
       "sources": 2,
       "ts": "2026-08-05T13:03:46.000Z",
       "writtenSources": 2,
@@ -97,38 +97,6 @@
       "srcTitles": [
         "How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
         "Making sense of AI"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 28,
-      "sources": 2,
-      "ts": "2026-08-05T11:42:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Artificial Intelligence Consortium minutes – June 2026",
-      "s": "Artificial Intelligence Consortium minutes – June 2026 EIN News",
-      "b": [
-        "einnews.com: Artificial Intelligence Consortium minutes – June 2026",
-        "bankofengland.co.uk: Artificial Intelligence Consortium minutes – June 2026"
-      ],
-      "body": [
-        "einnews.com: Artificial Intelligence Consortium minutes – June 2026 EIN News",
-        "bankofengland.co.uk: Artificial Intelligence Consortium minutes – June 2026 Bank of England"
-      ],
-      "l": [
-        {
-          "d": "einnews.com",
-          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ3FpS0NEamREVjlpa1pHT0N2d2hHMm9vVVpnYjJWdnQ2cEFOVXJIS0FER2lVOGplV0FTMFZhTERUUl91Xy1jWjhmTVpNQm9iaU5WNzBJSzQzbzVlM3ZNaEg0LVF3Z2s2TjFVcTljWmNYMjFDMUd6cVc4aUJZY1NEeTczQ0FrcFFXT19kcUVYYm1pRlhWR1VNSXJR?oc=5"
-        },
-        {
-          "d": "bankofengland.co.uk",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR0dFb2k3VGJQTHRWVmdsNEhUWWZ0aUs5NEZybExRREhhUndkM2NZaDhReV9mTHh3cUlONHVIMG1YMEphZ1dYWlJSNjRpLTJWSEpESE9UVWNXdTlJWDZfNXlSWkJQdmVhSUotZWtnaGJhNGFCUUZ4eWh2bGJKc1M2bDRYQ2FpaG5ZeGsw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Artificial Intelligence Consortium minutes – June 2026",
-        "Artificial Intelligence Consortium minutes – June 2026"
       ]
     },
     {
@@ -165,7 +133,39 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 24,
+      "sources": 2,
+      "ts": "2026-08-05T11:42:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial Intelligence Consortium minutes – June 2026",
+      "s": "Artificial Intelligence Consortium minutes – June 2026 EIN News",
+      "b": [
+        "einnews.com: Artificial Intelligence Consortium minutes – June 2026",
+        "bankofengland.co.uk: Artificial Intelligence Consortium minutes – June 2026"
+      ],
+      "body": [
+        "einnews.com: Artificial Intelligence Consortium minutes – June 2026 EIN News",
+        "bankofengland.co.uk: Artificial Intelligence Consortium minutes – June 2026 Bank of England"
+      ],
+      "l": [
+        {
+          "d": "einnews.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ3FpS0NEamREVjlpa1pHT0N2d2hHMm9vVVpnYjJWdnQ2cEFOVXJIS0FER2lVOGplV0FTMFZhTERUUl91Xy1jWjhmTVpNQm9iaU5WNzBJSzQzbzVlM3ZNaEg0LVF3Z2s2TjFVcTljWmNYMjFDMUd6cVc4aUJZY1NEeTczQ0FrcFFXT19kcUVYYm1pRlhWR1VNSXJR?oc=5"
+        },
+        {
+          "d": "bankofengland.co.uk",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNR0dFb2k3VGJQTHRWVmdsNEhUWWZ0aUs5NEZybExRREhhUndkM2NZaDhReV9mTHh3cUlONHVIMG1YMEphZ1dYWlJSNjRpLTJWSEpESE9UVWNXdTlJWDZfNXlSWkJQdmVhSUotZWtnaGJhNGFCUUZ4eWh2bGJKc1M2bDRYQ2FpaG5ZeGsw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial Intelligence Consortium minutes – June 2026",
+        "Artificial Intelligence Consortium minutes – June 2026"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 18,
       "sources": 2,
       "ts": "2026-08-05T01:00:04.000Z",
       "writtenSources": 2,
