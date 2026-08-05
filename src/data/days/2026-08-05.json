@@ -2,9 +2,41 @@
   "date": "2026-08-05",
   "stories": [
     {
+      "cat": "products",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-08-05T19:43:30.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Meta launches Muse Code, an AI agent for large code bases",
+      "s": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "b": [
+        "techcrunch.com: Meta launches Muse Code, an AI agent for large code bases",
+        "techmeme.com: Meta releases Muse Code in beta, a terminal coding agent powered by Muse Spark 1.2, a coding-focused model priced at $1.25/1M input and $4.25/1M output tokens (Jonathan Vanian/CNBC)"
+      ],
+      "body": [
+        "techcrunch.com: Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+        "techmeme.com: Jonathan Vanian / CNBC : Meta releases Muse Code in beta, a terminal coding agent powered by Muse Spark 1.2, a coding-focused model priced at $1.25/1M input and $4.25/1M output tokens Meta is rolling out its first coding agent called Muse Code as the company tries to challenge leading AI labs Anthropic and OpenAI."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260805/p34#a260805p34"
+        }
+      ],
+      "srcTitles": [
+        "Meta launches Muse Code, an AI agent for large code bases",
+        "Meta releases Muse Code in beta, a terminal coding agent powered by Muse Spark 1.2, a coding-focused model priced at $1.25/1M input and $4.25/1M output tokens (Jonathan Vanian/CNBC)"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 70,
-      "sources": 3,
+      "signal": 58,
+      "sources": 2,
       "ts": "2026-08-05T16:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -26,55 +58,11 @@
         {
           "d": "wired.com",
           "u": "https://www.wired.com/story/jeff-dean-google-discovery-loop-startup/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260805/p27#a260805p27"
         }
       ],
       "srcTitles": [
         "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
-        "Google’s Top AI Brains Are Leaving to Launch Discovery Loop",
-        "Jeff Dean and three other Google execs are leaving to launch Discovery Loop, which will seek AI-powered breakthroughs in drug discovery, chip design, and more (Steven Levy/Wired)"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 62,
-      "sources": 3,
-      "ts": "2026-08-05T16:03:12.000Z",
-      "writtenSources": 3,
-      "draft": true,
-      "h": "Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ (Axios)",
-      "s": "Axios : Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ Demis Hassabis is leaving his role as CEO",
-      "b": [
-        "techmeme.com: Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ (Axios)",
-        "cnbc.com: Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
-        "wsj.com: Google Overhauls AI Leadership as Longtime Chief Scientist Joins Wave of Exits"
-      ],
-      "body": [
-        "techmeme.com: Axios : Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ Demis Hassabis is leaving his role as CEO of Google DeepMind to be the unit's chairman. Chief scientist Jeff Dean and several Google AI colleagues",
-        "cnbc.com: Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO cnbc.com",
-        "wsj.com: Google Overhauls AI Leadership as Longtime Chief Scientist Joins Wave of Exits WSJ"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260805/p26#a260805p26"
-        },
-        {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkhiNlh6LVJaNmJiWXYwZm11TFRwS3JVWWVVVkRHdzlWeGhkSk04WXhnQ1R2QjhJNmU5VXdsd3FJSG81cGVlQTlJUUdIYThaSnczYU1XbE84N09ucXRPVXBhbnlkamtWV3JhVUpUZ2NMMDE2RkJhWG1pdXlSRzljSTA0eXhRdHEybUpvOEZXcGJWQzJKWndPREFCZlBXNGZqVWfSAacBQVVfeXFMTmpLM184R3JUZkd3THZNMVEwalh2LURjVDFwMFlSSEt3eVMtV2VCVVhpTF9aSjhiT0twYVFaZi15TW9yXzFEMGpIdjIwMWZTaFJKVjZmeFB5dG43dUlhX0QwYUQzbzVvdnFnX0pfaU4yYzA4OFFZM205LVd5WDNMejBWbWdHVnA2MHVIYW5JZHdZZFQzZDdqWFZpazV2LUxpS0Z2UlFWRUU?oc=5"
-        },
-        {
-          "d": "wsj.com",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTZ2R2lCZ3lyOXJqRVY4ZndqaWV5UWkzMzc3VEg0SjBIVzRUZF9RNGxiZlRlVEtSWVhEeFUzUjVUUzJHUFB2c3lJenRWNHlpdTN5TkZDemNxTVlpTGI1NjVlcWxSTDRwZkx0UjE2M1pPTVVYQUtsdW5wcnBDZElYN3NsMmV4dlVPdXlzS012cWhkZVhESTU1OXFkZ09FUmRwc2Myemp2S2tSVXZfdklYNThobw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ (Axios)",
-        "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
-        "Google Overhauls AI Leadership as Longtime Chief Scientist Joins Wave of Exits"
+        "Google’s Top AI Brains Are Leaving to Launch Discovery Loop"
       ]
     },
     {
@@ -177,6 +165,40 @@
     },
     {
       "cat": "models",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-08-05T16:03:12.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ (Axios)",
+      "s": "Axios : Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ Demis Hassabis is leaving his role as CEO",
+      "b": [
+        "techmeme.com: Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ (Axios)",
+        "cnbc.com: Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
+        "wsj.com: Google Overhauls AI Leadership as Longtime Chief Scientist Joins Wave of Exits"
+      ],
+      "body": [
+        "techmeme.com: Axios : Demis Hassabis is stepping down as CEO of Google DeepMind to be the unit's chairman and will add the title of Alphabet chief scientist; GOOG drops 3%+ Demis Hassabis is leaving his role as CEO of Google DeepMind to be the unit's chairman. Chief scientist Jeff Dean and several Google AI colleagues",
+        "cnbc.com: Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO cnbc.com",
+        "wsj.com: Google Overhauls AI Leadership as Longtime Chief Scientist Joins Wave of Exits WSJ"
+      ],
+      "l": [
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVkhiNlh6LVJaNmJiWXYwZm11TFRwS3JVWWVVVkRHdzlWeGhkSk04WXhnQ1R2QjhJNmU5VXdsd3FJSG81cGVlQTlJUUdIYThaSnczYU1XbE84N09ucXRPVXBhbnlkamtWV3JhVUpUZ2NMMDE2RkJhWG1pdXlSRzljSTA0eXhRdHEybUpvOEZXcGJWQzJKWndPREFCZlBXNGZqVWfSAacBQVVfeXFMTmpLM184R3JUZkd3THZNMVEwalh2LURjVDFwMFlSSEt3eVMtV2VCVVhpTF9aSjhiT0twYVFaZi15TW9yXzFEMGpIdjIwMWZTaFJKVjZmeFB5dG43dUlhX0QwYUQzbzVvdnFnX0pfaU4yYzA4OFFZM205LVd5WDNMejBWbWdHVnA2MHVIYW5JZHdZZFQzZDdqWFZpazV2LUxpS0Z2UlFWRUU?oc=5"
+        },
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTZ2R2lCZ3lyOXJqRVY4ZndqaWV5UWkzMzc3VEg0SjBIVzRUZF9RNGxiZlRlVEtSWVhEeFUzUjVUUzJHUFB2c3lJenRWNHlpdTN5TkZDemNxTVlpTGI1NjVlcWxSTDRwZkx0UjE2M1pPTVVYQUtsdW5wcnBDZElYN3NsMmV4dlVPdXlzS012cWhkZVhESTU1OXFkZ09FUmRwc2Myemp2S2tSVXZfdklYNThobw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Google's AI reshuffle: Chief scientist Jeff Dean exits and Demis Hassabis steps down as DeepMind CEO",
+        "Google Overhauls AI Leadership as Longtime Chief Scientist Joins Wave of Exits"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 45,
       "sources": 4,
       "ts": "2026-08-05T04:00:00.000Z",
@@ -221,7 +243,7 @@
     },
     {
       "cat": "models",
-      "signal": 44,
+      "signal": 40,
       "sources": 3,
       "ts": "2026-08-05T03:56:00.000Z",
       "writtenSources": 2,
@@ -258,7 +280,7 @@
     },
     {
       "cat": "funding",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-08-05T14:15:00.000Z",
       "writtenSources": 2,
@@ -318,43 +340,6 @@
       "srcTitles": [
         "Rogue AI agents created fake online identities in another hacking attempt",
         "OK, Well, Rogue AI Agents Are Hacking Again"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 29,
-      "sources": 3,
-      "ts": "2026-08-05T13:03:46.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
-      "s": "Isabelle Bousquette / Wall Street Journal : How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its d",
-      "b": [
-        "techmeme.com: How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
-        "lasalle.edu: Making sense of AI"
-      ],
-      "body": [
-        "techmeme.com: Isabelle Bousquette / Wall Street Journal : How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough Kellanova, which manufactures Pringles in Europe, says a new AI project could be the key to improving production of the iconic chip",
-        "lasalle.edu: Making sense of AI La Salle University"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260805/p20#a260805p20"
-        },
-        {
-          "d": "lasalle.edu",
-          "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4dGg5TlIxcDAxeTVjMDBGREJHajVob2Q4MlVtRE9XRWRiOVZGRUdheE1wR1RheTgxaVRReWZyWHdpOGFVQ2N3U0RiUHJaZVEzeDF5Sy1nYzZrVWFQ?oc=5"
-        },
-        {
-          "d": "gizmodo.com",
-          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2gwN2d5emlzWXpqelZZUDZqOUFhSlN3WnlzNzVHVUxmY0NWTHJTTkpWYjZDZzlFR2tUc2x0V3FoTmFtOWc0ZHVaWkZrLWdvTFc0SmNmQXRDQ3pHV3A1dmNCQkRJR0xJNm05OGNaaWg1VXFwQ0RIUFlmNmptRUFCRUxWRW1Jb0Yyb29nVk5YU29lSzZtMjAzOEpn?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
-        "Making sense of AI",
-        "While AI Keeps Going Rogue, Trump’s Safety Theater Makes No Sense"
       ]
     },
     {
@@ -419,6 +404,43 @@
       "srcTitles": [
         "What Are Legal Liabilities for Artificial Intelligence?",
         "Legal artificial intelligence is creating a hidden writing problem"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 25,
+      "sources": 3,
+      "ts": "2026-08-05T13:03:46.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
+      "s": "Isabelle Bousquette / Wall Street Journal : How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its d",
+      "b": [
+        "techmeme.com: How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
+        "lasalle.edu: Making sense of AI"
+      ],
+      "body": [
+        "techmeme.com: Isabelle Bousquette / Wall Street Journal : How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough Kellanova, which manufactures Pringles in Europe, says a new AI project could be the key to improving production of the iconic chip",
+        "lasalle.edu: Making sense of AI La Salle University"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260805/p20#a260805p20"
+        },
+        {
+          "d": "lasalle.edu",
+          "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4dGg5TlIxcDAxeTVjMDBGREJHajVob2Q4MlVtRE9XRWRiOVZGRUdheE1wR1RheTgxaVRReWZyWHdpOGFVQ2N3U0RiUHJaZVEzeDF5Sy1nYzZrVWFQ?oc=5"
+        },
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS2gwN2d5emlzWXpqelZZUDZqOUFhSlN3WnlzNzVHVUxmY0NWTHJTTkpWYjZDZzlFR2tUc2x0V3FoTmFtOWc0ZHVaWkZrLWdvTFc0SmNmQXRDQ3pHV3A1dmNCQkRJR0xJNm05OGNaaWg1VXFwQ0RIUFlmNmptRUFCRUxWRW1Jb0Yyb29nVk5YU29lSzZtMjAzOEpn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "How Pringles maker Kellanova is using AI and a partnership with Siemens to improve production of the chip in Europe, including making digital twins of its dough (Isabelle Bousquette/Wall Street Journal)",
+        "Making sense of AI",
+        "While AI Keeps Going Rogue, Trump’s Safety Theater Makes No Sense"
       ]
     },
     {
