@@ -37,6 +37,38 @@
     },
     {
       "cat": "models",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-08-05T03:56:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI agents fake identities, target real people in new security incident",
+      "s": "AI agents fake identities, target real people in new security incident CNN",
+      "b": [
+        "cnn.com: AI agents fake identities, target real people in new security incident",
+        "csoonline.com: OpenAI, Anthropic AI models created fake identities and targeted real people in cyber tests"
+      ],
+      "body": [
+        "cnn.com: AI agents fake identities, target real people in new security incident CNN",
+        "csoonline.com: OpenAI, Anthropic AI models created fake identities and targeted real people in cyber tests csoonline.com"
+      ],
+      "l": [
+        {
+          "d": "cnn.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRy1kMlN3OGN3MGJXWllocTc3MUFNNmpKRjd0MUVjcHNYbUtWWlNhMUp5ME5YNHZBVjVoaWJHWHlXaGlkcV9icFlvOHhKVVk1QzU3b2FVbW56dHNDOUI0U1NGRjd2U0UtTENzajdidWNjOHVuQmlmRzAtZlpsWmw5d3lXX2VQNFU?oc=5"
+        },
+        {
+          "d": "csoonline.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOLUQ1bnRvUFdMbXBncjV5V3lQV3YwZTA4NHZFNXd1SUM2WmRYRkJXRnRJWDl0MU5kdEMySUx2STMwaEVTajA2Q1BDcFFtaUdIdHVsNzdDQVRBcGoyYkVYWHVqRzUzZ1A2MENnSlhYanFSUURpNElwNEdYNjB3SHc2ZjBiTHgzNkFDRTAzVEdORDZTeDQ1cmJiQjZ1eDRyTENKR0tseUNDZHBzZ1lrWmZ0VTFhRUpOTm5MV3RBZWM3cnFBY1d3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI agents fake identities, target real people in new security incident",
+        "OpenAI, Anthropic AI models created fake identities and targeted real people in cyber tests"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 26,
       "sources": 2,
       "ts": "2026-08-05T01:00:04.000Z",
@@ -63,7 +95,7 @@
         }
       ],
       "srcTitles": [
-        "Diembassy CEO Dr. Linda Pajoel Delivers Keynote on Artificial Intelligence at Executive Leadership Retreat in Tanzania - Carroll County Mirror-Democrat",
+        "Diembassy CEO Dr. Linda Pajoel Delivers Keynote on Artificial Intelligence at Executive Leadership Retreat in Tanzania",
         "Diembassy CEO Dr. Linda Pajoel Delivers Keynote on Artificial Intelligence at Executive Leadership Retreat in Tanzania"
       ]
     },
