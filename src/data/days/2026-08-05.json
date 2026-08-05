@@ -69,38 +69,6 @@
       "cat": "products",
       "signal": 58,
       "sources": 2,
-      "ts": "2026-08-05T15:46:27.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Hark previews its browser use agent for completing tasks",
-      "s": "Hark claims that its browser use agent is faster and cheaper than competition.",
-      "b": [
-        "techcrunch.com: Hark previews its browser use agent for completing tasks",
-        "techmeme.com: Hark, founded by Figure AI CEO Brett Adcock, previews Handoff, a computer use agent it says outperforms GPT-5.4 and Opus 4.8, and plans for a summer release (Ivan Mehta/TechCrunch)"
-      ],
-      "body": [
-        "techcrunch.com: Hark claims that its browser use agent is faster and cheaper than competition.",
-        "techmeme.com: Ivan Mehta / TechCrunch : Hark, founded by Figure AI CEO Brett Adcock, previews Handoff, a computer use agent it says outperforms GPT-5.4 and Opus 4.8, and plans for a summer release Hark, a startup that raised $700 million in Series A funding in May, today launched its agent Hark Handoff, which can use a browser efficiently to complete tasks."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260805/p30#a260805p30"
-        }
-      ],
-      "srcTitles": [
-        "Hark previews its browser use agent for completing tasks",
-        "Hark, founded by Figure AI CEO Brett Adcock, previews Handoff, a computer use agent it says outperforms GPT-5.4 and Opus 4.8, and plans for a summer release (Ivan Mehta/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 58,
-      "sources": 2,
       "ts": "2026-08-05T11:12:50.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -161,6 +129,38 @@
       "srcTitles": [
         "The White House Is Keeping Its AI Cybersecurity Framework Secret",
         "Trump White House Readies AI Framework to Review Security Risks"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-08-05T15:46:27.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Hark previews its browser use agent for completing tasks",
+      "s": "Hark claims that its browser use agent is faster and cheaper than competition.",
+      "b": [
+        "techcrunch.com: Hark previews its browser use agent for completing tasks",
+        "techmeme.com: Hark, founded by Figure AI CEO Brett Adcock, previews Handoff, a computer use agent it says outperforms GPT-5.4 and Opus 4.8, and plans for a summer release (Ivan Mehta/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Hark claims that its browser use agent is faster and cheaper than competition.",
+        "techmeme.com: Ivan Mehta / TechCrunch : Hark, founded by Figure AI CEO Brett Adcock, previews Handoff, a computer use agent it says outperforms GPT-5.4 and Opus 4.8, and plans for a summer release Hark, a startup that raised $700 million in Series A funding in May, today launched its agent Hark Handoff, which can use a browser efficiently to complete tasks."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260805/p30#a260805p30"
+        }
+      ],
+      "srcTitles": [
+        "Hark previews its browser use agent for completing tasks",
+        "Hark, founded by Figure AI CEO Brett Adcock, previews Handoff, a computer use agent it says outperforms GPT-5.4 and Opus 4.8, and plans for a summer release (Ivan Mehta/TechCrunch)"
       ]
     },
     {
@@ -244,6 +244,38 @@
     {
       "cat": "models",
       "signal": 36,
+      "sources": 2,
+      "ts": "2026-08-04T23:11:31.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Rogue AI agents created fake online identities in another hacking attempt",
+      "s": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents tha",
+      "b": [
+        "theverge.com: Rogue AI agents created fake online identities in another hacking attempt",
+        "wired.com: OK, Well, Rogue AI Agents Are Hacking Again"
+      ],
+      "body": [
+        "theverge.com: Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. According to a report from the UK's AI Security [ ]",
+        "wired.com: Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/"
+        }
+      ],
+      "srcTitles": [
+        "Rogue AI agents created fake online identities in another hacking attempt",
+        "OK, Well, Rogue AI Agents Are Hacking Again"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
       "sources": 3,
       "ts": "2026-08-05T03:56:00.000Z",
       "writtenSources": 2,
@@ -279,40 +311,8 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 36,
-      "sources": 2,
-      "ts": "2026-08-04T23:11:31.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Rogue AI agents created fake online identities in another hacking attempt",
-      "s": "Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents tha",
-      "b": [
-        "theverge.com: Rogue AI agents created fake online identities in another hacking attempt",
-        "wired.com: OK, Well, Rogue AI Agents Are Hacking Again"
-      ],
-      "body": [
-        "theverge.com: Yet more rogue AI agents from OpenAI and Anthropic have been caught attempting to hack real targets online without permission. The discoveries add to a growing list of previously unknown incidents that have alarmed AI safety experts and intensified pressure for greater oversight of frontier systems. According to a report from the UK's AI Security [ ]",
-        "wired.com: Rogue AI agents from OpenAI and Anthropic have again been caught trying to disrupt servers and software—and leaving instructions for future bad behavior."
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/975577/aisi-openai-anthropic-agent-hacking"
-        },
-        {
-          "d": "wired.com",
-          "u": "https://www.wired.com/story/ok-well-there-are-even-more-ai-agent-hacking-incidents/"
-        }
-      ],
-      "srcTitles": [
-        "Rogue AI agents created fake online identities in another hacking attempt",
-        "OK, Well, Rogue AI Agents Are Hacking Again"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-08-05T14:15:00.000Z",
       "writtenSources": 2,
@@ -408,7 +408,7 @@
     },
     {
       "cat": "models",
-      "signal": 21,
+      "signal": 17,
       "sources": 3,
       "ts": "2026-08-05T13:03:46.000Z",
       "writtenSources": 2,
