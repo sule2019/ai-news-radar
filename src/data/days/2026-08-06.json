@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 61,
+      "signal": 54,
       "sources": 4,
       "ts": "2026-08-05T22:50:02.000Z",
       "writtenSources": 2,
@@ -20,8 +20,12 @@
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260805/p45#a260805p45"
+          "d": "bbc.co.uk",
+          "u": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ad3JPZk5udjBRbzhPNVNmR0N6ZHFQRnF1WHlNTWVCVjlUaVVDNmpNVUduT3I4ZHg3ZkNRb2VnX2lVNEdnb19sZ3oyeloxYmhpa0lOcTlPTGpfUzcw?oc=5"
+        },
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YQVQ3TDVDai1EZmNvU21ycTFpak42NUxZbll0VkxSQTVVNUVyeVdOOWZQdmd0R1VUSlFtZURIdU1YYWFGZmRGaVVhR21vZG9nTlhfMHRzYVA5Zw?oc=5"
         },
         {
           "d": "cbsnews.com",
@@ -30,17 +34,13 @@
         {
           "d": "simonwillison.net",
           "u": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything"
-        },
-        {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YQVQ3TDVDai1EZmNvU21ycTFpak42NUxZbll0VkxSQTVVNUVyeVdOOWZQdmd0R1VUSlFtZURIdU1YYWFGZmRGaVVhR21vZG9nTlhfMHRzYVA5Zw?oc=5"
         }
       ],
       "srcTitles": [
-        "Source: Muse Spark 1.1 model breached a company's systems during cybersecurity testing; Meta says evaluation partner Irregular caused a sandbox misconfiguration (Jyoti Mann/The Information)",
+        "Meta says AI model accessed the internet and hacked another firm",
+        "Meta says AI model accessed the internet and hacked another firm",
         "Meta says its AI model breached a third-party company during testing",
-        "An AI model from Meta also hacked another company during testing",
-        "Meta says AI model accessed the internet and hacked another firm"
+        "An AI model from Meta also hacked another company during testing"
       ]
     }
   ]
