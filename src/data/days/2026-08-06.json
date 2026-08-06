@@ -1,4 +1,37 @@
 {
   "date": "2026-08-06",
-  "stories": []
+  "stories": [
+    {
+      "cat": "funding",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-08-05T22:50:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Source: Muse Spark 1.1 model breached a company's systems during cybersecurity testing; Meta says evaluation partner Irregular caused a sandbox misconfiguration (Jyoti Mann/The Information)",
+      "s": "Jyoti Mann / The Information : Source: Muse Spark 1.1 model breached a company's systems during cybersecurity testing; Meta says evaluation partner Irregular caused a sandbox misconfiguration A Meta P",
+      "b": [
+        "techmeme.com: Source: Muse Spark 1.1 model breached a company's systems during cybersecurity testing; Meta says evaluation partner Irregular caused a sandbox misconfiguration (Jyoti Mann/The Information)",
+        "simonwillison.net: An AI model from Meta also hacked another company during testing"
+      ],
+      "body": [
+        "techmeme.com: Jyoti Mann / The Information : Source: Muse Spark 1.1 model breached a company's systems during cybersecurity testing; Meta says evaluation partner Irregular caused a sandbox misconfiguration A Meta Platforms artificial intelligence model accessed the internet during cybersecurity testing and hacked into another company",
+        "simonwillison.net: An AI model from Meta also hacked another company during testing Stop me if you've heard this one before : An AI model from the parent company of Facebook and Instagram hacked into another company’s systems during cybersecurity testing, a spokesperson confirmed on Wednesday. Meta says the breach occurred because of an inadvertent error during testing of the model, similar to previously disclosed incidents with OpenAI and Anthropic. “A misconfiguration by Irregular, an independent testing company Meta uses, inadvertently allowed one of our models access to the internet during evaluation,” the Meta spokesperson said. Meta’s Muse Spark model “exploited a security vulnerability” in another company “in a manner similar to previously-reported instances with other companies.” The Information had the scoop , I'm linking to CNN's re-report of it since they don't have a paywall. So that's Anthropic, OpenAI, and Meta. Google Gemini really needs to catch up on accidentally cyberattacking other companies. Tags: security , ai , generative-ai , llms , meta , accidental-cyberattacks"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260805/p45#a260805p45"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/"
+        }
+      ],
+      "srcTitles": [
+        "Source: Muse Spark 1.1 model breached a company's systems during cybersecurity testing; Meta says evaluation partner Irregular caused a sandbox misconfiguration (Jyoti Mann/The Information)",
+        "An AI model from Meta also hacked another company during testing"
+      ]
+    }
+  ]
 }
