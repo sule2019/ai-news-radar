@@ -2,8 +2,111 @@
   "date": "2026-08-06",
   "stories": [
     {
+      "cat": "products",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-08-06T20:10:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Jony Ive s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+      "s": "The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck,",
+      "b": [
+        "theverge.com: Jony Ive s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+        "techmeme.com: Sources: OpenAI's new device, slated for 2027, is a hockey puck-sized smart speaker with moving parts that help give it personality, likely costing $300+ (Mark Gurman/Bloomberg)"
+      ],
+      "body": [
+        "theverge.com: The AI device OpenAI is developing with former Apple designer Jony Ive is \"essentially a smart speaker without a display\" that's battery-powered, doughnut-shaped and roughly the size of a hockey puck, according to Bloomberg reporter Mark Gurman. The device, expected to launch in 2027 for a price over $300, reportedly \"will have a unique look, [ ]",
+        "techmeme.com: Mark Gurman / Bloomberg : Sources: OpenAI's new device, slated for 2027, is a hockey puck-sized smart speaker with moving parts that help give it personality, likely costing $300+ A highly anticipated new device from OpenAI will have a unique look, complete with moving parts that help give it personality"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/976431/openai-chatgpt-battery-smart-speaker-rumor"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260806/p44#a260806p44"
+        }
+      ],
+      "srcTitles": [
+        "Jony Ive s first OpenAI gadget is reportedly a hockey puck-sized smart speaker",
+        "Sources: OpenAI's new device, slated for 2027, is a hockey puck-sized smart speaker with moving parts that help give it personality, likely costing $300+ (Mark Gurman/Bloomberg)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 58,
+      "sources": 3,
+      "ts": "2026-08-06T21:20:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Insiders Are Quietly Loading Up on This Nvidia-Backed Artificial Intelligence (AI) Stock",
+      "s": "Insiders Are Quietly Loading Up on This Nvidia-Backed Artificial Intelligence (AI) Stock Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Insiders Are Quietly Loading Up on This Nvidia-Backed Artificial Intelligence (AI) Stock",
+        "fool.com: Insiders Are Quietly Loading Up on This Nvidia-Backed Artificial Intelligence (AI) Stock",
+        "aol.com: Insiders Are Quietly Loading Up on This Nvidia-Backed Artificial Intelligence (AI) Stock"
+      ],
+      "body": [
+        "finance.yahoo.com: Insiders Are Quietly Loading Up on This Nvidia-Backed Artificial Intelligence (AI) Stock Yahoo Finance",
+        "fool.com: Insiders Are Quietly Loading Up on This Nvidia-Backed Artificial Intelligence (AI) Stock The Motley Fool",
+        "aol.com: Insiders Are Quietly Loading Up on This Nvidia-Backed Artificial Intelligence (AI) Stock AOL.com"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdnM3QlRlV2tHTWQ4dXRwdkpEdHl6V09HcW9OZ1VRZ050MTNfX2M2VEZSUXVNUHBEODY5M3V0d09EWnVIbnp3eENCNFl4bVhLQWdYMHpBZVZjZC1ybE00UDRtQnl5N21XS2pYZm1xMGNTVFRtZWJmRmVjazQyVHVBN1hfemRGSFhSTEM2NVRRenF5elJxNHVPX295UzdSVEcxd2tsYw?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM3NaVjBFNVFqaktfU012WFVlQnhMaHVsVTFqSG5KWmp6eEdOT1oxZUoxeEdVa2NaUDFKVXg0Yk5sdXBQdngtM25CYWFVaTNpZlVFNU1NeGRlUXU3VFRrU2xjczRDLUVZRzlkUGZUa0xWTm82S3RkVXNaUEUzb01TeE0wLUJVdDBhTlozZWJZTEpiX1VfaTRrTA?oc=5"
+        },
+        {
+          "d": "aol.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNGpKdUF3aXBqdGItUllJemxQaDFwQ3p1Y0NrQUkzeWxGaDNtYVV4bHFDTG5GRUExOUFGTHhNNF9MSzhwU2J6U0dnWkUxQ1lHM3dfWW13aUNaMFJRODdiaUQwTExOMFBtZWk5c001QVI3VlFDbUpsbTFEWm80dzZVZTJvZjlaWHlnbkE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Insiders Are Quietly Loading Up on This Nvidia-Backed Artificial Intelligence (AI) Stock",
+        "Insiders Are Quietly Loading Up on This Nvidia-Backed Artificial Intelligence (AI) Stock",
+        "Insiders Are Quietly Loading Up on This Nvidia-Backed Artificial Intelligence (AI) Stock"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-08-06T17:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "ChatGPT brings unlimited text chats to free users",
+      "s": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+      "b": [
+        "techcrunch.com: ChatGPT brings unlimited text chats to free users",
+        "theverge.com: OpenAI is giving ChatGPT free users unlimited text chats"
+      ],
+      "body": [
+        "techcrunch.com: OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
+        "theverge.com: OpenAI is making a big change for ChatGPT users on its free and Go tiers: Starting next week, users on those tiers will be able to have unlimited text chats with the chatbot, according to OpenAI. Right now, you may run into rate limits if you do too many text chats on those tiers, but [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/976239/openai-chatgpt-free-go-text-chats"
+        }
+      ],
+      "srcTitles": [
+        "ChatGPT brings unlimited text chats to free users",
+        "OpenAI is giving ChatGPT free users unlimited text chats"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 62,
+      "signal": 58,
       "sources": 2,
       "ts": "2026-08-06T13:45:43.000Z",
       "writtenSources": 2,
@@ -34,8 +137,40 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-08-06T06:35:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+      "s": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to di",
+      "b": [
+        "theverge.com: OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
+        "techmeme.com: OpenAI files a motion to dismiss Apple's lawsuit accusing the AI company of stealing trade secrets, saying that the iPhone maker's allegations are meritless (Bloomberg)"
+      ],
+      "body": [
+        "theverge.com: OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information [ ]",
+        "techmeme.com: Bloomberg : OpenAI files a motion to dismiss Apple's lawsuit accusing the AI company of stealing trade secrets, saying that the iPhone maker's allegations are meritless OpenAI is asking a federal judge to dismiss a lawsuit filed by Apple Inc. accusing the artificial intelligence company of stealing trade secrets"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI says Apple’s own security practices undermine its trade secrets case",
+        "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 61,
+      "signal": 57,
       "sources": 2,
       "ts": "2026-08-06T12:30:00.000Z",
       "writtenSources": 2,
@@ -66,41 +201,9 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 50,
-      "sources": 2,
-      "ts": "2026-08-06T06:35:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-      "s": "OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to di",
-      "b": [
-        "theverge.com: OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-        "techmeme.com: OpenAI files a motion to dismiss Apple's lawsuit accusing the AI company of stealing trade secrets, saying that the iPhone maker's allegations are meritless (Bloomberg)"
-      ],
-      "body": [
-        "theverge.com: OpenAI has asked a federal judge to toss out Apple's landmark lawsuit accusing the ChatGPT maker of stealing trade secrets, describing the allegations as \"meritless.\" In a motion filed yesterday to dismiss the complaint, OpenAI says that Apple is mischaracterizing both the actions of the AI startup's employees as theft, and \"generic\" product development information [ ]",
-        "techmeme.com: Bloomberg : OpenAI files a motion to dismiss Apple's lawsuit accusing the AI company of stealing trade secrets, saying that the iPhone maker's allegations are meritless OpenAI is asking a federal judge to dismiss a lawsuit filed by Apple Inc. accusing the artificial intelligence company of stealing trade secrets"
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/976042/openai-apple-trade-secrets-lawsuit-dismissal-request"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260806/p7#a260806p7"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’",
-        "OpenAI files a motion to dismiss Apple's lawsuit accusing the AI company of stealing trade secrets, saying that the iPhone maker's allegations are meritless (Bloomberg)"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 48,
-      "sources": 2,
+      "signal": 52,
+      "sources": 3,
       "ts": "2026-08-05T22:50:02.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -120,18 +223,73 @@
           "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2tKVm1PRndWU0VFanczdDY2SERPXzFIdUdmS1BQNm1fcTVlUTRCZFhzdnhoYm1mRE51RzZpZjBmUFVxclQwZTJGejRYQ0llbGIzd0JpanJLdEp4QjFKNzJtVFAtSGhxcmpGc3RUa25WSmU1UDk0UWdmQThvN3Z2LWQ4aw?oc=5"
         },
         {
+          "d": "kxxv.com",
+          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVC13U0hTdzdnNlRRcDE3STVidEliVXhmOUVBS19EcWlSZFd0RVRKYjZ5eTdoR2h2MTJOdF9yVnB3TFR4SHdJQ2gzUW4zaU1WOUZtN014VkFGVkpZakFfVTdHQTNONTdUZ05WakRQNkdPX1g0cXl5cDJIVGlTa1pYb01VbzVxcHJYMW1qQ21LaHhpaDJmS0V6RXJhSEd6bVNaM2FFak91bTBZTW9JWm9HcEN4Zy1Gd2lHZTFjQi0yNlh5bFRXR2VMLW1yWQ?oc=5"
+        },
+        {
           "d": "simonwillison.net",
           "u": "https://simonwillison.net/2026/Aug/6/an-ai-model-from-meta/#atom-everything"
         }
       ],
       "srcTitles": [
         "Meta says its AI model breached a third-party company during testing",
+        "Meta says its AI model hacked another company due to 'misconfiguration'",
         "An AI model from Meta also hacked another company during testing"
       ]
     },
     {
-      "cat": "funding",
+      "cat": "models",
       "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-06T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users",
+      "s": "ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna.",
+      "b": [
+        "openai.com: Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users"
+      ],
+      "body": [
+        "openai.com: ChatGPT introduces improved GPT-5.6 Sol with better accuracy and consistency, plus expanded access for free users and unlimited everyday chats with GPT-5.6 Luna."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt"
+        }
+      ],
+      "srcTitles": [
+        "Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-06T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "From asking to doing: How the world is putting ChatGPT to work",
+      "s": "New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior.",
+      "b": [
+        "openai.com: From asking to doing: How the world is putting ChatGPT to work"
+      ],
+      "body": [
+        "openai.com: New OpenAI Signals data shows how people use ChatGPT worldwide, with country-level insights on adoption, usage trends, and evolving behavior."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work"
+        }
+      ],
+      "srcTitles": [
+        "From asking to doing: How the world is putting ChatGPT to work"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 42,
       "sources": 2,
       "ts": "2026-08-06T11:55:00.000Z",
       "writtenSources": 2,
@@ -159,6 +317,93 @@
       "srcTitles": [
         "Meta Platforms Saw Free Cash Flow Plunge 91% to Just $784 Million as Artificial Intelligence (AI) Spending Ballooned. Here's Why That Should Worry Investors.",
         "Meta Platforms Saw Free Cash Flow Plunge 91% to Just $784 Million as Artificial Intelligence (AI) Spending Ballooned. Here's Why That Should Worry Investors."
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 40,
+      "sources": 3,
+      "ts": "2026-08-06T18:50:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Scientists trained AI on genetic sequences to design viruses not found in nature, yielding 16 viable viruses that can infect bacteria but don't threaten humans (Carl Zimmer/New York Times)",
+      "s": "Carl Zimmer / New York Times : Scientists trained AI on genetic sequences to design viruses not found in nature, yielding 16 viable viruses that can infect bacteria but don't threaten humans Scientist",
+      "b": [
+        "techmeme.com: Scientists trained AI on genetic sequences to design viruses not found in nature, yielding 16 viable viruses that can infect bacteria but don't threaten humans (Carl Zimmer/New York Times)",
+        "nytimes.com: This A.I. Just Created Viruses Not Found in Nature",
+        "axios.com: AI designs new virus not found in nature"
+      ],
+      "body": [
+        "techmeme.com: Carl Zimmer / New York Times : Scientists trained AI on genetic sequences to design viruses not found in nature, yielding 16 viable viruses that can infect bacteria but don't threaten humans Scientists trained artificial intelligence on libraries of DNA and then asked the model to create recipes for viral genomes.",
+        "nytimes.com: This A.I. Just Created Viruses Not Found in Nature The New York Times",
+        "axios.com: AI designs new virus not found in nature Axios"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260806/p40#a260806p40"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ib2lWUWFwQ2g0a1RMQ1VDNFI2TmFtaWdoUUZWcXVyZkJveXVrVDZ1ZzZOWS1PdFR3a0xReWxKT3QzMXFCT3FEOGZoNjdiR2RaTFlZNEpSR19SdVQ4UlB2ZUpPY1J2cUg0cmROZXFnSWJlREpXMks5Ni1YTQ?oc=5"
+        },
+        {
+          "d": "axios.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYaVQyU0NhTUFLMEUycVI2ZlgzTWMwdVp6aEdYV3BMYlN6UHhtSFVRTmZBbFpKRnFSN0ROOVBuelZlMDhEb2ZwOG1NWGRoSFlMM0Z5bzRWOEI1V3BxenVyM0FhLTBDTDc3ZnVPUTN5N3VNSnZoZVE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Scientists trained AI on genetic sequences to design viruses not found in nature, yielding 16 viable viruses that can infect bacteria but don't threaten humans (Carl Zimmer/New York Times)",
+        "This A.I. Just Created Viruses Not Found in Nature",
+        "AI designs new virus not found in nature"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-06T15:06:15.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "s": "Covered by 1 outlet.",
+      "b": [
+        "deepmind.google: WeatherNext: AI model achieves breakthrough in forecasting cyclones"
+      ],
+      "body": [],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/"
+        }
+      ],
+      "srcTitles": [
+        "WeatherNext: AI model achieves breakthrough in forecasting cyclones"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-06T06:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Working with the American Psychological Association on youth mental health and AI",
+      "s": "OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health.",
+      "b": [
+        "openai.com: Working with the American Psychological Association on youth mental health and AI"
+      ],
+      "body": [
+        "openai.com: OpenAI and the American Psychological Association advance evidence-based guidance, resources, and safeguards for responsible AI use and youth mental health."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai"
+        }
+      ],
+      "srcTitles": [
+        "Working with the American Psychological Association on youth mental health and AI"
       ]
     }
   ]
