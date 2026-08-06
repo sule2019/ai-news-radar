@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 61,
+      "signal": 58,
       "sources": 2,
       "ts": "2026-08-06T06:35:00.000Z",
       "writtenSources": 2,
@@ -35,8 +35,40 @@
     },
     {
       "cat": "funding",
-      "signal": 52,
-      "sources": 3,
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-08-06T11:55:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Meta Platforms Saw Free Cash Flow Plunge 91% to Just $784 Million as Artificial Intelligence (AI) Spending Ballooned. Here's Why That Should Worry Investors.",
+      "s": "Meta Platforms Saw Free Cash Flow Plunge 91% to Just $784 Million as Artificial Intelligence (AI) Spending Ballooned. Here's Why That Should Worry Investors. Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Meta Platforms Saw Free Cash Flow Plunge 91% to Just $784 Million as Artificial Intelligence (AI) Spending Ballooned. Here's Why That Should Worry Investors.",
+        "fool.com: Meta Platforms Saw Free Cash Flow Plunge 91% to Just $784 Million as Artificial Intelligence (AI) Spending Ballooned. Here's Why That Should Worry Investors."
+      ],
+      "body": [
+        "finance.yahoo.com: Meta Platforms Saw Free Cash Flow Plunge 91% to Just $784 Million as Artificial Intelligence (AI) Spending Ballooned. Here's Why That Should Worry Investors. Yahoo Finance",
+        "fool.com: Meta Platforms Saw Free Cash Flow Plunge 91% to Just $784 Million as Artificial Intelligence (AI) Spending Ballooned. Here's Why That Should Worry Investors. The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbVpWS25SNm5CYlNsWEIyejlGdFZ6YzdqM1N3OTMxVGVyTEpfdDJXNFRqRmVoSWloZnBYSTNKdUNVRkZ5SlBCSmpYRWFuWVVwMng3STc2ZXBwVXYxTU9tR3JiaFdCV0lPR1BtUFd1VzRCNnRxdFVaRnB4UjhmSzhkZFBDV3ZSdnJxNGN5Mk14c25KSXZadGxF?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWVpcFdpTFBQUDRXZkZTbk5LTGMxRGZJc2JIOFFRNWg4Q2c4ZFRoZ3g3WnV5ZGhHdkZzWGstM0t1dG9OTXJoVmZDSTRhSk5ucEtFM3NHTW5mdzluUGRWTmtQa3h4c1Z5T0Z2WWlOZTVkWXVDd2xuNXlCSHlWTjZYclp4OUphRWFuMld3NmhnQ3lyZGZEeVE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Meta Platforms Saw Free Cash Flow Plunge 91% to Just $784 Million as Artificial Intelligence (AI) Spending Ballooned. Here's Why That Should Worry Investors.",
+        "Meta Platforms Saw Free Cash Flow Plunge 91% to Just $784 Million as Artificial Intelligence (AI) Spending Ballooned. Here's Why That Should Worry Investors."
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 48,
+      "sources": 2,
       "ts": "2026-08-05T22:50:02.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -52,10 +84,6 @@
       ],
       "l": [
         {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YQVQ3TDVDai1EZmNvU21ycTFpak42NUxZbll0VkxSQTVVNUVyeVdOOWZQdmd0R1VUSlFtZURIdU1YYWFGZmRGaVVhR21vZG9nTlhfMHRzYVA5Zw?oc=5"
-        },
-        {
           "d": "cbsnews.com",
           "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQa2tKVm1PRndWU0VFanczdDY2SERPXzFIdUdmS1BQNm1fcTVlUTRCZFhzdnhoYm1mRE51RzZpZjBmUFVxclQwZTJGejRYQ0llbGIzd0JpanJLdEp4QjFKNzJtVFAtSGhxcmpGc3RUa25WSmU1UDk0UWdmQThvN3Z2LWQ4aw?oc=5"
         },
@@ -65,7 +93,6 @@
         }
       ],
       "srcTitles": [
-        "Meta says AI model accessed the internet and hacked another firm",
         "Meta says its AI model breached a third-party company during testing",
         "An AI model from Meta also hacked another company during testing"
       ]
