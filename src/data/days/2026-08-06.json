@@ -2,8 +2,72 @@
   "date": "2026-08-06",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-08-06T13:45:43.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Filing: DeepSeek has invested ~$20.8M in Unitree Robotics' Shanghai IPO and agreed to jointly develop AI models for humanoid machines (Eduardo Baptista/Reuters)",
+      "s": "Eduardo Baptista / Reuters : Filing: DeepSeek has invested ~$20.8M in Unitree Robotics' Shanghai IPO and agreed to jointly develop AI models for humanoid machines Chinese artificial intelligence start",
+      "b": [
+        "techmeme.com: Filing: DeepSeek has invested ~$20.8M in Unitree Robotics' Shanghai IPO and agreed to jointly develop AI models for humanoid machines (Eduardo Baptista/Reuters)",
+        "reuters.com: DeepSeek invests $20.8 million in Unitree's Shanghai IPO"
+      ],
+      "body": [
+        "techmeme.com: Eduardo Baptista / Reuters : Filing: DeepSeek has invested ~$20.8M in Unitree Robotics' Shanghai IPO and agreed to jointly develop AI models for humanoid machines Chinese artificial intelligence startup DeepSeek has invested 140.8 million yuan ($20.8 million) in robot maker Unitree (688836.SS) and agreed",
+        "reuters.com: DeepSeek invests $20.8 million in Unitree's Shanghai IPO Reuters"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260806/p23#a260806p23"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOakRHZFBpQllCMmVKOUFvTmpuX04xRDFIQkc5bzdZTGhmZ2ZZdW1lNW5IRUQzanpmTm85U1hkREV3dmx0UnFxQ1B2alVVak5IN21WV3NNYU5BNnlHTTVHc28tVDRlY1BpS0g1cVpaYmphRm85Z0hhX2xBS0lWS0RIUDRwWFJpNHVPMFpWMkQybmV3TFViR2laUDJzWWR2cXpTdWpLWmtaSEs?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Filing: DeepSeek has invested ~$20.8M in Unitree Robotics' Shanghai IPO and agreed to jointly develop AI models for humanoid machines (Eduardo Baptista/Reuters)",
+        "DeepSeek invests $20.8 million in Unitree's Shanghai IPO"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-08-06T12:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google Maps adds agentic features, including food ordering and hotel bookings",
+      "s": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+      "b": [
+        "techcrunch.com: Google Maps adds agentic features, including food ordering and hotel bookings",
+        "techmeme.com: Google is expanding its Gemini-powered Ask Maps feature in English to 130+ countries and adds agentic food ordering, hotel booking, and attraction searching (Jada Jones/ZDNET)"
+      ],
+      "body": [
+        "techcrunch.com: The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
+        "techmeme.com: Jada Jones / ZDNET : Google is expanding its Gemini-powered Ask Maps feature in English to 130+ countries and adds agentic food ordering, hotel booking, and attraction searching ZDNET's key takeaways Google expanded Ask Google capabilities. Users can more easily order food, book hotels, and find attractions."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260806/p20#a260806p20"
+        }
+      ],
+      "srcTitles": [
+        "Google Maps adds agentic features, including food ordering and hotel bookings",
+        "Google is expanding its Gemini-powered Ask Maps feature in English to 130+ countries and adds agentic food ordering, hotel booking, and attraction searching (Jada Jones/ZDNET)"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 58,
+      "signal": 54,
       "sources": 2,
       "ts": "2026-08-06T06:35:00.000Z",
       "writtenSources": 2,
@@ -35,7 +99,7 @@
     },
     {
       "cat": "funding",
-      "signal": 54,
+      "signal": 50,
       "sources": 2,
       "ts": "2026-08-06T11:55:00.000Z",
       "writtenSources": 2,
