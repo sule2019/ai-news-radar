@@ -67,7 +67,7 @@
     },
     {
       "cat": "policy",
-      "signal": 54,
+      "signal": 50,
       "sources": 2,
       "ts": "2026-08-07T14:30:26.000Z",
       "writtenSources": 2,
@@ -99,7 +99,32 @@
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-07T15:20:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Responding to the next frontier of critical cyber capabilities",
+      "s": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "b": [
+        "openai.com: Responding to the next frontier of critical cyber capabilities"
+      ],
+      "body": [
+        "openai.com: OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+        }
+      ],
+      "srcTitles": [
+        "Responding to the next frontier of critical cyber capabilities"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 28,
       "sources": 2,
       "ts": "2026-08-07T02:46:03.000Z",
       "writtenSources": 2,
@@ -132,6 +157,31 @@
     {
       "cat": "models",
       "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-07T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How HSP GRUPPE builds AI capabilities for tax advisory",
+      "s": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
+      "b": [
+        "openai.com: How HSP GRUPPE builds AI capabilities for tax advisory"
+      ],
+      "body": [
+        "openai.com: Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/hsp-gruppe"
+        }
+      ],
+      "srcTitles": [
+        "How HSP GRUPPE builds AI capabilities for tax advisory"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 20,
       "sources": 3,
       "ts": "2026-08-07T12:30:19.000Z",
       "writtenSources": 3,
@@ -166,31 +216,6 @@
         "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
         "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
         "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds | National News | 2news.com"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-08-07T09:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "How HSP GRUPPE builds AI capabilities for tax advisory",
-      "s": "Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service.",
-      "b": [
-        "openai.com: How HSP GRUPPE builds AI capabilities for tax advisory"
-      ],
-      "body": [
-        "openai.com: Discover how HSP GRUPPE uses ChatGPT Enterprise to boost productivity, improve work quality, and create more capacity for tax advisory and client service."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/hsp-gruppe"
-        }
-      ],
-      "srcTitles": [
-        "How HSP GRUPPE builds AI capabilities for tax advisory"
       ]
     }
   ]
