@@ -67,7 +67,7 @@
     },
     {
       "cat": "products",
-      "signal": 42,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-08-07T16:16:09.000Z",
       "writtenSources": 2,
@@ -99,7 +99,7 @@
     },
     {
       "cat": "policy",
-      "signal": 38,
+      "signal": 34,
       "sources": 2,
       "ts": "2026-08-07T14:30:26.000Z",
       "writtenSources": 2,
@@ -131,7 +131,7 @@
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-08-07T17:41:00.000Z",
       "writtenSources": 2,
@@ -213,7 +213,7 @@
     },
     {
       "cat": "policy",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-08-07T10:19:08.000Z",
       "writtenSources": 2,
@@ -241,38 +241,6 @@
       "srcTitles": [
         "Who is liable when AI goes rogue? Lawyers see new risks",
         "Who Is Liable When an AI Agent Hacks a Third Party?"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 16,
-      "sources": 2,
-      "ts": "2026-08-07T02:46:03.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot's Kimi K3 requires up to a 30% revenue share (Reuters)",
-      "s": "Reuters : Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot's Kimi K3 requires up to a 30% revenue share Chinese technology giant Alibab",
-      "b": [
-        "techmeme.com: Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot's Kimi K3 requires up to a 30% revenue share (Reuters)",
-        "artificialintelligence-news.com: Alibaba tests new business model for Qwen open-source AI"
-      ],
-      "body": [
-        "techmeme.com: Reuters : Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot's Kimi K3 requires up to a 30% revenue share Chinese technology giant Alibaba (9988.HK) plans to ask major users of the next version of its Qwen open-source AI model for a share",
-        "artificialintelligence-news.com: Alibaba tests new business model for Qwen open-source AI AI News"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260806/p59#a260806p59"
-        },
-        {
-          "d": "artificialintelligence-news.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmY0cFpRYlYyZ1hlaWg2NVdKYWZueEFvWVBhWFpQUTJxQVFkalJKSFE5V2tFNEJBMmUyUDJIYVA2MElHcWRSdEE4bENoNjctb3lyb0Q2NWY2dEFZWG9iWlAwWnBPQ0xXc0RYMzhtbGpIcmozYlZKM2NRdWVXNjgxRFBwVXRHQlpMZVVWMEhKSjFXellSNDh2bA?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot's Kimi K3 requires up to a 30% revenue share (Reuters)",
-        "Alibaba tests new business model for Qwen open-source AI"
       ]
     },
     {
@@ -312,6 +280,38 @@
         "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
         "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
         "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds | National News | 2news.com"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-08-07T02:46:03.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot's Kimi K3 requires up to a 30% revenue share (Reuters)",
+      "s": "Reuters : Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot's Kimi K3 requires up to a 30% revenue share Chinese technology giant Alibab",
+      "b": [
+        "techmeme.com: Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot's Kimi K3 requires up to a 30% revenue share (Reuters)",
+        "artificialintelligence-news.com: Alibaba tests new business model for Qwen open-source AI"
+      ],
+      "body": [
+        "techmeme.com: Reuters : Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot's Kimi K3 requires up to a 30% revenue share Chinese technology giant Alibaba (9988.HK) plans to ask major users of the next version of its Qwen open-source AI model for a share",
+        "artificialintelligence-news.com: Alibaba tests new business model for Qwen open-source AI AI News"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260806/p59#a260806p59"
+        },
+        {
+          "d": "artificialintelligence-news.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZmY0cFpRYlYyZ1hlaWg2NVdKYWZueEFvWVBhWFpQUTJxQVFkalJKSFE5V2tFNEJBMmUyUDJIYVA2MElHcWRSdEE4bENoNjctb3lyb0Q2NWY2dEFZWG9iWlAwWnBPQ0xXc0RYMzhtbGpIcmozYlZKM2NRdWVXNjgxRFBwVXRHQlpMZVVWMEhKSjFXellSNDh2bA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot's Kimi K3 requires up to a 30% revenue share (Reuters)",
+        "Alibaba tests new business model for Qwen open-source AI"
       ]
     }
   ]
