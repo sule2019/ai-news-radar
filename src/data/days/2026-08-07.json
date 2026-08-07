@@ -67,7 +67,7 @@
     },
     {
       "cat": "policy",
-      "signal": 50,
+      "signal": 46,
       "sources": 2,
       "ts": "2026-08-07T14:30:26.000Z",
       "writtenSources": 2,
@@ -98,6 +98,38 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 42,
+      "sources": 2,
+      "ts": "2026-08-07T16:16:09.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "s": "Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, h",
+      "b": [
+        "techcrunch.com: Cloudflare launches Kitesurf, a browser built for AI agents",
+        "techmeme.com: Cloudflare debuts Kitesurf, a cloud-hosted browser for AI agents built on top of its Workers serverless service, available for free while in beta in Browser Run (Sarah Perez/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Cloudflare has introduced Kitesurf, a cloud-hosted browser designed for AI agents instead of people. The company says the browser uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+        "techmeme.com: Sarah Perez / TechCrunch : Cloudflare debuts Kitesurf, a cloud-hosted browser for AI agents built on top of its Workers serverless service, available for free while in beta in Browser Run Cloudflare is the latest company to join the race to build a new web browser. But instead of pitching a Chrome alternative to consumers"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260807/p21#a260807p21"
+        }
+      ],
+      "srcTitles": [
+        "Cloudflare launches Kitesurf, a browser built for AI agents",
+        "Cloudflare debuts Kitesurf, a cloud-hosted browser for AI agents built on top of its Workers serverless service, available for free while in beta in Browser Run (Sarah Perez/TechCrunch)"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 30,
       "sources": 1,
@@ -124,7 +156,7 @@
     },
     {
       "cat": "models",
-      "signal": 28,
+      "signal": 24,
       "sources": 2,
       "ts": "2026-08-07T02:46:03.000Z",
       "writtenSources": 2,
@@ -181,7 +213,7 @@
     },
     {
       "cat": "models",
-      "signal": 20,
+      "signal": 16,
       "sources": 3,
       "ts": "2026-08-07T12:30:19.000Z",
       "writtenSources": 3,
