@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 56,
-      "sources": 2,
+      "signal": 65,
+      "sources": 3,
       "ts": "2026-08-07T04:36:57.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,6 +20,10 @@
       ],
       "l": [
         {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/08/bytedance-trains-massive-ai-model-in-bid-to-rival-anthropic/"
+        },
+        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260807/p2#a260807p2"
         },
@@ -29,13 +33,14 @@
         }
       ],
       "srcTitles": [
+        "ByteDance trains massive AI model in bid to rival Anthropic",
         "Sources: ByteDance is pretraining an AI model with up to 10T parameters, roughly 3x larger than Kimi K3 and larger than the 8T estimate for Anthropic's Mythos 5 (Financial Times)",
         "ByteDance targets mega AI model nearing Anthropic’s Mythos"
       ]
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-08-07T02:46:03.000Z",
       "writtenSources": 2,
@@ -63,6 +68,45 @@
       "srcTitles": [
         "Sources: Alibaba plans to ask heavy commercial users of its next Qwen open model for a share of revenue; Moonshot's Kimi K3 requires up to a 30% revenue share (Reuters)",
         "Alibaba tests new business model for Qwen open-source AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 36,
+      "sources": 3,
+      "ts": "2026-08-07T12:30:19.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+      "s": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds WRAL",
+      "b": [
+        "wral.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+        "washingtonpost.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+        "ktvn.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds | National News | 2news.com"
+      ],
+      "body": [
+        "wral.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds WRAL",
+        "washingtonpost.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds The Washington Post",
+        "ktvn.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds | National News | 2news.com KTVN"
+      ],
+      "l": [
+        {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObldWM3c1ZTJzUlJLNTljTzN3SXc1NGdram1fWVRpcHBtbW1TZWF2RU1jdlR3cmlCLU5MbTBETEhseWtHck1kU3JQS0VZaENBUmE2dVZWSDNYaFpBemd6MF9fTEhWWlh2Zk16UTl0Y2g4Vm02NTVDUEt6bnExZVhyUmRFWThzYlh0UlRnZ3otcDJ2cGt6OGwyZWZsZC0xUGxNazI4STh5bXF1UVByWmoxT0RVLTN5YlZKNkIyT2tR?oc=5"
+        },
+        {
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdnM2b21GTHlLaWV1MDZfazVQNm5iLUlzMmxfUnI3bXVKYm9mNWlhV212SFE1VU5yeTJ0Xy00bFRMRkt5OEh3cV9hRWhlZGQtX3hNTEVFTjJ3QmJ6VU9LRzh1SUNFb2QyUmk0RDlVOUF0VUxyaUI3dlJQYXNmdXQ4Ym9sT2FBc25NUVdKNDBGZHZpU3dJSkVzczVVOENHUUV1T3Rnck5TVmJMUGtJZ3pUTFNOcUFxUEVRRlBnYWRKcWRITmhzWC1qS3QzLUNqSWZnM1BIODVJREpJV0JhRlo2Vw?oc=5"
+        },
+        {
+          "d": "ktvn.com",
+          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMEo0LVN3c0R2UzNzRTktVTRCdURLZjJJZ3k2R3BHRXZpc2hzRC1qbnk2VzNrOG5JNkE4M0FTWUZINy1hcW15TE45Rlh4d2xSdXhQSmFuRGlGN0JMT2dsWkQzQkwwM3RnV3VoM29IQUF0RkZIVXJzMUl5Z1pQVGlMczNQNWktbnpxSkxlanB0c1V4UEVYbDEyLUJWZDJSTUlaU0R0UGd3cXJpVkw4Y1NETklGNlhZNkdqdXRESEZIRGxQWVRNbGxnRzdfaExCRlNhMjZrZDEyd252YXY1WWpINHRKcTBnbWNfTDBPWlFGOVM0YmRkX1E?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+        "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+        "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds | National News | 2news.com"
       ]
     },
     {
