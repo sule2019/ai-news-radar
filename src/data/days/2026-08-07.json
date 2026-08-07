@@ -3,6 +3,38 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-08-07T04:36:57.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: ByteDance is pretraining an AI model with up to 10T parameters, roughly 3x larger than Kimi K3 and larger than the 8T estimate for Anthropic's Mythos 5 (Financial Times)",
+      "s": "Financial Times : Sources: ByteDance is pretraining an AI model with up to 10T parameters, roughly 3x larger than Kimi K3 and larger than the 8T estimate for Anthropic's Mythos 5 TikTok owner training",
+      "b": [
+        "techmeme.com: Sources: ByteDance is pretraining an AI model with up to 10T parameters, roughly 3x larger than Kimi K3 and larger than the 8T estimate for Anthropic's Mythos 5 (Financial Times)",
+        "ft.com: ByteDance targets mega AI model nearing Anthropic’s Mythos"
+      ],
+      "body": [
+        "techmeme.com: Financial Times : Sources: ByteDance is pretraining an AI model with up to 10T parameters, roughly 3x larger than Kimi K3 and larger than the 8T estimate for Anthropic's Mythos 5 TikTok owner training a model three times larger than Moonshot's Kimi K3 ByteDance is training an AI model that could approach",
+        "ft.com: ByteDance targets mega AI model nearing Anthropic’s Mythos Financial Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260807/p2#a260807p2"
+        },
+        {
+          "d": "ft.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQ2RnUmZkaXcyRWthc2hFbk1BYVhZYnNVRXhLWUxXS1VCMkxMVEhRSlI1RkJRclNNRUlhNG9heThEZzVEVUZQVkdLYmlVcFpFNmhlNkhJMzdrc1VfT2ZQSW9FNWswYUswcWhKN09nTXYxM0loTURNM2RUSE5abnVjVWI0NU4?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: ByteDance is pretraining an AI model with up to 10T parameters, roughly 3x larger than Kimi K3 and larger than the 8T estimate for Anthropic's Mythos 5 (Financial Times)",
+        "ByteDance targets mega AI model nearing Anthropic’s Mythos"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 30,
       "sources": 1,
       "ts": "2026-08-07T09:00:00.000Z",
