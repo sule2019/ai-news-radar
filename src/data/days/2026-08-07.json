@@ -99,7 +99,7 @@
     },
     {
       "cat": "policy",
-      "signal": 34,
+      "signal": 30,
       "sources": 2,
       "ts": "2026-08-07T14:30:26.000Z",
       "writtenSources": 2,
@@ -131,7 +131,66 @@
     },
     {
       "cat": "models",
-      "signal": 28,
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-08-07T15:20:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Responding to the next frontier of critical cyber capabilities",
+      "s": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
+      "b": [
+        "openai.com: Responding to the next frontier of critical cyber capabilities"
+      ],
+      "body": [
+        "openai.com: OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
+        }
+      ],
+      "srcTitles": [
+        "Responding to the next frontier of critical cyber capabilities"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-07T12:30:19.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+      "s": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds WRAL",
+      "b": [
+        "wral.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+        "washingtonpost.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
+        "ktvn.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds | National News | 2news.com"
+      ],
+      "body": [
+        "wral.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds WRAL",
+        "washingtonpost.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds The Washington Post",
+        "ktvn.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds | National News | 2news.com KTVN"
+      ],
+      "l": [
+        {
+          "d": "fastcompany.com",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWktLMnBfc0xVQy1DeFNaOFJzdnJoYmxvbmVrRVZkdjh0bWl3WkJ1bjBVdmdBS3Q3Vy1sTWdINi1Ca3V6aGV3cnVTMVAtN1Y1ZjFMdWcwRlVKTHAxdk9QOE5PWWN3T19fTXBqdVhJMTBVb21jbXFJOEdnNmFiNmdSd3FtU0JYV25ITm01dGVn?oc=5"
+        },
+        {
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNLVVzV3ZKckJUUS1wR0RZLXlmVzBrLUhyYmtZZlo0ZjRLYldKdldzZDhndzNFZ05Qb3J6eWw3MUpDd3dkV2U5VUsyckV4NDZ2eUdveGl6Qjd1NnRfeXpBSWJ6WWtvazJWZzY4Rm1UbE1JQ1Y5cVV5NV9XWTBlSmw2ZFY5cEVJLWhneTdRNkkxSUtYMkotVUtyck9vN1F2TFNQR3M5U3JjbDA1ZGxD?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Some adults use AI for financial advice, but trust is still low, Gallup poll finds",
+        "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
       "sources": 2,
       "ts": "2026-08-07T17:41:00.000Z",
       "writtenSources": 2,
@@ -163,31 +222,6 @@
     },
     {
       "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-08-07T15:20:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Responding to the next frontier of critical cyber capabilities",
-      "s": "OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls.",
-      "b": [
-        "openai.com: Responding to the next frontier of critical cyber capabilities"
-      ],
-      "body": [
-        "openai.com: OpenAI is sharing preliminary cybersecurity evaluations for Astra and the steps we’re taking to strengthen safeguards and security controls."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities"
-        }
-      ],
-      "srcTitles": [
-        "Responding to the next frontier of critical cyber capabilities"
-      ]
-    },
-    {
-      "cat": "models",
       "signal": 24,
       "sources": 1,
       "ts": "2026-08-07T09:00:00.000Z",
@@ -213,7 +247,7 @@
     },
     {
       "cat": "policy",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-07T10:19:08.000Z",
       "writtenSources": 2,
@@ -241,45 +275,6 @@
       "srcTitles": [
         "Who is liable when AI goes rogue? Lawyers see new risks",
         "Who Is Liable When an AI Agent Hacks a Third Party?"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 15,
-      "sources": 3,
-      "ts": "2026-08-07T12:30:19.000Z",
-      "writtenSources": 3,
-      "draft": true,
-      "h": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
-      "s": "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds WRAL",
-      "b": [
-        "wral.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
-        "washingtonpost.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
-        "ktvn.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds | National News | 2news.com"
-      ],
-      "body": [
-        "wral.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds WRAL",
-        "washingtonpost.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds The Washington Post",
-        "ktvn.com: Some US adults are using AI for financial guidance but few trust it, Gallup poll finds | National News | 2news.com KTVN"
-      ],
-      "l": [
-        {
-          "d": "wral.com",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObldWM3c1ZTJzUlJLNTljTzN3SXc1NGdram1fWVRpcHBtbW1TZWF2RU1jdlR3cmlCLU5MbTBETEhseWtHck1kU3JQS0VZaENBUmE2dVZWSDNYaFpBemd6MF9fTEhWWlh2Zk16UTl0Y2g4Vm02NTVDUEt6bnExZVhyUmRFWThzYlh0UlRnZ3otcDJ2cGt6OGwyZWZsZC0xUGxNazI4STh5bXF1UVByWmoxT0RVLTN5YlZKNkIyT2tR?oc=5"
-        },
-        {
-          "d": "washingtonpost.com",
-          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdnM2b21GTHlLaWV1MDZfazVQNm5iLUlzMmxfUnI3bXVKYm9mNWlhV212SFE1VU5yeTJ0Xy00bFRMRkt5OEh3cV9hRWhlZGQtX3hNTEVFTjJ3QmJ6VU9LRzh1SUNFb2QyUmk0RDlVOUF0VUxyaUI3dlJQYXNmdXQ4Ym9sT2FBc25NUVdKNDBGZHZpU3dJSkVzczVVOENHUUV1T3Rnck5TVmJMUGtJZ3pUTFNOcUFxUEVRRlBnYWRKcWRITmhzWC1qS3QzLUNqSWZnM1BIODVJREpJV0JhRlo2Vw?oc=5"
-        },
-        {
-          "d": "ktvn.com",
-          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQMEo0LVN3c0R2UzNzRTktVTRCdURLZjJJZ3k2R3BHRXZpc2hzRC1qbnk2VzNrOG5JNkE4M0FTWUZINy1hcW15TE45Rlh4d2xSdXhQSmFuRGlGN0JMT2dsWkQzQkwwM3RnV3VoM29IQUF0RkZIVXJzMUl5Z1pQVGlMczNQNWktbnpxSkxlanB0c1V4UEVYbDEyLUJWZDJSTUlaU0R0UGd3cXJpVkw4Y1NETklGNlhZNkdqdXRESEZIRGxQWVRNbGxnRzdfaExCRlNhMjZrZDEyd252YXY1WWpINHRKcTBnbWNfTDBPWlFGOVM0YmRkX1E?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
-        "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds",
-        "Some US adults are using AI for financial guidance but few trust it, Gallup poll finds | National News | 2news.com"
       ]
     },
     {
