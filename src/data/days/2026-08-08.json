@@ -66,8 +66,40 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-07T22:11:36.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "University of Pennsylvania researchers develop artificial intelligence tool to help speed autism evaluations",
+      "s": "University of Pennsylvania researchers develop artificial intelligence tool to help speed autism evaluations 6abc Philadelphia",
+      "b": [
+        "6abc.com: University of Pennsylvania researchers develop artificial intelligence tool to help speed autism evaluations",
+        "reddit.com: Evaluation metrics"
+      ],
+      "body": [
+        "6abc.com: University of Pennsylvania researchers develop artificial intelligence tool to help speed autism evaluations 6abc Philadelphia",
+        "reddit.com: I wanted to ask about the selection of evaluation metrics. In which scenario we use ROC-AUC score and in which scenario we use f1 score as an evaluation metric in a classification problem to define the model s performance on a specific dataset. submitted by /u/okbro_9 [link] [comments]"
+      ],
+      "l": [
+        {
+          "d": "6abc.com",
+          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeVBqMXo4dTQ4eXphN1BDNjk5dl9XaTFrZmcwV1NwU3FMbjhlOUNJTVhCNU9DMUVvamtIQVVCT3EtSUFDUTFxWUp3azFwVjNIRXZjNFBzbG12MWR5ZG5JeHJjYjVKbzFwbUVrZnRlWTJRRExvbDNXeWJEYUpaWkU5d3FHRW55VkYwWDVLMWRrSWZVNGZEZF9RY0l1dkpZam9YTXZ5Qzd1ZHNUOWE4eWZ2dFdFZnFmMC1XZU52cnJsekdEdVlwYmpIdHl4b29Ed1XSAdQBQVVfeXFMT29WODNYSTJiZFNCQkxUcmlKTkFsbzllWE1wZ0dBNVdIRFc4SldHblBRODBpVGQxUDhIem9mNEkzU2tZem5QZkR6QmFVY0o2RDE1alA2TmJHWFhhQ21JT0ZyZjZsUHV4M2s2bk5LVkluVTV5Z0d1SHBLbkVyMXF2TzZXOTVyV2tITUdhSFZieXNFeDRSUEVwcDRyYUJldFVQV01yVlJfT2FtYWNVSlpQU19waTdoV2NGZ0gyYTNWUzRVVUV3T1g3STMxRDRUblZxckd4RUM?oc=5"
+        },
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1vj1ke5/evaluation_metrics_d/"
+        }
+      ],
+      "srcTitles": [
+        "University of Pennsylvania researchers develop artificial intelligence tool to help speed autism evaluations",
+        "Evaluation metrics"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 17,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-08T12:57:23.000Z",
       "writtenSources": 2,
