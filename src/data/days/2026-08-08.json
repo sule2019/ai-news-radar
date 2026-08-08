@@ -3,6 +3,38 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-08-07T22:48:24.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI says it slowed Astra model development over security concerns",
+      "s": "OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-pro",
+      "b": [
+        "techcrunch.com: OpenAI says it slowed Astra model development over security concerns",
+        "theguardian.com: OpenAI to pause work on AI model Astra due to security concerns"
+      ],
+      "body": [
+        "techcrunch.com: OpenAI said this model, which is still in development, reached its \"critical cybersecurity threshold,\" meaning it could independently identify and carry out cyberattacks against traditionally well-protected real-world systems.",
+        "theguardian.com: OpenAI to pause work on AI model Astra due to security concerns The Guardian"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/"
+        },
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY1dJNXVXYnpmS0U2OFQtSDhFcURicFNyMGFMVGVjdTAtQWJmc21hcUU3dGJaNnBMeVMySHVhTGZmRF9xUko1c2JJS3haRjlTaWtVV3QtelExODdVTGtfNThUb0RrS2JFN3pqWEJoUkkwSHpoSWJaemNFam1zbXFwUkJnbFRjRFZV?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI says it slowed Astra model development over security concerns",
+        "OpenAI to pause work on AI model Astra due to security concerns"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 36,
       "sources": 2,
       "ts": "2026-08-08T11:09:51.000Z",
@@ -35,7 +67,7 @@
     },
     {
       "cat": "models",
-      "signal": 25,
+      "signal": 21,
       "sources": 2,
       "ts": "2026-08-08T12:57:23.000Z",
       "writtenSources": 2,
