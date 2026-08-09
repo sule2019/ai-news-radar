@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 56,
-      "sources": 2,
+      "signal": 65,
+      "sources": 3,
       "ts": "2026-08-08T22:36:03.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,6 +20,10 @@
       ],
       "l": [
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/"
+        },
+        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260808/p10#a260808p10"
         },
@@ -29,6 +33,7 @@
         }
       ],
       "srcTitles": [
+        "Anthropic is turning Claude Code’s auto mode on by default",
         "Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it's good enough at catching harmful actions (Simon Willison/Simon Willison's Weblog)",
         "Auto mode is now the default in Claude Code for Pro, Max, and Team plans"
       ]
