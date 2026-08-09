@@ -3,7 +3,39 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 58,
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-08-08T22:36:03.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it's good enough at catching harmful actions (Simon Willison/Simon Willison's Weblog)",
+      "s": "Simon Willison / Simon Willison's Weblog : Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it's good enough at catching harmful acti",
+      "b": [
+        "techmeme.com: Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it's good enough at catching harmful actions (Simon Willison/Simon Willison's Weblog)",
+        "simonwillison.net: Auto mode is now the default in Claude Code for Pro, Max, and Team plans"
+      ],
+      "body": [
+        "techmeme.com: Simon Willison / Simon Willison's Weblog : Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it's good enough at catching harmful actions This was one of the topics discussed in our Fireside Chat with Cat Wu and Thariq Shihipar at the AI Engineer World's Fair last month.",
+        "simonwillison.net: Auto mode is now the default in Claude Code for Pro, Max, and Team plans Anthropic are really confident in Claude Code's auto mode , to the point that they are making it the default setting for new sessions in most Claude Code plans starting on August 14th. This was one of the topics discussed in our Fireside Chat with Cat Wu and Thariq Shihipar at the AI Engineer World’s Fair last month. I asked them how they run Claude Code safely within Anthropic (given the threat of prompt injection) and they replied that \"Broadly within Anthropic, almost every single person uses auto mode\". Cat Wu then said: We’re going to publish some evals in the coming weeks, but we’ve pretty much mitigated every attack. [...] for the main categories of risks that we’re concerned about, like prompt injection and data exfiltration, the risks are far lower than the average human reviewer. This new article has those evals - in particular a test across 1,053 paid testers where: Partway through each session, a single permission prompt was swapped for a clearly dangerous command, and the vendor recorded whether the tester approved it. Every participant had the same experience. Only 13.6% of the humans refused that harmful action. Auto mode would have blocked 89% of those actions. Of course, that still leaves 11% of cases where auto mode would not have prevented the action! I absolutely buy that auto mode is a better solution than asking humans to constantly approve actions. Confirmation fatigue is real, and asking humans to click \"OK\" every few steps is clearly not going to result in safe behavior. There are two safety problems that need to be addressed here. The first is agents accidentally performing damaging actions - deleting the wrong files or clearing a production database. The second is the one I worry about more: prompt injection, where someone smuggles malicious instructions to your agent hiding in content that it consumes from elsewhere. Anthropic are making big claims on that front: We "
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260808/p10#a260808p10"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it's good enough at catching harmful actions (Simon Willison/Simon Willison's Weblog)",
+        "Auto mode is now the default in Claude Code for Pro, Max, and Team plans"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 55,
       "sources": 3,
       "ts": "2026-08-09T07:25:00.000Z",
       "writtenSources": 2,
@@ -36,38 +68,6 @@
         "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.",
         "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks.",
         "Cathie Wood's Ark Piled Into Nvidia and Taiwan Semiconductor After Meta's Earnings Miss. Here's What It Signals for Artificial Intelligence (AI) Stocks."
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 56,
-      "sources": 2,
-      "ts": "2026-08-08T22:36:03.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it's good enough at catching harmful actions (Simon Willison/Simon Willison's Weblog)",
-      "s": "Simon Willison / Simon Willison's Weblog : Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it's good enough at catching harmful acti",
-      "b": [
-        "techmeme.com: Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it's good enough at catching harmful actions (Simon Willison/Simon Willison's Weblog)",
-        "simonwillison.net: Auto mode is now the default in Claude Code for Pro, Max, and Team plans"
-      ],
-      "body": [
-        "techmeme.com: Simon Willison / Simon Willison's Weblog : Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it's good enough at catching harmful actions This was one of the topics discussed in our Fireside Chat with Cat Wu and Thariq Shihipar at the AI Engineer World's Fair last month.",
-        "simonwillison.net: Auto mode is now the default in Claude Code for Pro, Max, and Team plans Anthropic are really confident in Claude Code's auto mode , to the point that they are making it the default setting for new sessions in most Claude Code plans starting on August 14th. This was one of the topics discussed in our Fireside Chat with Cat Wu and Thariq Shihipar at the AI Engineer World’s Fair last month. I asked them how they run Claude Code safely within Anthropic (given the threat of prompt injection) and they replied that \"Broadly within Anthropic, almost every single person uses auto mode\". Cat Wu then said: We’re going to publish some evals in the coming weeks, but we’ve pretty much mitigated every attack. [...] for the main categories of risks that we’re concerned about, like prompt injection and data exfiltration, the risks are far lower than the average human reviewer. This new article has those evals - in particular a test across 1,053 paid testers where: Partway through each session, a single permission prompt was swapped for a clearly dangerous command, and the vendor recorded whether the tester approved it. Every participant had the same experience. Only 13.6% of the humans refused that harmful action. Auto mode would have blocked 89% of those actions. Of course, that still leaves 11% of cases where auto mode would not have prevented the action! I absolutely buy that auto mode is a better solution than asking humans to constantly approve actions. Confirmation fatigue is real, and asking humans to click \"OK\" every few steps is clearly not going to result in safe behavior. There are two safety problems that need to be addressed here. The first is agents accidentally performing damaging actions - deleting the wrong files or clearing a production database. The second is the one I worry about more: prompt injection, where someone smuggles malicious instructions to your agent hiding in content that it consumes from elsewhere. Anthropic are making big claims on that front: We "
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260808/p10#a260808p10"
-        },
-        {
-          "d": "simonwillison.net",
-          "u": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic says auto mode will be the default in Claude Code for Pro, Max, Team plans, starting on Aug. 14, claiming it's good enough at catching harmful actions (Simon Willison/Simon Willison's Weblog)",
-        "Auto mode is now the default in Claude Code for Pro, Max, and Team plans"
       ]
     }
   ]
