@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 88,
-      "sources": 37,
+      "signal": 81,
+      "sources": 11,
       "ts": "2026-08-10T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -39,19 +39,96 @@
           "u": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
         },
         {
-          "d": "+33"
+          "d": "+7"
         }
       ],
       "srcTitles": [
         "Model ML completes finance work more efficiently with GPT-5.6 Sol",
         "3 Collapsing models [R]",
-        "[R] Generative design of novel bacteriophages with genome language models [R]",
-        "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning"
+        "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+        "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-08-10T17:20:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI releases GPT-5.6-Cyber, a more cyber-permissive version of GPT-5.6 Sol, to some partners and expands its Daybreak cybersecurity initiative (Sam Sabin/Axios)",
+      "s": "Sam Sabin / Axios : OpenAI releases GPT-5.6-Cyber, a more cyber-permissive version of GPT-5.6 Sol, to some partners and expands its Daybreak cybersecurity initiative OpenAI is introducing a more cyber",
+      "b": [
+        "techmeme.com: OpenAI releases GPT-5.6-Cyber, a more cyber-permissive version of GPT-5.6 Sol, to some partners and expands its Daybreak cybersecurity initiative (Sam Sabin/Axios)",
+        "cnbc.com: OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve"
+      ],
+      "body": [
+        "techmeme.com: Sam Sabin / Axios : OpenAI releases GPT-5.6-Cyber, a more cyber-permissive version of GPT-5.6 Sol, to some partners and expands its Daybreak cybersecurity initiative OpenAI is introducing a more cyber-permissive version of GPT-5.6 Sol to vetted defenders as it prepares companies for autonomous cyberattacks.",
+        "cnbc.com: OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve cnbc.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260810/p32#a260810p32"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1QOGwxSHNLd2VfQzc4ZC1aaGgyMGFzQjV3b3ZWR0NQUmpXUmVHalRlSERRTFlQUEZQMDQ0azJlYnJEZGlObk9sR2xXUG9oRkpWTXFMaUhWWXRCLWZ1MTB0b1JRQ2NNcGNHWDVmbWI4UlNlZ2toRXfSAXtBVV95cUxObk1PT3kwQWxxemdBSmh6RGVKODJMb2VNWWtOM0hsc193Y2ZOTF9NNnhyZExNWDE4SzNQR0JzMW5mNnl5RVZTd0R1dU5pcDFOMUFCNWVqd1h1YWRZTmJGcUpuVUU3b1dSUHg3TW82dy1wWnF6bjYtd3dNcmM?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI releases GPT-5.6-Cyber, a more cyber-permissive version of GPT-5.6 Sol, to some partners and expands its Daybreak cybersecurity initiative (Sam Sabin/Axios)",
+        "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 51,
+      "sources": 37,
+      "ts": "2026-08-10T12:01:59.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion",
+      "s": "EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion Bluefield Daily Telegraph",
+      "b": [
+        "bdtonline.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion",
+        "accessnewswire.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion"
+      ],
+      "body": [
+        "bdtonline.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion Bluefield Daily Telegraph",
+        "accessnewswire.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion ACCESS Newswire"
+      ],
+      "l": [
+        {
+          "d": "medscape.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGxIVEVLbDBzdXl4dUdQZDQ4RHBHdjNMQjJDNWxOXzlNeXhQWmdtcGtsU3doUGExejFGUGxmV3RhcEtfSm5lSEo1SWJxelZYZUdkQ1pkWjBNQmVKTzc3MkxvemkwOTR1clV6Rnl2UndPVW5OWFhJWGxQdzdtWmlISzNMTHZmV0dYeUlITzloM3FtdlJjWjdJbnc5bEdTZ0tfcTV4YmtzRDY?oc=5"
+        },
+        {
+          "d": "emerj.com",
+          "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mXzBlTnFCdXJ1SWpnR3ZTVGl6blUtdy13MjJuakJUcGkyYURQd0ZwWUxLd283MFJ3WElHY2hTTmNQeGRTQ251dktFRXZ6VDNKNjJMeVV6c1hBbkRxWVdBSA?oc=5"
+        },
+        {
+          "d": "wataugaonline.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQndObi1kc1lSVUtZa2V4ZGc5TXBIenkwZ2VsMG4zNWJKUnU5T2N5cGpWNy10eFB1V01LZ2c3RU14QzRqVmxvX1U1UWZ6MVNwdUEzUHgwdWNaRnZ2WnNiU1VjeTlIVTJXRzVHVkRndnBUSjZOVDFfUUN5RnhSV1A5R0FBOGFQc2g3VUZLeQ?oc=5"
+        },
+        {
+          "d": "mronline.org",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZERBVXROOGRmUndSNHJUaU1BSUxoZmxNQ2d2X3JkNFZkcUhKclFKaVU5aUQ0U2ZDNnBOQkJKX1ppel81dVE1dmVaWjFuQ3NGcV9wMkN4ZHhDUG1oRTRROEFZck1mdDUybDA5WE5MeWhfNHNBWlFuNXB3emdZZ2JiMTlQeFFsQlVGNWgxWTR1OU14SDVadnFVNFFGVTl1M3NsNmp1aUhnQQ?oc=5"
+        },
+        {
+          "d": "+33"
+        }
+      ],
+      "srcTitles": [
+        "Artificial Intelligence in Dermoscopy: Why Expert Oversight Still Matters",
+        "Artificial Intelligence at Lowes",
+        "CCC&TI Launches New Artificial Intelligence Degree Program",
+        "Artificial Intelligence: the hype, the dangers, and the resistance—Part II"
       ]
     },
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-08-10T10:00:00.000Z",
       "writtenSources": 2,
@@ -83,7 +160,7 @@
     },
     {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-08-10T14:00:00.000Z",
       "writtenSources": 1,
@@ -132,8 +209,40 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-08-10T09:00:18.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
+      "s": "New York Times : Online course cheating has accelerated from chatbot-written essays to agents executing commands like log in and complete my quiz ; major AI tools didn't refuse As colleges and student",
+      "b": [
+        "techmeme.com: Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
+        "nytimes.com: A.I. Agents Are Taking Entire Online Courses for Cheating Students"
+      ],
+      "body": [
+        "techmeme.com: New York Times : Online course cheating has accelerated from chatbot-written essays to agents executing commands like log in and complete my quiz ; major AI tools didn't refuse As colleges and students embrace virtual classes, the ease of A.I. cheating is raising questions about the value of an online degree.",
+        "nytimes.com: A.I. Agents Are Taking Entire Online Courses for Cheating Students The New York Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260810/p25#a260810p25"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zTFZ5LTBFMjl4MkgxSGgtSDdYQlJQa0pBcTJZeXBDRDQtYzFVcjZyc3hLaTlYalBFczZud3pERVI1R0dzdTN6dWpxVDdGTWdlRUxwVVdCTGcyeTFmanVVR3N6eTJoUVdmVkZIZjVSNWhpeVhucFpETw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
+        "A.I. Agents Are Taking Entire Online Courses for Cheating Students"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-08-10T16:38:39.715Z",
       "writtenSources": 1,
@@ -158,7 +267,32 @@
     },
     {
       "cat": "products",
-      "signal": 28,
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-08-10T14:30:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Evolve your marketing with new AI tools",
+      "s": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+      "b": [
+        "blog.google: Evolve your marketing with new AI tools"
+      ],
+      "body": [
+        "blog.google: Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
+        }
+      ],
+      "srcTitles": [
+        "Evolve your marketing with new AI tools"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 24,
       "sources": 2,
       "ts": "2026-08-10T09:02:19.000Z",
       "writtenSources": 2,
@@ -186,31 +320,6 @@
       "srcTitles": [
         "Sources: the AI-driven memory chip shortage has kicked off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
         "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-08-10T14:30:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Evolve your marketing with new AI tools",
-      "s": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
-      "b": [
-        "blog.google: Evolve your marketing with new AI tools"
-      ],
-      "body": [
-        "blog.google: Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
-        }
-      ],
-      "srcTitles": [
-        "Evolve your marketing with new AI tools"
       ]
     },
     {
@@ -292,7 +401,7 @@
     },
     {
       "cat": "funding",
-      "signal": 23,
+      "signal": 19,
       "sources": 2,
       "ts": "2026-08-10T11:41:05.000Z",
       "writtenSources": 2,
@@ -320,83 +429,6 @@
       "srcTitles": [
         "Intel Selling $15 Billion in Common Stock as AI Demand Booms",
         "Intel plans $15 billion stock offering as AI demand accelerates"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 22,
-      "sources": 31,
-      "ts": "2026-08-10T12:01:59.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion",
-      "s": "EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion Bluefield Daily Telegraph",
-      "b": [
-        "bdtonline.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion",
-        "accessnewswire.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion"
-      ],
-      "body": [
-        "bdtonline.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion Bluefield Daily Telegraph",
-        "accessnewswire.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion ACCESS Newswire"
-      ],
-      "l": [
-        {
-          "d": "nebraskapublicmedia.org",
-          "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbjBwcDJJb0piWEM3X2Z4OVJ2WThBTVdsc2p5MGVmdl9Jei1BSkdrT2RNaUtMdmNzUDMwUjRyZkxmQy1GMWhyMjUzZXUwUks1MDFwZlY4UnlOUWtEV1l5ZVc2NF9kLXB6cDlGX2gydmg3U0kwem1tUGFGQjJpXy03dnNZVXlpajRGWmd5UlczeGxmR21SRFdIdUMwcDB3VkdoVEFqQ1poSi1GcHdoMUxkYk14RVFQSDl4Yk9GNmlsdjJwWGpZY2V4TTF0ZzBfbG55X2x4bVRFR3VlbVdJemFXdG1jY0ZzdUtZUlRqTTB3?oc=5"
-        },
-        {
-          "d": "emerj.com",
-          "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mXzBlTnFCdXJ1SWpnR3ZTVGl6blUtdy13MjJuakJUcGkyYURQd0ZwWUxLd283MFJ3WElHY2hTTmNQeGRTQ251dktFRXZ6VDNKNjJMeVV6c1hBbkRxWVdBSA?oc=5"
-        },
-        {
-          "d": "ideastream.org",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDBmWnE4emR0RzY1Y0xlOGF2N0F4ZUYzQXBORmF6YzVqMXp2Wk1iZ1hEaXdhVGU3Z2sydjExbl9YazRUQWNjNFJOZmF0V2tIZ3pJVEVGdDRyVW84NTNBTUF0TUg4RUdyMk1ybGRHNnFiSTR2RUhJTHVqcWJyXzhqbUNxeDRRS2lseDNyVGFpLW53cjNhUTl0QjJ6cGFicjdKVmhleVdkZzY?oc=5"
-        },
-        {
-          "d": "newpittsburghcourier.com",
-          "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaTk2VHhaekZqaUN1bGlabE43TVpkTm5QT3g3TndQVTlINkM4emFOOEhBY2owOTM5dlpWVjN3VmZ1bDNkQlpuWWZxb3J1dnJuX0tQcnloSXBJWHJad29fazRTY1NkZG1YOFJWSHNDZWRvZHpRMkxybVE3OTVQeDVOSEUtVHJzR1ZydnA5MVUwN0sxOHlOUmtReUNMX1dqUkdSZlZWS0JUN3hJTjc2TFk5X0otSlRyS1NzNzFMZHNmU2N2M3dQbzhEYVI0djVTSlQzQnpXQ2JPa3VIaXVlV1d3MlhvSnV0bVNFYi1BTlFEWQ?oc=5"
-        },
-        {
-          "d": "+27"
-        }
-      ],
-      "srcTitles": [
-        "AI in Nebraska education: Parents, teachers and students grapple with artificial intelligence in schools",
-        "Artificial Intelligence at Lowes",
-        "Parenting in the age of artificial intelligence",
-        "Urban League of Greater Pittsburgh launches ‘Empowered AI’ to equip youth for the future of Artificial Intelligence"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 22,
-      "sources": 2,
-      "ts": "2026-08-10T09:00:18.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
-      "s": "New York Times : Online course cheating has accelerated from chatbot-written essays to agents executing commands like log in and complete my quiz ; major AI tools didn't refuse As colleges and student",
-      "b": [
-        "techmeme.com: Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
-        "nytimes.com: A.I. Agents Are Taking Entire Online Courses for Cheating Students"
-      ],
-      "body": [
-        "techmeme.com: New York Times : Online course cheating has accelerated from chatbot-written essays to agents executing commands like log in and complete my quiz ; major AI tools didn't refuse As colleges and students embrace virtual classes, the ease of A.I. cheating is raising questions about the value of an online degree.",
-        "nytimes.com: A.I. Agents Are Taking Entire Online Courses for Cheating Students The New York Times"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260810/p25#a260810p25"
-        },
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zTFZ5LTBFMjl4MkgxSGgtSDdYQlJQa0pBcTJZeXBDRDQtYzFVcjZyc3hLaTlYalBFczZud3pERVI1R0dzdTN6dWpxVDdGTWdlRUxwVVdCTGcyeTFmanVVR3N6eTJoUVdmVkZIZjVSNWhpeVhucFpETw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
-        "A.I. Agents Are Taking Entire Online Courses for Cheating Students"
       ]
     },
     {
