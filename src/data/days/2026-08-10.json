@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 84,
-      "sources": 35,
+      "signal": 83,
+      "sources": 34,
       "ts": "2026-08-10T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -39,7 +39,7 @@
           "u": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
         },
         {
-          "d": "+31"
+          "d": "+30"
         }
       ],
       "srcTitles": [
@@ -50,8 +50,33 @@
       ]
     },
     {
-      "cat": "products",
+      "cat": "models",
       "signal": 52,
+      "sources": 1,
+      "ts": "2026-08-10T14:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "s": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+      "b": [
+        "openai.com: OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas"
+      ],
+      "body": [
+        "openai.com: OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/responsible-ai-infrastructure-texas"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 48,
       "sources": 2,
       "ts": "2026-08-10T09:02:19.000Z",
       "writtenSources": 2,
@@ -82,33 +107,8 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 52,
-      "sources": 1,
-      "ts": "2026-08-10T14:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "s": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
-      "b": [
-        "openai.com: OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas"
-      ],
-      "body": [
-        "openai.com: OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/responsible-ai-infrastructure-texas"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 47,
+      "signal": 43,
       "sources": 2,
       "ts": "2026-08-10T11:41:05.000Z",
       "writtenSources": 2,
@@ -140,7 +140,7 @@
     },
     {
       "cat": "funding",
-      "signal": 46,
+      "signal": 42,
       "sources": 31,
       "ts": "2026-08-10T12:01:59.000Z",
       "writtenSources": 2,
@@ -184,8 +184,33 @@
       ]
     },
     {
-      "cat": "models",
+      "cat": "products",
       "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-10T14:30:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Evolve your marketing with new AI tools",
+      "s": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+      "b": [
+        "blog.google: Evolve your marketing with new AI tools"
+      ],
+      "body": [
+        "blog.google: Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
+        }
+      ],
+      "srcTitles": [
+        "Evolve your marketing with new AI tools"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
       "sources": 3,
       "ts": "2026-08-10T10:00:00.000Z",
       "writtenSources": 2,
@@ -218,66 +243,6 @@
         "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
         "Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay",
         "Mark Zuckerberg takes on the AI doomers in 6,500-word essay"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 30,
-      "sources": 1,
-      "ts": "2026-08-10T14:30:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Evolve your marketing with new AI tools",
-      "s": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
-      "b": [
-        "blog.google: Evolve your marketing with new AI tools"
-      ],
-      "body": [
-        "blog.google: Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
-        }
-      ],
-      "srcTitles": [
-        "Evolve your marketing with new AI tools"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 24,
-      "sources": 2,
-      "ts": "2026-08-09T23:31:39.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist (ABC)",
-      "s": "ABC : An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist By national AI reporter Cam Wilson",
-      "b": [
-        "techmeme.com: An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist (ABC)",
-        "simonwillison.net: Quoting OpenClaw",
-        "simonwillison.net: Quoting Claude Opus 5 system prompt"
-      ],
-      "body": [
-        "techmeme.com: ABC : An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist By national AI reporter Cam Wilson and the Specialist Reporting Team's Rhiannon Hobbins abc.net.au/news/ai-assistant-hacks- gym-website-aus-cyber-attack/107007986",
-        "simonwillison.net: The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3 already. OpenClaw , hacking an Australian gym-booking website Tags: ai-ethics , generative-ai , openclaw , ai , ai-security-research , llms",
-        "simonwillison.net: Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access ). These events are after Claude's training-data cutoff, so Claude knows about them only from this notice. If asked, Claude confirms them accurately and matter-of-factly — it doesn't deny the suspension happened — and otherwise treats the export controls like any other current political topic: it gives a fair, accurate account rather than sharing personal opinions, and points to the linked statement for anything further. Things may have developed since this notice, so Claude checks for newer information when it can search, and otherwise suggests checking Anthropic's site. Claude Opus 5 system prompt , ensuring Claude doesn't provide incorrect answers about the export controls situation Tags: system-prompts , anthropic , claude , generative-ai , ai , llms , claude-mythos-fable"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260809/p10#a260809p10"
-        },
-        {
-          "d": "simonwillison.net",
-          "u": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything"
-        }
-      ],
-      "srcTitles": [
-        "An Australian user's OpenClaw agent running Claude exploited a gym API flaw and kicked another member off, after the user asked it to move him up the waitlist (ABC)",
-        "Quoting OpenClaw",
-        "Quoting Claude Opus 5 system prompt"
       ]
     },
     {
@@ -330,6 +295,41 @@
       ],
       "srcTitles": [
         "AI for science needs reasoning, not just data"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 20,
+      "sources": 2,
+      "ts": "2026-08-09T23:31:39.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist (ABC)",
+      "s": "ABC : An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist By national AI reporter Cam Wilson",
+      "b": [
+        "techmeme.com: An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist (ABC)",
+        "simonwillison.net: Quoting OpenClaw",
+        "simonwillison.net: Quoting Claude Opus 5 system prompt"
+      ],
+      "body": [
+        "techmeme.com: ABC : An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist By national AI reporter Cam Wilson and the Specialist Reporting Team's Rhiannon Hobbins abc.net.au/news/ai-assistant-hacks- gym-website-aus-cyber-attack/107007986",
+        "simonwillison.net: The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3 already. OpenClaw , hacking an Australian gym-booking website Tags: ai-ethics , generative-ai , openclaw , ai , ai-security-research , llms",
+        "simonwillison.net: Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access ). These events are after Claude's training-data cutoff, so Claude knows about them only from this notice. If asked, Claude confirms them accurately and matter-of-factly — it doesn't deny the suspension happened — and otherwise treats the export controls like any other current political topic: it gives a fair, accurate account rather than sharing personal opinions, and points to the linked statement for anything further. Things may have developed since this notice, so Claude checks for newer information when it can search, and otherwise suggests checking Anthropic's site. Claude Opus 5 system prompt , ensuring Claude doesn't provide incorrect answers about the export controls situation Tags: system-prompts , anthropic , claude , generative-ai , ai , llms , claude-mythos-fable"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260809/p10#a260809p10"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything"
+        }
+      ],
+      "srcTitles": [
+        "An Australian user's OpenClaw agent running Claude exploited a gym API flaw and kicked another member off, after the user asked it to move him up the waitlist (ABC)",
+        "Quoting OpenClaw",
+        "Quoting Claude Opus 5 system prompt"
       ]
     },
     {
