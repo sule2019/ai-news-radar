@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 59,
+      "signal": 56,
       "sources": 2,
       "ts": "2026-08-09T23:31:39.000Z",
       "writtenSources": 2,
@@ -31,9 +31,46 @@
         }
       ],
       "srcTitles": [
-        "An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist (ABC)",
+        "An Australian user's OpenClaw agent running Claude exploited a gym API flaw and kicked another member off, after the user asked it to move him up the waitlist (ABC)",
         "Quoting OpenClaw",
         "Quoting Claude Opus 5 system prompt"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-08-10T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models (Catherine Thorbecke/Bloomberg)",
+      "s": "Catherine Thorbecke / Bloomberg : Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models New lar",
+      "b": [
+        "techmeme.com: Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models (Catherine Thorbecke/Bloomberg)",
+        "arxiv.org: Social World Models",
+        "arxiv.org: MEDLEY-BENCH: Benchmarking Behavioural Metacognition and Belief Revision Under Social Pressure in Large Language Models"
+      ],
+      "body": [
+        "techmeme.com: Catherine Thorbecke / Bloomberg : Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models New large language models like Moonshot's Kimi K3 have dominated the debate about China's artificial intelligence ambitions.",
+        "arxiv.org: arXiv:2509.00559v3 Announce Type: replace Abstract: Humans intuitively navigate social interactions by simulating unspoken dynamics and reasoning about others' perspectives, even with limited information. In contrast, AI systems struggle to structure and reason about implicit social contexts, as they lack explicit representations for unobserved dynamics such as intentions, beliefs, and evolving social states. In this paper, we introduce the concept of social world models (SWMs) to characterize the complex social dynamics. To operationalize SWMs, we introduce a novel structured social world representation formalism (S3AP), which captures the evolving states, actions, and mental states of agents, addressing the lack of explicit structure in traditional free-text-based inputs. Through comprehensive experiments across five social reasoning benchmarks, we show that S3AP significantly enhances LLM performance-achieving a +51% improvement on FANToM over OpenAI's o1. Our ablations further reveal that these gains are driven by the explicit modeling of hidden mental states, which proves more effective than a wide range of baseline methods. Finally, we introduce an algorithm for social world models using S3AP, which enables AI agents to build models of their interlocutors and predict their next actions and mental states. Empirically, S3AP-enabled social world models yield up to +18% improvement on the SOTOPIA multi-turn social interaction benchmark. Our findings highlight the promise of S3AP as a powerful, general-purpose representation for social world states, enabling the development of more socially-aware systems that better navigate social interactions.",
+        "arxiv.org: arXiv:2604.16009v2 Announce Type: replace Abstract: Most large language model benchmarks evaluate final-answer quality but reveal little about how models revise beliefs under disagreement or conflicting evidence. We introduce MEDLEY-BENCH, an open benchmark comparing structured private self-review and analyst-conditioned social revision from a common solo baseline. We evaluated 35 models from 12 families on 130 instances using the Medley Metacognition Score (MMS) and four taxonomy-aligned, rubric-derived composites. MMS point estimates were not consistently ordered in the available within-family size or generation comparisons. Under the prespecified ipsative procedure, the Evaluation-mapped composite had the lowest relative rubric score in 30 of 35 models; Self-regulation was lowest in four models and Control in one. This rubric- and centering-dependent pattern may reflect model behavior, judge severity, data-pipeline effects, or their combination; it is not evidence of an absolute Evaluation deficit. In an exploratory adversarial analysis of 11 purposively selected models, sensitivity to manipulated consensus labels ranged from near zero to larger response shifts. A preliminary human rubric-application study of 24 paired vignettes found a mean composite difference of 0.727 (95% CI: 0.500-0.942). Across 24 cross-rated response items from 12 shared vignettes, quadratic-weighted inter-reviewer agreement was kappa = 0.389, and response-profile human-LLM convergence was rho = 0.637. This preprint reports MEDLEY-BENCH v1.0, the audited proof-of-concept release. A separately versioned v1.5 will rerun the full protocol with corrected social-summary rendering and stronger scoring reproducibility, experimental control, and uncertainty analysis. MEDLEY-BENCH complements accuracy-based evaluation by characterizing prompted belief revision under ambiguity and social disagreement.",
+        "arxiv.org: arXiv:2608.06544v1 Announce Type: new Abstract: World models for visual control typically learn compact latent states by reconstructing observations, implicitly encouraging representations to preserve information across the entire visual input. However, task-relevant content often occupies only a small fraction of the observation, while background clutter and distractors consume valuable representational capacity. This mismatch between visual reconstruction and control objectives biases latent representations to model task-irrelevant visual content, diluting learning signals for control-relevant features and severely degrading downstream performance under visual distractions. We introduce TaskSense, a task-centric world modeling framework that enforces task relevance before latent encoding through a differentiable stochastic spatial attention mechanism conditioned on the previous latent state. To steer attention toward control-relevant regions, we augment training with an auxiliary inverse-dynamics objective. Rather than reconstructing the full observation, the world model reconstructs only the attended regions, encouraging latent representations to preserve task-relevant information while discarding irrelevant visual content. The decoder is further conditioned on the sampled attention map, enabling consistent reconstruction despite stochastic attention. Compared with the DreamerV3 baseline, TaskSense maintains competitive performance on the DeepMind Control Suite while consistently outperforming DreamerV3 on the Distracting Control Suite, demonstrating substantially improved robustness to visual distractions. Qualitative analysis further confirms that the learned attention, guided by inverse-dynamics supervision, consistently localizes control-relevant regions while suppressing irrelevant visual content."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260810/p1#a260810p1"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2509.00559"
+        }
+      ],
+      "srcTitles": [
+        "Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models (Catherine Thorbecke/Bloomberg)",
+        "Social World Models",
+        "MEDLEY-BENCH: Benchmarking Behavioural Metacognition and Belief Revision Under Social Pressure in Large Language Models",
+        "TaskSense: Focusing on What Matters in World Models"
       ]
     }
   ]
