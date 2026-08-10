@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 87,
-      "sources": 35,
+      "signal": 88,
+      "sources": 37,
       "ts": "2026-08-10T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -39,7 +39,7 @@
           "u": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
         },
         {
-          "d": "+31"
+          "d": "+33"
         }
       ],
       "srcTitles": [
@@ -133,7 +133,7 @@
     },
     {
       "cat": "products",
-      "signal": 36,
+      "signal": 32,
       "sources": 2,
       "ts": "2026-08-10T09:02:19.000Z",
       "writtenSources": 2,
@@ -164,8 +164,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-10T16:38:39.715Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "What building an AI-native finance function taught me",
+      "s": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "b": [
+        "openai.com: What building an AI-native finance function taught me"
+      ],
+      "body": [
+        "openai.com: OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/building-an-ai-native-finance-function"
+        }
+      ],
+      "srcTitles": [
+        "What building an AI-native finance function taught me"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 31,
+      "signal": 27,
       "sources": 2,
       "ts": "2026-08-10T11:41:05.000Z",
       "writtenSources": 2,
@@ -196,8 +221,33 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-08-10T14:30:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Evolve your marketing with new AI tools",
+      "s": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+      "b": [
+        "blog.google: Evolve your marketing with new AI tools"
+      ],
+      "body": [
+        "blog.google: Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
+        }
+      ],
+      "srcTitles": [
+        "Evolve your marketing with new AI tools"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 30,
+      "signal": 26,
       "sources": 31,
       "ts": "2026-08-10T12:01:59.000Z",
       "writtenSources": 2,
@@ -242,7 +292,7 @@
     },
     {
       "cat": "products",
-      "signal": 30,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-08-10T09:00:18.000Z",
       "writtenSources": 2,
@@ -270,56 +320,6 @@
       "srcTitles": [
         "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
         "A.I. Agents Are Taking Entire Online Courses for Cheating Students"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 30,
-      "sources": 1,
-      "ts": "2026-08-10T16:38:39.715Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "What building an AI-native finance function taught me",
-      "s": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
-      "b": [
-        "openai.com: What building an AI-native finance function taught me"
-      ],
-      "body": [
-        "openai.com: OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/building-an-ai-native-finance-function"
-        }
-      ],
-      "srcTitles": [
-        "What building an AI-native finance function taught me"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-08-10T14:30:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Evolve your marketing with new AI tools",
-      "s": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
-      "b": [
-        "blog.google: Evolve your marketing with new AI tools"
-      ],
-      "body": [
-        "blog.google: Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
-        }
-      ],
-      "srcTitles": [
-        "Evolve your marketing with new AI tools"
       ]
     },
     {
