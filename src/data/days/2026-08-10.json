@@ -51,7 +51,7 @@
     },
     {
       "cat": "products",
-      "signal": 59,
+      "signal": 56,
       "sources": 2,
       "ts": "2026-08-10T09:02:19.000Z",
       "writtenSources": 2,
@@ -82,9 +82,66 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-08-10T14:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "s": "OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans.",
+      "b": [
+        "openai.com: OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas"
+      ],
+      "body": [
+        "openai.com: OpenAI sent Governor Greg Abbott a letter outlining its commitment to responsible AI infrastructure in Texas. The letter supports reliable, transparent growth that benefits Texans."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/responsible-ai-infrastructure-texas"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-08-10T11:41:05.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Intel Selling $15 Billion in Common Stock as AI Demand Booms",
+      "s": "Intel Selling $15 Billion in Common Stock as AI Demand Booms Bloomberg.com",
+      "b": [
+        "bloomberg.com: Intel Selling $15 Billion in Common Stock as AI Demand Booms",
+        "cnbc.com: Intel plans $15 billion stock offering as AI demand accelerates"
+      ],
+      "body": [
+        "bloomberg.com: Intel Selling $15 Billion in Common Stock as AI Demand Booms Bloomberg.com",
+        "cnbc.com: Intel plans $15 billion stock offering as AI demand accelerates CNBC"
+      ],
+      "l": [
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYWh3QVNKT3liUUxPeUl4SUxxS29TaERxSEJPSmhySzFRX0c4NzdVLWdyN2l6bVlDSGZ0NlV2OUZOVzVZRUVxTjlzZVhZYURMbjBCSjJrbjNRRFBaRTI3SVhydE9jLWlUYTZkZVZiVm1fYWtncm5RYV9qS2VyYTdwb1ZKMFpyWjM1WlJScHBSbVRIdTBLZlprTG5GWktlRjhFTlpSVndoa1ZxZw?oc=5"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9wLUxnRncxa2pNdGoxaFhBVnZzNU40Qks5MDFnSFJ5eHAzdWo0RGluXzctenFpbmREckVJQkFhTHJMREdNbnZaeDNtYnNDQnBxckd3bGZ2Qm1xbU9ZaW01bkQwNnRvdUFRUUVjYXpyT2JxSjjSAXhBVV95cUxOUFZTSFNOX3hPb2lHTzhMMXdESmV6anV2SlNObC1wZmNDM3RmUmtVdXdfMmpETzkxTmVROG5Idy00V1Q1UEt4b1VEaS1aZEdRRXBYNmZKbGotSU0yNkNPMDJZcHZsU29zMTdWekNHSUNWT2lBellmMlc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Intel Selling $15 Billion in Common Stock as AI Demand Booms",
+        "Intel plans $15 billion stock offering as AI demand accelerates"
+      ]
+    },
+    {
       "cat": "funding",
       "signal": 50,
-      "sources": 30,
+      "sources": 31,
       "ts": "2026-08-10T12:01:59.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -112,18 +169,18 @@
           "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDBmWnE4emR0RzY1Y0xlOGF2N0F4ZUYzQXBORmF6YzVqMXp2Wk1iZ1hEaXdhVGU3Z2sydjExbl9YazRUQWNjNFJOZmF0V2tIZ3pJVEVGdDRyVW84NTNBTUF0TUg4RUdyMk1ybGRHNnFiSTR2RUhJTHVqcWJyXzhqbUNxeDRRS2lseDNyVGFpLW53cjNhUTl0QjJ6cGFicjdKVmhleVdkZzY?oc=5"
         },
         {
-          "d": "bnonews.com",
-          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWFlCblpVU1pvc0gzOXFZbEt5RGw5dVppTFBUb2hNS1ZnWm1QSHBmNnd3cy1QY0hFQW40UlZLdG43MGFJOXd3aVNQS3lVMjVtTmQtbFl0MEN6aTNXNFBBRE5mSXNfdkwtVFVqRVJBbXdIeGpQLTE3dW5zbEtaXzdMVmx5NHJ6NHhwWC1KSVBMOV9BZ2NSSkhuREF1NHVsRG1LX2w0bFlvLXN2aTJNTkkzelpvX2xRMk9oMWprQw?oc=5"
+          "d": "newpittsburghcourier.com",
+          "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPaTk2VHhaekZqaUN1bGlabE43TVpkTm5QT3g3TndQVTlINkM4emFOOEhBY2owOTM5dlpWVjN3VmZ1bDNkQlpuWWZxb3J1dnJuX0tQcnloSXBJWHJad29fazRTY1NkZG1YOFJWSHNDZWRvZHpRMkxybVE3OTVQeDVOSEUtVHJzR1ZydnA5MVUwN0sxOHlOUmtReUNMX1dqUkdSZlZWS0JUN3hJTjc2TFk5X0otSlRyS1NzNzFMZHNmU2N2M3dQbzhEYVI0djVTSlQzQnpXQ2JPa3VIaXVlV1d3MlhvSnV0bVNFYi1BTlFEWQ?oc=5"
         },
         {
-          "d": "+26"
+          "d": "+27"
         }
       ],
       "srcTitles": [
         "AI in Nebraska education: Parents, teachers and students grapple with artificial intelligence in schools",
         "Artificial Intelligence at Lowes",
         "Parenting in the age of artificial intelligence",
-        "How Artificial Intelligence is Ushering in the Next Generation of Game Developers"
+        "Urban League of Greater Pittsburgh launches ‘Empowered AI’ to equip youth for the future of Artificial Intelligence"
       ]
     },
     {
@@ -197,7 +254,7 @@
     },
     {
       "cat": "policy",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-08-09T23:31:39.000Z",
       "writtenSources": 2,
@@ -232,7 +289,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-08-10T09:00:00.000Z",
       "writtenSources": 1,
