@@ -4,7 +4,7 @@
     {
       "cat": "research",
       "signal": 81,
-      "sources": 12,
+      "sources": 11,
       "ts": "2026-08-10T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -39,7 +39,7 @@
           "u": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
         },
         {
-          "d": "+8"
+          "d": "+7"
         }
       ],
       "srcTitles": [
@@ -210,7 +210,7 @@
     },
     {
       "cat": "models",
-      "signal": 35,
+      "signal": 31,
       "sources": 2,
       "ts": "2026-08-10T10:00:00.000Z",
       "writtenSources": 2,
@@ -238,38 +238,6 @@
       "srcTitles": [
         "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
         "Meta CEO Zuckerberg lays out open-source vision for AI"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 30,
-      "sources": 2,
-      "ts": "2026-08-10T09:00:18.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
-      "s": "New York Times : Online course cheating has accelerated from chatbot-written essays to agents executing commands like log in and complete my quiz ; major AI tools didn't refuse As colleges and student",
-      "b": [
-        "techmeme.com: Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
-        "nytimes.com: A.I. Agents Are Taking Entire Online Courses for Cheating Students"
-      ],
-      "body": [
-        "techmeme.com: New York Times : Online course cheating has accelerated from chatbot-written essays to agents executing commands like log in and complete my quiz ; major AI tools didn't refuse As colleges and students embrace virtual classes, the ease of A.I. cheating is raising questions about the value of an online degree.",
-        "nytimes.com: A.I. Agents Are Taking Entire Online Courses for Cheating Students The New York Times"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260810/p25#a260810p25"
-        },
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zTFZ5LTBFMjl4MkgxSGgtSDdYQlJQa0pBcTJZeXBDRDQtYzFVcjZyc3hLaTlYalBFczZud3pERVI1R0dzdTN6dWpxVDdGTWdlRUxwVVdCTGcyeTFmanVVR3N6eTJoUVdmVkZIZjVSNWhpeVhucFpETw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
-        "A.I. Agents Are Taking Entire Online Courses for Cheating Students"
       ]
     },
     {
@@ -320,6 +288,38 @@
       ],
       "srcTitles": [
         "What building an AI-native finance function taught me"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-10T09:00:18.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
+      "s": "New York Times : Online course cheating has accelerated from chatbot-written essays to agents executing commands like log in and complete my quiz ; major AI tools didn't refuse As colleges and student",
+      "b": [
+        "techmeme.com: Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
+        "nytimes.com: A.I. Agents Are Taking Entire Online Courses for Cheating Students"
+      ],
+      "body": [
+        "techmeme.com: New York Times : Online course cheating has accelerated from chatbot-written essays to agents executing commands like log in and complete my quiz ; major AI tools didn't refuse As colleges and students embrace virtual classes, the ease of A.I. cheating is raising questions about the value of an online degree.",
+        "nytimes.com: A.I. Agents Are Taking Entire Online Courses for Cheating Students The New York Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260810/p25#a260810p25"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zTFZ5LTBFMjl4MkgxSGgtSDdYQlJQa0pBcTJZeXBDRDQtYzFVcjZyc3hLaTlYalBFczZud3pERVI1R0dzdTN6dWpxVDdGTWdlRUxwVVdCTGcyeTFmanVVR3N6eTJoUVdmVkZIZjVSNWhpeVhucFpETw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
+        "A.I. Agents Are Taking Entire Online Courses for Cheating Students"
       ]
     },
     {
