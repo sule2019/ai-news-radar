@@ -100,8 +100,8 @@
       ],
       "l": [
         {
-          "d": "medscape.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGxIVEVLbDBzdXl4dUdQZDQ4RHBHdjNMQjJDNWxOXzlNeXhQWmdtcGtsU3doUGExejFGUGxmV3RhcEtfSm5lSEo1SWJxelZYZUdkQ1pkWjBNQmVKTzc3MkxvemkwOTR1clV6Rnl2UndPVW5OWFhJWGxQdzdtWmlISzNMTHZmV0dYeUlITzloM3FtdlJjWjdJbnc5bEdTZ0tfcTV4YmtzRDY?oc=5"
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjZkdG1CVHpCbVl4dk5ULW1sb0hTaUxGaTNhOUxfTU44alhJeUF5NWRpVFR1WHRGOVpWWGxHajU3eGI1NWZDaXc0MmFtRnlRYVRuMkRmeU5VbjkyVXBPTzVOU05BT1RaeV9WOUU4RGlHWTlINjZYTGgzQVpHTXZoaktCSFo0clg3d3Q1aFMxZ3VYM252M1M5YzhvRVNhTTJRNndab2psYk84UEk2eUNiSlhrTHdWQQ?oc=5"
         },
         {
           "d": "emerj.com",
@@ -112,18 +112,18 @@
           "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZERBVXROOGRmUndSNHJUaU1BSUxoZmxNQ2d2X3JkNFZkcUhKclFKaVU5aUQ0U2ZDNnBOQkJKX1ppel81dVE1dmVaWjFuQ3NGcV9wMkN4ZHhDUG1oRTRROEFZck1mdDUybDA5WE5MeWhfNHNBWlFuNXB3emdZZ2JiMTlQeFFsQlVGNWgxWTR1OU14SDVadnFVNFFGVTl1M3NsNmp1aUhnQQ?oc=5"
         },
         {
-          "d": "surfer.com",
-          "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYdEY1YTV3ZzJMdnlrcG1MRXNfNndjQXJBX2t3UzhyZXJYTHdRYzJHT0xoS2NHb1czY2c5QktzZ29aVEVZT1BkTGR2c1Bva1VBNXBkVG45MzNNVldqUnlUWF9kLUJ1WnVvcXB2NV9rU0o4bnRwakpZMmNR?oc=5"
+          "d": "medscape.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSGxIVEVLbDBzdXl4dUdQZDQ4RHBHdjNMQjJDNWxOXzlNeXhQWmdtcGtsU3doUGExejFGUGxmV3RhcEtfSm5lSEo1SWJxelZYZUdkQ1pkWjBNQmVKTzc3MkxvemkwOTR1clV6Rnl2UndPVW5OWFhJWGxQdzdtWmlISzNMTHZmV0dYeUlITzloM3FtdlJjWjdJbnc5bEdTZ0tfcTV4YmtzRDY?oc=5"
         },
         {
           "d": "+35"
         }
       ],
       "srcTitles": [
-        "Artificial Intelligence in Dermoscopy: Why Expert Oversight Still Matters",
+        "EY Launching Unit to Keep a Lid on Artificial Intelligence Costs",
         "Artificial Intelligence at Lowes",
         "Artificial Intelligence: the hype, the dangers, and the resistance—Part II",
-        "Where and How Artificial Intelligence Is Coming to Surfing"
+        "Artificial Intelligence in Dermoscopy: Why Expert Oversight Still Matters"
       ]
     },
     {
@@ -178,7 +178,39 @@
     },
     {
       "cat": "models",
-      "signal": 39,
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-08-10T15:19:05.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Mark Zuckerberg s AI manifesto is exactly why people don t like AI",
+      "s": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "b": [
+        "techcrunch.com: Mark Zuckerberg s AI manifesto is exactly why people don t like AI",
+        "theverge.com: Four takeaways from Mark Zuckerberg s massive AI manifesto"
+      ],
+      "body": [
+        "techcrunch.com: On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+        "theverge.com: Meta CEO Mark Zuckerberg has a lot to say about the idealized future he now envisions for humanity co-existing with artificial intelligence - his latest essay spans more than 6,500 words on the matter. The lengthy manifesto Zuckerberg published on Monday, titled \"The Future is for Everyone,\" broadly lays out his beliefs about how the [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/977395/meta-mark-zuckerberg-superintelligent-ai-ramble"
+        }
+      ],
+      "srcTitles": [
+        "Mark Zuckerberg s AI manifesto is exactly why people don t like AI",
+        "Four takeaways from Mark Zuckerberg s massive AI manifesto"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 35,
       "sources": 2,
       "ts": "2026-08-10T10:00:00.000Z",
       "writtenSources": 2,
@@ -210,7 +242,7 @@
     },
     {
       "cat": "products",
-      "signal": 34,
+      "signal": 30,
       "sources": 2,
       "ts": "2026-08-10T09:00:18.000Z",
       "writtenSources": 2,
@@ -393,38 +425,6 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 16,
-      "sources": 2,
-      "ts": "2026-08-10T09:02:19.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
-      "s": "New York Times : Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips The artificial intelligence ",
-      "b": [
-        "techmeme.com: Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
-        "nytimes.com: A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington"
-      ],
-      "body": [
-        "techmeme.com: New York Times : Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips The artificial intelligence boom has created a shortage of a critical commodity called memory chips, and a new front for corporate lobbying in Washington.",
-        "nytimes.com: A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington nytimes.com"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260810/p17#a260810p17"
-        },
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3MnBwck5VRVoxblh0MG54Rm9nblNyVlFBc3p1RG1lcndUcDdPMXY4MHUyMDU5T0JpMGRhTlJjbzBfUFk2NkVjZ0VrUXV5OS1Hc1A1Q2lfeHdRMXI3WWVSN2l0SFptb21SQTQzdHZXVWZEZklSeHFLcks2VUxNdFU?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Sources: the AI-driven memory chip shortage has kicked off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
-        "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington"
-      ]
-    },
-    {
       "cat": "funding",
       "signal": 15,
       "sources": 2,
@@ -454,6 +454,38 @@
       "srcTitles": [
         "Intel Selling $15 Billion in Common Stock as AI Demand Booms",
         "Intel plans $15 billion stock offering as AI demand accelerates"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-08-10T09:02:19.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
+      "s": "New York Times : Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips The artificial intelligence ",
+      "b": [
+        "techmeme.com: Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
+        "nytimes.com: A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington"
+      ],
+      "body": [
+        "techmeme.com: New York Times : Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips The artificial intelligence boom has created a shortage of a critical commodity called memory chips, and a new front for corporate lobbying in Washington.",
+        "nytimes.com: A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington nytimes.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260810/p17#a260810p17"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3MnBwck5VRVoxblh0MG54Rm9nblNyVlFBc3p1RG1lcndUcDdPMXY4MHUyMDU5T0JpMGRhTlJjbzBfUFk2NkVjZ0VrUXV5OS1Hc1A1Q2lfeHdRMXI3WWVSN2l0SFptb21SQTQzdHZXVWZEZklSeHFLcks2VUxNdFU?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: the AI-driven memory chip shortage has kicked off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
+        "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington"
       ]
     },
     {
