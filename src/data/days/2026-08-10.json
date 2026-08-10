@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 75,
-      "sources": 10,
+      "signal": 84,
+      "sources": 35,
       "ts": "2026-08-10T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -39,7 +39,7 @@
           "u": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
         },
         {
-          "d": "+6"
+          "d": "+31"
         }
       ],
       "srcTitles": [
@@ -51,7 +51,7 @@
     },
     {
       "cat": "products",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-08-10T09:02:19.000Z",
       "writtenSources": 2,
@@ -108,7 +108,7 @@
     },
     {
       "cat": "funding",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-08-10T11:41:05.000Z",
       "writtenSources": 2,
@@ -140,7 +140,7 @@
     },
     {
       "cat": "funding",
-      "signal": 50,
+      "signal": 46,
       "sources": 31,
       "ts": "2026-08-10T12:01:59.000Z",
       "writtenSources": 2,
@@ -185,39 +185,7 @@
     },
     {
       "cat": "models",
-      "signal": 36,
-      "sources": 2,
-      "ts": "2026-08-10T08:04:08.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "AI for science needs reasoning, not just data",
-      "s": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s",
-      "b": [
-        "technologyreview.com: AI for science needs reasoning, not just data",
-        "genevasolutions.news: ❝Why we need to make AI work for all, not just for good"
-      ],
-      "body": [
-        "technologyreview.com: Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the feeling is in the air again—this time accompanied by a Nobel Prize. In 2024, Demis Hassabis and John Jumper of Google DeepMind were awarded part of the Nobel in chemistry for their neural network AlphaFold, which predicts the three-dimensional structures of proteins by learning from thousands of experimentally measured shapes. This devilish problem had resisted systematic attacks for half a century; AlphaFold seemed to have solved it once and for all, and the world became fixated on the promise of its approach. Hassabis and his team called AlphaFold “the template for how AI can accelerate all of science to digital speed.” A wave of startups building foundation models for biology, chemistry, and materials discovery raised billions of dollars, buoyed by DeepMind’s success. AlphaFold had shown that the combination of AI and sufficient data could make groundbreaking discoveries (even if we did not understand the underlying mechanisms involved), and it seemed, once again, that a path through the rest of science was laid out before us. To be sure, AI will bring extraordinary changes to science, but it has become increasingly clear that AlphaFold, and things like it, may not be the best template for that metamorphosis. Though it is a profound achievement, the conditions that produced the likes of AlphaFold are rare, and the time it will take to meet those conditions in other fields will be measured in decades, not years. Instead, the acceleration of science will come about thanks to another approach: AI agents. The primary condition for AlphaFold’s success was the existence of the Protein Data Bank, a data set of roughly 1",
-        "genevasolutions.news: ❝Why we need to make AI work for all, not just for good Geneva Solutions"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
-        },
-        {
-          "d": "genevasolutions.news",
-          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQTNjeF80amtTbFVoeE9kS1U0VUFkMy1tR01uRHBUeDBWY1pyRFdLd1FlTlZOeVNORWVtMjZQbFZacUEtT2pSaWpfN1Q2Y2RjVF81TWVkLV9ZYlBRZ0dyWVJ2ZG1vanRBV1RhUElCQTFoT3VnZ3NMNWVXOW1KSW1NMVYzZk9KNVNscEN4ZXM1R0VOUkZLVmc?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "AI for science needs reasoning, not just data",
-        "❝Why we need to make AI work for all, not just for good"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 33,
+      "signal": 30,
       "sources": 3,
       "ts": "2026-08-10T10:00:00.000Z",
       "writtenSources": 2,
@@ -234,27 +202,52 @@
       ],
       "l": [
         {
+          "d": "foxbusiness.com",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkI3VDBCSEFJbTJUS212Sm1NNEJiNTYzSWp3cC0tV05RMXk4WWxtOUk2S1dDOF9XQncwa2Jva0dmb1JUanJuX0FYb1l3MFJHb1dZSG1jZWk0cWpwU0hIUlNSaGRFSjY1RVhFT3B0WXhDZVY0SURDUE5LblF5ZzAxR1N5M2FCc3ota2pEQWNfSGnSAZYBQVVfeXFMTXR1VmZvOWZ2Q1ZsQkdLRWxMNW1nOVNuUGR2ZUdVTEZyRGhJWVVqVkJub1paN2FnUWJRa1R3TGtUZ01vWERUN2hFZUsxN2FWVkZkVVoyVHJ4bE8xRlEySjV1MFR3ZWRrT3FGcDQ1SmFKTF9pQkp1Z2lkemx5TnQxSDlkX2NjWWh0eXNpMDlBbG9WampwanJB?oc=5"
+        },
+        {
           "d": "wsj.com",
           "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd0sxd0piWHUyX1lKbHhxTGVsUmNJckRFNXNjeGRfZzNJRUNYbUplVk52MEF1aFZ1dmxBVHJlbXdGOW5hNFFrWVdJaDA1dUUwRVNuYXRYWG1ETk80N3hKWkJoYXlVS0M1UlJJMjFyeVA5Y2FBaFR4UXluRXRUNFlFQXViTl95N3pDWTladnJuUjM0dlBZUmhEMVVYdw?oc=5"
         },
         {
           "d": "marketwatch.com",
           "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHRVbE5HVHFNUFdoajVvaU81NjdxeVJPb3luZjk1VXpZQjY4WlVoZ1ZiOGp0aGszRm0wcjZISmwxUkI0a1J1M1NrTmJ6eWFkT2xoWkNJV3l4R01hWi11NVliNzZQM1FRdUpOQ1NYd0t2WjRNd1A1aG1QblJ0aXNLMEtFWHh6b2FUWlJfT1ktVUhacUtfaXpoMTFfNXh0R1RNY3VGdg?oc=5"
-        },
-        {
-          "d": "foxbusiness.com",
-          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkI3VDBCSEFJbTJUS212Sm1NNEJiNTYzSWp3cC0tV05RMXk4WWxtOUk2S1dDOF9XQncwa2Jva0dmb1JUanJuX0FYb1l3MFJHb1dZSG1jZWk0cWpwU0hIUlNSaGRFSjY1RVhFT3B0WXhDZVY0SURDUE5LblF5ZzAxR1N5M2FCc3ota2pEQWNfSGnSAZYBQVVfeXFMTXR1VmZvOWZ2Q1ZsQkdLRWxMNW1nOVNuUGR2ZUdVTEZyRGhJWVVqVkJub1paN2FnUWJRa1R3TGtUZ01vWERUN2hFZUsxN2FWVkZkVVoyVHJ4bE8xRlEySjV1MFR3ZWRrT3FGcDQ1SmFKTF9pQkp1Z2lkemx5TnQxSDlkX2NjWWh0eXNpMDlBbG9WampwanJB?oc=5"
         }
       ],
       "srcTitles": [
+        "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
         "Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay",
-        "Mark Zuckerberg takes on the AI doomers in 6,500-word essay",
-        "Zuckerberg lays out vision to put superintelligent AI in everyone's hands"
+        "Mark Zuckerberg takes on the AI doomers in 6,500-word essay"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-10T14:30:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Evolve your marketing with new AI tools",
+      "s": "Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow.",
+      "b": [
+        "blog.google: Evolve your marketing with new AI tools"
+      ],
+      "body": [
+        "blog.google: Learn how new AI and agentic experiences across Google Ads and Google Analytics can simplify your marketing workflow."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products/ads-commerce/google-ads-analytics-ai-updates/"
+        }
+      ],
+      "srcTitles": [
+        "Evolve your marketing with new AI tools"
       ]
     },
     {
       "cat": "policy",
-      "signal": 28,
+      "signal": 24,
       "sources": 2,
       "ts": "2026-08-09T23:31:39.000Z",
       "writtenSources": 2,
@@ -310,6 +303,33 @@
       ],
       "srcTitles": [
         "These startups are chasing the next big thing in LLMs"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-10T08:04:08.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI for science needs reasoning, not just data",
+      "s": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s",
+      "b": [
+        "technologyreview.com: AI for science needs reasoning, not just data",
+        "genevasolutions.news: ❝Why we need to make AI work for all, not just for good"
+      ],
+      "body": [
+        "technologyreview.com: Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the feeling is in the air again—this time accompanied by a Nobel Prize. In 2024, Demis Hassabis and John Jumper of Google DeepMind were awarded part of the Nobel in chemistry for their neural network AlphaFold, which predicts the three-dimensional structures of proteins by learning from thousands of experimentally measured shapes. This devilish problem had resisted systematic attacks for half a century; AlphaFold seemed to have solved it once and for all, and the world became fixated on the promise of its approach. Hassabis and his team called AlphaFold “the template for how AI can accelerate all of science to digital speed.” A wave of startups building foundation models for biology, chemistry, and materials discovery raised billions of dollars, buoyed by DeepMind’s success. AlphaFold had shown that the combination of AI and sufficient data could make groundbreaking discoveries (even if we did not understand the underlying mechanisms involved), and it seemed, once again, that a path through the rest of science was laid out before us. To be sure, AI will bring extraordinary changes to science, but it has become increasingly clear that AlphaFold, and things like it, may not be the best template for that metamorphosis. Though it is a profound achievement, the conditions that produced the likes of AlphaFold are rare, and the time it will take to meet those conditions in other fields will be measured in decades, not years. Instead, the acceleration of science will come about thanks to another approach: AI agents. The primary condition for AlphaFold’s success was the existence of the Protein Data Bank, a data set of roughly 1",
+        "genevasolutions.news: ❝Why we need to make AI work for all, not just for good Geneva Solutions"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
+        }
+      ],
+      "srcTitles": [
+        "AI for science needs reasoning, not just data"
       ]
     },
     {
