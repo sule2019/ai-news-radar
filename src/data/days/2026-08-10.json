@@ -4,7 +4,7 @@
     {
       "cat": "research",
       "signal": 81,
-      "sources": 11,
+      "sources": 12,
       "ts": "2026-08-10T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -39,7 +39,7 @@
           "u": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
         },
         {
-          "d": "+7"
+          "d": "+8"
         }
       ],
       "srcTitles": [
@@ -83,8 +83,8 @@
     },
     {
       "cat": "funding",
-      "signal": 51,
-      "sources": 37,
+      "signal": 52,
+      "sources": 38,
       "ts": "2026-08-10T12:01:59.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -116,7 +116,7 @@
           "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZERBVXROOGRmUndSNHJUaU1BSUxoZmxNQ2d2X3JkNFZkcUhKclFKaVU5aUQ0U2ZDNnBOQkJKX1ppel81dVE1dmVaWjFuQ3NGcV9wMkN4ZHhDUG1oRTRROEFZck1mdDUybDA5WE5MeWhfNHNBWlFuNXB3emdZZ2JiMTlQeFFsQlVGNWgxWTR1OU14SDVadnFVNFFGVTl1M3NsNmp1aUhnQQ?oc=5"
         },
         {
-          "d": "+33"
+          "d": "+34"
         }
       ],
       "srcTitles": [
@@ -124,38 +124,6 @@
         "Artificial Intelligence at Lowes",
         "CCC&TI Launches New Artificial Intelligence Degree Program",
         "Artificial Intelligence: the hype, the dangers, and the resistance—Part II"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 47,
-      "sources": 2,
-      "ts": "2026-08-10T10:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
-      "s": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands Fox Business",
-      "b": [
-        "foxbusiness.com: Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
-        "wsj.com: Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay"
-      ],
-      "body": [
-        "foxbusiness.com: Zuckerberg lays out vision to put superintelligent AI in everyone's hands Fox Business",
-        "wsj.com: Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay WSJ"
-      ],
-      "l": [
-        {
-          "d": "foxbusiness.com",
-          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkI3VDBCSEFJbTJUS212Sm1NNEJiNTYzSWp3cC0tV05RMXk4WWxtOUk2S1dDOF9XQncwa2Jva0dmb1JUanJuX0FYb1l3MFJHb1dZSG1jZWk0cWpwU0hIUlNSaGRFSjY1RVhFT3B0WXhDZVY0SURDUE5LblF5ZzAxR1N5M2FCc3ota2pEQWNfSGnSAZYBQVVfeXFMTXR1VmZvOWZ2Q1ZsQkdLRWxMNW1nOVNuUGR2ZUdVTEZyRGhJWVVqVkJub1paN2FnUWJRa1R3TGtUZ01vWERUN2hFZUsxN2FWVkZkVVoyVHJ4bE8xRlEySjV1MFR3ZWRrT3FGcDQ1SmFKTF9pQkp1Z2lkemx5TnQxSDlkX2NjWWh0eXNpMDlBbG9WampwanJB?oc=5"
-        },
-        {
-          "d": "lemonde.fr",
-          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2ZlYllKOTNmLUNhS0NCMC1jaHJGOWRXUnI4UUJNT21DZnM0RFdWczl4d25QZm5kTjZkMXhqZWNxZFhrT0pFMV9OMzRuSXJMVmdfSDFicy1ySU9rRXRkWmJJdk9WaG14cWJiRV9wZWw2MDdFMXNTaXRDY0ZIVGdiaFZ4eEhTSVpvQ1ZfaFlPN0E2bnVuQVZkTUE5UEc0bUJpbTEyRG0tN2F0Z1BvemdyVDRvOVF6U2tDT2xFLVFvU1RrSmRsQWdr?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
-        "Meta CEO Zuckerberg lays out open-source vision for AI"
       ]
     },
     {
@@ -206,6 +174,38 @@
       ],
       "srcTitles": [
         "Premium seats are coming to ChatGPT Business"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 43,
+      "sources": 2,
+      "ts": "2026-08-10T10:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
+      "s": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands Fox Business",
+      "b": [
+        "foxbusiness.com: Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
+        "wsj.com: Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay"
+      ],
+      "body": [
+        "foxbusiness.com: Zuckerberg lays out vision to put superintelligent AI in everyone's hands Fox Business",
+        "wsj.com: Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay WSJ"
+      ],
+      "l": [
+        {
+          "d": "foxbusiness.com",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkI3VDBCSEFJbTJUS212Sm1NNEJiNTYzSWp3cC0tV05RMXk4WWxtOUk2S1dDOF9XQncwa2Jva0dmb1JUanJuX0FYb1l3MFJHb1dZSG1jZWk0cWpwU0hIUlNSaGRFSjY1RVhFT3B0WXhDZVY0SURDUE5LblF5ZzAxR1N5M2FCc3ota2pEQWNfSGnSAZYBQVVfeXFMTXR1VmZvOWZ2Q1ZsQkdLRWxMNW1nOVNuUGR2ZUdVTEZyRGhJWVVqVkJub1paN2FnUWJRa1R3TGtUZ01vWERUN2hFZUsxN2FWVkZkVVoyVHJ4bE8xRlEySjV1MFR3ZWRrT3FGcDQ1SmFKTF9pQkp1Z2lkemx5TnQxSDlkX2NjWWh0eXNpMDlBbG9WampwanJB?oc=5"
+        },
+        {
+          "d": "lemonde.fr",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2ZlYllKOTNmLUNhS0NCMC1jaHJGOWRXUnI4UUJNT21DZnM0RFdWczl4d25QZm5kTjZkMXhqZWNxZFhrT0pFMV9OMzRuSXJMVmdfSDFicy1ySU9rRXRkWmJJdk9WaG14cWJiRV9wZWw2MDdFMXNTaXRDY0ZIVGdiaFZ4eEhTSVpvQ1ZfaFlPN0E2bnVuQVZkTUE5UEc0bUJpbTEyRG0tN2F0Z1BvemdyVDRvOVF6U2tDT2xFLVFvU1RrSmRsQWdr?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
+        "Meta CEO Zuckerberg lays out open-source vision for AI"
       ]
     },
     {
@@ -267,7 +267,7 @@
     },
     {
       "cat": "products",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-08-10T14:30:00.000Z",
       "writtenSources": 1,
@@ -288,38 +288,6 @@
       ],
       "srcTitles": [
         "Evolve your marketing with new AI tools"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 24,
-      "sources": 2,
-      "ts": "2026-08-10T09:02:19.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
-      "s": "New York Times : Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips The artificial intelligence ",
-      "b": [
-        "techmeme.com: Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
-        "nytimes.com: A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington"
-      ],
-      "body": [
-        "techmeme.com: New York Times : Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips The artificial intelligence boom has created a shortage of a critical commodity called memory chips, and a new front for corporate lobbying in Washington.",
-        "nytimes.com: A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington nytimes.com"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260810/p17#a260810p17"
-        },
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3MnBwck5VRVoxblh0MG54Rm9nblNyVlFBc3p1RG1lcndUcDdPMXY4MHUyMDU5T0JpMGRhTlJjbzBfUFk2NkVjZ0VrUXV5OS1Hc1A1Q2lfeHdRMXI3WWVSN2l0SFptb21SQTQzdHZXVWZEZklSeHFLcks2VUxNdFU?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Sources: the AI-driven memory chip shortage has kicked off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
-        "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington"
       ]
     },
     {
@@ -400,8 +368,40 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 20,
+      "sources": 2,
+      "ts": "2026-08-10T09:02:19.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
+      "s": "New York Times : Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips The artificial intelligence ",
+      "b": [
+        "techmeme.com: Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
+        "nytimes.com: A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington"
+      ],
+      "body": [
+        "techmeme.com: New York Times : Sources: the AI-driven memory chip shortage kicks off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips The artificial intelligence boom has created a shortage of a critical commodity called memory chips, and a new front for corporate lobbying in Washington.",
+        "nytimes.com: A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington nytimes.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260810/p17#a260810p17"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3MnBwck5VRVoxblh0MG54Rm9nblNyVlFBc3p1RG1lcndUcDdPMXY4MHUyMDU5T0JpMGRhTlJjbzBfUFk2NkVjZ0VrUXV5OS1Hc1A1Q2lfeHdRMXI3WWVSN2l0SFptb21SQTQzdHZXVWZEZklSeHFLcks2VUxNdFU?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: the AI-driven memory chip shortage has kicked off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
+        "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 19,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-10T11:41:05.000Z",
       "writtenSources": 2,
