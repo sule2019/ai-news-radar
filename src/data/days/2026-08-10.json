@@ -4,7 +4,7 @@
     {
       "cat": "research",
       "signal": 88,
-      "sources": 38,
+      "sources": 39,
       "ts": "2026-08-10T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -39,7 +39,7 @@
           "u": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
         },
         {
-          "d": "+34"
+          "d": "+35"
         }
       ],
       "srcTitles": [
@@ -75,8 +75,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-10T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Premium seats are coming to ChatGPT Business",
+      "s": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+      "b": [
+        "openai.com: Premium seats are coming to ChatGPT Business"
+      ],
+      "body": [
+        "openai.com: Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/premium-seats-chatgpt-business"
+        }
+      ],
+      "srcTitles": [
+        "Premium seats are coming to ChatGPT Business"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-08-10T09:02:19.000Z",
       "writtenSources": 2,
@@ -108,7 +133,7 @@
     },
     {
       "cat": "funding",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-08-10T11:41:05.000Z",
       "writtenSources": 2,
@@ -140,7 +165,7 @@
     },
     {
       "cat": "funding",
-      "signal": 38,
+      "signal": 34,
       "sources": 31,
       "ts": "2026-08-10T12:01:59.000Z",
       "writtenSources": 2,
@@ -319,7 +344,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 3,
       "ts": "2026-08-10T10:00:00.000Z",
       "writtenSources": 2,
@@ -355,8 +380,40 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-08-10T04:05:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "As AI grips world, the thrill of collecting vintage computers is growing",
+      "s": "As AI grips world, the thrill of collecting vintage computers is growing 10TV",
+      "b": [
+        "10tv.com: As AI grips world, the thrill of collecting vintage computers is growing",
+        "usnews.com: As AI Grips World, the Thrill of Collecting Vintage Computers Is Growing"
+      ],
+      "body": [
+        "10tv.com: As AI grips world, the thrill of collecting vintage computers is growing 10TV",
+        "usnews.com: As AI Grips World, the Thrill of Collecting Vintage Computers Is Growing U.S. News & World Report"
+      ],
+      "l": [
+        {
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOY29IN295ME12SVNvSkdBY0l4NzBISDNIbE0tU1Zxb3ZjQ0ZBMVB2UmtiVnlTYVFuaW9CNFYtQ2pvZU56QUFMM2FYQVFuQ290MHB1ZVJqVnc2eEdjRkZEVDJjWUs1R3BFR0xrZGtHakR5TzNtbHdEbEJlbmVLZmVMbGtqb0NPeVpwcldPdjJFNno1S1lTSUFkYjE2Z0xCQnVnX3F2blF0NUxyU0ZoRW9uXzlvaTNGNmJ6aVFqLU8zWnZ4bHhEYkNnSWtDSTd4ODBuTk5ENFNZMVVUMnVQRG1ZUTlqdjg1ejhpSkRmWQ?oc=5"
+        },
+        {
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM3dFWDA5NmtaZHZMb19PYW81RlliOUtNa25rUVNQMHFzZWdyNU8zVDFXX1JISktjeXpZdDdRUlhsMGtjVXYwejBCLTFTUHZfandmQTJkbWFLclYteVRIdDhCbTBhVjJPeFMyZnh4dzJkX2R0TFFJSU1Zck1PTndRa3FKZE0zOGNwRXBWYTd4cFVGQnVhZ29vcTFYTWRHbTM0Q29zRUpPT0IzUkg0WWZKdndLUi11em4teUFJSFdvMUN5dk4xbnowVFVzaEFVYWtLYmM0emg3UW95UQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "As AI grips world, the thrill of collecting vintage computers is growing",
+        "As AI Grips World, the Thrill of Collecting Vintage Computers Is Growing"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 16,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-09T23:31:39.000Z",
       "writtenSources": 2,
@@ -387,38 +444,6 @@
         "An Australian user's OpenClaw agent running Claude exploited a gym API flaw and kicked another member off, after the user asked it to move him up the waitlist (ABC)",
         "Quoting OpenClaw",
         "Quoting Claude Opus 5 system prompt"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 15,
-      "sources": 2,
-      "ts": "2026-08-10T04:05:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "As AI grips world, the thrill of collecting vintage computers is growing",
-      "s": "As AI grips world, the thrill of collecting vintage computers is growing 10TV",
-      "b": [
-        "10tv.com: As AI grips world, the thrill of collecting vintage computers is growing",
-        "usnews.com: As AI Grips World, the Thrill of Collecting Vintage Computers Is Growing"
-      ],
-      "body": [
-        "10tv.com: As AI grips world, the thrill of collecting vintage computers is growing 10TV",
-        "usnews.com: As AI Grips World, the Thrill of Collecting Vintage Computers Is Growing U.S. News & World Report"
-      ],
-      "l": [
-        {
-          "d": "washingtonpost.com",
-          "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOY29IN295ME12SVNvSkdBY0l4NzBISDNIbE0tU1Zxb3ZjQ0ZBMVB2UmtiVnlTYVFuaW9CNFYtQ2pvZU56QUFMM2FYQVFuQ290MHB1ZVJqVnc2eEdjRkZEVDJjWUs1R3BFR0xrZGtHakR5TzNtbHdEbEJlbmVLZmVMbGtqb0NPeVpwcldPdjJFNno1S1lTSUFkYjE2Z0xCQnVnX3F2blF0NUxyU0ZoRW9uXzlvaTNGNmJ6aVFqLU8zWnZ4bHhEYkNnSWtDSTd4ODBuTk5ENFNZMVVUMnVQRG1ZUTlqdjg1ejhpSkRmWQ?oc=5"
-        },
-        {
-          "d": "usnews.com",
-          "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOM3dFWDA5NmtaZHZMb19PYW81RlliOUtNa25rUVNQMHFzZWdyNU8zVDFXX1JISktjeXpZdDdRUlhsMGtjVXYwejBCLTFTUHZfandmQTJkbWFLclYteVRIdDhCbTBhVjJPeFMyZnh4dzJkX2R0TFFJSU1Zck1PTndRa3FKZE0zOGNwRXBWYTd4cFVGQnVhZ29vcTFYTWRHbTM0Q29zRUpPT0IzUkg0WWZKdndLUi11em4teUFJSFdvMUN5dk4xbnowVFVzaEFVYWtLYmM0emg3UW95UQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "As AI grips world, the thrill of collecting vintage computers is growing",
-        "As AI Grips World, the Thrill of Collecting Vintage Computers Is Growing"
       ]
     }
   ]
