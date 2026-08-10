@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 83,
-      "sources": 34,
+      "signal": 88,
+      "sources": 38,
       "ts": "2026-08-10T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -39,7 +39,7 @@
           "u": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
         },
         {
-          "d": "+30"
+          "d": "+34"
         }
       ],
       "srcTitles": [
@@ -51,7 +51,7 @@
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 49,
       "sources": 1,
       "ts": "2026-08-10T14:00:00.000Z",
       "writtenSources": 1,
@@ -76,7 +76,7 @@
     },
     {
       "cat": "products",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-08-10T09:02:19.000Z",
       "writtenSources": 2,
@@ -108,7 +108,7 @@
     },
     {
       "cat": "funding",
-      "signal": 43,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-08-10T11:41:05.000Z",
       "writtenSources": 2,
@@ -140,7 +140,7 @@
     },
     {
       "cat": "funding",
-      "signal": 42,
+      "signal": 38,
       "sources": 31,
       "ts": "2026-08-10T12:01:59.000Z",
       "writtenSources": 2,
@@ -185,7 +185,64 @@
     },
     {
       "cat": "products",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-08-10T09:00:18.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
+      "s": "New York Times : Online course cheating has accelerated from chatbot-written essays to agents executing commands like log in and complete my quiz ; major AI tools didn't refuse As colleges and student",
+      "b": [
+        "techmeme.com: Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
+        "nytimes.com: A.I. Agents Are Taking Entire Online Courses for Cheating Students"
+      ],
+      "body": [
+        "techmeme.com: New York Times : Online course cheating has accelerated from chatbot-written essays to agents executing commands like log in and complete my quiz ; major AI tools didn't refuse As colleges and students embrace virtual classes, the ease of A.I. cheating is raising questions about the value of an online degree.",
+        "nytimes.com: A.I. Agents Are Taking Entire Online Courses for Cheating Students The New York Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260810/p25#a260810p25"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zTFZ5LTBFMjl4MkgxSGgtSDdYQlJQa0pBcTJZeXBDRDQtYzFVcjZyc3hLaTlYalBFczZud3pERVI1R0dzdTN6dWpxVDdGTWdlRUxwVVdCTGcyeTFmanVVR3N6eTJoUVdmVkZIZjVSNWhpeVhucFpETw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
+        "A.I. Agents Are Taking Entire Online Courses for Cheating Students"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-10T16:38:39.715Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "What building an AI-native finance function taught me",
+      "s": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+      "b": [
+        "openai.com: What building an AI-native finance function taught me"
+      ],
+      "body": [
+        "openai.com: OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/building-an-ai-native-finance-function"
+        }
+      ],
+      "srcTitles": [
+        "What building an AI-native finance function taught me"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 27,
       "sources": 1,
       "ts": "2026-08-10T14:30:00.000Z",
       "writtenSources": 1,
@@ -206,43 +263,6 @@
       ],
       "srcTitles": [
         "Evolve your marketing with new AI tools"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 3,
-      "ts": "2026-08-10T10:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
-      "s": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands Fox Business",
-      "b": [
-        "foxbusiness.com: Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
-        "wsj.com: Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay"
-      ],
-      "body": [
-        "foxbusiness.com: Zuckerberg lays out vision to put superintelligent AI in everyone's hands Fox Business",
-        "wsj.com: Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay WSJ"
-      ],
-      "l": [
-        {
-          "d": "foxbusiness.com",
-          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkI3VDBCSEFJbTJUS212Sm1NNEJiNTYzSWp3cC0tV05RMXk4WWxtOUk2S1dDOF9XQncwa2Jva0dmb1JUanJuX0FYb1l3MFJHb1dZSG1jZWk0cWpwU0hIUlNSaGRFSjY1RVhFT3B0WXhDZVY0SURDUE5LblF5ZzAxR1N5M2FCc3ota2pEQWNfSGnSAZYBQVVfeXFMTXR1VmZvOWZ2Q1ZsQkdLRWxMNW1nOVNuUGR2ZUdVTEZyRGhJWVVqVkJub1paN2FnUWJRa1R3TGtUZ01vWERUN2hFZUsxN2FWVkZkVVoyVHJ4bE8xRlEySjV1MFR3ZWRrT3FGcDQ1SmFKTF9pQkp1Z2lkemx5TnQxSDlkX2NjWWh0eXNpMDlBbG9WampwanJB?oc=5"
-        },
-        {
-          "d": "wsj.com",
-          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd0sxd0piWHUyX1lKbHhxTGVsUmNJckRFNXNjeGRfZzNJRUNYbUplVk52MEF1aFZ1dmxBVHJlbXdGOW5hNFFrWVdJaDA1dUUwRVNuYXRYWG1ETk80N3hKWkJoYXlVS0M1UlJJMjFyeVA5Y2FBaFR4UXluRXRUNFlFQXViTl95N3pDWTladnJuUjM0dlBZUmhEMVVYdw?oc=5"
-        },
-        {
-          "d": "marketwatch.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHRVbE5HVHFNUFdoajVvaU81NjdxeVJPb3luZjk1VXpZQjY4WlVoZ1ZiOGp0aGszRm0wcjZISmwxUkI0a1J1M1NrTmJ6eWFkT2xoWkNJV3l4R01hWi11NVliNzZQM1FRdUpOQ1NYd0t2WjRNd1A1aG1QblJ0aXNLMEtFWHh6b2FUWlJfT1ktVUhacUtfaXpoMTFfNXh0R1RNY3VGdg?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
-        "Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay",
-        "Mark Zuckerberg takes on the AI doomers in 6,500-word essay"
       ]
     },
     {
@@ -298,8 +318,45 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 22,
+      "sources": 3,
+      "ts": "2026-08-10T10:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
+      "s": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands Fox Business",
+      "b": [
+        "foxbusiness.com: Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
+        "wsj.com: Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay"
+      ],
+      "body": [
+        "foxbusiness.com: Zuckerberg lays out vision to put superintelligent AI in everyone's hands Fox Business",
+        "wsj.com: Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay WSJ"
+      ],
+      "l": [
+        {
+          "d": "foxbusiness.com",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkI3VDBCSEFJbTJUS212Sm1NNEJiNTYzSWp3cC0tV05RMXk4WWxtOUk2S1dDOF9XQncwa2Jva0dmb1JUanJuX0FYb1l3MFJHb1dZSG1jZWk0cWpwU0hIUlNSaGRFSjY1RVhFT3B0WXhDZVY0SURDUE5LblF5ZzAxR1N5M2FCc3ota2pEQWNfSGnSAZYBQVVfeXFMTXR1VmZvOWZ2Q1ZsQkdLRWxMNW1nOVNuUGR2ZUdVTEZyRGhJWVVqVkJub1paN2FnUWJRa1R3TGtUZ01vWERUN2hFZUsxN2FWVkZkVVoyVHJ4bE8xRlEySjV1MFR3ZWRrT3FGcDQ1SmFKTF9pQkp1Z2lkemx5TnQxSDlkX2NjWWh0eXNpMDlBbG9WampwanJB?oc=5"
+        },
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQd0sxd0piWHUyX1lKbHhxTGVsUmNJckRFNXNjeGRfZzNJRUNYbUplVk52MEF1aFZ1dmxBVHJlbXdGOW5hNFFrWVdJaDA1dUUwRVNuYXRYWG1ETk80N3hKWkJoYXlVS0M1UlJJMjFyeVA5Y2FBaFR4UXluRXRUNFlFQXViTl95N3pDWTladnJuUjM0dlBZUmhEMVVYdw?oc=5"
+        },
+        {
+          "d": "marketwatch.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTHRVbE5HVHFNUFdoajVvaU81NjdxeVJPb3luZjk1VXpZQjY4WlVoZ1ZiOGp0aGszRm0wcjZISmwxUkI0a1J1M1NrTmJ6eWFkT2xoWkNJV3l4R01hWi11NVliNzZQM1FRdUpOQ1NYd0t2WjRNd1A1aG1QblJ0aXNLMEtFWHh6b2FUWlJfT1ktVUhacUtfaXpoMTFfNXh0R1RNY3VGdg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
+        "Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay",
+        "Mark Zuckerberg takes on the AI doomers in 6,500-word essay"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-08-09T23:31:39.000Z",
       "writtenSources": 2,
