@@ -4,7 +4,7 @@
     {
       "cat": "research",
       "signal": 85,
-      "sources": 12,
+      "sources": 11,
       "ts": "2026-08-10T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -39,7 +39,7 @@
           "u": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
         },
         {
-          "d": "+8"
+          "d": "+7"
         }
       ],
       "srcTitles": [
@@ -52,7 +52,7 @@
     {
       "cat": "funding",
       "signal": 52,
-      "sources": 40,
+      "sources": 41,
       "ts": "2026-08-10T12:01:59.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -84,7 +84,7 @@
           "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZERBVXROOGRmUndSNHJUaU1BSUxoZmxNQ2d2X3JkNFZkcUhKclFKaVU5aUQ0U2ZDNnBOQkJKX1ppel81dVE1dmVaWjFuQ3NGcV9wMkN4ZHhDUG1oRTRROEFZck1mdDUybDA5WE5MeWhfNHNBWlFuNXB3emdZZ2JiMTlQeFFsQlVGNWgxWTR1OU14SDVadnFVNFFGVTl1M3NsNmp1aUhnQQ?oc=5"
         },
         {
-          "d": "+36"
+          "d": "+37"
         }
       ],
       "srcTitles": [
@@ -96,7 +96,7 @@
     },
     {
       "cat": "products",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-08-10T17:20:00.000Z",
       "writtenSources": 2,
@@ -178,6 +178,56 @@
     },
     {
       "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-10T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How Zapier transformed core marketing processes with ChatGPT Work",
+      "s": "The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting.",
+      "b": [
+        "openai.com: How Zapier transformed core marketing processes with ChatGPT Work"
+      ],
+      "body": [
+        "openai.com: The enterprise marketing team at Zapier uses ChatGPT Work to reduce the number of drop-offs in its lead funnel, build campaign assets, and automate reporting."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/zapier"
+        }
+      ],
+      "srcTitles": [
+        "How Zapier transformed core marketing processes with ChatGPT Work"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-10T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Virgin Atlantic sharpens customer journeys with ChatGPT Work",
+      "s": "Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey.",
+      "b": [
+        "openai.com: Virgin Atlantic sharpens customer journeys with ChatGPT Work"
+      ],
+      "body": [
+        "openai.com: Virgin Atlantic is accelerating research, product planning, and decision-making with ChatGPT Work, helping teams connect signals across the customer journey."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/virgin-atlantic/chatgpt-work"
+        }
+      ],
+      "srcTitles": [
+        "Virgin Atlantic sharpens customer journeys with ChatGPT Work"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 36,
       "sources": 2,
       "ts": "2026-08-10T15:19:05.000Z",
@@ -206,6 +256,38 @@
       "srcTitles": [
         "Mark Zuckerberg s AI manifesto is exactly why people don t like AI",
         "Four takeaways from Mark Zuckerberg s massive AI manifesto"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-08-10T14:34:12.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Governor Newsom announces new AI cyber defense program to protect California’s critical infrastructure",
+      "s": "Governor Newsom announces new AI cyber defense program to protect California’s critical infrastructure California State Portal | CA.gov",
+      "b": [
+        "gov.ca.gov: Governor Newsom announces new AI cyber defense program to protect California’s critical infrastructure",
+        "govtech.com: AI Cyber Defense Program Aims to Boost California Security"
+      ],
+      "body": [
+        "gov.ca.gov: Governor Newsom announces new AI cyber defense program to protect California’s critical infrastructure California State Portal | CA.gov",
+        "govtech.com: AI Cyber Defense Program Aims to Boost California Security GovTech"
+      ],
+      "l": [
+        {
+          "d": "gov.ca.gov",
+          "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMDI0S2JKNWxnN1VfMURGNTdWQ0RuQXEwdjNER3F0U3pkdVlMdjZyUGsxaFdkLVNGdEkwQ1o0MWNuakk4RS1OVG05cEJsS2M3U1JBMUhiRlJTMGVZRHpVOUhFeTdVUU5DLXgtLW96S2pKVkRGbFRjV054VnI5V3RUa1lnbFhJWUNPQm1lb1lFT05MUUl4YUZTN1dEQ1J2cW9jcDdPQ1NTZURFVUNuTlFnT3IzbmR4THhKZXNTU3FDaTgtZV91OGRFVDRGaGwxQ2daQUE?oc=5"
+        },
+        {
+          "d": "govtech.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQU3pra0ZBOUpidlotMWhybG16ZEluOFM1bld1QTlzWmhQZ0wwMkV3YTN6bkw5VmQ1aDVoejF3MGlQS2hac0poRFNZYk9qUzhnc1lPTjI2R2tfX0JQb2RvOVo4N2MxRC1hSm9WN3o4YV92Ny16YUpJaUoxVTRLbllaZG9VYzlBZ00zYkFmaFc0YVdVNGt5eUd5NTVNSm1ZaDFWeUd4cmc2M0tGQQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Governor Newsom announces new AI cyber defense program to protect California’s critical infrastructure",
+        "AI Cyber Defense Program Aims to Boost California Security"
       ]
     },
     {
@@ -362,7 +444,7 @@
     },
     {
       "cat": "models",
-      "signal": 23,
+      "signal": 19,
       "sources": 2,
       "ts": "2026-08-10T10:00:00.000Z",
       "writtenSources": 2,
@@ -390,38 +472,6 @@
       "srcTitles": [
         "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
         "Meta CEO Zuckerberg lays out open-source vision for AI"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 18,
-      "sources": 2,
-      "ts": "2026-08-10T09:00:18.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
-      "s": "New York Times : Online course cheating has accelerated from chatbot-written essays to agents executing commands like log in and complete my quiz ; major AI tools didn't refuse As colleges and student",
-      "b": [
-        "techmeme.com: Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
-        "nytimes.com: A.I. Agents Are Taking Entire Online Courses for Cheating Students"
-      ],
-      "body": [
-        "techmeme.com: New York Times : Online course cheating has accelerated from chatbot-written essays to agents executing commands like log in and complete my quiz ; major AI tools didn't refuse As colleges and students embrace virtual classes, the ease of A.I. cheating is raising questions about the value of an online degree.",
-        "nytimes.com: A.I. Agents Are Taking Entire Online Courses for Cheating Students The New York Times"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260810/p25#a260810p25"
-        },
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zTFZ5LTBFMjl4MkgxSGgtSDdYQlJQa0pBcTJZeXBDRDQtYzFVcjZyc3hLaTlYalBFczZud3pERVI1R0dzdTN6dWpxVDdGTWdlRUxwVVdCTGcyeTFmanVVR3N6eTJoUVdmVkZIZjVSNWhpeVhucFpETw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
-        "A.I. Agents Are Taking Entire Online Courses for Cheating Students"
       ]
     },
     {
@@ -486,6 +536,38 @@
       "srcTitles": [
         "Sources: the AI-driven memory chip shortage has kicked off a rush of DC lobbying; many US officials appear unsympathetic to Apple's desire to buy Chinese chips (New York Times)",
         "A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-08-10T09:00:18.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
+      "s": "New York Times : Online course cheating has accelerated from chatbot-written essays to agents executing commands like log in and complete my quiz ; major AI tools didn't refuse As colleges and student",
+      "b": [
+        "techmeme.com: Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
+        "nytimes.com: A.I. Agents Are Taking Entire Online Courses for Cheating Students"
+      ],
+      "body": [
+        "techmeme.com: New York Times : Online course cheating has accelerated from chatbot-written essays to agents executing commands like log in and complete my quiz ; major AI tools didn't refuse As colleges and students embrace virtual classes, the ease of A.I. cheating is raising questions about the value of an online degree.",
+        "nytimes.com: A.I. Agents Are Taking Entire Online Courses for Cheating Students The New York Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260810/p25#a260810p25"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zTFZ5LTBFMjl4MkgxSGgtSDdYQlJQa0pBcTJZeXBDRDQtYzFVcjZyc3hLaTlYalBFczZud3pERVI1R0dzdTN6dWpxVDdGTWdlRUxwVVdCTGcyeTFmanVVR3N6eTJoUVdmVkZIZjVSNWhpeVhucFpETw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
+        "A.I. Agents Are Taking Entire Online Courses for Cheating Students"
       ]
     },
     {
