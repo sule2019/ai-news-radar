@@ -84,7 +84,7 @@
     {
       "cat": "funding",
       "signal": 52,
-      "sources": 38,
+      "sources": 39,
       "ts": "2026-08-10T12:01:59.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -108,22 +108,22 @@
           "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mXzBlTnFCdXJ1SWpnR3ZTVGl6blUtdy13MjJuakJUcGkyYURQd0ZwWUxLd283MFJ3WElHY2hTTmNQeGRTQ251dktFRXZ6VDNKNjJMeVV6c1hBbkRxWVdBSA?oc=5"
         },
         {
-          "d": "wataugaonline.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQndObi1kc1lSVUtZa2V4ZGc5TXBIenkwZ2VsMG4zNWJKUnU5T2N5cGpWNy10eFB1V01LZ2c3RU14QzRqVmxvX1U1UWZ6MVNwdUEzUHgwdWNaRnZ2WnNiU1VjeTlIVTJXRzVHVkRndnBUSjZOVDFfUUN5RnhSV1A5R0FBOGFQc2g3VUZLeQ?oc=5"
-        },
-        {
           "d": "mronline.org",
           "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZERBVXROOGRmUndSNHJUaU1BSUxoZmxNQ2d2X3JkNFZkcUhKclFKaVU5aUQ0U2ZDNnBOQkJKX1ppel81dVE1dmVaWjFuQ3NGcV9wMkN4ZHhDUG1oRTRROEFZck1mdDUybDA5WE5MeWhfNHNBWlFuNXB3emdZZ2JiMTlQeFFsQlVGNWgxWTR1OU14SDVadnFVNFFGVTl1M3NsNmp1aUhnQQ?oc=5"
         },
         {
-          "d": "+34"
+          "d": "surfer.com",
+          "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBYdEY1YTV3ZzJMdnlrcG1MRXNfNndjQXJBX2t3UzhyZXJYTHdRYzJHT0xoS2NHb1czY2c5QktzZ29aVEVZT1BkTGR2c1Bva1VBNXBkVG45MzNNVldqUnlUWF9kLUJ1WnVvcXB2NV9rU0o4bnRwakpZMmNR?oc=5"
+        },
+        {
+          "d": "+35"
         }
       ],
       "srcTitles": [
         "Artificial Intelligence in Dermoscopy: Why Expert Oversight Still Matters",
         "Artificial Intelligence at Lowes",
-        "CCC&TI Launches New Artificial Intelligence Degree Program",
-        "Artificial Intelligence: the hype, the dangers, and the resistance—Part II"
+        "Artificial Intelligence: the hype, the dangers, and the resistance—Part II",
+        "Where and How Artificial Intelligence Is Coming to Surfing"
       ]
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "cat": "models",
-      "signal": 43,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-08-10T10:00:00.000Z",
       "writtenSources": 2,
@@ -238,6 +238,31 @@
       "srcTitles": [
         "Online course cheating has accelerated from chatbot-written essays to agents executing commands like \"log in and complete my quiz\"; major AI tools didn't refuse (New York Times)",
         "A.I. Agents Are Taking Entire Online Courses for Cheating Students"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-10T20:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AI professors are negotiating the new realities of academic research",
+      "s": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Last week, I headed 30 miles south of San Francisco to a hote",
+      "b": [
+        "technologyreview.com: AI professors are negotiating the new realities of academic research"
+      ],
+      "body": [
+        "technologyreview.com: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising, AI researchers in the world. I was hosting roundtable interviews and speaking at a media training for a convening of the Schmidt Sciences AI2050 program, an initiative funded by Eric and Wendy Schmidt that supports academics whose work involves AI. The fellows list is a who’s who of AI luminaries, and though not all of them made it out to the Bay, every time I turned a corner I saw a scientist whom I’d interviewed previously or whose research I admired. (Full disclosure: I received a science communication award funded by Schmidt Sciences in 2024.) It’s a weird time for university AI researchers, who make up most of the AI2050 group. In the past four years, AI research has reoriented around large language models, and its cutting edge has moved from academic institutions to private companies. Universities simply can’t afford the GPUs required to train and run frontier models, and even if they could, Anthropic and OpenAI aren’t letting anyone else see the inner details of Claude or ChatGPT. In a conversation over lunch, Nika Haghtalab, a computer science professor at UC Berkeley, said that being an AI academic these days was like being a biologist in a world in which private companies had exclusive control over the gene-editing tool CRISPR. Experts outside the frontier labs can study how ChatGPT and Claude behave, but they can’t do any detailed research on the design and training of those tools, nor can they steer that design or training themselves. The AI2050 program does offer fellows some funding that they can use to buy GPUs, which some researchers I spoke with said was a major benefit of participating in the program. But money remains a pressing concern, especially g"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/"
+        }
+      ],
+      "srcTitles": [
+        "AI professors are negotiating the new realities of academic research"
       ]
     },
     {
@@ -369,7 +394,7 @@
     },
     {
       "cat": "products",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-08-10T09:02:19.000Z",
       "writtenSources": 2,
