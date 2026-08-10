@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 81,
+      "signal": 85,
       "sources": 12,
       "ts": "2026-08-10T04:00:00.000Z",
       "writtenSources": 2,
@@ -50,8 +50,53 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 52,
+      "sources": 40,
+      "ts": "2026-08-10T12:01:59.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion",
+      "s": "EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion Bluefield Daily Telegraph",
+      "b": [
+        "bdtonline.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion",
+        "accessnewswire.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion"
+      ],
+      "body": [
+        "bdtonline.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion Bluefield Daily Telegraph",
+        "accessnewswire.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion ACCESS Newswire"
+      ],
+      "l": [
+        {
+          "d": "okcfox.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMGNGdWxaYnJObkE3bTM2cGxtZHRndHJYaW1tdUJCREU4Sl9POWlCNm54VXNubHhzSS0tZTdQem1feHZ5NGhxM3ZmcDdaLXlySTJZaW1nRUhFalQ4cTBERFN3S3E0NUkxMnBXN0w2VGt2Q0ZITzUzTWtrX0tIOGo1R2l1UkkxR0U2dWhtQVJFTzlXa1ZsUHZZNFgxZ2RiSzI2SF9wVDNfenIwV1JCQzFfdmhwQVh3QQ?oc=5"
+        },
+        {
+          "d": "emerj.com",
+          "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mXzBlTnFCdXJ1SWpnR3ZTVGl6blUtdy13MjJuakJUcGkyYURQd0ZwWUxLd283MFJ3WElHY2hTTmNQeGRTQ251dktFRXZ6VDNKNjJMeVV6c1hBbkRxWVdBSA?oc=5"
+        },
+        {
+          "d": "globalseafood.org",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1czYmNCTEViVGdPVXVlM05MaUN6WGRiT1A3YUNBTjU4d1UzS3lMcUtOR2stNENLOGdCellWLU9Ld25QNXhzMlBHV25EVjAzaTMxZWl4ZnJrd1R5WkJ2cW5qVXVicVM3TVVJdlY4MThyVEFaMHF1eWtLaUVIZGdEeTgweTVfdWZCenpFNzVxLVZ0TlF4MnJyc3g1SGlsdWtLWFdXajZlSTMyYk5SVXFCOFJoTzdpQ0hk?oc=5"
+        },
+        {
+          "d": "mronline.org",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZERBVXROOGRmUndSNHJUaU1BSUxoZmxNQ2d2X3JkNFZkcUhKclFKaVU5aUQ0U2ZDNnBOQkJKX1ppel81dVE1dmVaWjFuQ3NGcV9wMkN4ZHhDUG1oRTRROEFZck1mdDUybDA5WE5MeWhfNHNBWlFuNXB3emdZZ2JiMTlQeFFsQlVGNWgxWTR1OU14SDVadnFVNFFGVTl1M3NsNmp1aUhnQQ?oc=5"
+        },
+        {
+          "d": "+36"
+        }
+      ],
+      "srcTitles": [
+        "Students can pursue new AI degrees at UCO beginning this fall-artificial-intelligence",
+        "Artificial Intelligence at Lowes",
+        "Artificial intelligence analysis reveals global rise in floating algal blooms",
+        "Artificial Intelligence: the hype, the dangers, and the resistance—Part II"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 55,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-08-10T17:20:00.000Z",
       "writtenSources": 2,
@@ -79,51 +124,6 @@
       "srcTitles": [
         "OpenAI releases GPT-5.6-Cyber, a more cyber-permissive version of GPT-5.6 Sol, to some partners and expands its Daybreak cybersecurity initiative (Sam Sabin/Axios)",
         "OpenAI expands Daybreak cybersecurity initiative as AI agent threats evolve"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 52,
-      "sources": 40,
-      "ts": "2026-08-10T12:01:59.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion",
-      "s": "EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion Bluefield Daily Telegraph",
-      "b": [
-        "bdtonline.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion",
-        "accessnewswire.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion"
-      ],
-      "body": [
-        "bdtonline.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion Bluefield Daily Telegraph",
-        "accessnewswire.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion ACCESS Newswire"
-      ],
-      "l": [
-        {
-          "d": "bloomberg.com",
-          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjZkdG1CVHpCbVl4dk5ULW1sb0hTaUxGaTNhOUxfTU44alhJeUF5NWRpVFR1WHRGOVpWWGxHajU3eGI1NWZDaXc0MmFtRnlRYVRuMkRmeU5VbjkyVXBPTzVOU05BT1RaeV9WOUU4RGlHWTlINjZYTGgzQVpHTXZoaktCSFo0clg3d3Q1aFMxZ3VYM252M1M5YzhvRVNhTTJRNndab2psYk84UEk2eUNiSlhrTHdWQQ?oc=5"
-        },
-        {
-          "d": "emerj.com",
-          "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mXzBlTnFCdXJ1SWpnR3ZTVGl6blUtdy13MjJuakJUcGkyYURQd0ZwWUxLd283MFJ3WElHY2hTTmNQeGRTQ251dktFRXZ6VDNKNjJMeVV6c1hBbkRxWVdBSA?oc=5"
-        },
-        {
-          "d": "globalseafood.org",
-          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZ1czYmNCTEViVGdPVXVlM05MaUN6WGRiT1A3YUNBTjU4d1UzS3lMcUtOR2stNENLOGdCellWLU9Ld25QNXhzMlBHV25EVjAzaTMxZWl4ZnJrd1R5WkJ2cW5qVXVicVM3TVVJdlY4MThyVEFaMHF1eWtLaUVIZGdEeTgweTVfdWZCenpFNzVxLVZ0TlF4MnJyc3g1SGlsdWtLWFdXajZlSTMyYk5SVXFCOFJoTzdpQ0hk?oc=5"
-        },
-        {
-          "d": "mronline.org",
-          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZERBVXROOGRmUndSNHJUaU1BSUxoZmxNQ2d2X3JkNFZkcUhKclFKaVU5aUQ0U2ZDNnBOQkJKX1ppel81dVE1dmVaWjFuQ3NGcV9wMkN4ZHhDUG1oRTRROEFZck1mdDUybDA5WE5MeWhfNHNBWlFuNXB3emdZZ2JiMTlQeFFsQlVGNWgxWTR1OU14SDVadnFVNFFGVTl1M3NsNmp1aUhnQQ?oc=5"
-        },
-        {
-          "d": "+36"
-        }
-      ],
-      "srcTitles": [
-        "EY Launching Unit to Keep a Lid on Artificial Intelligence Costs",
-        "Artificial Intelligence at Lowes",
-        "Artificial intelligence analysis reveals global rise in floating algal blooms",
-        "Artificial Intelligence: the hype, the dangers, and the resistance—Part II"
       ]
     },
     {
@@ -206,38 +206,6 @@
       "srcTitles": [
         "Mark Zuckerberg s AI manifesto is exactly why people don t like AI",
         "Four takeaways from Mark Zuckerberg s massive AI manifesto"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 2,
-      "ts": "2026-08-10T10:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
-      "s": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands Fox Business",
-      "b": [
-        "foxbusiness.com: Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
-        "wsj.com: Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay"
-      ],
-      "body": [
-        "foxbusiness.com: Zuckerberg lays out vision to put superintelligent AI in everyone's hands Fox Business",
-        "wsj.com: Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay WSJ"
-      ],
-      "l": [
-        {
-          "d": "foxbusiness.com",
-          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkI3VDBCSEFJbTJUS212Sm1NNEJiNTYzSWp3cC0tV05RMXk4WWxtOUk2S1dDOF9XQncwa2Jva0dmb1JUanJuX0FYb1l3MFJHb1dZSG1jZWk0cWpwU0hIUlNSaGRFSjY1RVhFT3B0WXhDZVY0SURDUE5LblF5ZzAxR1N5M2FCc3ota2pEQWNfSGnSAZYBQVVfeXFMTXR1VmZvOWZ2Q1ZsQkdLRWxMNW1nOVNuUGR2ZUdVTEZyRGhJWVVqVkJub1paN2FnUWJRa1R3TGtUZ01vWERUN2hFZUsxN2FWVkZkVVoyVHJ4bE8xRlEySjV1MFR3ZWRrT3FGcDQ1SmFKTF9pQkp1Z2lkemx5TnQxSDlkX2NjWWh0eXNpMDlBbG9WampwanJB?oc=5"
-        },
-        {
-          "d": "lemonde.fr",
-          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2ZlYllKOTNmLUNhS0NCMC1jaHJGOWRXUnI4UUJNT21DZnM0RFdWczl4d25QZm5kTjZkMXhqZWNxZFhrT0pFMV9OMzRuSXJMVmdfSDFicy1ySU9rRXRkWmJJdk9WaG14cWJiRV9wZWw2MDdFMXNTaXRDY0ZIVGdiaFZ4eEhTSVpvQ1ZfaFlPN0E2bnVuQVZkTUE5UEc0bUJpbTEyRG0tN2F0Z1BvemdyVDRvOVF6U2tDT2xFLVFvU1RrSmRsQWdr?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
-        "Meta CEO Zuckerberg lays out open-source vision for AI"
       ]
     },
     {
@@ -393,8 +361,40 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 23,
+      "sources": 2,
+      "ts": "2026-08-10T10:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
+      "s": "Zuckerberg lays out vision to put superintelligent AI in everyone's hands Fox Business",
+      "b": [
+        "foxbusiness.com: Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
+        "wsj.com: Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay"
+      ],
+      "body": [
+        "foxbusiness.com: Zuckerberg lays out vision to put superintelligent AI in everyone's hands Fox Business",
+        "wsj.com: Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay WSJ"
+      ],
+      "l": [
+        {
+          "d": "foxbusiness.com",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkI3VDBCSEFJbTJUS212Sm1NNEJiNTYzSWp3cC0tV05RMXk4WWxtOUk2S1dDOF9XQncwa2Jva0dmb1JUanJuX0FYb1l3MFJHb1dZSG1jZWk0cWpwU0hIUlNSaGRFSjY1RVhFT3B0WXhDZVY0SURDUE5LblF5ZzAxR1N5M2FCc3ota2pEQWNfSGnSAZYBQVVfeXFMTXR1VmZvOWZ2Q1ZsQkdLRWxMNW1nOVNuUGR2ZUdVTEZyRGhJWVVqVkJub1paN2FnUWJRa1R3TGtUZ01vWERUN2hFZUsxN2FWVkZkVVoyVHJ4bE8xRlEySjV1MFR3ZWRrT3FGcDQ1SmFKTF9pQkp1Z2lkemx5TnQxSDlkX2NjWWh0eXNpMDlBbG9WampwanJB?oc=5"
+        },
+        {
+          "d": "lemonde.fr",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT2ZlYllKOTNmLUNhS0NCMC1jaHJGOWRXUnI4UUJNT21DZnM0RFdWczl4d25QZm5kTjZkMXhqZWNxZFhrT0pFMV9OMzRuSXJMVmdfSDFicy1ySU9rRXRkWmJJdk9WaG14cWJiRV9wZWw2MDdFMXNTaXRDY0ZIVGdiaFZ4eEhTSVpvQ1ZfaFlPN0E2bnVuQVZkTUE5UEc0bUJpbTEyRG0tN2F0Z1BvemdyVDRvOVF6U2tDT2xFLVFvU1RrSmRsQWdr?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
+        "Meta CEO Zuckerberg lays out open-source vision for AI"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-08-10T09:00:18.000Z",
       "writtenSources": 2,
