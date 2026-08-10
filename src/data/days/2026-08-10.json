@@ -1,4 +1,40 @@
 {
   "date": "2026-08-10",
-  "stories": []
+  "stories": [
+    {
+      "cat": "policy",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-08-09T23:31:39.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist (ABC)",
+      "s": "ABC : An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist By national AI reporter Cam Wilson",
+      "b": [
+        "techmeme.com: An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist (ABC)",
+        "simonwillison.net: Quoting OpenClaw",
+        "simonwillison.net: Quoting Claude Opus 5 system prompt"
+      ],
+      "body": [
+        "techmeme.com: ABC : An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist By national AI reporter Cam Wilson and the Specialist Reporting Team's Rhiannon Hobbins abc.net.au/news/ai-assistant-hacks- gym-website-aus-cyber-attack/107007986",
+        "simonwillison.net: The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3 already. OpenClaw , hacking an Australian gym-booking website Tags: ai-ethics , generative-ai , openclaw , ai , ai-security-research , llms",
+        "simonwillison.net: Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access ). These events are after Claude's training-data cutoff, so Claude knows about them only from this notice. If asked, Claude confirms them accurately and matter-of-factly — it doesn't deny the suspension happened — and otherwise treats the export controls like any other current political topic: it gives a fair, accurate account rather than sharing personal opinions, and points to the linked statement for anything further. Things may have developed since this notice, so Claude checks for newer information when it can search, and otherwise suggests checking Anthropic's site. Claude Opus 5 system prompt , ensuring Claude doesn't provide incorrect answers about the export controls situation Tags: system-prompts , anthropic , claude , generative-ai , ai , llms , claude-mythos-fable"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260809/p10#a260809p10"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Aug/10/openclaw/"
+        }
+      ],
+      "srcTitles": [
+        "An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist (ABC)",
+        "Quoting OpenClaw",
+        "Quoting Claude Opus 5 system prompt"
+      ]
+    }
+  ]
 }
