@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-08-09T23:31:39.000Z",
       "writtenSources": 2,
@@ -38,8 +38,8 @@
     },
     {
       "cat": "research",
-      "signal": 34,
-      "sources": 2,
+      "signal": 44,
+      "sources": 7,
       "ts": "2026-08-10T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -59,23 +59,91 @@
       "l": [
         {
           "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260810/p1#a260810p1"
+          "u": "https://www.techmeme.com/260810/p12#a260810p12"
+        },
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1vkg921/3_collapsing_models_r/"
         },
         {
           "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2509.00559"
+          "u": "https://arxiv.org/abs/2608.06394"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
+        },
+        {
+          "d": "+3"
         }
       ],
       "srcTitles": [
-        "Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models (Catherine Thorbecke/Bloomberg)",
-        "Social World Models",
-        "MEDLEY-BENCH: Benchmarking Behavioural Metacognition and Belief Revision Under Social Pressure in Large Language Models",
-        "TaskSense: Focusing on What Matters in World Models"
+        "Mark Zuckerberg criticizes \"closed\" AI model makers, says AI labs are espousing a \"discourse ... so filled with doom\", and defends distillation as a principle (Jamie John/Financial Times)",
+        "3 Collapsing models [R]",
+        "[R] Generative design of novel bacteriophages with genome language models [R]",
+        "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning"
       ]
     },
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-08-10T08:04:08.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI for science needs reasoning, not just data",
+      "s": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s",
+      "b": [
+        "technologyreview.com: AI for science needs reasoning, not just data",
+        "genevasolutions.news: ❝Why we need to make AI work for all, not just for good"
+      ],
+      "body": [
+        "technologyreview.com: Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. With the explosive arrival of artificial intelligence, the feeling is in the air again—this time accompanied by a Nobel Prize. In 2024, Demis Hassabis and John Jumper of Google DeepMind were awarded part of the Nobel in chemistry for their neural network AlphaFold, which predicts the three-dimensional structures of proteins by learning from thousands of experimentally measured shapes. This devilish problem had resisted systematic attacks for half a century; AlphaFold seemed to have solved it once and for all, and the world became fixated on the promise of its approach. Hassabis and his team called AlphaFold “the template for how AI can accelerate all of science to digital speed.” A wave of startups building foundation models for biology, chemistry, and materials discovery raised billions of dollars, buoyed by DeepMind’s success. AlphaFold had shown that the combination of AI and sufficient data could make groundbreaking discoveries (even if we did not understand the underlying mechanisms involved), and it seemed, once again, that a path through the rest of science was laid out before us. To be sure, AI will bring extraordinary changes to science, but it has become increasingly clear that AlphaFold, and things like it, may not be the best template for that metamorphosis. Though it is a profound achievement, the conditions that produced the likes of AlphaFold are rare, and the time it will take to meet those conditions in other fields will be measured in decades, not years. Instead, the acceleration of science will come about thanks to another approach: AI agents. The primary condition for AlphaFold’s success was the existence of the Protein Data Bank, a data set of roughly 1",
+        "genevasolutions.news: ❝Why we need to make AI work for all, not just for good Geneva Solutions"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/"
+        },
+        {
+          "d": "genevasolutions.news",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQTNjeF80amtTbFVoeE9kS1U0VUFkMy1tR01uRHBUeDBWY1pyRFdLd1FlTlZOeVNORWVtMjZQbFZacUEtT2pSaWpfN1Q2Y2RjVF81TWVkLV9ZYlBRZ0dyWVJ2ZG1vanRBV1RhUElCQTFoT3VnZ3NMNWVXOW1KSW1NMVYzZk9KNVNscEN4ZXM1R0VOUkZLVmc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI for science needs reasoning, not just data",
+        "❝Why we need to make AI work for all, not just for good"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-10T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "These startups are chasing the next big thing in LLMs",
+      "s": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . Way back in the summer of 201",
+      "b": [
+        "technologyreview.com: These startups are chasing the next big thing in LLMs"
+      ],
+      "body": [
+        "technologyreview.com: MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new type of neural network called a transformer. It proved to be very good at processing long sequences of data, especially text. Nine years on, transformers are the engines inside every major large language model on the market. “The entire AI industry is built on transformers,” says Justin Dangel, cofounder and CEO of the AI startup Subquadratic. “They are one of the most important innovations in the history of computer science, and they’ve changed the world.” But transformers are starting to show their age. Many of the recent advances in LLMs, such as the development of so-called reasoning models and their ability to handle large amounts of input at once, are not neat extensions of that core technology but workarounds that patch over some of its fundamental flaws. A growing number of scientists and engineers are now asking what’s coming next. LLMs are not going anywhere, but the way they get built is up for grabs. ( MIT Technology Review dubbed this future generation of models LLMs+ in this year’s list of the 10 things that matter in AI .) Enter a wave of startups hoping to push the boundaries of this boomtown technology. Some will no doubt fail—but they have everything to play for and far less to lose than the companies at the front of the pack today. Strength in numbers But first, the problem. The key strength of transformers lies in a mechanism called dense attention, which encodes the meaning of a block of text in a series of numbers . The process involves comparing every word (or part of a word, known as a token) in that text with every other word via a form of multiplication. Dense attention can capture the meaning of text with remarkable accuracy. But as th"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
+        }
+      ],
+      "srcTitles": [
+        "These startups are chasing the next big thing in LLMs"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 25,
       "sources": 2,
       "ts": "2026-08-10T04:05:00.000Z",
       "writtenSources": 2,
