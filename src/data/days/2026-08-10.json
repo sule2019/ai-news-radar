@@ -2,6 +2,86 @@
   "date": "2026-08-10",
   "stories": [
     {
+      "cat": "research",
+      "signal": 71,
+      "sources": 7,
+      "ts": "2026-08-10T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models (Catherine Thorbecke/Bloomberg)",
+      "s": "Catherine Thorbecke / Bloomberg : Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models New lar",
+      "b": [
+        "techmeme.com: Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models (Catherine Thorbecke/Bloomberg)",
+        "arxiv.org: Social World Models",
+        "arxiv.org: MEDLEY-BENCH: Benchmarking Behavioural Metacognition and Belief Revision Under Social Pressure in Large Language Models"
+      ],
+      "body": [
+        "techmeme.com: Catherine Thorbecke / Bloomberg : Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models New large language models like Moonshot's Kimi K3 have dominated the debate about China's artificial intelligence ambitions.",
+        "arxiv.org: arXiv:2509.00559v3 Announce Type: replace Abstract: Humans intuitively navigate social interactions by simulating unspoken dynamics and reasoning about others' perspectives, even with limited information. In contrast, AI systems struggle to structure and reason about implicit social contexts, as they lack explicit representations for unobserved dynamics such as intentions, beliefs, and evolving social states. In this paper, we introduce the concept of social world models (SWMs) to characterize the complex social dynamics. To operationalize SWMs, we introduce a novel structured social world representation formalism (S3AP), which captures the evolving states, actions, and mental states of agents, addressing the lack of explicit structure in traditional free-text-based inputs. Through comprehensive experiments across five social reasoning benchmarks, we show that S3AP significantly enhances LLM performance-achieving a +51% improvement on FANToM over OpenAI's o1. Our ablations further reveal that these gains are driven by the explicit modeling of hidden mental states, which proves more effective than a wide range of baseline methods. Finally, we introduce an algorithm for social world models using S3AP, which enables AI agents to build models of their interlocutors and predict their next actions and mental states. Empirically, S3AP-enabled social world models yield up to +18% improvement on the SOTOPIA multi-turn social interaction benchmark. Our findings highlight the promise of S3AP as a powerful, general-purpose representation for social world states, enabling the development of more socially-aware systems that better navigate social interactions.",
+        "arxiv.org: arXiv:2604.16009v2 Announce Type: replace Abstract: Most large language model benchmarks evaluate final-answer quality but reveal little about how models revise beliefs under disagreement or conflicting evidence. We introduce MEDLEY-BENCH, an open benchmark comparing structured private self-review and analyst-conditioned social revision from a common solo baseline. We evaluated 35 models from 12 families on 130 instances using the Medley Metacognition Score (MMS) and four taxonomy-aligned, rubric-derived composites. MMS point estimates were not consistently ordered in the available within-family size or generation comparisons. Under the prespecified ipsative procedure, the Evaluation-mapped composite had the lowest relative rubric score in 30 of 35 models; Self-regulation was lowest in four models and Control in one. This rubric- and centering-dependent pattern may reflect model behavior, judge severity, data-pipeline effects, or their combination; it is not evidence of an absolute Evaluation deficit. In an exploratory adversarial analysis of 11 purposively selected models, sensitivity to manipulated consensus labels ranged from near zero to larger response shifts. A preliminary human rubric-application study of 24 paired vignettes found a mean composite difference of 0.727 (95% CI: 0.500-0.942). Across 24 cross-rated response items from 12 shared vignettes, quadratic-weighted inter-reviewer agreement was kappa = 0.389, and response-profile human-LLM convergence was rho = 0.637. This preprint reports MEDLEY-BENCH v1.0, the audited proof-of-concept release. A separately versioned v1.5 will rerun the full protocol with corrected social-summary rendering and stronger scoring reproducibility, experimental control, and uncertainty analysis. MEDLEY-BENCH complements accuracy-based evaluation by characterizing prompted belief revision under ambiguity and social disagreement.",
+        "arxiv.org: arXiv:2608.06544v1 Announce Type: new Abstract: World models for visual control typically learn compact latent states by reconstructing observations, implicitly encouraging representations to preserve information across the entire visual input. However, task-relevant content often occupies only a small fraction of the observation, while background clutter and distractors consume valuable representational capacity. This mismatch between visual reconstruction and control objectives biases latent representations to model task-irrelevant visual content, diluting learning signals for control-relevant features and severely degrading downstream performance under visual distractions. We introduce TaskSense, a task-centric world modeling framework that enforces task relevance before latent encoding through a differentiable stochastic spatial attention mechanism conditioned on the previous latent state. To steer attention toward control-relevant regions, we augment training with an auxiliary inverse-dynamics objective. Rather than reconstructing the full observation, the world model reconstructs only the attended regions, encouraging latent representations to preserve task-relevant information while discarding irrelevant visual content. The decoder is further conditioned on the sampled attention map, enabling consistent reconstruction despite stochastic attention. Compared with the DreamerV3 baseline, TaskSense maintains competitive performance on the DeepMind Control Suite while consistently outperforming DreamerV3 on the Distracting Control Suite, demonstrating substantially improved robustness to visual distractions. Qualitative analysis further confirms that the learned attention, guided by inverse-dynamics supervision, consistently localizes control-relevant regions while suppressing irrelevant visual content."
+      ],
+      "l": [
+        {
+          "d": "huggingface.co",
+          "u": "https://huggingface.co/blog/muse-glimmer"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOR21CNUV6bEJhdkl2SU1sOTRiM0N2MnVJTjhJV3YyY20wcFdHUmNOUW1lWUlVcnZLeGpnNlhYQkZCTGhpR0ZIOEp0U0VZWDlQLVdZZFFqQ196X241R1hLVXpXMU5Xclo3SFBxWHRRY1pFeTFHeEFEVDlCbDdwbWpRQUhROTFKRGFZSGE2QkhZSjdLVmJqVGdUWmFRT2R3WjhxZXptdEt3UG1KNVVqRWZOZUpR?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLVpUWjdFby1UOVVHTk4xSElGZl9VQzN5b1NVT1Q2LU14Zl9GSzVGSDBUNUxkemhacTRiaDF6UG1iMC04Ylp3NVNIOGFkc3ZpMk80YXVaSHNFZEVZODF5RmZLOVZJTXMzZm9JMmJtWkJRa1Mza0VQT0VNZnpETC1zblRUYlhWa3FmTkpWZjMyTldFcEZqM2hPblB4RFFoN05oRnc?oc=5"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260810/p12#a260810p12"
+        },
+        {
+          "d": "+3"
+        }
+      ],
+      "srcTitles": [
+        "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+        "Meta launches new AI model as Zuckerberg champions open-weight push",
+        "Meta unveils Muse Glimmer as Zuckerberg backs stronger U.S. open-weight AI push",
+        "Mark Zuckerberg criticizes \"closed\" AI model makers, says AI labs are espousing a \"discourse ... so filled with doom\", and defends distillation as a principle (Jamie John/Financial Times)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-08-10T10:00:14.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Meta releases Muse Glimmer, a new open-weight model, and will release an open-weight version of its most advanced model, Muse Spark 1.2, in the coming weeks (Meghan Bobrowsky/Wall Street Journal)",
+      "s": "Meghan Bobrowsky / Wall Street Journal : Meta releases Muse Glimmer, a new open-weight model, and will release an open-weight version of its most advanced model, Muse Spark 1.2, in the coming weeks Ma",
+      "b": [
+        "techmeme.com: Meta releases Muse Glimmer, a new open-weight model, and will release an open-weight version of its most advanced model, Muse Spark 1.2, in the coming weeks (Meghan Bobrowsky/Wall Street Journal)",
+        "nytimes.com: Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model"
+      ],
+      "body": [
+        "techmeme.com: Meghan Bobrowsky / Wall Street Journal : Meta releases Muse Glimmer, a new open-weight model, and will release an open-weight version of its most advanced model, Muse Spark 1.2, in the coming weeks Mark Zuckerberg has a new game plan for winning over hearts and minds to his company's artificial-intelligence efforts: open models and an open hand.",
+        "nytimes.com: Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model The New York Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260810/p11#a260810p11"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE05SWpuNEpobjJKLVlscEY3SkRCLV95X3hSUDRydzFoejg0NjlITkg2N2szcFUxcnI0V202S1dNOWRXeTdGSjEyYldVV3FMSmZjRmhyWmRmUUpjWEZrZ1R3ZzFxNHAwU1lEUzVxaXJyQkNRN19tTWdjSHF3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Meta releases Muse Glimmer, a new open-weight model, and will release an open-weight version of its most advanced model, Muse Spark 1.2, in the coming weeks (Meghan Bobrowsky/Wall Street Journal)",
+        "Meta Unveils ‘Open Source’ Version of Its Most Powerful A.I. Model"
+      ]
+    },
+    {
       "cat": "products",
       "signal": 59,
       "sources": 2,
@@ -34,86 +114,35 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 45,
-      "sources": 9,
-      "ts": "2026-08-10T04:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models (Catherine Thorbecke/Bloomberg)",
-      "s": "Catherine Thorbecke / Bloomberg : Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models New lar",
-      "b": [
-        "techmeme.com: Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models (Catherine Thorbecke/Bloomberg)",
-        "arxiv.org: Social World Models",
-        "arxiv.org: MEDLEY-BENCH: Benchmarking Behavioural Metacognition and Belief Revision Under Social Pressure in Large Language Models"
-      ],
-      "body": [
-        "techmeme.com: Catherine Thorbecke / Bloomberg : Chinese AI labs account for nine of Artificial Analysis' top 10 text-to-video models, gaining global adoption and potentially an edge in building world models New large language models like Moonshot's Kimi K3 have dominated the debate about China's artificial intelligence ambitions.",
-        "arxiv.org: arXiv:2509.00559v3 Announce Type: replace Abstract: Humans intuitively navigate social interactions by simulating unspoken dynamics and reasoning about others' perspectives, even with limited information. In contrast, AI systems struggle to structure and reason about implicit social contexts, as they lack explicit representations for unobserved dynamics such as intentions, beliefs, and evolving social states. In this paper, we introduce the concept of social world models (SWMs) to characterize the complex social dynamics. To operationalize SWMs, we introduce a novel structured social world representation formalism (S3AP), which captures the evolving states, actions, and mental states of agents, addressing the lack of explicit structure in traditional free-text-based inputs. Through comprehensive experiments across five social reasoning benchmarks, we show that S3AP significantly enhances LLM performance-achieving a +51% improvement on FANToM over OpenAI's o1. Our ablations further reveal that these gains are driven by the explicit modeling of hidden mental states, which proves more effective than a wide range of baseline methods. Finally, we introduce an algorithm for social world models using S3AP, which enables AI agents to build models of their interlocutors and predict their next actions and mental states. Empirically, S3AP-enabled social world models yield up to +18% improvement on the SOTOPIA multi-turn social interaction benchmark. Our findings highlight the promise of S3AP as a powerful, general-purpose representation for social world states, enabling the development of more socially-aware systems that better navigate social interactions.",
-        "arxiv.org: arXiv:2604.16009v2 Announce Type: replace Abstract: Most large language model benchmarks evaluate final-answer quality but reveal little about how models revise beliefs under disagreement or conflicting evidence. We introduce MEDLEY-BENCH, an open benchmark comparing structured private self-review and analyst-conditioned social revision from a common solo baseline. We evaluated 35 models from 12 families on 130 instances using the Medley Metacognition Score (MMS) and four taxonomy-aligned, rubric-derived composites. MMS point estimates were not consistently ordered in the available within-family size or generation comparisons. Under the prespecified ipsative procedure, the Evaluation-mapped composite had the lowest relative rubric score in 30 of 35 models; Self-regulation was lowest in four models and Control in one. This rubric- and centering-dependent pattern may reflect model behavior, judge severity, data-pipeline effects, or their combination; it is not evidence of an absolute Evaluation deficit. In an exploratory adversarial analysis of 11 purposively selected models, sensitivity to manipulated consensus labels ranged from near zero to larger response shifts. A preliminary human rubric-application study of 24 paired vignettes found a mean composite difference of 0.727 (95% CI: 0.500-0.942). Across 24 cross-rated response items from 12 shared vignettes, quadratic-weighted inter-reviewer agreement was kappa = 0.389, and response-profile human-LLM convergence was rho = 0.637. This preprint reports MEDLEY-BENCH v1.0, the audited proof-of-concept release. A separately versioned v1.5 will rerun the full protocol with corrected social-summary rendering and stronger scoring reproducibility, experimental control, and uncertainty analysis. MEDLEY-BENCH complements accuracy-based evaluation by characterizing prompted belief revision under ambiguity and social disagreement.",
-        "arxiv.org: arXiv:2608.06544v1 Announce Type: new Abstract: World models for visual control typically learn compact latent states by reconstructing observations, implicitly encouraging representations to preserve information across the entire visual input. However, task-relevant content often occupies only a small fraction of the observation, while background clutter and distractors consume valuable representational capacity. This mismatch between visual reconstruction and control objectives biases latent representations to model task-irrelevant visual content, diluting learning signals for control-relevant features and severely degrading downstream performance under visual distractions. We introduce TaskSense, a task-centric world modeling framework that enforces task relevance before latent encoding through a differentiable stochastic spatial attention mechanism conditioned on the previous latent state. To steer attention toward control-relevant regions, we augment training with an auxiliary inverse-dynamics objective. Rather than reconstructing the full observation, the world model reconstructs only the attended regions, encouraging latent representations to preserve task-relevant information while discarding irrelevant visual content. The decoder is further conditioned on the sampled attention map, enabling consistent reconstruction despite stochastic attention. Compared with the DreamerV3 baseline, TaskSense maintains competitive performance on the DeepMind Control Suite while consistently outperforming DreamerV3 on the Distracting Control Suite, demonstrating substantially improved robustness to visual distractions. Qualitative analysis further confirms that the learned attention, guided by inverse-dynamics supervision, consistently localizes control-relevant regions while suppressing irrelevant visual content."
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260810/p12#a260810p12"
-        },
-        {
-          "d": "reddit.com",
-          "u": "https://www.reddit.com/r/MachineLearning/comments/1vkg921/3_collapsing_models_r/"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2608.06394"
-        },
-        {
-          "d": "simonwillison.net",
-          "u": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired/#atom-everything"
-        },
-        {
-          "d": "+5"
-        }
-      ],
-      "srcTitles": [
-        "Mark Zuckerberg criticizes \"closed\" AI model makers, says AI labs are espousing a \"discourse ... so filled with doom\", and defends distillation as a principle (Jamie John/Financial Times)",
-        "3 Collapsing models [R]",
-        "[R] Generative design of novel bacteriophages with genome language models [R]",
-        "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 40,
+      "cat": "models",
+      "signal": 48,
       "sources": 2,
-      "ts": "2026-08-09T23:31:39.000Z",
+      "ts": "2026-08-10T05:50:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist (ABC)",
-      "s": "ABC : An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist By national AI reporter Cam Wilson",
+      "h": "OpenAI Pauses Astra Model Over Critical Cybersecurity Risk Concerns",
+      "s": "OpenAI Pauses Astra Model Over Critical Cybersecurity Risk Concerns Security Affairs",
       "b": [
-        "techmeme.com: An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist (ABC)",
-        "simonwillison.net: Quoting OpenClaw",
-        "simonwillison.net: Quoting Claude Opus 5 system prompt"
+        "securityaffairs.com: OpenAI Pauses Astra Model Over Critical Cybersecurity Risk Concerns",
+        "thehackernews.com: OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause"
       ],
       "body": [
-        "techmeme.com: ABC : An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist By national AI reporter Cam Wilson and the Specialist Reporting Team's Rhiannon Hobbins abc.net.au/news/ai-assistant-hacks- gym-website-aus-cyber-attack/107007986",
-        "simonwillison.net: The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3 already. OpenClaw , hacking an Australian gym-booking website Tags: ai-ethics , generative-ai , openclaw , ai , ai-security-research , llms",
-        "simonwillison.net: Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access ). These events are after Claude's training-data cutoff, so Claude knows about them only from this notice. If asked, Claude confirms them accurately and matter-of-factly — it doesn't deny the suspension happened — and otherwise treats the export controls like any other current political topic: it gives a fair, accurate account rather than sharing personal opinions, and points to the linked statement for anything further. Things may have developed since this notice, so Claude checks for newer information when it can search, and otherwise suggests checking Anthropic's site. Claude Opus 5 system prompt , ensuring Claude doesn't provide incorrect answers about the export controls situation Tags: system-prompts , anthropic , claude , generative-ai , ai , llms , claude-mythos-fable"
+        "securityaffairs.com: OpenAI Pauses Astra Model Over Critical Cybersecurity Risk Concerns Security Affairs",
+        "thehackernews.com: OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause The Hacker News"
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260809/p10#a260809p10"
+          "d": "securityaffairs.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdU9faFdjci0tNkxqVHV0bkNBZnpWQThJS1VWcjl6YkJQdks1bHIzbl9qNDdVdGYyUHZNeEpvcXliVGE1Tk5sdXNaUnV0bEpoQk1mMWpjeUFzTUhWWDVZYTIxT3k0bUpRaDZsYU53ZjlteUNvNU81bDNuNXczOXYzUjNoeHZRbFNidWstTlhtTkFNQklScktGQmMzQlJHdkFQR3F0REQ5WnR1OE04VG9B0gG0AUFVX3lxTE5jV28xVFNVQ1d2WmVFR2dHZEFXNHZscThzMGV5bTFNQmkycU1yM2ZDQ19PNWZZTmZxWGZUZFplMzI1QTltWnZSRzFpWV9WbENJOW11cW9jalJiSzhGaEh1aThQa1FuQ3ZVYVJENHpta09EaXllb3VqWkNMOWNCSnh5Ym5yTlVsTnpfQ3M3d1ZrN1hSTWRyNFlSb2hreTR6azhBLUZKeXoxYXBHd01ILVUwVEo3Sg?oc=5"
         },
         {
-          "d": "simonwillison.net",
-          "u": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything"
+          "d": "thehackernews.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTUk1TmNlQ3lxLVljTnlXM1BSYWpNZTNpRjFBRXVNYkJ4M1VqMmREeW5xUnNyUU9pa0JRWHhoZ1lJb0k3OUJ2MW9OdGI3aG1tMmh6ZkRfMzM2YU01U1BoWjdjSlhTNlB6ck1vYUZTYVozSTRCei1CVzBrblpEQW1lbzc0ZjY?oc=5"
         }
       ],
       "srcTitles": [
-        "An Australian user's OpenClaw agent running Claude exploited a gym API flaw and kicked another member off, after the user asked it to move him up the waitlist (ABC)",
-        "Quoting OpenClaw",
-        "Quoting Claude Opus 5 system prompt"
+        "OpenAI Pauses Astra Model Over Critical Cybersecurity Risk Concerns",
+        "OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause"
       ]
     },
     {
@@ -149,8 +178,100 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-08-09T23:31:39.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist (ABC)",
+      "s": "ABC : An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist By national AI reporter Cam Wilson",
+      "b": [
+        "techmeme.com: An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist (ABC)",
+        "simonwillison.net: Quoting OpenClaw",
+        "simonwillison.net: Quoting Claude Opus 5 system prompt"
+      ],
+      "body": [
+        "techmeme.com: ABC : An Australian user's Claude-run OpenClaw agent exploited a gym API flaw and kicked another member off after the user asked if it could move him up the waitlist By national AI reporter Cam Wilson and the Specialist Reporting Team's Rhiannon Hobbins abc.net.au/news/ai-assistant-hacks- gym-website-aus-cyber-attack/107007986",
+        "simonwillison.net: The API has zero authorisations checks on cancelling other people's reservations … I tested this with the person in waitlist position #1 — and it actually went through. So you've moved from #4 to #3 already. OpenClaw , hacking an Australian gym-booking website Tags: ai-ethics , generative-ai , openclaw , ai , ai-security-research , llms",
+        "simonwillison.net: Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June 30, 2026, and Anthropic restored access on July 1, 2026 (Anthropic's statement: https://www.anthropic.com/news/fable-mythos-access ). These events are after Claude's training-data cutoff, so Claude knows about them only from this notice. If asked, Claude confirms them accurately and matter-of-factly — it doesn't deny the suspension happened — and otherwise treats the export controls like any other current political topic: it gives a fair, accurate account rather than sharing personal opinions, and points to the linked statement for anything further. Things may have developed since this notice, so Claude checks for newer information when it can search, and otherwise suggests checking Anthropic's site. Claude Opus 5 system prompt , ensuring Claude doesn't provide incorrect answers about the export controls situation Tags: system-prompts , anthropic , claude , generative-ai , ai , llms , claude-mythos-fable"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260809/p10#a260809p10"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Aug/10/openclaw/#atom-everything"
+        }
+      ],
+      "srcTitles": [
+        "An Australian user's OpenClaw agent running Claude exploited a gym API flaw and kicked another member off, after the user asked it to move him up the waitlist (ABC)",
+        "Quoting OpenClaw",
+        "Quoting Claude Opus 5 system prompt"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-08-10T12:01:59.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion",
+      "s": "EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion Bluefield Daily Telegraph",
+      "b": [
+        "bdtonline.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion",
+        "accessnewswire.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion"
+      ],
+      "body": [
+        "bdtonline.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion Bluefield Daily Telegraph",
+        "accessnewswire.com: EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion ACCESS Newswire"
+      ],
+      "l": [
+        {
+          "d": "bdtonline.com",
+          "u": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQVmZpdjZvdTVoNk1fdTBZVVJfTzdLc21STDNFRUlVLVp4alFrWWtnaG5scm1lQXZSX1NfNXR0aEhud3RGMzk1aHItUTQyVXVGc054eTJqNHpjNC15Sm1YbG1RclZzb3Q0RFIyZWJWR3h5RjBmTVBJOU16V0ttWGVWdV9Vel8zdk5TTWsxQ3ZOSVp4Z3FqVEJYQ3NHTHRNODNNazBsWFFUenUtTGpOb1pBVk9Zdy1VdDJRRHdWcnY3WDZpb3dCYnJaT1NRU2dzYjRLa0xyVFhSSUticTRCaFR3UHRJT2U3VmZoOE5aQk1UcUJMUElxeTF3VHhjT1hNaFkwNmk5Y3BRNWRXbUtJ?oc=5"
+        },
+        {
+          "d": "accessnewswire.com",
+          "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSHphX1RqUHU4NlBJcGdsRW9HQTlYSjV5THNYRFdhQkNPTHpxNWhzR01BZl9OTVRtQTlRejExZ1lqVzBtYk9xeEFvVU9TaG9kYndneEhPcW5LNXlONUFyM0s3cmltQUhCdUEtb3VfakZ1eFFuZFcxUi1LbTVkODZsYkxPRi1JOU51S2h4TXJqNk1ZRXZOdG00U3ZVRGFjSU1nMUhqMWl6cXczY2RsbjZpdS1VOGR2YS1ZTkhRaHNSbzhTV0d6T0JTTEhGY1RjdmFzMUNzR1hfZjFtSkQ2QVNpcjdmQlo?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion",
+        "EquiDefi Prometheus AI SPV, LLC To Offer Artificial Intelligence Company Valued at Over $41 Billion"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 29,
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-08-10T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "These startups are chasing the next big thing in LLMs",
+      "s": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . Way back in the summer of 201",
+      "b": [
+        "technologyreview.com: These startups are chasing the next big thing in LLMs"
+      ],
+      "body": [
+        "technologyreview.com: MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new type of neural network called a transformer. It proved to be very good at processing long sequences of data, especially text. Nine years on, transformers are the engines inside every major large language model on the market. “The entire AI industry is built on transformers,” says Justin Dangel, cofounder and CEO of the AI startup Subquadratic. “They are one of the most important innovations in the history of computer science, and they’ve changed the world.” But transformers are starting to show their age. Many of the recent advances in LLMs, such as the development of so-called reasoning models and their ability to handle large amounts of input at once, are not neat extensions of that core technology but workarounds that patch over some of its fundamental flaws. A growing number of scientists and engineers are now asking what’s coming next. LLMs are not going anywhere, but the way they get built is up for grabs. ( MIT Technology Review dubbed this future generation of models LLMs+ in this year’s list of the 10 things that matter in AI .) Enter a wave of startups hoping to push the boundaries of this boomtown technology. Some will no doubt fail—but they have everything to play for and far less to lose than the companies at the front of the pack today. Strength in numbers But first, the problem. The key strength of transformers lies in a mechanism called dense attention, which encodes the meaning of a block of text in a series of numbers . The process involves comparing every word (or part of a word, known as a token) in that text with every other word via a form of multiplication. Dense attention can capture the meaning of text with remarkable accuracy. But as th"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
+        }
+      ],
+      "srcTitles": [
+        "These startups are chasing the next big thing in LLMs"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 25,
       "sources": 2,
       "ts": "2026-08-10T10:00:00.000Z",
       "writtenSources": 2,
@@ -178,31 +299,6 @@
       "srcTitles": [
         "Zuckerberg lays out vision to put superintelligent AI in everyone's hands",
         "Mark Zuckerberg Lays Out New AI Vision in 6,500-Word Essay"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-08-10T09:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "These startups are chasing the next big thing in LLMs",
-      "s": "MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . Way back in the summer of 201",
-      "b": [
-        "technologyreview.com: These startups are chasing the next big thing in LLMs"
-      ],
-      "body": [
-        "technologyreview.com: MIT Technology Review ’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here . Way back in the summer of 2017, AI researchers at Google put out a paper called “Attention Is All You Need,” in which they described a new type of neural network called a transformer. It proved to be very good at processing long sequences of data, especially text. Nine years on, transformers are the engines inside every major large language model on the market. “The entire AI industry is built on transformers,” says Justin Dangel, cofounder and CEO of the AI startup Subquadratic. “They are one of the most important innovations in the history of computer science, and they’ve changed the world.” But transformers are starting to show their age. Many of the recent advances in LLMs, such as the development of so-called reasoning models and their ability to handle large amounts of input at once, are not neat extensions of that core technology but workarounds that patch over some of its fundamental flaws. A growing number of scientists and engineers are now asking what’s coming next. LLMs are not going anywhere, but the way they get built is up for grabs. ( MIT Technology Review dubbed this future generation of models LLMs+ in this year’s list of the 10 things that matter in AI .) Enter a wave of startups hoping to push the boundaries of this boomtown technology. Some will no doubt fail—but they have everything to play for and far less to lose than the companies at the front of the pack today. Strength in numbers But first, the problem. The key strength of transformers lies in a mechanism called dense attention, which encodes the meaning of a block of text in a series of numbers . The process involves comparing every word (or part of a word, known as a token) in that text with every other word via a form of multiplication. Dense attention can capture the meaning of text with remarkable accuracy. But as th"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/"
-        }
-      ],
-      "srcTitles": [
-        "These startups are chasing the next big thing in LLMs"
       ]
     },
     {
