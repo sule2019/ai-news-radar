@@ -35,7 +35,39 @@
     },
     {
       "cat": "models",
-      "signal": 59,
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-08-11T16:31:16.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Brad Lightcap, OpenAI s longtime COO, is leaving to start something new",
+      "s": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+      "b": [
+        "techcrunch.com: Brad Lightcap, OpenAI s longtime COO, is leaving to start something new",
+        "techmeme.com: Brad Lightcap, who most recently led OpenAI's special projects division and formerly was its COO, says he is leaving the startup \"to start something new\" (Stephanie Palazzolo/The Information)"
+      ],
+      "body": [
+        "techcrunch.com: One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
+        "techmeme.com: Stephanie Palazzolo / The Information : Brad Lightcap, who most recently led OpenAI's special projects division and formerly was its COO, says he is leaving the startup to start something new Brad Lightcap, who most recently led OpenAI's special projects division and formerly was its chief operating officer"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260811/p26#a260811p26"
+        }
+      ],
+      "srcTitles": [
+        "Brad Lightcap, OpenAI s longtime COO, is leaving to start something new",
+        "Brad Lightcap, who most recently led OpenAI's special projects division and formerly was its COO, says he is leaving the startup \"to start something new\" (Stephanie Palazzolo/The Information)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 55,
       "sources": 3,
       "ts": "2026-08-10T23:56:03.000Z",
       "writtenSources": 2,
@@ -72,38 +104,6 @@
     },
     {
       "cat": "models",
-      "signal": 58,
-      "sources": 2,
-      "ts": "2026-08-11T16:31:16.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Brad Lightcap, OpenAI s longtime COO, is leaving to start something new",
-      "s": "One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
-      "b": [
-        "techcrunch.com: Brad Lightcap, OpenAI s longtime COO, is leaving to start something new",
-        "techmeme.com: Brad Lightcap, who most recently led OpenAI's special projects division and formerly was its COO, says he is leaving the startup \"to start something new\" (Stephanie Palazzolo/The Information)"
-      ],
-      "body": [
-        "techcrunch.com: One of OpenAI's longest serving executives is headed out the door, although the longtime COO told staff that he was \"excited to help you all advance the mission from a different vantage point.\"",
-        "techmeme.com: Stephanie Palazzolo / The Information : Brad Lightcap, who most recently led OpenAI's special projects division and formerly was its COO, says he is leaving the startup to start something new Brad Lightcap, who most recently led OpenAI's special projects division and formerly was its chief operating officer"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/08/11/brad-lightcap-openais-longtime-coo-is-leaving-to-start-something-new/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260811/p26#a260811p26"
-        }
-      ],
-      "srcTitles": [
-        "Brad Lightcap, OpenAI s longtime COO, is leaving to start something new",
-        "Brad Lightcap, who most recently led OpenAI's special projects division and formerly was its COO, says he is leaving the startup \"to start something new\" (Stephanie Palazzolo/The Information)"
-      ]
-    },
-    {
-      "cat": "models",
       "signal": 46,
       "sources": 1,
       "ts": "2026-08-11T10:00:00.000Z",
@@ -125,38 +125,6 @@
       ],
       "srcTitles": [
         "Testing ads in ChatGPT"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 36,
-      "sources": 2,
-      "ts": "2026-08-11T13:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Spotify will label AI Persona profiles and exclude their music from recommendations",
-      "s": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa",
-      "b": [
-        "techcrunch.com: Spotify will label AI Persona profiles and exclude their music from recommendations",
-        "theverge.com: Spotify says it won t recommend music from AI Personas"
-      ],
-      "body": [
-        "techcrunch.com: Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-        "theverge.com: Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're [ ]"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations"
-        }
-      ],
-      "srcTitles": [
-        "Spotify will label AI Persona profiles and exclude their music from recommendations",
-        "Spotify says it won t recommend music from AI Personas"
       ]
     },
     {
@@ -192,8 +160,72 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-08-11T13:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Spotify will label AI Persona profiles and exclude their music from recommendations",
+      "s": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa",
+      "b": [
+        "techcrunch.com: Spotify will label AI Persona profiles and exclude their music from recommendations",
+        "theverge.com: Spotify says it won t recommend music from AI Personas"
+      ],
+      "body": [
+        "techcrunch.com: Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+        "theverge.com: Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations"
+        }
+      ],
+      "srcTitles": [
+        "Spotify will label AI Persona profiles and exclude their music from recommendations",
+        "Spotify says it won t recommend music from AI Personas"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-11T15:39:36.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Four things agencies need to get right before AI outpaces their security programs",
+      "s": "Four things agencies need to get right before AI outpaces their security programs Federal News Network",
+      "b": [
+        "federalnewsnetwork.com: Four things agencies need to get right before AI outpaces their security programs",
+        "cio.com: What CIOs must get right before AI can scale"
+      ],
+      "body": [
+        "federalnewsnetwork.com: Four things agencies need to get right before AI outpaces their security programs Federal News Network",
+        "cio.com: What CIOs must get right before AI can scale cio.com"
+      ],
+      "l": [
+        {
+          "d": "federalnewsnetwork.com",
+          "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcUNUSWx3T29pV2xMQXZLcUlCcFY3V3cweV85N1QzZnVObkFsVm42WU5JZ3JWdW1WMjQ2THBnZlpMdFA1UTZ1Q1pWdFJGSk0tZEpzZGl4RDVxa0VzOW04T05GbWJsQTZYYUlxT1hqQWpuVWhwN093YXhYelF0U0ZmM3VMQ1ZiLUwyMkpobmRabGp5NkhlN05hTHZwZGstLVNTdklJT1VNWl9xb2ltRU9VRkdteGZqTldORnQ4UXY1OF9XWWFFczdSUktJMjA?oc=5"
+        },
+        {
+          "d": "cio.com",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU29iN0cwZmtIN0JfQjRQOVVnMXVSaG53d3h0ZUtqanZHNXNFcGhVdzFySDJmNU9LaXN4NXd6YTBYb1JNRDRoVzVvRXp3S2RmX0J2TzUtSW9YVnJiQ3lmajFzNEpnZ21LVUd5bngtM1hxWTlZOE5MX1h2X2dYR09vTmtvZHZUc0NNUFhBYnNB?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Four things agencies need to get right before AI outpaces their security programs",
+        "What CIOs must get right before AI can scale"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 29,
+      "signal": 25,
       "sources": 2,
       "ts": "2026-08-11T18:46:12.000Z",
       "writtenSources": 2,
