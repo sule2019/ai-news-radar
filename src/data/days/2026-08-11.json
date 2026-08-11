@@ -28,7 +28,7 @@
     },
     {
       "cat": "models",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-08-10T23:56:03.000Z",
       "writtenSources": 2,
@@ -91,8 +91,40 @@
       ]
     },
     {
+      "cat": "research",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-08-11T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+      "s": "Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+      "b": [
+        "blog.google: AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "arxiv.org: Towards Expert-level Medical AI for Real-time Video Consultations"
+      ],
+      "body": [
+        "blog.google: Google introduces AMIE for real-time clinical video consultations in simulated settings.",
+        "arxiv.org: arXiv:2608.09861v1 Announce Type: new Abstract: Audio-visual interaction is the standard for patient-physician consultations, enabling natural communication and effective assessment of illness through non-verbal cues. While text-based AI has shown promise, it discards essential perceptual dimensions and limits patients who cannot articulate symptoms in writing. Early efforts to extend medical AI to audio-visual interaction have demonstrated feasibility but not reached clinician-level performance. Here, we provide the first demonstration of expert-level AI in real-time clinical video consultations using AMIE (Articulate Medical Intelligence Explorer) in a video configuration. AMIE (Video) is a Gemini-based multi-agent system integrating low-latency dialogue, clinical reasoning, and real-time audio-visual perception. To guide development, we established a taxonomy and automated evaluations for clinical audio-visual cues in telehealth settings. In a randomized Objective Structured Clinical Examination (OSCE) study with 30 primary care physicians (PCPs), 15 patient actors and 100 clinical scenarios, we compared AMIE (Video), its text-only counterpart AMIE (Text), and PCPs consulting via video. Clinical evaluators rated AMIE (Video) on par or better than PCPs in history-taking, diagnosis, management, and physical observation and examination. Patient actors preferred AMIE's approach to assessing and explaining conditions, while PCPs were preferred for rapport and partnership building. In modality ablation, patient actors preferred AMIE (Video)'s interface over text chat for communicative effectiveness, convenience, and feeling understood. Limitations remain in fine anatomical precision, subtle affective nuances, and high-frequency movements. While further research is needed before real-world translation, these results mark an important milestone toward AI systems capable of augmenting care across the sensory complexity of clinical practice."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/models-and-research/google-research/amie-video-consultations/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.09861"
+        }
+      ],
+      "srcTitles": [
+        "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
+        "Towards Expert-level Medical AI for Real-time Video Consultations"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 24,
+      "signal": 20,
       "sources": 2,
       "ts": "2026-08-11T06:46:00.000Z",
       "writtenSources": 2,
