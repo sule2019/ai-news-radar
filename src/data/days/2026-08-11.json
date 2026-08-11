@@ -2,8 +2,40 @@
   "date": "2026-08-11",
   "stories": [
     {
+      "cat": "models",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-08-10T23:56:03.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Meta’s Muse Glimmer shines light on AI hardware/software cost tradeoff",
+      "s": "Meta’s Muse Glimmer shines light on AI hardware/software cost tradeoff Computerworld",
+      "b": [
+        "computerworld.com: Meta’s Muse Glimmer shines light on AI hardware/software cost tradeoff",
+        "simonwillison.net: Introducing Muse Glimmer"
+      ],
+      "body": [
+        "computerworld.com: Meta’s Muse Glimmer shines light on AI hardware/software cost tradeoff Computerworld",
+        "simonwillison.net: Introducing Muse Glimmer Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old). They claim to have optimized it for exactly the kind of things I'm looking for in a local model: End-to-end Agentic Task Completion. Muse Glimmer achieves strong success rates on full-task benchmarks including DeepSearch QA, MCP-Atlas, 𝛕-Bench and SWE-Bench, which measure its ability to work within scaffolds, write and debug code, and resolve multi-turn requests from start to finish. Reliable Tool Use. The model handles a wide range of function calls, invoking tools with precise schemas throughout extended workflows. Multi-Step Reasoning. Muse Glimmer chains reasoning over long horizons, sustaining coherent plans across complex, extended workflows. [...] Here's a pelican which I generated using LM Studio's 18.16 GB version of the model : I also tried it out with my llm-coding-agent plugin, running against a fresh checkout of Datasette with the prompt: how does auth work? Here's the response , at the end of a long transcript showing all of the tool calls it made to explore the codebase. I ran this using llm-lmstudio with this patch applied to upgrade it for compatibility with LLM 0.32 . I really like this size of model, because if a machine has 32 GB of RAM or more (mine has 128GB) it leaves plenty of space for running other applications at the same time. Glimmer is a vision model, so I asked it to describe this image: llm -m lmstudio/meta/muse-glimmer -a https://static.inaturalist.org/photos/714731804/large.jpg 'describe image' Here's what I got back : The photograph shows a rocky, breakwater-style shoreline on an overcast day with a smooth, gray body of water and a faint dock/pier line in the soft-focused background. In the foreground two large brown pelicans, Pelecanus occidentalis , are perched on the jumbled gray-white stones. They have the species’ characteristic long, down-cur"
+      ],
+      "l": [
+        {
+          "d": "computerworld.com",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWUFEX2lOb1lNZ0hWbU1kSUlaSFR5TkdSSDFMeXhPYnNaanYzRXBNN1hRZXFOa1FVbW5BdlV4bGx1aTNXTmFRTFpPZ205U3hOcDVQSk9HM0QxMVRibUpNaGxiX2szTVhneXRXblRUYkdDWmZmOEVTTGJCVE9FcU5CZEpjQmNFYkl1Wjh2UUUtM3JOeHFfU1RFRjJRX3luUlNUTWtrVXprNHBhc1JfeEpKR0M1S3RWRFhlbEFraXhuMko?oc=5"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer/"
+        }
+      ],
+      "srcTitles": [
+        "Meta’s Muse Glimmer shines light on AI hardware/software cost tradeoff",
+        "Introducing Muse Glimmer"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-08-11T06:46:00.000Z",
       "writtenSources": 2,
