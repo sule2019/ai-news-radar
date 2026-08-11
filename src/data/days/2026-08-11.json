@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 61,
+      "signal": 58,
       "sources": 2,
       "ts": "2026-08-11T17:12:57.000Z",
       "writtenSources": 2,
@@ -67,7 +67,7 @@
     },
     {
       "cat": "models",
-      "signal": 55,
+      "signal": 51,
       "sources": 3,
       "ts": "2026-08-10T23:56:03.000Z",
       "writtenSources": 2,
@@ -128,6 +128,38 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-08-11T13:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Spotify will label AI Persona profiles and exclude their music from recommendations",
+      "s": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa",
+      "b": [
+        "techcrunch.com: Spotify will label AI Persona profiles and exclude their music from recommendations",
+        "theverge.com: Spotify says it won t recommend music from AI Personas"
+      ],
+      "body": [
+        "techcrunch.com: Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
+        "theverge.com: Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations"
+        }
+      ],
+      "srcTitles": [
+        "Spotify will label AI Persona profiles and exclude their music from recommendations",
+        "Spotify says it won t recommend music from AI Personas"
+      ]
+    },
+    {
       "cat": "research",
       "signal": 36,
       "sources": 2,
@@ -157,38 +189,6 @@
       "srcTitles": [
         "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
         "Towards Expert-level Medical AI for Real-time Video Consultations"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 32,
-      "sources": 2,
-      "ts": "2026-08-11T13:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Spotify will label AI Persona profiles and exclude their music from recommendations",
-      "s": "Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by defa",
-      "b": [
-        "techcrunch.com: Spotify will label AI Persona profiles and exclude their music from recommendations",
-        "theverge.com: Spotify says it won t recommend music from AI Personas"
-      ],
-      "body": [
-        "techcrunch.com: Spotify is introducing “AI Persona” labels for artist profiles that represent AI-generated identities and will exclude their music from editorial, algorithmic, and personalized recommendations by default.",
-        "theverge.com: Spotify will soon label AI artists and remove their music from your recommendations. The change, which will start rolling out in mid-September, means you'll see an \"AI Persona\" badge on an artist's profile across the app if they do \"not represent a real person.\" The music streaming platform will allow artists to disclose that they're [ ]"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/08/11/spotify-will-label-ai-persona-profiles-and-exclude-their-music-from-recommendations/"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations"
-        }
-      ],
-      "srcTitles": [
-        "Spotify will label AI Persona profiles and exclude their music from recommendations",
-        "Spotify says it won t recommend music from AI Personas"
       ]
     },
     {
@@ -225,7 +225,7 @@
     },
     {
       "cat": "policy",
-      "signal": 25,
+      "signal": 21,
       "sources": 2,
       "ts": "2026-08-11T18:46:12.000Z",
       "writtenSources": 2,
