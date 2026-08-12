@@ -67,6 +67,31 @@
     },
     {
       "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-12T16:51:57.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Scaling AI agents with trustworthy data",
+      "s": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents , and few executives doubt the technology’s potential to transform wor",
+      "b": [
+        "technologyreview.com: Scaling AI agents with trustworthy data"
+      ],
+      "body": [
+        "technologyreview.com: Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents , and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges on having the right foundation, with inadequate infrastructure and data being major blockers . Agentic AI places considerable new demands on enterprise data systems. The shift from answering questions to taking actions means AI agents need data from across the enterprise, in all its structured and unstructured forms, and with the right business context. To make decisions and act in real time, agents also need frictionless access to the organization’s operational systems—for example, those storing its supply chain, point-of-sale, or human resources data. Legacy data systems, even those updated just a few years ago, struggle to meet these demands. DOWNLOAD THE REPORT As AI agents become embedded more widely in enterprise operations, the need to overcome the restrictions of legacy data systems grows more urgent. If Gartner’s prediction that AI agents will augment or automate 50% of business decisions by 2027 proves correct, organizations must eliminate bottlenecks or risk depriving agents of the data they need to make the right decisions at speed. This report, based on a survey of 300 data and technology executives, explores how legacy systems are limiting the effectiveness of AI agents in many organizations. It finds that a handful of organizations—the data leaders—are having greater success with agentic AI and experiencing fewer data limitations as a result of legacy systems. These leaders offer a guide to creating the right data environment for agents to flourish and trusted systems to scale. Key findings from the report include: Few companies currently provide agentic AI with ample access to enterprise data. Across all the surveyed organizations, AI only has access to an"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/"
+        }
+      ],
+      "srcTitles": [
+        "Scaling AI agents with trustworthy data"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 29,
       "sources": 2,
       "ts": "2026-08-12T13:57:06.000Z",
@@ -149,7 +174,7 @@
     },
     {
       "cat": "funding",
-      "signal": 23,
+      "signal": 19,
       "sources": 2,
       "ts": "2026-08-12T11:00:00.000Z",
       "writtenSources": 2,
