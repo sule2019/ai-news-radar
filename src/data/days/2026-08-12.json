@@ -2,8 +2,40 @@
   "date": "2026-08-12",
   "stories": [
     {
+      "cat": "models",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-08-12T14:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google’s Pixel Watch 5 dives deeper into AI and health",
+      "s": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly fast",
+      "b": [
+        "theverge.com: Google’s Pixel Watch 5 dives deeper into AI and health",
+        "techmeme.com: Google unveils the $399 Pixel Watch 5 with a satin pyrite case finish, offline Gemini, proactive AI suggestions, better GPS maps, and insulin resistance trends (Victoria Song/The Verge)"
+      ],
+      "body": [
+        "theverge.com: The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel [ ]",
+        "techmeme.com: Victoria Song / The Verge : Google unveils the $399 Pixel Watch 5 with a satin pyrite case finish, offline Gemini, proactive AI suggestions, better GPS maps, and insulin resistance trends The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260812/p33#a260812p33"
+        }
+      ],
+      "srcTitles": [
+        "Google’s Pixel Watch 5 dives deeper into AI and health",
+        "Google introduces an insulin-resistance trend feature that uses AI, an accelerometer, and other sensors, launching first on the Pixel Watch 5 and Fitbit devices (Samantha Kelly/Bloomberg)"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 62,
+      "signal": 59,
       "sources": 2,
       "ts": "2026-08-12T14:00:00.000Z",
       "writtenSources": 2,
@@ -35,39 +67,7 @@
     },
     {
       "cat": "models",
-      "signal": 60,
-      "sources": 2,
-      "ts": "2026-08-12T14:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Google’s Pixel Watch 5 dives deeper into AI and health",
-      "s": "The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly fast",
-      "b": [
-        "theverge.com: Google’s Pixel Watch 5 dives deeper into AI and health",
-        "techmeme.com: Google unveils the $399 Pixel Watch 5 with a satin pyrite case finish, offline Gemini, proactive AI suggestions, better GPS maps, and insulin resistance trends (Victoria Song/The Verge)"
-      ],
-      "body": [
-        "theverge.com: The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition. Under the hood, there's a slightly faster Qualcomm processor and an itty-bitty battery bump. There's a $50 price hike from last year, too, because the Pixel [ ]",
-        "techmeme.com: Victoria Song / The Verge : Google unveils the $399 Pixel Watch 5 with a satin pyrite case finish, offline Gemini, proactive AI suggestions, better GPS maps, and insulin resistance trends The $399 Google Pixel Watch 5 isn't about the hardware. Sure, there's a new satin pyrite case finish, a few new strap colors, and a Steph Curry Special Edition."
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/978094/pixel-watch-5-hands-on-made-by-google-gemini-wearables-smartwatch"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260812/p26#a260812p26"
-        }
-      ],
-      "srcTitles": [
-        "Google’s Pixel Watch 5 dives deeper into AI and health",
-        "Google unveils the $399 Pixel Watch 5 with a satin pyrite case finish, offline Gemini, proactive AI suggestions, better GPS maps, and insulin resistance trends (Victoria Song/The Verge)"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 32,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-08-12T13:57:06.000Z",
       "writtenSources": 2,
@@ -99,7 +99,7 @@
     },
     {
       "cat": "funding",
-      "signal": 31,
+      "signal": 27,
       "sources": 2,
       "ts": "2026-08-12T11:00:00.000Z",
       "writtenSources": 2,
@@ -131,7 +131,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-08-12T14:01:59.000Z",
       "writtenSources": 1,
