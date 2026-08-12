@@ -3,7 +3,78 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 58,
+      "signal": 70,
+      "sources": 3,
+      "ts": "2026-08-12T17:29:10.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Amazon will train on Twitch streamers content by default, unless they opt out",
+      "s": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+      "b": [
+        "techcrunch.com: Amazon will train on Twitch streamers content by default, unless they opt out",
+        "theverge.com: Twitch streamers can now opt out from training Amazon’s AI",
+        "arstechnica.com: Twitch content has trained Amazon AI for years, but users can opt out now"
+      ],
+      "body": [
+        "techcrunch.com: \"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+        "theverge.com: Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose purpose is to generate or synthesize text, [ ]",
+        "arstechnica.com: Twitch now lets users opt out of Amazon's use of content from their channels to train Amazon's \"generative AI content models.\" The change, announced today, comes more than two years after a company executive confirmed that Amazon was using Twitch content for AI training. In an updated support page , Twitch confirms that users must opt out if they don’t want their “streams, VODs, clips, stream chats, and pictures and text on your channel [to] be used in future training of a model developed by Amazon whose purpose is to generate or synthesize text, audio, images, or video.” To opt out, users must go to the proper settings at www.twitch.tv/settings/security . Read full article Comments"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
+        }
+      ],
+      "srcTitles": [
+        "Amazon will train on Twitch streamers content by default, unless they opt out",
+        "Twitch streamers can now opt out from training Amazon’s AI",
+        "Twitch content has trained Amazon AI for years, but users can opt out now"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-08-12T14:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
+      "s": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
+      "b": [
+        "wired.com: 4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
+        "usnews.com: Google Unveils Latest Pixel Phones With Slimmer Cameras and More AI Features"
+      ],
+      "body": [
+        "wired.com: From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
+        "usnews.com: Google Unveils Latest Pixel Phones With Slimmer Cameras and More AI Features U.S. News & World Report"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/"
+        },
+        {
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOE4ySE9iUUJuTHpBWXdhMmMxSU9ndWpMc19CZUtEQl82Z0EzYmt2WnhlS2RMNURrMHR2ZGNSVEUwLWJMOWZ3OXhaVVlqTUhoYUV1aDVnVTZiX1dzcDlIcHgxOG1mSVF2UC1DRkxOQUstVHF0YXNrQldJUjVYMHRnT0psNk9aTmJDWDI5ZmYyS1lkSXVrakxHUmdqb2IyMGxNVkhuR2t5b2dPMlJuSjlRcDZMYjZXdW1HZXpodVBtSkRrZ1BDUW9kTmtyR3lzUQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
+        "Google Unveils Latest Pixel Phones With Slimmer Cameras and More AI Features"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 54,
       "sources": 2,
       "ts": "2026-08-12T14:00:00.000Z",
       "writtenSources": 2,
@@ -34,38 +105,6 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 52,
-      "sources": 2,
-      "ts": "2026-08-12T14:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
-      "s": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
-      "b": [
-        "wired.com: 4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
-        "usnews.com: Google Unveils Latest Pixel Phones With Slimmer Cameras and More AI Features"
-      ],
-      "body": [
-        "wired.com: From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
-        "usnews.com: Google Unveils Latest Pixel Phones With Slimmer Cameras and More AI Features U.S. News & World Report"
-      ],
-      "l": [
-        {
-          "d": "wired.com",
-          "u": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/"
-        },
-        {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcE5oNkdsdXRKa0htTm5fdGJ4SHhUS3hpVjZqX0RZaUt1RmhLcGlHdElReGMxbWhVcDMtNzNsYWdSQ3Z2bW5OWGFMYTZhbHA1b2k3MUpLa2Q0SkVaNE9SR2pyQnRYV2ZVWXBVbFJhNEZwcmUtUWRGbHJWZklRaUh4UnNoYmhNblBQSFYyaXpTWWozMXhMbFdTSmlCcTJVcmM3ak9wdkYwd9IBrAFBVV95cUxOR21sQmlNeUhFS0hkUS1MbnEySVo5Q3poZjMzZl9XalNvaEtvZFBfeDJ2ajhfTVM3bnB5V25Ma1pCLWRaRmZGWXBWaVYzY190SHZTQW9qcl90Y3VmWVFJa3hubXdpVzh1S0pNYzJpU0M4WEdhTWY4TjFiNmp6endkZFFWdkFkOVoyQWJWRzFoWW5LSVQzd1Yza0piWkpHWkZuR0hRYXc5aTFZT1dB?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
-        "Google unveils latest Pixel phones with slimmer cameras and more AI features"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 27,
       "sources": 1,
@@ -88,6 +127,38 @@
       ],
       "srcTitles": [
         "Scaling AI agents with trustworthy data"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-12T13:57:06.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Role of Artificial Intelligence In Access",
+      "s": "The Role of Artificial Intelligence In Access Pharmaceutical Commerce",
+      "b": [
+        "pharmaceuticalcommerce.com: The Role of Artificial Intelligence In Access",
+        "retaildetail.eu: Target gives artificial intelligence its own executive role"
+      ],
+      "body": [
+        "pharmaceuticalcommerce.com: The Role of Artificial Intelligence In Access Pharmaceutical Commerce",
+        "retaildetail.eu: Target gives artificial intelligence its own executive role RetailDetail EU"
+      ],
+      "l": [
+        {
+          "d": "pharmaceuticalcommerce.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYVQwcDlzMW9BbW1ETFJhWWItdVU1c0ZLb29Eb2hLUVRLaTZINU5wa3pwTjk5MkhKUzBXalBYajZITWRQY3ZPRGZBSEphQ0otOUpfelpyOTRBZnhqcUoxNVF4QTBOTk5wU3drREVXLS1TM0dwN3VYd3lSTlpiZzFSaHJHMnJsWWdyLTVDQWsyZHZFbEk?oc=5"
+        },
+        {
+          "d": "retaildetail.eu",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjFheXA2S25qbkw4anRMZm1iM2xWcE1RVVFDbVd6Y0hISDJGd2NYNmVCNmdsNE12WnVyYklzaDZlUndwSWg5OUNDcHN5cWhLMU1QTTA3QmxqREdpUlg0NmFkZDZ1WFRjRmRKYUtHUkowbVZPSl81WXJvN1N4WFQyOWlrb3VVbFcteUQ2ZWJFMERZWGFVZzVSaXBxMjIzMEpSc3Ew?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The Role of Artificial Intelligence In Access",
+        "Target gives artificial intelligence its own executive role"
       ]
     },
     {
@@ -138,38 +209,6 @@
       ],
       "srcTitles": [
         "From assistance to execution: How enterprises put AI to work"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 22,
-      "sources": 2,
-      "ts": "2026-08-12T13:57:06.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "The Role of Artificial Intelligence In Access",
-      "s": "The Role of Artificial Intelligence In Access Pharmaceutical Commerce",
-      "b": [
-        "pharmaceuticalcommerce.com: The Role of Artificial Intelligence In Access",
-        "retaildetail.eu: Target gives artificial intelligence its own executive role"
-      ],
-      "body": [
-        "pharmaceuticalcommerce.com: The Role of Artificial Intelligence In Access Pharmaceutical Commerce",
-        "retaildetail.eu: Target gives artificial intelligence its own executive role RetailDetail EU"
-      ],
-      "l": [
-        {
-          "d": "pharmaceuticalcommerce.com",
-          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYVQwcDlzMW9BbW1ETFJhWWItdVU1c0ZLb29Eb2hLUVRLaTZINU5wa3pwTjk5MkhKUzBXalBYajZITWRQY3ZPRGZBSEphQ0otOUpfelpyOTRBZnhqcUoxNVF4QTBOTk5wU3drREVXLS1TM0dwN3VYd3lSTlpiZzFSaHJHMnJsWWdyLTVDQWsyZHZFbEk?oc=5"
-        },
-        {
-          "d": "retaildetail.eu",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjFheXA2S25qbkw4anRMZm1iM2xWcE1RVVFDbVd6Y0hISDJGd2NYNmVCNmdsNE12WnVyYklzaDZlUndwSWg5OUNDcHN5cWhLMU1QTTA3QmxqREdpUlg0NmFkZDZ1WFRjRmRKYUtHUkowbVZPSl81WXJvN1N4WFQyOWlrb3VVbFcteUQ2ZWJFMERZWGFVZzVSaXBxMjIzMEpSc3Ew?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "The Role of Artificial Intelligence In Access",
-        "Target gives artificial intelligence its own executive role"
       ]
     },
     {
