@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 42,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-08-12T11:00:00.000Z",
       "writtenSources": 2,
@@ -34,8 +34,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-12T06:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "From assistance to execution: How enterprises put AI to work",
+      "s": "OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption.",
+      "b": [
+        "openai.com: From assistance to execution: How enterprises put AI to work"
+      ],
+      "body": [
+        "openai.com: OpenAI research reveals how enterprises are adopting agentic AI, using ChatGPT and Codex, and how frontier firms are pulling ahead in AI adoption."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/how-enterprises-put-ai-to-work"
+        }
+      ],
+      "srcTitles": [
+        "From assistance to execution: How enterprises put AI to work"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-08-12T04:00:00.000Z",
       "writtenSources": 2,
