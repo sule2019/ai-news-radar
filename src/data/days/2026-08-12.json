@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 70,
-      "sources": 3,
+      "signal": 74,
+      "sources": 4,
       "ts": "2026-08-12T17:29:10.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -32,12 +32,49 @@
         {
           "d": "arstechnica.com",
           "u": "https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260812/p52#a260812p52"
         }
       ],
       "srcTitles": [
         "Amazon will train on Twitch streamers content by default, unless they opt out",
         "Twitch streamers can now opt out from training Amazon’s AI",
-        "Twitch content has trained Amazon AI for years, but users can opt out now"
+        "Twitch content has trained Amazon AI for years, but users can opt out now",
+        "Twitch says it intends to use videos streamed on its platform to help train Amazon's generative AI models and tells creators how to opt out (Amanda Silberling/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-08-12T21:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The White House Is Going to Expand Its AI Policy",
+      "s": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+      "b": [
+        "wired.com: The White House Is Going to Expand Its AI Policy",
+        "techmeme.com: Sources: the White House is expected to expand its AI oversight framework in the coming months to cover open models once they reach frontier capabilities (Hugo Lowell/Wired)"
+      ],
+      "body": [
+        "wired.com: Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+        "techmeme.com: Hugo Lowell / Wired : Sources: the White House is expected to expand its AI oversight framework in the coming months to cover open models once they reach frontier capabilities Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260812/p53#a260812p53"
+        }
+      ],
+      "srcTitles": [
+        "The White House Is Going to Expand Its AI Policy",
+        "Sources: the White House is expected to expand its AI oversight framework in the coming months to cover open models once they reach frontier capabilities (Hugo Lowell/Wired)"
       ]
     },
     {
@@ -74,7 +111,7 @@
     },
     {
       "cat": "models",
-      "signal": 42,
+      "signal": 38,
       "sources": 2,
       "ts": "2026-08-12T14:00:00.000Z",
       "writtenSources": 2,
@@ -102,6 +139,38 @@
       "srcTitles": [
         "Google’s Pixel Watch 5 dives deeper into AI and health",
         "Google introduces an insulin-resistance trend feature that uses AI, an accelerometer, and other sensors, launching first on the Pixel Watch 5 and Fitbit devices (Samantha Kelly/Bloomberg)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-08-12T21:00:13.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Cisco reports Q4 revenue up 18% YoY to $17.25B, vs. $16.82B est., AI infrastructure orders from hyperscalers worth $4B, forecasts FY 2027 revenue above est. (Juby Babu/Reuters)",
+      "s": "Juby Babu / Reuters : Cisco reports Q4 revenue up 18% YoY to $17.25B, vs. $16.82B est., AI infrastructure orders from hyperscalers worth $4B, forecasts FY 2027 revenue above est. Cisco Systems (CSCO.O",
+      "b": [
+        "techmeme.com: Cisco reports Q4 revenue up 18% YoY to $17.25B, vs. $16.82B est., AI infrastructure orders from hyperscalers worth $4B, forecasts FY 2027 revenue above est. (Juby Babu/Reuters)",
+        "wsj.com: Cisco Reports Sharp Jump in Profit as AI Orders Roll In"
+      ],
+      "body": [
+        "techmeme.com: Juby Babu / Reuters : Cisco reports Q4 revenue up 18% YoY to $17.25B, vs. $16.82B est., AI infrastructure orders from hyperscalers worth $4B, forecasts FY 2027 revenue above est. Cisco Systems (CSCO.O) forecast fiscal 2027 revenue above Wall Street expectations on Wednesday, signaling confidence that strong demand",
+        "wsj.com: Cisco Reports Sharp Jump in Profit as AI Orders Roll In WSJ"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260812/p50#a260812p50"
+        },
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaUpDeW9CYVBYTUVteS1ZU1VKaWd4ZUVJeHlFdS1UaW42VENfSWZLbTJOWEV0eEtLWWE2Mm9GRWRoazdUdDlJcW5IS0hDWV9LX21pM3o5Vi1ta1NPSmJDd0VDSkNuWkJURDUwUUt0eUctbFpMMzB0a3R1Z2VxdkQ3WTJkMlQweko3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Cisco reports Q4 revenue up 18% YoY to $17.25B, vs. $16.82B est., AI infrastructure orders from hyperscalers worth $4B, forecasts FY 2027 revenue above est. (Juby Babu/Reuters)",
+        "Cisco Reports Sharp Jump in Profit as AI Orders Roll In"
       ]
     },
     {
@@ -266,43 +335,6 @@
       "srcTitles": [
         "AI code-testing startup Blacksmith s valuation jumps almost 10x in less than a year",
         "AI code-testing startup Blacksmith raised a $45M Series B led by Peak XV Partners at a $550M valuation, up from $60M after it raised a $10M Series A in 2025 (Jagmeet Singh/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 15,
-      "sources": 2,
-      "ts": "2026-08-12T04:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Streamflow From Generative AI",
-      "s": "Streamflow From Generative AI eos.org",
-      "b": [
-        "eos.org: Streamflow From Generative AI",
-        "arxiv.org: Innovating with Generative AI: A Human Bottleneck Framework",
-        "arxiv.org: Imaginative Generative AI: Crossing the Entropy Wall into Worlds Beyond Imitation"
-      ],
-      "body": [
-        "eos.org: Streamflow From Generative AI eos.org",
-        "arxiv.org: arXiv:2608.07504v1 Announce Type: cross Abstract: We propose a human bottleneck perspective for understanding how generative AI transforms the innovation process. The central premise is that many constraints traditionally plaguing the innovation process are cognitive and social in origin, rooted in how people generate ideas, evaluate novelty, and communicate through social systems. Generative AI does not act uniformly on these constraints. At each stage, it can deepen some bottlenecks while alleviating others, and predicting these outcomes requires understanding the underlying mechanisms of the constraint itself. We identify bottlenecks in four stages of the innovation process: ideation, screening and testing, preference measurement and consumer insight, diffusion, and market learning. By grounding analysis in human behavior rather than rapidly changing AI capabilities, we offer a framework for assessing whether new developments alleviate or intensify the bottlenecks that matter most at each stage. We also distinguish bottlenecks likely to narrow as capabilities improve from those rooted in enduring human constraints. We further discuss AI-related issues that cut across the entire innovation pipeline, challenging the very existence and structure of the traditional innovation process.",
-        "arxiv.org: arXiv:2608.09385v2 Announce Type: cross Abstract: Generative AI models are primarily designed to imitate the data distribution, an objective that neither corrects diversity lost by a learned generator nor defines how generation should extend beyond the diversity of the data itself. We introduce Imaginative Generative AI (IGA), a framework that makes diversity part of the target-distribution design problem: among distributions close to a reference, IGA selects one whose spectral diversity reaches a prescribed level. Diversity is measured by the von Neumann entropy of the generated distribution's kernel covariance operator in a fixed representation space, providing a reference-free representation-guided measure of how broadly probability mass occupies embedding directions. The spectral entropy of the population data distribution defines an Entropy Wall. Below the wall, IGA performs diversity repair, recovering variation that a learned generator has lost while remaining within the diversity level of the data. Beyond the wall, the data distribution itself becomes infeasible, and IGA deliberately departs from it to produce distributions with greater representation-relative spectral diversity, an operational notion of imaginative generation. These regimes form a single regularization path from imitation to imagination and define an i.i.d. target distribution at each prescribed diversity level. We develop the theory of this entropy-constrained projection and show that, under a KL anchor to a pretrained generator, the optimum satisfies a self-consistent exponential-tilt relation. This characterization leads to IGA Guidance, a retraining-free inference-time method for score-based and diffusion models, including DDPM and DDIM samplers. Experiments on synthetic and vision benchmarks demonstrate diversity repair below the Entropy Wall and controlled spectral extrapolation beyond it.",
-        "arxiv.org: arXiv:2608.09538v1 Announce Type: cross Abstract: We introduce TCS-Bench, a benchmark for evaluating Large Language Models (LLMs) on research-level Theoretical Computer Science (TCS) proof generation. TCS-Bench consists of theorem-proving tasks from papers published at top theoretical computer science venues (STOC, FOCS, and SODA). Each task provides the necessary context to derive a self-contained proof for a target result. We evaluate state-of-the-art models on this benchmark. We verify the correctness of generated proofs via a verification agent, and further benchmark the verifier against human-expert proof judgements on a set of target statements and generated proofs pairs. Our reference verifier achieves over 90% accuracy on the expert labeled set."
-      ],
-      "l": [
-        {
-          "d": "eos.org",
-          "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iOGxDSV9RdC1TeUZkR1JITWtTSEVVcVJubmQ2S1pMWVFyeXdUTWFOanJuZUJ4TlBQOUpfMy1NYXFHa1M5RVBVX2s3YmpneVA0dlU2Mkhvd24wdlQ5N29ZUUJ2Z0I2b2ttUkR2cC05OUo?oc=5"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2608.07504"
-        }
-      ],
-      "srcTitles": [
-        "Streamflow From Generative AI",
-        "Innovating with Generative AI: A Human Bottleneck Framework",
-        "Imaginative Generative AI: Crossing the Entropy Wall into Worlds Beyond Imitation",
-        "TCS-BENCH: Benchmarking State-of-the-Art Generative AI Theoretical Computer Science Research Ability"
       ]
     }
   ]
