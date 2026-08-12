@@ -35,6 +35,31 @@
     },
     {
       "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-12T14:01:59.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Putting sign language AI into users’ hands",
+      "s": "Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users.",
+      "b": [
+        "deepmind.google: Putting sign language AI into users’ hands"
+      ],
+      "body": [
+        "deepmind.google: Introducing sign-language-to-text (SL2T), our breakthrough model powering new sign language features for Deaf and hard of hearing users."
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/putting-sign-language-ai-into-users-hands/"
+        }
+      ],
+      "srcTitles": [
+        "Putting sign language AI into users’ hands"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 24,
       "sources": 1,
       "ts": "2026-08-12T06:00:00.000Z",
@@ -60,7 +85,7 @@
     },
     {
       "cat": "funding",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-08-12T04:00:00.000Z",
       "writtenSources": 2,
