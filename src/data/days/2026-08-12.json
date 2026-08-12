@@ -35,7 +35,7 @@
     },
     {
       "cat": "products",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-08-12T14:00:00.000Z",
       "writtenSources": 2,
@@ -92,38 +92,6 @@
     },
     {
       "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-08-12T13:57:06.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "The Role of Artificial Intelligence In Access",
-      "s": "The Role of Artificial Intelligence In Access Pharmaceutical Commerce",
-      "b": [
-        "pharmaceuticalcommerce.com: The Role of Artificial Intelligence In Access",
-        "retaildetail.eu: Target gives artificial intelligence its own executive role"
-      ],
-      "body": [
-        "pharmaceuticalcommerce.com: The Role of Artificial Intelligence In Access Pharmaceutical Commerce",
-        "retaildetail.eu: Target gives artificial intelligence its own executive role RetailDetail EU"
-      ],
-      "l": [
-        {
-          "d": "pharmaceuticalcommerce.com",
-          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYVQwcDlzMW9BbW1ETFJhWWItdVU1c0ZLb29Eb2hLUVRLaTZINU5wa3pwTjk5MkhKUzBXalBYajZITWRQY3ZPRGZBSEphQ0otOUpfelpyOTRBZnhqcUoxNVF4QTBOTk5wU3drREVXLS1TM0dwN3VYd3lSTlpiZzFSaHJHMnJsWWdyLTVDQWsyZHZFbEk?oc=5"
-        },
-        {
-          "d": "retaildetail.eu",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjFheXA2S25qbkw4anRMZm1iM2xWcE1RVVFDbVd6Y0hISDJGd2NYNmVCNmdsNE12WnVyYklzaDZlUndwSWg5OUNDcHN5cWhLMU1QTTA3QmxqREdpUlg0NmFkZDZ1WFRjRmRKYUtHUkowbVZPSl81WXJvN1N4WFQyOWlrb3VVbFcteUQ2ZWJFMERZWGFVZzVSaXBxMjIzMEpSc3Ew?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "The Role of Artificial Intelligence In Access",
-        "Target gives artificial intelligence its own executive role"
-      ]
-    },
-    {
-      "cat": "models",
       "signal": 24,
       "sources": 1,
       "ts": "2026-08-12T14:01:59.000Z",
@@ -170,6 +138,38 @@
       ],
       "srcTitles": [
         "From assistance to execution: How enterprises put AI to work"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-08-12T13:57:06.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Role of Artificial Intelligence In Access",
+      "s": "The Role of Artificial Intelligence In Access Pharmaceutical Commerce",
+      "b": [
+        "pharmaceuticalcommerce.com: The Role of Artificial Intelligence In Access",
+        "retaildetail.eu: Target gives artificial intelligence its own executive role"
+      ],
+      "body": [
+        "pharmaceuticalcommerce.com: The Role of Artificial Intelligence In Access Pharmaceutical Commerce",
+        "retaildetail.eu: Target gives artificial intelligence its own executive role RetailDetail EU"
+      ],
+      "l": [
+        {
+          "d": "pharmaceuticalcommerce.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYVQwcDlzMW9BbW1ETFJhWWItdVU1c0ZLb29Eb2hLUVRLaTZINU5wa3pwTjk5MkhKUzBXalBYajZITWRQY3ZPRGZBSEphQ0otOUpfelpyOTRBZnhqcUoxNVF4QTBOTk5wU3drREVXLS1TM0dwN3VYd3lSTlpiZzFSaHJHMnJsWWdyLTVDQWsyZHZFbEk?oc=5"
+        },
+        {
+          "d": "retaildetail.eu",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNjFheXA2S25qbkw4anRMZm1iM2xWcE1RVVFDbVd6Y0hISDJGd2NYNmVCNmdsNE12WnVyYklzaDZlUndwSWg5OUNDcHN5cWhLMU1QTTA3QmxqREdpUlg0NmFkZDZ1WFRjRmRKYUtHUkowbVZPSl81WXJvN1N4WFQyOWlrb3VVbFcteUQ2ZWJFMERZWGFVZzVSaXBxMjIzMEpSc3Ew?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The Role of Artificial Intelligence In Access",
+        "Target gives artificial intelligence its own executive role"
       ]
     },
     {
