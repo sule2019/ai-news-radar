@@ -76,8 +76,8 @@
     },
     {
       "cat": "products",
-      "signal": 67,
-      "sources": 3,
+      "signal": 60,
+      "sources": 2,
       "ts": "2026-08-13T09:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -99,21 +99,16 @@
         {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260813/p35#a260813p35"
-        },
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanpyWG9TUlY1bmUyNnZOR3lBdFBoYlVpYWYwYXdNd0ZaZkxWaEJSaWNSeF9idVI1RVF6YzBrRy10UUVOSnBDcUtZN09qZWpqcVJVTGVFQzFobk9PZlRCNWVOTU5aeThhb1BZbE0zcmgzN0Q2SHhxTF9vdWRWUUxDZHJhdlplS1NCWldmTWRWaFF1NV8tU2pj?oc=5"
         }
       ],
       "srcTitles": [
         "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "OpenAI hires Dali Rajic, COO of Alphabet's Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave (Shirin Ghaffary/Bloomberg)",
-        "OpenAI Replaces Chief Revenue Officer After Just 8 Months"
+        "OpenAI hires Dali Rajic, COO of Alphabet's Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave (Shirin Ghaffary/Bloomberg)"
       ]
     },
     {
       "cat": "funding",
-      "signal": 59,
+      "signal": 56,
       "sources": 2,
       "ts": "2026-08-13T11:57:43.000Z",
       "writtenSources": 2,
@@ -341,7 +336,7 @@
     },
     {
       "cat": "funding",
-      "signal": 23,
+      "signal": 19,
       "sources": 2,
       "ts": "2026-08-13T10:53:28.000Z",
       "writtenSources": 2,
