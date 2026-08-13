@@ -3,7 +3,39 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 31,
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-08-13T11:57:43.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "DeepSeek raises API pricing for its V4 models",
+      "s": "DeepSeek raises API pricing for its V4 models reuters.com",
+      "b": [
+        "reuters.com: DeepSeek raises API pricing for its V4 models",
+        "wmbdradio.com: DeepSeek raises API pricing for its V4 models"
+      ],
+      "body": [
+        "reuters.com: DeepSeek raises API pricing for its V4 models reuters.com",
+        "wmbdradio.com: DeepSeek raises API pricing for its V4 models 1470 & 100.3 WMBD"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNS0VIYlk0czVDRGdnTGVvU2oyMlpoazd4TGE1RkhIRTlVdUxiWlRGMFBzd1N0c0ZFb1lJanpLTUU5WVZnT0JCUC1ITVJ1RlhlWENDTjlpT2RMRC1xMXRJbU1kZ1FOb2JGcHU0cXlXdGlQVDdXT2dKQUZ6dEF3VG5Pd0J0ZmtCWDlldWtubkpXUVhHS3c?oc=5"
+        },
+        {
+          "d": "wmbdradio.com",
+          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSnpUb2lTdGpZNUpJaFdBcFE5bk1CdWFQbFV0Rjc3OTM1UXJZTjNNQ0hGR2VXeDRuVkhWZmcwSTNXMFRDODRBaVA0QXlUOG00Q1l0TVNVU2JFRl9WeG12bXVxQ1hPdE1td1BJalB2SEYwTlNCdnlUNXRQc3Y2V01mdVREV1BYQQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "DeepSeek raises API pricing for its V4 models",
+        "DeepSeek raises API pricing for its V4 models"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 27,
       "sources": 3,
       "ts": "2026-08-13T01:50:00.000Z",
       "writtenSources": 2,
@@ -97,7 +129,7 @@
     },
     {
       "cat": "policy",
-      "signal": 17,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-13T06:10:00.000Z",
       "writtenSources": 2,
