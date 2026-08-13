@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 59,
+      "signal": 55,
       "sources": 3,
       "ts": "2026-08-13T01:50:00.000Z",
       "writtenSources": 2,
@@ -36,6 +36,38 @@
         "Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
         "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
         "Anthropic Said in Talks to Buy Startup Decart for $6 Billion"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-08-13T06:10:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Taiwan says it detected AI-assisted cyberattack campaign from overseas targeting government agencies last month, but affected agencies successfully \"handled\" it (Reuters)",
+      "s": "Reuters : Taiwan says it detected AI-assisted cyberattack campaign from overseas targeting government agencies last month, but affected agencies successfully handled it Taiwan detected AI-assisted cyb",
+      "b": [
+        "techmeme.com: Taiwan says it detected AI-assisted cyberattack campaign from overseas targeting government agencies last month, but affected agencies successfully \"handled\" it (Reuters)",
+        "yahoo.com: Taiwan says AI agents used in cyberattacks targeting island"
+      ],
+      "body": [
+        "techmeme.com: Reuters : Taiwan says it detected AI-assisted cyberattack campaign from overseas targeting government agencies last month, but affected agencies successfully handled it Taiwan detected AI-assisted cyberattacks on government agencies last month coming from overseas but the affected bodies successfully",
+        "yahoo.com: Taiwan says AI agents used in cyberattacks targeting island Yahoo"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260813/p8#a260813p8"
+        },
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPV0xqYTJLRnhiZGVTTlhORV9lSXVFWHlTVEJLcE52VWJxZ19YWElUdFBvSnQtUjZrb0I4SXQ4UnNCZHpaWmJpM0QwbHl5WDJXOVV2dU1WM1pvVmV0MVkwUDhIVTdtUEpKc2l6WlpJSVU4U0dod0U3VmhOaTVOZ2dWa2NncnpiR1FIdUc0?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Taiwan says it detected AI-assisted cyberattack campaign from overseas targeting government agencies last month, but affected agencies successfully \"handled\" it (Reuters)",
+        "Taiwan says AI agents used in cyberattacks targeting island"
       ]
     }
   ]
