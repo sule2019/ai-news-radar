@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 75,
+      "signal": 72,
       "sources": 3,
       "ts": "2026-08-13T17:00:13.000Z",
       "writtenSources": 3,
@@ -41,8 +41,8 @@
     },
     {
       "cat": "models",
-      "signal": 60,
-      "sources": 2,
+      "signal": 69,
+      "sources": 3,
       "ts": "2026-08-13T10:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
@@ -60,12 +60,17 @@
           "u": "https://openai.com/index/previewing-ultrafast"
         },
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/"
+        },
+        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260813/p39#a260813p39"
         }
       ],
       "srcTitles": [
         "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+        "OpenAI introduces Ultrafast, a new mode that makes GPT 5.6 Sol work at 14x the speed",
         "OpenAI previews Ultrafast, an API tier powered by Cerebras that runs GPT-5.6 Sol up to 14× faster and generates up to 750 output tokens per second (Zac Hall/9to5Mac)"
       ]
     },
@@ -103,7 +108,7 @@
     },
     {
       "cat": "funding",
-      "signal": 52,
+      "signal": 59,
       "sources": 2,
       "ts": "2026-08-13T11:57:43.000Z",
       "writtenSources": 2,
@@ -124,13 +129,45 @@
           "u": "https://www.techmeme.com/260813/p31#a260813p31"
         },
         {
-          "d": "wtvbam.com",
-          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVVFzV0huTkdqZk1OSEJFZkh5b0h3dWZZcnN6RkRDSW1ZcDdtdU03eFVJX2czVHBVS25ZckhXWGhxOHA3dEFNUWtiNF9LR2owWlp4VXNYWExrZ0VsMFBkZUc3VnVMbmhjbUVYY256N2ZCMXUwOVpWdEJ4YmF4b095Z2RR?oc=5"
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPM3B3RnBONVBFR2YyOE9tcFJvRjVsbUYxVVdacDNNajUxTEdJa1BPRkdvb09xNFVNMnQ2aDlxUjU4d3JHeVB3WTRGdlM0cVgtYng2enVZaUc5RUR3V2x4MHMzZ19aMFQ2Z0FVbWJVNktkdFRPOE83bFp1VHhxTkZpSUxIUGN0bFJGVDlaYzVtNnJWcGV6RWQ0UGhzMzFnX282dDNRSDdmRS1KOXNRM3lodlliWE9ReWo4OXZkSnNrUTJsWUdK?oc=5"
         }
       ],
       "srcTitles": [
         "DeepSeek raises prices, adding dynamic pricing, ahead of a potential IPO; V4-Flash output tokens go from $0.28/1M to $1.32 during peak hours and $0.66 off-peak (Saritha Rai/Bloomberg)",
-        "DeepSeek raises API pricing for its V4 models"
+        "DeepSeek Introduces Peak-Hour Pricing That Quadruples Current Levels"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-08-13T10:08:43.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "IBM partners with OpenAI to bolster enterprise AI push",
+      "s": "IBM plans to train and certify tens and thousands of consultants on OpenAI's technologies as part of this deal.",
+      "b": [
+        "techcrunch.com: IBM partners with OpenAI to bolster enterprise AI push",
+        "newsroom.ibm.com: IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations"
+      ],
+      "body": [
+        "techcrunch.com: IBM plans to train and certify tens and thousands of consultants on OpenAI's technologies as part of this deal.",
+        "newsroom.ibm.com: IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations IBM Newsroom"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/13/ibm-partners-with-openai-to-bolster-enterprise-ai-push/"
+        },
+        {
+          "d": "newsroom.ibm.com",
+          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOR3p4N3M0WXh3TEJGWUxEMDVucXFKc0lfSW9Qa19WeE9FUXowbTB4ZXdra1U0dlJic2o3dlJkMExvV3dWN1ZfM3VuTmd4TWI3OFF3S3o4aG9Yb09QZG1fUDBmWUo4eEpfMFh5cFZud3ZOS05FcnlnMGpoTGUxWndpcTl6OHRWcl9ucENIN0RjTS1tRzB6eEpNSjREXzJWdnQyeXpxdXpnMzJsMS1La0FHSmUycllIQTlhc3hUM1BjZTk1STJIcGR4WjMxcWs4UlE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "IBM partners with OpenAI to bolster enterprise AI push",
+        "IBM Partners with OpenAI to Accelerate Secure AI Deployment for Enterprises Across Core Operations"
       ]
     },
     {
@@ -192,7 +229,7 @@
     },
     {
       "cat": "funding",
-      "signal": 35,
+      "signal": 31,
       "sources": 2,
       "ts": "2026-08-13T10:53:28.000Z",
       "writtenSources": 2,
@@ -224,7 +261,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-08-13T16:45:00.000Z",
       "writtenSources": 1,
@@ -245,38 +282,6 @@
       ],
       "srcTitles": [
         "Bring your spreadsheet data to life with Sheets canvas"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 27,
-      "sources": 2,
-      "ts": "2026-08-13T12:56:28.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "DeepSeek releases official V4 Pro model as it steps up expansion",
-      "s": "DeepSeek releases official V4 Pro model as it steps up expansion Reuters",
-      "b": [
-        "reuters.com: DeepSeek releases official V4 Pro model as it steps up expansion",
-        "asia.nikkei.com: DeepSeek releases official V4 Pro model with sharply higher user prices"
-      ],
-      "body": [
-        "reuters.com: DeepSeek releases official V4 Pro model as it steps up expansion Reuters",
-        "asia.nikkei.com: DeepSeek releases official V4 Pro model with sharply higher user prices Nikkei Asia"
-      ],
-      "l": [
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBOcmxUZXZzV20xU1pZMnI1X0JKRzV1SUJwcGhzaE1JZDZfUTZqVDZMVXNhUHFoY295SHZuLWZZbTlXa1AtUmI2dkRhRWliRXFBYzdZQlROdUVzZ2dNc2pHLUhvdTFBSVpSTW9SaHBQUnJubTdMX2FQUkhHTDhiUGtiZDUxLTRQXzRrZERqSzlOSXZpMWYxUzVWeXFCdW1HZEVWbWMtVDhFU1BCSkE?oc=5"
-        },
-        {
-          "d": "asia.nikkei.com",
-          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVnNWV1J2dkJoaGViYk84TWhrd19Hc0pEMlBodmdsMjVfZGRmMUpGdUIwMzdURXJiZmdEVy1UTzRPa2dUX0pjMWZud1pfWlp0V0gxVW1qLXpSUER5S1puR1UxWDZPWldMaGpjYm40RmNaVHA0MV9TRFNoS3VOTEMydWVZVTJ5MFg5Q2JTM3h4dTdqSWp4MEVvTnJYTUZVU3Y0WmJBTk9QNjYxLVJtX1Bud25MZV9pU0xCWUNSbzJmTTFHdnJtWllKSDN6aHF5RTJFTXVyOTln?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "DeepSeek releases official V4 Pro model as it steps up expansion",
-        "DeepSeek releases official V4 Pro model with sharply higher user prices"
       ]
     },
     {
@@ -330,8 +335,40 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 23,
+      "sources": 2,
+      "ts": "2026-08-13T12:56:28.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "DeepSeek releases official V4 Pro model as it steps up expansion",
+      "s": "DeepSeek releases official V4 Pro model as it steps up expansion Reuters",
+      "b": [
+        "reuters.com: DeepSeek releases official V4 Pro model as it steps up expansion",
+        "asia.nikkei.com: DeepSeek releases official V4 Pro model with sharply higher user prices"
+      ],
+      "body": [
+        "reuters.com: DeepSeek releases official V4 Pro model as it steps up expansion Reuters",
+        "asia.nikkei.com: DeepSeek releases official V4 Pro model with sharply higher user prices Nikkei Asia"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBOcmxUZXZzV20xU1pZMnI1X0JKRzV1SUJwcGhzaE1JZDZfUTZqVDZMVXNhUHFoY295SHZuLWZZbTlXa1AtUmI2dkRhRWliRXFBYzdZQlROdUVzZ2dNc2pHLUhvdTFBSVpSTW9SaHBQUnJubTdMX2FQUkhHTDhiUGtiZDUxLTRQXzRrZERqSzlOSXZpMWYxUzVWeXFCdW1HZEVWbWMtVDhFU1BCSkE?oc=5"
+        },
+        {
+          "d": "asia.nikkei.com",
+          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVnNWV1J2dkJoaGViYk84TWhrd19Hc0pEMlBodmdsMjVfZGRmMUpGdUIwMzdURXJiZmdEVy1UTzRPa2dUX0pjMWZud1pfWlp0V0gxVW1qLXpSUER5S1puR1UxWDZPWldMaGpjYm40RmNaVHA0MV9TRFNoS3VOTEMydWVZVTJ5MFg5Q2JTM3h4dTdqSWp4MEVvTnJYTUZVU3Y0WmJBTk9QNjYxLVJtX1Bud25MZV9pU0xCWUNSbzJmTTFHdnJtWllKSDN6aHF5RTJFTXVyOTln?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "DeepSeek releases official V4 Pro model as it steps up expansion",
+        "DeepSeek releases official V4 Pro model with sharply higher user prices"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-08-13T16:28:54.000Z",
       "writtenSources": 2,
