@@ -3,6 +3,44 @@
   "stories": [
     {
       "cat": "products",
+      "signal": 75,
+      "sources": 3,
+      "ts": "2026-08-13T17:00:13.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Introducing Gemini 3.7 Flash",
+      "s": "Covered by 3 outlets.",
+      "b": [
+        "blog.google: Introducing Gemini 3.7 Flash",
+        "arstechnica.com: Google announces Gemini 3.7 Flash just three weeks after previous release",
+        "techmeme.com: Google unveils Gemini 3.7 Flash, its \"most intelligent workhorse model\" for coding and agents, pricing it at $0.75/1M input and $3.75/1M output tokens at launch (Tulsee Doshi/Google)"
+      ],
+      "body": [
+        "arstechnica.com: Google is announcing a new Gemini model today, but it's not the long-awaited 3.5 Pro. Gemini 3.7 Flash is now rolling out to replace 3.6 Flash, which itself was released only three weeks ago . This new \"workhorse\" model is supposedly the product of core optimizations and developer feedback, offering improved coding and agentic performance. And Google is hoping to counter the lower cost of some competing models with a lower \"introductory price\" for 3.7 Flash. According to Senior Director Tulsee Doshi, Gemini 3.7 Flash is noticeably better at coding than the previous Flash release. She cites a jump in the FrontierCode 1.1 Main test from 34.4 to 43.6 percent and DeepSWE v1.1 going from 49 to 65.3 percent. As for the vibes, Gemini 3.7 Flash's WebDev Arena score has risen to 1,588 from 1,538. People turning to Gemini and hoping it will \"know\" things may also see modest improvements in Gemini 3.7 Flash. The GDP.pdf benchmark, which measures how well a model can process complex documents, has gone up to 34 percent versus 22 percent with 3.6 Flash. AutomationBench tests how well models can execute common business workflows, and Gemini 3.7 Flash rose to 30.4 percent from 3.6's 17 percent score. Read full article Comments",
+        "techmeme.com: Tulsee Doshi / Google : Google unveils Gemini 3.7 Flash, its most intelligent workhorse model for coding and agents, pricing it at $0.75/1M input and $3.75/1M output tokens at launch Our most intelligent workhorse model yet for coding and agents. Senior Director, Product Management, on behalf of the Gemini team"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260813/p38#a260813p38"
+        }
+      ],
+      "srcTitles": [
+        "Introducing Gemini 3.7 Flash",
+        "Google announces Gemini 3.7 Flash just three weeks after previous release",
+        "Google unveils Gemini 3.7 Flash, its \"most intelligent workhorse model\" for coding and agents, pricing it at $0.75/1M input and $3.75/1M output tokens at launch (Tulsee Doshi/Google)"
+      ]
+    },
+    {
+      "cat": "products",
       "signal": 60,
       "sources": 2,
       "ts": "2026-08-13T09:00:00.000Z",
@@ -35,7 +73,7 @@
     },
     {
       "cat": "funding",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-08-13T10:53:28.000Z",
       "writtenSources": 2,
@@ -66,8 +104,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-13T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
+      "s": "Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second.",
+      "b": [
+        "openai.com: Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed"
+      ],
+      "body": [
+        "openai.com: Preview Ultrafast, a new OpenAI API service tier that runs GPT-5.6 Sol up to 14× faster. Powered by Cerebras, it delivers up to 750 output tokens per second."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/previewing-ultrafast"
+        }
+      ],
+      "srcTitles": [
+        "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-08-13T01:50:00.000Z",
       "writtenSources": 2,
@@ -99,7 +162,7 @@
     },
     {
       "cat": "products",
-      "signal": 43,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-08-13T12:56:28.000Z",
       "writtenSources": 2,
@@ -131,7 +194,7 @@
     },
     {
       "cat": "funding",
-      "signal": 38,
+      "signal": 34,
       "sources": 2,
       "ts": "2026-08-13T11:57:43.000Z",
       "writtenSources": 2,
@@ -244,38 +307,6 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 18,
-      "sources": 2,
-      "ts": "2026-08-13T01:47:29.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "‘The genie is out of the bottle’: Chico event teaches small businesses to use AI - Chico Enterprise-Record",
-      "s": "‘The genie is out of the bottle’: Chico event teaches small businesses to use AI Chico Enterprise-Record",
-      "b": [
-        "chicoer.com: ‘The genie is out of the bottle’: Chico event teaches small businesses to use AI - Chico Enterprise-Record",
-        "krcrtv.com: Chico workshop helps small businesses explore AI tools"
-      ],
-      "body": [
-        "chicoer.com: ‘The genie is out of the bottle’: Chico event teaches small businesses to use AI Chico Enterprise-Record",
-        "krcrtv.com: Chico workshop helps small businesses explore AI tools KRCR"
-      ],
-      "l": [
-        {
-          "d": "chicoer.com",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnp5Ny1TbEc1V0hxNm5OVUg5MzU5TzdRbXRWU05pNFZxQXZKa1RUYU42NHltS09yd3Fxc1JWQlhuc1JKaVJZVm9TRE5aRFMyMEFpeXBOMWVZT1dqNVdIZ09GLWdlWVZrM3VLVlVBb0tQc3Fna19XcmVrR1BvUG5MODdtYVNzd2p5cWdvSFFZYS1xaHpDd0RkYWFTY21OVDF0aHdKQlFycWp3SFR3alI0YlIyOA?oc=5"
-        },
-        {
-          "d": "krcrtv.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHFpdl9VWXgxY2VndkZoUjF0QlVJRkxpenB1U2tYWHk2RlktbER6TGt2Q0s1WWlNZEdpN2l4dDRNaGtLWFBHbzlJeGhhZUFfdnlRQXlWeWdZZ3dLT01IeTBSOGhjOC1IMnJGRkhhNW5VN1hRYnJyTEQzOGZ5MjVPSHlHd18yVkk3R09Qag?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "‘The genie is out of the bottle’: Chico event teaches small businesses to use AI - Chico Enterprise-Record",
-        "Chico workshop helps small businesses explore AI tools"
-      ]
-    },
-    {
       "cat": "policy",
       "signal": 15,
       "sources": 2,
@@ -305,6 +336,38 @@
       "srcTitles": [
         "Taiwan says it detected AI-assisted cyberattack campaign from overseas targeting government agencies last month, but affected agencies successfully \"handled\" it (Reuters)",
         "Taiwan says AI agents used in cyberattacks targeting island"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-08-13T01:47:29.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "‘The genie is out of the bottle’: Chico event teaches small businesses to use AI - Chico Enterprise-Record",
+      "s": "‘The genie is out of the bottle’: Chico event teaches small businesses to use AI Chico Enterprise-Record",
+      "b": [
+        "chicoer.com: ‘The genie is out of the bottle’: Chico event teaches small businesses to use AI - Chico Enterprise-Record",
+        "krcrtv.com: Chico workshop helps small businesses explore AI tools"
+      ],
+      "body": [
+        "chicoer.com: ‘The genie is out of the bottle’: Chico event teaches small businesses to use AI Chico Enterprise-Record",
+        "krcrtv.com: Chico workshop helps small businesses explore AI tools KRCR"
+      ],
+      "l": [
+        {
+          "d": "chicoer.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnp5Ny1TbEc1V0hxNm5OVUg5MzU5TzdRbXRWU05pNFZxQXZKa1RUYU42NHltS09yd3Fxc1JWQlhuc1JKaVJZVm9TRE5aRFMyMEFpeXBOMWVZT1dqNVdIZ09GLWdlWVZrM3VLVlVBb0tQc3Fna19XcmVrR1BvUG5MODdtYVNzd2p5cWdvSFFZYS1xaHpDd0RkYWFTY21OVDF0aHdKQlFycWp3SFR3alI0YlIyOA?oc=5"
+        },
+        {
+          "d": "krcrtv.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHFpdl9VWXgxY2VndkZoUjF0QlVJRkxpenB1U2tYWHk2RlktbER6TGt2Q0s1WWlNZEdpN2l4dDRNaGtLWFBHbzlJeGhhZUFfdnlRQXlWeWdZZ3dLT01IeTBSOGhjOC1IMnJGRkhhNW5VN1hRYnJyTEQzOGZ5MjVPSHlHd18yVkk3R09Qag?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "‘The genie is out of the bottle’: Chico event teaches small businesses to use AI - Chico Enterprise-Record",
+        "Chico workshop helps small businesses explore AI tools"
       ]
     }
   ]
