@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 35,
+      "signal": 31,
       "sources": 3,
       "ts": "2026-08-13T01:50:00.000Z",
       "writtenSources": 2,
@@ -64,8 +64,40 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-13T01:47:29.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "‘The genie is out of the bottle’: Chico event teaches small businesses to use AI - Chico Enterprise-Record",
+      "s": "‘The genie is out of the bottle’: Chico event teaches small businesses to use AI Chico Enterprise-Record",
+      "b": [
+        "chicoer.com: ‘The genie is out of the bottle’: Chico event teaches small businesses to use AI - Chico Enterprise-Record",
+        "krcrtv.com: Chico workshop helps small businesses explore AI tools"
+      ],
+      "body": [
+        "chicoer.com: ‘The genie is out of the bottle’: Chico event teaches small businesses to use AI Chico Enterprise-Record",
+        "krcrtv.com: Chico workshop helps small businesses explore AI tools KRCR"
+      ],
+      "l": [
+        {
+          "d": "chicoer.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnp5Ny1TbEc1V0hxNm5OVUg5MzU5TzdRbXRWU05pNFZxQXZKa1RUYU42NHltS09yd3Fxc1JWQlhuc1JKaVJZVm9TRE5aRFMyMEFpeXBOMWVZT1dqNVdIZ09GLWdlWVZrM3VLVlVBb0tQc3Fna19XcmVrR1BvUG5MODdtYVNzd2p5cWdvSFFZYS1xaHpDd0RkYWFTY21OVDF0aHdKQlFycWp3SFR3alI0YlIyOA?oc=5"
+        },
+        {
+          "d": "krcrtv.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHFpdl9VWXgxY2VndkZoUjF0QlVJRkxpenB1U2tYWHk2RlktbER6TGt2Q0s1WWlNZEdpN2l4dDRNaGtLWFBHbzlJeGhhZUFfdnlRQXlWeWdZZ3dLT01IeTBSOGhjOC1IMnJGRkhhNW5VN1hRYnJyTEQzOGZ5MjVPSHlHd18yVkk3R09Qag?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "‘The genie is out of the bottle’: Chico event teaches small businesses to use AI - Chico Enterprise-Record",
+        "Chico workshop helps small businesses explore AI tools"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-08-13T06:10:00.000Z",
       "writtenSources": 2,
