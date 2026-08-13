@@ -70,14 +70,14 @@
       ],
       "srcTitles": [
         "Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed",
-        "OpenAI introduces Ultrafast, a new mode that makes GPT 5.6 Sol work at 14x the speed",
+        "OpenAI introduces Ultrafast, a new mode that makes GPT-5.6 Sol work at 14x the speed",
         "OpenAI previews Ultrafast, an API tier powered by Cerebras that runs GPT-5.6 Sol up to 14× faster and generates up to 750 output tokens per second (Zac Hall/9to5Mac)"
       ]
     },
     {
       "cat": "products",
-      "signal": 60,
-      "sources": 2,
+      "signal": 67,
+      "sources": 3,
       "ts": "2026-08-13T09:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -99,16 +99,21 @@
         {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260813/p35#a260813p35"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanpyWG9TUlY1bmUyNnZOR3lBdFBoYlVpYWYwYXdNd0ZaZkxWaEJSaWNSeF9idVI1RVF6YzBrRy10UUVOSnBDcUtZN09qZWpqcVJVTGVFQzFobk9PZlRCNWVOTU5aeThhb1BZbE0zcmgzN0Q2SHhxTF9vdWRWUUxDZHJhdlplS1NCWldmTWRWaFF1NV8tU2pj?oc=5"
         }
       ],
       "srcTitles": [
         "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "OpenAI hires Dali Rajic, COO of Alphabet's Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave (Shirin Ghaffary/Bloomberg)"
+        "OpenAI hires Dali Rajic, COO of Alphabet's Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave (Shirin Ghaffary/Bloomberg)",
+        "OpenAI Replaces Chief Revenue Officer After Just 8 Months"
       ]
     },
     {
       "cat": "funding",
-      "signal": 55,
+      "signal": 59,
       "sources": 2,
       "ts": "2026-08-13T11:57:43.000Z",
       "writtenSources": 2,
@@ -140,7 +145,7 @@
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 56,
       "sources": 2,
       "ts": "2026-08-13T10:08:43.000Z",
       "writtenSources": 2,
@@ -172,7 +177,39 @@
     },
     {
       "cat": "funding",
-      "signal": 47,
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-08-13T08:59:18.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Common Health Coalition receives funding from OpenAI Foundation for new initiative",
+      "s": "Common Health Coalition receives funding from OpenAI Foundation for new initiative American Hospital Association",
+      "b": [
+        "aha.org: Common Health Coalition receives funding from OpenAI Foundation for new initiative",
+        "fiercehealthcare.com: Common Health Coalition secures $100M from OpenAI Foundation to boost hepatitis C cure rates"
+      ],
+      "body": [
+        "aha.org: Common Health Coalition receives funding from OpenAI Foundation for new initiative American Hospital Association",
+        "fiercehealthcare.com: Common Health Coalition secures $100M from OpenAI Foundation to boost hepatitis C cure rates Fierce Healthcare"
+      ],
+      "l": [
+        {
+          "d": "aha.org",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWXN5UDVubVJ2aVdLcml1aW4yNHRnZVh2WHZhRmxFWV9IUXAydFlKQnBGVUZoMWNsamFKV0hTRW0weFdqOXZLQkFJYUpudDA4NThaRmRVREpraW9wVm9RMUZQd1AtQmtydEhISHFwaEhMQU1acDVCR1hOT1piUEM3bWxpUWNRNnBmanQyZlYtUWRJMzFVTTdjYXhsakxKMlFnUHMzVGFmbzRKWHhBSWl5RkF1SktXQUk5bFE?oc=5"
+        },
+        {
+          "d": "fiercehealthcare.com",
+          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYXlTeTQxMmZZN182NWg2WGxzeVo0QnR6VG5IUzNDd1Z1cG93aXBlbjkyWDF0SUo1VDQ0c1YtTEs5ZHdkYUpieUdLdjhad2hYWVpjVzRaLWlYSXJKTzRib1BkMzNiS01mcGJKZnA1QTllWjlDYVhnVmhmc2cxUzNXZzhHLWJ1d01TS1ZSMF9JZ1BxY1B1NDN4OGlMU2xPZXNkUERJQ3BzZ0djWWxLblUxeGU1MzFIX1Framxtb01PaFR1UWUzQVVNS1NR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Common Health Coalition receives funding from OpenAI Foundation for new initiative",
+        "Common Health Coalition secures $100M from OpenAI Foundation to boost hepatitis C cure rates"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 48,
       "sources": 2,
       "ts": "2026-08-13T01:50:00.000Z",
       "writtenSources": 2,
@@ -225,38 +262,6 @@
       ],
       "srcTitles": [
         "The builder’s guide to GPT‑5.6"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 27,
-      "sources": 2,
-      "ts": "2026-08-13T10:53:28.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Anthropic could be worth $2 trillion when it goes public",
-      "s": "Anthropic investors expect the AI startup to float at a valuation of $2 trillion or more in October, a dizzying figure that would eclipse SpaceX and make the AI lab’s debut the largest-ever initial pu",
-      "b": [
-        "arstechnica.com: Anthropic could be worth $2 trillion when it goes public",
-        "pymnts.com: Anthropic Could Seek $2 Trillion Valuation in Record IPO"
-      ],
-      "body": [
-        "arstechnica.com: Anthropic investors expect the AI startup to float at a valuation of $2 trillion or more in October, a dizzying figure that would eclipse SpaceX and make the AI lab’s debut the largest-ever initial public offering. Half a dozen of the company’s backers told the FT that Anthropic’s rapidly rising revenue would enable it to more than double its current valuation in a planned autumn float. A listing at that level could unlock billions of dollars in gains for the five-year-old company’s early investors but would also test public markets that are growing more nervous about the AI boom. Read full article Comments",
-        "pymnts.com: Anthropic Could Seek $2 Trillion Valuation in Record IPO PYMNTS.com"
-      ],
-      "l": [
-        {
-          "d": "arstechnica.com",
-          "u": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/"
-        },
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOczF0TkV3bWxTOEVNVTRPWmZSRUc2eGwxbVdUaTJPZ3lyNmYtdFhleTEzZzFfemdkM3lLQ0dyeGdiQ0UwdXJocm95ZGxxQVNzNXBVV1FYWDM4Y0pfQ2dkQ3BLLXFpbk5wSXFJV2dQVmZzNlYzNHdxVUh3UGJvVkJrSHJERlNpazFuemptdU9rZlhMNU5sMFlmdDl0QVhBSDdTVjBFVWI2UE5iRHJYcXY3WWZRaw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic could be worth $2 trillion when it goes public",
-        "Anthropic Could Seek $2 Trillion Valuation in Record IPO"
       ]
     },
     {
@@ -335,35 +340,35 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 19,
+      "cat": "funding",
+      "signal": 23,
       "sources": 2,
-      "ts": "2026-08-13T12:56:28.000Z",
+      "ts": "2026-08-13T10:53:28.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "DeepSeek releases official V4 Pro model as it steps up expansion",
-      "s": "DeepSeek releases official V4 Pro model as it steps up expansion Reuters",
+      "h": "Anthropic could be worth $2 trillion when it goes public",
+      "s": "Anthropic investors expect the AI startup to float at a valuation of $2 trillion or more in October, a dizzying figure that would eclipse SpaceX and make the AI lab’s debut the largest-ever initial pu",
       "b": [
-        "reuters.com: DeepSeek releases official V4 Pro model as it steps up expansion",
-        "asia.nikkei.com: DeepSeek releases official V4 Pro model with sharply higher user prices"
+        "arstechnica.com: Anthropic could be worth $2 trillion when it goes public",
+        "pymnts.com: Anthropic Could Seek $2 Trillion Valuation in Record IPO"
       ],
       "body": [
-        "reuters.com: DeepSeek releases official V4 Pro model as it steps up expansion Reuters",
-        "asia.nikkei.com: DeepSeek releases official V4 Pro model with sharply higher user prices Nikkei Asia"
+        "arstechnica.com: Anthropic investors expect the AI startup to float at a valuation of $2 trillion or more in October, a dizzying figure that would eclipse SpaceX and make the AI lab’s debut the largest-ever initial public offering. Half a dozen of the company’s backers told the FT that Anthropic’s rapidly rising revenue would enable it to more than double its current valuation in a planned autumn float. A listing at that level could unlock billions of dollars in gains for the five-year-old company’s early investors but would also test public markets that are growing more nervous about the AI boom. Read full article Comments",
+        "pymnts.com: Anthropic Could Seek $2 Trillion Valuation in Record IPO PYMNTS.com"
       ],
       "l": [
         {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBOcmxUZXZzV20xU1pZMnI1X0JKRzV1SUJwcGhzaE1JZDZfUTZqVDZMVXNhUHFoY295SHZuLWZZbTlXa1AtUmI2dkRhRWliRXFBYzdZQlROdUVzZ2dNc2pHLUhvdTFBSVpSTW9SaHBQUnJubTdMX2FQUkhHTDhiUGtiZDUxLTRQXzRrZERqSzlOSXZpMWYxUzVWeXFCdW1HZEVWbWMtVDhFU1BCSkE?oc=5"
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/"
         },
         {
-          "d": "asia.nikkei.com",
-          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVnNWV1J2dkJoaGViYk84TWhrd19Hc0pEMlBodmdsMjVfZGRmMUpGdUIwMzdURXJiZmdEVy1UTzRPa2dUX0pjMWZud1pfWlp0V0gxVW1qLXpSUER5S1puR1UxWDZPWldMaGpjYm40RmNaVHA0MV9TRFNoS3VOTEMydWVZVTJ5MFg5Q2JTM3h4dTdqSWp4MEVvTnJYTUZVU3Y0WmJBTk9QNjYxLVJtX1Bud25MZV9pU0xCWUNSbzJmTTFHdnJtWllKSDN6aHF5RTJFTXVyOTln?oc=5"
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOczF0TkV3bWxTOEVNVTRPWmZSRUc2eGwxbVdUaTJPZ3lyNmYtdFhleTEzZzFfemdkM3lLQ0dyeGdiQ0UwdXJocm95ZGxxQVNzNXBVV1FYWDM4Y0pfQ2dkQ3BLLXFpbk5wSXFJV2dQVmZzNlYzNHdxVUh3UGJvVkJrSHJERlNpazFuemptdU9rZlhMNU5sMFlmdDl0QVhBSDdTVjBFVWI2UE5iRHJYcXY3WWZRaw?oc=5"
         }
       ],
       "srcTitles": [
-        "DeepSeek releases official V4 Pro model as it steps up expansion",
-        "DeepSeek releases official V4 Pro model with sharply higher user prices"
+        "Anthropic could be worth $2 trillion when it goes public",
+        "Anthropic Could Seek $2 Trillion Valuation in Record IPO"
       ]
     },
     {
@@ -396,6 +401,38 @@
       "srcTitles": [
         "An AI agent for all? Try using your brain, Mark Zuckerberg",
         "Your AI Agents Are Using Your Credentials"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-08-13T12:56:28.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "DeepSeek releases official V4 Pro model as it steps up expansion",
+      "s": "DeepSeek releases official V4 Pro model as it steps up expansion Reuters",
+      "b": [
+        "reuters.com: DeepSeek releases official V4 Pro model as it steps up expansion",
+        "asia.nikkei.com: DeepSeek releases official V4 Pro model with sharply higher user prices"
+      ],
+      "body": [
+        "reuters.com: DeepSeek releases official V4 Pro model as it steps up expansion Reuters",
+        "asia.nikkei.com: DeepSeek releases official V4 Pro model with sharply higher user prices Nikkei Asia"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBOcmxUZXZzV20xU1pZMnI1X0JKRzV1SUJwcGhzaE1JZDZfUTZqVDZMVXNhUHFoY295SHZuLWZZbTlXa1AtUmI2dkRhRWliRXFBYzdZQlROdUVzZ2dNc2pHLUhvdTFBSVpSTW9SaHBQUnJubTdMX2FQUkhHTDhiUGtiZDUxLTRQXzRrZERqSzlOSXZpMWYxUzVWeXFCdW1HZEVWbWMtVDhFU1BCSkE?oc=5"
+        },
+        {
+          "d": "asia.nikkei.com",
+          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVnNWV1J2dkJoaGViYk84TWhrd19Hc0pEMlBodmdsMjVfZGRmMUpGdUIwMzdURXJiZmdEVy1UTzRPa2dUX0pjMWZud1pfWlp0V0gxVW1qLXpSUER5S1puR1UxWDZPWldMaGpjYm40RmNaVHA0MV9TRFNoS3VOTEMydWVZVTJ5MFg5Q2JTM3h4dTdqSWp4MEVvTnJYTUZVU3Y0WmJBTk9QNjYxLVJtX1Bud25MZV9pU0xCWUNSbzJmTTFHdnJtWllKSDN6aHF5RTJFTXVyOTln?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "DeepSeek releases official V4 Pro model as it steps up expansion",
+        "DeepSeek releases official V4 Pro model with sharply higher user prices"
       ]
     },
     {
