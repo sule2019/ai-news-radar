@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 47,
+      "signal": 43,
       "sources": 3,
       "ts": "2026-08-13T01:50:00.000Z",
       "writtenSources": 2,
@@ -39,8 +39,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-13T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How kids feel about AI, in their own words",
+      "s": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope",
+      "b": [
+        "technologyreview.com: How kids feel about AI, in their own words"
+      ],
+      "body": [
+        "technologyreview.com: When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were using it. We were also listening for concerns that were less kid-specific, like deepfakes or job destruction. But what we actually heard when we asked kids aged 10 to 18 about AI had tons of nuance. Many of the same kids who can go on and on about music, rock climbing, or soccer met our questions with words like “bruh” and “meh”—or were so deeply against AI or uninterested in making it part of their lives that they didn’t want to talk about it at all. One teen said his peers use it for things they know they shouldn’t, like writing papers. One told us she won’t touch AI because of the environmental impact. A few said they find the whole field disheartening: “AI isn’t the solution to our problems,” said Winter, a 17-year-old. “I’m afraid it’s going to be the end of creativity and critical thinking.” Yet most of the kids we asked admitted to using AI at least a little bit. AI doesn’t yet seem to be something a lot of elementary- or middle-school-age kids we spoke to are focused on—and they aren’t begging for it, the way they do for iPhones and Snapchat accounts. Many told us that some of their first AI encounters came from their parents or schools. Sometimes, they said, it’s just embedded in the devices and apps they already rely on. It’s just there, in things like a Google search. What we heard tracks with the data. In a survey published in February 2026 , the Pew Research Center found that 57% of teens in the US had used chatbots to search for information, 54% tapped them to help with schoolwork, and 47% had used them for fun or entertainment. Only 12% had used them for emotional support or advice. Teens are over four times more likely to be using AI in innocuous way"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
+        }
+      ],
+      "srcTitles": [
+        "How kids feel about AI, in their own words"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 33,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-08-13T06:10:00.000Z",
       "writtenSources": 2,
@@ -68,31 +93,6 @@
       "srcTitles": [
         "Taiwan says it detected AI-assisted cyberattack campaign from overseas targeting government agencies last month, but affected agencies successfully \"handled\" it (Reuters)",
         "Taiwan says AI agents used in cyberattacks targeting island"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 30,
-      "sources": 1,
-      "ts": "2026-08-13T09:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "How kids feel about AI, in their own words",
-      "s": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope",
-      "b": [
-        "technologyreview.com: How kids feel about AI, in their own words"
-      ],
-      "body": [
-        "technologyreview.com: When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were using it. We were also listening for concerns that were less kid-specific, like deepfakes or job destruction. But what we actually heard when we asked kids aged 10 to 18 about AI had tons of nuance. Many of the same kids who can go on and on about music, rock climbing, or soccer met our questions with words like “bruh” and “meh”—or were so deeply against AI or uninterested in making it part of their lives that they didn’t want to talk about it at all. One teen said his peers use it for things they know they shouldn’t, like writing papers. One told us she won’t touch AI because of the environmental impact. A few said they find the whole field disheartening: “AI isn’t the solution to our problems,” said Winter, a 17-year-old. “I’m afraid it’s going to be the end of creativity and critical thinking.” Yet most of the kids we asked admitted to using AI at least a little bit. AI doesn’t yet seem to be something a lot of elementary- or middle-school-age kids we spoke to are focused on—and they aren’t begging for it, the way they do for iPhones and Snapchat accounts. Many told us that some of their first AI encounters came from their parents or schools. Sometimes, they said, it’s just embedded in the devices and apps they already rely on. It’s just there, in things like a Google search. What we heard tracks with the data. In a survey published in February 2026 , the Pew Research Center found that 57% of teens in the US had used chatbots to search for information, 54% tapped them to help with schoolwork, and 47% had used them for fun or entertainment. Only 12% had used them for emotional support or advice. Teens are over four times more likely to be using AI in innocuous way"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
-        }
-      ],
-      "srcTitles": [
-        "How kids feel about AI, in their own words"
       ]
     }
   ]
