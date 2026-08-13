@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 74,
-      "sources": 4,
+      "signal": 69,
+      "sources": 3,
       "ts": "2026-08-13T17:00:13.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -31,17 +31,12 @@
         {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260813/p38#a260813p38"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5"
         }
       ],
       "srcTitles": [
         "Introducing Gemini 3.7 Flash",
         "Google announces Gemini 3.7 Flash just three weeks after previous release",
-        "Google unveils Gemini 3.7 Flash, its \"most intelligent workhorse model\" for coding and agents, pricing it at $0.75/1M input and $3.75/1M output tokens at launch (Tulsee Doshi/Google)",
-        "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows"
+        "Google unveils Gemini 3.7 Flash, its \"most intelligent workhorse model\" for coding and agents, pricing it at $0.75/1M input and $3.75/1M output tokens at launch (Tulsee Doshi/Google)"
       ]
     },
     {
@@ -234,7 +229,7 @@
     },
     {
       "cat": "funding",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-08-13T11:57:43.000Z",
       "writtenSources": 2,
