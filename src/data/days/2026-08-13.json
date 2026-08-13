@@ -1,4 +1,37 @@
 {
   "date": "2026-08-13",
-  "stories": []
+  "stories": [
+    {
+      "cat": "funding",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-08-13T01:50:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
+      "s": "Bloomberg : Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B Anthropic PBC is in talks to buy the artificial intelligence ",
+      "b": [
+        "techmeme.com: Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
+        "finance.yahoo.com: Anthropic Said in Talks to Buy Startup Decart for $6 Billion"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B Anthropic PBC is in talks to buy the artificial intelligence startup Decart AI for about $6 billion, according to people familiar with the matter.",
+        "finance.yahoo.com: Anthropic Said in Talks to Buy Startup Decart for $6 Billion Yahoo Finance"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260812/p56#a260812p56"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0lraXlNdFZaSnNiVTByNTBSSFNkRlVleERhdEFmTVJjblpKT3p5T0JaSU13dDA0TmNQRV9RN1Q0bUx5bS14b2Nvc3Y4SjB3WUZkRVZ2OGpubmg5WkxPLW9DT1hKMnFlVXNPUW5uOXpscFFzNHh3QkdVSXUxRVJDYWVGZUtDY0FVS2NSUUY5em1CVUhuRm1Fa2Y3dXA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
+        "Anthropic Said in Talks to Buy Startup Decart for $6 Billion"
+      ]
+    }
+  ]
 }
