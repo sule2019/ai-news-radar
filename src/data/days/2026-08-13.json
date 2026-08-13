@@ -2,8 +2,40 @@
   "date": "2026-08-13",
   "stories": [
     {
+      "cat": "products",
+      "signal": 60,
+      "sources": 2,
+      "ts": "2026-08-13T09:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+      "s": "OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+      "b": [
+        "openai.com: OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "techmeme.com: OpenAI hires Dali Rajic, COO of Alphabet's Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave (Shirin Ghaffary/Bloomberg)"
+      ],
+      "body": [
+        "openai.com: OpenAI appoints Dali Rajic as Chief Revenue Officer to lead its global revenue organization and help businesses realize the full value of AI.",
+        "techmeme.com: Shirin Ghaffary / Bloomberg : OpenAI hires Dali Rajic, COO of Alphabet's Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave OpenAI is naming its second new chief revenue officer in less than a year, a sign of efforts to bolster sales growth ahead of a highly anticipated Wall Street debut."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/dali-rajic-chief-revenue-officer"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260813/p35#a260813p35"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI appoints Dali Rajic as Chief Revenue Officer",
+        "OpenAI hires Dali Rajic, COO of Alphabet's Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave (Shirin Ghaffary/Bloomberg)"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 55,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-08-13T10:53:28.000Z",
       "writtenSources": 2,
@@ -34,8 +66,40 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-08-13T01:50:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
+      "s": "Bloomberg : Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B Anthropic PBC is in talks to buy the artificial intelligence ",
+      "b": [
+        "techmeme.com: Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
+        "finance.yahoo.com: Anthropic Said in Talks to Buy Startup Decart for $6 Billion"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B Anthropic PBC is in talks to buy the artificial intelligence startup Decart AI for about $6 billion, according to people familiar with the matter.",
+        "finance.yahoo.com: Anthropic Said in Talks to Buy Startup Decart for $6 Billion Yahoo Finance"
+      ],
+      "l": [
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYmhTOHd3SFlqR29UcG9nY2Y0ZlpITjgybXM5eF9ka1pzOUd2NDlNNHNCdXlHUFowTzVyYkZHV0ZSUFJTMkdZNldHZGctVk12RW1fOWRjUlNoeXh2SVNTVC1HdjFZSzNuamZ1U1VRTjNTZ2ZtbExQZG5KQ1FGZGI4aTR5aDRXWVFsMDNIek93Nm5ROVRBRkpPMjJMTjhXdFNyQVl4Mjliblo5Y1h1Q0xQVGcwcw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
+        "Anthropic Pursues $6 Billion Decart Deal to Cut AI Costs"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 47,
+      "signal": 43,
       "sources": 2,
       "ts": "2026-08-13T12:56:28.000Z",
       "writtenSources": 2,
@@ -67,7 +131,7 @@
     },
     {
       "cat": "funding",
-      "signal": 42,
+      "signal": 38,
       "sources": 2,
       "ts": "2026-08-13T11:57:43.000Z",
       "writtenSources": 2,
@@ -95,6 +159,38 @@
       "srcTitles": [
         "DeepSeek raises API pricing for its V4 models",
         "DeepSeek raises API pricing for its V4 models"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-08-13T16:28:54.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "An AI agent for all? Try using your brain, Mark Zuckerberg",
+      "s": "An AI agent for all? Try using your brain, Mark Zuckerberg The Guardian",
+      "b": [
+        "theguardian.com: An AI agent for all? Try using your brain, Mark Zuckerberg",
+        "blog.gitguardian.com: Your AI Agents Are Using Your Credentials"
+      ],
+      "body": [
+        "theguardian.com: An AI agent for all? Try using your brain, Mark Zuckerberg The Guardian",
+        "blog.gitguardian.com: Your AI Agents Are Using Your Credentials GitGuardian Blog"
+      ],
+      "l": [
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUQzZVJhT1NBYkxxQ2FFTlZ4Wk4zcmw3VGktbFB1VXBrOXVBenRwOEU3dFVOcUFPekR1MkZSaTdJY3BTNjEtUHFaOVBjMFFUQ0EweFc0WEJWN0ZMRDh3N1ZybjdWdnNoeVN0ZldOSlhJUHRaZGMxX25GcTNzSlpBM3N3b2ptUVNCWDNBMHBMdk1fTlFnU05OcVJKemowVUk5TEdpUDJQV01xbnM?oc=5"
+        },
+        {
+          "d": "blog.gitguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JSy1JLXF5bHloeE04TnJIQnhRTnRDSVZ0a3V4VVZPSUZDUndyV2hNa3NNeGVrSEU5d0FTakN2RTNFOFBBbzczanVjdE82WGg1dEZCN0pDM0phVmc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "An AI agent for all? Try using your brain, Mark Zuckerberg",
+        "Your AI Agents Are Using Your Credentials"
       ]
     },
     {
@@ -149,7 +245,7 @@
     },
     {
       "cat": "products",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-08-13T01:47:29.000Z",
       "writtenSources": 2,
@@ -177,43 +273,6 @@
       "srcTitles": [
         "‘The genie is out of the bottle’: Chico event teaches small businesses to use AI - Chico Enterprise-Record",
         "Chico workshop helps small businesses explore AI tools"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 15,
-      "sources": 3,
-      "ts": "2026-08-13T01:50:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
-      "s": "Bloomberg : Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B Anthropic PBC is in talks to buy the artificial intelligence ",
-      "b": [
-        "techmeme.com: Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
-        "finance.yahoo.com: Anthropic Said in Talks to Buy Startup Decart for $6 Billion"
-      ],
-      "body": [
-        "techmeme.com: Bloomberg : Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B Anthropic PBC is in talks to buy the artificial intelligence startup Decart AI for about $6 billion, according to people familiar with the matter.",
-        "finance.yahoo.com: Anthropic Said in Talks to Buy Startup Decart for $6 Billion Yahoo Finance"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260812/p56#a260812p56"
-        },
-        {
-          "d": "bloomberg.com",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5"
-        },
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0lraXlNdFZaSnNiVTByNTBSSFNkRlVleERhdEFmTVJjblpKT3p5T0JaSU13dDA0TmNQRV9RN1Q0bUx5bS14b2Nvc3Y4SjB3WUZkRVZ2OGpubmg5WkxPLW9DT1hKMnFlVXNPUW5uOXpscFFzNHh3QkdVSXUxRVJDYWVGZUtDY0FVS2NSUUY5em1CVUhuRm1Fa2Y3dXA?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
-        "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
-        "Anthropic Said in Talks to Buy Startup Decart for $6 Billion"
       ]
     },
     {
