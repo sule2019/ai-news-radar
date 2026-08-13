@@ -34,8 +34,40 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-08-13T12:56:28.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "DeepSeek releases official V4 Pro model as it steps up expansion",
+      "s": "DeepSeek releases official V4 Pro model as it steps up expansion Reuters",
+      "b": [
+        "reuters.com: DeepSeek releases official V4 Pro model as it steps up expansion",
+        "asia.nikkei.com: DeepSeek releases official V4 Pro model with sharply higher user prices"
+      ],
+      "body": [
+        "reuters.com: DeepSeek releases official V4 Pro model as it steps up expansion Reuters",
+        "asia.nikkei.com: DeepSeek releases official V4 Pro model with sharply higher user prices Nikkei Asia"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzBOcmxUZXZzV20xU1pZMnI1X0JKRzV1SUJwcGhzaE1JZDZfUTZqVDZMVXNhUHFoY295SHZuLWZZbTlXa1AtUmI2dkRhRWliRXFBYzdZQlROdUVzZ2dNc2pHLUhvdTFBSVpSTW9SaHBQUnJubTdMX2FQUkhHTDhiUGtiZDUxLTRQXzRrZERqSzlOSXZpMWYxUzVWeXFCdW1HZEVWbWMtVDhFU1BCSkE?oc=5"
+        },
+        {
+          "d": "asia.nikkei.com",
+          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNVnNWV1J2dkJoaGViYk84TWhrd19Hc0pEMlBodmdsMjVfZGRmMUpGdUIwMzdURXJiZmdEVy1UTzRPa2dUX0pjMWZud1pfWlp0V0gxVW1qLXpSUER5S1puR1UxWDZPWldMaGpjYm40RmNaVHA0MV9TRFNoS3VOTEMydWVZVTJ5MFg5Q2JTM3h4dTdqSWp4MEVvTnJYTUZVU3Y0WmJBTk9QNjYxLVJtX1Bud25MZV9pU0xCWUNSbzJmTTFHdnJtWllKSDN6aHF5RTJFTXVyOTln?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "DeepSeek releases official V4 Pro model as it steps up expansion",
+        "DeepSeek releases official V4 Pro model with sharply higher user prices"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 50,
+      "signal": 46,
       "sources": 2,
       "ts": "2026-08-13T11:57:43.000Z",
       "writtenSources": 2,
@@ -149,7 +181,7 @@
     },
     {
       "cat": "funding",
-      "signal": 23,
+      "signal": 19,
       "sources": 3,
       "ts": "2026-08-13T01:50:00.000Z",
       "writtenSources": 2,
