@@ -103,7 +103,7 @@
     },
     {
       "cat": "funding",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-08-13T11:57:43.000Z",
       "writtenSources": 2,
@@ -166,8 +166,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-13T11:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The builder’s guide to GPT‑5.6",
+      "s": "Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities.",
+      "b": [
+        "openai.com: The builder’s guide to GPT‑5.6"
+      ],
+      "body": [
+        "openai.com: Learn how startups use GPT-5.6 to build faster, more cost-efficient AI agents with smarter model selection and new Responses API capabilities."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/builders-guide-to-gpt-5-6"
+        }
+      ],
+      "srcTitles": [
+        "The builder’s guide to GPT‑5.6"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-08-13T10:53:28.000Z",
       "writtenSources": 2,
@@ -198,8 +223,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-13T16:45:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Bring your spreadsheet data to life with Sheets canvas",
+      "s": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
+      "b": [
+        "blog.google: Bring your spreadsheet data to life with Sheets canvas"
+      ],
+      "body": [
+        "blog.google: Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
+        }
+      ],
+      "srcTitles": [
+        "Bring your spreadsheet data to life with Sheets canvas"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 31,
+      "signal": 27,
       "sources": 2,
       "ts": "2026-08-13T12:56:28.000Z",
       "writtenSources": 2,
@@ -231,32 +281,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
-      "sources": 1,
-      "ts": "2026-08-13T16:45:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Bring your spreadsheet data to life with Sheets canvas",
-      "s": "Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt.",
-      "b": [
-        "blog.google: Bring your spreadsheet data to life with Sheets canvas"
-      ],
-      "body": [
-        "blog.google: Sheets canvas turns data into interactive dashboards, custom study trackers, seating charts, and more, all with a simple prompt."
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/products-and-platforms/products/workspace/sheets-canvas-for-google-sheets-spreadsheets/"
-        }
-      ],
-      "srcTitles": [
-        "Bring your spreadsheet data to life with Sheets canvas"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-08-13T13:41:10.000Z",
       "writtenSources": 1,
@@ -282,6 +307,31 @@
     {
       "cat": "models",
       "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-13T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How kids feel about AI, in their own words",
+      "s": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope",
+      "b": [
+        "technologyreview.com: How kids feel about AI, in their own words"
+      ],
+      "body": [
+        "technologyreview.com: When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were using it. We were also listening for concerns that were less kid-specific, like deepfakes or job destruction. But what we actually heard when we asked kids aged 10 to 18 about AI had tons of nuance. Many of the same kids who can go on and on about music, rock climbing, or soccer met our questions with words like “bruh” and “meh”—or were so deeply against AI or uninterested in making it part of their lives that they didn’t want to talk about it at all. One teen said his peers use it for things they know they shouldn’t, like writing papers. One told us she won’t touch AI because of the environmental impact. A few said they find the whole field disheartening: “AI isn’t the solution to our problems,” said Winter, a 17-year-old. “I’m afraid it’s going to be the end of creativity and critical thinking.” Yet most of the kids we asked admitted to using AI at least a little bit. AI doesn’t yet seem to be something a lot of elementary- or middle-school-age kids we spoke to are focused on—and they aren’t begging for it, the way they do for iPhones and Snapchat accounts. Many told us that some of their first AI encounters came from their parents or schools. Sometimes, they said, it’s just embedded in the devices and apps they already rely on. It’s just there, in things like a Google search. What we heard tracks with the data. In a survey published in February 2026 , the Pew Research Center found that 57% of teens in the US had used chatbots to search for information, 54% tapped them to help with schoolwork, and 47% had used them for fun or entertainment. Only 12% had used them for emotional support or advice. Teens are over four times more likely to be using AI in innocuous way"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
+        }
+      ],
+      "srcTitles": [
+        "How kids feel about AI, in their own words"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 20,
       "sources": 2,
       "ts": "2026-08-13T16:28:54.000Z",
       "writtenSources": 2,
@@ -309,31 +359,6 @@
       "srcTitles": [
         "An AI agent for all? Try using your brain, Mark Zuckerberg",
         "Your AI Agents Are Using Your Credentials"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-08-13T09:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "How kids feel about AI, in their own words",
-      "s": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope",
-      "b": [
-        "technologyreview.com: How kids feel about AI, in their own words"
-      ],
-      "body": [
-        "technologyreview.com: When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were using it. We were also listening for concerns that were less kid-specific, like deepfakes or job destruction. But what we actually heard when we asked kids aged 10 to 18 about AI had tons of nuance. Many of the same kids who can go on and on about music, rock climbing, or soccer met our questions with words like “bruh” and “meh”—or were so deeply against AI or uninterested in making it part of their lives that they didn’t want to talk about it at all. One teen said his peers use it for things they know they shouldn’t, like writing papers. One told us she won’t touch AI because of the environmental impact. A few said they find the whole field disheartening: “AI isn’t the solution to our problems,” said Winter, a 17-year-old. “I’m afraid it’s going to be the end of creativity and critical thinking.” Yet most of the kids we asked admitted to using AI at least a little bit. AI doesn’t yet seem to be something a lot of elementary- or middle-school-age kids we spoke to are focused on—and they aren’t begging for it, the way they do for iPhones and Snapchat accounts. Many told us that some of their first AI encounters came from their parents or schools. Sometimes, they said, it’s just embedded in the devices and apps they already rely on. It’s just there, in things like a Google search. What we heard tracks with the data. In a survey published in February 2026 , the Pew Research Center found that 57% of teens in the US had used chatbots to search for information, 54% tapped them to help with schoolwork, and 47% had used them for fun or entertainment. Only 12% had used them for emotional support or advice. Teens are over four times more likely to be using AI in innocuous way"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
-        }
-      ],
-      "srcTitles": [
-        "How kids feel about AI, in their own words"
       ]
     },
     {
