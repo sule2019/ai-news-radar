@@ -3,7 +3,39 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 54,
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-08-13T10:53:28.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic could be worth $2 trillion when it goes public",
+      "s": "Anthropic investors expect the AI startup to float at a valuation of $2 trillion or more in October, a dizzying figure that would eclipse SpaceX and make the AI lab’s debut the largest-ever initial pu",
+      "b": [
+        "arstechnica.com: Anthropic could be worth $2 trillion when it goes public",
+        "pymnts.com: Anthropic Could Seek $2 Trillion Valuation in Record IPO"
+      ],
+      "body": [
+        "arstechnica.com: Anthropic investors expect the AI startup to float at a valuation of $2 trillion or more in October, a dizzying figure that would eclipse SpaceX and make the AI lab’s debut the largest-ever initial public offering. Half a dozen of the company’s backers told the FT that Anthropic’s rapidly rising revenue would enable it to more than double its current valuation in a planned autumn float. A listing at that level could unlock billions of dollars in gains for the five-year-old company’s early investors but would also test public markets that are growing more nervous about the AI boom. Read full article Comments",
+        "pymnts.com: Anthropic Could Seek $2 Trillion Valuation in Record IPO PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/08/anthropic-could-be-worth-2-trillion-when-it-goes-public/"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOczF0TkV3bWxTOEVNVTRPWmZSRUc2eGwxbVdUaTJPZ3lyNmYtdFhleTEzZzFfemdkM3lLQ0dyeGdiQ0UwdXJocm95ZGxxQVNzNXBVV1FYWDM4Y0pfQ2dkQ3BLLXFpbk5wSXFJV2dQVmZzNlYzNHdxVUh3UGJvVkJrSHJERlNpazFuemptdU9rZlhMNU5sMFlmdDl0QVhBSDdTVjBFVWI2UE5iRHJYcXY3WWZRaw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic could be worth $2 trillion when it goes public",
+        "Anthropic Could Seek $2 Trillion Valuation in Record IPO"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 50,
       "sources": 2,
       "ts": "2026-08-13T11:57:43.000Z",
       "writtenSources": 2,
@@ -34,65 +66,28 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 27,
-      "sources": 3,
-      "ts": "2026-08-13T01:50:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
-      "s": "Bloomberg : Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B Anthropic PBC is in talks to buy the artificial intelligence ",
-      "b": [
-        "techmeme.com: Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
-        "finance.yahoo.com: Anthropic Said in Talks to Buy Startup Decart for $6 Billion"
-      ],
-      "body": [
-        "techmeme.com: Bloomberg : Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B Anthropic PBC is in talks to buy the artificial intelligence startup Decart AI for about $6 billion, according to people familiar with the matter.",
-        "finance.yahoo.com: Anthropic Said in Talks to Buy Startup Decart for $6 Billion Yahoo Finance"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260812/p56#a260812p56"
-        },
-        {
-          "d": "bloomberg.com",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5"
-        },
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0lraXlNdFZaSnNiVTByNTBSSFNkRlVleERhdEFmTVJjblpKT3p5T0JaSU13dDA0TmNQRV9RN1Q0bUx5bS14b2Nvc3Y4SjB3WUZkRVZ2OGpubmg5WkxPLW9DT1hKMnFlVXNPUW5uOXpscFFzNHh3QkdVSXUxRVJDYWVGZUtDY0FVS2NSUUY5em1CVUhuRm1Fa2Y3dXA?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
-        "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
-        "Anthropic Said in Talks to Buy Startup Decart for $6 Billion"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 27,
+      "signal": 30,
       "sources": 1,
-      "ts": "2026-08-13T09:00:00.000Z",
+      "ts": "2026-08-13T13:41:10.000Z",
       "writtenSources": 1,
       "draft": true,
-      "h": "How kids feel about AI, in their own words",
-      "s": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope",
+      "h": "Flock is tightening its rules in response to a growing surveillance backlash",
+      "s": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back ",
       "b": [
-        "technologyreview.com: How kids feel about AI, in their own words"
+        "technologyreview.com: Flock is tightening its rules in response to a growing surveillance backlash"
       ],
       "body": [
-        "technologyreview.com: When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were using it. We were also listening for concerns that were less kid-specific, like deepfakes or job destruction. But what we actually heard when we asked kids aged 10 to 18 about AI had tons of nuance. Many of the same kids who can go on and on about music, rock climbing, or soccer met our questions with words like “bruh” and “meh”—or were so deeply against AI or uninterested in making it part of their lives that they didn’t want to talk about it at all. One teen said his peers use it for things they know they shouldn’t, like writing papers. One told us she won’t touch AI because of the environmental impact. A few said they find the whole field disheartening: “AI isn’t the solution to our problems,” said Winter, a 17-year-old. “I’m afraid it’s going to be the end of creativity and critical thinking.” Yet most of the kids we asked admitted to using AI at least a little bit. AI doesn’t yet seem to be something a lot of elementary- or middle-school-age kids we spoke to are focused on—and they aren’t begging for it, the way they do for iPhones and Snapchat accounts. Many told us that some of their first AI encounters came from their parents or schools. Sometimes, they said, it’s just embedded in the devices and apps they already rely on. It’s just there, in things like a Google search. What we heard tracks with the data. In a survey published in February 2026 , the Pew Research Center found that 57% of teens in the US had used chatbots to search for information, 54% tapped them to help with schoolwork, and 47% had used them for fun or entertainment. Only 12% had used them for emotional support or advice. Teens are over four times more likely to be using AI in innocuous way"
+        "technologyreview.com: The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines: officers abusing Flock’s technology to stalk and harass current or former romantic partners. Flock’s 120,000 cameras form a nationwide network that police departments can use, giving officers access to an enormous pool of searchable location data. A recent Washington Post investigation found 46 cases in which officers were accused of using Flock s cameras for unauthorized purposes like stalking. To combat that, the company will start requiring officers to enter a criminal case number before conducting a search. The system was launched as an option last year but is now required. It’s meant to verify that each search has a legitimate purpose. This is a baseline standard that civil liberties groups have asked for, but officers have found ways around similar safeguards. The ACLU recently found that when Flock required officers to enter a reason for a search, some used generic terms like “investigation” or mocked the prompt entirely; at one Oregon department, officers entered “hehehe” 20 times . Because Flock won’t verify case numbers, officers could circumvent the new safeguard just as easily. But Flock is now expanding an automatic auditing system that is supposed to catch those who try that, the firm announced today The feature analyzes officer search activity and flags to administrators anyone with suspicious searches. This was also introduced as an option last year but is now mandatory. Flock has not shared specifics on how accurate the automatic auditing tool is, nor opened it up to independent evaluators. Beyond trying to prevent officer abuse, Flock is making changes meant to address broader backlash about how much data its "
       ],
       "l": [
         {
           "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
+          "u": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/"
         }
       ],
       "srcTitles": [
-        "How kids feel about AI, in their own words"
+        "Flock is tightening its rules in response to a growing surveillance backlash"
       ]
     },
     {
@@ -125,6 +120,68 @@
       "srcTitles": [
         "‘The genie is out of the bottle’: Chico event teaches small businesses to use AI - Chico Enterprise-Record",
         "Chico workshop helps small businesses explore AI tools"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-13T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How kids feel about AI, in their own words",
+      "s": "When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers ope",
+      "b": [
+        "technologyreview.com: How kids feel about AI, in their own words"
+      ],
+      "body": [
+        "technologyreview.com: When we set out to talk to kids about artificial intelligence, we thought we knew what we’d hear. We expected some to tell us they were using it to cheat a little, the way Millennials and Gen Xers opened up CliffsNotes or programmed formulas into their TI-82s, and others to share inspiring ways they were using it. We were also listening for concerns that were less kid-specific, like deepfakes or job destruction. But what we actually heard when we asked kids aged 10 to 18 about AI had tons of nuance. Many of the same kids who can go on and on about music, rock climbing, or soccer met our questions with words like “bruh” and “meh”—or were so deeply against AI or uninterested in making it part of their lives that they didn’t want to talk about it at all. One teen said his peers use it for things they know they shouldn’t, like writing papers. One told us she won’t touch AI because of the environmental impact. A few said they find the whole field disheartening: “AI isn’t the solution to our problems,” said Winter, a 17-year-old. “I’m afraid it’s going to be the end of creativity and critical thinking.” Yet most of the kids we asked admitted to using AI at least a little bit. AI doesn’t yet seem to be something a lot of elementary- or middle-school-age kids we spoke to are focused on—and they aren’t begging for it, the way they do for iPhones and Snapchat accounts. Many told us that some of their first AI encounters came from their parents or schools. Sometimes, they said, it’s just embedded in the devices and apps they already rely on. It’s just there, in things like a Google search. What we heard tracks with the data. In a survey published in February 2026 , the Pew Research Center found that 57% of teens in the US had used chatbots to search for information, 54% tapped them to help with schoolwork, and 47% had used them for fun or entertainment. Only 12% had used them for emotional support or advice. Teens are over four times more likely to be using AI in innocuous way"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/13/1141410/how-kids-feel-about-ai-own-words/"
+        }
+      ],
+      "srcTitles": [
+        "How kids feel about AI, in their own words"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 23,
+      "sources": 3,
+      "ts": "2026-08-13T01:50:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
+      "s": "Bloomberg : Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B Anthropic PBC is in talks to buy the artificial intelligence ",
+      "b": [
+        "techmeme.com: Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
+        "finance.yahoo.com: Anthropic Said in Talks to Buy Startup Decart for $6 Billion"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B Anthropic PBC is in talks to buy the artificial intelligence startup Decart AI for about $6 billion, according to people familiar with the matter.",
+        "finance.yahoo.com: Anthropic Said in Talks to Buy Startup Decart for $6 Billion Yahoo Finance"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260812/p56#a260812p56"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcndiYjc4YjFtVWFuSWFlRDlpRENlLTV6R1NscU5wS2tCZW1YU1RTQlFDczBmelUxaDJDVVk4SlRuZ2t4cEtNbEw4eVJ6cnBwVGNHOHhadTVKREx2c0QyazF0bF9qeDlVLTJkY21GNjdzdXhJaGVMb1R2UnQ2eDNpSTVqcENRRE1nVWNhNm1IMUVpX0VkRDNyZzVxTmhjc181c0QtbkNCWjVGeXVEeEFic254TQ?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb0lraXlNdFZaSnNiVTByNTBSSFNkRlVleERhdEFmTVJjblpKT3p5T0JaSU13dDA0TmNQRV9RN1Q0bUx5bS14b2Nvc3Y4SjB3WUZkRVZ2OGpubmg5WkxPLW9DT1hKMnFlVXNPUW5uOXpscFFzNHh3QkdVSXUxRVJDYWVGZUtDY0FVS2NSUUY5em1CVUhuRm1Fa2Y3dXA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: Anthropic is in talks to buy Decart, which offers real-time generative video and GPU optimization tech, for about $6B (Bloomberg)",
+        "Anthropic Said in Talks to Buy Startup Decart for $6 Billion",
+        "Anthropic Said in Talks to Buy Startup Decart for $6 Billion"
       ]
     },
     {
