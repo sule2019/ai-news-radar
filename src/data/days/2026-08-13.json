@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 69,
-      "sources": 3,
+      "signal": 74,
+      "sources": 4,
       "ts": "2026-08-13T17:00:13.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -31,12 +31,17 @@
         {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260813/p38#a260813p38"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdlZyeUlWQWJSd1dqa0pMcjIxUE9wYTlBbGxna3g5QWt5aXIzSENaOWsxYTk4RkE1NXhfdmd0eEVSckF6ak9mQThZbHo3LXlFZHRGcVhRcHZtWUxoOF8tR3laa0xQalI0eWFxSGVqR0ZXTkpJVkVlUmwtRmFpMS1aeDRnY3F6Q0liN0E1Y1BkSi1oUWZJTTd3SmhzLXprZFB0SHNGY2NZbmE1bW8?oc=5"
         }
       ],
       "srcTitles": [
         "Introducing Gemini 3.7 Flash",
         "Google announces Gemini 3.7 Flash just three weeks after previous release",
-        "Google unveils Gemini 3.7 Flash, its \"most intelligent workhorse model\" for coding and agents, pricing it at $0.75/1M input and $3.75/1M output tokens at launch (Tulsee Doshi/Google)"
+        "Google unveils Gemini 3.7 Flash, its \"most intelligent workhorse model\" for coding and agents, pricing it at $0.75/1M input and $3.75/1M output tokens at launch (Tulsee Doshi/Google)",
+        "Google unveils Gemini 3.7 Flash AI model for coding, agent workflows"
       ]
     },
     {
@@ -76,8 +81,8 @@
     },
     {
       "cat": "products",
-      "signal": 67,
-      "sources": 3,
+      "signal": 58,
+      "sources": 2,
       "ts": "2026-08-13T09:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -97,17 +102,12 @@
           "u": "https://openai.com/index/dali-rajic-chief-revenue-officer"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260813/p35#a260813p35"
-        },
-        {
           "d": "nytimes.com",
           "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQanpyWG9TUlY1bmUyNnZOR3lBdFBoYlVpYWYwYXdNd0ZaZkxWaEJSaWNSeF9idVI1RVF6YzBrRy10UUVOSnBDcUtZN09qZWpqcVJVTGVFQzFobk9PZlRCNWVOTU5aeThhb1BZbE0zcmgzN0Q2SHhxTF9vdWRWUUxDZHJhdlplS1NCWldmTWRWaFF1NV8tU2pj?oc=5"
         }
       ],
       "srcTitles": [
         "OpenAI appoints Dali Rajic as Chief Revenue Officer",
-        "OpenAI hires Dali Rajic, COO of Alphabet's Wiz, as chief revenue officer, replacing ex-Slack CEO Denise Dresser, who was hired in December 2025 and will leave (Shirin Ghaffary/Bloomberg)",
         "OpenAI Replaces Chief Revenue Officer After Just 8 Months"
       ]
     },
@@ -234,7 +234,7 @@
     },
     {
       "cat": "funding",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-08-13T11:57:43.000Z",
       "writtenSources": 2,
