@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 65,
-      "sources": 3,
+      "signal": 67,
+      "sources": 4,
       "ts": "2026-08-14T04:21:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -30,12 +30,17 @@
         {
           "d": "reuters.com",
           "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRm5TTFhzbl9hMmJfVUJ4V0ZVOG1wcHFBWnAwTTU5cERUX3NhWlgwMUxiYnVxYzNXQ2RLelFFRWlmbGc5YkhaUXptbmJ3bFlqVUpIZ3VmcjlSejFMMHB1OUVBbDZqQzh2bm1BM3YxVXZIYzhZQ2JoS0FES092cEtJeUgzOXRfcW1lOWl0WUlrUkZyZ1hPTVpROUlibVI?oc=5"
         }
       ],
       "srcTitles": [
         "Apple trained its own AI model for China with help from Alibaba",
         "Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)",
-        "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say"
+        "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say",
+        "Apple Develops China-Specific AI Model With Alibaba Support, Reuters Reports"
       ]
     },
     {
