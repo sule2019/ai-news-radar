@@ -34,6 +34,38 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-08-14T04:21:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)",
+      "s": "Reuters : Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China Apple (AAPL.O) has trained a lar",
+      "b": [
+        "techmeme.com: Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)",
+        "reuters.com: EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say"
+      ],
+      "body": [
+        "techmeme.com: Reuters : Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China Apple (AAPL.O) has trained a large language model specifically for the China market, three people familiar with the matter said",
+        "reuters.com: EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say Reuters"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
+        },
+        {
+          "d": "betanews.com",
+          "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wRlF5MTBfTERZZEhOQlhrUTVKY0UyQjY1QTFwOGNCdXA3Q0kzNy14QnRBQVR6cWZGdlJyekpVU1QxYXktbUx6OW0tdWxWbEF2RVBzQVJkTHdwd25meEFPUTRSTzllLV9leGc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Apple trained its own AI model for China with help from Alibaba",
+        "Apple secretly trained its own AI model for China with Alibaba's help"
+      ]
+    },
+    {
       "cat": "policy",
       "signal": 37,
       "sources": 2,
@@ -66,40 +98,8 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 30,
-      "sources": 2,
-      "ts": "2026-08-14T04:21:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)",
-      "s": "Reuters : Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China Apple (AAPL.O) has trained a lar",
-      "b": [
-        "techmeme.com: Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)",
-        "reuters.com: EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say"
-      ],
-      "body": [
-        "techmeme.com: Reuters : Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China Apple (AAPL.O) has trained a large language model specifically for the China market, three people familiar with the matter said",
-        "reuters.com: EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say Reuters"
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260814/p2#a260814p2"
-        }
-      ],
-      "srcTitles": [
-        "Apple trained its own AI model for China with help from Alibaba",
-        "Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)"
-      ]
-    },
-    {
       "cat": "policy",
-      "signal": 30,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-08-14T04:00:00.000Z",
       "writtenSources": 2,
