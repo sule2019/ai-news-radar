@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 61,
-      "sources": 2,
+      "signal": 98,
+      "sources": 71,
       "ts": "2026-08-14T16:13:40.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,86 +20,35 @@
       ],
       "l": [
         {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-gemini-3-7-flash/"
         },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260814/p18#a260814p18"
-        }
-      ],
-      "srcTitles": [
-        "Google will now allow users to remove visible watermark from its AI generations",
-        "Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain (Emma Roth/The Verge)"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 56,
-      "sources": 2,
-      "ts": "2026-08-14T04:21:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)",
-      "s": "Reuters : Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China Apple (AAPL.O) has trained a lar",
-      "b": [
-        "techmeme.com: Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)",
-        "reuters.com: EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say"
-      ],
-      "body": [
-        "techmeme.com: Reuters : Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China Apple (AAPL.O) has trained a large language model specifically for the China market, three people familiar with the matter said",
-        "reuters.com: EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say Reuters"
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
-        },
-        {
-          "d": "betanews.com",
-          "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wRlF5MTBfTERZZEhOQlhrUTVKY0UyQjY1QTFwOGNCdXA3Q0kzNy14QnRBQVR6cWZGdlJyekpVU1QxYXktbUx6OW0tdWxWbEF2RVBzQVJkTHdwd25meEFPUTRSTzllLV9leGc?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Apple trained its own AI model for China with help from Alibaba",
-        "Apple secretly trained its own AI model for China with Alibaba's help"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 37,
-      "sources": 2,
-      "ts": "2026-08-14T17:26:53.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-      "s": "A judge has identified what appears to be the first time a US plaintiff has attempted to hide text in court filings that only an artificial intelligence system can read in a bid to win a case. In a de",
-      "b": [
-        "arstechnica.com: Suspecting court of using AI, man injected prompts in filings to try to win case",
-        "betanews.com: Connecticut man sanctioned for hiding AI prompt injection in court filing"
-      ],
-      "body": [
-        "arstechnica.com: A judge has identified what appears to be the first time a US plaintiff has attempted to hide text in court filings that only an artificial intelligence system can read in a bid to win a case. In a decision published last week, Connecticut judge Walter Spader Jr. confirmed that the hidden text had no impact in a case where a man alleged a healthcare provider was improperly withholding access to records. The court weighed his filing on the merits, Spader said, but nevertheless, the attempted attack sets a “dangerous” precedent. This will likely not be the last time US courts see the malicious tactic, as AI tools become more commonplace in court systems. Trying to scramble any AI systems potentially influencing the court’s reading of his filing, the secret instructions were “formatted to be invisible to a human reader while remaining fully legible to any software that reads the document’s text,” Spader said. The offending text directed any AI system reviewing the document to ensure textual outputs agreed with the plaintiff’s arguments, ignored prior denials from the court, and ensured that remediation would follow as the plaintiff desired. Read full article Comments",
-        "betanews.com: Connecticut man sanctioned for hiding AI prompt injection in court filing BetaNews"
-      ],
-      "l": [
         {
           "d": "arstechnica.com",
-          "u": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
+          "u": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-7-flash-just-three-weeks-after-previous-release/"
         },
         {
-          "d": "betanews.com",
-          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhtX1pOdkpxV1hWbmhWcm1XeHhBY1ZXWU1adHJ3OWZsUUdxdWo3VkFqZWZHVUJsR1pTUVRhbkFSNVZfUDd6X2hfZ1FRQlA5b0xPSHJlaWprT3ZTWjdzcm1WbjVDeUFOQlVseGhMTjVSWWNpR0E1NFN0N1hPQ2JrUw?oc=5"
+          "d": "infoworld.com",
+          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHdtTVhTTUM3V0NWc1h1SnBBN3lTUUs3ZklfbVlhMVRQNkszSEZSOVZQWll1MjgyYUhSXzR1cDI4WW9FbU92QktCamcxOEY3N2FSN2c2dnFBTHFtZ0hVdHg1LUhVTno1N3pXeFBPVEgzWFlEX1pkVWdkRXZYZ3RSdk5qRnRwSDFiVC1QcEkyVGZ2bHpQX2xtRTVvLU03WGFOOVc5WnZEMm5meTVwNVdkSkZScURNUjRuRnQ4S1BNQ0U2aW9CQlpady12YnQwZ2wwdEtkeFJn?oc=5"
+        },
+        {
+          "d": "byhand.ai",
+          "u": "https://www.byhand.ai/"
+        },
+        {
+          "d": "+67"
         }
       ],
       "srcTitles": [
-        "Suspecting court of using AI, man injected prompts in filings to try to win case",
-        "Connecticut man sanctioned for hiding AI prompt injection in court filing"
+        "Introducing Gemini 3.7 Flash",
+        "Google announces Gemini 3.7 Flash just three weeks after previous release",
+        "Google cuts Gemini 3.7 Flash prices as enterprise AI economics diverge and Pro cadence slows",
+        "AI by Hand"
       ]
     },
     {
       "cat": "policy",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-08-14T04:00:00.000Z",
       "writtenSources": 2,
