@@ -2,6 +2,38 @@
   "date": "2026-08-14",
   "stories": [
     {
+      "cat": "products",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-08-14T04:21:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)",
+      "s": "Reuters : Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China Apple (AAPL.O) has trained a lar",
+      "b": [
+        "techmeme.com: Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)",
+        "reuters.com: EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say"
+      ],
+      "body": [
+        "techmeme.com: Reuters : Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China Apple (AAPL.O) has trained a large language model specifically for the China market, three people familiar with the matter said",
+        "reuters.com: EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say Reuters"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260814/p2#a260814p2"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVDU1cndzcnNhVERISGg5M3psalAyTEVrR2JKSEExUTVoV0JkSjJZZVRIOW40N1lweld1bXEzYWRrNEZxb2w2YzctanRaNnRnckRJLWRINnlpVnlnbXZvSUxBRFN6QUNvb01UMXhXVmp3MDNDTnN2TGZveTdlam9Gem93RFFaZVFSazRzWUpmZXI0VlV3VU56cjZPUUNXQk9GTzFTdkpzMTdvRnF6RUllb1NMbm02OFFiUEJhQXhab1JjZ0w3QWhPT0VqUVZpc0xEYXBV?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)",
+        "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say"
+      ]
+    },
+    {
       "cat": "policy",
       "signal": 37,
       "sources": 2,
