@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 98,
-      "sources": 47,
+      "signal": 67,
+      "sources": 3,
       "ts": "2026-08-14T16:13:40.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -30,20 +30,76 @@
         {
           "d": "infoworld.com",
           "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOZHdtTVhTTUM3V0NWc1h1SnBBN3lTUUs3ZklfbVlhMVRQNkszSEZSOVZQWll1MjgyYUhSXzR1cDI4WW9FbU92QktCamcxOEY3N2FSN2c2dnFBTHFtZ0hVdHg1LUhVTno1N3pXeFBPVEgzWFlEX1pkVWdkRXZYZ3RSdk5qRnRwSDFiVC1QcEkyVGZ2bHpQX2xtRTVvLU03WGFOOVc5WnZEMm5meTVwNVdkSkZScURNUjRuRnQ4S1BNQ0U2aW9CQlpady12YnQwZ2wwdEtkeFJn?oc=5"
-        },
-        {
-          "d": "byhand.ai",
-          "u": "https://www.byhand.ai/"
-        },
-        {
-          "d": "+43"
         }
       ],
       "srcTitles": [
         "Introducing Gemini 3.7 Flash",
         "Google announces Gemini 3.7 Flash just three weeks after previous release",
-        "Google cuts Gemini 3.7 Flash prices as enterprise AI economics diverge and Pro cadence slows",
-        "AI by Hand"
+        "Google cuts Gemini 3.7 Flash prices as enterprise AI economics diverge and Pro cadence slows"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-08-14T16:13:40.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google will now allow users to remove visible watermark from its AI generations",
+      "s": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "b": [
+        "techcrunch.com: Google will now allow users to remove visible watermark from its AI generations",
+        "techmeme.com: Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain (Emma Roth/The Verge)"
+      ],
+      "body": [
+        "techcrunch.com: Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+        "techmeme.com: Emma Roth / The Verge : Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain Google will still embed invisible SynthID and C2PA watermarks into AI-generated images, videos, and music."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260814/p18#a260814p18"
+        }
+      ],
+      "srcTitles": [
+        "Google will now allow users to remove visible watermark from its AI generations",
+        "Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain (Emma Roth/The Verge)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-08-14T09:21:17.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Apple trained its own AI model for China with help from Alibaba",
+      "s": "Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washing",
+      "b": [
+        "theverge.com: Apple trained its own AI model for China with help from Alibaba",
+        "betanews.com: Apple secretly trained its own AI model for China with Alibaba's help"
+      ],
+      "body": [
+        "theverge.com: Apple has reportedly trained a custom AI model for the China market alongside domestic tech giant Alibaba, a rare cross-border partnership that cuts across growing tensions between Beijing and Washington. The China-focused large language model was developed in partnership with Alibaba and trained with the company's support, Reuters reports, citing three unnamed people familiar with [ ]",
+        "betanews.com: Apple secretly trained its own AI model for China with Alibaba's help BetaNews"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
+        },
+        {
+          "d": "betanews.com",
+          "u": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wRlF5MTBfTERZZEhOQlhrUTVKY0UyQjY1QTFwOGNCdXA3Q0kzNy14QnRBQVR6cWZGdlJyekpVU1QxYXktbUx6OW0tdWxWbEF2RVBzQVJkTHdwd25meEFPUTRSTzllLV9leGc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Apple trained its own AI model for China with help from Alibaba",
+        "Apple secretly trained its own AI model for China with Alibaba's help"
       ]
     },
     {
