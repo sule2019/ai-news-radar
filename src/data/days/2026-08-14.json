@@ -34,8 +34,40 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-08-14T17:26:53.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+      "s": "A judge has identified what appears to be the first time a US plaintiff has attempted to hide text in court filings that only an artificial intelligence system can read in a bid to win a case. In a de",
+      "b": [
+        "arstechnica.com: Suspecting court of using AI, man injected prompts in filings to try to win case",
+        "betanews.com: Connecticut man sanctioned for hiding AI prompt injection in court filing"
+      ],
+      "body": [
+        "arstechnica.com: A judge has identified what appears to be the first time a US plaintiff has attempted to hide text in court filings that only an artificial intelligence system can read in a bid to win a case. In a decision published last week, Connecticut judge Walter Spader Jr. confirmed that the hidden text had no impact in a case where a man alleged a healthcare provider was improperly withholding access to records. The court weighed his filing on the merits, Spader said, but nevertheless, the attempted attack sets a “dangerous” precedent. This will likely not be the last time US courts see the malicious tactic, as AI tools become more commonplace in court systems. Trying to scramble any AI systems potentially influencing the court’s reading of his filing, the secret instructions were “formatted to be invisible to a human reader while remaining fully legible to any software that reads the document’s text,” Spader said. The offending text directed any AI system reviewing the document to ensure textual outputs agreed with the plaintiff’s arguments, ignored prior denials from the court, and ensured that remediation would follow as the plaintiff desired. Read full article Comments",
+        "betanews.com: Connecticut man sanctioned for hiding AI prompt injection in court filing BetaNews"
+      ],
+      "l": [
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/"
+        },
+        {
+          "d": "betanews.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSFhtX1pOdkpxV1hWbmhWcm1XeHhBY1ZXWU1adHJ3OWZsUUdxdWo3VkFqZWZHVUJsR1pTUVRhbkFSNVZfUDd6X2hfZ1FRQlA5b0xPSHJlaWprT3ZTWjdzcm1WbjVDeUFOQlVseGhMTjVSWWNpR0E1NFN0N1hPQ2JrUw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Suspecting court of using AI, man injected prompts in filings to try to win case",
+        "Connecticut man sanctioned for hiding AI prompt injection in court filing"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 42,
+      "signal": 38,
       "sources": 2,
       "ts": "2026-08-14T04:21:00.000Z",
       "writtenSources": 2,
