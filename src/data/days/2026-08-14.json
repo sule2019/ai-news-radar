@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 59,
-      "sources": 2,
+      "signal": 65,
+      "sources": 3,
       "ts": "2026-08-14T04:21:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,6 +20,10 @@
       ],
       "l": [
         {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/980160/apple-intelligence-china-custom-ai-model-alibaba"
+        },
+        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260814/p2#a260814p2"
         },
@@ -29,13 +33,14 @@
         }
       ],
       "srcTitles": [
+        "Apple trained its own AI model for China with help from Alibaba",
         "Sources: Apple trained a China-specific LLM with Alibaba's support, which would make Apple the first foreign company to offer a proprietary AI model in China (Reuters)",
         "EXCLUSIVE: Apple trains its own AI model for China market with Alibaba's support, sources say"
       ]
     },
     {
       "cat": "policy",
-      "signal": 37,
+      "signal": 34,
       "sources": 2,
       "ts": "2026-08-14T04:00:00.000Z",
       "writtenSources": 2,
@@ -61,7 +66,7 @@
         }
       ],
       "srcTitles": [
-        "Z.ai debuts GLM-5.3, using the same base model as GLM-5.2 with scaled post-training for stronger coding and cyber skills, with weights due in two weeks (Z.ai)",
+        "Z.ai debuts GLM-5.3, which uses the same base model as GLM-5.2 with scaled post-training for stronger coding skills; Z.ai plans to release weights in two weeks (Z.ai)",
         "Post-Training with Policy Gradients: Optimality and the Base Model Barrier"
       ]
     }
