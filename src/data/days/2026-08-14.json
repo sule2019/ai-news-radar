@@ -2,8 +2,40 @@
   "date": "2026-08-14",
   "stories": [
     {
+      "cat": "models",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-08-14T16:13:40.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google will now allow users to remove visible watermark from its AI generations",
+      "s": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "b": [
+        "techcrunch.com: Google will now allow users to remove visible watermark from its AI generations",
+        "techmeme.com: Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain (Emma Roth/The Verge)"
+      ],
+      "body": [
+        "techcrunch.com: Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+        "techmeme.com: Emma Roth / The Verge : Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain Google will still embed invisible SynthID and C2PA watermarks into AI-generated images, videos, and music."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260814/p18#a260814p18"
+        }
+      ],
+      "srcTitles": [
+        "Google will now allow users to remove visible watermark from its AI generations",
+        "Google adds a toggle in Gemini and Flow to remove visible watermarks from AI-generated images, videos, and music; SynthID watermarks and C2PA metadata remain (Emma Roth/The Verge)"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 58,
+      "signal": 54,
       "sources": 2,
       "ts": "2026-08-14T04:21:00.000Z",
       "writtenSources": 2,
