@@ -2,8 +2,47 @@
   "date": "2026-08-15",
   "stories": [
     {
+      "cat": "products",
+      "signal": 65,
+      "sources": 3,
+      "ts": "2026-08-14T23:24:17.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Anthropic shares more details about how Claude’s new watermarks will work",
+      "s": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+      "b": [
+        "techcrunch.com: Anthropic shares more details about how Claude’s new watermarks will work",
+        "techmeme.com: Anthropic details Claude's text watermark: it only shows Claude was likely involved, is sparse in code and factual text, and disappears after a full rewrite (Anthropic)",
+        "bleepingcomputer.com: How Anthropic plans to watermark Claude's AI-generated text"
+      ],
+      "body": [
+        "techcrunch.com: How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+        "techmeme.com: Anthropic : Anthropic details Claude's text watermark: it only shows Claude was likely involved, is sparse in code and factual text, and disappears after a full rewrite Future Claude models will generate text that contains a watermark. This is a way of determining the likelihood that Claude",
+        "bleepingcomputer.com: How Anthropic plans to watermark Claude's AI-generated text BleepingComputer"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260815/p11#a260815p11"
+        },
+        {
+          "d": "bleepingcomputer.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRWgwX0doUEdwTmZPRWVvd2FPUktpeXh6WnF6T1g2ZVFMMVBISlpFbnI4RnVoRFk2cjhDa2pqajBTN0RBakdDNXRFYW1qUzdJbGxobV91MVV4MnVsNDZydVpPVXoyamZjWGRuQkduNGhjTTJQWUlfdV9hN1FncmVlUHV1UjRYX2VCaS1Pbk9wa1hLNmEwejRxODdZRFl5T1ZDeFhlUGJjMFZncjZHdmRlRVFEbXRMMmRGMUxUejRB0gHDAUFVX3lxTE5WSlRyTlpURWRhODJESVZfcS00U29HN2N1M3Z0d3FsUXhWSmQ1MnFNMmtJMnVKeE5QbmJVSW1taGkxUW5LWnBMX25WRTlUaVc4TmhWaFF3RVQ3T2VtT2VXVGRudjBiNnl5ZUZCcy1lbkZjY2s1dTUyU24zcXFrX05UYl9tTTEzbURHQkViNzU3M1lFUGNsUkU1eEVvTjJtaE8xY3E3NXp5LXc2X3Ftd2s2OVhjb2NNUW94cGZfYm9OZUgtVQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic shares more details about how Claude’s new watermarks will work",
+        "Anthropic details Claude's text watermark: it only shows Claude was likely involved, is sparse in code and factual text, and disappears after a full rewrite (Anthropic)",
+        "How Anthropic plans to watermark Claude's AI-generated text"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 61,
+      "signal": 58,
       "sources": 2,
       "ts": "2026-08-15T16:40:01.000Z",
       "writtenSources": 2,
