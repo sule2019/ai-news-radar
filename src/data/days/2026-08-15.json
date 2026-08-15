@@ -1,4 +1,37 @@
 {
   "date": "2026-08-15",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-08-15T16:40:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+      "s": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+      "b": [
+        "techcrunch.com: Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "techmeme.com: A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online (Washington Post)"
+      ],
+      "body": [
+        "techcrunch.com: The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+        "techmeme.com: Washington Post : A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online When Jane Doe 4, as she is identified in legal filings, arrived at her parents' house in Wyoming to set up a family party earlier this year"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260815/p12#a260815p12"
+        }
+      ],
+      "srcTitles": [
+        "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+        "A Wyoming woman joined a federal suit against xAI alleging her stepfather used Grok to turn one childhood photo of her into 7,000+ CSAM images he traded online (Washington Post)"
+      ]
+    }
+  ]
 }
