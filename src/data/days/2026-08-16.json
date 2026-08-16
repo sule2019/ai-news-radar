@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 47,
+      "signal": 43,
       "sources": 2,
       "ts": "2026-08-16T16:40:00.000Z",
       "writtenSources": 2,
@@ -36,6 +36,38 @@
     {
       "cat": "models",
       "signal": 42,
+      "sources": 2,
+      "ts": "2026-08-16T20:10:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+      "s": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+      "b": [
+        "techcrunch.com: Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "techmeme.com: Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; OpenRouter was valued at $1.3B in May (Bloomberg)"
+      ],
+      "body": [
+        "techcrunch.com: OpenRouter's CEO recently described the startup as Stripe for AI.",
+        "techmeme.com: Bloomberg : Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; OpenRouter was valued at $1.3B in May Stripe Inc. has finalized an agreement to acquire OpenRouter Inc., a startup that helps companies switch between artificial intelligence models"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260816/p9#a260816p9"
+        }
+      ],
+      "srcTitles": [
+        "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "Sources: Stripe has finalized a deal to acquire AI model marketplace OpenRouter for more than $7B; OpenRouter was valued at $1.3B in May (Bloomberg)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 38,
       "sources": 2,
       "ts": "2026-08-16T16:53:51.000Z",
       "writtenSources": 2,
@@ -99,7 +131,7 @@
     },
     {
       "cat": "models",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-16T12:30:00.000Z",
       "writtenSources": 2,
