@@ -34,8 +34,40 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-08-16T20:08:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
+      "s": "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter Bloomberg.com",
+      "b": [
+        "bloomberg.com: Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
+        "fortune.com: Stripe clinches over $7 billion deal to buy AI firm OpenRouter"
+      ],
+      "body": [
+        "bloomberg.com: Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter Bloomberg.com",
+        "fortune.com: Stripe clinches over $7 billion deal to buy AI firm OpenRouter Fortune"
+      ],
+      "l": [
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT2VMMXR1X3Jzd1hQZ0pobFMxT0gzQWFFNjFnekt4dlR1ak9lS2NUc3V2RjVodU5BemxCSmFqVDFBUUJRbHJuUEQxb1dyT3JXWk1YSi0zRDI1NU0yNTJuMnNIZkRMVHB2TTEtc0dPbjNMSnJpTm1CUlVpbmg5Q2x4X0VQZXNiZTRJcFpTdDljbHRwVVM1eE51dmt2XzNFemRqTnZMRUJFZ3ZPMDJuX0ZjZndiWQ?oc=5"
+        },
+        {
+          "d": "fortune.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMlZXRVY0UElQQkRrcFNtUXV4TWtTck1nWWZ1VUNXR3ZiZFZFQ0lrSGRxcV9tN09OU25sa2Q1WWlrZXFFUWQwTmNNZUd5eTJSeXZCeVZESnlteDMtVVNmZU93MHB2RC0tUDM4b1lvNVdvbGpFall4VmJzT25RY1ZWaGROU3hvSG1WMVRHTA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Stripe Clinches Over $7 Billion Deal to Buy AI Firm OpenRouter",
+        "Stripe clinches over $7 billion deal to buy AI firm OpenRouter"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 31,
+      "signal": 27,
       "sources": 2,
       "ts": "2026-08-16T16:40:00.000Z",
       "writtenSources": 2,
@@ -67,7 +99,7 @@
     },
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-08-16T16:53:51.000Z",
       "writtenSources": 2,
@@ -99,7 +131,7 @@
     },
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-08-15T22:49:03.000Z",
       "writtenSources": 2,
