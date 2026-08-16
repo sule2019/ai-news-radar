@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 62,
+      "signal": 58,
       "sources": 2,
       "ts": "2026-08-16T16:53:51.000Z",
       "writtenSources": 2,
@@ -35,7 +35,39 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-08-16T16:40:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take",
+      "s": "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take",
+        "fool.com: Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take"
+      ],
+      "body": [
+        "finance.yahoo.com: Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take Yahoo Finance",
+        "fool.com: Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT24yMWp6NDludGhuXzhlMUJxcnRvSF8wYmh5VGNhY2FuWVU4Y2ppUmxsWndEd1BaX1JCRlgwaXJwZm5wb01vU0loeWNvbkpuWDBxNjVpRVNQZUpHdzFwdTVBdE12T21heGN2dTFsN2Y4V2R3bHA4M3k3THE0VU5FaW9UbTBwZ3Y3RzBfZWFhZmZtODVGdlRNSUNWZw?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVluN2FPUGZFekk1QlktOWRRX3FVVnRqWklZTHprMVVaalViaFRMaWZFY1cxNkxiWUZCSUxfTW44YlBRc2tpTVNmbjE0cU5WUFh6aEgwRk1Td21IcVU1NF8wemFzRnNya3BLMFJ2TEVlbXdvVFFoTFNySzNjZ0RsRC1jLTMzVU9EenN3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take",
+        "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
       "sources": 2,
       "ts": "2026-08-15T22:49:03.000Z",
       "writtenSources": 2,
