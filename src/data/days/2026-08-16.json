@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 42,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-08-16T20:10:01.000Z",
       "writtenSources": 2,
@@ -35,7 +35,7 @@
     },
     {
       "cat": "models",
-      "signal": 35,
+      "signal": 31,
       "sources": 2,
       "ts": "2026-08-16T16:40:00.000Z",
       "writtenSources": 2,
@@ -67,7 +67,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-08-16T16:53:51.000Z",
       "writtenSources": 2,
@@ -116,17 +116,17 @@
       ],
       "l": [
         {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEpjRzNMbUo5T0wzaDRGZGh4UXZ1Y3ByQmtaMzdTdHVMOHo1STNFQk15Z1RUdzRPYzdfT0doOGlBRUZnYU82eWhvTEdtX3dlM1I0SFJFZzNhWFhvWlhXNWxIQ1lETmZxN0Y0TXNOQmNwVUtBZzUtUFptNDlEVWo1aUd3Q2lhYjduWnVxRXctQXBwMUZxN2kzdTItNUVxNm9tYkJ6U3dIblrSAa4BQVVfeXFMTVFSRVZGdERLQXZwamdMWmxTdTFnNUVGRmxKZlktV3RuRHlDdmpRT2xzWUxsbnVlb0JhUEw3dnlWelhTamgyUUh0TThEY2FrbVlTb0Q5OWtOTExuSzRCTGx4cEoyaU9XODNGWl9BdkxSX3owWHVfZWJyTjhUNGQwVU4xMVVnUVMwWFRiN2hwbS1CMEowZWwxOE1YQzFSdDBjSTdDX1JTUmU5bFpfM2lB?oc=5"
-        },
-        {
           "d": "taipeitimes.com",
           "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBaDE4bm5fcF9UY3dRS01hOVdfWkFMZ2tFYUxOWGNzbm9HR3ZoUkR0QTZlaUgxTVB5WTYzblY1TjNKeEFBY19KTVREcGtwZUxxbWd4aEczZ1NUZE5QR1lOeGtBSGZveGQtR1lKRDhMSU40LWc2ZGc?oc=5"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTEpjRzNMbUo5T0wzaDRGZGh4UXZ1Y3ByQmtaMzdTdHVMOHo1STNFQk15Z1RUdzRPYzdfT0doOGlBRUZnYU82eWhvTEdtX3dlM1I0SFJFZzNhWFhvWlhXNWxIQ1lETmZxN0Y0TXNOQmNwVUtBZzUtUFptNDlEVWo1aUd3Q2lhYjduWnVxRXctQXBwMUZxN2kzdTItNUVxNm9tYkJ6U3dIblrSAa4BQVVfeXFMTVFSRVZGdERLQXZwamdMWmxTdTFnNUVGRmxKZlktV3RuRHlDdmpRT2xzWUxsbnVlb0JhUEw3dnlWelhTamgyUUh0TThEY2FrbVlTb0Q5OWtOTExuSzRCTGx4cEoyaU9XODNGWl9BdkxSX3owWHVfZWJyTjhUNGQwVU4xMVVnUVMwWFRiN2hwbS1CMEowZWwxOE1YQzFSdDBjSTdDX1JTUmU5bFpfM2lB?oc=5"
         }
       ],
       "srcTitles": [
-        "U.S. to tell partners they must pick sides in AI race with China: Reuters",
-        "US to tell partners they must pick sides"
+        "US to tell partners they must pick sides",
+        "U.S. to tell partners they must pick sides in AI race with China: Reuters"
       ]
     },
     {
