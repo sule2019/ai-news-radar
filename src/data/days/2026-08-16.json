@@ -3,6 +3,38 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-08-16T16:53:51.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+      "s": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+      "b": [
+        "techcrunch.com: Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "finance.yahoo.com: Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’"
+      ],
+      "body": [
+        "techcrunch.com: Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+        "finance.yahoo.com: Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’ Yahoo Finance"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNmRPdmFESjZoRzdqTlNwdU1nb2s0eDA3Y0NQMEtrVTFQcUc4QTY0Zkh1a0VGZnEwSFJoU1dwME9uWFNpMnoxZjI0MklDWVJ2amJOa010OUlBY2FvUUE4TFE3SUdDb3JkNGZrZF95MkI2WnVRVUtNQXhtYWY2ODVoYnRhcUpLZHpTR3g4MkJQZG4xUE5na1VjNFd3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+        "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 26,
       "sources": 2,
       "ts": "2026-08-15T22:49:03.000Z",
