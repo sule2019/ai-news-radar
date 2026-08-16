@@ -3,7 +3,39 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 54,
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-08-16T16:40:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take",
+      "s": "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take",
+        "fool.com: Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take"
+      ],
+      "body": [
+        "finance.yahoo.com: Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take Yahoo Finance",
+        "fool.com: Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT24yMWp6NDludGhuXzhlMUJxcnRvSF8wYmh5VGNhY2FuWVU4Y2ppUmxsWndEd1BaX1JCRlgwaXJwZm5wb01vU0loeWNvbkpuWDBxNjVpRVNQZUpHdzFwdTVBdE12T21heGN2dTFsN2Y4V2R3bHA4M3k3THE0VU5FaW9UbTBwZ3Y3RzBfZWFhZmZtODVGdlRNSUNWZw?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVluN2FPUGZFekk1QlktOWRRX3FVVnRqWklZTHprMVVaalViaFRMaWZFY1cxNkxiWUZCSUxfTW44YlBRc2tpTVNmbjE0cU5WUFh6aEgwRk1Td21IcVU1NF8wemFzRnNya3BLMFJ2TEVlbXdvVFFoTFNySzNjZ0RsRC1jLTMzVU9EenN3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take",
+        "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 50,
       "sources": 2,
       "ts": "2026-08-16T16:53:51.000Z",
       "writtenSources": 2,
@@ -35,34 +67,34 @@
     },
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 26,
       "sources": 2,
-      "ts": "2026-08-16T16:40:00.000Z",
+      "ts": "2026-08-16T12:30:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take",
-      "s": "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take Yahoo Finance",
+      "h": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+      "s": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl Bloomberg.com",
       "b": [
-        "finance.yahoo.com: Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take",
-        "fool.com: Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take"
+        "bloomberg.com: At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+        "finance.yahoo.com: At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl"
       ],
       "body": [
-        "finance.yahoo.com: Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take Yahoo Finance",
-        "fool.com: Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take The Motley Fool"
+        "bloomberg.com: At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl Bloomberg.com",
+        "finance.yahoo.com: At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl Yahoo Finance"
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT24yMWp6NDludGhuXzhlMUJxcnRvSF8wYmh5VGNhY2FuWVU4Y2ppUmxsWndEd1BaX1JCRlgwaXJwZm5wb01vU0loeWNvbkpuWDBxNjVpRVNQZUpHdzFwdTVBdE12T21heGN2dTFsN2Y4V2R3bHA4M3k3THE0VU5FaW9UbTBwZ3Y3RzBfZWFhZmZtODVGdlRNSUNWZw?oc=5"
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOazgxdmRpSDgyZkxsR2s2UVVjWm5zMmhwVVRacE9LV19DMVdxdERRZU81dG0zdUx2VE5ZYkktdDgtN29RSmQ1dXFkNzNhelV4Y29IVnNJOG1IWlllWkt3R2VFcnYxQjZXUldQZXpfTUpMVVR4V25TeHA3YXhIR0JKdnIwTGVqVGhGUFN6eWRUUGd1ZVlKQm5URU90Zm1ySmJkQ0t3MmhlRnBidl9tUkhvemIxMGY?oc=5"
         },
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZVluN2FPUGZFekk1QlktOWRRX3FVVnRqWklZTHprMVVaalViaFRMaWZFY1cxNkxiWUZCSUxfTW44YlBRc2tpTVNmbjE0cU5WUFh6aEgwRk1Td21IcVU1NF8wemFzRnNya3BLMFJ2TEVlbXdvVFFoTFNySzNjZ0RsRC1jLTMzVU9EenN3?oc=5"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSjJUbUFydGlZMWdFZlpwYkgtM3hVazB3emE1Mm9mQTI2eDcteG9VX2xPbUxFMGdTYkhNbVVnTEpkZVBGZnhncVh2VEpnemZtYWZIek9ZTVBsZ1ZHM0lhTGJNdVRlZzdTNW9Dc3lNbUtJZ1QwRUNEWm85NlBVRFpmV1BiYWk3RTV3WEtzMjkzbDVNaVpxUmhz?oc=5"
         }
       ],
       "srcTitles": [
-        "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take",
-        "Should You Buy Meta Platforms Stock Below $600 Before Mark Zuckerberg Unveils Its AI Cloud Business? Here's My Honest Take"
+        "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
+        "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl"
       ]
     },
     {
