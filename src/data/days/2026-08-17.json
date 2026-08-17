@@ -204,6 +204,38 @@
     },
     {
       "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-08-17T19:05:15.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+      "s": "Trump crypto firm backs venture offering AI from restricted Chinese companies Reuters",
+      "b": [
+        "reuters.com: Trump crypto firm backs venture offering AI from restricted Chinese companies",
+        "gizmodo.com: Trump Kids Back Venture That Sidesteps Trump Administration’s AI Firewall"
+      ],
+      "body": [
+        "reuters.com: Trump crypto firm backs venture offering AI from restricted Chinese companies Reuters",
+        "gizmodo.com: Trump Kids Back Venture That Sidesteps Trump Administration’s AI Firewall Gizmodo"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTHhDcEM5cGN4V2duaGh3RmNtbVZndFdfWHBjSkF5ekRiN1JBVnRULTBUeTVld0I3czliYWZsckdXbVJfLTdJcldxY0V1VnV6NU1sME1uM3BWLUttZzR4RDVPSkJsTXlRQkRSTkFJc2pLelNEYXNBWHpUX1BGdzFBTGtmaFFwdE1DclphZDZncHMyTk5oNmFZSWhQRmVrUHdkaFpCb3ZBWWY4eExmcGZEMkJZekFPTEI3VG4zUQ?oc=5"
+        },
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORXp1Yi14UnQ5Q05tMEJqYVQyTGQ0dVFLelA5ZGJZQnNCaXJ0bTJUdERpa0hmaWVUZTJwWTc5Qnl4Z1NfUUx3MjR0Y1VzMXMyYmZzY19tSld3M19id1dteWs1YU1qcjFxdGdJVWpGUUVEdEJwSWdIWXRzTUJCOE83UlFnb3E1ek1nQXRPVVRHOE1ja3ZQdTJQVHlxdXcwMG1aeWVfUzRB?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump crypto firm backs venture offering AI from restricted Chinese companies",
+        "Trump Kids Back Venture That Sidesteps Trump Administration’s AI Firewall"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 26,
       "sources": 2,
       "ts": "2026-08-17T15:25:18.000Z",
