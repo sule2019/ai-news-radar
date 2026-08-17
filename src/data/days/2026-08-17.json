@@ -28,12 +28,12 @@
           "u": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/"
         },
         {
-          "d": "futurism.com",
-          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFpLX25QaTJITU9Pb0tpdGI2UVBON0J0RXFHdTgxUWNPY3pHc1ZqOWJyWG9oeC1xTkd5V1RZMENLdjd3MTd1Z1FYbGRuWkl1aFJXU0ZSb2tFNDJmQVVaWnZqeTRfSFFDNTc5X0Yxc3hwOVdFSGNpVHRxR1l5UWNVZkVB?oc=5"
-        },
-        {
           "d": "mezha.net",
           "u": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qU083WjdLT0dUY2l0LWpRMld1a21mSThtWk85bGluZVNGUUI0TVVBUkNPVXl0NVlBaWdYTmZwazg1bHNSdXhJWkxJSXhia3JrWDhBd2hCcXZ0TURtUmRnQWJYRTg?oc=5"
+        },
+        {
+          "d": "futurism.com",
+          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFpLX25QaTJITU9Pb0tpdGI2UVBON0J0RXFHdTgxUWNPY3pHc1ZqOWJyWG9oeC1xTkd5V1RZMENLdjd3MTd1Z1FYbGRuWkl1aFJXU0ZSb2tFNDJmQVVaWnZqeTRfSFFDNTc5X0Yxc3hwOVdFSGNpVHRxR1l5UWNVZkVB?oc=5"
         },
         {
           "d": "+3"
@@ -42,8 +42,8 @@
       "srcTitles": [
         "Amazon, which started off selling books, is destroying rare texts to train AI",
         "Hidden Airtag reveals Amazon is trashing rare books to train AI",
-        "Amazon Caught Destroying Rare Books to Train AI",
-        "Amazon Cuts Rare Books to Train Its Artificial Intelligence Models"
+        "Amazon Cuts Rare Books to Train Its Artificial Intelligence Models",
+        "Amazon Caught Destroying Rare Books to Train AI"
       ]
     },
     {
@@ -85,7 +85,7 @@
     },
     {
       "cat": "policy",
-      "signal": 62,
+      "signal": 59,
       "sources": 2,
       "ts": "2026-08-17T17:20:00.000Z",
       "writtenSources": 2,
@@ -113,6 +113,43 @@
       "srcTitles": [
         "Google wins a bankruptcy auction with a $10M bid to acquire deidentified business data, software code, and more from Spirit Airlines to improve its AI models (James Nani/Bloomberg Law)",
         "Report: Google Buys Spirit Data for $10M"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 47,
+      "sources": 3,
+      "ts": "2026-08-17T05:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Defender’s Window",
+      "s": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "b": [
+        "openai.com: The Defender’s Window",
+        "prnewswire.com: Introducing Nearmap Labs: A Window into the Future of Property Intelligence"
+      ],
+      "body": [
+        "openai.com: AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+        "prnewswire.com: Introducing Nearmap Labs: A Window into the Future of Property Intelligence PR Newswire"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/the-defenders-window"
+        },
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing/"
+        },
+        {
+          "d": "prnewswire.com",
+          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMzNjRVJ2c2x0REtvZ2ZWbjAzenNYbzdac1hLSEpmZkRvRC1IVzlLcjNHT3pVN2d4S2dZckl6UTk5SWZhT0I0b05IeGZBbDBSZUtZZTROckFyOWhQd3VNM0loUmFQSzZQMG9rVGEwdElaUUpYWlh0LUJFcDYwcTY4dE1xQ1ZTVkduajc5OXphaHhOUFQ4OFk4OHp1N2dkM2VrcWpxWVMzbnBzZmtTZXhDR3QzSlppdzZDS1VwQ093ZzNvUkNFMmc2ajRn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The Defender’s Window",
+        "What Flock’s defenders are missing",
+        "Introducing Nearmap Labs: A Window into the Future of Property Intelligence"
       ]
     },
     {
@@ -163,38 +200,6 @@
       ],
       "srcTitles": [
         "OpenAI joins PORTS-Pike project"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 36,
-      "sources": 2,
-      "ts": "2026-08-17T05:30:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "The Defender’s Window",
-      "s": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-      "b": [
-        "openai.com: The Defender’s Window",
-        "prnewswire.com: Introducing Nearmap Labs: A Window into the Future of Property Intelligence"
-      ],
-      "body": [
-        "openai.com: AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-        "prnewswire.com: Introducing Nearmap Labs: A Window into the Future of Property Intelligence PR Newswire"
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/the-defenders-window"
-        },
-        {
-          "d": "prnewswire.com",
-          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMzNjRVJ2c2x0REtvZ2ZWbjAzenNYbzdac1hLSEpmZkRvRC1IVzlLcjNHT3pVN2d4S2dZckl6UTk5SWZhT0I0b05IeGZBbDBSZUtZZTROckFyOWhQd3VNM0loUmFQSzZQMG9rVGEwdElaUUpYWlh0LUJFcDYwcTY4dE1xQ1ZTVkduajc5OXphaHhOUFQ4OFk4OHp1N2dkM2VrcWpxWVMzbnBzZmtTZXhDR3QzSlppdzZDS1VwQ093ZzNvUkNFMmc2ajRn?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "The Defender’s Window",
-        "Introducing Nearmap Labs: A Window into the Future of Property Intelligence"
       ]
     },
     {
@@ -284,7 +289,7 @@
     },
     {
       "cat": "funding",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-08-17T11:25:01.000Z",
       "writtenSources": 2,
