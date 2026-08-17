@@ -161,8 +161,40 @@
       ]
     },
     {
-      "cat": "funding",
+      "cat": "models",
       "signal": 36,
+      "sources": 2,
+      "ts": "2026-08-17T05:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Defender’s Window",
+      "s": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "b": [
+        "openai.com: The Defender’s Window",
+        "prnewswire.com: Introducing Nearmap Labs: A Window into the Future of Property Intelligence"
+      ],
+      "body": [
+        "openai.com: AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+        "prnewswire.com: Introducing Nearmap Labs: A Window into the Future of Property Intelligence PR Newswire"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/the-defenders-window"
+        },
+        {
+          "d": "prnewswire.com",
+          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMzNjRVJ2c2x0REtvZ2ZWbjAzenNYbzdac1hLSEpmZkRvRC1IVzlLcjNHT3pVN2d4S2dZckl6UTk5SWZhT0I0b05IeGZBbDBSZUtZZTROckFyOWhQd3VNM0loUmFQSzZQMG9rVGEwdElaUUpYWlh0LUJFcDYwcTY4dE1xQ1ZTVkduajc5OXphaHhOUFQ4OFk4OHp1N2dkM2VrcWpxWVMzbnBzZmtTZXhDR3QzSlppdzZDS1VwQ093ZzNvUkNFMmc2ajRn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The Defender’s Window",
+        "Introducing Nearmap Labs: A Window into the Future of Property Intelligence"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 32,
       "sources": 2,
       "ts": "2026-08-17T11:25:01.000Z",
       "writtenSources": 2,
@@ -193,35 +225,40 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 36,
-      "sources": 2,
-      "ts": "2026-08-17T05:30:00.000Z",
+      "cat": "policy",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-08-17T01:59:56.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "The Defender’s Window",
-      "s": "AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
+      "h": "AI Regulation in Flux: What businesses should do",
+      "s": "AI Regulation in Flux: What businesses should do JD Supra",
       "b": [
-        "openai.com: The Defender’s Window",
-        "prnewswire.com: Introducing Nearmap Labs: A Window into the Future of Property Intelligence"
+        "jdsupra.com: AI Regulation in Flux: What businesses should do",
+        "twitter.com: On AI regulation and messaging"
       ],
       "body": [
-        "openai.com: AI is reshaping cybersecurity for attackers and defenders alike. Learn how OpenAI is strengthening its defenses and what security teams can do now.",
-        "prnewswire.com: Introducing Nearmap Labs: A Window into the Future of Property Intelligence PR Newswire"
+        "jdsupra.com: AI Regulation in Flux: What businesses should do JD Supra",
+        "twitter.com: https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49325789 Points: 193 # Comments: 390"
       ],
       "l": [
         {
-          "d": "openai.com",
-          "u": "https://openai.com/index/the-defenders-window"
+          "d": "cacm.acm.org",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNFpLWmo1bWlqMVlPSnVhYTlxanVHS25Mb280dkxtT0NuYTRyYURuZE5oQlMyR1VBMU5LMDUyaExDbFZ4QWk0ZTNrWU1abEM5ak5SWnlDd0lBVjRUZjBGcTlCaFBrN1RBdzF6eTQ0Z0NtZXVkQ1lsNnFRNE5YeUpzdUNMaVc?oc=5"
         },
         {
-          "d": "prnewswire.com",
-          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMzNjRVJ2c2x0REtvZ2ZWbjAzenNYbzdac1hLSEpmZkRvRC1IVzlLcjNHT3pVN2d4S2dZckl6UTk5SWZhT0I0b05IeGZBbDBSZUtZZTROckFyOWhQd3VNM0loUmFQSzZQMG9rVGEwdElaUUpYWlh0LUJFcDYwcTY4dE1xQ1ZTVkduajc5OXphaHhOUFQ4OFk4OHp1N2dkM2VrcWpxWVMzbnBzZmtTZXhDR3QzSlppdzZDS1VwQ093ZzNvUkNFMmc2ajRn?oc=5"
+          "d": "twitter.com",
+          "u": "https://twitter.com/DarioAmodei/status/2088758816376807762"
+        },
+        {
+          "d": "jdsupra.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR0tPT1A4ZXE2M2JQY2dhMVdSZTVfRkFFS3M2a3dwNTM0cWRNWHBicVU5YUlHWWFtSTUxdlhlS3ZpZGwzeDAxS0EzTUFkWHhzSVVacmZoNDJpdEtUQWdJYTd3dmllSEJTZjF2ZUpqWHhMUVVVMVEwd3E5c25xSWtrdkdybVo0Um8?oc=5"
         }
       ],
       "srcTitles": [
-        "The Defender’s Window",
-        "Introducing Nearmap Labs: A Window into the Future of Property Intelligence"
+        "When AI Regulation Becomes a Systems Bottleneck",
+        "On AI regulation and messaging",
+        "AI Regulation in Flux: What businesses should do"
       ]
     },
     {
@@ -273,72 +310,7 @@
         }
       ],
       "srcTitles": [
-        "New policy ideas for the Intelligence Age",
         "New policy ideas for the Intelligence Age"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 22,
-      "sources": 2,
-      "ts": "2026-08-17T01:59:56.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "AI Regulation in Flux: What businesses should do",
-      "s": "AI Regulation in Flux: What businesses should do JD Supra",
-      "b": [
-        "jdsupra.com: AI Regulation in Flux: What businesses should do",
-        "twitter.com: On AI regulation and messaging"
-      ],
-      "body": [
-        "jdsupra.com: AI Regulation in Flux: What businesses should do JD Supra",
-        "twitter.com: https://xcancel.com/DarioAmodei/status/2088758816376807762 Comments URL: https://news.ycombinator.com/item?id=49325789 Points: 193 # Comments: 390"
-      ],
-      "l": [
-        {
-          "d": "jdsupra.com",
-          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR0tPT1A4ZXE2M2JQY2dhMVdSZTVfRkFFS3M2a3dwNTM0cWRNWHBicVU5YUlHWWFtSTUxdlhlS3ZpZGwzeDAxS0EzTUFkWHhzSVVacmZoNDJpdEtUQWdJYTd3dmllSEJTZjF2ZUpqWHhMUVVVMVEwd3E5c25xSWtrdkdybVo0Um8?oc=5"
-        },
-        {
-          "d": "twitter.com",
-          "u": "https://twitter.com/DarioAmodei/status/2088758816376807762"
-        }
-      ],
-      "srcTitles": [
-        "AI Regulation in Flux: What businesses should do",
-        "On AI regulation and messaging"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 18,
-      "sources": 2,
-      "ts": "2026-08-17T04:00:13.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Anthropic explains how Claude s invisible text watermarks will work",
-      "s": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's te",
-      "b": [
-        "theverge.com: Anthropic explains how Claude s invisible text watermarks will work",
-        "techmeme.com: Anthropic's text watermark alters word probabilities to embed a fingerprint, which could degrade Claude's writing, despite its claim of no impact on quality (John Gruber/Daring Fireball)"
-      ],
-      "body": [
-        "theverge.com: Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This [ ]",
-        "techmeme.com: John Gruber / Daring Fireball : Anthropic's text watermark alters word probabilities to embed a fingerprint, which could degrade Claude's writing, despite its claim of no impact on quality When I wrote this week about Anthropic's announcement that all Claude models, worldwide, would soon begin watermarking"
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260817/p1#a260817p1"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic explains how Claude s invisible text watermarks will work",
-        "Anthropic's text watermark alters word probabilities to embed a fingerprint, which could degrade Claude's writing, despite its claim of no impact on quality (John Gruber/Daring Fireball)"
       ]
     },
     {
@@ -435,6 +407,38 @@
       "srcTitles": [
         "Alibaba to sell gaming unit for $1.5 billion in strategic shift to artificial intelligence",
         "Alibaba to sell gaming unit for $1.5 billion in strategic shift to artificial intelligence"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-08-17T04:00:13.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic explains how Claude s invisible text watermarks will work",
+      "s": "Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's te",
+      "b": [
+        "theverge.com: Anthropic explains how Claude s invisible text watermarks will work",
+        "techmeme.com: Anthropic's text watermark alters word probabilities to embed a fingerprint, which could degrade Claude's writing, despite its claim of no impact on quality (John Gruber/Daring Fireball)"
+      ],
+      "body": [
+        "theverge.com: Anthropic has clarified how it's planning to apply invisible watermarks to Claude-generated text in order to comply with Europe's AI transparency rules. On Friday, Anthropic announced that Claude's text marking system is \"a version of the SynthID-Text approach\" - an open-source watermarking technology developed by Google DeepMind that creates detectable patterns using wording probabilities. This [ ]",
+        "techmeme.com: John Gruber / Daring Fireball : Anthropic's text watermark alters word probabilities to embed a fingerprint, which could degrade Claude's writing, despite its claim of no impact on quality When I wrote this week about Anthropic's announcement that all Claude models, worldwide, would soon begin watermarking"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260817/p1#a260817p1"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic explains how Claude s invisible text watermarks will work",
+        "Anthropic's text watermark alters word probabilities to embed a fingerprint, which could degrade Claude's writing, despite its claim of no impact on quality (John Gruber/Daring Fireball)"
       ]
     },
     {
