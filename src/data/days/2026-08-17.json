@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 49,
       "sources": 1,
       "ts": "2026-08-17T08:00:00.000Z",
       "writtenSources": 1,
@@ -28,7 +28,7 @@
     },
     {
       "cat": "funding",
-      "signal": 50,
+      "signal": 46,
       "sources": 2,
       "ts": "2026-08-17T07:05:00.000Z",
       "writtenSources": 2,
@@ -82,13 +82,12 @@
         }
       ],
       "srcTitles": [
-        "What happens when a kid’s robot best friend dies?",
         "What happens when a kid’s robot best friend dies?"
       ]
     },
     {
       "cat": "policy",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-08-16T23:01:29.000Z",
       "writtenSources": 2,
