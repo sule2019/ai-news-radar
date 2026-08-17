@@ -2,8 +2,40 @@
   "date": "2026-08-17",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-08-17T13:00:14.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center (Anissa Gardizy/Wall Street Journal)",
+      "s": "Anissa Gardizy / Wall Street Journal : OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center Ag",
+      "b": [
+        "techmeme.com: OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center (Anissa Gardizy/Wall Street Journal)",
+        "asia.nikkei.com: Nvidia to invest $1.5bn in SB Energy under OpenAI data center deal"
+      ],
+      "body": [
+        "techmeme.com: Anissa Gardizy / Wall Street Journal : OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center Agreement with SoftBank's SB Energy caps weeks of negotiations over the largest data-center project announced to date",
+        "asia.nikkei.com: Nvidia to invest $1.5bn in SB Energy under OpenAI data center deal Nikkei Asia"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260817/p15#a260817p15"
+        },
+        {
+          "d": "asia.nikkei.com",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOT3hia1BfNW9hU3puLU1WMnhsLXdXWnpWcTZqcmlsay01M0IyTjcxNmZzWVUteFNtNkNUYllncnNxanFtSEpKQjFadWJXbG9iMUVKM1dhYVI1Q0NzaXNYVDFHNE9falRwbDExSF8tUTlER2JBUW9XZ0JQNmFHQzB0UmlFZ1Zrd0YweFprWGw4UWpRNVBjRENRUTF0R1ZPN1h6eEJ1Q1hHRHRsODEzbEhFNnJEb2R4NHNoRjRGTXFySUZSM1NkS3B1cnNTTVJEZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI signs a 20-year, 10GW data center deal in Ohio with SoftBank's SB Energy; Nvidia agrees to backstop a portion of the value of the completed data center (Anissa Gardizy/Wall Street Journal)",
+        "Nvidia to invest $1.5bn in SB Energy under OpenAI data center deal"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 50,
+      "signal": 46,
       "sources": 2,
       "ts": "2026-08-17T04:00:13.000Z",
       "writtenSources": 2,
@@ -207,8 +239,33 @@
       ]
     },
     {
-      "cat": "funding",
+      "cat": "policy",
       "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-17T03:15:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "New policy ideas for the Intelligence Age",
+      "s": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
+      "b": [
+        "openai.com: New policy ideas for the Intelligence Age"
+      ],
+      "body": [
+        "openai.com: OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
+        }
+      ],
+      "srcTitles": [
+        "New policy ideas for the Intelligence Age"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 20,
       "sources": 2,
       "ts": "2026-08-17T11:49:09.000Z",
       "writtenSources": 2,
@@ -239,33 +296,8 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-08-17T03:15:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "New policy ideas for the Intelligence Age",
-      "s": "OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age.",
-      "b": [
-        "openai.com: New policy ideas for the Intelligence Age"
-      ],
-      "body": [
-        "openai.com: OpenAI funds 14 independent projects exploring new AI policy ideas to expand economic opportunity and strengthen societal resilience in the Intelligence Age."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/new-policy-ideas-for-the-intelligence-age"
-        }
-      ],
-      "srcTitles": [
-        "New policy ideas for the Intelligence Age"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-17T07:05:00.000Z",
       "writtenSources": 2,
