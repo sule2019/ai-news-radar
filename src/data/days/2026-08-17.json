@@ -1,4 +1,62 @@
 {
   "date": "2026-08-17",
-  "stories": []
+  "stories": [
+    {
+      "cat": "funding",
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-08-17T07:05:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Alibaba to sell gaming unit for $1.5 billion in strategic shift to artificial intelligence",
+      "s": "Alibaba to sell gaming unit for $1.5 billion in strategic shift to artificial intelligence Yahoo Finance UK",
+      "b": [
+        "uk.finance.yahoo.com: Alibaba to sell gaming unit for $1.5 billion in strategic shift to artificial intelligence",
+        "proactiveinvestors.com: Alibaba to sell gaming unit for $1.5 billion in strategic shift to artificial intelligence"
+      ],
+      "body": [
+        "uk.finance.yahoo.com: Alibaba to sell gaming unit for $1.5 billion in strategic shift to artificial intelligence Yahoo Finance UK",
+        "proactiveinvestors.com: Alibaba to sell gaming unit for $1.5 billion in strategic shift to artificial intelligence Proactive financial news"
+      ],
+      "l": [
+        {
+          "d": "uk.finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNWnJWUzl2dTFNNlVOeGdyelZ1b0RlODd0eFMweE1FMmJCMTUtZ0UtQXRueFpGYkhBSjF6RkhfSGp3QlpmVTI3bkk2TzZWRV9QcG5KYmM1U2RTLXFvZDlIc0J4YjVtd2g5Tk8wdHg1SXhLTVdJQ2xxc3Y1Rkc2cW5Seg?oc=5"
+        },
+        {
+          "d": "proactiveinvestors.com",
+          "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNdXd0U0Q1SlhHMUdRTXpjZFRqSUR0ZnhwVDh2UVpJR1NaY1FpQmY0Rjl4WXhDTUotRlR5NS1Fd3FlVWFfRE9VcUZjaFY5WmF1SEJkRFRiUGtrUDlYaHJiSlZNOUFxSmtBYVJJV2dkVzB2bXk1b2N4TFUwUVRjYUlLSS04ZS1TRU1QUkNHSlVLYTB2RXpTQ3JKdVVhZnpHTGR5QVhvd0pGeEV5OFFqbnhqLTNkQkYzM19JSkFra2VkSnF4eTFTRG5MaE5XWXY5UzZoRFhEMXptQkUxMVMzRXVtUkw1RkF0QW85V0EwREZKSjE4Zw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Alibaba to sell gaming unit for $1.5 billion in strategic shift to artificial intelligence",
+        "Alibaba to sell gaming unit for $1.5 billion in strategic shift to artificial intelligence"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-08-17T08:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Get closer to the game with Gemini and Pixel",
+      "s": "Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology.",
+      "b": [
+        "blog.google: Get closer to the game with Gemini and Pixel"
+      ],
+      "body": [
+        "blog.google: Google Gemini and Pixel partner with five global football clubs to elevate the fan matchday experience through AI and Smartphone Technology."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/gemini/google-gemini-pixel-football-club-partnerships/"
+        }
+      ],
+      "srcTitles": [
+        "Get closer to the game with Gemini and Pixel"
+      ]
+    }
+  ]
 }
