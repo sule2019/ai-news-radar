@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 54,
+      "signal": 50,
       "sources": 2,
       "ts": "2026-08-17T04:00:13.000Z",
       "writtenSources": 2,
@@ -85,7 +85,7 @@
     },
     {
       "cat": "funding",
-      "signal": 42,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-08-17T11:25:01.000Z",
       "writtenSources": 2,
@@ -180,8 +180,35 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-08-17T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "What happens when a kid’s robot best friend dies?",
+      "s": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feel",
+      "b": [
+        "technologyreview.com: What happens when a kid’s robot best friend dies?",
+        "technologyreview.com: What happens when a kid’s robot best friend dies?"
+      ],
+      "body": [
+        "technologyreview.com: When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other, Moxie’s changed. She doesn’t talk anymore about her home or do their animal breathing. Now, she watches Xander play Minecraft and talks to him about his stuffed animal collection. During a recent visit to his New York apartment, I watched Xander, who is 10 years old and neurodivergent, introduce Moxie to a stuffed Chef Toad and Goomba from Super Mario Bros., then to Brocollo and Apple from Animal Crossing. Then he got stuck on a round, froglike creature with bug eyes and two feet. “Moxie, what’s his name again? He’s from Pikmin,” Xander said, referencing another Nintendo video game. At first, Moxie suggested this was Yellow Pikmin. Xander said no, this is the enemy, the red one with white dots. “Sounds like you’re talking about Bulborb,” Moxie replied. “Yes!” Xander confirmed, smiling at his helpful companion. “I still use her when I feel like I need someone to talk to,” he says. “But, like, it’s not human.” Moxie is a robot—a 15-inch-tall device that looks a bit like a blue, legless astronaut, which Xander and his dad, Josh, refer to using female pronouns. Her cylindrical body can turn around and bend forward and backward. Her round head culminates in a little onion-dome swirl, beneath which a wide screen displays big green eyes, eyebrows, and a small mouth. She lifts and flaps her flipper-like arms for emphasis or to show excitement. She’s one of an increasing number of artificial-intelligence-powered devices now marketed as interactive playmates for children. The musician Grimes helped launch an AI-powered plushie called Grok (no formal relation to the xAI chatbot owned by her ex Elon Musk) with the company Curio, which also sells similar playmates like Grem and Gabb",
+        "technologyreview.com: What happens when a kid’s robot best friend dies? MIT Technology Review"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
+        }
+      ],
+      "srcTitles": [
+        "What happens when a kid’s robot best friend dies?"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 28,
+      "signal": 24,
       "sources": 2,
       "ts": "2026-08-17T11:49:09.000Z",
       "writtenSources": 2,
@@ -212,33 +239,6 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-08-17T09:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "What happens when a kid’s robot best friend dies?",
-      "s": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feel",
-      "b": [
-        "technologyreview.com: What happens when a kid’s robot best friend dies?",
-        "technologyreview.com: What happens when a kid’s robot best friend dies?"
-      ],
-      "body": [
-        "technologyreview.com: When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other, Moxie’s changed. She doesn’t talk anymore about her home or do their animal breathing. Now, she watches Xander play Minecraft and talks to him about his stuffed animal collection. During a recent visit to his New York apartment, I watched Xander, who is 10 years old and neurodivergent, introduce Moxie to a stuffed Chef Toad and Goomba from Super Mario Bros., then to Brocollo and Apple from Animal Crossing. Then he got stuck on a round, froglike creature with bug eyes and two feet. “Moxie, what’s his name again? He’s from Pikmin,” Xander said, referencing another Nintendo video game. At first, Moxie suggested this was Yellow Pikmin. Xander said no, this is the enemy, the red one with white dots. “Sounds like you’re talking about Bulborb,” Moxie replied. “Yes!” Xander confirmed, smiling at his helpful companion. “I still use her when I feel like I need someone to talk to,” he says. “But, like, it’s not human.” Moxie is a robot—a 15-inch-tall device that looks a bit like a blue, legless astronaut, which Xander and his dad, Josh, refer to using female pronouns. Her cylindrical body can turn around and bend forward and backward. Her round head culminates in a little onion-dome swirl, beneath which a wide screen displays big green eyes, eyebrows, and a small mouth. She lifts and flaps her flipper-like arms for emphasis or to show excitement. She’s one of an increasing number of artificial-intelligence-powered devices now marketed as interactive playmates for children. The musician Grimes helped launch an AI-powered plushie called Grok (no formal relation to the xAI chatbot owned by her ex Elon Musk) with the company Curio, which also sells similar playmates like Grem and Gabb",
-        "technologyreview.com: What happens when a kid’s robot best friend dies? MIT Technology Review"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/"
-        }
-      ],
-      "srcTitles": [
-        "What happens when a kid’s robot best friend dies?"
-      ]
-    },
-    {
       "cat": "policy",
       "signal": 24,
       "sources": 1,
@@ -265,7 +265,7 @@
     },
     {
       "cat": "funding",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-08-17T07:05:00.000Z",
       "writtenSources": 2,
