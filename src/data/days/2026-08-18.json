@@ -99,7 +99,32 @@
     },
     {
       "cat": "models",
-      "signal": 48,
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-18T11:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "s": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "b": [
+        "openai.com: Introducing ChatGPT for Teens: Built for learning, backed by protections"
+      ],
+      "body": [
+        "openai.com: ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/chatgpt-for-teens"
+        }
+      ],
+      "srcTitles": [
+        "Introducing ChatGPT for Teens: Built for learning, backed by protections"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 44,
       "sources": 2,
       "ts": "2026-08-18T09:45:49.000Z",
       "writtenSources": 2,
@@ -130,33 +155,8 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-08-18T11:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "s": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "b": [
-        "openai.com: Introducing ChatGPT for Teens: Built for learning, backed by protections"
-      ],
-      "body": [
-        "openai.com: ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/chatgpt-for-teens"
-        }
-      ],
-      "srcTitles": [
-        "Introducing ChatGPT for Teens: Built for learning, backed by protections"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 40,
+      "signal": 37,
       "sources": 2,
       "ts": "2026-08-18T16:31:30.000Z",
       "writtenSources": 2,
@@ -211,16 +211,16 @@
           "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2ZPNFdMclZGdTM1dzdMWE1xZEhRdy1ITXhtUmVRcmJZVVFXZ05LU01FM3FPUkRxNE13aHlBdXFCb0pkbjI1dnZFVTJ2alpXbTJGLXJUY3NIbEEzRS1XWlRGeGczbUdWV3kzejdZY2JMM1QtcnotTE12R3FyV0hBSlRDc2VzQ1otb1VuQXhJeWtueWx5REtXUG15bi1MdXhqMEdROF93cHhtcjkyMnJ0cjZEUQ?oc=5"
         },
         {
-          "d": "cleveland19.com",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORGxtZmF2V0E3eWhmaTVpXzUtTWJXc0x0Y0U4MDRmTTJBYVZNLU14VVpaQ1B4RWZmMDR4Q2NzN2RyTlUxR1hPdW8tTlk0Wk1IeURoUWVYaFowOU04NHpROF83RmRfTGRpX2ZzQlpCdExhNzJjdld4T2V2U285eTdSX0FrbERKWndEY1hPX2ktQXUzVVd4RzdyR0VmeFpLRlMwaW9mTjJBTWxhSHBtWFZaeHdkaw?oc=5"
-        },
-        {
           "d": "1011now.com",
           "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTC1aRkdldFhDcHZya2h0SjZXVS1qeG5VRjk1T3lRc0tpcklUdHdHSUo4SWlyWUtCZkNTWjhtemRtSDNOYU4tQUNIeUxVUnAtQ1NwWjVKbUx6UmxXUVhoQnVvWDEzUTBxdWtCTlFPX3RiN25FUkRDcHZWRXRRRm0za1hIRDY4bjZhZVhXMW90TlBEak1nU0ctWE16ZWczaEx0eE1LQVBvd2Y5ZElPVEE?oc=5"
         },
         {
           "d": "azfamily.com",
           "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPem5VNWIzeWdPZTVJMFk0LXhndkRYOG9rOFdVVHZHa2o0UjJCc0tDQnc1RUtxaXprVG9ST09pdU4tZVcyUmpScXZkcmJINGtSSE5KLUhUZlJ6ejgwSHVrdUp0bE5TMHNxVVBpYW5LRk84Mmh2QV9mZHVmN1BMdHYtWlJCWUY5TEh0UmJTQjVMcEhvamRhWXVYUkM0TVRGVXJMNWRVZkZySE1yS1MtVVc0?oc=5"
+        },
+        {
+          "d": "walb.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnBJS3BKNjJ0OFlpNVdkczF4bE95eWY3cDktQi1oUEp1SjBRZjh4STdkODlZRldxWGhiVm9xUHI4ai1xWnQ2Q2lRMUhodVcwTTMtTTVscTJrVlg3emVwSklOVUFHWmdsbnMzWXpnNDVMTzFEMUN4eXc0eVVGNGhYQlY3dG1BQmw4U2ktTUR6WlU3bEg0UkJTcFRoZTFVU0k5am9yYnBXRjREQQ?oc=5"
         },
         {
           "d": "+1"
@@ -231,6 +231,102 @@
         "AI in the Classroom: How local school districts are managing the tech expansion",
         "AI in the Classroom: How local school districts are managing the tech expansion",
         "AI in the Classroom: How local school districts are managing the tech expansion"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-08-18T18:44:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "In America’s classrooms, AI and VR prompt calls for new guardrails for students",
+      "s": "In America’s classrooms, AI and VR prompt calls for new guardrails for students KATU",
+      "b": [
+        "katu.com: In America’s classrooms, AI and VR prompt calls for new guardrails for students",
+        "thenationaldesk.com: In America’s classrooms, AI and VR prompt calls for new guardrails for students"
+      ],
+      "body": [
+        "katu.com: In America’s classrooms, AI and VR prompt calls for new guardrails for students KATU",
+        "thenationaldesk.com: In America’s classrooms, AI and VR prompt calls for new guardrails for students National Desk"
+      ],
+      "l": [
+        {
+          "d": "katu.com",
+          "u": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxPbW0wcTcxdnJaeDdkRVRBSmV0eC1zVnBsME5xTEVwYzMzOXNVdWMwQmJYSWp3X05yaEdyNUowT0JhZHFHWGVhU1docjNQMjZtVlFFdmJSLU9nTUFULTQ1RGNTeEZSNFFVN3dROUNUSXRnd1BVQVg3aW42QU9HZG9kVHpzM3FuMUpIMWF2QWNMVi0zT2UxVGVEMFk3ZUw0aDd0VFBSS0tLcFBmRHMyZnREaGRNU0dxanZ1d2JBUVpGY0FXYmktZzZ1aUZ2UHBrbEJYa1pfRmJmMzFhc3MtXzM3MmhFYmp1QlJHR3d2Z05SeGtsRk9XZER2ZlBtR3E0NmQzSUJLd1ZlbjZWWHNiYU1PcVc0RlNJcTVlZzBiWGQ2czY2azlBM0laM2ppSFNGUFVEbG4wMXZaSXMtdkwxZW9nMGNFSlZDTWdVcDBaRGV0NjVVYzdFU1pUZ0VtdlZaeF9OVHo3VzFWc1V3OFJ1ZG4wNV9QSQ?oc=5"
+        },
+        {
+          "d": "thenationaldesk.com",
+          "u": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNQllaY3RZRTJSekQwS0kydFpfLWJUcjdhS0ZQUWNxZVNoOFUybUxmNFZBV1F1ZGp2WlFjM2hqOVlseEJ3NWVnQXdjSjRDekRicUc3U1NlMzhrelFxV0xBb1JoY1RremVmcEJpcnE2THhSTFNYVjItazMxMWRLakctSGx3QjQwMHZSWVZuUU9rbGhDa2poakhaWm9JTGxxTzVpc254OHh3bF9JMG8zemtYSHlFRm9FeEJ3TFd5STdrTWdkQzV1U2JUYzlQVkRHdU12TFFfc2t2NXlZTGFnUk14TU9CTmx2SjdnbTAzLWZUc1ltVkJfSHp3SnZiTnVYcGpUdkRSYVctNHdVbjh6T1J0eUhVVUZFZFRRNnBRTmkxZEFwSFc5RWQyQnVFejZfUW1ZR1EteUE4dWpRR25KRXQxLVRqbERFNXZPbkZOb1ZEWmxTd0FSdFJoU0VDaDNhX2tjcldaZ3lmQl8?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "In America’s classrooms, AI and VR prompt calls for new guardrails for students",
+        "In America’s classrooms, AI and VR prompt calls for new guardrails for students"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-08-18T17:48:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "ADRES Enters Medical Claims Auditing Through Artificial Intelligence, Built with Blend",
+      "s": "ADRES Enters Medical Claims Auditing Through Artificial Intelligence, Built with Blend finance.yahoo.com",
+      "b": [
+        "finance.yahoo.com: ADRES Enters Medical Claims Auditing Through Artificial Intelligence, Built with Blend",
+        "aijourn.com: ADRES Enters Medical Claims Auditing Through Artificial Intelligence, Built with Blend"
+      ],
+      "body": [
+        "finance.yahoo.com: ADRES Enters Medical Claims Auditing Through Artificial Intelligence, Built with Blend finance.yahoo.com",
+        "aijourn.com: ADRES Enters Medical Claims Auditing Through Artificial Intelligence, Built with Blend The AI Journal"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcGs3bFpVN3A3TFFETlo4X1dveGU2Z2lTMVNycGFWUG0wV1VIbVBHdWwwMXZFRnNVLVV0Qm54RVlqZ1liTUlNV1c4dk5aYWQyR1lMMC14S0FMYTA2OXBNOURiaFVoQm9XcTRwMnBJLTVMZkpKMlZMalZTRkY2QWlVWFFqUjk4UzZ6Z2cwMklSUTdtMmhRdlEyd3FwQm5MZw?oc=5"
+        },
+        {
+          "d": "aijourn.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVm0tZkZOMUwyeGZwWkJrWkgwY0duYUIzOTdWWUMwdjZZMm0xQzhScVVzdkxNeXJCTVh2aDlrd1BrdC1iV3FxZUM2RlM1V09TT0ptM1RhaTlKQmp4TWg0c1VoUmZoTHpuVm5qRUpGN0x3YkVKRks1RThNLVh5N2xiSmJFR3Z1Z1d6VkRxcnFfSWVFNXpXd0pSVjhTVmJ1c29CQ2ZfSTNwRndhQQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "ADRES Enters Medical Claims Auditing Through Artificial Intelligence, Built with Blend",
+        "ADRES Enters Medical Claims Auditing Through Artificial Intelligence, Built with Blend"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-08-18T15:18:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
+      "s": "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
+        "businesswire.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM"
+      ],
+      "body": [
+        "finance.yahoo.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Yahoo Finance",
+        "businesswire.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Business Wire"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeW9kekt2cE5jZHRfNnlxSVY5OVFjLUxDRWp4ZHM1MDhPX2JkWmJoZ1VLUWtfQUVsOVdZc2owNm95aEJaT0ZEbk5uenBqbTJzR2hPT3VDN0drZ2N3WVdZUm9sU3RoemhyTVZuNUhwWkxpanVsWmVlZGJKdzZwTnZSckhLZTFVdGxGdGstcnVYOW55RTZMS1VVS1UwWDlHMHdSRG1ta3VSc1A?oc=5"
+        },
+        {
+          "d": "01net.it",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaXZPRmVFQzFOX1BmYmVYUmQxTnh1N0JYZGFkdmxNRTdyaHVOdDJzY3djWVVUbXpScGM5RlZ4cTV0UTZ0Q3cwVm8tQ0FSZm9welJmTmxHOHM0cEd4TjZJMlFJVmw4Ym02d2JkZ2VQOXdkUlVJVk9yTlpPbFpweW9FS3NoLVpBOG1JVzN5cF9FQlI3NFRrYzZ5RVdmdDlxaGpORXhWLTJLdGJfdXh4NWU3QVBhTVpGN3I3UDQ2ZnN5SW93bW96d1E?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
+        "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM"
       ]
     },
     {
@@ -256,6 +352,31 @@
       ],
       "srcTitles": [
         "Partnering with CodeAI to prepare the first AI generation"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-18T11:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Pacing model development in an era of cyber-critical capabilities",
+      "s": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+      "b": [
+        "openai.com: Pacing model development in an era of cyber-critical capabilities"
+      ],
+      "body": [
+        "openai.com: OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/pacing-model-development-cyber-capabilities"
+        }
+      ],
+      "srcTitles": [
+        "Pacing model development in an era of cyber-critical capabilities"
       ]
     },
     {
@@ -331,38 +452,6 @@
       ],
       "srcTitles": [
         "Asana cleared 5 years of engineering work in 2 weeks with Codex"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 16,
-      "sources": 2,
-      "ts": "2026-08-18T15:18:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
-      "s": "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Yahoo Finance",
-      "b": [
-        "finance.yahoo.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
-        "businesswire.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM"
-      ],
-      "body": [
-        "finance.yahoo.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Yahoo Finance",
-        "businesswire.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Business Wire"
-      ],
-      "l": [
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeW9kekt2cE5jZHRfNnlxSVY5OVFjLUxDRWp4ZHM1MDhPX2JkWmJoZ1VLUWtfQUVsOVdZc2owNm95aEJaT0ZEbk5uenBqbTJzR2hPT3VDN0drZ2N3WVdZUm9sU3RoemhyTVZuNUhwWkxpanVsWmVlZGJKdzZwTnZSckhLZTFVdGxGdGstcnVYOW55RTZMS1VVS1UwWDlHMHdSRG1ta3VSc1A?oc=5"
-        },
-        {
-          "d": "businesswire.com",
-          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOamxDM1dteXdKVzh2OGhEcHBFTmJsU00yMFJTZTFzbkE4RTE3Zng5QVdYTjg0Y3A4SXFOeV9lX3Q0U3Y5MWRUTmVpclQzYkFxSDRER2ROdkpmZWYzcjJkd0J3eEpqMXo2OWhLdkhOZU5waFdhUGRhSXJoZWswYV9PNHEwa2lYOVNicng3OEFITTR4cnNJdEEyVHRhWHNkT29fNFBhcWs1b2ZQTU5EcWt4YXh1b19JeWhzT1lTNFdQbmpkVE5JVUliRVdNNWdGeklScE92U1VJeHF1a1VhZUdvNWQ1VUhyaV9MRnRRa2FOdFRnN29MeUE?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
-        "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM"
       ]
     }
   ]
