@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 59,
-      "sources": 3,
+      "signal": 61,
+      "sources": 4,
       "ts": "2026-08-18T11:06:17.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -28,6 +28,10 @@
           "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPR3A0dnZNOE5LSkJmWXRCd2N1U2tmX0t4ckNpa284cDJBNHVXREYxNlptMzRQNEZSekRoSFdnRUY4ZXdrU0ZMZnRkdDhxaDBESGI1YVlmVW5rQnNtb2E3WnpEVXBFaFJfcHViOXJXQWhScEw4dDc2VVJQOVI3YjhMYTFCRUw?oc=5"
         },
         {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMU82MjhTYi1LTE5FWU5VMHNpdndrQ1pQRUE5aVFrbTRrV2IzYTRiYjY3aHNHWFhta2Rvc0ItRk9wNWo1RXloR2NkNjYtV214emprQVJBQ0lnb2lXaWxMR0RjRkw4MDJEa0pORU5uNlZZVW5mNjgtTmNSNmFoYVRYTVF3clU1RDRydXdXODdYNy1PVHhJbS1ONGlTdFcyYkVvRUtiSTBLMVgweGpVS2tr?oc=5"
+        },
+        {
           "d": "abcnews.com",
           "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPODNVMmNOelM3amNTTjM2cDlOWlNJU0p6WEVmbUMzTXBFVzRySHJ4Ymo1SXU0TFZPSEViZTVWSk1KLXp2aUVaMHgyX2VQWGF3S0kwd2Jjc1Z5VDFzaHBOakN0MWRyRFJ3ZFkyTDZTbmNIZ3pfTUlVZDBKNnQzWUJmM0VlZnNwbVdRZGl6MElweVhlOUU2NGVtWWlBUHZqcjliYjI4ZtIBqgFBVV95cUxPN3JEaVJVYUtWWS1DZ2xqNFpEenFwUmUwV2VyeldTZnRBU0pHejJ6UXhjSTBwOERma1FHTE9DbDZuSk5qVU5wUHVhMW1tNk9RUldQQS1lQThseGJweGdnRmEwT3ZSM2FIT2h3TEtmb21lZDB1SXFWd0hnWGRRUVJIYWFQQk5xSzc1R2YyS3BSTXZScFlHUVJmRVJOeG5hWVNKNFJtQTdOdnlRdw?oc=5"
         }
@@ -35,6 +39,7 @@
       "srcTitles": [
         "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
         "Artificial Intelligence under control: OpenAI launches a ChatGPT exclusively for teens",
+        "OpenAI introduces ChatGPT for Teens, promising a more age-appropriate chatbot",
         "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot - ABC News"
       ]
     },
@@ -136,6 +141,38 @@
     },
     {
       "cat": "models",
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-08-18T23:15:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain",
+      "s": "Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain",
+        "fool.com: Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain"
+      ],
+      "body": [
+        "finance.yahoo.com: Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain Yahoo Finance",
+        "fool.com: Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMjNYNW4wVVVyRUU4MjlWMjBOSXBZaVBUOGVmWGlnVk9nQVl3Y0R0RWc1Q01PTXZNV1I5TEM2MnUyelMyLWtxbjNEaHlQWlBmbE1GZ2tFX0I0VGRIejd3Wk1RbjlCa3hRYkhiX01yLVdiVnZjandHdU9VMU9oYjg4eXktN2F4djJwNHFLdGJVaUV1N3FEdGc?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOOVJKd3VZcjRyMHdGVGNrcWhXM1htSHpGZUpwQjFEWk03cXU1WW1YNUl4dUx0RF9pWE5wYVlBV1JDWmhyWkRad3ZocEhLOTZLMVZBZXVzZmg3YS1Hb2FzR05ZVF9qWDlsTlhxWjRaOVJkaF9IYXEtd1UwUUV6dVR4b0hXdTRRRG9wS2FZVUpoV1hha1dMakI0SA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain",
+        "Broadcom vs. Nvidia: 1 Metric Shows Which Artificial Intelligence (AI) Chipmaker Is the Better Bargain"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 46,
       "sources": 1,
       "ts": "2026-08-18T11:00:00.000Z",
@@ -160,35 +197,28 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 39,
-      "sources": 2,
-      "ts": "2026-08-18T18:18:46.000Z",
-      "writtenSources": 2,
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-18T00:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "FDA seeks feedback on potential regulatory approaches for generative AI-enabled medical devices",
-      "s": "FDA seeks feedback on potential regulatory approaches for generative AI-enabled medical devices American Hospital Association",
+      "h": "How NVIDIA scales expertise with ChatGPT Work",
+      "s": "NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally.",
       "b": [
-        "aha.org: FDA seeks feedback on potential regulatory approaches for generative AI-enabled medical devices",
-        "radiologybusiness.com: FDA wants feedback on how to regulate generative AI in medicine"
+        "openai.com: How NVIDIA scales expertise with ChatGPT Work"
       ],
       "body": [
-        "aha.org: FDA seeks feedback on potential regulatory approaches for generative AI-enabled medical devices American Hospital Association",
-        "radiologybusiness.com: FDA wants feedback on how to regulate generative AI in medicine Radiology Business"
+        "openai.com: NVIDIA teams use ChatGPT Work to reduce manual tasks, connect fast-moving signals, and scale successful workflows globally."
       ],
       "l": [
         {
-          "d": "aha.org",
-          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM1ZPaF9HS2FiZC1NbEloSHczZDRkX25rRFREREprQS11YTU3dktEMXVTY0NIMHFmNVlWN092VzMwaER6c3lvSXVuV2ZFN3pfVVRWc2M1dVVOenY3bVdzOTBuWUpZMWowTHVzNk9TemhyNWsySVdrdHNlanFtaEFpeDRYUk5lbjVVNWhXS1pqOGgzZ011YXRaeUY5bTYzMUtFTXUwaGxQZVBrX3lGaUtVVjg5UzY2ZmpsNzRncEVySTg5TWZuZDdjcUdrQzRxZw?oc=5"
-        },
-        {
-          "d": "radiologybusiness.com",
-          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0c4ckZkcHJ6S1M4d1pFMm81clJDWHBBMGxTQzBDLVNveW80U2ZJQU9TWWU1dmJqa29KSVRld20wdm9NaVNiYlBWeXYzTHZDVWZwRWc3TUxpNnZKTzZTaWQzemxqajhKN3plXzEwT2NaOXpKUFg4a0Vxdm81U0VvblRUUTVFc0ZrS3VQNE9HQ2RzR3JRTUpyTXFtbHhvS1BPdjM3VVZ3NG5OeXo2WTVLUWJ3aHJhZw?oc=5"
+          "d": "openai.com",
+          "u": "https://openai.com/index/nvidia/chatgpt-work"
         }
       ],
       "srcTitles": [
-        "FDA seeks feedback on potential regulatory approaches for generative AI-enabled medical devices",
-        "FDA wants feedback on how to regulate generative AI in medicine"
+        "How NVIDIA scales expertise with ChatGPT Work"
       ]
     },
     {
@@ -216,16 +246,16 @@
           "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2ZPNFdMclZGdTM1dzdMWE1xZEhRdy1ITXhtUmVRcmJZVVFXZ05LU01FM3FPUkRxNE13aHlBdXFCb0pkbjI1dnZFVTJ2alpXbTJGLXJUY3NIbEEzRS1XWlRGeGczbUdWV3kzejdZY2JMM1QtcnotTE12R3FyV0hBSlRDc2VzQ1otb1VuQXhJeWtueWx5REtXUG15bi1MdXhqMEdROF93cHhtcjkyMnJ0cjZEUQ?oc=5"
         },
         {
+          "d": "wbay.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUl0QXBKV1ZxVEcxRkFTeUpyVG16eEgtczBoYWpEcEVwZmV5R2hPNFNaRVM2WlM4ZXJMQk9QQ1VrWXI0MkFYREtzRmRqX3d6dGw3a1lneURoWW1qZHctNEpQd200UURYUm5CZWtYdWYzZFBUMkpXa2psRGRhbTJ1Y1Zsc0JLMDZ4TkZWSElNMnBVdUJwUWlMZTNhT2RmdndXclZ3SU1vMElSdw?oc=5"
+        },
+        {
           "d": "wsmv.com",
           "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYzE4MDVyS2xvdlNBa0NudmktUVZrcEdfSkt3eVhVajFyOUJydVZCaVE3QlgydlU5UU5wekpRM2xtM0xJR3d3OGdXMTdxc3QwTEFYXzhpaUkwdzZRV2ZIUlBQMGQ1SDAydFhKMEM0XzdFMUZDSjJZMTgtb2VMeWh0MmE1MzhOWmh3cDBqSmR2aWUwbXkwN2E3dUpydUhpamV3a190LU5lcTFPQQ?oc=5"
         },
         {
           "d": "wlbt.com",
           "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbGllNFl2WDgxV1luWGFqM2tiZ3E4U3M1Xy1lZ296bFhhUGpwZkppMUltSDF2YmQ3T3B1bVZ2ZDJXUHd6c283MDJqaHlPWVBVZE8xM096c2Q2OFZpV3pnNmxxUjJRSGVYNXlpcFdwME9zbGQ4YWhVM0Y1eTUwb0RaNjc4TXNHaW9pT2thNnNDWEJDd01nanNsTnliS1dRUmJuRGxWOTRVUHpSdw?oc=5"
-        },
-        {
-          "d": "wctv.tv",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkk3OE9JUE84Qm9XdFQycGplR2ZENEREekR2SzJJUnNobTB3bTJJNVZzV2xBTnVXWmFZWkJrODZiM2Q4ZGNpVS1KOEN2clI2M1Z0ekJSN011QUxxVE11cXgxdnhrRXpZQ0tSeV9FUXhxalB2THFRcmt4ZkdpZjZac3h2Q1hZWkNXNG1MbEJ6ckMyWFhkZkx3MDV6ZzNadWZyQTVSakVOVWI?oc=5"
         },
         {
           "d": "+4"
@@ -239,79 +269,35 @@
       ]
     },
     {
-      "cat": "funding",
+      "cat": "policy",
       "signal": 36,
-      "sources": 3,
-      "ts": "2026-08-18T22:41:00.000Z",
-      "writtenSources": 3,
-      "draft": true,
-      "h": "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
-      "s": "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip? Yahoo Finance",
-      "b": [
-        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
-        "fool.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
-        "aol.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?"
-      ],
-      "body": [
-        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip? Yahoo Finance",
-        "fool.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip? The Motley Fool",
-        "aol.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip? AOL.com"
-      ],
-      "l": [
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjNPS1p6Q2ZDRUNJeUVCOFo2a25hNjhCT0FuNzhiVDkxZzM2WXZ4QnZFRFBfdWNDdG5NcXY5R05DSXVYSi1wU0FUeVZwRllmTk0teVNzOUd3MWNPRGtLWEkwRHVKeE9BS21LZGNJNktUTjdrTkJjOF9nY19JRzU1eXE1d0oxNHVzVXU3WXVwNE95MWxlaXJuSGpYRXNoNnlIYkJvUkthSkl5ZDBRYXc?oc=5"
-        },
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGVkQ2RrdDhHbExTRE1VTHMzYzFsSG9TamZDc1hhNTB2Qm85aFg5T3E1WTMwRFoxd25kSWYyWjR5UnBDblVMZ0d5RlFSRTdwOXc0TEVpSmpCdlBKemVoX1hNTWUxNWlEN0VaaV8wMW5yRmZkN0NlWmlOSWNvUTg5VVk0dU1BVDBGVXh4MDFUcHpwWVFTeUZ3YQ?oc=5"
-        },
-        {
-          "d": "aol.com",
-          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWdOenYzeDZNbktVT3UxNDFXOXdFZVdkaVZQWWtHTExBRUdxcFliQzhTbDdNZHhlUjE0LXZVOTFWY3NFYTJHN2cyTWdOcy0xUDRnRmlzTG1KX1BjVWFhYkJhNHJ5TURPMUxreGZwUHp2TWlZZ2JCSHJ4THVxLXdXWnFJYkZEXzNLVXZGT096dlFQWE0?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
-        "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
-        "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 36,
-      "sources": 3,
-      "ts": "2026-08-18T22:20:00.000Z",
+      "sources": 2,
+      "ts": "2026-08-18T18:18:46.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
-      "s": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks Yahoo Finance",
+      "h": "FDA seeks feedback on potential regulatory approaches for generative AI-enabled medical devices",
+      "s": "FDA seeks feedback on potential regulatory approaches for generative AI-enabled medical devices American Hospital Association",
       "b": [
-        "finance.yahoo.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
-        "fool.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks"
+        "aha.org: FDA seeks feedback on potential regulatory approaches for generative AI-enabled medical devices",
+        "radiologybusiness.com: FDA wants feedback on how to regulate generative AI in medicine"
       ],
       "body": [
-        "finance.yahoo.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks Yahoo Finance",
-        "fool.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks The Motley Fool"
+        "aha.org: FDA seeks feedback on potential regulatory approaches for generative AI-enabled medical devices American Hospital Association",
+        "radiologybusiness.com: FDA wants feedback on how to regulate generative AI in medicine Radiology Business"
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelFTa1dHeEJjSUctSzM0S0UtWUt2em13RGhjdHY1MHpIQUREODkwZFJrOGFjODRISmNxSWlrMlRpM094eTdHSnBzRTY0NkY1Qkd4YXhTUjNDRUxzckJWRUcwZ0Y2OWxYYkhib01saWgzMHlaVHJOTGE0YUcwVjZkY1Q5d0xTWmFnLXNLY3Q5V0tUQWJKTzQ1R2p5NlJWOWJuR3c?oc=5"
+          "d": "aha.org",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQM1ZPaF9HS2FiZC1NbEloSHczZDRkX25rRFREREprQS11YTU3dktEMXVTY0NIMHFmNVlWN092VzMwaER6c3lvSXVuV2ZFN3pfVVRWc2M1dVVOenY3bVdzOTBuWUpZMWowTHVzNk9TemhyNWsySVdrdHNlanFtaEFpeDRYUk5lbjVVNWhXS1pqOGgzZ011YXRaeUY5bTYzMUtFTXUwaGxQZVBrX3lGaUtVVjg5UzY2ZmpsNzRncEVySTg5TWZuZDdjcUdrQzRxZw?oc=5"
         },
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZFprc0xKdm9BaVo3ZjNncWxFOWEzN0lqUVpQZ3Q4eDN1RFU5Y2F1eU1UQlFRbTFVTWlZLWdWM19uUElPbnFwMlFDanppSTZka0ZYUEhac0hKRDM0bjdMODNsbmI2NTJFc3RhdlNWdVVCMnFLdEQ3ZTNHY3YzX0F4TTNPeGktM0w4UUREeHg2ckEzeGpFampUUQ?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOYlFyQ1NJNGVrekxxSFVPZUpPczRXc1M4bTdoV1RkQjRjQWdycDdmTDB2SGcyOExzS19TMFYyS3U4Q0VyZ2xvT1pvbFRDU29ielN4dDlPdzM1NkNkY3k1N1VvVGxteVZDbjQzNF9PNFU1MU91T3dWYmJMaE9pdUU5YndyTGtqWXlfQzBCNlppYWRFdU52RmFOOHQ5dVJ2YURrUTZZRTJuLWlzdG5EcS1mbVZzWVdTd2JFcmlKQ0FUdGdobFh1dE1xSmk0SV9vVjZBRlBuX3JMU0sweW82ZVNPY1lVOVBvWW5PZHp2cWF0WmRKMWpJbW5XTllNa2pEUE9jMzhtdmhWU0ozb1RHekd1X1RsN2dNQ3Badm1zSUtqenY2cGpnX2dfamE5cFZienhiSlUzZ0N2ek1pa3VLZXhRWU1R?oc=5"
+          "d": "radiologybusiness.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0c4ckZkcHJ6S1M4d1pFMm81clJDWHBBMGxTQzBDLVNveW80U2ZJQU9TWWU1dmJqa29KSVRld20wdm9NaVNiYlBWeXYzTHZDVWZwRWc3TUxpNnZKTzZTaWQzemxqajhKN3plXzEwT2NaOXpKUFg4a0Vxdm81U0VvblRUUTVFc0ZrS3VQNE9HQ2RzR3JRTUpyTXFtbHhvS1BPdjM3VVZ3NG5OeXo2WTVLUWJ3aHJhZw?oc=5"
         }
       ],
       "srcTitles": [
-        "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
-        "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
-        "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks"
+        "FDA seeks feedback on potential regulatory approaches for generative AI-enabled medical devices",
+        "FDA wants feedback on how to regulate generative AI in medicine"
       ]
     },
     {
@@ -347,35 +333,69 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 28,
+      "cat": "funding",
+      "signal": 32,
       "sources": 2,
-      "ts": "2026-08-18T14:14:55.000Z",
-      "writtenSources": 2,
+      "ts": "2026-08-18T22:41:00.000Z",
+      "writtenSources": 3,
       "draft": true,
-      "h": "OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount",
-      "s": "OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount The Seattle Times",
+      "h": "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
+      "s": "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip? Yahoo Finance",
       "b": [
-        "seattletimes.com: OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount",
-        "nytimes.com: OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow"
+        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
+        "fool.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
+        "aol.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?"
       ],
       "body": [
-        "seattletimes.com: OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount The Seattle Times",
-        "nytimes.com: OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow The New York Times"
+        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip? Yahoo Finance",
+        "fool.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip? The Motley Fool",
+        "aol.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip? AOL.com"
       ],
       "l": [
         {
-          "d": "seattletimes.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUtOeEkwdjF2eXhNNHU2T18zdGZWSkZWb2JSS3h0RmZKVGozT3ZoRE1UTnY5NVpPOUtCZW05VVdqbV9XVHZSclVsbFNjc2t6bVNrRkVDZDBPNmdRXzVIUTNiZmNTdjB6OTdJOVFwTTUxX3BTR0JuWE9pUmp2YUpHb0JicmltZG1Ba3liMnlLVmxHX19IZlBSY2o3R1o4NGJYc1J6Mg?oc=5"
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGVkQ2RrdDhHbExTRE1VTHMzYzFsSG9TamZDc1hhNTB2Qm85aFg5T3E1WTMwRFoxd25kSWYyWjR5UnBDblVMZ0d5RlFSRTdwOXc0TEVpSmpCdlBKemVoX1hNTWUxNWlEN0VaaV8wMW5yRmZkN0NlWmlOSWNvUTg5VVk0dU1BVDBGVXh4MDFUcHpwWVFTeUZ3YQ?oc=5"
         },
         {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVJ2TnN5Q1VTNkZRdjd2VU0ybFFEcHZQaG00d3NLTDRoaE5aT2xKbHFXX0wzbGxnRUxMRGZORUpHVm90MHJuTjVLN3FqOVUyOFRpV1c1cG1Vbm9udlMwVDN3WFMwUnRBTGl2Tjg0b2VFaDVJUUNQSzV6TGl4MTJVcg?oc=5"
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPRHJya2pWUUUyY3V5QnBLQVhNX2lJaEl6NHptLU13RXh0eDdpaUtMVFp1dkN5LUFtenBvZ29nWUg2MnpZT2RiNGtLVGdoT0hlV29rbDdaa3RHeExFZXRiWXlMbi1hOHEzS21DdmdLNy04UkFWUm9XMzJyOVVLQ1luUzQ2YWg3WWxFQVBCa0hweDFkdWc5cmRIR1d3WGJJbzczUTV3OU8tbWRUSHZsaE05LVNIX1hGdF91dlhVYzhXT1hkM0F3RDZ2aFRKZl9WdXNzbzBacnRsMHVCZENhaUNzVUhhNFVtYTZqWEpWd1NUV2ZpbXdPa2N2ek02N1JfdFRvMnRuSXR2ZVBRcy0tVVRQbndGYVRlQWZNazV5VkNZd01YdFVTRnc?oc=5"
         }
       ],
       "srcTitles": [
-        "OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount",
-        "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow"
+        "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
+        "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-08-18T22:20:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
+      "s": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
+        "fool.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks"
+      ],
+      "body": [
+        "finance.yahoo.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks Yahoo Finance",
+        "fool.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelFTa1dHeEJjSUctSzM0S0UtWUt2em13RGhjdHY1MHpIQUREODkwZFJrOGFjODRISmNxSWlrMlRpM094eTdHSnBzRTY0NkY1Qkd4YXhTUjNDRUxzckJWRUcwZ0Y2OWxYYkhib01saWgzMHlaVHJOTGE0YUcwVjZkY1Q5d0xTWmFnLXNLY3Q5V0tUQWJKTzQ1R2p5NlJWOWJuR3c?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZFprc0xKdm9BaVo3ZjNncWxFOWEzN0lqUVpQZ3Q4eDN1RFU5Y2F1eU1UQlFRbTFVTWlZLWdWM19uUElPbnFwMlFDanppSTZka0ZYUEhac0hKRDM0bjdMODNsbmI2NTJFc3RhdlNWdVVCMnFLdEQ3ZTNHY3YzX0F4TTNPeGktM0w4UUREeHg2ckEzeGpFampUUQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
+        "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks"
       ]
     },
     {
@@ -594,7 +614,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-08-18T01:53:57.000Z",
       "writtenSources": 2,
@@ -626,7 +646,7 @@
     },
     {
       "cat": "models",
-      "signal": 16,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-18T20:07:12.000Z",
       "writtenSources": 2,
