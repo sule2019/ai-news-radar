@@ -34,6 +34,38 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-08-18T09:00:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Why Apple s camera-equipped AirPods may not be the pervert pods consumers fear",
+      "s": "Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+      "b": [
+        "techcrunch.com: Why Apple s camera-equipped AirPods may not be the pervert pods consumers fear",
+        "theverge.com: Apple s camera-equipped AirPods appear in leaked video"
+      ],
+      "body": [
+        "techcrunch.com: Apple’s leaked camera-equipped AirPods might avoid the privacy pitfalls of other AI wearables by preventing users from recording photos and videos.",
+        "theverge.com: We may have our first glimpse of Apple's rumored camera-equipped AirPods, thanks to a video that MacRumors found in the macOS Tahoe 26.7 Release Candidate. The short video clip features a man - who is wearing the new AirPods - holding up a book with the cover displayed, so that Visual Intelligence can see the [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/981326/apple-airpods-with-cameras-demo-video-leak"
+        }
+      ],
+      "srcTitles": [
+        "Why Apple s camera-equipped AirPods may not be the pervert pods consumers fear",
+        "Apple s camera-equipped AirPods appear in leaked video"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 48,
       "sources": 2,
@@ -136,7 +168,7 @@
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-08-18T15:18:00.000Z",
       "writtenSources": 2,
@@ -239,6 +271,31 @@
       ],
       "srcTitles": [
         "AI’s recursive self-improvement might not come so quickly after all"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-18T07:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "s": "Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K.",
+      "b": [
+        "openai.com: Asana cleared 5 years of engineering work in 2 weeks with Codex"
+      ],
+      "body": [
+        "openai.com: Asana used OpenAI Codex to replace an outdated testing system in two weeks, completing work expected to take five years for about $12K."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/asana"
+        }
+      ],
+      "srcTitles": [
+        "Asana cleared 5 years of engineering work in 2 weeks with Codex"
       ]
     }
   ]
