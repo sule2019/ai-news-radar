@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 68,
-      "sources": 3,
+      "signal": 59,
+      "sources": 2,
       "ts": "2026-08-18T11:06:17.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -24,17 +24,12 @@
           "u": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260818/p12#a260818p12"
-        },
-        {
           "d": "abcnews.com",
           "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPODNVMmNOelM3amNTTjM2cDlOWlNJU0p6WEVmbUMzTXBFVzRySHJ4Ymo1SXU0TFZPSEViZTVWSk1KLXp2aUVaMHgyX2VQWGF3S0kwd2Jjc1Z5VDFzaHBOakN0MWRyRFJ3ZFkyTDZTbmNIZ3pfTUlVZDBKNnQzWUJmM0VlZnNwbVdRZGl6MElweVhlOUU2NGVtWWlBUHZqcjliYjI4Zg?oc=5"
         }
       ],
       "srcTitles": [
         "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-        "OpenAI launches ChatGPT for Teens, a new mode that limits high-risk chats around self-harm, eating disorders, and other topics, adds studying tools, and more (Cecilia Kang/New York Times)",
         "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot - ABC News"
       ]
     },
@@ -166,7 +161,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-08-18T10:06:43.000Z",
       "writtenSources": 1,
