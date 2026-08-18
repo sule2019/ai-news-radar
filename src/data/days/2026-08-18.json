@@ -104,7 +104,32 @@
     },
     {
       "cat": "models",
-      "signal": 48,
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-18T11:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+      "s": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+      "b": [
+        "openai.com: Introducing ChatGPT for Teens: Built for learning, backed by protections"
+      ],
+      "body": [
+        "openai.com: ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/chatgpt-for-teens"
+        }
+      ],
+      "srcTitles": [
+        "Introducing ChatGPT for Teens: Built for learning, backed by protections"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 44,
       "sources": 2,
       "ts": "2026-08-18T14:14:55.000Z",
       "writtenSources": 2,
@@ -132,31 +157,6 @@
       "srcTitles": [
         "OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount",
         "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-08-18T11:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
-      "s": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
-      "b": [
-        "openai.com: Introducing ChatGPT for Teens: Built for learning, backed by protections"
-      ],
-      "body": [
-        "openai.com: ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/chatgpt-for-teens"
-        }
-      ],
-      "srcTitles": [
-        "Introducing ChatGPT for Teens: Built for learning, backed by protections"
       ]
     },
     {
@@ -274,6 +274,38 @@
       "cat": "models",
       "signal": 32,
       "sources": 2,
+      "ts": "2026-08-18T20:07:12.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race",
+      "s": "Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race",
+        "tradingview.com: Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race"
+      ],
+      "body": [
+        "finance.yahoo.com: Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race Yahoo Finance",
+        "tradingview.com: Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race TradingView"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1ZLTHlSbEtlY2VJcXZBaTV3amZUa0F5QUtsU0VLbDJIOS1vQ25sNzQweFFHTmpBcnBuREpaWVl5dEV4LWRFVDZya2Uwd1VWbnZxUi1qYjlsM05TWEVHMGdGZVR5UVpSMkwzUkhBZFFJUHZTMkREVXA5TDBkQzZXSFdBQ2kzV00wcklkejFlZVFuVGpGdmJVbnpR?oc=5"
+        },
+        {
+          "d": "tradingview.com",
+          "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONEtFRDV3ZS1hRU1lY1d3QndlN0Vfck9PMXVVaXNQVkgzTDlsc0kxbjRtQ2Q3Wm9zYkY3cVdEZHM1dGlkc1NnRXVQbFY4SW5GOE9MLXA2ZFUtWWZlZFhJQ2p4VWJET1JjeV9RVEFRa1lKbGdIYTY3UldOVFFBalBxa0ZHNFFWMHB0NVRKal9tZWlIR0hFWUZubEdHcHF2YkE4WWFTeHNUT2NkU0JaTnBEUHpJOWIzdXRmVm5HOXBTcEZxMzlUZWxGWjZvcEZKZFZhQjFGb0t1WQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race",
+        "Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 28,
+      "sources": 2,
       "ts": "2026-08-18T19:54:55.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -304,7 +336,7 @@
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-08-18T18:44:48.000Z",
       "writtenSources": 2,
@@ -336,7 +368,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-08-18T19:00:00.000Z",
       "writtenSources": 1,
@@ -356,39 +388,7 @@
         }
       ],
       "srcTitles": [
-        "Strengthening Democratic Oversight in National Security"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 28,
-      "sources": 2,
-      "ts": "2026-08-18T09:45:49.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals (Bloomberg)",
-      "s": "Bloomberg : Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals Baidu Inc.'s revenue fell for a",
-      "b": [
-        "techmeme.com: Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals (Bloomberg)",
-        "scmp.com: Baidu’s AI surge fails to stem quarterly revenue decline"
-      ],
-      "body": [
-        "techmeme.com: Bloomberg : Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals Baidu Inc.'s revenue fell for a fifth consecutive quarter, reflecting a weakening position in ads as well as AI development against rivals like Moonshot.",
-        "scmp.com: Baidu’s AI surge fails to stem quarterly revenue decline South China Morning Post"
-      ],
-      "l": [
-        {
-          "d": "france24.com",
-          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0x0cHUxTDBGSnJ4SGdULWY1cXRUb2JVcjMxb1ZtanpBa2J4RERxU3hlbkNWVEFNTGlmMTV4d2hicUVPc1dlVDJya1BDSDRFTFRqZ0gzMXJNWktldnZOT3RWTnRBaklteXBlUWYwV1dseElGM195U3RCRklhZGFrSzE5VzVQMERnRmJWdEtQSzA4bXhpMF9pb3hWV08zVDRoX2E1VDZYcFdXNWdFSlptRi04enNLYi1BMkE?oc=5"
-        },
-        {
-          "d": "scmp.com",
-          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVVOVTEwU3VkYTNYVDEyMFBlR1RQVFQzUnJ4RVJ0Y3ZDWEpRN3MzQmJsSWt3SmdFNTREME4wYzg3ZUVHdGJUMHZJa3NBUzdobDV5VUljRkRsNWEwRnFMR2tzaEJlY0F6cWk4bVBzTVJkUi1xNURrY0JsVjVGcG96QWY3QmNFeXdCNDJEWklhVjVCRXBUVEFEOGRBS2JNbmtFWWtSblFySWx3NnNoZFAzYm9FUENxUGRPMWFpMmhmdW5nSWF5WlE40gHHAUFVX3lxTE83VTlISjlyMEhtbW5ndl8zMllrOXp1cEFDU3BQcUNaNnR0amNuSGdoUDB6cnJ4eDFSQTFZeDJxYU10eXJwQXhqWmtDYzliMEczNWp0ZTU5NlRRUV9OUFF3SzE0ZWhlUUlIRG1Ec3d4NEk2U1FBeUtPUkc0N09DaDZPazJBQWFzN3ZPMldVamVZZHU2NUdpUTRIWnRBdEVicDZzWTI1ekwzei1yQ3gtbVNwQkxhYmhLUk1Zc2VvS0JGWGNNWW02bTg?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "China's Baidu, betting on AI, posts fifth straight quarterly revenue drop",
-        "Baidu’s AI surge fails to stem quarterly revenue decline"
+        "Strengthening democratic oversight in national security"
       ]
     },
     {
@@ -421,6 +421,38 @@
       "srcTitles": [
         "Safe Pro Awarded Subcontract for Artificial Intelligence Powered Demining Software Under US Department of State Program",
         "Safe Pro Awarded Subcontract For Artificial Intelligence Powered Demining Software Under U.S. Department Of State Program"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 2,
+      "ts": "2026-08-18T09:45:49.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals (Bloomberg)",
+      "s": "Bloomberg : Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals Baidu Inc.'s revenue fell for a",
+      "b": [
+        "techmeme.com: Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals (Bloomberg)",
+        "scmp.com: Baidu’s AI surge fails to stem quarterly revenue decline"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals Baidu Inc.'s revenue fell for a fifth consecutive quarter, reflecting a weakening position in ads as well as AI development against rivals like Moonshot.",
+        "scmp.com: Baidu’s AI surge fails to stem quarterly revenue decline South China Morning Post"
+      ],
+      "l": [
+        {
+          "d": "france24.com",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0x0cHUxTDBGSnJ4SGdULWY1cXRUb2JVcjMxb1ZtanpBa2J4RERxU3hlbkNWVEFNTGlmMTV4d2hicUVPc1dlVDJya1BDSDRFTFRqZ0gzMXJNWktldnZOT3RWTnRBaklteXBlUWYwV1dseElGM195U3RCRklhZGFrSzE5VzVQMERnRmJWdEtQSzA4bXhpMF9pb3hWV08zVDRoX2E1VDZYcFdXNWdFSlptRi04enNLYi1BMkE?oc=5"
+        },
+        {
+          "d": "scmp.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVVOVTEwU3VkYTNYVDEyMFBlR1RQVFQzUnJ4RVJ0Y3ZDWEpRN3MzQmJsSWt3SmdFNTREME4wYzg3ZUVHdGJUMHZJa3NBUzdobDV5VUljRkRsNWEwRnFMR2tzaEJlY0F6cWk4bVBzTVJkUi1xNURrY0JsVjVGcG96QWY3QmNFeXdCNDJEWklhVjVCRXBUVEFEOGRBS2JNbmtFWWtSblFySWx3NnNoZFAzYm9FUENxUGRPMWFpMmhmdW5nSWF5WlE40gHHAUFVX3lxTE83VTlISjlyMEhtbW5ndl8zMllrOXp1cEFDU3BQcUNaNnR0amNuSGdoUDB6cnJ4eDFSQTFZeDJxYU10eXJwQXhqWmtDYzliMEczNWp0ZTU5NlRRUV9OUFF3SzE0ZWhlUUlIRG1Ec3d4NEk2U1FBeUtPUkc0N09DaDZPazJBQWFzN3ZPMldVamVZZHU2NUdpUTRIWnRBdEVicDZzWTI1ekwzei1yQ3gtbVNwQkxhYmhLUk1Zc2VvS0JGWGNNWW02bTg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "China's Baidu, betting on AI, posts fifth straight quarterly revenue drop",
+        "Baidu’s AI surge fails to stem quarterly revenue decline"
       ]
     },
     {
@@ -550,7 +582,7 @@
     },
     {
       "cat": "models",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-08-18T17:48:00.000Z",
       "writtenSources": 2,
