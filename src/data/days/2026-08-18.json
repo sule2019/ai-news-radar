@@ -84,17 +84,17 @@
       ],
       "l": [
         {
-          "d": "scmp.com",
-          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVVOVTEwU3VkYTNYVDEyMFBlR1RQVFQzUnJ4RVJ0Y3ZDWEpRN3MzQmJsSWt3SmdFNTREME4wYzg3ZUVHdGJUMHZJa3NBUzdobDV5VUljRkRsNWEwRnFMR2tzaEJlY0F6cWk4bVBzTVJkUi1xNURrY0JsVjVGcG96QWY3QmNFeXdCNDJEWklhVjVCRXBUVEFEOGRBS2JNbmtFWWtSblFySWx3NnNoZFAzYm9FUENxUGRPMWFpMmhmdW5nSWF5WlE40gHHAUFVX3lxTE83VTlISjlyMEhtbW5ndl8zMllrOXp1cEFDU3BQcUNaNnR0amNuSGdoUDB6cnJ4eDFSQTFZeDJxYU10eXJwQXhqWmtDYzliMEczNWp0ZTU5NlRRUV9OUFF3SzE0ZWhlUUlIRG1Ec3d4NEk2U1FBeUtPUkc0N09DaDZPazJBQWFzN3ZPMldVamVZZHU2NUdpUTRIWnRBdEVicDZzWTI1ekwzei1yQ3gtbVNwQkxhYmhLUk1Zc2VvS0JGWGNNWW02bTg?oc=5"
-        },
-        {
           "d": "france24.com",
           "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0x0cHUxTDBGSnJ4SGdULWY1cXRUb2JVcjMxb1ZtanpBa2J4RERxU3hlbkNWVEFNTGlmMTV4d2hicUVPc1dlVDJya1BDSDRFTFRqZ0gzMXJNWktldnZOT3RWTnRBaklteXBlUWYwV1dseElGM195U3RCRklhZGFrSzE5VzVQMERnRmJWdEtQSzA4bXhpMF9pb3hWV08zVDRoX2E1VDZYcFdXNWdFSlptRi04enNLYi1BMkE?oc=5"
+        },
+        {
+          "d": "scmp.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVVOVTEwU3VkYTNYVDEyMFBlR1RQVFQzUnJ4RVJ0Y3ZDWEpRN3MzQmJsSWt3SmdFNTREME4wYzg3ZUVHdGJUMHZJa3NBUzdobDV5VUljRkRsNWEwRnFMR2tzaEJlY0F6cWk4bVBzTVJkUi1xNURrY0JsVjVGcG96QWY3QmNFeXdCNDJEWklhVjVCRXBUVEFEOGRBS2JNbmtFWWtSblFySWx3NnNoZFAzYm9FUENxUGRPMWFpMmhmdW5nSWF5WlE40gHHAUFVX3lxTE83VTlISjlyMEhtbW5ndl8zMllrOXp1cEFDU3BQcUNaNnR0amNuSGdoUDB6cnJ4eDFSQTFZeDJxYU10eXJwQXhqWmtDYzliMEczNWp0ZTU5NlRRUV9OUFF3SzE0ZWhlUUlIRG1Ec3d4NEk2U1FBeUtPUkc0N09DaDZPazJBQWFzN3ZPMldVamVZZHU2NUdpUTRIWnRBdEVicDZzWTI1ekwzei1yQ3gtbVNwQkxhYmhLUk1Zc2VvS0JGWGNNWW02bTg?oc=5"
         }
       ],
       "srcTitles": [
-        "Baidu’s AI surge fails to stem quarterly revenue decline",
-        "China's Baidu, betting on AI, posts fifth straight quarterly revenue drop"
+        "China's Baidu, betting on AI, posts fifth straight quarterly revenue drop",
+        "Baidu’s AI surge fails to stem quarterly revenue decline"
       ]
     },
     {
@@ -120,6 +120,38 @@
       ],
       "srcTitles": [
         "Introducing ChatGPT for Teens: Built for learning, backed by protections"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-08-18T16:31:30.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Etched s valuation doubles to $21B in a month",
+      "s": "Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+      "b": [
+        "techcrunch.com: Etched s valuation doubles to $21B in a month",
+        "reuters.com: AI chip startup Etched doubles valuation to $21 billion in under a month"
+      ],
+      "body": [
+        "techcrunch.com: Jane Street has installed Etched's first shipped AI cluster system, and was so impressed, it led another massive round, the startup says.",
+        "reuters.com: AI chip startup Etched doubles valuation to $21 billion in under a month Reuters"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/18/etcheds-valuation-doubles-to-21b-in-a-month/"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZ3NNZlBGNU1FVmtQWnVzMlc1SjFEVmtwYWJLNVJTYUpJS0NEb29iT0NhR1R5bUdKMlhqUWsyMjRJekVtcWFWb3dCX1lHMWlFNHJVLTZCeEoycW1ZdE03VThfZDEzellONHd4ZnJ3RlNEYlA4cGJReEFvaG13bTR0MHItbHlWN3pMWDNMN3JMVkJQNFo2aHFTQUw1QTlrWUt0V0FKamtGSm5rWUVT?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Etched s valuation doubles to $21B in a month",
+        "AI chip startup Etched doubles valuation to $21 billion in under a month"
       ]
     },
     {
@@ -164,38 +196,6 @@
         "AI in the Classroom: How local school districts are managing the tech expansion",
         "AI in the Classroom: How local school districts are managing the tech expansion",
         "AI in the Classroom: How local school districts are managing the tech expansion"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 2,
-      "ts": "2026-08-18T15:18:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
-      "s": "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Yahoo Finance",
-      "b": [
-        "finance.yahoo.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
-        "businesswire.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM"
-      ],
-      "body": [
-        "finance.yahoo.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Yahoo Finance",
-        "businesswire.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Business Wire"
-      ],
-      "l": [
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeW9kekt2cE5jZHRfNnlxSVY5OVFjLUxDRWp4ZHM1MDhPX2JkWmJoZ1VLUWtfQUVsOVdZc2owNm95aEJaT0ZEbk5uenBqbTJzR2hPT3VDN0drZ2N3WVdZUm9sU3RoemhyTVZuNUhwWkxpanVsWmVlZGJKdzZwTnZSckhLZTFVdGxGdGstcnVYOW55RTZMS1VVS1UwWDlHMHdSRG1ta3VSc1A?oc=5"
-        },
-        {
-          "d": "businesswire.com",
-          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOamxDM1dteXdKVzh2OGhEcHBFTmJsU00yMFJTZTFzbkE4RTE3Zng5QVdYTjg0Y3A4SXFOeV9lX3Q0U3Y5MWRUTmVpclQzYkFxSDRER2ROdkpmZWYzcjJkd0J3eEpqMXo2OWhLdkhOZU5waFdhUGRhSXJoZWswYV9PNHEwa2lYOVNicng3OEFITTR4cnNJdEEyVHRhWHNkT29fNFBhcWs1b2ZQTU5EcWt4YXh1b19JeWhzT1lTNFdQbmpkVE5JVUliRVdNNWdGeklScE92U1VJeHF1a1VhZUdvNWQ1VUhyaV9MRnRRa2FOdFRnN29MeUE?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
-        "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM"
       ]
     },
     {
@@ -296,6 +296,38 @@
       ],
       "srcTitles": [
         "Asana cleared 5 years of engineering work in 2 weeks with Codex"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 20,
+      "sources": 2,
+      "ts": "2026-08-18T15:18:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
+      "s": "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
+        "businesswire.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM"
+      ],
+      "body": [
+        "finance.yahoo.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Yahoo Finance",
+        "businesswire.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Business Wire"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeW9kekt2cE5jZHRfNnlxSVY5OVFjLUxDRWp4ZHM1MDhPX2JkWmJoZ1VLUWtfQUVsOVdZc2owNm95aEJaT0ZEbk5uenBqbTJzR2hPT3VDN0drZ2N3WVdZUm9sU3RoemhyTVZuNUhwWkxpanVsWmVlZGJKdzZwTnZSckhLZTFVdGxGdGstcnVYOW55RTZMS1VVS1UwWDlHMHdSRG1ta3VSc1A?oc=5"
+        },
+        {
+          "d": "businesswire.com",
+          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOamxDM1dteXdKVzh2OGhEcHBFTmJsU00yMFJTZTFzbkE4RTE3Zng5QVdYTjg0Y3A4SXFOeV9lX3Q0U3Y5MWRUTmVpclQzYkFxSDRER2ROdkpmZWYzcjJkd0J3eEpqMXo2OWhLdkhOZU5waFdhUGRhSXJoZWswYV9PNHEwa2lYOVNicng3OEFITTR4cnNJdEEyVHRhWHNkT29fNFBhcWs1b2ZQTU5EcWt4YXh1b19JeWhzT1lTNFdQbmpkVE5JVUliRVdNNWdGeklScE92U1VJeHF1a1VhZUdvNWQ1VUhyaV9MRnRRa2FOdFRnN29MeUE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
+        "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM"
       ]
     }
   ]
