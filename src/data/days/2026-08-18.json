@@ -30,7 +30,7 @@
       ],
       "srcTitles": [
         "OpenAI institutes new safeguards after Hugging Face breach",
-        "OpenAI says it has made several changes to its safety practices following the Hugging Face breach and has paused deployment-focused RL training by two weeks (Ina Fried/Axios)"
+        "OpenAI changed its safety practices and paused RL training for two weeks after the Hugging Face breach and Astra possibly hitting a critical threshold for cyber (Ina Fried/Axios)"
       ]
     },
     {
@@ -129,7 +129,7 @@
     },
     {
       "cat": "funding",
-      "signal": 40,
+      "signal": 37,
       "sources": 2,
       "ts": "2026-08-18T16:31:30.000Z",
       "writtenSources": 2,
@@ -161,7 +161,54 @@
     },
     {
       "cat": "models",
-      "signal": 40,
+      "signal": 36,
+      "sources": 6,
+      "ts": "2026-08-18T10:59:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "AI in the Classroom: How local school districts are managing the tech expansion",
+      "s": "AI in the Classroom: How local school districts are managing the tech expansion WSMV",
+      "b": [
+        "wsmv.com: AI in the Classroom: How local school districts are managing the tech expansion",
+        "walb.com: AI in the Classroom: How local school districts are managing the tech expansion",
+        "wbtv.com: AI in the Classroom: How local school districts are managing the tech expansion"
+      ],
+      "body": [
+        "wsmv.com: AI in the Classroom: How local school districts are managing the tech expansion WSMV",
+        "walb.com: AI in the Classroom: How local school districts are managing the tech expansion WALB",
+        "wbtv.com: AI in the Classroom: How local school districts are managing the tech expansion WBTV"
+      ],
+      "l": [
+        {
+          "d": "foxcarolina.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2ZPNFdMclZGdTM1dzdMWE1xZEhRdy1ITXhtUmVRcmJZVVFXZ05LU01FM3FPUkRxNE13aHlBdXFCb0pkbjI1dnZFVTJ2alpXbTJGLXJUY3NIbEEzRS1XWlRGeGczbUdWV3kzejdZY2JMM1QtcnotTE12R3FyV0hBSlRDc2VzQ1otb1VuQXhJeWtueWx5REtXUG15bi1MdXhqMEdROF93cHhtcjkyMnJ0cjZEUQ?oc=5"
+        },
+        {
+          "d": "wctv.tv",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWkk3OE9JUE84Qm9XdFQycGplR2ZENEREekR2SzJJUnNobTB3bTJJNVZzV2xBTnVXWmFZWkJrODZiM2Q4ZGNpVS1KOEN2clI2M1Z0ekJSN011QUxxVE11cXgxdnhrRXpZQ0tSeV9FUXhxalB2THFRcmt4ZkdpZjZac3h2Q1hZWkNXNG1MbEJ6ckMyWFhkZkx3MDV6ZzNadWZyQTVSakVOVWI?oc=5"
+        },
+        {
+          "d": "cleveland19.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORGxtZmF2V0E3eWhmaTVpXzUtTWJXc0x0Y0U4MDRmTTJBYVZNLU14VVpaQ1B4RWZmMDR4Q2NzN2RyTlUxR1hPdW8tTlk0Wk1IeURoUWVYaFowOU04NHpROF83RmRfTGRpX2ZzQlpCdExhNzJjdld4T2V2U285eTdSX0FrbERKWndEY1hPX2ktQXUzVVd4RzdyR0VmeFpLRlMwaW9mTjJBTWxhSHBtWFZaeHdkaw?oc=5"
+        },
+        {
+          "d": "1011now.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTC1aRkdldFhDcHZya2h0SjZXVS1qeG5VRjk1T3lRc0tpcklUdHdHSUo4SWlyWUtCZkNTWjhtemRtSDNOYU4tQUNIeUxVUnAtQ1NwWjVKbUx6UmxXUVhoQnVvWDEzUTBxdWtCTlFPX3RiN25FUkRDcHZWRXRRRm0za1hIRDY4bjZhZVhXMW90TlBEak1nU0ctWE16ZWczaEx0eE1LQVBvd2Y5ZElPVEE?oc=5"
+        },
+        {
+          "d": "+2"
+        }
+      ],
+      "srcTitles": [
+        "AI in the Classroom: How local school districts are managing the tech expansion",
+        "AI in the Classroom: How local school districts are managing the tech expansion",
+        "AI in the Classroom: How local school districts are managing the tech expansion",
+        "AI in the Classroom: How local school districts are managing the tech expansion"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 36,
       "sources": 2,
       "ts": "2026-08-18T09:45:49.000Z",
       "writtenSources": 2,
@@ -189,53 +236,6 @@
       "srcTitles": [
         "China's Baidu, betting on AI, posts fifth straight quarterly revenue drop",
         "Baidu’s AI surge fails to stem quarterly revenue decline"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 34,
-      "sources": 5,
-      "ts": "2026-08-18T10:59:00.000Z",
-      "writtenSources": 3,
-      "draft": true,
-      "h": "AI in the Classroom: How local school districts are managing the tech expansion",
-      "s": "AI in the Classroom: How local school districts are managing the tech expansion WSMV",
-      "b": [
-        "wsmv.com: AI in the Classroom: How local school districts are managing the tech expansion",
-        "walb.com: AI in the Classroom: How local school districts are managing the tech expansion",
-        "wbtv.com: AI in the Classroom: How local school districts are managing the tech expansion"
-      ],
-      "body": [
-        "wsmv.com: AI in the Classroom: How local school districts are managing the tech expansion WSMV",
-        "walb.com: AI in the Classroom: How local school districts are managing the tech expansion WALB",
-        "wbtv.com: AI in the Classroom: How local school districts are managing the tech expansion WBTV"
-      ],
-      "l": [
-        {
-          "d": "foxcarolina.com",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2ZPNFdMclZGdTM1dzdMWE1xZEhRdy1ITXhtUmVRcmJZVVFXZ05LU01FM3FPUkRxNE13aHlBdXFCb0pkbjI1dnZFVTJ2alpXbTJGLXJUY3NIbEEzRS1XWlRGeGczbUdWV3kzejdZY2JMM1QtcnotTE12R3FyV0hBSlRDc2VzQ1otb1VuQXhJeWtueWx5REtXUG15bi1MdXhqMEdROF93cHhtcjkyMnJ0cjZEUQ?oc=5"
-        },
-        {
-          "d": "1011now.com",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTC1aRkdldFhDcHZya2h0SjZXVS1qeG5VRjk1T3lRc0tpcklUdHdHSUo4SWlyWUtCZkNTWjhtemRtSDNOYU4tQUNIeUxVUnAtQ1NwWjVKbUx6UmxXUVhoQnVvWDEzUTBxdWtCTlFPX3RiN25FUkRDcHZWRXRRRm0za1hIRDY4bjZhZVhXMW90TlBEak1nU0ctWE16ZWczaEx0eE1LQVBvd2Y5ZElPVEE?oc=5"
-        },
-        {
-          "d": "azfamily.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPem5VNWIzeWdPZTVJMFk0LXhndkRYOG9rOFdVVHZHa2o0UjJCc0tDQnc1RUtxaXprVG9ST09pdU4tZVcyUmpScXZkcmJINGtSSE5KLUhUZlJ6ejgwSHVrdUp0bE5TMHNxVVBpYW5LRk84Mmh2QV9mZHVmN1BMdHYtWlJCWUY5TEh0UmJTQjVMcEhvamRhWXVYUkM0TVRGVXJMNWRVZkZySE1yS1MtVVc0?oc=5"
-        },
-        {
-          "d": "walb.com",
-          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnBJS3BKNjJ0OFlpNVdkczF4bE95eWY3cDktQi1oUEp1SjBRZjh4STdkODlZRldxWGhiVm9xUHI4ai1xWnQ2Q2lRMUhodVcwTTMtTTVscTJrVlg3emVwSklOVUFHWmdsbnMzWXpnNDVMTzFEMUN4eXc0eVVGNGhYQlY3dG1BQmw4U2ktTUR6WlU3bEg0UkJTcFRoZTFVU0k5am9yYnBXRjREQQ?oc=5"
-        },
-        {
-          "d": "+1"
-        }
-      ],
-      "srcTitles": [
-        "AI in the Classroom: How local school districts are managing the tech expansion",
-        "AI in the Classroom: How local school districts are managing the tech expansion",
-        "AI in the Classroom: How local school districts are managing the tech expansion",
-        "AI in the Classroom: How local school districts are managing the tech expansion"
       ]
     },
     {
@@ -272,7 +272,7 @@
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-08-18T17:48:00.000Z",
       "writtenSources": 2,
@@ -300,38 +300,6 @@
       "srcTitles": [
         "ADRES Enters Medical Claims Auditing Through Artificial Intelligence, Built with Blend",
         "ADRES Enters Medical Claims Auditing Through Artificial Intelligence, Built with Blend"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 25,
-      "sources": 2,
-      "ts": "2026-08-18T15:18:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
-      "s": "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Yahoo Finance",
-      "b": [
-        "finance.yahoo.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
-        "businesswire.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM"
-      ],
-      "body": [
-        "finance.yahoo.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Yahoo Finance",
-        "businesswire.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Business Wire"
-      ],
-      "l": [
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeW9kekt2cE5jZHRfNnlxSVY5OVFjLUxDRWp4ZHM1MDhPX2JkWmJoZ1VLUWtfQUVsOVdZc2owNm95aEJaT0ZEbk5uenBqbTJzR2hPT3VDN0drZ2N3WVdZUm9sU3RoemhyTVZuNUhwWkxpanVsWmVlZGJKdzZwTnZSckhLZTFVdGxGdGstcnVYOW55RTZMS1VVS1UwWDlHMHdSRG1ta3VSc1A?oc=5"
-        },
-        {
-          "d": "01net.it",
-          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaXZPRmVFQzFOX1BmYmVYUmQxTnh1N0JYZGFkdmxNRTdyaHVOdDJzY3djWVVUbXpScGM5RlZ4cTV0UTZ0Q3cwVm8tQ0FSZm9welJmTmxHOHM0cEd4TjZJMlFJVmw4Ym02d2JkZ2VQOXdkUlVJVk9yTlpPbFpweW9FS3NoLVpBOG1JVzN5cF9FQlI3NFRrYzZ5RVdmdDlxaGpORXhWLTJLdGJfdXh4NWU3QVBhTVpGN3I3UDQ2ZnN5SW93bW96d1E?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
-        "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM"
       ]
     },
     {
@@ -457,6 +425,38 @@
       ],
       "srcTitles": [
         "Asana cleared 5 years of engineering work in 2 weeks with Codex"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 21,
+      "sources": 2,
+      "ts": "2026-08-18T15:18:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
+      "s": "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
+        "businesswire.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM"
+      ],
+      "body": [
+        "finance.yahoo.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Yahoo Finance",
+        "businesswire.com: EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM Business Wire"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeW9kekt2cE5jZHRfNnlxSVY5OVFjLUxDRWp4ZHM1MDhPX2JkWmJoZ1VLUWtfQUVsOVdZc2owNm95aEJaT0ZEbk5uenBqbTJzR2hPT3VDN0drZ2N3WVdZUm9sU3RoemhyTVZuNUhwWkxpanVsWmVlZGJKdzZwTnZSckhLZTFVdGxGdGstcnVYOW55RTZMS1VVS1UwWDlHMHdSRG1ta3VSc1A?oc=5"
+        },
+        {
+          "d": "01net.it",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaXZPRmVFQzFOX1BmYmVYUmQxTnh1N0JYZGFkdmxNRTdyaHVOdDJzY3djWVVUbXpScGM5RlZ4cTV0UTZ0Q3cwVm8tQ0FSZm9welJmTmxHOHM0cEd4TjZJMlFJVmw4Ym02d2JkZ2VQOXdkUlVJVk9yTlpPbFpweW9FS3NoLVpBOG1JVzN5cF9FQlI3NFRrYzZ5RVdmdDlxaGpORXhWLTJLdGJfdXh4NWU3QVBhTVpGN3I3UDQ2ZnN5SW93bW96d1E?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM",
+        "EdgeRunner and U.S. Army Artificial Intelligence Integration Center Collaborate to Build Army-Specific LLM"
       ]
     }
   ]
