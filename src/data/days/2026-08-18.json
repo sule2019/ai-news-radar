@@ -128,38 +128,6 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 40,
-      "sources": 2,
-      "ts": "2026-08-18T14:14:55.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount",
-      "s": "OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount The Seattle Times",
-      "b": [
-        "seattletimes.com: OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount",
-        "nytimes.com: OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow"
-      ],
-      "body": [
-        "seattletimes.com: OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount The Seattle Times",
-        "nytimes.com: OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow The New York Times"
-      ],
-      "l": [
-        {
-          "d": "seattletimes.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUtOeEkwdjF2eXhNNHU2T18zdGZWSkZWb2JSS3h0RmZKVGozT3ZoRE1UTnY5NVpPOUtCZW05VVdqbV9XVHZSclVsbFNjc2t6bVNrRkVDZDBPNmdRXzVIUTNiZmNTdjB6OTdJOVFwTTUxX3BTR0JuWE9pUmp2YUpHb0JicmltZG1Ba3liMnlLVmxHX19IZlBSY2o3R1o4NGJYc1J6Mg?oc=5"
-        },
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVJ2TnN5Q1VTNkZRdjd2VU0ybFFEcHZQaG00d3NLTDRoaE5aT2xKbHFXX0wzbGxnRUxMRGZORUpHVm90MHJuTjVLN3FqOVUyOFRpV1c1cG1Vbm9udlMwVDN3WFMwUnRBTGl2Tjg0b2VFaDVJUUNQSzV6TGl4MTJVcg?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount",
-        "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow"
-      ]
-    },
-    {
       "cat": "policy",
       "signal": 39,
       "sources": 2,
@@ -272,34 +240,34 @@
     },
     {
       "cat": "models",
-      "signal": 28,
+      "signal": 36,
       "sources": 2,
-      "ts": "2026-08-18T20:07:12.000Z",
+      "ts": "2026-08-18T14:14:55.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race",
-      "s": "Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race Yahoo Finance",
+      "h": "OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount",
+      "s": "OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount The Seattle Times",
       "b": [
-        "finance.yahoo.com: Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race",
-        "tradingview.com: Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race"
+        "seattletimes.com: OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount",
+        "nytimes.com: OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow"
       ],
       "body": [
-        "finance.yahoo.com: Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race Yahoo Finance",
-        "tradingview.com: Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race TradingView"
+        "seattletimes.com: OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount The Seattle Times",
+        "nytimes.com: OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow The New York Times"
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1ZLTHlSbEtlY2VJcXZBaTV3amZUa0F5QUtsU0VLbDJIOS1vQ25sNzQweFFHTmpBcnBuREpaWVl5dEV4LWRFVDZya2Uwd1VWbnZxUi1qYjlsM05TWEVHMGdGZVR5UVpSMkwzUkhBZFFJUHZTMkREVXA5TDBkQzZXSFdBQ2kzV00wcklkejFlZVFuVGpGdmJVbnpR?oc=5"
+          "d": "seattletimes.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQUtOeEkwdjF2eXhNNHU2T18zdGZWSkZWb2JSS3h0RmZKVGozT3ZoRE1UTnY5NVpPOUtCZW05VVdqbV9XVHZSclVsbFNjc2t6bVNrRkVDZDBPNmdRXzVIUTNiZmNTdjB6OTdJOVFwTTUxX3BTR0JuWE9pUmp2YUpHb0JicmltZG1Ba3liMnlLVmxHX19IZlBSY2o3R1o4NGJYc1J6Mg?oc=5"
         },
         {
-          "d": "tradingview.com",
-          "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONEtFRDV3ZS1hRU1lY1d3QndlN0Vfck9PMXVVaXNQVkgzTDlsc0kxbjRtQ2Q3Wm9zYkY3cVdEZHM1dGlkc1NnRXVQbFY4SW5GOE9MLXA2ZFUtWWZlZFhJQ2p4VWJET1JjeV9RVEFRa1lKbGdIYTY3UldOVFFBalBxa0ZHNFFWMHB0NVRKal9tZWlIR0hFWUZubEdHcHF2YkE4WWFTeHNUT2NkU0JaTnBEUHpJOWIzdXRmVm5HOXBTcEZxMzlUZWxGWjZvcEZKZFZhQjFGb0t1WQ?oc=5"
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVJ2TnN5Q1VTNkZRdjd2VU0ybFFEcHZQaG00d3NLTDRoaE5aT2xKbHFXX0wzbGxnRUxMRGZORUpHVm90MHJuTjVLN3FqOVUyOFRpV1c1cG1Vbm9udlMwVDN3WFMwUnRBTGl2Tjg0b2VFaDVJUUNQSzV6TGl4MTJVcg?oc=5"
         }
       ],
       "srcTitles": [
-        "Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race",
-        "Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race"
+        "OpenAI introduces ‘ChatGPT for Teens’ as AI safety concerns mount",
+        "OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow"
       ]
     },
     {
@@ -361,66 +329,66 @@
     },
     {
       "cat": "models",
-      "signal": 24,
+      "signal": 26,
       "sources": 2,
-      "ts": "2026-08-18T19:54:55.000Z",
+      "ts": "2026-08-18T10:15:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Teens risk critical thinking, learning as they lean into AI for schoolwork",
-      "s": "Teens risk critical thinking, learning as they lean into AI for schoolwork katu.com",
+      "h": "Shaping the Future: How AI is Redefining the Modern Classroom",
+      "s": "Shaping the Future: How AI is Redefining the Modern Classroom WCAX",
       "b": [
-        "katu.com: Teens risk critical thinking, learning as they lean into AI for schoolwork",
-        "thenationaldesk.com: Teens risk critical thinking, learning as they lean into AI for schoolwork"
+        "wcax.com: Shaping the Future: How AI is Redefining the Modern Classroom",
+        "wdtv.com: Shaping the Future: How AI is Redefining the Modern Classroom"
       ],
       "body": [
-        "katu.com: Teens risk critical thinking, learning as they lean into AI for schoolwork katu.com",
-        "thenationaldesk.com: Teens risk critical thinking, learning as they lean into AI for schoolwork National Desk"
+        "wcax.com: Shaping the Future: How AI is Redefining the Modern Classroom WCAX",
+        "wdtv.com: Shaping the Future: How AI is Redefining the Modern Classroom WDTV 5"
       ],
       "l": [
         {
-          "d": "katu.com",
-          "u": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQNWpnMmJWX1pzdGxGbXlZN2E5MUd2UkN3SXVBaFotNUY5TUR3S0wzamgyNTl2ZVktRkRKQzRFN01fSldSRUJSZWZackN5NHdSUS1vaGNoemFMSnBpRE1oRk9ncjhfeVdEMTBBd0ZXbFc1aFBWang1MXZ1aHc4TG5KTWUyc203djdVTUJRTFdBZVgtMWFJWFQ0Q3ZNVzhnQnBwMklaT3c4Y2JGNGNnRklpYnY2X2RXcFo4SWVqUFNnaDhwc24wb2pNV3VodlUzTThtZm1VNS1JdWU0QklpWU4tS2RRRzdLWkR2eVc4WklzUGdkNEZpUlhfcnAyLUw2TjhNWE1hcUc3VnBSa3JURjBqTlBDMmloQ0p4ODdpZV9Pd1VBaFZKdnhPUFlqLXkyNGhNUE1jOWRXSQ?oc=5"
+          "d": "wcax.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMkVTQ0E0NmtMU2tfUWNSZWxUTDNjVU4tOV81eGNRQzIxN1VaMldEeThaelYwT1VTa19uUjhRb2tlRjZ6MW1jUGdiQlMwVFZRa195RkI1djg5UnFQSG1QZkdlWURCb0tKTEIwOEJTLWdTUEtuUEZfMkdPSmJ4NUJHSTJmQlpjY2tTWHVYTThTZUw2VHhnYmc?oc=5"
         },
         {
-          "d": "thenationaldesk.com",
-          "u": "https://news.google.com/rss/articles/CBMirAJBVV95cUxObmlXdnMxYlBMMFFHT2dSZTkxaDhtMms1amJJOGRXOEdFSHFsSXBOSGtndExjTHhEYUpXSTAtUFBIRzZPVHJod0RUQzFwcTZBbzlBbS1NN1pSQV94amo3STVoa1pUWmxIYTRoTjVKOTBkZlE3VDhXbTBXS3JNZTd4TUN4LW1mNl9IdzdoQl9JRzJEWlFEdk9nV3FQVjc4NTVzdDJGOUJjVjVTdHc3eXE5cTZkV3Z0UnVPMzI1eEdmZExjYTdkRUdJekVRVG9RbEZDUmZ6MzBEU0V2S2pZeHZWcDhpUGJqS0dUNGlpaWhodF9LR25jUWJ4c2VTTDM3RFpsek5UWndJYlV2M0x2S2Y3WXh0Zm9fbHF2QlJBbjgyY2hwOU9RcDR6NlUwSWc?oc=5"
+          "d": "wdtv.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa0EzQ2R0eTI1cVBQWGdKUE43N1pXQVlvbjg1NDJVOEdsU3hmU1BpSHA5NUpZWjhYQ1BPeU02WEJjS0RfWDlIeUxQWFhQMEV5Z0Z4RGhvSnBFYU5uandxT09rQkpHV1VVbnNpTW94aEdBVGdPNllnZlg3M1FBbFNOem1Xd0Zoak1LaWZDdDBGdXowdnNLRVE?oc=5"
         }
       ],
       "srcTitles": [
-        "Teens risk critical thinking, learning as they lean into AI for schoolwork",
-        "Teens risk critical thinking, learning as they lean into AI for schoolwork"
+        "Shaping the Future: How AI is Redefining the Modern Classroom",
+        "Shaping the Future: How AI is Redefining the Modern Classroom"
       ]
     },
     {
       "cat": "models",
       "signal": 24,
       "sources": 2,
-      "ts": "2026-08-18T18:44:48.000Z",
+      "ts": "2026-08-18T20:07:12.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "In America’s classrooms, AI and VR prompt calls for new guardrails for students",
-      "s": "In America’s classrooms, AI and VR prompt calls for new guardrails for students KATU",
+      "h": "Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race",
+      "s": "Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race Yahoo Finance",
       "b": [
-        "katu.com: In America’s classrooms, AI and VR prompt calls for new guardrails for students",
-        "thenationaldesk.com: In America’s classrooms, AI and VR prompt calls for new guardrails for students"
+        "finance.yahoo.com: Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race",
+        "tradingview.com: Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race"
       ],
       "body": [
-        "katu.com: In America’s classrooms, AI and VR prompt calls for new guardrails for students KATU",
-        "thenationaldesk.com: In America’s classrooms, AI and VR prompt calls for new guardrails for students National Desk"
+        "finance.yahoo.com: Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race Yahoo Finance",
+        "tradingview.com: Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race TradingView"
       ],
       "l": [
         {
-          "d": "komonews.com",
-          "u": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNVlRuR2djQ21XaVNmZzY1Nnd5RTREUk1NVjllUkg0d3ZVbk1vM19GUFdrT3ZMdXBxN3lBTWZaeFFJcDkzV05USnJSTHQwUEJ0ZmtKbVdSbi1hZURCUlhycmxrWE9HNFhoWVM1TTBJa3NKMDVaTmU1RGRLQVZ5UVBXZHBEZ3RUbm5WR243RWtta0Y5dUxic0VrcG4yZWZPNFNQX3ZkZE9la1N0Q0w5RE01ZDF2Ri1QZzdoWXEzbHF3d3hPRHl0TFNjRTVuREFOT3F3QmZmNEo3UTlObU94M3BGN2xWcHp6OTRYVEQ2UjhqbElLeXgyTlJPeGpwc3FtUmRJdkRiZnU1dHZYYUc3OVd1dlJhc2F6eVpFZXlGbXZFR2tReTMzTlc0MTgzUllQOWo3WkJ4RXM3RXJJQ3NaWUtJWWs0N09KdDNsRGtJQ004dnhUV2dnOVlScC1nMGFaM2s1eHRvOWhGcUlhOXVtbklTaERjcDNCQQ?oc=5"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZ1ZLTHlSbEtlY2VJcXZBaTV3amZUa0F5QUtsU0VLbDJIOS1vQ25sNzQweFFHTmpBcnBuREpaWVl5dEV4LWRFVDZya2Uwd1VWbnZxUi1qYjlsM05TWEVHMGdGZVR5UVpSMkwzUkhBZFFJUHZTMkREVXA5TDBkQzZXSFdBQ2kzV00wcklkejFlZVFuVGpGdmJVbnpR?oc=5"
         },
         {
-          "d": "thenationaldesk.com",
-          "u": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNQllaY3RZRTJSekQwS0kydFpfLWJUcjdhS0ZQUWNxZVNoOFUybUxmNFZBV1F1ZGp2WlFjM2hqOVlseEJ3NWVnQXdjSjRDekRicUc3U1NlMzhrelFxV0xBb1JoY1RremVmcEJpcnE2THhSTFNYVjItazMxMWRLakctSGx3QjQwMHZSWVZuUU9rbGhDa2poakhaWm9JTGxxTzVpc254OHh3bF9JMG8zemtYSHlFRm9FeEJ3TFd5STdrTWdkQzV1U2JUYzlQVkRHdU12TFFfc2t2NXlZTGFnUk14TU9CTmx2SjdnbTAzLWZUc1ltVkJfSHp3SnZiTnVYcGpUdkRSYVctNHdVbjh6T1J0eUhVVUZFZFRRNnBRTmkxZEFwSFc5RWQyQnVFejZfUW1ZR1EteUE4dWpRR25KRXQxLVRqbERFNXZPbkZOb1ZEWmxTd0FSdFJoU0VDaDNhX2tjcldaZ3lmQl8?oc=5"
+          "d": "tradingview.com",
+          "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONEtFRDV3ZS1hRU1lY1d3QndlN0Vfck9PMXVVaXNQVkgzTDlsc0kxbjRtQ2Q3Wm9zYkY3cVdEZHM1dGlkc1NnRXVQbFY4SW5GOE9MLXA2ZFUtWWZlZFhJQ2p4VWJET1JjeV9RVEFRa1lKbGdIYTY3UldOVFFBalBxa0ZHNFFWMHB0NVRKal9tZWlIR0hFWUZubEdHcHF2YkE4WWFTeHNUT2NkU0JaTnBEUHpJOWIzdXRmVm5HOXBTcEZxMzlUZWxGWjZvcEZKZFZhQjFGb0t1WQ?oc=5"
         }
       ],
       "srcTitles": [
-        "In America’s classrooms, AI and VR prompt calls for new guardrails for students",
-        "In America’s classrooms, AI and VR prompt calls for new guardrails for students"
+        "Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race",
+        "Chinese Tech Giants Pivot Away From Gaming To Fuel Artificial Intelligence Race"
       ]
     },
     {
@@ -551,6 +519,70 @@
     {
       "cat": "models",
       "signal": 20,
+      "sources": 2,
+      "ts": "2026-08-18T19:54:55.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Teens risk critical thinking, learning as they lean into AI for schoolwork",
+      "s": "Teens risk critical thinking, learning as they lean into AI for schoolwork katu.com",
+      "b": [
+        "katu.com: Teens risk critical thinking, learning as they lean into AI for schoolwork",
+        "thenationaldesk.com: Teens risk critical thinking, learning as they lean into AI for schoolwork"
+      ],
+      "body": [
+        "katu.com: Teens risk critical thinking, learning as they lean into AI for schoolwork katu.com",
+        "thenationaldesk.com: Teens risk critical thinking, learning as they lean into AI for schoolwork National Desk"
+      ],
+      "l": [
+        {
+          "d": "katu.com",
+          "u": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQNWpnMmJWX1pzdGxGbXlZN2E5MUd2UkN3SXVBaFotNUY5TUR3S0wzamgyNTl2ZVktRkRKQzRFN01fSldSRUJSZWZackN5NHdSUS1vaGNoemFMSnBpRE1oRk9ncjhfeVdEMTBBd0ZXbFc1aFBWang1MXZ1aHc4TG5KTWUyc203djdVTUJRTFdBZVgtMWFJWFQ0Q3ZNVzhnQnBwMklaT3c4Y2JGNGNnRklpYnY2X2RXcFo4SWVqUFNnaDhwc24wb2pNV3VodlUzTThtZm1VNS1JdWU0QklpWU4tS2RRRzdLWkR2eVc4WklzUGdkNEZpUlhfcnAyLUw2TjhNWE1hcUc3VnBSa3JURjBqTlBDMmloQ0p4ODdpZV9Pd1VBaFZKdnhPUFlqLXkyNGhNUE1jOWRXSQ?oc=5"
+        },
+        {
+          "d": "thenationaldesk.com",
+          "u": "https://news.google.com/rss/articles/CBMirAJBVV95cUxObmlXdnMxYlBMMFFHT2dSZTkxaDhtMms1amJJOGRXOEdFSHFsSXBOSGtndExjTHhEYUpXSTAtUFBIRzZPVHJod0RUQzFwcTZBbzlBbS1NN1pSQV94amo3STVoa1pUWmxIYTRoTjVKOTBkZlE3VDhXbTBXS3JNZTd4TUN4LW1mNl9IdzdoQl9JRzJEWlFEdk9nV3FQVjc4NTVzdDJGOUJjVjVTdHc3eXE5cTZkV3Z0UnVPMzI1eEdmZExjYTdkRUdJekVRVG9RbEZDUmZ6MzBEU0V2S2pZeHZWcDhpUGJqS0dUNGlpaWhodF9LR25jUWJ4c2VTTDM3RFpsek5UWndJYlV2M0x2S2Y3WXh0Zm9fbHF2QlJBbjgyY2hwOU9RcDR6NlUwSWc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Teens risk critical thinking, learning as they lean into AI for schoolwork",
+        "Teens risk critical thinking, learning as they lean into AI for schoolwork"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 20,
+      "sources": 2,
+      "ts": "2026-08-18T18:44:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "In America’s classrooms, AI and VR prompt calls for new guardrails for students",
+      "s": "In America’s classrooms, AI and VR prompt calls for new guardrails for students KATU",
+      "b": [
+        "katu.com: In America’s classrooms, AI and VR prompt calls for new guardrails for students",
+        "thenationaldesk.com: In America’s classrooms, AI and VR prompt calls for new guardrails for students"
+      ],
+      "body": [
+        "katu.com: In America’s classrooms, AI and VR prompt calls for new guardrails for students KATU",
+        "thenationaldesk.com: In America’s classrooms, AI and VR prompt calls for new guardrails for students National Desk"
+      ],
+      "l": [
+        {
+          "d": "komonews.com",
+          "u": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxNVlRuR2djQ21XaVNmZzY1Nnd5RTREUk1NVjllUkg0d3ZVbk1vM19GUFdrT3ZMdXBxN3lBTWZaeFFJcDkzV05USnJSTHQwUEJ0ZmtKbVdSbi1hZURCUlhycmxrWE9HNFhoWVM1TTBJa3NKMDVaTmU1RGRLQVZ5UVBXZHBEZ3RUbm5WR243RWtta0Y5dUxic0VrcG4yZWZPNFNQX3ZkZE9la1N0Q0w5RE01ZDF2Ri1QZzdoWXEzbHF3d3hPRHl0TFNjRTVuREFOT3F3QmZmNEo3UTlObU94M3BGN2xWcHp6OTRYVEQ2UjhqbElLeXgyTlJPeGpwc3FtUmRJdkRiZnU1dHZYYUc3OVd1dlJhc2F6eVpFZXlGbXZFR2tReTMzTlc0MTgzUllQOWo3WkJ4RXM3RXJJQ3NaWUtJWWs0N09KdDNsRGtJQ004dnhUV2dnOVlScC1nMGFaM2s1eHRvOWhGcUlhOXVtbklTaERjcDNCQQ?oc=5"
+        },
+        {
+          "d": "thenationaldesk.com",
+          "u": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxNQllaY3RZRTJSekQwS0kydFpfLWJUcjdhS0ZQUWNxZVNoOFUybUxmNFZBV1F1ZGp2WlFjM2hqOVlseEJ3NWVnQXdjSjRDekRicUc3U1NlMzhrelFxV0xBb1JoY1RremVmcEJpcnE2THhSTFNYVjItazMxMWRLakctSGx3QjQwMHZSWVZuUU9rbGhDa2poakhaWm9JTGxxTzVpc254OHh3bF9JMG8zemtYSHlFRm9FeEJ3TFd5STdrTWdkQzV1U2JUYzlQVkRHdU12TFFfc2t2NXlZTGFnUk14TU9CTmx2SjdnbTAzLWZUc1ltVkJfSHp3SnZiTnVYcGpUdkRSYVctNHdVbjh6T1J0eUhVVUZFZFRRNnBRTmkxZEFwSFc5RWQyQnVFejZfUW1ZR1EteUE4dWpRR25KRXQxLVRqbERFNXZPbkZOb1ZEWmxTd0FSdFJoU0VDaDNhX2tjcldaZ3lmQl8?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "In America’s classrooms, AI and VR prompt calls for new guardrails for students",
+        "In America’s classrooms, AI and VR prompt calls for new guardrails for students"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 16,
       "sources": 2,
       "ts": "2026-08-18T09:45:49.000Z",
       "writtenSources": 2,
