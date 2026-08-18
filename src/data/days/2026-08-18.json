@@ -2,8 +2,45 @@
   "date": "2026-08-18",
   "stories": [
     {
-      "cat": "research",
+      "cat": "models",
       "signal": 62,
+      "sources": 3,
+      "ts": "2026-08-18T09:45:49.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals (Bloomberg)",
+      "s": "Bloomberg : Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals Baidu Inc.'s revenue fell for a",
+      "b": [
+        "techmeme.com: Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals (Bloomberg)",
+        "scmp.com: Baidu’s AI surge fails to stem quarterly revenue decline"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals Baidu Inc.'s revenue fell for a fifth consecutive quarter, reflecting a weakening position in ads as well as AI development against rivals like Moonshot.",
+        "scmp.com: Baidu’s AI surge fails to stem quarterly revenue decline South China Morning Post"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260818/p5#a260818p5"
+        },
+        {
+          "d": "france24.com",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNX0x0cHUxTDBGSnJ4SGdULWY1cXRUb2JVcjMxb1ZtanpBa2J4RERxU3hlbkNWVEFNTGlmMTV4d2hicUVPc1dlVDJya1BDSDRFTFRqZ0gzMXJNWktldnZOT3RWTnRBaklteXBlUWYwV1dseElGM195U3RCRklhZGFrSzE5VzVQMERnRmJWdEtQSzA4bXhpMF9pb3hWV08zVDRoX2E1VDZYcFdXNWdFSlptRi04enNLYi1BMkE?oc=5"
+        },
+        {
+          "d": "scmp.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVVOVTEwU3VkYTNYVDEyMFBlR1RQVFQzUnJ4RVJ0Y3ZDWEpRN3MzQmJsSWt3SmdFNTREME4wYzg3ZUVHdGJUMHZJa3NBUzdobDV5VUljRkRsNWEwRnFMR2tzaEJlY0F6cWk4bVBzTVJkUi1xNURrY0JsVjVGcG96QWY3QmNFeXdCNDJEWklhVjVCRXBUVEFEOGRBS2JNbmtFWWtSblFySWx3NnNoZFAzYm9FUENxUGRPMWFpMmhmdW5nSWF5WlE40gHHAUFVX3lxTE83VTlISjlyMEhtbW5ndl8zMllrOXp1cEFDU3BQcUNaNnR0amNuSGdoUDB6cnJ4eDFSQTFZeDJxYU10eXJwQXhqWmtDYzliMEczNWp0ZTU5NlRRUV9OUFF3SzE0ZWhlUUlIRG1Ec3d4NEk2U1FBeUtPUkc0N09DaDZPazJBQWFzN3ZPMldVamVZZHU2NUdpUTRIWnRBdEVicDZzWTI1ekwzei1yQ3gtbVNwQkxhYmhLUk1Zc2VvS0JGWGNNWW02bTg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals (Bloomberg)",
+        "China's Baidu, betting on AI, posts fifth straight quarterly revenue drop",
+        "Baidu’s AI surge fails to stem quarterly revenue decline"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 59,
       "sources": 2,
       "ts": "2026-08-18T11:06:17.000Z",
       "writtenSources": 2,
@@ -24,50 +61,18 @@
           "u": "https://www.techmeme.com/260818/p12#a260818p12"
         },
         {
-          "d": "usnews.com",
-          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQTM5QVZIWEJVLUt6QWxCTkZNMmk2LUpLSFJvZEdRd2dnYzhQYk9EcU5wT2tqaVNMa2RiMkNEZzgtZzk2U0RVU0docmlWdlltWkF5Szc1UTdPMlU1c3IwUlByNVFMOFpsLVpGLWtqLXZ1UlUzb2F3ZjZ1cEpqcGpqTzdMbktyVjFEQi1nY2ppdzZ5Nm9IVTNnSXJHYk10Sm5FU2lfLUE2dXNtc3RtbTJBR2Q1czNEc2NoWEFXVzdfTjVsUXRVTV91bVctWEpKUQ?oc=5"
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPODNVMmNOelM3amNTTjM2cDlOWlNJU0p6WEVmbUMzTXBFVzRySHJ4Ymo1SXU0TFZPSEViZTVWSk1KLXp2aUVaMHgyX2VQWGF3S0kwd2Jjc1Z5VDFzaHBOakN0MWRyRFJ3ZFkyTDZTbmNIZ3pfTUlVZDBKNnQzWUJmM0VlZnNwbVdRZGl6MElweVhlOUU2NGVtWWlBUHZqcjliYjI4Zg?oc=5"
         }
       ],
       "srcTitles": [
         "OpenAI launches ChatGPT for Teens, a new mode that limits high-risk chats around self-harm, eating disorders, and other topics, adds studying tools, and more (Cecilia Kang/New York Times)",
-        "OpenAI Launches ChatGPT for Teens, Promising a More Age-Appropriate Chatbot"
+        "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot - ABC News"
       ]
     },
     {
       "cat": "models",
-      "signal": 59,
-      "sources": 2,
-      "ts": "2026-08-18T09:45:49.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals (Bloomberg)",
-      "s": "Bloomberg : Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals Baidu Inc.'s revenue fell for a",
-      "b": [
-        "techmeme.com: Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals (Bloomberg)",
-        "scmp.com: Baidu’s AI surge fails to stem quarterly revenue decline"
-      ],
-      "body": [
-        "techmeme.com: Bloomberg : Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals Baidu Inc.'s revenue fell for a fifth consecutive quarter, reflecting a weakening position in ads as well as AI development against rivals like Moonshot.",
-        "scmp.com: Baidu’s AI surge fails to stem quarterly revenue decline South China Morning Post"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260818/p5#a260818p5"
-        },
-        {
-          "d": "scmp.com",
-          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTVVOVTEwU3VkYTNYVDEyMFBlR1RQVFQzUnJ4RVJ0Y3ZDWEpRN3MzQmJsSWt3SmdFNTREME4wYzg3ZUVHdGJUMHZJa3NBUzdobDV5VUljRkRsNWEwRnFMR2tzaEJlY0F6cWk4bVBzTVJkUi1xNURrY0JsVjVGcG96QWY3QmNFeXdCNDJEWklhVjVCRXBUVEFEOGRBS2JNbmtFWWtSblFySWx3NnNoZFAzYm9FUENxUGRPMWFpMmhmdW5nSWF5WlE40gHHAUFVX3lxTE83VTlISjlyMEhtbW5ndl8zMllrOXp1cEFDU3BQcUNaNnR0amNuSGdoUDB6cnJ4eDFSQTFZeDJxYU10eXJwQXhqWmtDYzliMEczNWp0ZTU5NlRRUV9OUFF3SzE0ZWhlUUlIRG1Ec3d4NEk2U1FBeUtPUkc0N09DaDZPazJBQWFzN3ZPMldVamVZZHU2NUdpUTRIWnRBdEVicDZzWTI1ekwzei1yQ3gtbVNwQkxhYmhLUk1Zc2VvS0JGWGNNWW02bTg?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Baidu reports Q2 revenue down 2% YoY to ~$4.62B, below ~$4.69B est. and its fifth straight quarterly decline, and net income of ~$341M, as it lags AI rivals (Bloomberg)",
-        "Baidu’s AI surge fails to stem quarterly revenue decline"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 52,
+      "signal": 49,
       "sources": 1,
       "ts": "2026-08-18T11:00:00.000Z",
       "writtenSources": 1,
@@ -92,8 +97,8 @@
     },
     {
       "cat": "models",
-      "signal": 36,
-      "sources": 3,
+      "signal": 35,
+      "sources": 4,
       "ts": "2026-08-18T10:59:00.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -115,6 +120,10 @@
           "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU2ZPNFdMclZGdTM1dzdMWE1xZEhRdy1ITXhtUmVRcmJZVVFXZ05LU01FM3FPUkRxNE13aHlBdXFCb0pkbjI1dnZFVTJ2alpXbTJGLXJUY3NIbEEzRS1XWlRGeGczbUdWV3kzejdZY2JMM1QtcnotTE12R3FyV0hBSlRDc2VzQ1otb1VuQXhJeWtueWx5REtXUG15bi1MdXhqMEdROF93cHhtcjkyMnJ0cjZEUQ?oc=5"
         },
         {
+          "d": "azfamily.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPem5VNWIzeWdPZTVJMFk0LXhndkRYOG9rOFdVVHZHa2o0UjJCc0tDQnc1RUtxaXprVG9ST09pdU4tZVcyUmpScXZkcmJINGtSSE5KLUhUZlJ6ejgwSHVrdUp0bE5TMHNxVVBpYW5LRk84Mmh2QV9mZHVmN1BMdHYtWlJCWUY5TEh0UmJTQjVMcEhvamRhWXVYUkM0TVRGVXJMNWRVZkZySE1yS1MtVVc0?oc=5"
+        },
+        {
           "d": "walb.com",
           "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQnBJS3BKNjJ0OFlpNVdkczF4bE95eWY3cDktQi1oUEp1SjBRZjh4STdkODlZRldxWGhiVm9xUHI4ai1xWnQ2Q2lRMUhodVcwTTMtTTVscTJrVlg3emVwSklOVUFHWmdsbnMzWXpnNDVMTzFEMUN4eXc0eVVGNGhYQlY3dG1BQmw4U2ktTUR6WlU3bEg0UkJTcFRoZTFVU0k5am9yYnBXRjREQQ?oc=5"
         },
@@ -126,12 +135,13 @@
       "srcTitles": [
         "AI in the Classroom: How local school districts are managing the tech expansion",
         "AI in the Classroom: How local school districts are managing the tech expansion",
+        "AI in the Classroom: How local school districts are managing the tech expansion",
         "AI in the Classroom: How local school districts are managing the tech expansion"
       ]
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-08-18T11:00:00.000Z",
       "writtenSources": 1,
