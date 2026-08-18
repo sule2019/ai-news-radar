@@ -2,38 +2,6 @@
   "date": "2026-08-18",
   "stories": [
     {
-      "cat": "models",
-      "signal": 61,
-      "sources": 2,
-      "ts": "2026-08-18T18:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "OpenAI institutes new safeguards after Hugging Face breach",
-      "s": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "b": [
-        "techcrunch.com: OpenAI institutes new safeguards after Hugging Face breach",
-        "techmeme.com: OpenAI says it has made several changes to its safety practices following the Hugging Face breach and has paused two weeks of deployment-focused RL training (Ina Fried/Axios)"
-      ],
-      "body": [
-        "techcrunch.com: The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-        "techmeme.com: Ina Fried / Axios : OpenAI says it has made several changes to its safety practices following the Hugging Face breach and has paused two weeks of deployment-focused RL training OpenAI said Tuesday that it has made several changes to its safety practices following its determination that an upcoming system"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260818/p29#a260818p29"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI institutes new safeguards after Hugging Face breach",
-        "OpenAI changed safety practices and paused RL training for two weeks after the Hugging Face breach and evidence Astra may have met a critical cyber threshold (Ina Fried/Axios)"
-      ]
-    },
-    {
       "cat": "research",
       "signal": 59,
       "sources": 3,
@@ -68,6 +36,38 @@
         "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
         "Artificial Intelligence under control: OpenAI launches a ChatGPT exclusively for teens",
         "OpenAI launches ChatGPT for Teens, promising a more age-appropriate chatbot - ABC News"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-08-18T18:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI institutes new safeguards after Hugging Face breach",
+      "s": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+      "b": [
+        "techcrunch.com: OpenAI institutes new safeguards after Hugging Face breach",
+        "techmeme.com: OpenAI says it has made several changes to its safety practices following the Hugging Face breach and has paused two weeks of deployment-focused RL training (Ina Fried/Axios)"
+      ],
+      "body": [
+        "techcrunch.com: The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
+        "techmeme.com: Ina Fried / Axios : OpenAI says it has made several changes to its safety practices following the Hugging Face breach and has paused two weeks of deployment-focused RL training OpenAI said Tuesday that it has made several changes to its safety practices following its determination that an upcoming system"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260818/p29#a260818p29"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI institutes new safeguards after Hugging Face breach",
+        "OpenAI changed safety practices and paused RL training for two weeks after the Hugging Face breach and evidence Astra may have met a critical cyber threshold (Ina Fried/Axios)"
       ]
     },
     {
@@ -240,6 +240,82 @@
     },
     {
       "cat": "funding",
+      "signal": 36,
+      "sources": 3,
+      "ts": "2026-08-18T22:41:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
+      "s": "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip? Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
+        "fool.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
+        "aol.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?"
+      ],
+      "body": [
+        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip? Yahoo Finance",
+        "fool.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip? The Motley Fool",
+        "aol.com: Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip? AOL.com"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdjNPS1p6Q2ZDRUNJeUVCOFo2a25hNjhCT0FuNzhiVDkxZzM2WXZ4QnZFRFBfdWNDdG5NcXY5R05DSXVYSi1wU0FUeVZwRllmTk0teVNzOUd3MWNPRGtLWEkwRHVKeE9BS21LZGNJNktUTjdrTkJjOF9nY19JRzU1eXE1d0oxNHVzVXU3WXVwNE95MWxlaXJuSGpYRXNoNnlIYkJvUkthSkl5ZDBRYXc?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGVkQ2RrdDhHbExTRE1VTHMzYzFsSG9TamZDc1hhNTB2Qm85aFg5T3E1WTMwRFoxd25kSWYyWjR5UnBDblVMZ0d5RlFSRTdwOXc0TEVpSmpCdlBKemVoX1hNTWUxNWlEN0VaaV8wMW5yRmZkN0NlWmlOSWNvUTg5VVk0dU1BVDBGVXh4MDFUcHpwWVFTeUZ3YQ?oc=5"
+        },
+        {
+          "d": "aol.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcWdOenYzeDZNbktVT3UxNDFXOXdFZVdkaVZQWWtHTExBRUdxcFliQzhTbDdNZHhlUjE0LXZVOTFWY3NFYTJHN2cyTWdOcy0xUDRnRmlzTG1KX1BjVWFhYkJhNHJ5TURPMUxreGZwUHp2TWlZZ2JCSHJ4THVxLXdXWnFJYkZEXzNLVXZGT096dlFQWE0?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
+        "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?",
+        "Broadcom's Artificial Intelligence (AI) Revenues Are Forecast to Exceed $100 Billion in 2027: Should You Buy the Dip?"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 36,
+      "sources": 3,
+      "ts": "2026-08-18T22:20:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
+      "s": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
+        "fool.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks"
+      ],
+      "body": [
+        "finance.yahoo.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks Yahoo Finance",
+        "fool.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelFTa1dHeEJjSUctSzM0S0UtWUt2em13RGhjdHY1MHpIQUREODkwZFJrOGFjODRISmNxSWlrMlRpM094eTdHSnBzRTY0NkY1Qkd4YXhTUjNDRUxzckJWRUcwZ0Y2OWxYYkhib01saWgzMHlaVHJOTGE0YUcwVjZkY1Q5d0xTWmFnLXNLY3Q5V0tUQWJKTzQ1R2p5NlJWOWJuR3c?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZFprc0xKdm9BaVo3ZjNncWxFOWEzN0lqUVpQZ3Q4eDN1RFU5Y2F1eU1UQlFRbTFVTWlZLWdWM19uUElPbnFwMlFDanppSTZka0ZYUEhac0hKRDM0bjdMODNsbmI2NTJFc3RhdlNWdVVCMnFLdEQ3ZTNHY3YzX0F4TTNPeGktM0w4UUREeHg2ckEzeGpFampUUQ?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOYlFyQ1NJNGVrekxxSFVPZUpPczRXc1M4bTdoV1RkQjRjQWdycDdmTDB2SGcyOExzS19TMFYyS3U4Q0VyZ2xvT1pvbFRDU29ielN4dDlPdzM1NkNkY3k1N1VvVGxteVZDbjQzNF9PNFU1MU91T3dWYmJMaE9pdUU5YndyTGtqWXlfQzBCNlppYWRFdU52RmFOOHQ5dVJ2YURrUTZZRTJuLWlzdG5EcS1mbVZzWVdTd2JFcmlKQ0FUdGdobFh1dE1xSmk0SV9vVjZBRlBuX3JMU0sweW82ZVNPY1lVOVBvWW5PZHp2cWF0WmRKMWpJbW5XTllNa2pEUE9jMzhtdmhWU0ozb1RHekd1X1RsN2dNQ3Badm1zSUtqenY2cGpnX2dfamE5cFZienhiSlUzZ0N2ek1pa3VLZXhRWU1R?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
+        "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
+        "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks"
+      ]
+    },
+    {
+      "cat": "funding",
       "signal": 34,
       "sources": 2,
       "ts": "2026-08-18T16:31:30.000Z",
@@ -271,40 +347,8 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 32,
-      "sources": 2,
-      "ts": "2026-08-18T22:20:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
-      "s": "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks Yahoo Finance",
-      "b": [
-        "finance.yahoo.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
-        "fool.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks"
-      ],
-      "body": [
-        "finance.yahoo.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks Yahoo Finance",
-        "fool.com: Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks The Motley Fool"
-      ],
-      "l": [
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQelFTa1dHeEJjSUctSzM0S0UtWUt2em13RGhjdHY1MHpIQUREODkwZFJrOGFjODRISmNxSWlrMlRpM094eTdHSnBzRTY0NkY1Qkd4YXhTUjNDRUxzckJWRUcwZ0Y2OWxYYkhib01saWgzMHlaVHJOTGE0YUcwVjZkY1Q5d0xTWmFnLXNLY3Q5V0tUQWJKTzQ1R2p5NlJWOWJuR3c?oc=5"
-        },
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZFprc0xKdm9BaVo3ZjNncWxFOWEzN0lqUVpQZ3Q4eDN1RFU5Y2F1eU1UQlFRbTFVTWlZLWdWM19uUElPbnFwMlFDanppSTZka0ZYUEhac0hKRDM0bjdMODNsbmI2NTJFc3RhdlNWdVVCMnFLdEQ3ZTNHY3YzX0F4TTNPeGktM0w4UUREeHg2ckEzeGpFampUUQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks",
-        "Warren Buffett's Successor, Greg Abel, Has 34.7% of Berkshire Hathaway's Portfolio Invested in These 2 Artificial Intelligence (AI) Stocks"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-08-18T14:14:55.000Z",
       "writtenSources": 2,
@@ -378,8 +422,8 @@
       ],
       "l": [
         {
-          "d": "einnews.com",
-          "u": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPNVNkUE56cnNDQzVtaHpLUElnS1VubFlxNGVZTlJ0TDJMY21EZ2EyRHRGdExhd3VCQ0xWR2w4alZabGNCNkN5NXZjYXc1c3JzNzBDNTVkQThzTlBUeXFsRS1ZVlgzTzJ2dVlqUTFzTHRTdnB0T01SdV9ubHRqdFE1ZmdWYUxpVVBtZDE5ZFVua0FPalNFUFA4OUNjU3F3TUlWZXRqdjN5NzBSLVQ4Szh2X0hiS0FBaFhsQmh6SHdHbXBKVkt1MU9kNThBN1h2aENsNG5xb3l6a1NqMVNUeFJTRzU5MER4aFQ0cFA3Ulc0ZzNmOVU?oc=5"
+          "d": "natlawreview.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUW14SF9lZFFIMm1QZ1VqUFlPdlhUbVpkSWZOUk5XdnJpdm5tSDlQRXJlUy1pa3FxVDdsS0F4VF8ydHBjWjBLSjZJNlpMekE4Rm8xTElOOFBwT2dyUkE1MDV1eW84cmtQV0V5ZWh3VGxIdS1KM3JQMEhseVZ4U3JldnZjajRkXzdOQTlOSlRmNjk3Y2doZnlJVV9vWUN0Smh0TVEzRmdTQk1aS250MFJuVg?oc=5"
         },
         {
           "d": "tradingview.com",
@@ -387,7 +431,7 @@
         }
       ],
       "srcTitles": [
-        "Safe Pro Awarded Subcontract for Artificial Intelligence Powered Demining Software Under US Department of State Program",
+        "Safe Pro Awarded Subcontract for Artificial Intelligence Powered",
         "Safe Pro Awarded Subcontract For Artificial Intelligence Powered Demining Software Under U.S. Department Of State Program"
       ]
     },
@@ -414,45 +458,13 @@
           "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMkVTQ0E0NmtMU2tfUWNSZWxUTDNjVU4tOV81eGNRQzIxN1VaMldEeThaelYwT1VTa19uUjhRb2tlRjZ6MW1jUGdiQlMwVFZRa195RkI1djg5UnFQSG1QZkdlWURCb0tKTEIwOEJTLWdTUEtuUEZfMkdPSmJ4NUJHSTJmQlpjY2tTWHVYTThTZUw2VHhnYmc?oc=5"
         },
         {
-          "d": "13abc.com",
-          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZ3FwalVkX3pKT3FDN3NaLWdHdWVpTTV2SUdyeEtBd0ZHbDJ2akxEellWdkpFeGlqY0FCYVE2Yk9GVUhOa1BFTUZTWDhpSi1zT1dNaWtaSnBqWDF2SkFkY0J5MENDWVZyRFZiR0l6dTRlbVdvWWdqMVhvMFl3cjFFQ1ZwdDBYOGlxdG93c0p3T19RUUotSHh3?oc=5"
+          "d": "wbay.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZGhoVlp2b09xdnM2Y3YtZUZzSU1oNzNxbllSZGhkN0FkRXRQY21oMnhmYlNpTFJadl9VU2RMaVJqeV9ISUNxQTlpSV9MMlEwU0xYZmtiV0RXaEE3eDNlSlZMN2tmLXAybUtodENhNUZOVUtub0VZNTQ0ODgzaVpfNXhPLU1fa0M3czA1YTZybW0ySEZld0E?oc=5"
         }
       ],
       "srcTitles": [
         "Shaping the Future: How AI is Redefining the Modern Classroom",
         "Shaping the Future: How AI is Redefining the Modern Classroom"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-08-18T01:53:57.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Impacts of Artificial Intelligence in the workplace",
-      "s": "Impacts of Artificial Intelligence in the workplace CityNews Calgary",
-      "b": [
-        "calgary.citynews.ca: Impacts of Artificial Intelligence in the workplace",
-        "elciudadano.com: Artificial Intelligence: Organizations Across the Americas Urge the IACHR to Address the Environmental and Social Impacts of Rapidly Expanding Data Centers"
-      ],
-      "body": [
-        "calgary.citynews.ca: Impacts of Artificial Intelligence in the workplace CityNews Calgary",
-        "elciudadano.com: Artificial Intelligence: Organizations Across the Americas Urge the IACHR to Address the Environmental and Social Impacts of Rapidly Expanding Data Centers elciudadano.com"
-      ],
-      "l": [
-        {
-          "d": "calgary.citynews.ca",
-          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0FNNklCS2NROFpVNWpULVJpanBvNlI5QndKeW1uU2VTZlJyMmlLemY2dzFNV3RZTVdCZ3MyVTR6ajVZS3VYcm1jVVNEVjhBbHo4RElOLXBWVms2ZE0ySG5kWm1tVW5DZzBtbHhlUFE0dURERnV0azByMkpucWQ2Rl9XbWFieExaWjlHSldHTHBFM2JIbWEzUm5fa0tZdw?oc=5"
-        },
-        {
-          "d": "elciudadano.com",
-          "u": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOam5Yb3RXSmlqdFROdExob2lmZ3UtdHlZNlYtVXROLXh6Q1RwVXNJUXZRaURWMnVWNGxqa0llelZMQmlKeGZIU2FEcnBnODJ3dlQ3d2JibmtkejV4UGY5MUV0RXlzejJGOGZhc3VmUVVGUW1USGlVbUxLLXF0Q1EwTDNuWGhBR1JFTEFvcjB2YVFFLUY3dzlFZlFHcVJoQnMxOXFOS3ROb04xM2FIYm5KMTd4dlF1WGh0SmdWNXNndHZOcm1kYVBxX2VfaURqWDkzNmtlSGpNdmZHZkRDM2g2U2txMlU0d01BY2VsVG5ReWFUVWJmNm1DYW5Ob3lqV0NseGhRUVNKOGhXTXFUX0MyTVFFT01nRVZmcDZSdg?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Impacts of Artificial Intelligence in the workplace",
-        "Artificial Intelligence: Organizations Across the Americas Urge the IACHR to Address the Environmental and Social Impacts of Rapidly Expanding Data Centers"
       ]
     },
     {
@@ -582,7 +594,39 @@
     },
     {
       "cat": "models",
-      "signal": 20,
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-08-18T01:53:57.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Impacts of Artificial Intelligence in the workplace",
+      "s": "Impacts of Artificial Intelligence in the workplace CityNews Calgary",
+      "b": [
+        "calgary.citynews.ca: Impacts of Artificial Intelligence in the workplace",
+        "elciudadano.com: Artificial Intelligence: Organizations Across the Americas Urge the IACHR to Address the Environmental and Social Impacts of Rapidly Expanding Data Centers"
+      ],
+      "body": [
+        "calgary.citynews.ca: Impacts of Artificial Intelligence in the workplace CityNews Calgary",
+        "elciudadano.com: Artificial Intelligence: Organizations Across the Americas Urge the IACHR to Address the Environmental and Social Impacts of Rapidly Expanding Data Centers elciudadano.com"
+      ],
+      "l": [
+        {
+          "d": "calgary.citynews.ca",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNY0FNNklCS2NROFpVNWpULVJpanBvNlI5QndKeW1uU2VTZlJyMmlLemY2dzFNV3RZTVdCZ3MyVTR6ajVZS3VYcm1jVVNEVjhBbHo4RElOLXBWVms2ZE0ySG5kWm1tVW5DZzBtbHhlUFE0dURERnV0azByMkpucWQ2Rl9XbWFieExaWjlHSldHTHBFM2JIbWEzUm5fa0tZdw?oc=5"
+        },
+        {
+          "d": "elciudadano.com",
+          "u": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOam5Yb3RXSmlqdFROdExob2lmZ3UtdHlZNlYtVXROLXh6Q1RwVXNJUXZRaURWMnVWNGxqa0llelZMQmlKeGZIU2FEcnBnODJ3dlQ3d2JibmtkejV4UGY5MUV0RXlzejJGOGZhc3VmUVVGUW1USGlVbUxLLXF0Q1EwTDNuWGhBR1JFTEFvcjB2YVFFLUY3dzlFZlFHcVJoQnMxOXFOS3ROb04xM2FIYm5KMTd4dlF1WGh0SmdWNXNndHZOcm1kYVBxX2VfaURqWDkzNmtlSGpNdmZHZkRDM2g2U2txMlU0d01BY2VsVG5ReWFUVWJmNm1DYW5Ob3lqV0NseGhRUVNKOGhXTXFUX0MyTVFFT01nRVZmcDZSdg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Impacts of Artificial Intelligence in the workplace",
+        "Artificial Intelligence: Organizations Across the Americas Urge the IACHR to Address the Environmental and Social Impacts of Rapidly Expanding Data Centers"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 16,
       "sources": 2,
       "ts": "2026-08-18T20:07:12.000Z",
       "writtenSources": 2,
@@ -614,7 +658,7 @@
     },
     {
       "cat": "models",
-      "signal": 16,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-18T19:54:55.000Z",
       "writtenSources": 2,
@@ -646,7 +690,7 @@
     },
     {
       "cat": "models",
-      "signal": 16,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-18T18:44:48.000Z",
       "writtenSources": 2,
