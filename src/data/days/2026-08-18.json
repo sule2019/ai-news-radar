@@ -1,4 +1,55 @@
 {
   "date": "2026-08-18",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-18T10:06:43.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "We still don’t know how people are really using AI",
+      "s": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “Ther",
+      "b": [
+        "technologyreview.com: We still don’t know how people are really using AI"
+      ],
+      "body": [
+        "technologyreview.com: AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to corroborate it,” says Anka Reuel, a Computer Science PhD candidate at the Stanford Trustworthy AI Research (STAIR) Lab. Reuel is co-lead of a new research project, called the AI Observatory, that aims to fill in the gap. It’s a public platform that aggregated and analyzed real AI conversations with popular models like Claude and Gemini that were collected with users’ consent through seven existing datasets. The Observatory s intent is to provide independent sources of information for researchers and policymakers to assess how people are using generative AI. Stakeholders are currently making highly consequential decisions about AI’s benefits and risks based on very limited data, says Reuel. The AI Observatory found that AI use differs significantly across models, and has changed over time. Its research shows many more sensitive behaviors than are captured in reports from major AI companies, which they say focus more on work than on personal use. Anthropic Economic Index is one of the best known and most widely cited sources of AI usage data but it has blind spots. As its name suggests, it focuses on work- and productivity-related uses of Claude AI—filtering out conversations that are unrelated to these uses. When the AI Observatory team applied Anthropic’s methods to their dataset, they found that nearly half of the conversations—or 48%— would have been filtered out. Those non-work-related conversations that were filtered out were more likely to include health and relationships (44.2% versus 31.2% in Anthropic’s analysis), adult or illicit topics (7.9% versus 2.1%), harassment and hate (27.5% versus 5.66%), and sexual content (16.7% versus 2.4%). (OpenAI’s 2025 report on ChatGPT use, similarly, found that only 30% of consumer use was related"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai/"
+        }
+      ],
+      "srcTitles": [
+        "We still don’t know how people are really using AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-18T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AI’s recursive self-improvement might not come so quickly after all",
+      "s": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimiz",
+      "b": [
+        "technologyreview.com: AI’s recursive self-improvement might not come so quickly after all"
+      ],
+      "body": [
+        "technologyreview.com: The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on. Forecasts of explosive AI progress predict that what researchers call recursive self-improvement is on the horizon. But a new study suggests that it might take a while for us to get there. The researchers behind it found that AI agents are not yet capable of conducting open-ended AI research—free-form investigations that have no clear-cut answers and require judgment and taste, which may be integral to building self-improving AI. A multi-institution group of researchers, led by Peter Kirgis and Sayash Kapoor at Princeton University, found that AI agents could solve the engineering problems necessary to do AI research but lacked the judgment and creativity to produce original research at the caliber of papers accepted by a top machine-learning conference. The gap suggests that some of the hyped-up timelines for automating AI research may be running ahead of the evidence. Most existing research on how agents can automate AI research evaluates their ability to complete narrow tasks with checkable answers, such as solving engineering problems or post-training small language models against a benchmark. But making progress in AI research also requires open-ended thinking—choosing a set of hypotheses, deciding what evidence would settle a question, or knowing when to start over. To test agents on those kinds of skills, the researchers in the study proposed a new method of evaluation called “shadow evaluation,” which requires the AI to answer a research question from a high-quality unpublished paper. The researchers asked Anthropic’s Claude Opus 4.8, running on open-source software called OpenClaw, to tackle such questions, in this case from two papers submitted to the prestigious machine-learning conference NeurIPS 2026. The first question was"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/"
+        }
+      ],
+      "srcTitles": [
+        "AI’s recursive self-improvement might not come so quickly after all"
+      ]
+    }
+  ]
 }
