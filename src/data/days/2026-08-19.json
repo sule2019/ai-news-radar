@@ -153,8 +153,40 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-19T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "From Open Models to Open AI Infrastructure",
+      "s": "From Open Models to Open AI Infrastructure Communications of the ACM",
+      "b": [
+        "cacm.acm.org: From Open Models to Open AI Infrastructure",
+        "arxiv.org: Multi-turn Conversational AI from Text to Multimodal Interaction: Data, Models, Evaluation, and Open Challenges"
+      ],
+      "body": [
+        "cacm.acm.org: From Open Models to Open AI Infrastructure Communications of the ACM",
+        "arxiv.org: arXiv:2608.17605v1 Announce Type: cross Abstract: Conversational AI is moving beyond isolated text prompts toward sustained, multimodal interaction. In real conversations, users clarify goals, revise requests, interrupt responses, switch topics, and introduce new evidence while expecting systems to preserve context across turns. This makes multi-turn dialogue a distinct challenge requiring systems to maintain and update memory, ground responses across modalities, tools, and external knowledge, and adapt across languages and cultures. This study reviews multi-turn conversational AI across text-only dialogue, AudioLLMs and speech-native systems, multimodal and omni-modal systems, and tool-augmented agents. We organize the literature around datasets and benchmarks, modeling paradigms, training strategies, evaluation setups, and cross-cutting challenges. Our analysis shows that support for multiple modalities has advanced faster than the ability to sustain coherent interaction across a session. Despite stronger capabilities to perceive, speak, and act across modalities, current systems still struggle with persistent memory, cross-turn grounding, full-duplex interaction, robust evaluation, and cultural alignment. We conclude with a research agenda for systems that can remember, revise, ground, speak, listen, act, and adapt across turns, modalities, and cultures. (https://github.com/faiza-sfa/multiturn-conversational-ai-survey)"
+      ],
+      "l": [
+        {
+          "d": "cacm.acm.org",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIS0VMeWdPS0tfWHQybDZ2TjJzUU5TSFZFQ3hBTFVONlc5V1NrbzNVOFdUQWFPOXVCdWNIMXR0NFB4dDM4aFFuSnE1OGdnNFUyUXU0Q1VsV09idTl2Rnc5TXdWbHR6ajhvX1YxQWtqMnpfZ2h2SlVKamZXdGNUdw?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.17605"
+        }
+      ],
+      "srcTitles": [
+        "From Open Models to Open AI Infrastructure",
+        "Multi-turn Conversational AI from Text to Multimodal Interaction: Data, Models, Evaluation, and Open Challenges"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 16,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-19T04:50:00.000Z",
       "writtenSources": 2,
