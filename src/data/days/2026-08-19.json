@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 68,
+      "signal": 64,
       "sources": 3,
       "ts": "2026-08-19T15:00:00.000Z",
       "writtenSources": 2,
@@ -72,7 +72,7 @@
     },
     {
       "cat": "policy",
-      "signal": 62,
+      "signal": 59,
       "sources": 2,
       "ts": "2026-08-19T16:00:51.000Z",
       "writtenSources": 2,
@@ -98,13 +98,13 @@
         }
       ],
       "srcTitles": [
-        "Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party's chances of holding a vital Senate seat in Ohio (Alex Isenstadt/Axios)",
+        "Memo: the GOP asks AI companies to stem the public backlash against data centers, saying the issue could kill its chances of holding a vital Senate seat in Ohio (Alex Isenstadt/Axios)",
         "AI Companies Look to Ocean as Place to Put More Data Centers"
       ]
     },
     {
       "cat": "policy",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-08-19T04:00:00.000Z",
       "writtenSources": 2,
@@ -187,6 +187,38 @@
       ],
       "srcTitles": [
         "ChatGPT Ads expands across Europe"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-08-19T17:09:26.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed (Bloomberg)",
+      "s": "Bloomberg : Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed Stripe Inc. has agreed to buy OpenRouter Inc., an artificial intelligence startup that helps developers access and switch betwee",
+      "b": [
+        "techmeme.com: Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed (Bloomberg)",
+        "bloomberg.com: Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed Stripe Inc. has agreed to buy OpenRouter Inc., an artificial intelligence startup that helps developers access and switch between AI models. No terms were disclosed. Tokens are the central currency for companies building with AI",
+        "bloomberg.com: Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed Bloomberg.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260819/p37#a260819p37"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2lpcHU2c3ZTV1FBZTNGWWpjY2RKbTFoNGN6SHpDV0YzNlFFSEV3elhwOUc0SGI5cWFfenpqWEFQMFlLM00tNGJlQUlva3FRSm8tMWI4RlR5RHZqY056TFRGN2ZSR3JLbzQ1VC1ncl9CNFNhOXlodjFsQ2c4UzU0S0VscmEwY2RRTHRYWUg0MTNUcmxOdzU3S2N3ZkttSzdSZEZjWWZOSHFKWmNiUlE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed (Bloomberg)",
+        "Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed"
       ]
     },
     {
