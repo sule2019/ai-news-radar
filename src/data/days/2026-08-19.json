@@ -2,8 +2,33 @@
   "date": "2026-08-19",
   "stories": [
     {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-18T22:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "ChatGPT Ads expands across Europe",
+      "s": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+      "b": [
+        "openai.com: ChatGPT Ads expands across Europe"
+      ],
+      "body": [
+        "openai.com: ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/chatgpt-ads-expands-across-europe"
+        }
+      ],
+      "srcTitles": [
+        "ChatGPT Ads expands across Europe"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-08-19T04:50:00.000Z",
       "writtenSources": 2,
@@ -31,31 +56,6 @@
       "srcTitles": [
         "Prediction: 3 Unstoppable Artificial Intelligence Stocks That Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club by 2028",
         "Prediction: 3 Unstoppable Artificial Intelligence Stocks That Will Join Nvidia, Apple, and Alphabet in the $4 Trillion Club by 2028"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-08-18T22:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "ChatGPT Ads expands across Europe",
-      "s": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
-      "b": [
-        "openai.com: ChatGPT Ads expands across Europe"
-      ],
-      "body": [
-        "openai.com: ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/chatgpt-ads-expands-across-europe"
-        }
-      ],
-      "srcTitles": [
-        "ChatGPT Ads expands across Europe"
       ]
     },
     {
@@ -92,7 +92,7 @@
     },
     {
       "cat": "funding",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-19T02:25:01.000Z",
       "writtenSources": 2,
