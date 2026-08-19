@@ -2,6 +2,75 @@
   "date": "2026-08-19",
   "stories": [
     {
+      "cat": "products",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-08-19T15:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "s": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+      "b": [
+        "techcrunch.com: Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+        "techmeme.com: Amazon makes its AI-powered Alexa+ free on all compatible Fire TV devices in the US, automatically upgrading users even if they don't subscribe to Prime (Sarah Perez/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+        "techmeme.com: Sarah Perez / TechCrunch : Amazon makes its AI-powered Alexa+ free on all compatible Fire TV devices in the US, automatically upgrading users even if they don't subscribe to Prime AI is coming to your TV, whether you want it or not. On Wednesday, Amazon said its AI assistant, Alexa+, will be rolled"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260819/p24#a260819p24"
+        }
+      ],
+      "srcTitles": [
+        "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+        "Amazon makes its AI-powered Alexa+ free on all compatible Fire TV devices in the US, automatically upgrading users even if they don't subscribe to Prime (Sarah Perez/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-08-19T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: Veeda, which is developing world models and is led by ex-Nvidia VP of AI Research Sanja Fidler, raised a $90M+ seed and is backed by Khosla and Radical (Murad Hemmadi/The Logic)",
+      "s": "Murad Hemmadi / The Logic : Sources: Veeda, which is developing world models and is led by ex-Nvidia VP of AI Research Sanja Fidler, raised a $90M+ seed and is backed by Khosla and Radical Toronto-bas",
+      "b": [
+        "techmeme.com: Sources: Veeda, which is developing world models and is led by ex-Nvidia VP of AI Research Sanja Fidler, raised a $90M+ seed and is backed by Khosla and Radical (Murad Hemmadi/The Logic)",
+        "arxiv.org: Q-Learning With World Models",
+        "arxiv.org: Understanding Curriculum Learning in Large Language Models via Cross-Difficulty Optimization Dynamics"
+      ],
+      "body": [
+        "techmeme.com: Murad Hemmadi / The Logic : Sources: Veeda, which is developing world models and is led by ex-Nvidia VP of AI Research Sanja Fidler, raised a $90M+ seed and is backed by Khosla and Radical Toronto-based Veeda is building control systems for physical AI, and is backed by Khosla Ventures and Radical Ventures, The Logic has learned",
+        "arxiv.org: arXiv:2608.17163v1 Announce Type: cross Abstract: Off-policy reinforcement learning (RL) has become increasingly sample-efficient, enabling applications such as RL fine-tuning of Vision-Language-Action models into reliable, high-performing policies. World models offer a further lever for sample efficiency, as they predict state changes rather than actions alone, but their success has largely been confined to supervised policy learning. Prior model-based RL methods often optimize the policy or value function directly on imagined rollouts, which is prone to compounding bias and struggles to scale to large, high-dimensional problems such as real-world robotics, a problem that worsens with task horizon and visual complexity. In this work, we instead ask whether we can leverage world models directly on top of standard Q-learning to improve performance, while remaining trained and grounded in the real, online setting. We propose QWM, a framework that leverages world models to perform test-time search over imagined trajectories on top of Q-learning to select high-value actions during both online rollouts and evaluation. Since the policy and value function are trained only on real transitions, QWM avoids compounding model bias while still gaining the sample-efficiency benefits of predictive search. On challenging manipulation benchmarks Robomimic and LIBERO, QWM significantly outperforms strong prior state-of-the-art methods on both sample efficiency and performance.",
+        "arxiv.org: arXiv:2608.17268v1 Announce Type: cross Abstract: Curriculum learning has been widely adopted in the post-training of large language models by organizing training data from easy to hard. However, its effectiveness varies substantially across reasoning tasks, suggesting that no single curriculum is universally optimal and raising a fundamental question: what determines when curriculum learning works? In this paper, we answer this question by analyzing the optimization dynamics induced by different curriculum schedules. We show that the transfer relationship between different difficulty levels characterizes the optimization dynamics induced by curriculum learning, which in turn explains the effectiveness of different curriculum schedules, and formalize this relationship as Relative Transfer, a principled measure of cross-difficulty knowledge transfer. Based on this measurement, we derive Transfer-aware Dynamic Curriculum Sampling (TDCS), which dynamically adjusts the sampling distribution according to the estimated transfer relationship throughout training. Extensive experiments on multiple reasoning benchmarks demonstrate that TDCS consistently outperforms representative scheduling strategies across different tasks, model scales, and training paradigms. More importantly, our work provides a unified optimization-based explanation of curriculum learning through cross-difficulty transfer.",
+        "arxiv.org: arXiv:2608.17306v1 Announce Type: cross Abstract: While adversarial prompt tuning can enhance robustness of vision-language models efficiently, we find that existing methods aggravate robust generalization overfitting on seen classes, leading to a rapid degradation in performance against adversarial examples of unseen classes as training progresses. We empirically identify that this degradation stems from the tendency of the model to learn pseudo-robust features (i.e., non-generalizable shortcuts). To mitigate this, we propose ADAPT (Adversarial Disentangled Prompt Tuning), a robust prompt tuning framework following the philosophy of ``Learning What Not to Learn''. Specifically, ADAPT uses a dual-prompt mechanism with a target prompt and a pool of decoy prompts. During training, the decoy prompts are guided to entrap diverse pseudo-robust features, while the target prompt is constrained to be orthogonal to the decoys in the embedding space to learn robust features. By disentangling the robust features from the pseudo-robust features, ADAPT effectively prevents robust generalization overfitting. We further provide an analysis showing that the orthogonal loss bounds the effect of shifts in pseudo-robust features on unseen classes, yielding a testing error guarantee. Empirically, extensive experiments demonstrate that ADAPT substantially improves the robustness of the target prompt on unseen classes. The code is available at https://github.com/cheny02/ADAPT-ACMMM2026."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260819/p23#a260819p23"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.17163"
+        }
+      ],
+      "srcTitles": [
+        "Sources: Veeda, which is developing world models and is led by ex-Nvidia VP of AI Research Sanja Fidler, raised a $90M+ seed and is backed by Khosla and Radical (Murad Hemmadi/The Logic)",
+        "Q-Learning With World Models",
+        "Understanding Curriculum Learning in Large Language Models via Cross-Difficulty Optimization Dynamics",
+        "Learning What Not to Learn: Adversarial Disentangled Prompt Tuning for Robust Vision-Language Models"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 46,
       "sources": 1,
@@ -85,7 +154,7 @@
     },
     {
       "cat": "products",
-      "signal": 24,
+      "signal": 20,
       "sources": 2,
       "ts": "2026-08-19T04:50:00.000Z",
       "writtenSources": 2,
