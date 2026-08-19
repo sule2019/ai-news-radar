@@ -35,7 +35,7 @@
     },
     {
       "cat": "policy",
-      "signal": 55,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-08-19T16:00:51.000Z",
       "writtenSources": 2,
@@ -63,43 +63,6 @@
       "srcTitles": [
         "Memo: the GOP asks AI companies to stem the public backlash against data centers, saying the issue could kill its chances of holding a vital Senate seat in Ohio (Alex Isenstadt/Axios)",
         "AI Companies Look to Ocean as Place to Put More Data Centers"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 48,
-      "sources": 3,
-      "ts": "2026-08-19T15:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-      "s": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-      "b": [
-        "techcrunch.com: Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-        "techmeme.com: Amazon makes its AI-powered Alexa+ free on all compatible Fire TV devices in the US, automatically upgrading users even if they don't subscribe to Prime (Sarah Perez/TechCrunch)"
-      ],
-      "body": [
-        "techcrunch.com: Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
-        "techmeme.com: Sarah Perez / TechCrunch : Amazon makes its AI-powered Alexa+ free on all compatible Fire TV devices in the US, automatically upgrading users even if they don't subscribe to Prime AI is coming to your TV, whether you want it or not. On Wednesday, Amazon said its AI assistant, Alexa+, will be rolled"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260819/p24#a260819p24"
-        },
-        {
-          "d": "aboutamazon.com",
-          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yTGFJbzFwRUhuTVM1U1dRUzQ4SHc5dUYwQUk1NFFaUXFXS2tMaXU4TnpuMU4xdzZUWXRoOUdyNGY0Q3pZcGlQcGZWNWJMaWxhMXlfY3c3RnJSR0IzbHdERkNBM2JseEphMUxBOFRwYTQ1bzJZdkE?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-        "Amazon makes its AI-powered Alexa+ free on all compatible Fire TV devices in the US, automatically upgrading users even if they don't subscribe to Prime (Sarah Perez/TechCrunch)",
-        "Alexa+ is now included on Fire TV at no additional cost"
       ]
     },
     {
@@ -153,8 +116,45 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 44,
+      "sources": 3,
+      "ts": "2026-08-19T15:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+      "s": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+      "b": [
+        "techcrunch.com: Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+        "techmeme.com: Amazon makes its AI-powered Alexa+ free on all compatible Fire TV devices in the US, automatically upgrading users even if they don't subscribe to Prime (Sarah Perez/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+        "techmeme.com: Sarah Perez / TechCrunch : Amazon makes its AI-powered Alexa+ free on all compatible Fire TV devices in the US, automatically upgrading users even if they don't subscribe to Prime AI is coming to your TV, whether you want it or not. On Wednesday, Amazon said its AI assistant, Alexa+, will be rolled"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260819/p24#a260819p24"
+        },
+        {
+          "d": "aboutamazon.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yTGFJbzFwRUhuTVM1U1dRUzQ4SHc5dUYwQUk1NFFaUXFXS2tMaXU4TnpuMU4xdzZUWXRoOUdyNGY0Q3pZcGlQcGZWNWJMaWxhMXlfY3c3RnJSR0IzbHdERkNBM2JseEphMUxBOFRwYTQ1bzJZdkE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+        "Amazon makes its AI-powered Alexa+ free on all compatible Fire TV devices in the US, automatically upgrading users even if they don't subscribe to Prime (Sarah Perez/TechCrunch)",
+        "Alexa+ is now included on Fire TV at no additional cost"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 37,
+      "signal": 33,
       "sources": 2,
       "ts": "2026-08-19T17:09:26.000Z",
       "writtenSources": 2,
@@ -186,7 +186,7 @@
     },
     {
       "cat": "policy",
-      "signal": 36,
+      "signal": 32,
       "sources": 2,
       "ts": "2026-08-19T04:00:00.000Z",
       "writtenSources": 2,
@@ -273,7 +273,7 @@
     },
     {
       "cat": "funding",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-08-19T04:00:00.000Z",
       "writtenSources": 2,
