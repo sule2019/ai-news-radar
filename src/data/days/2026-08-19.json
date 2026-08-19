@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 61,
-      "sources": 2,
+      "signal": 68,
+      "sources": 3,
       "ts": "2026-08-19T15:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -26,11 +26,80 @@
         {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260819/p24#a260819p24"
+        },
+        {
+          "d": "aboutamazon.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yTGFJbzFwRUhuTVM1U1dRUzQ4SHc5dUYwQUk1NFFaUXFXS2tMaXU4TnpuMU4xdzZUWXRoOUdyNGY0Q3pZcGlQcGZWNWJMaWxhMXlfY3c3RnJSR0IzbHdERkNBM2JseEphMUxBOFRwYTQ1bzJZdkE?oc=5"
         }
       ],
       "srcTitles": [
         "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
-        "Amazon makes its AI-powered Alexa+ free on all compatible Fire TV devices in the US, automatically upgrading users even if they don't subscribe to Prime (Sarah Perez/TechCrunch)"
+        "Amazon makes its AI-powered Alexa+ free on all compatible Fire TV devices in the US, automatically upgrading users even if they don't subscribe to Prime (Sarah Perez/TechCrunch)",
+        "Alexa+ is now included on Fire TV at no additional cost"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-08-19T17:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Meta AI is getting a Mac app",
+      "s": "Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, ",
+      "b": [
+        "theverge.com: Meta AI is getting a Mac app",
+        "techmeme.com: Meta launches a Mac app for Meta AI and says Meta AI can now work directly with Instagram and Facebook accounts, Meta ad campaigns, and Google Workspace (Emma Roth/The Verge)"
+      ],
+      "body": [
+        "theverge.com: Meta is launching a new Mac app dedicated to its AI chatbot. In an announcement on Wednesday, Meta says you can share your window with its AI chatbot, which can provide suggestions, answer questions, or create content based on what's on your screen. Meta AI on the Mac also supports dictation across all apps. The [ ]",
+        "techmeme.com: Emma Roth / The Verge : Meta launches a Mac app for Meta AI and says Meta AI can now work directly with Instagram and Facebook accounts, Meta ad campaigns, and Google Workspace You can share your window with the new Meta AI app, as well as connect it to Google Workspace. Meta is launching a new Mac app dedicated to its AI chatbot."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/982270/meta-ai-mac-app"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260819/p36#a260819p36"
+        }
+      ],
+      "srcTitles": [
+        "Meta AI is getting a Mac app",
+        "Meta launches a Mac app for Meta AI and says Meta AI can now work directly with Instagram and Facebook accounts, Meta ad campaigns, and Google Workspace (Emma Roth/The Verge)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-08-19T16:00:51.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party's chances of holding a vital Senate seat in Ohio (Alex Isenstadt/Axios)",
+      "s": "Alex Isenstadt / Axios : Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party's chances of holding a vital Senate seat in Ohio The Senate GOP ca",
+      "b": [
+        "techmeme.com: Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party's chances of holding a vital Senate seat in Ohio (Alex Isenstadt/Axios)",
+        "ien.com: AI Companies Look to Ocean as Place to Put More Data Centers"
+      ],
+      "body": [
+        "techmeme.com: Alex Isenstadt / Axios : Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party's chances of holding a vital Senate seat in Ohio The Senate GOP campaign arm, in a private memo to top AI companies, warns that toxic views of U.S. data centers are killing",
+        "ien.com: AI Companies Look to Ocean as Place to Put More Data Centers Industrial Equipment News"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260819/p28#a260819p28"
+        },
+        {
+          "d": "ien.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcHktT2lJeWdwc1NYekU5MnY5VWVWSFhjRUZUTUZGbV8tSF9Rd3l1SnRUeXlvbVB0NWk5Y01BdVJqTHhmQ2V6TmlRcmEzdVp2VnFNYW94aGtmTmpJamI0U0xOTjFoQTRQZ0hhUVhiczY0WnpLaWhqRTBsRzc4TENGRWNpNi1wR1JaZXhNZlk1UmxYeGVNNXZBY20xaV9xUUo2MFVCRVVyWkYzVmRtRWJiemtqY2hOb3pNUUtleElB?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party's chances of holding a vital Senate seat in Ohio (Alex Isenstadt/Axios)",
+        "AI Companies Look to Ocean as Place to Put More Data Centers"
       ]
     },
     {
@@ -118,6 +187,31 @@
       ],
       "srcTitles": [
         "ChatGPT Ads expands across Europe"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-19T17:45:12.117Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Offering Zero Data Retention for frontier models",
+      "s": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+      "b": [
+        "openai.com: Offering Zero Data Retention for frontier models"
+      ],
+      "body": [
+        "openai.com: OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/our-commitment-to-zero-data-retention"
+        }
+      ],
+      "srcTitles": [
+        "Offering Zero Data Retention for frontier models"
       ]
     },
     {
