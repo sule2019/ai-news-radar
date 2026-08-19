@@ -2,6 +2,45 @@
   "date": "2026-08-19",
   "stories": [
     {
+      "cat": "research",
+      "signal": 70,
+      "sources": 3,
+      "ts": "2026-08-19T19:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Google packs Search and Gemini with new AI study tools",
+      "s": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenA",
+      "b": [
+        "techcrunch.com: Google packs Search and Gemini with new AI study tools",
+        "techmeme.com: Google announces new study tools, including a student hub, notebooks, and interactive 3D visualizations in Gemini, plus student offers for Google AI plans (Amanda Caswell/Tom's Guide)",
+        "theverge.com: Google Gemini is getting a dedicated student hub"
+      ],
+      "body": [
+        "techcrunch.com: The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+        "techmeme.com: Amanda Caswell / Tom's Guide : Google announces new study tools, including a student hub, notebooks, and interactive 3D visualizations in Gemini, plus student offers for Google AI plans Head back to school equipped with AI tools for studying, researching and more Once again, Google is giving eligible college students",
+        "theverge.com: As we're gearing up for back-to-school season, Google is rolling out a new dedicated student hub in Gemini. It's a one-stop repository for collecting research in a study notebook, creating flashcards, taking practice quizzes, and more. Google is also enhancing its study notebooks with support for graphs and images. It can even add test dates [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260819/p45#a260819p45"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/982425/google-gemini-student-hub"
+        }
+      ],
+      "srcTitles": [
+        "Google packs Search and Gemini with new AI study tools",
+        "Google announces new study tools, including a student hub, notebooks, and interactive 3D visualizations in Gemini, plus student offers for Google AI plans (Amanda Caswell/Tom's Guide)",
+        "Google Gemini is getting a dedicated student hub"
+      ]
+    },
+    {
       "cat": "products",
       "signal": 61,
       "sources": 2,
@@ -31,38 +70,6 @@
       "srcTitles": [
         "Meta AI is getting a Mac app",
         "Meta launches a Mac app for Meta AI and says Meta AI can now work directly with Instagram and Facebook accounts, Meta ad campaigns, and Google Workspace (Emma Roth/The Verge)"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 51,
-      "sources": 2,
-      "ts": "2026-08-19T16:00:51.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party's chances of holding a vital Senate seat in Ohio (Alex Isenstadt/Axios)",
-      "s": "Alex Isenstadt / Axios : Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party's chances of holding a vital Senate seat in Ohio The Senate GOP ca",
-      "b": [
-        "techmeme.com: Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party's chances of holding a vital Senate seat in Ohio (Alex Isenstadt/Axios)",
-        "ien.com: AI Companies Look to Ocean as Place to Put More Data Centers"
-      ],
-      "body": [
-        "techmeme.com: Alex Isenstadt / Axios : Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party's chances of holding a vital Senate seat in Ohio The Senate GOP campaign arm, in a private memo to top AI companies, warns that toxic views of U.S. data centers are killing",
-        "ien.com: AI Companies Look to Ocean as Place to Put More Data Centers Industrial Equipment News"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260819/p28#a260819p28"
-        },
-        {
-          "d": "ien.com",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcHktT2lJeWdwc1NYekU5MnY5VWVWSFhjRUZUTUZGbV8tSF9Rd3l1SnRUeXlvbVB0NWk5Y01BdVJqTHhmQ2V6TmlRcmEzdVp2VnFNYW94aGtmTmpJamI0U0xOTjFoQTRQZ0hhUVhiczY0WnpLaWhqRTBsRzc4TENGRWNpNi1wR1JaZXhNZlk1UmxYeGVNNXZBY20xaV9xUUo2MFVCRVVyWkYzVmRtRWJiemtqY2hOb3pNUUtleElB?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Memo: the GOP asks AI companies to stem the public backlash against data centers, saying the issue could kill its chances of holding a vital Senate seat in Ohio (Alex Isenstadt/Axios)",
-        "AI Companies Look to Ocean as Place to Put More Data Centers"
       ]
     },
     {
@@ -116,8 +123,45 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 40,
+      "sources": 3,
+      "ts": "2026-08-19T17:09:26.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed (Bloomberg)",
+      "s": "Bloomberg : Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed Stripe Inc. has agreed to buy OpenRouter Inc., an artificial intelligence startup that helps developers access and switch betwee",
+      "b": [
+        "techmeme.com: Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed (Bloomberg)",
+        "bloomberg.com: Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed Stripe Inc. has agreed to buy OpenRouter Inc., an artificial intelligence startup that helps developers access and switch between AI models. No terms were disclosed. Tokens are the central currency for companies building with AI",
+        "bloomberg.com: Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed Bloomberg.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260819/p37#a260819p37"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZlFodUNsWkh6b2Y2dTVORE9hWGVPUVhVMWMyQ1RuQTI2OXhYeGRzRG8ydlYzVFYyLUxPQ3lscjh0Mm43U01pcWhKanp3RE5oUWtsenh2NUlocmVDY0Z4MFFlYnhWZV92QWpSZ25MX3FDd3pfZUIwSFdQaTRZQXhfLWRfTnlsT3hzS0JJYtIBkgFBVV95cUxNQ3BuTzVGUXR4akhfSG93ZW5CMGF6SjBqOFl0S3lRc1QyeW82X3FtVEpzdmd6VEFwZjNjUDlqd1N4UmJWUk11UVRoWWppNlVQN09vakdjd013VjNheW1MVUNpWWdmd29fa2tuT1lHdkJqQW8wWXNPczFJSUZOTkU1WHRkSDM0YVJzLTY0YVdZaTdtdw?oc=5"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2lpcHU2c3ZTV1FBZTNGWWpjY2RKbTFoNGN6SHpDV0YzNlFFSEV3elhwOUc0SGI5cWFfenpqWEFQMFlLM00tNGJlQUlva3FRSm8tMWI4RlR5RHZqY056TFRGN2ZSR3JLbzQ1VC1ncl9CNFNhOXlodjFsQ2c4UzU0S0VscmEwY2RRTHRYWUg0MTNUcmxOdzU3S2N3ZkttSzdSZEZjWWZOSHFKWmNiUlE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed (Bloomberg)",
+        "Stripe to buy OpenRouter as fintech expands deeper into AI",
+        "Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 44,
+      "signal": 40,
       "sources": 3,
       "ts": "2026-08-19T15:00:00.000Z",
       "writtenSources": 2,
@@ -153,40 +197,40 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 33,
+      "cat": "policy",
+      "signal": 29,
       "sources": 2,
-      "ts": "2026-08-19T17:09:26.000Z",
+      "ts": "2026-08-19T16:00:51.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed (Bloomberg)",
-      "s": "Bloomberg : Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed Stripe Inc. has agreed to buy OpenRouter Inc., an artificial intelligence startup that helps developers access and switch betwee",
+      "h": "Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party's chances of holding a vital Senate seat in Ohio (Alex Isenstadt/Axios)",
+      "s": "Alex Isenstadt / Axios : Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party's chances of holding a vital Senate seat in Ohio The Senate GOP ca",
       "b": [
-        "techmeme.com: Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed (Bloomberg)",
-        "bloomberg.com: Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed"
+        "techmeme.com: Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party's chances of holding a vital Senate seat in Ohio (Alex Isenstadt/Axios)",
+        "ien.com: AI Companies Look to Ocean as Place to Put More Data Centers"
       ],
       "body": [
-        "techmeme.com: Bloomberg : Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed Stripe Inc. has agreed to buy OpenRouter Inc., an artificial intelligence startup that helps developers access and switch between AI models. No terms were disclosed. Tokens are the central currency for companies building with AI",
-        "bloomberg.com: Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed Bloomberg.com"
+        "techmeme.com: Alex Isenstadt / Axios : Memo: GOP asks AI companies to stem the backlash against data centers, saying the issue could kill the party's chances of holding a vital Senate seat in Ohio The Senate GOP campaign arm, in a private memo to top AI companies, warns that toxic views of U.S. data centers are killing",
+        "ien.com: AI Companies Look to Ocean as Place to Put More Data Centers Industrial Equipment News"
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260819/p37#a260819p37"
+          "d": "ien.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcHktT2lJeWdwc1NYekU5MnY5VWVWSFhjRUZUTUZGbV8tSF9Rd3l1SnRUeXlvbVB0NWk5Y01BdVJqTHhmQ2V6TmlRcmEzdVp2VnFNYW94aGtmTmpJamI0U0xOTjFoQTRQZ0hhUVhiczY0WnpLaWhqRTBsRzc4TENGRWNpNi1wR1JaZXhNZlk1UmxYeGVNNXZBY20xaV9xUUo2MFVCRVVyWkYzVmRtRWJiemtqY2hOb3pNUUtleElB?oc=5"
         },
         {
-          "d": "bloomberg.com",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQb2lpcHU2c3ZTV1FBZTNGWWpjY2RKbTFoNGN6SHpDV0YzNlFFSEV3elhwOUc0SGI5cWFfenpqWEFQMFlLM00tNGJlQUlva3FRSm8tMWI4RlR5RHZqY056TFRGN2ZSR3JLbzQ1VC1ncl9CNFNhOXlodjFsQ2c4UzU0S0VscmEwY2RRTHRYWUg0MTNUcmxOdzU3S2N3ZkttSzdSZEZjWWZOSHFKWmNiUlE?oc=5"
+          "d": "truthout.org",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdExNTnBlRXg5ZDhEQ09uVzBBY01RZ1ZndXU4NFZETFBiYk1iOVZLSkFDQ0RFV01UZ1M0SHBYNllnNWJUZGdyLVRBOGVjUVlNenV6Y0pvU0VFWkF3V1NObXppdzB1Mkx1aGtISlVQZEdITWZjVjMyUlN1dHJiTzVmc3E0WGlRRVFrRGw2SUQyM1dQOVFyX3gwNXhVbC03MHN4WE1wSjJROA?oc=5"
         }
       ],
       "srcTitles": [
-        "Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed (Bloomberg)",
-        "Stripe Agrees to Buy AI Firm OpenRouter; No Terms Disclosed"
+        "AI Companies Look to Ocean as Place to Put More Data Centers",
+        "Leaked Memo Shows Republicans Begging AI Companies to Fix Public Hatred of Data Centers"
       ]
     },
     {
       "cat": "policy",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-08-19T04:00:00.000Z",
       "writtenSources": 2,
@@ -223,7 +267,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-08-19T19:00:00.000Z",
       "writtenSources": 1,
@@ -248,7 +292,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-08-19T17:45:12.117Z",
       "writtenSources": 1,
@@ -273,7 +317,7 @@
     },
     {
       "cat": "funding",
-      "signal": 22,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-08-19T04:00:00.000Z",
       "writtenSources": 2,
