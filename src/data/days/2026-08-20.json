@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 62,
+      "signal": 59,
       "sources": 2,
       "ts": "2026-08-20T11:40:01.000Z",
       "writtenSources": 2,
@@ -122,6 +122,38 @@
       "srcTitles": [
         "The spectral neuron",
         "Cross-Cohort Spectral-Temporal Dissociation in Frozen EEG Foundation-Model Representations"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-20T00:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI Best Practices for Small Businesses: How to Use Artificial Intelligence Responsibly",
+      "s": "AI Best Practices for Small Businesses: How to Use Artificial Intelligence Responsibly National Cybersecurity Alliance",
+      "b": [
+        "staysafeonline.org: AI Best Practices for Small Businesses: How to Use Artificial Intelligence Responsibly",
+        "theins.press: AI in an iron grip: How dictatorships use artificial intelligence to strengthen their rule"
+      ],
+      "body": [
+        "staysafeonline.org: AI Best Practices for Small Businesses: How to Use Artificial Intelligence Responsibly National Cybersecurity Alliance",
+        "theins.press: AI in an iron grip: How dictatorships use artificial intelligence to strengthen their rule theins.press"
+      ],
+      "l": [
+        {
+          "d": "staysafeonline.org",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUEF5RzY2WHF5WXcwSzBHOWxUQVJ4blFBakpTQ2tlVmRXLU85Z2VNcG5LS25TVHBCNlNQTThWMGVzSmt6amxBX2RSRHdvMXZvc1J4T3NzeFA0RTR4Qnh5QjVzd0g4LUxwaU1jMGc3ODNHS09BNnNUUS1QU3BjcmVsU0x1dFVDZVFjNnFuVjFKbjd3SFh6bm9rM0ZxZ1VZQU5JeEY5akU0WkIwbDgxellESEx4ZUg5Tm9oOWs0UjJMM19EbzQ?oc=5"
+        },
+        {
+          "d": "theins.press",
+          "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9GVlZqMlNIOWkyX1k2b3RibDNhbWljdnRhNFlubktyTnFQeVRzOF9kTGVRQzhWM2J5RUNrT09EVzVDYktTQkNaOU5FdmxGZE0?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI Best Practices for Small Businesses: How to Use Artificial Intelligence Responsibly",
+        "AI in an iron grip: How dictatorships use artificial intelligence to strengthen their rule"
       ]
     },
     {
