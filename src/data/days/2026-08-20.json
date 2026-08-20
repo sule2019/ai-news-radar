@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 55,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-08-20T18:10:02.000Z",
       "writtenSources": 2,
@@ -59,63 +59,6 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 36,
-      "sources": 2,
-      "ts": "2026-08-20T16:46:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Ramp launches its own AI model router, called Router",
-      "s": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-      "b": [
-        "techcrunch.com: Ramp launches its own AI model router, called Router",
-        "techmeme.com: Ramp launches Router, an AI model routing service it has been using over the past three years, in the US; the service is free to use for the rest of 2026 (Ram Iyer/TechCrunch)"
-      ],
-      "body": [
-        "techcrunch.com: Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
-        "techmeme.com: Ram Iyer / TechCrunch : Ramp launches Router, an AI model routing service it has been using over the past three years, in the US; the service is free to use for the rest of 2026 Corporate expense management platform Ramp is hot on the heels of Stripe in setting up toll houses for AI inference."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260820/p28#a260820p28"
-        }
-      ],
-      "srcTitles": [
-        "Ramp launches its own AI model router, called Router",
-        "Ramp launches Router, an AI model routing service it has been using internally over the past three years, in the US; Router is free to use for the rest of 2026 (Ram Iyer/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 34,
-      "sources": 1,
-      "ts": "2026-08-20T00:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "How ChatGPT Work helps Stampli move ideas to market",
-      "s": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "b": [
-        "openai.com: How ChatGPT Work helps Stampli move ideas to market"
-      ],
-      "body": [
-        "openai.com: With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/stampli"
-        }
-      ],
-      "srcTitles": [
-        "How ChatGPT Work helps Stampli move ideas to market"
-      ]
-    },
-    {
       "cat": "funding",
       "signal": 32,
       "sources": 4,
@@ -155,6 +98,63 @@
         "Billionaire Stanley Druckenmiller Sells Micron and Is Piling Into This Other Unstoppable Artificial Intelligence (AI) Chip Stock Instead",
         "29.7% of Berkshire Hathaway's $356 Billion Portfolio Is Invested in 2 Artificial Intelligence Stocks",
         "Billionaire Stanley Druckenmiller Sells Micron and Is Piling Into This Other Unstoppable Artificial Intelligence (AI) Chip Stock Instead"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-08-20T16:46:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Ramp launches its own AI model router, called Router",
+      "s": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "b": [
+        "techcrunch.com: Ramp launches its own AI model router, called Router",
+        "techmeme.com: Ramp launches Router, an AI model routing service it has been using over the past three years, in the US; the service is free to use for the rest of 2026 (Ram Iyer/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+        "techmeme.com: Ram Iyer / TechCrunch : Ramp launches Router, an AI model routing service it has been using over the past three years, in the US; the service is free to use for the rest of 2026 Corporate expense management platform Ramp is hot on the heels of Stripe in setting up toll houses for AI inference."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260820/p28#a260820p28"
+        }
+      ],
+      "srcTitles": [
+        "Ramp launches its own AI model router, called Router",
+        "Ramp launches Router, an AI model routing service it has been using internally over the past three years, in the US; Router is free to use for the rest of 2026 (Ram Iyer/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-20T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How ChatGPT Work helps Stampli move ideas to market",
+      "s": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "b": [
+        "openai.com: How ChatGPT Work helps Stampli move ideas to market"
+      ],
+      "body": [
+        "openai.com: With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/stampli"
+        }
+      ],
+      "srcTitles": [
+        "How ChatGPT Work helps Stampli move ideas to market"
       ]
     },
     {
@@ -274,40 +274,40 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 18,
+      "cat": "policy",
+      "signal": 15,
       "sources": 2,
-      "ts": "2026-08-20T11:01:00.000Z",
+      "ts": "2026-08-20T16:05:56.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "The learning curve for AI in schools",
-      "s": "The learning curve for AI in schools The Christian Science Monitor",
+      "h": "Your AI research is your responsibility — California court sanctions attorney for delegating AI citation verification to paralegal",
+      "s": "Your AI research is your responsibility — California court sanctions attorney for delegating AI citation verification to paralegal Reuters",
       "b": [
-        "csmonitor.com: The learning curve for AI in schools",
-        "cbsnews.com: How one Philadelphia school is using AI to strengthen student learning, not replace teachers"
+        "reuters.com: Your AI research is your responsibility — California court sanctions attorney for delegating AI citation verification to paralegal",
+        "lawfaremedia.org: An AI Playground for the Courts"
       ],
       "body": [
-        "csmonitor.com: The learning curve for AI in schools The Christian Science Monitor",
-        "cbsnews.com: How one Philadelphia school is using AI to strengthen student learning, not replace teachers CBS News"
+        "reuters.com: Your AI research is your responsibility — California court sanctions attorney for delegating AI citation verification to paralegal Reuters",
+        "lawfaremedia.org: An AI Playground for the Courts Lawfare"
       ],
       "l": [
         {
-          "d": "csmonitor.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXZhVDB4enhTZmt4LTQ0Zk9JXzhSOER2NElHSExQcXJKWFo4NFlxRmVlTHpsNDBQLUlvUzJuLUU5dzE2c0I0X1A3QjhVYmJrNUsybFZodHBlTGQ3WVJVSXh2U1AzNUlwZjJNbHcxS1ZpVWxhMFlEVXUwU1FwTHdGdkZSMEtWTWJueERwM0xiWTdpODItc0l5WFZzOUVxNmRZejdIWFU4QTFXQVg2NDR30gG8AUFVX3lxTE9XNWl4ajVXUUJRVDVlTHBoSDE2aC1TZDU3TDZKajRhbUFDdC1iQ1dsdzUyVG5XcGdHOEM0WnpoM21rcXc4Ym0tQjdZb3dHTmk4WmwzMzFsYXhadlptZHFXMVFYU2hGM3lSRWx1ZV95bU5nSHM3S1FGM3FtcjcwV1lra2NiejZ4SkV2SUZkUExJY1FReUZScHBlQ3RaVldXSUg3Wk9OSnZmREV0U2FveEExR2JDektTWUpDTkVW?oc=5"
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjRodHZzQ3MwUHdzckhGLTRIaElmalE2M2toX0w3Q3pHOGFDSEE5eXFFOVA2Q2JwUGhZckRQa25nU2hxTzZCdHcwSVJfaXlRZWZ1YnZMWmNnczZxMDZlLWZmQ1VQRlVTRHYtelBEeVIxV3RwWF93MTl2bFVMSUEtd3pXQXdkQ1ZBMGMwZFpFVlJzVklEbDZia0xGdjBRWVhJdHJPd3F4ZWx2dkVseTFjYmhyVFZVRjhycW1FVjJ4OWxselhqUTkyOEJETEwyenVhSmI4ZDFR?oc=5"
         },
         {
-          "d": "cbsnews.com",
-          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTU9CT1NWT0JWdjRZQ3V6ai0ybnFrVDF1eHNUcVpnUmVyTmNnVzlWNjJWaVkxM0NCY09hU3VaQ3hnWVNMa1dTTnppZkhiMlZ4WkUyV0tLUURPVmNLTWdBTEd3OUpRR3hMYkwxUzQyQnRwOG11M1RlQi1QQnJvQWpXN1RQV2hYWnVTS0diVHlCTGc?oc=5"
+          "d": "lawfaremedia.org",
+          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSDVKNDRma2d5bU9oWTVXVWNoLVJoUTlhZlVZNXlUcjI0QkVNamhuMHpwZDduS01NMWwzOUhTY2JrRE5jSjBXLVllaGc4eHBVYjBncDJSQlU4MDlPRVozTEJISl93VzUyYko3RGpILU9iV0g5SVBr?oc=5"
         }
       ],
       "srcTitles": [
-        "The learning curve for AI in schools",
-        "How one Philadelphia school is using AI to strengthen student learning, not replace teachers"
+        "Your AI research is your responsibility — California court sanctions attorney for delegating AI citation verification to paralegal",
+        "An AI Playground for the Courts"
       ]
     },
     {
       "cat": "funding",
-      "signal": 16,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-20T11:40:01.000Z",
       "writtenSources": 2,
@@ -338,35 +338,35 @@
       ]
     },
     {
-      "cat": "policy",
+      "cat": "models",
       "signal": 15,
       "sources": 2,
-      "ts": "2026-08-20T16:05:56.000Z",
+      "ts": "2026-08-20T11:01:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Your AI research is your responsibility — California court sanctions attorney for delegating AI citation verification to paralegal",
-      "s": "Your AI research is your responsibility — California court sanctions attorney for delegating AI citation verification to paralegal Reuters",
+      "h": "The learning curve for AI in schools",
+      "s": "The learning curve for AI in schools The Christian Science Monitor",
       "b": [
-        "reuters.com: Your AI research is your responsibility — California court sanctions attorney for delegating AI citation verification to paralegal",
-        "lawfaremedia.org: An AI Playground for the Courts"
+        "csmonitor.com: The learning curve for AI in schools",
+        "cbsnews.com: How one Philadelphia school is using AI to strengthen student learning, not replace teachers"
       ],
       "body": [
-        "reuters.com: Your AI research is your responsibility — California court sanctions attorney for delegating AI citation verification to paralegal Reuters",
-        "lawfaremedia.org: An AI Playground for the Courts Lawfare"
+        "csmonitor.com: The learning curve for AI in schools The Christian Science Monitor",
+        "cbsnews.com: How one Philadelphia school is using AI to strengthen student learning, not replace teachers CBS News"
       ],
       "l": [
         {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTjRodHZzQ3MwUHdzckhGLTRIaElmalE2M2toX0w3Q3pHOGFDSEE5eXFFOVA2Q2JwUGhZckRQa25nU2hxTzZCdHcwSVJfaXlRZWZ1YnZMWmNnczZxMDZlLWZmQ1VQRlVTRHYtelBEeVIxV3RwWF93MTl2bFVMSUEtd3pXQXdkQ1ZBMGMwZFpFVlJzVklEbDZia0xGdjBRWVhJdHJPd3F4ZWx2dkVseTFjYmhyVFZVRjhycW1FVjJ4OWxselhqUTkyOEJETEwyenVhSmI4ZDFR?oc=5"
+          "d": "csmonitor.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXZhVDB4enhTZmt4LTQ0Zk9JXzhSOER2NElHSExQcXJKWFo4NFlxRmVlTHpsNDBQLUlvUzJuLUU5dzE2c0I0X1A3QjhVYmJrNUsybFZodHBlTGQ3WVJVSXh2U1AzNUlwZjJNbHcxS1ZpVWxhMFlEVXUwU1FwTHdGdkZSMEtWTWJueERwM0xiWTdpODItc0l5WFZzOUVxNmRZejdIWFU4QTFXQVg2NDR30gG8AUFVX3lxTE9XNWl4ajVXUUJRVDVlTHBoSDE2aC1TZDU3TDZKajRhbUFDdC1iQ1dsdzUyVG5XcGdHOEM0WnpoM21rcXc4Ym0tQjdZb3dHTmk4WmwzMzFsYXhadlptZHFXMVFYU2hGM3lSRWx1ZV95bU5nSHM3S1FGM3FtcjcwV1lra2NiejZ4SkV2SUZkUExJY1FReUZScHBlQ3RaVldXSUg3Wk9OSnZmREV0U2FveEExR2JDektTWUpDTkVW?oc=5"
         },
         {
-          "d": "lawfaremedia.org",
-          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XSDVKNDRma2d5bU9oWTVXVWNoLVJoUTlhZlVZNXlUcjI0QkVNamhuMHpwZDduS01NMWwzOUhTY2JrRE5jSjBXLVllaGc4eHBVYjBncDJSQlU4MDlPRVozTEJISl93VzUyYko3RGpILU9iV0g5SVBr?oc=5"
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTU9CT1NWT0JWdjRZQ3V6ai0ybnFrVDF1eHNUcVpnUmVyTmNnVzlWNjJWaVkxM0NCY09hU3VaQ3hnWVNMa1dTTnppZkhiMlZ4WkUyV0tLUURPVmNLTWdBTEd3OUpRR3hMYkwxUzQyQnRwOG11M1RlQi1QQnJvQWpXN1RQV2hYWnVTS0diVHlCTGc?oc=5"
         }
       ],
       "srcTitles": [
-        "Your AI research is your responsibility — California court sanctions attorney for delegating AI citation verification to paralegal",
-        "An AI Playground for the Courts"
+        "The learning curve for AI in schools",
+        "How one Philadelphia school is using AI to strengthen student learning, not replace teachers"
       ]
     },
     {
