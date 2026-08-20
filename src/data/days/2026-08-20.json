@@ -2,6 +2,38 @@
   "date": "2026-08-20",
   "stories": [
     {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-08-20T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Can the Immune System Learn Like Artificial Intelligence?",
+      "s": "Can the Immune System Learn Like Artificial Intelligence? Bioengineer.org",
+      "b": [
+        "bioengineer.org: Can the Immune System Learn Like Artificial Intelligence?",
+        "arxiv.org: What Can Artificial Intelligence Learn from Medicine? Generative Analogies and Reliable Machine Learning Systems"
+      ],
+      "body": [
+        "bioengineer.org: Can the Immune System Learn Like Artificial Intelligence? Bioengineer.org",
+        "arxiv.org: arXiv:2608.18186v1 Announce Type: cross Abstract: In the past few years, machine learning (ML) has been widely (and to an extent, successfully) implemented in medicine. However, uncertainties surrounding ML have made it difficult to establish the bases of its epistemic and methodological warrants. In the literature, a parallel has been drawn between medicine and ML, suggesting that we should model epistemic and methodological standards for ML on the standards of clinical translation. By developing tools from Hesse work, we characterise the nature of this parallel as a generative analogy between the process of clinical translation and the process of building ML systems. We identify more precisely the epistemic and methodological warrants of clinical translation that are typically only mentioned when appealing to the analogy, and we show in which sense such warrants apply analogically to the context of ML. In particular, we interpret warrants of clinical translation in reliabilist terms, and we show how this can inform a new form of ML reliabilism, which is distinct from (though compatible with) existing reliabilist accounts in philosophy of AI."
+      ],
+      "l": [
+        {
+          "d": "bioengineer.org",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPY0p3MTRLTlduRlp0WlpodlAzd1lpVmlGQXQ3RUtaeEFaSUZCaTV4Y25KZTJoMjJLMVhfZVBHTVNfd2NMUUthOHZxNlp4RTl5Y3dSTURqa3RMY2hub0J1cFRBd0ZOZEZJZDhtMkZyMDEtSlZNRFZXN2tCcFpPZmtJSUliRTJ2dGlL?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.18186"
+        }
+      ],
+      "srcTitles": [
+        "Can the Immune System Learn Like Artificial Intelligence?",
+        "What Can Artificial Intelligence Learn from Medicine? Generative Analogies and Reliable Machine Learning Systems"
+      ]
+    },
+    {
       "cat": "products",
       "signal": 29,
       "sources": 2,
@@ -20,12 +52,12 @@
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkVhWG5wREdwMHM2ZHpNdjJrRWdFcmtPQnBWN2dYVGg0andqVjFaRFpZVVVtZlFTRW41SFdXSGFVSkFQSERfb0VxeXpkQXctTFFMbHZVbG9kOEpBMk5tdDg0VHp3SEhhY2JONFpFa3FBQXYwT2RLZUIyQXdZZ1U3TlBxamh0OGR3MUlzaEtjUHdscDVqM0Mtaw?oc=5"
-        },
-        {
           "d": "reuters.com",
           "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUpsbUhGRVo0V2tja0RmZS05YUUySzFMNWVuTERqc2R2ZWhyZlRqVEI5QTVYLUpxMkFGRDVrQVBUVHppY3hRQkdieEFPRkhmSFdsV0dGUHVCNmN3VzltT2pnb3IxQmZ1bDNLNmZRVFBuOXJYZXVLd1c1ampCZ1Fqc0tnN0tOQURWdHNDQldPUk1xUW9SZG5vQV9nZExUM0duQTdnLWd4WmQ5LTR3ZW8zRg?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkVhWG5wREdwMHM2ZHpNdjJrRWdFcmtPQnBWN2dYVGg0andqVjFaRFpZVVVtZlFTRW41SFdXSGFVSkFQSERfb0VxeXpkQXctTFFMbHZVbG9kOEpBMk5tdDg0VHp3SEhhY2JONFpFa3FBQXYwT2RLZUIyQXdZZ1U3TlBxamh0OGR3MUlzaEtjUHdscDVqM0Mtaw?oc=5"
         }
       ],
       "srcTitles": [
