@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-08-20T18:10:02.000Z",
       "writtenSources": 2,
@@ -102,7 +102,46 @@
     },
     {
       "cat": "products",
-      "signal": 32,
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-08-20T04:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Howard University Launches Its First AI Certificate Program for Undergraduate Students",
+      "s": "Howard University Launches Its First AI Certificate Program for Undergraduate Students The Dig at Howard University",
+      "b": [
+        "thedig.howard.edu: Howard University Launches Its First AI Certificate Program for Undergraduate Students",
+        "conncoll.edu: Summer AI program",
+        "arxiv.org: Interpretable AI predicts a 2026 summer dry anomaly in central China"
+      ],
+      "body": [
+        "thedig.howard.edu: Howard University Launches Its First AI Certificate Program for Undergraduate Students The Dig at Howard University",
+        "conncoll.edu: Summer AI program conncoll.edu",
+        "arxiv.org: arXiv:2608.19163v1 Announce Type: cross Abstract: Seasonal precipitation anomalies are largely regulated by atmospheric circulation, which dynamical models predict with greater reliability than precipitation itself. Here, we employ a deep learning model that translates dynamical circulation predictions into precipitation estimates. Predictions initialized from March to May consistently indicate a dry anomaly over central China in summer 2026. Retrospective evaluations revealed higher predictive skill in the analogue years, which also tended to feature central equatorial Pacific warming persisting from the preceding winter into summer. This warming favors an anomalous cyclonic circulation over the western North Pacific-South China Sea-South China region, which induces northerly winds and moisture divergence that jointly suppress rainfall over central China. Supporting this mechanism, layer-wise relevance propagation (LRP) independently identifies these northerly winds as the dominant driver of the prediction among all model inputs. Perturbation tests supported this attribution: removing LRP-identified features effectively eliminates the dry anomaly. Our framework thus provides physically interpretable explanations for AI-derived regional climate projections, facilitating evidence-based assessment before observational data become available."
+      ],
+      "l": [
+        {
+          "d": "thedig.howard.edu",
+          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONkhKRlZ4S0ROQXhzWXVscDlCdWRCcjlyYWM5WE9XNTNxRGZUZTFEMXMzNWlWRzRDWWt0NFp6OFZZWE1lbTFwYnk3bk1mRl9WNkh2Z1p6OHFpeldFYmdNZHJ6WGVSYUl0dS1KZDUwaG9JT1Nla1RDNzUzN1dnVV9xMEZ0cl9SWHZEWXNScDRWcmJqRHoybUVwRXBSZUpDZVlLaFB0YUxRWEFHdWQzTG9haWY0RXlFdjB2ZkVKNw?oc=5"
+        },
+        {
+          "d": "conncoll.edu",
+          "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBRWTlBdHNVLUhyZU9RR3JkYjZRTE1tMWFNQ055RDB3V0dpWDVMc1U2bUFxX1dsaWFzV3hRT25VMENLX3JkTGwtQ3lyYUpxRVJVZ1IzUjFqREp3d1lONnVGSHpCeWJrd2gxMEI3Mmd0S0Q3OFdT?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.19163"
+        }
+      ],
+      "srcTitles": [
+        "Howard University Launches Its First AI Certificate Program for Undergraduate Students",
+        "Summer AI program",
+        "Interpretable AI predicts a 2026 summer dry anomaly in central China"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 28,
       "sources": 2,
       "ts": "2026-08-20T16:46:00.000Z",
       "writtenSources": 2,
@@ -130,31 +169,6 @@
       "srcTitles": [
         "Ramp launches its own AI model router, called Router",
         "Ramp launches Router, an AI model routing service it has been using internally over the past three years, in the US; Router is free to use for the rest of 2026 (Ram Iyer/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 30,
-      "sources": 1,
-      "ts": "2026-08-20T00:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "How ChatGPT Work helps Stampli move ideas to market",
-      "s": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "b": [
-        "openai.com: How ChatGPT Work helps Stampli move ideas to market"
-      ],
-      "body": [
-        "openai.com: With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/stampli"
-        }
-      ],
-      "srcTitles": [
-        "How ChatGPT Work helps Stampli move ideas to market"
       ]
     },
     {
@@ -219,6 +233,31 @@
       "srcTitles": [
         "AI in an iron grip: How dictatorships use artificial intelligence to strengthen their rule",
         "AI Best Practices for Small Businesses: How to Use Artificial Intelligence Responsibly"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 1,
+      "ts": "2026-08-20T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How ChatGPT Work helps Stampli move ideas to market",
+      "s": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "b": [
+        "openai.com: How ChatGPT Work helps Stampli move ideas to market"
+      ],
+      "body": [
+        "openai.com: With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/stampli"
+        }
+      ],
+      "srcTitles": [
+        "How ChatGPT Work helps Stampli move ideas to market"
       ]
     },
     {
