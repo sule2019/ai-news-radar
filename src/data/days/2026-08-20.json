@@ -2,8 +2,40 @@
   "date": "2026-08-20",
   "stories": [
     {
-      "cat": "models",
+      "cat": "products",
       "signal": 32,
+      "sources": 2,
+      "ts": "2026-08-20T02:05:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool",
+      "s": "Citi, HSBC, StanChart adopt Ant International’s forex AI tool Reuters",
+      "b": [
+        "reuters.com: Citi, HSBC, StanChart adopt Ant International’s forex AI tool",
+        "finance.yahoo.com: Citi, HSBC, StanChart adopt Ant International’s forex AI tool"
+      ],
+      "body": [
+        "reuters.com: Citi, HSBC, StanChart adopt Ant International’s forex AI tool Reuters",
+        "finance.yahoo.com: Citi, HSBC, StanChart adopt Ant International’s forex AI tool Yahoo Finance"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbUpsbUhGRVo0V2tja0RmZS05YUUySzFMNWVuTERqc2R2ZWhyZlRqVEI5QTVYLUpxMkFGRDVrQVBUVHppY3hRQkdieEFPRkhmSFdsV0dGUHVCNmN3VzltT2pnb3IxQmZ1bDNLNmZRVFBuOXJYZXVLd1c1ampCZ1Fqc0tnN0tOQURWdHNDQldPUk1xUW9SZG5vQV9nZExUM0duQTdnLWd4WmQ5LTR3ZW8zRg?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQkVhWG5wREdwMHM2ZHpNdjJrRWdFcmtPQnBWN2dYVGg0andqVjFaRFpZVVVtZlFTRW41SFdXSGFVSkFQSERfb0VxeXpkQXctTFFMbHZVbG9kOEpBMk5tdDg0VHp3SEhhY2JONFpFa3FBQXYwT2RLZUIyQXdZZ1U3TlBxamh0OGR3MUlzaEtjUHdscDVqM0Mtaw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Citi, HSBC, StanChart adopt Ant International’s forex AI tool",
+        "Citi, HSBC, StanChart adopt Ant International’s forex AI tool"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 28,
       "sources": 2,
       "ts": "2026-08-20T00:15:00.000Z",
       "writtenSources": 2,
