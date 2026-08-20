@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 59,
+      "signal": 55,
       "sources": 2,
       "ts": "2026-08-20T18:10:02.000Z",
       "writtenSources": 2,
@@ -59,31 +59,6 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 38,
-      "sources": 1,
-      "ts": "2026-08-20T00:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "How ChatGPT Work helps Stampli move ideas to market",
-      "s": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
-      "b": [
-        "openai.com: How ChatGPT Work helps Stampli move ideas to market"
-      ],
-      "body": [
-        "openai.com: With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/stampli"
-        }
-      ],
-      "srcTitles": [
-        "How ChatGPT Work helps Stampli move ideas to market"
-      ]
-    },
-    {
       "cat": "products",
       "signal": 36,
       "sources": 2,
@@ -113,6 +88,31 @@
       "srcTitles": [
         "Ramp launches its own AI model router, called Router",
         "Ramp launches Router, an AI model routing service it has been using internally over the past three years, in the US; Router is free to use for the rest of 2026 (Ram Iyer/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 34,
+      "sources": 1,
+      "ts": "2026-08-20T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How ChatGPT Work helps Stampli move ideas to market",
+      "s": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "b": [
+        "openai.com: How ChatGPT Work helps Stampli move ideas to market"
+      ],
+      "body": [
+        "openai.com: With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/stampli"
+        }
+      ],
+      "srcTitles": [
+        "How ChatGPT Work helps Stampli move ideas to market"
       ]
     },
     {
@@ -275,7 +275,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-08-20T11:01:00.000Z",
       "writtenSources": 2,
@@ -307,7 +307,7 @@
     },
     {
       "cat": "funding",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-08-20T11:40:01.000Z",
       "writtenSources": 2,
