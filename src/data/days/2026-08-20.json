@@ -2,6 +2,38 @@
   "date": "2026-08-20",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-08-20T18:10:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Source: Anthropic plans a safety system this year that still requires enterprises to retain data for 30 days but lets them do so on their own cloud systems (Rachel Metz/Bloomberg)",
+      "s": "Rachel Metz / Bloomberg : Source: Anthropic plans a safety system this year that still requires enterprises to retain data for 30 days but lets them do so on their own cloud systems Anthropic PBC plan",
+      "b": [
+        "techmeme.com: Source: Anthropic plans a safety system this year that still requires enterprises to retain data for 30 days but lets them do so on their own cloud systems (Rachel Metz/Bloomberg)",
+        "reuters.com: Anthropic plans to change enterprise data retention policy, source says"
+      ],
+      "body": [
+        "techmeme.com: Rachel Metz / Bloomberg : Source: Anthropic plans a safety system this year that still requires enterprises to retain data for 30 days but lets them do so on their own cloud systems Anthropic PBC plans to allow business customers to keep greater control of their data when using its most capable artificial intelligence models",
+        "reuters.com: Anthropic plans to change enterprise data retention policy, source says Reuters"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260820/p32#a260820p32"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaDlfRWVSb2Q5ZEhuaWFqdHR3WThoM2tOalBxeW91VEZGZWgzTUNJZF9NZUxFTmhINXlHS1V3YlZvTXAtNExsT3JtaTdmajA2UlZvYUtOOTI4ZEtBRFIzYTVBNl9nRUhzVUFybmZfX3BIVjd4aDJMM1hpUXQtMC1lZzZXR0k2c3poNlUtUWl0RGZ5NzhNSmtaTzI2NmF0QU54WWZvYVhzREpmanpmN2lfNHh3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Source: Anthropic plans a safety system this year that still requires enterprises to retain data for 30 days but lets them do so on their own cloud systems (Rachel Metz/Bloomberg)",
+        "Anthropic plans to change enterprise data retention policy, source says"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 46,
       "sources": 1,
@@ -28,7 +60,7 @@
     },
     {
       "cat": "funding",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-08-20T11:40:01.000Z",
       "writtenSources": 2,
@@ -92,7 +124,7 @@
     },
     {
       "cat": "funding",
-      "signal": 32,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-08-20T17:46:35.000Z",
       "writtenSources": 2,
@@ -214,6 +246,33 @@
     {
       "cat": "models",
       "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-20T09:47:22.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Unlocking hidden revenue streams with market models",
+      "s": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a",
+      "b": [
+        "technologyreview.com: Unlocking hidden revenue streams with market models",
+        "technologyreview.com: Unlocking hidden revenue streams with market models"
+      ],
+      "body": [
+        "technologyreview.com: Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name just a few. It is a nuanced process that must constantly adapt to the goings on in the wider world. Generative AI-powered market models are emerging as a means of handling complex tasks like this in real time. These deep learning models are trained on high-resolution numerical data and designed to analyze, simulate, and predict complex financial dynamics. Rather than relying on historical trends or static rules, the market model acts as an AI “brain,” consolidating a variety of data to simulate different market environments and make dynamic commercial decisions, such as pricing, inventory, or revenue management. DOWNLOAD THE REPORT “It helps us make better, faster, more granular commercial decisions,” says Dominic Kennedy, senior vice president of revenue management, sales, and e-commerce at Virgin Atlantic about the market model his team is using to drive their generative pricing engines in some markets. “It considers, on a real-time basis, a plethora of different inputs, whether it be demand, capacity, or booking. It has a really sophisticated way of evaluating our positioning relative to competitors, market conditions, and a whole raft of other things that have significance in how demand is manifested,” he adds. Download the full report This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used",
+        "technologyreview.com: Unlocking hidden revenue streams with market models MIT Technology Review"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/"
+        }
+      ],
+      "srcTitles": [
+        "Unlocking hidden revenue streams with market models"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 20,
       "sources": 2,
       "ts": "2026-08-20T09:48:16.000Z",
       "writtenSources": 2,
@@ -244,35 +303,8 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-08-20T09:47:22.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Unlocking hidden revenue streams with market models",
-      "s": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a",
-      "b": [
-        "technologyreview.com: Unlocking hidden revenue streams with market models",
-        "technologyreview.com: Unlocking hidden revenue streams with market models"
-      ],
-      "body": [
-        "technologyreview.com: Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name just a few. It is a nuanced process that must constantly adapt to the goings on in the wider world. Generative AI-powered market models are emerging as a means of handling complex tasks like this in real time. These deep learning models are trained on high-resolution numerical data and designed to analyze, simulate, and predict complex financial dynamics. Rather than relying on historical trends or static rules, the market model acts as an AI “brain,” consolidating a variety of data to simulate different market environments and make dynamic commercial decisions, such as pricing, inventory, or revenue management. DOWNLOAD THE REPORT “It helps us make better, faster, more granular commercial decisions,” says Dominic Kennedy, senior vice president of revenue management, sales, and e-commerce at Virgin Atlantic about the market model his team is using to drive their generative pricing engines in some markets. “It considers, on a real-time basis, a plethora of different inputs, whether it be demand, capacity, or booking. It has a really sophisticated way of evaluating our positioning relative to competitors, market conditions, and a whole raft of other things that have significance in how demand is manifested,” he adds. Download the full report This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used",
-        "technologyreview.com: Unlocking hidden revenue streams with market models MIT Technology Review"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/"
-        }
-      ],
-      "srcTitles": [
-        "Unlocking hidden revenue streams with market models"
-      ]
-    },
-    {
       "cat": "policy",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-20T16:05:56.000Z",
       "writtenSources": 2,
