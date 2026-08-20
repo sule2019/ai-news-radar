@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 62,
+      "signal": 59,
       "sources": 2,
       "ts": "2026-08-20T18:10:02.000Z",
       "writtenSources": 2,
@@ -59,38 +59,6 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 40,
-      "sources": 2,
-      "ts": "2026-08-20T11:40:01.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
-      "s": "Brody Ford / Bloomberg : Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers Meta Platforms Inc. ",
-      "b": [
-        "techmeme.com: Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
-        "finance.yahoo.com: Meta emerges as major Microsoft Azure AI customer"
-      ],
-      "body": [
-        "techmeme.com: Brody Ford / Bloomberg : Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers Meta Platforms Inc. has become one of Microsoft Corp.'s biggest AI customers, underscoring how demand for the emerging technology remains concentrated in the tech industry.",
-        "finance.yahoo.com: Meta emerges as major Microsoft Azure AI customer Yahoo Finance"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260820/p17#a260820p17"
-        },
-        {
-          "d": "bloomberg.com",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0ZRNFctZTBxQUpIVXJ1T1dDS1FsUUhpLXl4RFZGTUZZVjA2aTIyZTdkQndhWElmVlBpb1d1MHZ6LWpDU2RscDJCRkY3Nmd5UDdyUFpuY2VNNVlvV1lWdWlXeFYwVmViX2xOZlpabU1vNmVfRS1wU2FLV2xzUTJGNThQbDVJVTlwZ2pPbUk5R01rQ0Npemw5cTBpRG5TSzBYWGt6bV9GTTZUd3VxMDdrWXdtem0?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Source: Meta is spending hundreds of millions per year to use trillions of AI tokens weekly via Azure, quietly becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
-        "Meta Has Quietly Become One of Microsoft’s Largest AI Customers"
-      ]
-    },
-    {
       "cat": "products",
       "signal": 39,
       "sources": 2,
@@ -124,7 +92,64 @@
     },
     {
       "cat": "funding",
-      "signal": 29,
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-08-20T11:40:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
+      "s": "Brody Ford / Bloomberg : Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers Meta Platforms Inc. ",
+      "b": [
+        "techmeme.com: Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
+        "finance.yahoo.com: Meta emerges as major Microsoft Azure AI customer"
+      ],
+      "body": [
+        "techmeme.com: Brody Ford / Bloomberg : Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers Meta Platforms Inc. has become one of Microsoft Corp.'s biggest AI customers, underscoring how demand for the emerging technology remains concentrated in the tech industry.",
+        "finance.yahoo.com: Meta emerges as major Microsoft Azure AI customer Yahoo Finance"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260820/p17#a260820p17"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0ZRNFctZTBxQUpIVXJ1T1dDS1FsUUhpLXl4RFZGTUZZVjA2aTIyZTdkQndhWElmVlBpb1d1MHZ6LWpDU2RscDJCRkY3Nmd5UDdyUFpuY2VNNVlvV1lWdWlXeFYwVmViX2xOZlpabU1vNmVfRS1wU2FLV2xzUTJGNThQbDVJVTlwZ2pPbUk5R01rQ0Npemw5cTBpRG5TSzBYWGt6bV9GTTZUd3VxMDdrWXdtem0?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Source: Meta is spending hundreds of millions per year to use trillions of AI tokens weekly via Azure, quietly becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
+        "Meta Has Quietly Become One of Microsoft’s Largest AI Customers"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-08-20T15:42:39.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Debates over AI consciousness are a trap",
+      "s": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ",
+      "b": [
+        "technologyreview.com: Debates over AI consciousness are a trap"
+      ],
+      "body": [
+        "technologyreview.com: “Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations and academic philosophers often aligned with the effective altruism movement, debates whether humanity holds the moral right to govern them at all. Upon closer inspection, they are all calling for the same thing: a view of AI systems as being so advanced and capable that no entity, human or corporate, could possibly be responsible for their actions. While these perspectives seem at odds, they are inadvertently aligned on one goal: making sure the companies that build these systems escape meaningful liability for the harms they already cause. This narrative is gaining traction as AI models become more complex and frontier labs reveal their incapability of containing the agents they’ve built. But we need to be careful not to buy into a carefully crafted fiction at the expense of real human lives. The conversation about “robot rights” has existed for some years but recently advanced with the publication by Anthropic of a blog post claiming that the company’s model features a “ J-space ”—an independent, self-developed environment where the AI holds what, for lack of a better term, we may call its “thoughts.” The experiments designed by Anthropic borrow from a concept in neuroscience called global workspace theory, which states that the brain runs subconscious, independent systems but utilizes a common workspace for ideas. Anthropic’s post reflects the framing of global workspace theory but falls short of calling its AI conscious. OpenAI has already gone further. When its AI agent conducted unsanctioned and illegal online activity , CEO Sam Altman’s response was to encourage debate on whether the AI had achieved th"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
+        }
+      ],
+      "srcTitles": [
+        "Debates over AI consciousness are a trap"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
       "sources": 2,
       "ts": "2026-08-20T17:46:35.000Z",
       "writtenSources": 2,
@@ -151,32 +176,9 @@
       ],
       "srcTitles": [
         "Billionaire Stanley Druckenmiller Sells Micron and Is Piling Into This Other Unstoppable Artificial Intelligence (AI) Chip Stock Instead",
+        "Billionaire Stanley Druckenmiller Sold Broadcom and Bought the Same Artificial Intelligence (AI) Stock Berkshire Piled $17 Billion Into",
+        "29.7% of Berkshire Hathaway's $356 Billion Portfolio Is Invested in 2 Artificial Intelligence Stocks",
         "Billionaire Stanley Druckenmiller Sells Micron and Is Piling Into This Other Unstoppable Artificial Intelligence (AI) Chip Stock Instead"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-08-20T15:42:39.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Debates over AI consciousness are a trap",
-      "s": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such ",
-      "b": [
-        "technologyreview.com: Debates over AI consciousness are a trap"
-      ],
-      "body": [
-        "technologyreview.com: “Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominent tech leaders such as Demis Hassabis, Dario Amodei, and Sam Altman push for regulation of these seemingly “superhuman” systems, while a separate faction, led by policy organizations and academic philosophers often aligned with the effective altruism movement, debates whether humanity holds the moral right to govern them at all. Upon closer inspection, they are all calling for the same thing: a view of AI systems as being so advanced and capable that no entity, human or corporate, could possibly be responsible for their actions. While these perspectives seem at odds, they are inadvertently aligned on one goal: making sure the companies that build these systems escape meaningful liability for the harms they already cause. This narrative is gaining traction as AI models become more complex and frontier labs reveal their incapability of containing the agents they’ve built. But we need to be careful not to buy into a carefully crafted fiction at the expense of real human lives. The conversation about “robot rights” has existed for some years but recently advanced with the publication by Anthropic of a blog post claiming that the company’s model features a “ J-space ”—an independent, self-developed environment where the AI holds what, for lack of a better term, we may call its “thoughts.” The experiments designed by Anthropic borrow from a concept in neuroscience called global workspace theory, which states that the brain runs subconscious, independent systems but utilizes a common workspace for ideas. Anthropic’s post reflects the framing of global workspace theory but falls short of calling its AI conscious. OpenAI has already gone further. When its AI agent conducted unsanctioned and illegal online activity , CEO Sam Altman’s response was to encourage debate on whether the AI had achieved th"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/"
-        }
-      ],
-      "srcTitles": [
-        "Debates over AI consciousness are a trap"
       ]
     },
     {
@@ -272,7 +274,7 @@
     },
     {
       "cat": "models",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-08-20T09:48:16.000Z",
       "writtenSources": 2,
