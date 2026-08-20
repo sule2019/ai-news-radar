@@ -31,7 +31,71 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-20T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The spectral neuron",
+      "s": "Worked some time ago on one of the ad teams at Yahoo, and this grew out of a question I kept returning to while there are there simple models that are both simple, scalable, interpretable, and control",
+      "b": [
+        "reddit.com: The spectral neuron",
+        "arxiv.org: Cross-Cohort Spectral-Temporal Dissociation in Frozen EEG Foundation-Model Representations"
+      ],
+      "body": [
+        "reddit.com: Worked some time ago on one of the ad teams at Yahoo, and this grew out of a question I kept returning to while there are there simple models that are both simple, scalable, interpretable, and controllable at the same time? Decided to explore it, first in a blog (starting here ), then in a new preprint The Spectral Neuron , built by distilling latest blog-posts into a manuscript, I study models of the form: 𝑓(𝒙) = 𝛌ₖ(𝐀₀ + 𝚺ᵢ 𝑥ᵢ𝐀ᵢ). Manuscript : https://arxiv.org/abs/2608.08003 Code : https://github.com/alexshtf/spectral_neuron_paper Looks like a simple on-liner, but many interesting aspects hide there. How expressive does the model become as the matrices grow? What can we read directly from the learned matrices? Which shapes can be guaranteed by construction? I develop the mathematics, give a practical initialization and training recipe, and test the model in scaling experiments on synthetic and real data. AI disclaimer : manuscript written by yours truly, AI assisted in looking up canonical references and related work for literature review. In contrast, the code was heavily AI written and reviewed by yours truly. submitted by /u/alexsht1 [link] [comments]",
+        "arxiv.org: arXiv:2607.24834v3 Announce Type: replace-cross Abstract: Objective. We tested whether frozen representations from five EEG foundation models support decoding of long-range temporal correlations, measured as the detrended-fluctuation-analysis (DFA) exponent of the alpha-band amplitude envelope. Approach. REVE, LaBraM, BENDR, CBraMod, and BIOT were evaluated in CAUEEG and BrainLat. A common 240 s estimator used 8-13 Hz filtering, DFA over 2-23.8 s, artifact masking, and quality control. One fixed nested-cross-validation readout predicted DFA and a fixed-mode aperiodic exponent. Controls tested pre-pool order sensitivity and aperiodic residualization. Results. CAUEEG included 764 recordings and BrainLat 79. BIOT decoded DFA in CAUEEG (R-squared = 0.232; conditional subject-bootstrap 95 percent interval, 0.121-0.310), and CBraMod was positive but imprecise (R-squared = 0.121; 0.003-0.214). Neither replicated in BrainLat, where all five point estimates were negative. In contrast, CBraMod and BIOT decoded the aperiodic exponent in both cohorts (R-squared = 0.459-0.757). BIOT remained positive after removal of the measured linear aperiodic association in matched CAUEEG data (R-squared = 0.240). The post-hoc order control was batch- and configuration-sensitive. Because chronological EEG epochs are not exchangeable, it was descriptive, not an LRTC-specific test. No revised DFA transfer direction passed source-label permutation testing. Cohort membership was near-ceiling decodable from all five embeddings, but this is not a pure site effect. Significance. CBraMod and BIOT show a replicated, model-specific spectral-temporal dissociation: aperiodic decoding is present in both cohorts, whereas alpha-envelope DFA decoding is cohort-dependent. These findings bound the evaluated readouts; they do not establish representational absence or an architectural cause. Transfer and clinical associations remain exploratory."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1vtfimo/the_spectral_neuron_an_ml_primitive_for_scalable/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2607.24834"
+        }
+      ],
+      "srcTitles": [
+        "The spectral neuron",
+        "Cross-Cohort Spectral-Temporal Dissociation in Frozen EEG Foundation-Model Representations"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-19T22:22:32.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Where Is the AI Jobs Apocalypse?",
+      "s": "Where Is the AI Jobs Apocalypse? The Free Press",
+      "b": [
+        "thefp.com: Where Is the AI Jobs Apocalypse?",
+        "nytimes.com: The Indian City Where AI Is Creating Jobs for Humans"
+      ],
+      "body": [
+        "thefp.com: Where Is the AI Jobs Apocalypse? The Free Press",
+        "nytimes.com: The Indian City Where AI Is Creating Jobs for Humans The New York Times"
+      ],
+      "l": [
+        {
+          "d": "thefp.com",
+          "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBoQlhEWUhuT0tIOW14Um5leTlUVEZaN1hPTm1oX2RMU3hRaDVHM095enNYbmlMeFduNDNwWF83TTFocE9taHN6SUVSX005NHp1bVFBcHhYZ2pqbzRxWTkzemVn?oc=5"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUUc5eEgxc2t5R2dXbFQxaGdGeGNlQy0zMk92YjZkbXBGZmJpa2xOQ01NdzNJc013WENGRHpzcHBlNVFUdTMtRThKdGFUdzE5TzlEWmlzSjNsNGN2OERhS2hTdVdIMXg4RVVWZUsyeVZHUXFCLTJNX0hUcG9oX2Z4dmZSUUd1OWxFSjgzUFllMA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Where Is the AI Jobs Apocalypse?",
+        "The Indian City Where AI Is Creating Jobs for Humans"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 18,
       "sources": 2,
       "ts": "2026-08-20T04:00:00.000Z",
       "writtenSources": 2,
@@ -63,7 +127,7 @@
     },
     {
       "cat": "products",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-08-20T02:05:00.000Z",
       "writtenSources": 2,
