@@ -3,7 +3,35 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-20T09:47:22.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Unlocking hidden revenue streams with market models",
+      "s": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The a",
+      "b": [
+        "technologyreview.com: Unlocking hidden revenue streams with market models",
+        "technologyreview.com: Unlocking hidden revenue streams with market models"
+      ],
+      "body": [
+        "technologyreview.com: Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name just a few. It is a nuanced process that must constantly adapt to the goings on in the wider world. Generative AI-powered market models are emerging as a means of handling complex tasks like this in real time. These deep learning models are trained on high-resolution numerical data and designed to analyze, simulate, and predict complex financial dynamics. Rather than relying on historical trends or static rules, the market model acts as an AI “brain,” consolidating a variety of data to simulate different market environments and make dynamic commercial decisions, such as pricing, inventory, or revenue management. DOWNLOAD THE REPORT “It helps us make better, faster, more granular commercial decisions,” says Dominic Kennedy, senior vice president of revenue management, sales, and e-commerce at Virgin Atlantic about the market model his team is using to drive their generative pricing engines in some markets. “It considers, on a real-time basis, a plethora of different inputs, whether it be demand, capacity, or booking. It has a really sophisticated way of evaluating our positioning relative to competitors, market conditions, and a whole raft of other things that have significance in how demand is manifested,” he adds. Download the full report This content was produced by Insights, the custom content arm of MIT Technology Review. It was not written by MIT Technology Review’s editorial staff. It was researched, designed, and written by human writers, editors, analysts, and illustrators. This includes the writing of surveys and collection of data for surveys. AI tools that may have been used",
+        "technologyreview.com: Unlocking hidden revenue streams with market models MIT Technology Review"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/"
+        }
+      ],
+      "srcTitles": [
+        "Unlocking hidden revenue streams with market models",
+        "Unlocking hidden revenue streams with market models"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
       "sources": 2,
       "ts": "2026-08-20T04:00:00.000Z",
       "writtenSources": 2,
@@ -35,7 +63,7 @@
     },
     {
       "cat": "products",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-08-20T02:05:00.000Z",
       "writtenSources": 2,
