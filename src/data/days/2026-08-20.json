@@ -59,8 +59,40 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 42,
+      "sources": 2,
+      "ts": "2026-08-20T16:46:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Ramp launches its own AI model router, called Router",
+      "s": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+      "b": [
+        "techcrunch.com: Ramp launches its own AI model router, called Router",
+        "techmeme.com: Ramp launches Router, an AI model routing service it has been using over the past three years, in the US; the service is free to use for the rest of 2026 (Ram Iyer/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+        "techmeme.com: Ram Iyer / TechCrunch : Ramp launches Router, an AI model routing service it has been using over the past three years, in the US; the service is free to use for the rest of 2026 Corporate expense management platform Ramp is hot on the heels of Stripe in setting up toll houses for AI inference."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260820/p28#a260820p28"
+        }
+      ],
+      "srcTitles": [
+        "Ramp launches its own AI model router, called Router",
+        "Ramp launches Router, an AI model routing service it has been using over the past three years, in the US; the service is free to use for the rest of 2026 (Ram Iyer/TechCrunch)"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-08-20T09:48:16.000Z",
       "writtenSources": 2,
@@ -92,7 +124,7 @@
     },
     {
       "cat": "policy",
-      "signal": 38,
+      "signal": 34,
       "sources": 2,
       "ts": "2026-08-20T16:05:56.000Z",
       "writtenSources": 2,
