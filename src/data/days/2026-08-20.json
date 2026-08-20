@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 59,
+      "signal": 55,
       "sources": 2,
       "ts": "2026-08-20T18:10:02.000Z",
       "writtenSources": 2,
@@ -40,6 +40,31 @@
       "ts": "2026-08-20T00:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
+      "h": "Stampli cuts launch hours by 68% using ChatGPT Work",
+      "s": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+      "b": [
+        "openai.com: Stampli cuts launch hours by 68% using ChatGPT Work"
+      ],
+      "body": [
+        "openai.com: With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/stampli"
+        }
+      ],
+      "srcTitles": [
+        "Stampli cuts launch hours by 68% using ChatGPT Work"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 42,
+      "sources": 1,
+      "ts": "2026-08-20T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
       "h": "How ChatGPT Work helps Stampli move ideas to market",
       "s": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
       "b": [
@@ -60,7 +85,7 @@
     },
     {
       "cat": "products",
-      "signal": 39,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-08-20T16:46:00.000Z",
       "writtenSources": 2,
@@ -114,54 +139,22 @@
         },
         {
           "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMk5JYkllS0p6czdQZHdqX250aHliTWFYNWtYQ25wU0V6LXlqdFRoektKYU00UllIRjYxMDNvc3J5UjB1Qld2eVFHNGwzcFdPbWJKZ04yRGJSX3hRZ0t2UzhXZV9Kbmx0cW52VnlzXzRoVENKS2Z4dkp3a1dfU1dDN19QMy1lM2twU2NtNXFOa0VQNWdQZUtJVA?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd05QUjZqYlBPWTk0bVJHYl8wcF9zQURmbmY0SHBEZC0tb1FjVExqUlB3RHhDQTNXMS1xc3ZRSXh4bHhDNmY0N0lOWEJuSXE4T19ISUg3YnFlYmtXc2hjb003UERVVTFORXE5WXdDbS1pZEJNMmdyN3pkdVJJd2hCNjBlMU1xX1VnVGV3T0hoaWVSS2U1a3Z1Uw?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPTEdVTnpVQW41WlRoNGVGeEhUYVByS0FSR1dneDRrMzJWNkZKd1ZqNFAyMXF4TkRWX0tvUElKcndaeGxMbHNuVngyVk9XV3dPdTVZVEtoVmJsMnpTd2pnV183QmpEWXVNRURyOE9KRUN2bEpkeGp5T1JySHgwQXhGX1dvVC1RVkZVckdNXzNyNUhQV1RTZlBhV0RpMzM1ZTRtWURGcTljbjF3V3BxaFVwbTBMMzBvLXdUZGgySWhrLS1uaDQ5cFo3bVdpSzNWblJQcjlEb1FCXzJVWUNMektSUDA3S3AzX3NvRF9KeUV1NEw3OHFxV1NqWHp6ZWtCWmlqbnBBOXZTSzJiQ3hUbnhmLXFqelpZNDVWYlU3UUhyTXQzYzF6LU45OUFJZkpxSURLTTh0aDlYeDRsdVFoU1dF?oc=5"
         },
         {
           "d": "currently.att.yahoo.com",
           "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM0hLbWsteWNaRzdWYldKZlpIZnJ0YmUzN3VsVEpBUEZtZmpiV3hHMDFkNUE2cndCX0NEZ1g4NDY5aU01OWR0dEpvNDdCckJiRUh2VHJ4RkhGQWMtS0FiQzhVd3M5anluYmZaTDhrYnMzM01aZU5Rb25ybFl6c0x2TGZUQnVWaUtpNXJULXQ2ODdhRTBZWTE5cXpQQ3Bpdw?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNX2ZhNjYyMHI3SG9LNThKVEhtMEVmMm5HUDhNZFlla29UYWxBakNoSjVIVU43SWo2X0MyVkRyVW5rMWJ2bmZENnVKcVNKZ1VZZk9CVWc3ODJkX0Q3bTRtMy0zdTJvRGxrdEVIZnpwSUVGSUVPYTh5QUh5WWEyMHUteDFBUEczdHJXRy00VjNYd3ZWY1hWTTcwd09IR0V2LWh1MUNWNndNUTNjVndmbk84VlBsQld1QWdIXzVIMVVyZmRhdG1QV2ZONmNpRU05a29TSXdCSDlOVTBrcmlxNWdjS2tYZjB6aWExenFUX1BvS2ZZY3VoZHFUYXQzNlF5ajBZdkMzOHBhMWk1U0JsUks3bmIzV3AzWFlEN01vYmR5YW5tMTdQZWRZUzJpdU1qMW9vbjQzOFJlam85YVNfNk9r?oc=5"
         }
       ],
       "srcTitles": [
         "Billionaire Stanley Druckenmiller Sold Broadcom and Bought the Same Artificial Intelligence (AI) Stock Berkshire Piled $17 Billion Into",
+        "Billionaire Stanley Druckenmiller Sold Broadcom and Bought the Same Artificial Intelligence (AI) Stock Berkshire Piled $17 Billion Into",
         "Billionaire Stanley Druckenmiller Sells Micron and Is Piling Into This Other Unstoppable Artificial Intelligence (AI) Chip Stock Instead",
-        "29.7% of Berkshire Hathaway's $356 Billion Portfolio Is Invested in 2 Artificial Intelligence Stocks",
-        "Billionaire Stanley Druckenmiller Sells Micron and Is Piling Into This Other Unstoppable Artificial Intelligence (AI) Chip Stock Instead"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 28,
-      "sources": 2,
-      "ts": "2026-08-20T11:40:01.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
-      "s": "Brody Ford / Bloomberg : Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers Meta Platforms Inc. ",
-      "b": [
-        "techmeme.com: Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
-        "finance.yahoo.com: Meta emerges as major Microsoft Azure AI customer"
-      ],
-      "body": [
-        "techmeme.com: Brody Ford / Bloomberg : Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers Meta Platforms Inc. has become one of Microsoft Corp.'s biggest AI customers, underscoring how demand for the emerging technology remains concentrated in the tech industry.",
-        "finance.yahoo.com: Meta emerges as major Microsoft Azure AI customer Yahoo Finance"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260820/p17#a260820p17"
-        },
-        {
-          "d": "bloomberg.com",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0ZRNFctZTBxQUpIVXJ1T1dDS1FsUUhpLXl4RFZGTUZZVjA2aTIyZTdkQndhWElmVlBpb1d1MHZ6LWpDU2RscDJCRkY3Nmd5UDdyUFpuY2VNNVlvV1lWdWlXeFYwVmViX2xOZlpabU1vNmVfRS1wU2FLV2xzUTJGNThQbDVJVTlwZ2pPbUk5R01rQ0Npemw5cTBpRG5TSzBYWGt6bV9GTTZUd3VxMDdrWXdtem0?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Source: Meta is spending hundreds of millions per year to use trillions of AI tokens weekly via Azure, quietly becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
-        "Meta Has Quietly Become One of Microsoft’s Largest AI Customers"
+        "29.7% of Berkshire Hathaway's $356 Billion Portfolio Is Invested in 2 Artificial Intelligence Stocks"
       ]
     },
     {
@@ -258,6 +251,38 @@
       "srcTitles": [
         "AI in an iron grip: How dictatorships use artificial intelligence to strengthen their rule",
         "AI Best Practices for Small Businesses: How to Use Artificial Intelligence Responsibly"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 24,
+      "sources": 2,
+      "ts": "2026-08-20T11:40:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
+      "s": "Brody Ford / Bloomberg : Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers Meta Platforms Inc. ",
+      "b": [
+        "techmeme.com: Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
+        "finance.yahoo.com: Meta emerges as major Microsoft Azure AI customer"
+      ],
+      "body": [
+        "techmeme.com: Brody Ford / Bloomberg : Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers Meta Platforms Inc. has become one of Microsoft Corp.'s biggest AI customers, underscoring how demand for the emerging technology remains concentrated in the tech industry.",
+        "finance.yahoo.com: Meta emerges as major Microsoft Azure AI customer Yahoo Finance"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260820/p17#a260820p17"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa0ZRNFctZTBxQUpIVXJ1T1dDS1FsUUhpLXl4RFZGTUZZVjA2aTIyZTdkQndhWElmVlBpb1d1MHZ6LWpDU2RscDJCRkY3Nmd5UDdyUFpuY2VNNVlvV1lWdWlXeFYwVmViX2xOZlpabU1vNmVfRS1wU2FLV2xzUTJGNThQbDVJVTlwZ2pPbUk5R01rQ0Npemw5cTBpRG5TSzBYWGt6bV9GTTZUd3VxMDdrWXdtem0?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Source: Meta is spending hundreds of millions per year to use trillions of AI tokens weekly via Azure, quietly becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
+        "Meta Has Quietly Become One of Microsoft’s Largest AI Customers"
       ]
     },
     {
