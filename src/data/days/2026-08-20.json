@@ -2,6 +2,38 @@
   "date": "2026-08-20",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-08-20T11:40:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
+      "s": "Brody Ford / Bloomberg : Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers Meta Platforms Inc. ",
+      "b": [
+        "techmeme.com: Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
+        "finance.yahoo.com: Meta emerges as major Microsoft Azure AI customer"
+      ],
+      "body": [
+        "techmeme.com: Brody Ford / Bloomberg : Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers Meta Platforms Inc. has become one of Microsoft Corp.'s biggest AI customers, underscoring how demand for the emerging technology remains concentrated in the tech industry.",
+        "finance.yahoo.com: Meta emerges as major Microsoft Azure AI customer Yahoo Finance"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260820/p17#a260820p17"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSzh6aEN0OGZ1eDR0UjdHVXl3TWFvT3hWREpYd1pUaHFpR0RoZzlCYVI3azBLZHpkNDh1R0RWWU5TMmNaNVVMajVfd0xfa093N251QXZJbTREX2MwUlZIeXdVVHhuYUU0RkhCU19sUVRidzVDb1dHV1BmR0RlSC1pWnYtOTVkcElVMHRhcmlMM18tbUlURHZaaGcxNDRwV2M?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Source: Meta is spending hundreds of millions per year on Azure to consume trillions of AI tokens weekly, becoming one of Microsoft's largest AI customers (Brody Ford/Bloomberg)",
+        "Meta emerges as major Microsoft Azure AI customer"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 59,
       "sources": 2,
