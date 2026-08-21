@@ -197,6 +197,38 @@
       "cat": "models",
       "signal": 26,
       "sources": 2,
+      "ts": "2026-08-21T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Tacit Knowledge and AI",
+      "s": "Tacit Knowledge and AI Communications of the ACM",
+      "b": [
+        "cacm.acm.org: Tacit Knowledge and AI",
+        "arxiv.org: Epistemic Subordination: Generative AI and the Infrastructure of Knowledge"
+      ],
+      "body": [
+        "cacm.acm.org: Tacit Knowledge and AI Communications of the ACM",
+        "arxiv.org: arXiv:2608.18758v1 Announce Type: cross Abstract: Generative AI does not merely produce biased outputs. It encodes the majority's way of knowing as the default infrastructure of knowledge itself. We call this epistemic subordination. The training process compresses the full breadth of human expression into a single probabilistic model whose statistical baseline reflects the languages, assumptions, and cultural frameworks of the dominant culture. Minority epistemologies are not excluded but absorbed: present in the training data, yet structurally subordinated in the output. The result is not a collection of discrete biases that can be audited and corrected. It is an epistemic condition embedded in the architecture from which all outputs emerge. This unified harm cuts across three legal domains -- anti-discrimination law, cultural and linguistic rights, and democratic viewpoint pluralism -- and each fails to address it for the same structural reason: existing law regulates downstream, at the level of decisions and applications. The remedy must match the site of harm. If epistemic subordination is produced at the level of model training, then law must learn to govern at that level."
+      ],
+      "l": [
+        {
+          "d": "cacm.acm.org",
+          "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuOHJNam5pMDRQT19ZM19BRVd3Wjc4NTJVaS1OTnB6UGdxNFQwbUZzcDIxRWlYcl9rU0FOQVZtLUl3LUFKbm5MSDg1WHRYMm1wTk9SclhVVkdlMkdIbmp6a0ZB?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.18758"
+        }
+      ],
+      "srcTitles": [
+        "Tacit Knowledge and AI",
+        "Epistemic Subordination: Generative AI and the Infrastructure of Knowledge"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
       "ts": "2026-08-21T02:37:47.000Z",
       "writtenSources": 2,
       "draft": true,
