@@ -2,6 +2,38 @@
   "date": "2026-08-21",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-08-21T22:35:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Nvidia partners with data center developer Cloverleaf",
+      "s": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "b": [
+        "techcrunch.com: Nvidia partners with data center developer Cloverleaf",
+        "techmeme.com: Nvidia makes a minority investment in Cloverleaf, which works with utilities and energy providers to secure infrastructure for data center sites (Rashika Singh/Reuters)"
+      ],
+      "body": [
+        "techcrunch.com: Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+        "techmeme.com: Rashika Singh / Reuters : Nvidia makes a minority investment in Cloverleaf, which works with utilities and energy providers to secure infrastructure for data center sites Nvidia (NVDA.O) has made a minority investment in privately held Cloverleaf Infrastructure to develop infrastructure to power AI data center projects across"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260821/p27#a260821p27"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia partners with data center developer Cloverleaf",
+        "Nvidia makes a minority investment in Cloverleaf, which works with utilities and energy providers to secure infrastructure for data center sites (Rashika Singh/Reuters)"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 54,
       "sources": 4,
@@ -47,54 +79,9 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 34,
-      "sources": 5,
-      "ts": "2026-08-21T04:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Tacit Knowledge and AI",
-      "s": "Tacit Knowledge and AI Communications of the ACM",
-      "b": [
-        "cacm.acm.org: Tacit Knowledge and AI",
-        "arxiv.org: Epistemic Subordination: Generative AI and the Infrastructure of Knowledge"
-      ],
-      "body": [
-        "cacm.acm.org: Tacit Knowledge and AI Communications of the ACM",
-        "arxiv.org: arXiv:2608.18758v1 Announce Type: cross Abstract: Generative AI does not merely produce biased outputs. It encodes the majority's way of knowing as the default infrastructure of knowledge itself. We call this epistemic subordination. The training process compresses the full breadth of human expression into a single probabilistic model whose statistical baseline reflects the languages, assumptions, and cultural frameworks of the dominant culture. Minority epistemologies are not excluded but absorbed: present in the training data, yet structurally subordinated in the output. The result is not a collection of discrete biases that can be audited and corrected. It is an epistemic condition embedded in the architecture from which all outputs emerge. This unified harm cuts across three legal domains -- anti-discrimination law, cultural and linguistic rights, and democratic viewpoint pluralism -- and each fails to address it for the same structural reason: existing law regulates downstream, at the level of decisions and applications. The remedy must match the site of harm. If epistemic subordination is produced at the level of model training, then law must learn to govern at that level."
-      ],
-      "l": [
-        {
-          "d": "cacm.acm.org",
-          "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuOHJNam5pMDRQT19ZM19BRVd3Wjc4NTJVaS1OTnB6UGdxNFQwbUZzcDIxRWlYcl9rU0FOQVZtLUl3LUFKbm5MSDg1WHRYMm1wTk9SclhVVkdlMkdIbmp6a0ZB?oc=5"
-        },
-        {
-          "d": "tomshardware.com",
-          "u": "https://news.google.com/rss/articles/CBMioANBVV95cUxQVHZOQnc2SVhORm0zcFRxZUQ3M0ZOeE96OHFxM01LU0VqNTNhVVJSb0lodGVQUExydlJvdnN6QkNSM1ltMGZxSlVZdUJ2dHdaemZjekZPTi16RXMtcmFYSjBKN2t1WFdTdmp4LUtuUFgtcEh1bTQxS3ZIUGNyZHhudDRDNVZ6ZlI2dk90elA1SnlZazhUXzBsb1J5eWRDRFVVQkhIbUtDck9OdUNaMGZFXzA1Rm9XbERVa3g4NVN1bEpOWks5RjlzY1JTb1ZOLTF0V2E4blFheUZBNVBGd1phR1J4UGlLcU1naDBuSE5ZZUU5RUFIb3g4THVxSVlnMndQMW5hRzZIejVfV3FzUnBDWXZmRnZfU2dxSWNDWXcyRmdYQ0VvQ2d5UTJzei1jY19HZkYxVEpLVXdlcDdLNTBtX0tlVHpCb1Njal9XYmlfdnhvaE1OS29mZHJ2b2x0bUloM29LTnJQTURIVWtvb3BqUWF3RTlRVnNCMHBrX0lndEQ0YzZzTFZCWkk2SGxzd2dfa0dnanFjaC1kendTT281UA?oc=5"
-        },
-        {
-          "d": "annas-archive.pk",
-          "u": "https://annas-archive.pk/blog/physical-destruction.html"
-        },
-        {
-          "d": "annas-archive.gl",
-          "u": "https://annas-archive.gl/blog/physical-destruction.html"
-        },
-        {
-          "d": "+1"
-        }
-      ],
-      "srcTitles": [
-        "Tacit Knowledge and AI",
-        "World's largest open library calls for volunteers to scan and preserve physical books as AI companies buy, scan, and destroy them — Anna's Archive says ‘time is running out’ as ‘knowledge is permanently monopolized on private servers’",
-        "AI companies destroy physical books – let's scan rare books before it's too late",
-        "AI companies destroy physical books – let's scan rare books before it's too late"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 32,
-      "sources": 4,
+      "signal": 30,
+      "sources": 3,
       "ts": "2026-08-21T04:00:00.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -113,16 +100,12 @@
       ],
       "l": [
         {
-          "d": "cacm.acm.org",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU2I0aWU2Y0I1dnVKUmRFRHN3clUzSnVJWWN3cGtaZzNMMkNnZHVYT3RuVV9mdWtDeXdON0xTbHcwbnJmbzRTMzNpZllFQ0lPclNIamJjQXBFSHZSX3dRSGU5amFHVDZWN2M2Vldnc3hJamRoYnNaQWxtY0wzeXIzWDYtUQ?oc=5"
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/"
         },
         {
           "d": "simonwillison.net",
           "u": "https://simonwillison.net/2026/Aug/21/llm/"
-        },
-        {
-          "d": "reddit.com",
-          "u": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/"
         },
         {
           "d": "arxiv.org",
@@ -130,15 +113,15 @@
         }
       ],
       "srcTitles": [
-        "LLMs Make Mathematics Easier. Now Raise the Bar",
+        "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
         "llm 0.32.1",
         "llm-openrouter 0.7",
-        "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]"
+        "Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs"
       ]
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-08-21T20:36:35.000Z",
       "writtenSources": 2,
@@ -159,8 +142,8 @@
           "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZEhsTFdnWGxMTVJGWVc0RGJjQm9uWF83WG43clUzampXS1N0NnpTc0hraFpzdUZJRTROT0p2X0dNa3hHNF9VNmhERVpmaXJmMVp1N3VGV0NRWU5LWWRxdEZLQUZrdlJXQ0diRFFHbnlsU284ZnJ5OGo1LU5wVmU5R1dfa2xpY0RpN2xuNFE4a1Y1NGZlSmlBclYtdEtQUHJLUWV2emN5RnRDdUNadVc1a2dPeGZQcFRLTDZ1bHFkNDVTdEJXYkhfdHFRMThlYVpy?oc=5"
         },
         {
-          "d": "foxbaltimore.com",
-          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZk54d25FMElEaXB0Szh2UDhqT2I3eFlQNjhBMjdxWXByYnE2SkFHZFpsTkNXamtkZ0xTY0hjOW50NzF0aTAxTGh0dUVwNmh4QXY2VjJwdDJkY2ZkaG1fZnJtd2NpQ2VJcy0zazJQdmludnRrbHdpTTBJM1I1MmJiRjYxNk4xdmJJZGVWd1ZpWGhTRXBtcHBQRGZidXZyd3ZkVGNpbkdOUmUyRWxRLVVZbi16VF91RUp1TTZnTWhWcG9uVXd5Qzc0Y0d0WEItV0xGZjZNajN4QnpkRHM?oc=5"
+          "d": "mynbc15.com",
+          "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb1JZX0pFSTg2YVRtbElnQ3NtRTdhaFZkQ3ZaajIxaUhyYWxUaTU3UFRYeXdIbVNZd091ZDhaa1pDNDN3bUx2Zml3U2prNlQ0NTNvVDNFZWFNUHFDZ3BPZ2REbjdzRkhoWFY4WG9rOXBOUDdxQUNvQ2JKdVhrSHVqSkFvZllQdVVhaUhmQ1ZVQ3pmd3BHSXQ1MFF3LUNEbmhkXzZhUEhiWXdtVm93dElvVEtqTnlQeTl6TE5HeVZpcksxLXZGVHM3azdwOWt1N2Z5S3V3cQ?oc=5"
         }
       ],
       "srcTitles": [
@@ -198,38 +181,6 @@
       "srcTitles": [
         "CoreWeave vs. Nebius Group: Which Artificial Intelligence (AI) Cloud Stock Has More Upside?",
         "CoreWeave vs. Nebius Group: Which Artificial Intelligence (AI) Cloud Stock Has More Upside?"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 29,
-      "sources": 2,
-      "ts": "2026-08-21T17:11:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers",
-      "s": "MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers The Washington Post",
-      "b": [
-        "washingtonpost.com: MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers",
-        "usnews.com: MAHA Activists Urge Trump Against Promoting Coal to Power Energy-Hungry AI Data Centers"
-      ],
-      "body": [
-        "washingtonpost.com: MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers The Washington Post",
-        "usnews.com: MAHA Activists Urge Trump Against Promoting Coal to Power Energy-Hungry AI Data Centers U.S. News & World Report"
-      ],
-      "l": [
-        {
-          "d": "bostonherald.com",
-          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZG9yRXJ1REx2UVVMZDY1NXh1dmR0MDdxTmtlOGJkTEJwVGkxZThvOVNpSDFzSjlvM0ZNVVY2QkhLdW1BdURFdXVobGVhdmFsQkFfRm92QWx4bzdObmRmVVczcnhXSzMxbG5CRHdlaEszNnZlS0VXV2lWMGViRExvdm5XQlJRNjZaUXFMd29qNk1PUElfZUwweXNDZWF5cDAxWGFJWHZFOU5ITEx0X2lTNGg2cTJ4MTkwVEUwblc1RVZvclVxa2Vz?oc=5"
-        },
-        {
-          "d": "usnews.com",
-          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcGlyUDBteDJURHdSUGhNelM2MXRVUWlCY19UaW5DbHMzQkx4bnNMSFVLMjJLaG5WM0duWXRHa0h6WjUwMU9QeEdfc04zMHg0c19GLUlOcGlrT0dham1NeUllMHhMMkFGU2pmQTh1bW1VTkNGQkNlOUNDYlJrUFIyQ1RHcGRBZ2tPZTV6dE54TlZ1dVBseFN3SndsWU1aM2VwZU5Ib055Q3RacEZZWWZYMDhvVDhLNWJsVmtxZERmYlEtRTNNLUZTNUFha2xVTy1DVTBDSDJHbXBQN0Rhcm9jTlJR?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers",
-        "MAHA Activists Urge Trump Against Promoting Coal to Power Energy-Hungry AI Data Centers"
       ]
     },
     {
@@ -328,6 +279,102 @@
       "srcTitles": [
         "These 3 Artificial Intelligence Stocks Can Double by the End of 2027",
         "These 3 Artificial Intelligence Stocks Can Double by the End of 2027"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-21T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Tacit Knowledge and AI",
+      "s": "Tacit Knowledge and AI Communications of the ACM",
+      "b": [
+        "cacm.acm.org: Tacit Knowledge and AI",
+        "arxiv.org: Epistemic Subordination: Generative AI and the Infrastructure of Knowledge"
+      ],
+      "body": [
+        "cacm.acm.org: Tacit Knowledge and AI Communications of the ACM",
+        "arxiv.org: arXiv:2608.18758v1 Announce Type: cross Abstract: Generative AI does not merely produce biased outputs. It encodes the majority's way of knowing as the default infrastructure of knowledge itself. We call this epistemic subordination. The training process compresses the full breadth of human expression into a single probabilistic model whose statistical baseline reflects the languages, assumptions, and cultural frameworks of the dominant culture. Minority epistemologies are not excluded but absorbed: present in the training data, yet structurally subordinated in the output. The result is not a collection of discrete biases that can be audited and corrected. It is an epistemic condition embedded in the architecture from which all outputs emerge. This unified harm cuts across three legal domains -- anti-discrimination law, cultural and linguistic rights, and democratic viewpoint pluralism -- and each fails to address it for the same structural reason: existing law regulates downstream, at the level of decisions and applications. The remedy must match the site of harm. If epistemic subordination is produced at the level of model training, then law must learn to govern at that level."
+      ],
+      "l": [
+        {
+          "d": "cacm.acm.org",
+          "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuOHJNam5pMDRQT19ZM19BRVd3Wjc4NTJVaS1OTnB6UGdxNFQwbUZzcDIxRWlYcl9rU0FOQVZtLUl3LUFKbm5MSDg1WHRYMm1wTk9SclhVVkdlMkdIbmp6a0ZB?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.18758"
+        }
+      ],
+      "srcTitles": [
+        "Tacit Knowledge and AI",
+        "Epistemic Subordination: Generative AI and the Infrastructure of Knowledge"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-21T02:37:47.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "s": "Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 698 # Comments: 2",
+      "b": [
+        "annas-archive.pk: AI companies destroy physical books – let's scan rare books before it's too late",
+        "annas-archive.gl: AI companies destroy physical books – let's scan rare books before it's too late"
+      ],
+      "body": [
+        "annas-archive.pk: Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 698 # Comments: 2",
+        "annas-archive.gl: Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 484 # Comments: 824"
+      ],
+      "l": [
+        {
+          "d": "annas-archive.pk",
+          "u": "https://annas-archive.pk/blog/physical-destruction.html"
+        },
+        {
+          "d": "annas-archive.gl",
+          "u": "https://annas-archive.gl/blog/physical-destruction.html"
+        }
+      ],
+      "srcTitles": [
+        "AI companies destroy physical books – let's scan rare books before it's too late",
+        "AI companies destroy physical books – let's scan rare books before it's too late"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 25,
+      "sources": 2,
+      "ts": "2026-08-21T17:11:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers",
+      "s": "MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers The Washington Post",
+      "b": [
+        "washingtonpost.com: MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers",
+        "usnews.com: MAHA Activists Urge Trump Against Promoting Coal to Power Energy-Hungry AI Data Centers"
+      ],
+      "body": [
+        "washingtonpost.com: MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers The Washington Post",
+        "usnews.com: MAHA Activists Urge Trump Against Promoting Coal to Power Energy-Hungry AI Data Centers U.S. News & World Report"
+      ],
+      "l": [
+        {
+          "d": "bostonherald.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZG9yRXJ1REx2UVVMZDY1NXh1dmR0MDdxTmtlOGJkTEJwVGkxZThvOVNpSDFzSjlvM0ZNVVY2QkhLdW1BdURFdXVobGVhdmFsQkFfRm92QWx4bzdObmRmVVczcnhXSzMxbG5CRHdlaEszNnZlS0VXV2lWMGViRExvdm5XQlJRNjZaUXFMd29qNk1PUElfZUwweXNDZWF5cDAxWGFJWHZFOU5ITEx0X2lTNGg2cTJ4MTkwVEUwblc1RVZvclVxa2Vz?oc=5"
+        },
+        {
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcGlyUDBteDJURHdSUGhNelM2MXRVUWlCY19UaW5DbHMzQkx4bnNMSFVLMjJLaG5WM0duWXRHa0h6WjUwMU9QeEdfc04zMHg0c19GLUlOcGlrT0dham1NeUllMHhMMkFGU2pmQTh1bW1VTkNGQkNlOUNDYlJrUFIyQ1RHcGRBZ2tPZTV6dE54TlZ1dVBseFN3SndsWU1aM2VwZU5Ib055Q3RacEZZWWZYMDhvVDhLNWJsVmtxZERmYlEtRTNNLUZTNUFha2xVTy1DVTBDSDJHbXBQN0Rhcm9jTlJR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers",
+        "MAHA Activists Urge Trump Against Promoting Coal to Power Energy-Hungry AI Data Centers"
       ]
     },
     {
