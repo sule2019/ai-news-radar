@@ -3,7 +3,48 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 52,
+      "sources": 3,
+      "ts": "2026-08-21T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "EMNLP26 Cost [D]",
+      "s": "What is up with the EMNLP prices? What is the actual price for attending as a student with one accepted paper? If I register now in August, is it $350 or $550? Congratulations to everyone accepted! ht",
+      "b": [
+        "reddit.com: EMNLP26 Cost [D]",
+        "arxiv.org: Training-Free Inference-Time Self-Reflection and Cost-Bounded Early Stopping for Large Language Models",
+        "arxiv.org: SMTrap: Cost-Effective DoS Attacks Against Large Reasoning Models via SMT Conflict Guidance"
+      ],
+      "body": [
+        "reddit.com: What is up with the EMNLP prices? What is the actual price for attending as a student with one accepted paper? If I register now in August, is it $350 or $550? Congratulations to everyone accepted! https://preview.redd.it/to16g93h7rkh1.png?width=667 format=png auto=webp s=566162320e8adc161ab3a3772988c6ea64d8be6d submitted by /u/No_Sky9786 [link] [comments]",
+        "arxiv.org: arXiv:2608.18884v1 Announce Type: new Abstract: Reinforcement-learning training of reasoning LLMs (e.g., GRPO) is expensive and requires a controllable environment, committing every contribution to a full training pipeline. We present EvoResearcher, a training-free, inference-time protocol that adds cost-bounded self-reflection to a single frozen LLM backbone. The protocol iterates generate -> self-critique -> revise until a maximum depth D is reached or the critique returns the CONFIRMED sentinel, an implicit early stop that lets the backbone self-verify its answer under a strict compute budget. Four self-reflective meta-reward components (correctness, efficiency, reflection depth, tool-call diversity) act as design principles instantiated as prompt-level mechanisms, so their benefits accrue with zero gradient updates. We validate the protocol on Big-Bench Hard (100 questions) and establish cross-domain behavior on GSM8K (500) and MATH (500) on the same frozen backbone, with cross-model replication on Qwen2.5-72B. All experiments use pure-reasoning benchmarks; the tool-call diversity component is validated in prompt-level form, and the environment-level and multi-agent extensions are design blueprints left to future work. On clean BBH the protocol does not raise accuracy beyond the 95% Wilson interval; its value is cost-bounded self-verification, with the CONFIRMED early stop terminating 82-88% of items at equal accuracy (about 2.1 generations per question).",
+        "arxiv.org: arXiv:2608.18921v1 Announce Type: cross Abstract: Existing LRM-DoS methods rely heavily on model feedback to synthesize attack queries, requiring either repeated queries to the target model or training a dedicated attack model. These expensive operations severely weaken attack leverage. In this paper, we propose \\emph{search amplification}, a novel, model-feedback-free LRM-DoS paradigm. It employs the conflict count derived from an Satisfiability Modulo Theories (SMT) solver as a low-cost external signal to guide the synthesis of inference-heavy Constraint Satisfaction Problem (CSP) instances. Our key observation is that LRMs depend on trial-and-backtracking search when solving CSPs, where higher SMT conflict counts on a given CSP instance positively correlate with more extensive LRM backtracking search and substantially longer output trajectories. Building on this finding, we propose \\textsc{SMTrap}, a lightweight, CPU-only framework. Guided by SMT conflict counts, \\textsc{SMTrap} generates inference-heavy CSP queries without model queries, attack-model training, or GPU computation. Evaluations across seven frontier models demonstrate the state-of-the-art LRM-DoS capability of \\textsc{SMTrap}, producing DoS effects multiple times stronger than existing baselines. To mitigate the threat of \\textsc{SMTrap}, we demonstrate a tool-based mitigation that significantly cuts token usage.",
+        "arxiv.org: arXiv:2607.16230v2 Announce Type: replace-cross Abstract: Accurate pre-order shipping cost estimation is important in e-commerce because it affects price presentation, margin planning, and conversion. In practice, shipping cost is shaped not only by distance but also by destination demand mix, billable weight, dimensional pricing, surcharge triggers, and latent operational effects such as shipment consolidation. Static lookup methods therefore miss important sources of variation, while monolithic regressors may exploit strong but non-causal correlations. We propose RouteCost, a production-inspired multi-stage framework that decomposes the problem into time-aware demand forecasting, fee-card-informed baseline pricing, Stage 2 residual correction, and proxy-based box-consolidation inference. Route-level cost estimates are aggregated through a route-weighted expectation formulation to produce product-level shipping cost predictions. Across over 250,000 orders, 260 products, and 18 months of order history, the framework improves predictive quality and aggregate calibration while preserving route-level interpretability."
+      ],
+      "l": [
+        {
+          "d": "aws.amazon.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON1J6SnhrQ0J6UWlDcVlsUkM1WHE4aVdSS2RoaXl2V3g0ak9CSllrMHBFYnQ2d3ZQMGN0djVCbGNPcTdUWFRUR0VDRTRlLXkwQngwZTJUZXdaNU1CdmhkNHV0Q1VXTE80SnJIV2NnZE95RU9lWjZObENSRUdqTVNGU3hEX0pxaHRpVGdTLTlXWThvWXhXdVU3d2lqWFJHNjJLbG9jOHJYemRfb21NVVRj?oc=5"
+        },
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.18884"
+        }
+      ],
+      "srcTitles": [
+        "Reduce RAG costs on Amazon Bedrock with query-aware compression",
+        "EMNLP26 Cost [D]",
+        "Training-Free Inference-Time Self-Reflection and Cost-Bounded Early Stopping for Large Language Models",
+        "SMTrap: Cost-Effective DoS Attacks Against Large Reasoning Models via SMT Conflict Guidance"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 34,
       "sources": 5,
       "ts": "2026-08-21T04:00:00.000Z",
       "writtenSources": 2,
@@ -48,8 +89,8 @@
     },
     {
       "cat": "funding",
-      "signal": 30,
-      "sources": 3,
+      "signal": 32,
+      "sources": 4,
       "ts": "2026-08-21T04:00:00.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -68,12 +109,16 @@
       ],
       "l": [
         {
-          "d": "reddit.com",
-          "u": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/"
+          "d": "cacm.acm.org",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU2I0aWU2Y0I1dnVKUmRFRHN3clUzSnVJWWN3cGtaZzNMMkNnZHVYT3RuVV9mdWtDeXdON0xTbHcwbnJmbzRTMzNpZllFQ0lPclNIamJjQXBFSHZSX3dRSGU5amFHVDZWN2M2Vldnc3hJamRoYnNaQWxtY0wzeXIzWDYtUQ?oc=5"
         },
         {
           "d": "simonwillison.net",
           "u": "https://simonwillison.net/2026/Aug/21/llm/"
+        },
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/"
         },
         {
           "d": "arxiv.org",
@@ -81,52 +126,15 @@
         }
       ],
       "srcTitles": [
-        "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
+        "LLMs Make Mathematics Easier. Now Raise the Bar",
         "llm 0.32.1",
         "llm-openrouter 0.7",
-        "Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs"
+        "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]"
       ]
     },
     {
       "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-08-21T04:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "EMNLP26 Cost [D]",
-      "s": "What is up with the EMNLP prices? What is the actual price for attending as a student with one accepted paper? If I register now in August, is it $350 or $550? Congratulations to everyone accepted! ht",
-      "b": [
-        "reddit.com: EMNLP26 Cost [D]",
-        "arxiv.org: Training-Free Inference-Time Self-Reflection and Cost-Bounded Early Stopping for Large Language Models",
-        "arxiv.org: SMTrap: Cost-Effective DoS Attacks Against Large Reasoning Models via SMT Conflict Guidance"
-      ],
-      "body": [
-        "reddit.com: What is up with the EMNLP prices? What is the actual price for attending as a student with one accepted paper? If I register now in August, is it $350 or $550? Congratulations to everyone accepted! https://preview.redd.it/to16g93h7rkh1.png?width=667 format=png auto=webp s=566162320e8adc161ab3a3772988c6ea64d8be6d submitted by /u/No_Sky9786 [link] [comments]",
-        "arxiv.org: arXiv:2608.18884v1 Announce Type: new Abstract: Reinforcement-learning training of reasoning LLMs (e.g., GRPO) is expensive and requires a controllable environment, committing every contribution to a full training pipeline. We present EvoResearcher, a training-free, inference-time protocol that adds cost-bounded self-reflection to a single frozen LLM backbone. The protocol iterates generate -> self-critique -> revise until a maximum depth D is reached or the critique returns the CONFIRMED sentinel, an implicit early stop that lets the backbone self-verify its answer under a strict compute budget. Four self-reflective meta-reward components (correctness, efficiency, reflection depth, tool-call diversity) act as design principles instantiated as prompt-level mechanisms, so their benefits accrue with zero gradient updates. We validate the protocol on Big-Bench Hard (100 questions) and establish cross-domain behavior on GSM8K (500) and MATH (500) on the same frozen backbone, with cross-model replication on Qwen2.5-72B. All experiments use pure-reasoning benchmarks; the tool-call diversity component is validated in prompt-level form, and the environment-level and multi-agent extensions are design blueprints left to future work. On clean BBH the protocol does not raise accuracy beyond the 95% Wilson interval; its value is cost-bounded self-verification, with the CONFIRMED early stop terminating 82-88% of items at equal accuracy (about 2.1 generations per question).",
-        "arxiv.org: arXiv:2608.18921v1 Announce Type: cross Abstract: Existing LRM-DoS methods rely heavily on model feedback to synthesize attack queries, requiring either repeated queries to the target model or training a dedicated attack model. These expensive operations severely weaken attack leverage. In this paper, we propose \\emph{search amplification}, a novel, model-feedback-free LRM-DoS paradigm. It employs the conflict count derived from an Satisfiability Modulo Theories (SMT) solver as a low-cost external signal to guide the synthesis of inference-heavy Constraint Satisfaction Problem (CSP) instances. Our key observation is that LRMs depend on trial-and-backtracking search when solving CSPs, where higher SMT conflict counts on a given CSP instance positively correlate with more extensive LRM backtracking search and substantially longer output trajectories. Building on this finding, we propose \\textsc{SMTrap}, a lightweight, CPU-only framework. Guided by SMT conflict counts, \\textsc{SMTrap} generates inference-heavy CSP queries without model queries, attack-model training, or GPU computation. Evaluations across seven frontier models demonstrate the state-of-the-art LRM-DoS capability of \\textsc{SMTrap}, producing DoS effects multiple times stronger than existing baselines. To mitigate the threat of \\textsc{SMTrap}, we demonstrate a tool-based mitigation that significantly cuts token usage.",
-        "arxiv.org: arXiv:2607.16230v2 Announce Type: replace-cross Abstract: Accurate pre-order shipping cost estimation is important in e-commerce because it affects price presentation, margin planning, and conversion. In practice, shipping cost is shaped not only by distance but also by destination demand mix, billable weight, dimensional pricing, surcharge triggers, and latent operational effects such as shipment consolidation. Static lookup methods therefore miss important sources of variation, while monolithic regressors may exploit strong but non-causal correlations. We propose RouteCost, a production-inspired multi-stage framework that decomposes the problem into time-aware demand forecasting, fee-card-informed baseline pricing, Stage 2 residual correction, and proxy-based box-consolidation inference. Route-level cost estimates are aggregated through a route-weighted expectation formulation to produce product-level shipping cost predictions. Across over 250,000 orders, 260 products, and 18 months of order history, the framework improves predictive quality and aggregate calibration while preserving route-level interpretability."
-      ],
-      "l": [
-        {
-          "d": "reddit.com",
-          "u": "https://www.reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d/"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2608.18884"
-        }
-      ],
-      "srcTitles": [
-        "EMNLP26 Cost [D]",
-        "Training-Free Inference-Time Self-Reflection and Cost-Bounded Early Stopping for Large Language Models",
-        "SMTrap: Cost-Effective DoS Attacks Against Large Reasoning Models via SMT Conflict Guidance",
-        "RouteCost: A Production-Inspired Multi-Stage Framework for Pre-Order Shipping Cost Estimation in E-Commerce"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 25,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-08-21T18:29:00.000Z",
       "writtenSources": 2,
@@ -157,33 +165,40 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-08-21T11:59:48.000Z",
-      "writtenSources": 1,
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-08-21T17:11:00.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "s": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "h": "MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers",
+      "s": "MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers The Washington Post",
       "b": [
-        "deepmind.google: From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+        "washingtonpost.com: MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers",
+        "usnews.com: MAHA Activists Urge Trump Against Promoting Coal to Power Energy-Hungry AI Data Centers"
       ],
       "body": [
-        "deepmind.google: Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+        "washingtonpost.com: MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers The Washington Post",
+        "usnews.com: MAHA Activists Urge Trump Against Promoting Coal to Power Energy-Hungry AI Data Centers U.S. News & World Report"
       ],
       "l": [
         {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcG9zRGM3TWZybS1TX3lSbEg2TjREc1lPYXk3ckhjcWNIVnpNcEY1Tlk2VnZSSWQxdkhVcjhyT1paRGZIMWJlVUh5Ul9EcXR6bllpY2RMajZwMDR2ZWtZV2VpSmNiVzl5MkNyY3RBNDNRMFlNZDlRdnhiWmM3Ujg5V2k5aDVkZEVZem4zT1luYmtySFNmdUQyQzByMnJnaDhmT1NrVnAtTHJTNFkxOVFDdFpjemdPdFJLUG9nZWtELUxJZDJNNUtfZFNiY2ZVWkE?oc=5"
+        },
+        {
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQcGlyUDBteDJURHdSUGhNelM2MXRVUWlCY19UaW5DbHMzQkx4bnNMSFVLMjJLaG5WM0duWXRHa0h6WjUwMU9QeEdfc04zMHg0c19GLUlOcGlrT0dham1NeUllMHhMMkFGU2pmQTh1bW1VTkNGQkNlOUNDYlJrUFIyQ1RHcGRBZ2tPZTV6dE54TlZ1dVBseFN3SndsWU1aM2VwZU5Ib055Q3RacEZZWWZYMDhvVDhLNWJsVmtxZERmYlEtRTNNLUZTNUFha2xVTy1DVTBDSDJHbXBQN0Rhcm9jTlJR?oc=5"
         }
       ],
       "srcTitles": [
-        "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+        "MAHA activists urge Trump against promoting coal to power energy-hungry AI data centers",
+        "MAHA Activists Urge Trump Against Promoting Coal to Power Energy-Hungry AI Data Centers"
       ]
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-08-21T15:25:43.000Z",
       "writtenSources": 2,
@@ -214,40 +229,8 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 22,
-      "sources": 2,
-      "ts": "2026-08-21T13:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance",
-      "s": "XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance WBOC TV",
-      "b": [
-        "wboc.com: XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance",
-        "lincolnjournal.com: XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance"
-      ],
-      "body": [
-        "wboc.com: XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance WBOC TV",
-        "lincolnjournal.com: XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance lincolnjournal.com"
-      ],
-      "l": [
-        {
-          "d": "wboc.com",
-          "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOaUtBUGdQWHB3anNicTd6ZVljUE1qdWlLOXg4WTU0dWd6aDFOWFRiU0lUanZRV0lxVmxMWDA0RWNFNk9RT29vbWI4S1VVX1RmTFV2UEtfWVREWGpualVYWWc4Zzg3WFAtcWdXendKd1RIRGdBQVVmZ09vbVZEOGtoY3RKUlFCcGUzaVR2eDRXM0s5ZWx4WFRiZlRXSFVRSHJFaU8yQ01ZZVM0UW9HblV2OWdaMm1NVjN3WHNSTjFabk1CX0RFTVJyMUJCTjlOdmFQZ1lTT1ZTdThZalpubi1qY1R6bWlrVjlTdUVlYUN2STZBQURadWUwcmYzQ3h5RjNwSWRxZDhGUmswUlUzbGRmY0pB?oc=5"
-        },
-        {
-          "d": "lincolnjournal.com",
-          "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOSGp2X2hMVEdLbmx2R3g0dGtjRmVHelFOa20xZklUVmEyQUV1dTVzSVZER012dzNNR2hzVVJKRE5HZ2t2d2pROFVkVm1iaEFDVUJVTnpfSG0tdnYyenYtX254YWJZckc1d3pNRC1ZWm84cXprU1dZdTlaNkRVTFQ2N2M0R1JhQ1QxOHFEN0F0OXUwM3pUOXZoYkVJU0hfa2NBbHlCV1ljUmFRUDc4ZGN3Mmg4OXlaOW4yWjhsWTEtX1k2QUVpVW9UVEhvQmlsbGJoLWtaQUJlajNpVC10Z0xIWHlLalJaRm92Y0Y0MWNtcjYyMTVtQkViWjdjNHoxcGVSMm1oM1c4MFU4UC10S2x6S3BkU2NZWFBXNWh2NWo4dw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance",
-        "XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 22,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-08-21T11:15:00.000Z",
       "writtenSources": 2,
@@ -279,7 +262,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-08-21T07:55:00.000Z",
       "writtenSources": 3,
@@ -309,6 +292,63 @@
       "srcTitles": [
         "These 3 Artificial Intelligence Stocks Can Double by the End of 2027",
         "These 3 Artificial Intelligence Stocks Can Double by the End of 2027"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-21T11:59:48.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "s": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "b": [
+        "deepmind.google: From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+      ],
+      "body": [
+        "deepmind.google: Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+        }
+      ],
+      "srcTitles": [
+        "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 18,
+      "sources": 2,
+      "ts": "2026-08-21T13:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance",
+      "s": "XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance WBOC TV",
+      "b": [
+        "wboc.com: XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance",
+        "lincolnjournal.com: XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance"
+      ],
+      "body": [
+        "wboc.com: XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance WBOC TV",
+        "lincolnjournal.com: XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance lincolnjournal.com"
+      ],
+      "l": [
+        {
+          "d": "wboc.com",
+          "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOaUtBUGdQWHB3anNicTd6ZVljUE1qdWlLOXg4WTU0dWd6aDFOWFRiU0lUanZRV0lxVmxMWDA0RWNFNk9RT29vbWI4S1VVX1RmTFV2UEtfWVREWGpualVYWWc4Zzg3WFAtcWdXendKd1RIRGdBQVVmZ09vbVZEOGtoY3RKUlFCcGUzaVR2eDRXM0s5ZWx4WFRiZlRXSFVRSHJFaU8yQ01ZZVM0UW9HblV2OWdaMm1NVjN3WHNSTjFabk1CX0RFTVJyMUJCTjlOdmFQZ1lTT1ZTdThZalpubi1qY1R6bWlrVjlTdUVlYUN2STZBQURadWUwcmYzQ3h5RjNwSWRxZDhGUmswUlUzbGRmY0pB?oc=5"
+        },
+        {
+          "d": "lincolnjournal.com",
+          "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOSGp2X2hMVEdLbmx2R3g0dGtjRmVHelFOa20xZklUVmEyQUV1dTVzSVZER012dzNNR2hzVVJKRE5HZ2t2d2pROFVkVm1iaEFDVUJVTnpfSG0tdnYyenYtX254YWJZckc1d3pNRC1ZWm84cXprU1dZdTlaNkRVTFQ2N2M0R1JhQ1QxOHFEN0F0OXUwM3pUOXZoYkVJU0hfa2NBbHlCV1ljUmFRUDc4ZGN3Mmg4OXlaOW4yWjhsWTEtX1k2QUVpVW9UVEhvQmlsbGJoLWtaQUJlajNpVC10Z0xIWHlLalJaRm92Y0Y0MWNtcjYyMTVtQkViWjdjNHoxcGVSMm1oM1c4MFU4UC10S2x6S3BkU2NZWFBXNWh2NWo4dw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance",
+        "XRPPower: Artificial Intelligence Robots Are Changing the Future of Digital Finance"
       ]
     },
     {
