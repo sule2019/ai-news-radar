@@ -3,48 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 52,
-      "sources": 3,
-      "ts": "2026-08-21T04:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "EMNLP26 Cost [D]",
-      "s": "What is up with the EMNLP prices? What is the actual price for attending as a student with one accepted paper? If I register now in August, is it $350 or $550? Congratulations to everyone accepted! ht",
-      "b": [
-        "reddit.com: EMNLP26 Cost [D]",
-        "arxiv.org: Training-Free Inference-Time Self-Reflection and Cost-Bounded Early Stopping for Large Language Models",
-        "arxiv.org: SMTrap: Cost-Effective DoS Attacks Against Large Reasoning Models via SMT Conflict Guidance"
-      ],
-      "body": [
-        "reddit.com: What is up with the EMNLP prices? What is the actual price for attending as a student with one accepted paper? If I register now in August, is it $350 or $550? Congratulations to everyone accepted! https://preview.redd.it/to16g93h7rkh1.png?width=667 format=png auto=webp s=566162320e8adc161ab3a3772988c6ea64d8be6d submitted by /u/No_Sky9786 [link] [comments]",
-        "arxiv.org: arXiv:2608.18884v1 Announce Type: new Abstract: Reinforcement-learning training of reasoning LLMs (e.g., GRPO) is expensive and requires a controllable environment, committing every contribution to a full training pipeline. We present EvoResearcher, a training-free, inference-time protocol that adds cost-bounded self-reflection to a single frozen LLM backbone. The protocol iterates generate -> self-critique -> revise until a maximum depth D is reached or the critique returns the CONFIRMED sentinel, an implicit early stop that lets the backbone self-verify its answer under a strict compute budget. Four self-reflective meta-reward components (correctness, efficiency, reflection depth, tool-call diversity) act as design principles instantiated as prompt-level mechanisms, so their benefits accrue with zero gradient updates. We validate the protocol on Big-Bench Hard (100 questions) and establish cross-domain behavior on GSM8K (500) and MATH (500) on the same frozen backbone, with cross-model replication on Qwen2.5-72B. All experiments use pure-reasoning benchmarks; the tool-call diversity component is validated in prompt-level form, and the environment-level and multi-agent extensions are design blueprints left to future work. On clean BBH the protocol does not raise accuracy beyond the 95% Wilson interval; its value is cost-bounded self-verification, with the CONFIRMED early stop terminating 82-88% of items at equal accuracy (about 2.1 generations per question).",
-        "arxiv.org: arXiv:2608.18921v1 Announce Type: cross Abstract: Existing LRM-DoS methods rely heavily on model feedback to synthesize attack queries, requiring either repeated queries to the target model or training a dedicated attack model. These expensive operations severely weaken attack leverage. In this paper, we propose \\emph{search amplification}, a novel, model-feedback-free LRM-DoS paradigm. It employs the conflict count derived from an Satisfiability Modulo Theories (SMT) solver as a low-cost external signal to guide the synthesis of inference-heavy Constraint Satisfaction Problem (CSP) instances. Our key observation is that LRMs depend on trial-and-backtracking search when solving CSPs, where higher SMT conflict counts on a given CSP instance positively correlate with more extensive LRM backtracking search and substantially longer output trajectories. Building on this finding, we propose \\textsc{SMTrap}, a lightweight, CPU-only framework. Guided by SMT conflict counts, \\textsc{SMTrap} generates inference-heavy CSP queries without model queries, attack-model training, or GPU computation. Evaluations across seven frontier models demonstrate the state-of-the-art LRM-DoS capability of \\textsc{SMTrap}, producing DoS effects multiple times stronger than existing baselines. To mitigate the threat of \\textsc{SMTrap}, we demonstrate a tool-based mitigation that significantly cuts token usage.",
-        "arxiv.org: arXiv:2607.16230v2 Announce Type: replace-cross Abstract: Accurate pre-order shipping cost estimation is important in e-commerce because it affects price presentation, margin planning, and conversion. In practice, shipping cost is shaped not only by distance but also by destination demand mix, billable weight, dimensional pricing, surcharge triggers, and latent operational effects such as shipment consolidation. Static lookup methods therefore miss important sources of variation, while monolithic regressors may exploit strong but non-causal correlations. We propose RouteCost, a production-inspired multi-stage framework that decomposes the problem into time-aware demand forecasting, fee-card-informed baseline pricing, Stage 2 residual correction, and proxy-based box-consolidation inference. Route-level cost estimates are aggregated through a route-weighted expectation formulation to produce product-level shipping cost predictions. Across over 250,000 orders, 260 products, and 18 months of order history, the framework improves predictive quality and aggregate calibration while preserving route-level interpretability."
-      ],
-      "l": [
-        {
-          "d": "aws.amazon.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON1J6SnhrQ0J6UWlDcVlsUkM1WHE4aVdSS2RoaXl2V3g0ak9CSllrMHBFYnQ2d3ZQMGN0djVCbGNPcTdUWFRUR0VDRTRlLXkwQngwZTJUZXdaNU1CdmhkNHV0Q1VXTE80SnJIV2NnZE95RU9lWjZObENSRUdqTVNGU3hEX0pxaHRpVGdTLTlXWThvWXhXdVU3d2lqWFJHNjJLbG9jOHJYemRfb21NVVRj?oc=5"
-        },
-        {
-          "d": "reddit.com",
-          "u": "https://www.reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d/"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2608.18884"
-        }
-      ],
-      "srcTitles": [
-        "Reduce RAG costs on Amazon Bedrock with query-aware compression",
-        "EMNLP26 Cost [D]",
-        "Training-Free Inference-Time Self-Reflection and Cost-Bounded Early Stopping for Large Language Models",
-        "SMTrap: Cost-Effective DoS Attacks Against Large Reasoning Models via SMT Conflict Guidance"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 34,
+      "signal": 30,
       "sources": 5,
       "ts": "2026-08-21T04:00:00.000Z",
       "writtenSources": 2,
@@ -88,8 +47,86 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-08-21T04:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
+      "s": "LLMs are too verbose and with a black box model the only things you control are what goes in and how you tell it to write back. Yesterday Claude Code shipped a concise output style where Claude keeps ",
+      "b": [
+        "reddit.com: Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
+        "simonwillison.net: llm 0.32.1",
+        "simonwillison.net: llm-openrouter 0.7"
+      ],
+      "body": [
+        "reddit.com: LLMs are too verbose and with a black box model the only things you control are what goes in and how you tell it to write back. Yesterday Claude Code shipped a concise output style where Claude keeps things short. We already have a paper out about this! We tested both channels, shortening the input prompt versus telling the model to output answer shorter, on the same questions across five reduction levels, and scored cost, accuracy, and whether the shortened text still matched what the model would have said unconstrained. We also evaluated GPT-4o, GPT-5.4, Claude Haiku 4.5, Claude Sonnet 4.6, Qwen2.5-VL-7B, Qwen3.5-9B, DeepSeek-R1-Distill, Gemma-4-E4B, and Kimi-K2.6 + benchmarked on five short answer datasets + a eleven-language output run (English, German, Spanish, French, Swahili, Chinese, Japanese, Russian, Bengali, Thai, Telugu) + a longer-form summarization test. (1) Shortening the output saved money while keeping accuracy about the same, about 1.5x cheaper on average and up to 3x in the best case across the API models. It worked across languages too! (2) Shortening the input prompt did the opposite. It cost up to 96% more on the worst benchmark, because the model just answers longer to fill in for what you cut and accuracy drops. You pay more and get worse answers :( (3)Output tokens cost more than input tokens, so prompting for fewer output tokens would save costs with short single turn tasks (4) When the shortened output is correct, about half the time the text no longer matches how the model would have reasoned without the constraint. Which is probably fine if you only care about the final answer With providers now offering concise options, we can t see how they re charging for it, so we don t know if it actually saves you cost. But if you control the prompting yourself via the API, you actually do save!! Paper https://www.alphaxiv.org/pdf/2606.24083v1 Code + data https://github.com/danielle34/cavewoman submitted by /u/ibubbles34 [link] [comments]",
+        "simonwillison.net: Release: llm 0.32.1 Fresh installs of LLM stopped working the other day because the OpenAI Python library dropped its usage of httpx , and it turned out LLM depended on that library but only installed it via a transitive openai dependency. This dot-release fixes that for the moment by pinning to openai 3 , and a soon-to-drop 0.33 release will switch from httpx to httpx2 . Tags: httpx , openai , llm",
+        "simonwillison.net: Release: llm-openrouter 0.7 Now that this plugin is compatible with LLM 0.32 it works much better with reasoning LLMs available through OpenRouter. Updated for compatibility with LLM 0.32 . Models now use OpenRouter's implementation of the Responses API . Three new server-side tools: Shell , WebFetch , and WebSearch . Enable these with options like -T WebSearch . Tags: llm , openrouter",
+        "arxiv.org: arXiv:2608.18131v1 Announce Type: new Abstract: Current safety alignment training for Large Language Models (LLMs) are heavily English-centric. When such safety filters fail for non-English languages, the consequences are immediate and user-facing: voice assistants and spoken dialogue systems may produce stereotype-reinforcing outputs, bypassing the standard English-focused safety alignments and propagating harmful bias to non-English speaking communities. For spoken language technologies deployed across India's linguistically diverse population, this represents a critical failure mode. To address this cross-lingual gap, we introduce INCLUDE (Indian Cultural Lens for Understanding and Detecting Embedded Biases), a multilingual evaluation benchmark designed to quantify Indian-centric socio-cultural biases. INCLUDE consists of 2,604 prompts spanning six prompt languages: English, Hindi, Bengali, Marathi, Tamil, and Hinglish (Hindi-English code-mix). We evaluate ten open- and closed-source LLMs against this benchmark, analyzing 14,988 bias scores. Our statistical results reveal two key findings. First, Bengali yielded the highest average bias score in open-source models. Second, English demonstrated a notable reversal, producing the lowest bias in open-source models but the highest bias in closed-source models."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1vulfei/does_telling_an_llm_to_be_concise_actually_save/"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Aug/21/llm/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.18131"
+        }
+      ],
+      "srcTitles": [
+        "Does telling an LLM to \"be concise\" actually save you money? We measured it across 9 models. Compressing the output can save you money and keep accuracy, compressing the input prompt does not. [R]",
+        "llm 0.32.1",
+        "llm-openrouter 0.7",
+        "Safety Alignment Illusion: The Cross-Lingual Safety Gap in LLMs"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 29,
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-21T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "EMNLP26 Cost [D]",
+      "s": "What is up with the EMNLP prices? What is the actual price for attending as a student with one accepted paper? If I register now in August, is it $350 or $550? Congratulations to everyone accepted! ht",
+      "b": [
+        "reddit.com: EMNLP26 Cost [D]",
+        "arxiv.org: Training-Free Inference-Time Self-Reflection and Cost-Bounded Early Stopping for Large Language Models",
+        "arxiv.org: SMTrap: Cost-Effective DoS Attacks Against Large Reasoning Models via SMT Conflict Guidance"
+      ],
+      "body": [
+        "reddit.com: What is up with the EMNLP prices? What is the actual price for attending as a student with one accepted paper? If I register now in August, is it $350 or $550? Congratulations to everyone accepted! https://preview.redd.it/to16g93h7rkh1.png?width=667 format=png auto=webp s=566162320e8adc161ab3a3772988c6ea64d8be6d submitted by /u/No_Sky9786 [link] [comments]",
+        "arxiv.org: arXiv:2608.18884v1 Announce Type: new Abstract: Reinforcement-learning training of reasoning LLMs (e.g., GRPO) is expensive and requires a controllable environment, committing every contribution to a full training pipeline. We present EvoResearcher, a training-free, inference-time protocol that adds cost-bounded self-reflection to a single frozen LLM backbone. The protocol iterates generate -> self-critique -> revise until a maximum depth D is reached or the critique returns the CONFIRMED sentinel, an implicit early stop that lets the backbone self-verify its answer under a strict compute budget. Four self-reflective meta-reward components (correctness, efficiency, reflection depth, tool-call diversity) act as design principles instantiated as prompt-level mechanisms, so their benefits accrue with zero gradient updates. We validate the protocol on Big-Bench Hard (100 questions) and establish cross-domain behavior on GSM8K (500) and MATH (500) on the same frozen backbone, with cross-model replication on Qwen2.5-72B. All experiments use pure-reasoning benchmarks; the tool-call diversity component is validated in prompt-level form, and the environment-level and multi-agent extensions are design blueprints left to future work. On clean BBH the protocol does not raise accuracy beyond the 95% Wilson interval; its value is cost-bounded self-verification, with the CONFIRMED early stop terminating 82-88% of items at equal accuracy (about 2.1 generations per question).",
+        "arxiv.org: arXiv:2608.18921v1 Announce Type: cross Abstract: Existing LRM-DoS methods rely heavily on model feedback to synthesize attack queries, requiring either repeated queries to the target model or training a dedicated attack model. These expensive operations severely weaken attack leverage. In this paper, we propose \\emph{search amplification}, a novel, model-feedback-free LRM-DoS paradigm. It employs the conflict count derived from an Satisfiability Modulo Theories (SMT) solver as a low-cost external signal to guide the synthesis of inference-heavy Constraint Satisfaction Problem (CSP) instances. Our key observation is that LRMs depend on trial-and-backtracking search when solving CSPs, where higher SMT conflict counts on a given CSP instance positively correlate with more extensive LRM backtracking search and substantially longer output trajectories. Building on this finding, we propose \\textsc{SMTrap}, a lightweight, CPU-only framework. Guided by SMT conflict counts, \\textsc{SMTrap} generates inference-heavy CSP queries without model queries, attack-model training, or GPU computation. Evaluations across seven frontier models demonstrate the state-of-the-art LRM-DoS capability of \\textsc{SMTrap}, producing DoS effects multiple times stronger than existing baselines. To mitigate the threat of \\textsc{SMTrap}, we demonstrate a tool-based mitigation that significantly cuts token usage.",
+        "arxiv.org: arXiv:2607.16230v2 Announce Type: replace-cross Abstract: Accurate pre-order shipping cost estimation is important in e-commerce because it affects price presentation, margin planning, and conversion. In practice, shipping cost is shaped not only by distance but also by destination demand mix, billable weight, dimensional pricing, surcharge triggers, and latent operational effects such as shipment consolidation. Static lookup methods therefore miss important sources of variation, while monolithic regressors may exploit strong but non-causal correlations. We propose RouteCost, a production-inspired multi-stage framework that decomposes the problem into time-aware demand forecasting, fee-card-informed baseline pricing, Stage 2 residual correction, and proxy-based box-consolidation inference. Route-level cost estimates are aggregated through a route-weighted expectation formulation to produce product-level shipping cost predictions. Across over 250,000 orders, 260 products, and 18 months of order history, the framework improves predictive quality and aggregate calibration while preserving route-level interpretability."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1vul1fw/emnlp26_cost_d/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.18884"
+        }
+      ],
+      "srcTitles": [
+        "EMNLP26 Cost [D]",
+        "Training-Free Inference-Time Self-Reflection and Cost-Bounded Early Stopping for Large Language Models",
+        "SMTrap: Cost-Effective DoS Attacks Against Large Reasoning Models via SMT Conflict Guidance",
+        "RouteCost: A Production-Inspired Multi-Stage Framework for Pre-Order Shipping Cost Estimation in E-Commerce"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 25,
       "sources": 2,
       "ts": "2026-08-21T18:29:00.000Z",
       "writtenSources": 2,
@@ -120,8 +157,33 @@
       ]
     },
     {
+      "cat": "research",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-21T11:59:48.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "s": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "b": [
+        "deepmind.google: From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+      ],
+      "body": [
+        "deepmind.google: Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+        }
+      ],
+      "srcTitles": [
+        "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-08-21T15:25:43.000Z",
       "writtenSources": 2,
@@ -153,7 +215,7 @@
     },
     {
       "cat": "products",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-08-21T13:00:00.000Z",
       "writtenSources": 2,
@@ -185,7 +247,7 @@
     },
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-08-21T11:15:00.000Z",
       "writtenSources": 2,
@@ -217,7 +279,7 @@
     },
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-08-21T07:55:00.000Z",
       "writtenSources": 3,
@@ -250,65 +312,8 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-08-21T11:59:48.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "s": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "b": [
-        "deepmind.google: From Atari to EVE Online: Building on 15 Years of AI Research in Games"
-      ],
-      "body": [
-        "deepmind.google: Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
-      ],
-      "l": [
-        {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
-        }
-      ],
-      "srcTitles": [
-        "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 18,
-      "sources": 2,
-      "ts": "2026-08-21T09:49:09.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Pope Leo XIV: In age of AI, the family is the first school of humanity",
-      "s": "Pope Leo XIV: In age of AI, the family is the first school of humanity Vatican News",
-      "b": [
-        "vaticannews.va: Pope Leo XIV: In age of AI, the family is the first school of humanity",
-        "infovaticana.com: Pope Leo XIV calls on legislators to protect marriage and the family in the face of the advance of artificial intelligence"
-      ],
-      "body": [
-        "vaticannews.va: Pope Leo XIV: In age of AI, the family is the first school of humanity Vatican News",
-        "infovaticana.com: Pope Leo XIV calls on legislators to protect marriage and the family in the face of the advance of artificial intelligence infovaticana"
-      ],
-      "l": [
-        {
-          "d": "vaticannews.va",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXZ2bG5BUTNoM2RTQ3pUVUVjdkFvd2tkNTNnLTRyUm1GdDl6dGpNZVgxUTl2cnlHakVTZ19zLThMZ2p1QlpueHo0bFRWdVNvQUdGYk9KT2QxNlZEVmw5S1FrbE5KWE5Edk94ME5HZWJWWnRwRE5raHBlNTltU0hybGkyZjM4V1BVTzJuaWtYdENLTmcydnp3WEpOR1FxdEhuQ2VoU2RKSlQ1WVZ5ZUJSdjhCZw?oc=5"
-        },
-        {
-          "d": "infovaticana.com",
-          "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS1loZFZzWFBFSjRtV3ZkaER3alRyYUszWkdyZDcyWGRmYTZENEtmWlp4MUxUMzQxenFhQTVzTHlMQThkVTNoZ2VpNkpDR3o3WnJBdDBJRVczVHNwTjB6eUVhSWVQUEZrTFlvTkRkRDlVU3JqRUVlUGZGYVZWOUdpZmhkdzhHT3YwNU1aVkhiWEJVTTNpVjgtVnB5NWtwZnl1b0NGZ2tFcl9INDlXQmJBVWFzaGhBOU9EalJSMVozQUN6T3g5OVZ6VnNMeU9FSktSQ1NkQjFvMXdIQmlXX0dQUzRPcU5iYVp2?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Pope Leo XIV: In age of AI, the family is the first school of humanity",
-        "Pope Leo XIV calls on legislators to protect marriage and the family in the face of the advance of artificial intelligence"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 16,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-21T11:23:41.000Z",
       "writtenSources": 2,
@@ -336,6 +341,38 @@
       "srcTitles": [
         "Salesforce wants to move AI coding into a shared workspace with Slack Code",
         "New ‘Slack Code’ turns AI coding into a team activity"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-08-21T09:49:09.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Pope Leo XIV: In age of AI, the family is the first school of humanity",
+      "s": "Pope Leo XIV: In age of AI, the family is the first school of humanity Vatican News",
+      "b": [
+        "vaticannews.va: Pope Leo XIV: In age of AI, the family is the first school of humanity",
+        "infovaticana.com: Pope Leo XIV calls on legislators to protect marriage and the family in the face of the advance of artificial intelligence"
+      ],
+      "body": [
+        "vaticannews.va: Pope Leo XIV: In age of AI, the family is the first school of humanity Vatican News",
+        "infovaticana.com: Pope Leo XIV calls on legislators to protect marriage and the family in the face of the advance of artificial intelligence infovaticana"
+      ],
+      "l": [
+        {
+          "d": "vaticannews.va",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXZ2bG5BUTNoM2RTQ3pUVUVjdkFvd2tkNTNnLTRyUm1GdDl6dGpNZVgxUTl2cnlHakVTZ19zLThMZ2p1QlpueHo0bFRWdVNvQUdGYk9KT2QxNlZEVmw5S1FrbE5KWE5Edk94ME5HZWJWWnRwRE5raHBlNTltU0hybGkyZjM4V1BVTzJuaWtYdENLTmcydnp3WEpOR1FxdEhuQ2VoU2RKSlQ1WVZ5ZUJSdjhCZw?oc=5"
+        },
+        {
+          "d": "infovaticana.com",
+          "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS1loZFZzWFBFSjRtV3ZkaER3alRyYUszWkdyZDcyWGRmYTZENEtmWlp4MUxUMzQxenFhQTVzTHlMQThkVTNoZ2VpNkpDR3o3WnJBdDBJRVczVHNwTjB6eUVhSWVQUEZrTFlvTkRkRDlVU3JqRUVlUGZGYVZWOUdpZmhkdzhHT3YwNU1aVkhiWEJVTTNpVjgtVnB5NWtwZnl1b0NGZ2tFcl9INDlXQmJBVWFzaGhBOU9EalJSMVozQUN6T3g5OVZ6VnNMeU9FSktSQ1NkQjFvMXdIQmlXX0dQUzRPcU5iYVp2?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Pope Leo XIV: In age of AI, the family is the first school of humanity",
+        "Pope Leo XIV calls on legislators to protect marriage and the family in the face of the advance of artificial intelligence"
       ]
     },
     {
