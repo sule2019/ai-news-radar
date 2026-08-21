@@ -137,8 +137,33 @@
       ]
     },
     {
+      "cat": "research",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-08-21T11:59:48.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "s": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "b": [
+        "deepmind.google: From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+      ],
+      "body": [
+        "deepmind.google: Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+        }
+      ],
+      "srcTitles": [
+        "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 29,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-08-21T09:49:09.000Z",
       "writtenSources": 2,
@@ -166,31 +191,6 @@
       "srcTitles": [
         "Pope Leo XIV: In age of AI, the family is the first school of humanity",
         "Pope Leo XIV calls on legislators to protect marriage and the family in the face of the advance of artificial intelligence"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-08-21T11:59:48.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "s": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "b": [
-        "deepmind.google: From Atari to EVE Online: Building on 15 Years of AI Research in Games"
-      ],
-      "body": [
-        "deepmind.google: Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
-      ],
-      "l": [
-        {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
-        }
-      ],
-      "srcTitles": [
-        "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
       ]
     },
     {
