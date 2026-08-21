@@ -105,31 +105,6 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 30,
-      "sources": 1,
-      "ts": "2026-08-21T11:59:48.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "s": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "b": [
-        "deepmind.google: From Atari to EVE Online: Building on 15 Years of AI Research in Games"
-      ],
-      "body": [
-        "deepmind.google: Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
-      ],
-      "l": [
-        {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
-        }
-      ],
-      "srcTitles": [
-        "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 29,
       "sources": 2,
@@ -162,35 +137,28 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 29,
-      "sources": 2,
-      "ts": "2026-08-21T09:49:09.000Z",
-      "writtenSources": 2,
+      "cat": "research",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-08-21T11:59:48.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "Pope Leo XIV: In age of AI, the family is the first school of humanity",
-      "s": "Pope Leo XIV: In age of AI, the family is the first school of humanity Vatican News",
+      "h": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "s": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
       "b": [
-        "vaticannews.va: Pope Leo XIV: In age of AI, the family is the first school of humanity",
-        "infovaticana.com: Pope Leo XIV calls on legislators to protect marriage and the family in the face of the advance of artificial intelligence"
+        "deepmind.google: From Atari to EVE Online: Building on 15 Years of AI Research in Games"
       ],
       "body": [
-        "vaticannews.va: Pope Leo XIV: In age of AI, the family is the first school of humanity Vatican News",
-        "infovaticana.com: Pope Leo XIV calls on legislators to protect marriage and the family in the face of the advance of artificial intelligence infovaticana"
+        "deepmind.google: Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
       ],
       "l": [
         {
-          "d": "vaticannews.va",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXZ2bG5BUTNoM2RTQ3pUVUVjdkFvd2tkNTNnLTRyUm1GdDl6dGpNZVgxUTl2cnlHakVTZ19zLThMZ2p1QlpueHo0bFRWdVNvQUdGYk9KT2QxNlZEVmw5S1FrbE5KWE5Edk94ME5HZWJWWnRwRE5raHBlNTltU0hybGkyZjM4V1BVTzJuaWtYdENLTmcydnp3WEpOR1FxdEhuQ2VoU2RKSlQ1WVZ5ZUJSdjhCZw?oc=5"
-        },
-        {
-          "d": "infovaticana.com",
-          "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS1loZFZzWFBFSjRtV3ZkaER3alRyYUszWkdyZDcyWGRmYTZENEtmWlp4MUxUMzQxenFhQTVzTHlMQThkVTNoZ2VpNkpDR3o3WnJBdDBJRVczVHNwTjB6eUVhSWVQUEZrTFlvTkRkRDlVU3JqRUVlUGZGYVZWOUdpZmhkdzhHT3YwNU1aVkhiWEJVTTNpVjgtVnB5NWtwZnl1b0NGZ2tFcl9INDlXQmJBVWFzaGhBOU9EalJSMVozQUN6T3g5OVZ6VnNMeU9FSktSQ1NkQjFvMXdIQmlXX0dQUzRPcU5iYVp2?oc=5"
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
         }
       ],
       "srcTitles": [
-        "Pope Leo XIV: In age of AI, the family is the first school of humanity",
-        "Pope Leo XIV calls on legislators to protect marriage and the family in the face of the advance of artificial intelligence"
+        "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
       ]
     },
     {
@@ -223,6 +191,38 @@
       "srcTitles": [
         "AI companies destroy physical books – let's scan rare books before it's too late",
         "AI companies destroy physical books – let's scan rare books before it's too late"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 25,
+      "sources": 2,
+      "ts": "2026-08-21T09:49:09.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Pope Leo XIV: In age of AI, the family is the first school of humanity",
+      "s": "Pope Leo XIV: In age of AI, the family is the first school of humanity Vatican News",
+      "b": [
+        "vaticannews.va: Pope Leo XIV: In age of AI, the family is the first school of humanity",
+        "infovaticana.com: Pope Leo XIV calls on legislators to protect marriage and the family in the face of the advance of artificial intelligence"
+      ],
+      "body": [
+        "vaticannews.va: Pope Leo XIV: In age of AI, the family is the first school of humanity Vatican News",
+        "infovaticana.com: Pope Leo XIV calls on legislators to protect marriage and the family in the face of the advance of artificial intelligence infovaticana"
+      ],
+      "l": [
+        {
+          "d": "vaticannews.va",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYXZ2bG5BUTNoM2RTQ3pUVUVjdkFvd2tkNTNnLTRyUm1GdDl6dGpNZVgxUTl2cnlHakVTZ19zLThMZ2p1QlpueHo0bFRWdVNvQUdGYk9KT2QxNlZEVmw5S1FrbE5KWE5Edk94ME5HZWJWWnRwRE5raHBlNTltU0hybGkyZjM4V1BVTzJuaWtYdENLTmcydnp3WEpOR1FxdEhuQ2VoU2RKSlQ1WVZ5ZUJSdjhCZw?oc=5"
+        },
+        {
+          "d": "infovaticana.com",
+          "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOS1loZFZzWFBFSjRtV3ZkaER3alRyYUszWkdyZDcyWGRmYTZENEtmWlp4MUxUMzQxenFhQTVzTHlMQThkVTNoZ2VpNkpDR3o3WnJBdDBJRVczVHNwTjB6eUVhSWVQUEZrTFlvTkRkRDlVU3JqRUVlUGZGYVZWOUdpZmhkdzhHT3YwNU1aVkhiWEJVTTNpVjgtVnB5NWtwZnl1b0NGZ2tFcl9INDlXQmJBVWFzaGhBOU9EalJSMVozQUN6T3g5OVZ6VnNMeU9FSktSQ1NkQjFvMXdIQmlXX0dQUzRPcU5iYVp2?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Pope Leo XIV: In age of AI, the family is the first school of humanity",
+        "Pope Leo XIV calls on legislators to protect marriage and the family in the face of the advance of artificial intelligence"
       ]
     },
     {
