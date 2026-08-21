@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 52,
-      "sources": 3,
+      "signal": 54,
+      "sources": 4,
       "ts": "2026-08-21T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -33,6 +33,10 @@
         {
           "d": "arxiv.org",
           "u": "https://arxiv.org/abs/2608.18884"
+        },
+        {
+          "d": "linkedin.com",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPS1FCQm5GdWNhMnFDZDlGVHBxVVNPWjBrNmhKeDB6Q1Zla2RZRXBZalJTakMyWmR4cW1GSE8yZm9iWk5rZVZPeHlEUU9oNzAwT0dUYzVPNjhKNndJNGJ6eXpGNXlYZElVM1A0Y1lBR1J2Z1lsV2VtbzlhSVFGaTNkdkZ4ck5uSHZ6bXU2ZU41c0ViRWtoNDl6MkNEZHY5a2RMZVJkZjlTcWJYYTRkVzlIemJORFBqdWFrQm0xTGpmRVA2Y0o4REE?oc=5"
         }
       ],
       "srcTitles": [
@@ -134,6 +138,38 @@
     },
     {
       "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-08-21T20:36:35.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "From political prize to campaign liability: Data centers become a midterm battleground",
+      "s": "From political prize to campaign liability: Data centers become a midterm battleground KATU",
+      "b": [
+        "katu.com: From political prize to campaign liability: Data centers become a midterm battleground",
+        "foxbaltimore.com: From political prize to campaign liability: Data centers become a midterm battleground"
+      ],
+      "body": [
+        "katu.com: From political prize to campaign liability: Data centers become a midterm battleground KATU",
+        "foxbaltimore.com: From political prize to campaign liability: Data centers become a midterm battleground WBFF"
+      ],
+      "l": [
+        {
+          "d": "katu.com",
+          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOZEhsTFdnWGxMTVJGWVc0RGJjQm9uWF83WG43clUzampXS1N0NnpTc0hraFpzdUZJRTROT0p2X0dNa3hHNF9VNmhERVpmaXJmMVp1N3VGV0NRWU5LWWRxdEZLQUZrdlJXQ0diRFFHbnlsU284ZnJ5OGo1LU5wVmU5R1dfa2xpY0RpN2xuNFE4a1Y1NGZlSmlBclYtdEtQUHJLUWV2emN5RnRDdUNadVc1a2dPeGZQcFRLTDZ1bHFkNDVTdEJXYkhfdHFRMThlYVpy?oc=5"
+        },
+        {
+          "d": "foxbaltimore.com",
+          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZk54d25FMElEaXB0Szh2UDhqT2I3eFlQNjhBMjdxWXByYnE2SkFHZFpsTkNXamtkZ0xTY0hjOW50NzF0aTAxTGh0dUVwNmh4QXY2VjJwdDJkY2ZkaG1fZnJtd2NpQ2VJcy0zazJQdmludnRrbHdpTTBJM1I1MmJiRjYxNk4xdmJJZGVWd1ZpWGhTRXBtcHBQRGZidXZyd3ZkVGNpbkdOUmUyRWxRLVVZbi16VF91RUp1TTZnTWhWcG9uVXd5Qzc0Y0d0WEItV0xGZjZNajN4QnpkRHM?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "From political prize to campaign liability: Data centers become a midterm battleground",
+        "From political prize to campaign liability: Data centers become a midterm battleground"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 29,
       "sources": 2,
       "ts": "2026-08-21T18:29:00.000Z",
@@ -151,12 +187,12 @@
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWk5KM3VkQ2tDNjBDQnFFdmp6N3dGWjRoZFBkZzRidVFLRTJzSG0yOFlsRWY2aXdzdmRsblFFZkVpWWJkVW5zRHZBVVJjdVZObmNuTmdvcHhTNnlteVZ4cGxaVGRnWnpabnloSUJUbnJNdENKelpmMm5QX3VJT3Rua1UzZ016eU50WlhIQkx4R012OEdpaUdQSnR1ZmVSMTVvWHg0?oc=5"
-        },
-        {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUJtZi1SY2treTlDTGVvVW1JaWxVMmRONUh5ak9kLVJSend0MVlNT1gwM19tcUZVMUpEUW56ZEZDaktmLU9BUUNIZmxpZ2tXeWxTSXA3Vk5BOXRpMnEzX3BEMERqTExMTU43ZW83bGNGMTZRRWJBUDl0czFsdmthdzFrNHhhSi0wczNPZ3NGVjFnRlZwSUl6eA?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWk5KM3VkQ2tDNjBDQnFFdmp6N3dGWjRoZFBkZzRidVFLRTJzSG0yOFlsRWY2aXdzdmRsblFFZkVpWWJkVW5zRHZBVVJjdVZObmNuTmdvcHhTNnlteVZ4cGxaVGRnWnpabnloSUJUbnJNdENKelpmMm5QX3VJT3Rua1UzZ016eU50WlhIQkx4R012OEdpaUdQSnR1ZmVSMTVvWHg0?oc=5"
         }
       ],
       "srcTitles": [
@@ -183,8 +219,8 @@
       ],
       "l": [
         {
-          "d": "washingtonpost.com",
-          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcG9zRGM3TWZybS1TX3lSbEg2TjREc1lPYXk3ckhjcWNIVnpNcEY1Tlk2VnZSSWQxdkhVcjhyT1paRGZIMWJlVUh5Ul9EcXR6bllpY2RMajZwMDR2ZWtZV2VpSmNiVzl5MkNyY3RBNDNRMFlNZDlRdnhiWmM3Ujg5V2k5aDVkZEVZem4zT1luYmtySFNmdUQyQzByMnJnaDhmT1NrVnAtTHJTNFkxOVFDdFpjemdPdFJLUG9nZWtELUxJZDJNNUtfZFNiY2ZVWkE?oc=5"
+          "d": "bostonherald.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZG9yRXJ1REx2UVVMZDY1NXh1dmR0MDdxTmtlOGJkTEJwVGkxZThvOVNpSDFzSjlvM0ZNVVY2QkhLdW1BdURFdXVobGVhdmFsQkFfRm92QWx4bzdObmRmVVczcnhXSzMxbG5CRHdlaEszNnZlS0VXV2lWMGViRExvdm5XQlJRNjZaUXFMd29qNk1PUElfZUwweXNDZWF5cDAxWGFJWHZFOU5ITEx0X2lTNGg2cTJ4MTkwVEUwblc1RVZvclVxa2Vz?oc=5"
         },
         {
           "d": "usnews.com",
@@ -321,7 +357,7 @@
     },
     {
       "cat": "products",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-21T13:00:00.000Z",
       "writtenSources": 2,
