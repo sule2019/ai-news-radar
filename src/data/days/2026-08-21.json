@@ -80,6 +80,38 @@
     },
     {
       "cat": "funding",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-08-21T22:39:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival",
+      "s": "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival",
+        "fool.com: Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival"
+      ],
+      "body": [
+        "finance.yahoo.com: Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival Yahoo Finance",
+        "fool.com: Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSUdiQk14NjZuRmtISzVER245ajNkZFRFVGZxcTBMT1h3OUtfcXFFRmtkZ09IcENxaGdsZUprbloza3Q2dmN0YUF6SnQxck95RERtNVpIbERpUXJZT0VZTFNRVW9aY2lYS1kwMkZ6V3lDVExsQmlmbWlPZDEwZV9lcmlaRmtnWlBpTFAyUGJpcmU5M2UwTGpsUG9iM0swZnp5?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeVBSdzlYRm02R001NkZfTWJ0bU9NY0k4LWhRUG04TE13Tmp5bkdXVkIyV0JzeTVBVHZDWjNPMTd2NjBwNVRiaVVmVGwyTFpETU1PWi1wWjlJT3hJZmVMN1JEck56dUtJYnMtTXN0aXg2MXNJTHhGYlo4Z3Z1NWRwQkViSkoyR1V1MUhETFBBOEVuUGR1bVNXeg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival",
+        "Billionaire David Tepper Piled Into a Debt-Laden Artificial Intelligence (AI) Neocloud Stock in Q2 While Also Increasing His Stake in Its Newest Rival"
+      ]
+    },
+    {
+      "cat": "funding",
       "signal": 30,
       "sources": 3,
       "ts": "2026-08-21T04:00:00.000Z",
@@ -121,7 +153,7 @@
     },
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-08-21T18:29:00.000Z",
       "writtenSources": 2,
@@ -314,8 +346,33 @@
       ]
     },
     {
+      "cat": "research",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-21T11:59:48.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "s": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "b": [
+        "deepmind.google: From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+      ],
+      "body": [
+        "deepmind.google: Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+        }
+      ],
+      "srcTitles": [
+        "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 25,
+      "signal": 21,
       "sources": 2,
       "ts": "2026-08-21T20:36:35.000Z",
       "writtenSources": 2,
@@ -346,33 +403,8 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-08-21T11:59:48.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "s": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "b": [
-        "deepmind.google: From Atari to EVE Online: Building on 15 Years of AI Research in Games"
-      ],
-      "body": [
-        "deepmind.google: Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
-      ],
-      "l": [
-        {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
-        }
-      ],
-      "srcTitles": [
-        "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-08-21T17:11:00.000Z",
       "writtenSources": 2,
