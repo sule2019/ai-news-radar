@@ -35,7 +35,7 @@
     },
     {
       "cat": "models",
-      "signal": 33,
+      "signal": 30,
       "sources": 3,
       "ts": "2026-08-21T07:55:00.000Z",
       "writtenSources": 3,
@@ -73,8 +73,33 @@
       ]
     },
     {
+      "cat": "research",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-21T11:59:48.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
+      "s": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
+      "b": [
+        "deepmind.google: From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+      ],
+      "body": [
+        "deepmind.google: Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
+        }
+      ],
+      "srcTitles": [
+        "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 32,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-08-21T11:15:00.000Z",
       "writtenSources": 2,
@@ -102,31 +127,6 @@
       "srcTitles": [
         "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Hand Over Fist",
         "Got $100? 1 Artificial Intelligence (AI) Memory ETF to Buy Hand Over Fist"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 30,
-      "sources": 1,
-      "ts": "2026-08-21T11:59:48.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "From Atari to EVE Online: Building on 15 Years of AI Research in Games",
-      "s": "Google DeepMind partners with game studios to prototype breakthrough AI gameplay.",
-      "b": [
-        "deepmind.google: From Atari to EVE Online: Building on 15 Years of AI Research in Games"
-      ],
-      "body": [
-        "deepmind.google: Google DeepMind partners with game studios to prototype breakthrough AI gameplay."
-      ],
-      "l": [
-        {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/from-atari-to-eve-online-building-on-15-years-of-ai-research-in-games/"
-        }
-      ],
-      "srcTitles": [
-        "From Atari to EVE Online: Building on 15 Years of AI Research in Games"
       ]
     },
     {
@@ -159,6 +159,38 @@
       "srcTitles": [
         "Pope Leo XIV: In age of AI, the family is the first school of humanity",
         "Pope Leo XIV calls on legislators to protect marriage and the family in the face of the advance of artificial intelligence"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-21T02:37:47.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI companies destroy physical books – let's scan rare books before it's too late",
+      "s": "Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 192 # Comments: 118",
+      "b": [
+        "annas-archive.pk: AI companies destroy physical books – let's scan rare books before it's too late",
+        "annas-archive.gl: AI companies destroy physical books – let's scan rare books before it's too late"
+      ],
+      "body": [
+        "annas-archive.pk: Article URL: https://annas-archive.pk/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49385994 Points: 192 # Comments: 118",
+        "annas-archive.gl: Article URL: https://annas-archive.gl/blog/physical-destruction.html Comments URL: https://news.ycombinator.com/item?id=49383026 Points: 369 # Comments: 276"
+      ],
+      "l": [
+        {
+          "d": "annas-archive.pk",
+          "u": "https://annas-archive.pk/blog/physical-destruction.html"
+        },
+        {
+          "d": "annas-archive.gl",
+          "u": "https://annas-archive.gl/blog/physical-destruction.html"
+        }
+      ],
+      "srcTitles": [
+        "AI companies destroy physical books – let's scan rare books before it's too late",
+        "AI companies destroy physical books – let's scan rare books before it's too late"
       ]
     },
     {
