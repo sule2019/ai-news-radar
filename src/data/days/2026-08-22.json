@@ -67,7 +67,7 @@
     },
     {
       "cat": "models",
-      "signal": 46,
+      "signal": 42,
       "sources": 2,
       "ts": "2026-08-21T23:10:11.000Z",
       "writtenSources": 2,
@@ -95,38 +95,6 @@
       "srcTitles": [
         "OpenAI says California should strengthen its AI safety bill",
         "OpenAI says California should amend SB 53 to expand safeguards, including requiring monitoring of frontier models under training, following AI agent hacks (Chase DiFeliciantonio/Politico)"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 16,
-      "sources": 2,
-      "ts": "2026-08-22T08:55:34.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Anthropic market debut could break SpaceX IPO record: media",
-      "s": "Anthropic market debut could break SpaceX IPO record: media Yahoo Finance Singapore",
-      "b": [
-        "sg.finance.yahoo.com: Anthropic market debut could break SpaceX IPO record: media",
-        "informat.ro: Anthropic, a leader in artificial intelligence, could surpass SpaceX's record with a stock market listing of over 100 billion dollars."
-      ],
-      "body": [
-        "sg.finance.yahoo.com: Anthropic market debut could break SpaceX IPO record: media Yahoo Finance Singapore",
-        "informat.ro: Anthropic, a leader in artificial intelligence, could surpass SpaceX's record with a stock market listing of over 100 billion dollars. Informat.ro"
-      ],
-      "l": [
-        {
-          "d": "sg.finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMHhyV0Q2MFJnay12aVdieTlpS0JJU2xzMWY2U0ZUdTFoV1RzZ2VJWGxmR05URUhtOEZLSVFqNjFKd0pSeXVyd0xUazdmZHgxb1RhdFdocEQtd1dvbDlpY0RwVzNLd015MkpHWnd1MVRWb0pHRzFOSDZCODBpQkRWR1NISE1kZV9WYU5F?oc=5"
-        },
-        {
-          "d": "informat.ro",
-          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUGRiR21HaVhjb3dEVjJNZFp2amlXRWlLaXZxNzRJajMycXd3bFZUeE1sWGFPd0hpNkxsWlZuWVhqOWFwNm5yR3k1VnFZSzZPYkZleGt1QmdSblhhZWhPOEtJUGswd0MxbHVLVV9Ba3R5NVFOdWJxVDM3Q1NwOFhIeWtoNzV4RjZIcXp4OXlFV1RDQlpILWJIZXhyUW5Nck1yMlFKOW9Kb2ZjX3lSczE4NGI0dTZoc2Zp?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic market debut could break SpaceX IPO record: media",
-        "Anthropic, a leader in artificial intelligence, could surpass SpaceX's record with a stock market listing of over 100 billion dollars."
       ]
     },
     {
@@ -159,6 +127,38 @@
       "srcTitles": [
         "Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026",
         "Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-08-22T08:55:34.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic market debut could break SpaceX IPO record: media",
+      "s": "Anthropic market debut could break SpaceX IPO record: media Yahoo Finance Singapore",
+      "b": [
+        "sg.finance.yahoo.com: Anthropic market debut could break SpaceX IPO record: media",
+        "informat.ro: Anthropic, a leader in artificial intelligence, could surpass SpaceX's record with a stock market listing of over 100 billion dollars."
+      ],
+      "body": [
+        "sg.finance.yahoo.com: Anthropic market debut could break SpaceX IPO record: media Yahoo Finance Singapore",
+        "informat.ro: Anthropic, a leader in artificial intelligence, could surpass SpaceX's record with a stock market listing of over 100 billion dollars. Informat.ro"
+      ],
+      "l": [
+        {
+          "d": "sg.finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMHhyV0Q2MFJnay12aVdieTlpS0JJU2xzMWY2U0ZUdTFoV1RzZ2VJWGxmR05URUhtOEZLSVFqNjFKd0pSeXVyd0xUazdmZHgxb1RhdFdocEQtd1dvbDlpY0RwVzNLd015MkpHWnd1MVRWb0pHRzFOSDZCODBpQkRWR1NISE1kZV9WYU5F?oc=5"
+        },
+        {
+          "d": "informat.ro",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUGRiR21HaVhjb3dEVjJNZFp2amlXRWlLaXZxNzRJajMycXd3bFZUeE1sWGFPd0hpNkxsWlZuWVhqOWFwNm5yR3k1VnFZSzZPYkZleGt1QmdSblhhZWhPOEtJUGswd0MxbHVLVV9Ba3R5NVFOdWJxVDM3Q1NwOFhIeWtoNzV4RjZIcXp4OXlFV1RDQlpILWJIZXhyUW5Nck1yMlFKOW9Kb2ZjX3lSczE4NGI0dTZoc2Zp?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic market debut could break SpaceX IPO record: media",
+        "Anthropic, a leader in artificial intelligence, could surpass SpaceX's record with a stock market listing of over 100 billion dollars."
       ]
     }
   ]
