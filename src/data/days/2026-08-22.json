@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 54,
-      "sources": 2,
+      "signal": 55,
+      "sources": 3,
       "ts": "2026-08-22T20:00:21.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -21,7 +21,11 @@
       "l": [
         {
           "d": "scmp.com",
-          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzc4WDJUOFNXN2VONms1LWNma01oVUMxUGtQQjlyMHAtYjRfUC11RjFjQ0VnTUpOQVhwQVNmNE95YmF3NzcyOE5KTWxNalY2Ty1QcXJWSklteHpGNUhWZ19vci1QbGFEcFhhRW5rWFRLRVJnUzBRa0NEVUsxcDlrVWVRckdzc3NuUFVDbHN5YVM1ay1LUUEwa3d1TVQ5czNLWU90OXNVTjA0OERS?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVzc4WDJUOFNXN2VONms1LWNma01oVUMxUGtQQjlyMHAtYjRfUC11RjFjQ0VnTUpOQVhwQVNmNE95YmF3NzcyOE5KTWxNalY2Ty1QcXJWSklteHpGNUhWZ19vci1QbGFEcFhhRW5rWFRLRVJnUzBRa0NEVUsxcDlrVWVRckdzc3NuUFVDbHN5YVM1ay1LUUEwa3d1TVQ5czNLWU90OXNVTjA0OERS0gGsAUFVX3lxTE9lNUt6MW5Oenk4RVB0ZDBzSS1qRXMyY0dreldSdERIQ1Y4YktobVFKX0VId2lDMkJmOVlOMnNnRVNHTkJnYUxsalZwZEVkeklNVkFMRzRnLTJ0bHlqWmt2Z0VMNzVDR0RBZUh0UUtmNWxEV1h3ZUkzRzhZeDhNeGtLcTlfc2hGbUU1eDVvOTdKczFEb09UeFZBTFVMMjFVRHlYc3c3SHNqMmh3Zmk?oc=5"
+        },
+        {
+          "d": "fortune.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWS1NOHBfNzB3RGJTaXpPM25VZENhMWdGdkg1M2JHZjZoOWxtOGotQXh4TXZ2V0tIcDBscldpd0VuMy1fTEJzbF94dWVpTmZOZUd1NTdyZ2tjQzAzc0JHWEU0eWt3Mng3aVlObXZhMkYtaDVPNXh4b0hlUGJUb0VyNW5EU3hmcmY0WEFLMzRCakhpeFdIUWFkV2tZMTJXWllhR29DTUREQktNOHlUMnhSQ0s1Vk9ndw?oc=5"
         },
         {
           "d": "cnbc.com",
@@ -30,6 +34,7 @@
       ],
       "srcTitles": [
         "Nvidia customers notified of AI-related price rises above 15%",
+        "Nvidia customers notified about AI-related price hikes above 15%",
         "Nvidia customers reportedly warned about AI-related price hikes"
       ]
     },
@@ -67,7 +72,7 @@
     },
     {
       "cat": "models",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-08-22T12:26:45.000Z",
       "writtenSources": 2,
@@ -98,8 +103,40 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-08-22T19:44:53.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Protecting Digital Privacy In The Artificial Intelligence Era",
+      "s": "Protecting Digital Privacy In The Artificial Intelligence Era Forbes",
+      "b": [
+        "forbes.com: Protecting Digital Privacy In The Artificial Intelligence Era",
+        "cureus.com: Prescription Analysis in the Digital Era: Comparing Artificial Intelligence-Based Versus Manual Approaches"
+      ],
+      "body": [
+        "forbes.com: Protecting Digital Privacy In The Artificial Intelligence Era Forbes",
+        "cureus.com: Prescription Analysis in the Digital Era: Comparing Artificial Intelligence-Based Versus Manual Approaches Cureus"
+      ],
+      "l": [
+        {
+          "d": "forbes.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTEd1NlJoVkNQRGJLcXlzaVZNTWhFa3h0NUhnU0FaZnppeHVwR19yNEc0X3FBVEY4UnZqRDRtUU40Mm84bjdQTnBfVVQ2SGs5ZlJRcDduOTNITzVRQi1SRHdSSlNzQ0NSYk1USldvaHBmWEswU0RQRjFPN2VHZjUydFZScnp5N25JUDBNMzFKR2g5OTBIU21YdVhJVWdpSjdRMVZkalAtVkxfekowYjhaek04M0Q?oc=5"
+        },
+        {
+          "d": "cureus.com",
+          "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdFdVVzhKWDF3T0V2V2hNQ1F4SDZTZUllbWgwN19SVWpKVzh1VlZDNVhSZGJ3X2V2VThVVmRKSmcxU21oeWpURWg0NkpxRDFJTTFmNm5IdTlsQkY0bW93S2s3dXZLbWp4bDJwMkZETzJUY1pja1c3RDZkc3lYT2RYMVRRUVpOYWVlaUs0UTExUzRQVjAwLW5DQTl2Qjl0Y0Rwd2otQzhLeGM0bF9MSEdrUXRFa09UemZWODg4U3hKTUFTX05VeEQ3V2E3N3hUbl9yWkhmLUo3U0dUOGg3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Protecting Digital Privacy In The Artificial Intelligence Era",
+        "Prescription Analysis in the Digital Era: Comparing Artificial Intelligence-Based Versus Manual Approaches"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 30,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-08-21T23:10:11.000Z",
       "writtenSources": 2,
