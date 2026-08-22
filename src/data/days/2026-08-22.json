@@ -3,7 +3,39 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-08-21T23:10:11.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI says California should strengthen its AI safety bill",
+      "s": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+      "b": [
+        "techcrunch.com: OpenAI says California should strengthen its AI safety bill",
+        "techmeme.com: OpenAI says California should amend SB 53 to expand safeguards, including requiring monitoring of frontier models under training, following AI agent hacks (Chase DiFeliciantonio/Politico)"
+      ],
+      "body": [
+        "techcrunch.com: OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+        "techmeme.com: Chase DiFeliciantonio / Politico : OpenAI says California should amend SB 53 to expand safeguards, including requiring monitoring of frontier models under training, following AI agent hacks SAN FRANCISCO OpenAI urged its home state of California on Friday to strengthen its landmark AI law following recent autonomous hacks"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260821/p29#a260821p29"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI says California should strengthen its AI safety bill",
+        "OpenAI says California should amend SB 53 to expand safeguards, including requiring monitoring of frontier models under training, following AI agent hacks (Chase DiFeliciantonio/Politico)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 47,
       "sources": 2,
       "ts": "2026-08-22T12:26:45.000Z",
       "writtenSources": 2,
@@ -35,7 +67,7 @@
     },
     {
       "cat": "funding",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-08-22T08:55:34.000Z",
       "writtenSources": 2,
@@ -63,6 +95,38 @@
       "srcTitles": [
         "Anthropic market debut could break SpaceX IPO record: media",
         "Anthropic, a leader in artificial intelligence, could surpass SpaceX's record with a stock market listing of over 100 billion dollars."
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-08-22T16:31:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026",
+      "s": "Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026 The Motley Fool",
+      "b": [
+        "fool.com: Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026",
+        "aol.com: Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026"
+      ],
+      "body": [
+        "fool.com: Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026 The Motley Fool",
+        "aol.com: Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026 AOL.com"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObGlkZU1ZbjhSWHlyV0VPTVMtS3ItUW1fLUJmN1BSNkpfb2pSVmJoQk9jNGRkUldXclRqckl0VGhrbmRJVnRUcDM0UEljcHJaSDRiZlpZUUh2bU9TRUZ1X1NxdFI2MDhtdGRvamVHSE1fUFk4MEpPTWR0N3Y0TTRuaDE3enRUOUFXUHQtcVBvX0VDOHdfa1Y0?oc=5"
+        },
+        {
+          "d": "aol.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWXYzZmlYTUl0VTQ1VDBYSl9MU0xqOC00SFRESWNLZVo5dGRkbkxDeFVsU3VzYmhsZUtnQkU2ZUVVMzBUNk5wMjg3cmdHSWdocjBEVEF1NmZZVlJjVXRGc0l2N05VbElaaXdMb0ZGZHFCR1dCNWVkXy1XWXJLN1VHdmlZY3NERHdkYXc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026",
+        "Billionaire Stephen Mandel Just Loaded Up on This Incredible Artificial Intelligence (AI) Stock Up Nearly 200% in 2026"
       ]
     },
     {
