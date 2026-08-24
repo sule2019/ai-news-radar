@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 59,
+      "signal": 55,
       "sources": 2,
       "ts": "2026-08-24T06:25:00.000Z",
       "writtenSources": 2,
@@ -35,7 +35,7 @@
     },
     {
       "cat": "models",
-      "signal": 54,
+      "signal": 50,
       "sources": 2,
       "ts": "2026-08-24T16:52:24.000Z",
       "writtenSources": 2,
@@ -68,7 +68,7 @@
     },
     {
       "cat": "funding",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-08-24T09:00:57.000Z",
       "writtenSources": 2,
@@ -100,7 +100,7 @@
     },
     {
       "cat": "models",
-      "signal": 36,
+      "signal": 32,
       "sources": 2,
       "ts": "2026-08-24T11:15:42.000Z",
       "writtenSources": 2,
@@ -132,7 +132,7 @@
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 4,
       "ts": "2026-08-24T05:15:28.000Z",
       "writtenSources": 3,
@@ -202,8 +202,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-24T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Kids outlearn AI—and we still don t know why",
+      "s": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl",
+      "b": [
+        "technologyreview.com: Kids outlearn AI—and we still don t know why"
+      ],
+      "body": [
+        "technologyreview.com: People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of ChatGPT, many of us now take it for granted that we can converse naturally with our phones or computers. LLMs like Claude, DeepSeek, and OpenAI’s GPT models are fluent and flexible enough to masquerade convincingly as humans. But peek behind the computational curtain, and there’s a catch: Teaching a computer to use human language still requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times more words than a person will experience in the process of mastering their mother tongue—and way more than children might hear by their first birthday, when they typically start to grab hold of language. “The progress recently has been amazing,” Michael C. Frank, a cognitive scientist at Stanford University, says of LLMs. “But we still have to burn down a forest and scrape the entire sum of all human knowledge to re-create this milestone that happens in our living rooms over the course of a year.” This yawning divide between children and machines is called the data efficiency gap. And it raises a tantalizing question for cognitive scientists and a challenge for the architects of AI models: How is it that kids can still outperform the most linguistically sophisticated machines ever built? Finding answers has stakes for both AI research and cognitive science. For the past decade, language models have mostly gotten better by getting bigger. Meta’s open-weight LLM Llama 3.1, released two years ago, chewed through 15 trillion tokens (word-like chunks of language) in pretraining—the main step of training a model that happens before it is fine-tuned for a specific task, like being a chatbot. Frontier models could be pretraining on 10 times more data, says Ethan Gotlieb Wilcox,"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
+        }
+      ],
+      "srcTitles": [
+        "Kids outlearn AI—and we still don t know why"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-08-24T03:49:33.000Z",
       "writtenSources": 2,
@@ -231,31 +256,6 @@
       "srcTitles": [
         "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
         "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-08-24T09:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Kids outlearn AI—and we still don t know why",
-      "s": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl",
-      "b": [
-        "technologyreview.com: Kids outlearn AI—and we still don t know why"
-      ],
-      "body": [
-        "technologyreview.com: People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of ChatGPT, many of us now take it for granted that we can converse naturally with our phones or computers. LLMs like Claude, DeepSeek, and OpenAI’s GPT models are fluent and flexible enough to masquerade convincingly as humans. But peek behind the computational curtain, and there’s a catch: Teaching a computer to use human language still requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times more words than a person will experience in the process of mastering their mother tongue—and way more than children might hear by their first birthday, when they typically start to grab hold of language. “The progress recently has been amazing,” Michael C. Frank, a cognitive scientist at Stanford University, says of LLMs. “But we still have to burn down a forest and scrape the entire sum of all human knowledge to re-create this milestone that happens in our living rooms over the course of a year.” This yawning divide between children and machines is called the data efficiency gap. And it raises a tantalizing question for cognitive scientists and a challenge for the architects of AI models: How is it that kids can still outperform the most linguistically sophisticated machines ever built? Finding answers has stakes for both AI research and cognitive science. For the past decade, language models have mostly gotten better by getting bigger. Meta’s open-weight LLM Llama 3.1, released two years ago, chewed through 15 trillion tokens (word-like chunks of language) in pretraining—the main step of training a model that happens before it is fine-tuned for a specific task, like being a chatbot. Frontier models could be pretraining on 10 times more data, says Ethan Gotlieb Wilcox,"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
-        }
-      ],
-      "srcTitles": [
-        "Kids outlearn AI—and we still don t know why"
       ]
     },
     {
