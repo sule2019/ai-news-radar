@@ -28,6 +28,38 @@
     },
     {
       "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-08-24T06:25:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Taiwan indicts 9 over alleged illegal export of AI servers to China",
+      "s": "Taiwan indicts 9 over alleged illegal export of AI servers to China Reuters",
+      "b": [
+        "reuters.com: Taiwan indicts 9 over alleged illegal export of AI servers to China",
+        "kfgo.com: Taiwan indicts nine over alleged illegal export of AI servers to China"
+      ],
+      "body": [
+        "reuters.com: Taiwan indicts 9 over alleged illegal export of AI servers to China Reuters",
+        "kfgo.com: Taiwan indicts nine over alleged illegal export of AI servers to China The Mighty 790 KFGO"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5"
+        },
+        {
+          "d": "taipeitimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IVUxOWFZZZ3RPUnI1TFdEdFF1akFtRjBkWUx2RGszT2Y0RTFyTnlSVTRSTzZGRnV1OV9wWEhVSFlKSjVsa0hscnpOVkZ2T19NY1lmYUI3UEU2RG5yYXdLRGZOTjFWQldLVFZPcGZ5ZmtzYlY5YlRrcG5B?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Taiwan issues indictments over alleged illegal export of AI servers to China",
+        "Nine indicted over alleged export of AI servers to China"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 26,
       "sources": 2,
       "ts": "2026-08-24T03:59:03.000Z",
@@ -45,8 +77,8 @@
       ],
       "l": [
         {
-          "d": "benzinga.com",
-          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1hZMTZBaXBTNlU3dVZfbmVQWF9QN3lNRWhfYmJiY2V6SHd2dEhDUkhWc1RpWC0wNElicjIyX2RlUkg3MmU5cEZXVGFHQ25KRFB0ZmJ5TUd3M1pGUFJ5RENIU21WZTdKX3lGN1RzN2dCekFnTWFpbHgzcmVKbmtUUF91WWlFaHY0cmswS1dCUF9YbGpub0RXUExLNzB1VDNDMXB6dm1aWXplNjJyZUdUOG1Yd1dsMms?oc=5"
+          "d": "tradingview.com",
+          "u": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMVhnX0hYWGNUblljM3N0SGFEM09vd1draDdUTVBvX202X3VwODZxaE11MkR4Y21XOHRXV2RrZ1JoQzRTWkkxSDhybEptV0VwclAwSW9SMi1GaW9mTVFNWHZuVmFqN3g1dHB1SDN5MXgxV1RNYXN2THhoQzYzUXBqUVpHWXhfMG1zQ3U1MVBNU0pYM1JMQ1BCV2ljVXcybllMZjhpVkkxdW9NcHE4anJRRkpzVlg3eHpQYnBDa194SXF4QmJwQ0dVYVBMZ2R4N0RvOWNSLXMxbTFPRmdPUmhwa2VHMTZoY213THRyaUZRSXZBaHkwVm5obEpBSmtjTnAwYzJ2ckZwcFNPdw?oc=5"
         },
         {
           "d": "cointribune.com",
@@ -88,38 +120,6 @@
       "srcTitles": [
         "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
         "Workers in China worry over being replaced with AI: ‘Everyone else is using it’"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 25,
-      "sources": 2,
-      "ts": "2026-08-24T06:25:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Taiwan indicts 9 over alleged illegal export of AI servers to China",
-      "s": "Taiwan indicts 9 over alleged illegal export of AI servers to China Reuters",
-      "b": [
-        "reuters.com: Taiwan indicts 9 over alleged illegal export of AI servers to China",
-        "kfgo.com: Taiwan indicts nine over alleged illegal export of AI servers to China"
-      ],
-      "body": [
-        "reuters.com: Taiwan indicts 9 over alleged illegal export of AI servers to China Reuters",
-        "kfgo.com: Taiwan indicts nine over alleged illegal export of AI servers to China The Mighty 790 KFGO"
-      ],
-      "l": [
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5"
-        },
-        {
-          "d": "kfgo.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQ3lCcW95Y0hucHpsRWNKYjlPOHJNRDA1dzZiZXNjZEVmeHJSNU1RNVBLWWxjdlE5QXJpbUpVWGxOckhLVDdOSFRvRVBha1l2dTdzT19qQnctNjZmRll5VFFYOEhOb2JiQk1GUHBIS2NhVS1NVDhwY0tETEFac0VyMmxKTnd2czU2WnFaZzdZX1o1MkhRcHEtRFctVnE?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Taiwan issues indictments over alleged illegal export of AI servers to China",
-        "Taiwan indicts nine over alleged illegal export of AI servers to China"
       ]
     }
   ]
