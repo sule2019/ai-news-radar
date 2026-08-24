@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 57,
+      "signal": 53,
       "sources": 4,
       "ts": "2026-08-24T06:25:00.000Z",
       "writtenSources": 2,
@@ -44,8 +44,40 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-08-24T11:15:42.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Kasparov on machine intelligence",
+      "s": "Kasparov on machine intelligence Chess News | ChessBase",
+      "b": [
+        "en.chessbase.com: Kasparov on machine intelligence",
+        "lvivherald.com: The Contest of the Machines: ChatGPT and the New Generation of Artificial Intelligence"
+      ],
+      "body": [
+        "en.chessbase.com: Kasparov on machine intelligence Chess News | ChessBase",
+        "lvivherald.com: The Contest of the Machines: ChatGPT and the New Generation of Artificial Intelligence www.lvivherald.com"
+      ],
+      "l": [
+        {
+          "d": "en.chessbase.com",
+          "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA4YzRtZTF6czJuc0g4T1A2dTVaYXYtRFhzbWdLekRnWW96WnZUR3g3cmpwZWJTUnRhWjNreVIzVkZzWEs3bHFvT2p0a093VXJuUTg1b3djVFN1S3dIcjEzTVJkUmxyZmhRRGdDZmVJNA?oc=5"
+        },
+        {
+          "d": "lvivherald.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQM1pPbC1EVVRkSW1HOGZ2SGoyU1cxc2JKWXVmQy1MY3QyT29QaGkzaERQRG9ESlo3NkoyOTBLcWhFcEI4ZTBuU1h0YVF2eFBQQ0lsVXNlSkRKRGxRVlJLdnJOaHBHNDVFVjFKU05XRExhNWYyMGVQZkNMdFN4TVF5TmVPWmVPbDBhVVQyWkpSQUZtOV9KZklIMy1kdEx3RmVyYVBJTC1qbzUzV3RnSWt4dFB5dU1WZjVM?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Kasparov on machine intelligence",
+        "The Contest of the Machines: ChatGPT and the New Generation of Artificial Intelligence"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 47,
+      "signal": 43,
       "sources": 3,
       "ts": "2026-08-24T09:00:57.000Z",
       "writtenSources": 2,
@@ -82,8 +114,8 @@
     },
     {
       "cat": "models",
-      "signal": 30,
-      "sources": 3,
+      "signal": 32,
+      "sources": 4,
       "ts": "2026-08-24T05:15:28.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -101,6 +133,10 @@
       ],
       "l": [
         {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RQlVDVXkxV2ctMEU2WEl0U2V2czRFYk5PcTFaYmp4ak0wSDBBb0xmTTFaOEk5alhJN1oxRDZxQjhKSjItMTVQNjdsZ2RLMy1IN1lQcnFQYUZhOFhsbnAzYlNtUlRuQWdBZ3RMaGsyX2FPTF9NSkdTaGdB?oc=5"
+        },
+        {
           "d": "justjared.com",
           "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSGo2WllyUDRvSnFxM2ZybUVlUEZRQWJzNWxLS3BMZ3lzMXRMVlp5VG5XVWRTcWhtSEhtb083dkpzU2NZbzByWVZYQW9Zcng4Ylo5eFNZdmZ1cHcybDQyaENxV2ZkMnBtaWU0cW50X1RSZ2pqWkpyajdqS2tLMWluQlFLUFRBN0FOYTlTazJFZmk5cHJrbmNKWDUtT2daYnBsNWI3dUJBY2g0amNQUk9BOGhFZFhQSE9wWnZWWUh1YldDVTg?oc=5"
         },
@@ -114,6 +150,7 @@
         }
       ],
       "srcTitles": [
+        "Dr. Dre Says He Uses AI to Produce Songs",
         "Dr. Dre Embraces AI in Music, Reveals How He Uses Artificial Intelligence While Producing",
         "Dr. Dre Says Artificial Intelligence Is Not a Threat to Creative Musicians",
         "Dr. Dre says AI is not a threat to music: ‘People who have trouble creating’ see it that way"
@@ -121,7 +158,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-08-24T14:20:19.000Z",
       "writtenSources": 1,
@@ -147,33 +184,8 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-08-24T09:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Kids outlearn AI—and we still don t know why",
-      "s": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl",
-      "b": [
-        "technologyreview.com: Kids outlearn AI—and we still don t know why"
-      ],
-      "body": [
-        "technologyreview.com: People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of ChatGPT, many of us now take it for granted that we can converse naturally with our phones or computers. LLMs like Claude, DeepSeek, and OpenAI’s GPT models are fluent and flexible enough to masquerade convincingly as humans. But peek behind the computational curtain, and there’s a catch: Teaching a computer to use human language still requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times more words than a person will experience in the process of mastering their mother tongue—and way more than children might hear by their first birthday, when they typically start to grab hold of language. “The progress recently has been amazing,” Michael C. Frank, a cognitive scientist at Stanford University, says of LLMs. “But we still have to burn down a forest and scrape the entire sum of all human knowledge to re-create this milestone that happens in our living rooms over the course of a year.” This yawning divide between children and machines is called the data efficiency gap. And it raises a tantalizing question for cognitive scientists and a challenge for the architects of AI models: How is it that kids can still outperform the most linguistically sophisticated machines ever built? Finding answers has stakes for both AI research and cognitive science. For the past decade, language models have mostly gotten better by getting bigger. Meta’s open-weight LLM Llama 3.1, released two years ago, chewed through 15 trillion tokens (word-like chunks of language) in pretraining—the main step of training a model that happens before it is fine-tuned for a specific task, like being a chatbot. Frontier models could be pretraining on 10 times more data, says Ethan Gotlieb Wilcox,"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
-        }
-      ],
-      "srcTitles": [
-        "Kids outlearn AI—and we still don t know why"
-      ]
-    },
-    {
       "cat": "policy",
-      "signal": 22,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-08-24T03:49:33.000Z",
       "writtenSources": 2,
@@ -205,7 +217,32 @@
     },
     {
       "cat": "models",
-      "signal": 21,
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-24T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Kids outlearn AI—and we still don t know why",
+      "s": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl",
+      "b": [
+        "technologyreview.com: Kids outlearn AI—and we still don t know why"
+      ],
+      "body": [
+        "technologyreview.com: People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of ChatGPT, many of us now take it for granted that we can converse naturally with our phones or computers. LLMs like Claude, DeepSeek, and OpenAI’s GPT models are fluent and flexible enough to masquerade convincingly as humans. But peek behind the computational curtain, and there’s a catch: Teaching a computer to use human language still requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times more words than a person will experience in the process of mastering their mother tongue—and way more than children might hear by their first birthday, when they typically start to grab hold of language. “The progress recently has been amazing,” Michael C. Frank, a cognitive scientist at Stanford University, says of LLMs. “But we still have to burn down a forest and scrape the entire sum of all human knowledge to re-create this milestone that happens in our living rooms over the course of a year.” This yawning divide between children and machines is called the data efficiency gap. And it raises a tantalizing question for cognitive scientists and a challenge for the architects of AI models: How is it that kids can still outperform the most linguistically sophisticated machines ever built? Finding answers has stakes for both AI research and cognitive science. For the past decade, language models have mostly gotten better by getting bigger. Meta’s open-weight LLM Llama 3.1, released two years ago, chewed through 15 trillion tokens (word-like chunks of language) in pretraining—the main step of training a model that happens before it is fine-tuned for a specific task, like being a chatbot. Frontier models could be pretraining on 10 times more data, says Ethan Gotlieb Wilcox,"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
+        }
+      ],
+      "srcTitles": [
+        "Kids outlearn AI—and we still don t know why"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 17,
       "sources": 2,
       "ts": "2026-08-24T09:29:32.000Z",
       "writtenSources": 2,
