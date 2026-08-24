@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 52,
-      "sources": 3,
+      "signal": 54,
+      "sources": 4,
       "ts": "2026-08-24T16:52:24.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -21,11 +21,15 @@
       "l": [
         {
           "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXdWZ29VVUt1TlY1aC1MSG5yemwyTWpNa2k4UUpsMnR0eWlZbmJZSl9vc1NTLWI1dzQwY0pXZWg2WUMxWFZnQ0J5OEdSZWszRS1fZWZzU3ZtUWEtNWhZNlhwRUtUbXdJN2h3VnpaZWUtMV9pMFVEcGlwRDNqQkZIMWN1TFdNTlhQSGdna05FTExzLVNRWVVQUg?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzFmV21tcTZZTW40c2p2MVgtNV9zeDRrOGZqMVg5Y1FjUVhZZzNzdzF2NHExMGFlZVhSME5UQjZEekZLNFk0djhWNDJFQ2RtS211MC13WkxDc20xQjV0NGVtbW1QWG40bGpzbXdiQ0N4Mlk5bWltOHhKLVlkbnBfb1VYeXMyeVp2Y2VwU21rQVhXSV9LbW8xaA?oc=5"
         },
         {
           "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOckdMZTgtellwcU5VM2RkeWxNeE5PdkNUc29oT09IRjdad2xJUWJJS2V4eG5FaG9LckthejFKa1Bwa0RLLVNwUzMxY0V4MXFYYldjSVBPTHVqSUFBNS1uaXRVOVhfajFvUFd2c253VzRvZ3d2QjRuLWRJNWw2YjFmanZTSllJSTVuaFVUbk9WMmJQR3dqR29rS3dub0l5X3ktNTRheDByc29JSEdxTGhnN1g0bDA3RVozVEQxdDMtLXRCclBST2tKNkJzUEJDVXkzcy02V09YS3ppUmhyU1A1anE2T0Y1RVZzSzVhVEJ3U2picXEwVnVkNTVKb0JHM1dSb2dYb0J2ZnNEMUM4ZlhtT3gwZ3VTZW5GWEZQclloWE1HQjZweEJmeg?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQUl9RV3hhLUdYRlJtWFdJbElfak1mazNnbUVEWTgybFMxZDU1bkVNM2dDRk9WUWxhalpDYnFWYURhWmlWQ0tuOWo1aGg3NkJPNzhWRVlLbi1Kanl0TWZROUJvZWkybHRfTFRWN1oxbDd1M2h2WEhkblJOUWFKVkswZGNzVmRQYWM3eWZZaUoyYlFDd1pfYVU4TzMxVGxpdzBOcHg5OFgtZzh5aVRFaFl6NllYZC1zWl84bmdjbjA1VV9oMXVLSUNIWmNDdGpVQWNjel91TjY1bENjenlBa1hvd2FuY2d3dlMzMFN4ZDJ5SDQwODVkMjJveDBQamxHcnpuNzExajV1V0N0QUp1aDFGcy1vTXhaVm43?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLVBVTzhZZDAyal9yMHFFT2dVWGh4ckV2cWxqa3l3Q3RZVlhOajFNdnRxdURUZVJTT3g2YndxeGhvcFhtZ3VlNDg3Wlowdkw4Y1BMc3Y1N0hsdm1kaW9DQXJsaWc4ZExTeWFxWHZGQ0RLS2hLVHRzQmZpS3FSZFY4VnQ0cXluSE10VUp4d3d6MmxGVjNILU5LWF9adG5Ldk5ka1JaU01VdGlrWTA?oc=5"
         },
         {
           "d": "aol.com",
@@ -33,9 +37,9 @@
         }
       ],
       "srcTitles": [
+        "Nvidia Reports Earnings on Aug. 26. Here Are 3 Other Artificial Intelligence (AI) Chip Stocks I'll Be Watching Instead.",
         "Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Nvidia Reports Earnings on Aug. 26",
-        "Nvidia Reports Earnings on Aug. 26. Here Are 3 Other Artificial Intelligence (AI) Chip Stocks I'll Be Watching Instead.",
-        "Nvidia Reports Earnings on Aug. 26. Here Are 3 Other Artificial Intelligence (AI) Chip Stocks I'll Be Watching Instead.",
+        "Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Nvidia Reports Earnings on Aug. 26",
         "Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Nvidia Reports Earnings on Aug. 26"
       ]
     },
@@ -66,7 +70,7 @@
     },
     {
       "cat": "models",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-08-24T06:25:00.000Z",
       "writtenSources": 2,
