@@ -2,6 +2,43 @@
   "date": "2026-08-24",
   "stories": [
     {
+      "cat": "models",
+      "signal": 59,
+      "sources": 3,
+      "ts": "2026-08-24T06:25:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Taiwan indicts 9 over alleged illegal export of AI servers to China",
+      "s": "Taiwan indicts 9 over alleged illegal export of AI servers to China Reuters",
+      "b": [
+        "reuters.com: Taiwan indicts 9 over alleged illegal export of AI servers to China",
+        "kfgo.com: Taiwan indicts nine over alleged illegal export of AI servers to China"
+      ],
+      "body": [
+        "reuters.com: Taiwan indicts 9 over alleged illegal export of AI servers to China Reuters",
+        "kfgo.com: Taiwan indicts nine over alleged illegal export of AI servers to China The Mighty 790 KFGO"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260824/p19#a260824p19"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5"
+        },
+        {
+          "d": "whbl.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2ZyS3hfNUNtc2pGREhvTFRqZFNDMlV3WXp2dzRGR2ZHTjBTbVJFRDZ5UHh4VTV6eVE1N2twczMxTUxUNjFubV9FYjluSzJHMFFfVlF5VnJRTmt6SmJ5cnhBUllCYWl1Ry1Ud0ZWR2pLaFprYnV5NGpsSTJ6UDlBbG9qaUxhcDQ2Z3BRX2ZqZDhjSk00MUVTQ084S0Y?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Taiwanese prosecutors indict nine people, including Nvidia and Super Micro employees, for allegedly helping illegally export AI servers to China (Reuters)",
+        "Taiwan issues indictments over alleged illegal export of AI servers to China",
+        "Taiwan indicts nine over alleged illegal export of AI servers to China"
+      ]
+    },
+    {
       "cat": "funding",
       "signal": 47,
       "sources": 3,
@@ -40,39 +77,64 @@
     },
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 37,
       "sources": 2,
-      "ts": "2026-08-24T06:25:00.000Z",
+      "ts": "2026-08-24T09:29:32.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Taiwan indicts 9 over alleged illegal export of AI servers to China",
-      "s": "Taiwan indicts 9 over alleged illegal export of AI servers to China Reuters",
+      "h": "Ukrainian officials say an AI-guided, fully autonomous Russian drone killed three Ukrainians in a strike on a gas station in the city of Zaporizhzhia (New York Times)",
+      "s": "New York Times : Ukrainian officials say an AI-guided, fully autonomous Russian drone killed three Ukrainians in a strike on a gas station in the city of Zaporizhzhia An attack by what Ukrainian offic",
       "b": [
-        "reuters.com: Taiwan indicts 9 over alleged illegal export of AI servers to China",
-        "kfgo.com: Taiwan indicts nine over alleged illegal export of AI servers to China"
+        "techmeme.com: Ukrainian officials say an AI-guided, fully autonomous Russian drone killed three Ukrainians in a strike on a gas station in the city of Zaporizhzhia (New York Times)",
+        "nytimes.com: A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I."
       ],
       "body": [
-        "reuters.com: Taiwan indicts 9 over alleged illegal export of AI servers to China Reuters",
-        "kfgo.com: Taiwan indicts nine over alleged illegal export of AI servers to China The Mighty 790 KFGO"
+        "techmeme.com: New York Times : Ukrainian officials say an AI-guided, fully autonomous Russian drone killed three Ukrainians in a strike on a gas station in the city of Zaporizhzhia An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.",
+        "nytimes.com: A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I. The New York Times"
       ],
       "l": [
         {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORUFqODhsNEhfOVR2RWdNdXd1LVI2REthVUgzaU4zdXNIa2RlZmdSTXVwemR6ODVzUm1mMmtOZ0FRR3FEbVp6YWlTbDZmcm1nLTdQcFFkcWhVTTBvMkJ4dDh2blB2NkswdzZTbEFGWEZ2c3Nwam9aWXREYmhVR0wzQzdSdVoxUThYa0VrcFI4R0VKaWk2SDVFNmJUaVFuZ1Z2Nmhha21pSWxaRm1rQklZWm83aUNhbjg?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260824/p10#a260824p10"
         },
         {
-          "d": "whbl.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2ZyS3hfNUNtc2pGREhvTFRqZFNDMlV3WXp2dzRGR2ZHTjBTbVJFRDZ5UHh4VTV6eVE1N2twczMxTUxUNjFubV9FYjluSzJHMFFfVlF5VnJRTmt6SmJ5cnhBUllCYWl1Ry1Ud0ZWR2pLaFprYnV5NGpsSTJ6UDlBbG9qaUxhcDQ2Z3BRX2ZqZDhjSk00MUVTQ084S0Y?oc=5"
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVFV3MFZhQjlBRWRHTnNoX0Q3UVp2Q1JwN2tRUU82MnA2a2Rya2d2bFZTZVBFWUUxLU9wYmxDaXd3RHF2eEhQMU92dXlkYlRDVnMtdXpJRHdpLUxTbTRvYnhxY2pMU04zTFFkSEdvX09wZVNONEdnMTNMLWZJcjJoOERVbmhGUmhHVkRMRW9XczFxejFRN1JOdEsyNExZdw?oc=5"
         }
       ],
       "srcTitles": [
-        "Taiwan issues indictments over alleged illegal export of AI servers to China",
-        "Taiwan indicts nine over alleged illegal export of AI servers to China"
+        "Ukrainian officials say an AI-guided, fully autonomous Russian drone killed three Ukrainians in a strike on a gas station in the city of Zaporizhzhia (New York Times)",
+        "A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I."
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-24T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Kids outlearn AI—and we still don t know why",
+      "s": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl",
+      "b": [
+        "technologyreview.com: Kids outlearn AI—and we still don t know why"
+      ],
+      "body": [
+        "technologyreview.com: People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of ChatGPT, many of us now take it for granted that we can converse naturally with our phones or computers. LLMs like Claude, DeepSeek, and OpenAI’s GPT models are fluent and flexible enough to masquerade convincingly as humans. But peek behind the computational curtain, and there’s a catch: Teaching a computer to use human language still requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times more words than a person will experience in the process of mastering their mother tongue—and way more than children might hear by their first birthday, when they typically start to grab hold of language. “The progress recently has been amazing,” Michael C. Frank, a cognitive scientist at Stanford University, says of LLMs. “But we still have to burn down a forest and scrape the entire sum of all human knowledge to re-create this milestone that happens in our living rooms over the course of a year.” This yawning divide between children and machines is called the data efficiency gap. And it raises a tantalizing question for cognitive scientists and a challenge for the architects of AI models: How is it that kids can still outperform the most linguistically sophisticated machines ever built? Finding answers has stakes for both AI research and cognitive science. For the past decade, language models have mostly gotten better by getting bigger. Meta’s open-weight LLM Llama 3.1, released two years ago, chewed through 15 trillion tokens (word-like chunks of language) in pretraining—the main step of training a model that happens before it is fine-tuned for a specific task, like being a chatbot. Frontier models could be pretraining on 10 times more data, says Ethan Gotlieb Wilcox,"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
+        }
+      ],
+      "srcTitles": [
+        "Kids outlearn AI—and we still don t know why"
       ]
     },
     {
       "cat": "policy",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-08-24T03:49:33.000Z",
       "writtenSources": 2,
@@ -100,31 +162,6 @@
       "srcTitles": [
         "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
         "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-08-24T09:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Kids outlearn AI—and we still don t know why",
-      "s": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl",
-      "b": [
-        "technologyreview.com: Kids outlearn AI—and we still don t know why"
-      ],
-      "body": [
-        "technologyreview.com: People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of ChatGPT, many of us now take it for granted that we can converse naturally with our phones or computers. LLMs like Claude, DeepSeek, and OpenAI’s GPT models are fluent and flexible enough to masquerade convincingly as humans. But peek behind the computational curtain, and there’s a catch: Teaching a computer to use human language still requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times more words than a person will experience in the process of mastering their mother tongue—and way more than children might hear by their first birthday, when they typically start to grab hold of language. “The progress recently has been amazing,” Michael C. Frank, a cognitive scientist at Stanford University, says of LLMs. “But we still have to burn down a forest and scrape the entire sum of all human knowledge to re-create this milestone that happens in our living rooms over the course of a year.” This yawning divide between children and machines is called the data efficiency gap. And it raises a tantalizing question for cognitive scientists and a challenge for the architects of AI models: How is it that kids can still outperform the most linguistically sophisticated machines ever built? Finding answers has stakes for both AI research and cognitive science. For the past decade, language models have mostly gotten better by getting bigger. Meta’s open-weight LLM Llama 3.1, released two years ago, chewed through 15 trillion tokens (word-like chunks of language) in pretraining—the main step of training a model that happens before it is fine-tuned for a specific task, like being a chatbot. Frontier models could be pretraining on 10 times more data, says Ethan Gotlieb Wilcox,"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
-        }
-      ],
-      "srcTitles": [
-        "Kids outlearn AI—and we still don t know why"
       ]
     },
     {
