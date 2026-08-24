@@ -21,7 +21,7 @@
       "l": [
         {
           "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYzFmV21tcTZZTW40c2p2MVgtNV9zeDRrOGZqMVg5Y1FjUVhZZzNzdzF2NHExMGFlZVhSME5UQjZEekZLNFk0djhWNDJFQ2RtS211MC13WkxDc20xQjV0NGVtbW1QWG40bGpzbXdiQ0N4Mlk5bWltOHhKLVlkbnBfb1VYeXMyeVp2Y2VwU21rQVhXSV9LbW8xaA?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLXdWZ29VVUt1TlY1aC1MSG5yemwyTWpNa2k4UUpsMnR0eWlZbmJZSl9vc1NTLWI1dzQwY0pXZWg2WUMxWFZnQ0J5OEdSZWszRS1fZWZzU3ZtUWEtNWhZNlhwRUtUbXdJN2h3VnpaZWUtMV9pMFVEcGlwRDNqQkZIMWN1TFdNTlhQSGdna05FTExzLVNRWVVQUg?oc=5"
         },
         {
           "d": "theglobeandmail.com",
@@ -33,15 +33,40 @@
         }
       ],
       "srcTitles": [
-        "Nvidia Reports Earnings on Aug. 26. Here Are 3 Other Artificial Intelligence (AI) Chip Stocks I'll Be Watching Instead.",
         "Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Nvidia Reports Earnings on Aug. 26",
+        "Nvidia Reports Earnings on Aug. 26. Here Are 3 Other Artificial Intelligence (AI) Chip Stocks I'll Be Watching Instead.",
         "Nvidia Reports Earnings on Aug. 26. Here Are 3 Other Artificial Intelligence (AI) Chip Stocks I'll Be Watching Instead.",
         "Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Nvidia Reports Earnings on Aug. 26"
       ]
     },
     {
       "cat": "models",
-      "signal": 48,
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-24T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+      "s": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+      "b": [
+        "openai.com: Advancing price-performance for developers with GPT‑5.6 in Kiro"
+      ],
+      "body": [
+        "openai.com: GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/gpt-5-6-in-kiro"
+        }
+      ],
+      "srcTitles": [
+        "Advancing price-performance for developers with GPT‑5.6 in Kiro"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 44,
       "sources": 2,
       "ts": "2026-08-24T06:25:00.000Z",
       "writtenSources": 2,
@@ -69,31 +94,6 @@
       "srcTitles": [
         "Taiwanese prosecutors indict nine people, including Nvidia and Super Micro employees, for allegedly helping illegally export 74 high-end AI servers to China (Reuters)",
         "Nine indicted over AI server exports"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-08-24T12:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
-      "s": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
-      "b": [
-        "openai.com: Advancing price-performance for developers with GPT‑5.6 in Kiro"
-      ],
-      "body": [
-        "openai.com: GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/gpt-5-6-in-kiro"
-        }
-      ],
-      "srcTitles": [
-        "Advancing price-performance for developers with GPT‑5.6 in Kiro"
       ]
     },
     {
