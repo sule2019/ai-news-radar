@@ -2,40 +2,33 @@
   "date": "2026-08-24",
   "stories": [
     {
-      "cat": "policy",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-08-24T03:49:33.000Z",
-      "writtenSources": 2,
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-08-24T09:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
-      "s": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs WRAL",
+      "h": "Kids outlearn AI—and we still don t know why",
+      "s": "People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fl",
       "b": [
-        "wral.com: Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
-        "stamfordadvocate.com: Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs"
+        "technologyreview.com: Kids outlearn AI—and we still don t know why"
       ],
       "body": [
-        "wral.com: Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs WRAL",
-        "stamfordadvocate.com: Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs Stamford Advocate"
+        "technologyreview.com: People have been talking to each other for at least 100,000 years, as best we can tell. And in all that time, there has been only one thing in the world that could learn a human language to perfect fluency: a human child. Now there are two. Four short years after the release of ChatGPT, many of us now take it for granted that we can converse naturally with our phones or computers. LLMs like Claude, DeepSeek, and OpenAI’s GPT models are fluent and flexible enough to masquerade convincingly as humans. But peek behind the computational curtain, and there’s a catch: Teaching a computer to use human language still requires an inhuman amount of data. An LLM can easily churn through a hundred thousand times more words than a person will experience in the process of mastering their mother tongue—and way more than children might hear by their first birthday, when they typically start to grab hold of language. “The progress recently has been amazing,” Michael C. Frank, a cognitive scientist at Stanford University, says of LLMs. “But we still have to burn down a forest and scrape the entire sum of all human knowledge to re-create this milestone that happens in our living rooms over the course of a year.” This yawning divide between children and machines is called the data efficiency gap. And it raises a tantalizing question for cognitive scientists and a challenge for the architects of AI models: How is it that kids can still outperform the most linguistically sophisticated machines ever built? Finding answers has stakes for both AI research and cognitive science. For the past decade, language models have mostly gotten better by getting bigger. Meta’s open-weight LLM Llama 3.1, released two years ago, chewed through 15 trillion tokens (word-like chunks of language) in pretraining—the main step of training a model that happens before it is fine-tuned for a specific task, like being a chatbot. Frontier models could be pretraining on 10 times more data, says Ethan Gotlieb Wilcox,"
       ],
       "l": [
         {
-          "d": "myjournalcourier.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmxaZmxELXRRVnJMN0o2VjBpUl9NQzRMMHJJZzZSTHRQMi1kdTNwakVHMGRXYUtoWFpRbHU4QjFKR0RURzN0SDdXTG1nSGczb1RVancxQktDOFkxOWZkR2Q5dFVzbl9DU0NER09sWGFFckJReW9adFMxLXktLWhpVnBpdjhjeER1cDdQRWxTU2NxbnNVdkIxNGhvcjFpZWFLQWRJbVJ0ZTF3dFNydXN3?oc=5"
-        },
-        {
-          "d": "independent.co.uk",
-          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFd1Q3FEMk9kSzM4blNNRUMzemVEYWEwb0p1RWgwM1JHek9YRWM4QldKdDk1VDZPVDh3N2xfQWpIZllQNjlCcm9ya1FXeVh6Wnl1V3h4WXhiUGlWbTVRZjNkUllEa2JwQk9NSk4ybmxrWmlKaTcwNTZuZTlWSWFGVm90TnE3eUFIeWlVVGlURXZQcFlPd1Q3VGY5OUNZb3Nra3RjQkZ3?oc=5"
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/24/1141740/kids-machines-language-learning/"
         }
       ],
       "srcTitles": [
-        "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs - Jacksonville Journal-Courier",
-        "Workers in China worry over being replaced with AI: ‘Everyone else is using it’"
+        "Kids outlearn AI—and we still don t know why"
       ]
     },
     {
       "cat": "models",
-      "signal": 24,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-08-24T06:25:00.000Z",
       "writtenSources": 2,
@@ -61,8 +54,72 @@
         }
       ],
       "srcTitles": [
-        "Taiwan indicts 9 over alleged illegal export of AI servers to China",
+        "Taiwan indicts nine over alleged illegal export of AI servers to China",
         "Taiwan indicts nine over alleged illegal export of AI servers to China"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-24T03:59:03.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Peter Schiff Says Hitching Bitcoin to Artificial Intelligence Wagon is a Mistake: AI Isn't 'Bullish' for BTC, It's a 'Threat'",
+      "s": "Peter Schiff Says Hitching Bitcoin to Artificial Intelligence Wagon is a Mistake: AI Isn't 'Bullish' for BTC, It's a 'Threat' Benzinga",
+      "b": [
+        "benzinga.com: Peter Schiff Says Hitching Bitcoin to Artificial Intelligence Wagon is a Mistake: AI Isn't 'Bullish' for BTC, It's a 'Threat'",
+        "cointribune.com: Bitcoin: Peter Schiff Sees an AI Threat on Three Fronts"
+      ],
+      "body": [
+        "benzinga.com: Peter Schiff Says Hitching Bitcoin to Artificial Intelligence Wagon is a Mistake: AI Isn't 'Bullish' for BTC, It's a 'Threat' Benzinga",
+        "cointribune.com: Bitcoin: Peter Schiff Sees an AI Threat on Three Fronts Cointribune"
+      ],
+      "l": [
+        {
+          "d": "benzinga.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR1hZMTZBaXBTNlU3dVZfbmVQWF9QN3lNRWhfYmJiY2V6SHd2dEhDUkhWc1RpWC0wNElicjIyX2RlUkg3MmU5cEZXVGFHQ25KRFB0ZmJ5TUd3M1pGUFJ5RENIU21WZTdKX3lGN1RzN2dCekFnTWFpbHgzcmVKbmtUUF91WWlFaHY0cmswS1dCUF9YbGpub0RXUExLNzB1VDNDMXB6dm1aWXplNjJyZUdUOG1Yd1dsMms?oc=5"
+        },
+        {
+          "d": "cointribune.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNT2dZTFh5VTZpemt1SFdvS3QxODlidWVfVG1paHdyMTJ6bGNWZlA0bUh4ZExJZVN5ak5qTmY5LTliT3FRZnNZWmdlYmdxS2g1R1VkM1hZdWo4bjF6bmRfWk1yV3BESnBpVmdvQ2ZHMHRQZDNwaXh4djVYY1NmQXhMZml5dlVqOXRGQksxOF83RHdncXROdVE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Peter Schiff Says Hitching Bitcoin to Artificial Intelligence Wagon is a Mistake: AI Isn't 'Bullish' for BTC, It's a 'Threat'",
+        "Bitcoin: Peter Schiff Sees an AI Threat on Three Fronts"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-24T03:49:33.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
+      "s": "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs WRAL",
+      "b": [
+        "wral.com: Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
+        "stamfordadvocate.com: Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs"
+      ],
+      "body": [
+        "wral.com: Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs WRAL",
+        "stamfordadvocate.com: Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs Stamford Advocate"
+      ],
+      "l": [
+        {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUnNFR3Y3cF90OWxsb3hGdGZPYzd1QjVUbk9ldGVIdHFHUUNZQWc1R2YtdEpRMHpuUzI3aURHNDNiSFk3cHZ0ZEp1T2VWcUlFcjd0anM4SExFZ3NmSDMxeEVITl9jcWlxdXNoY1FDLUJ6WTRHa1VEZXphZktndnJTTE1CdEM3OGFEaTU1bkNnRjIxbXNwVDJhVDFhemRrVWU4cWtYc01tRGxiUDlPRzBteDFoX0lmbzZhWUxEdnNIbWtucVJFbEVV?oc=5"
+        },
+        {
+          "d": "independent.co.uk",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFd1Q3FEMk9kSzM4blNNRUMzemVEYWEwb0p1RWgwM1JHek9YRWM4QldKdDk1VDZPVDh3N2xfQWpIZllQNjlCcm9ya1FXeVh6Wnl1V3h4WXhiUGlWbTVRZjNkUllEa2JwQk9NSk4ybmxrWmlKaTcwNTZuZTlWSWFGVm90TnE3eUFIeWlVVGlURXZQcFlPd1Q3VGY5OUNZb3Nra3RjQkZ3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
+        "Workers in China worry over being replaced with AI: ‘Everyone else is using it’"
       ]
     }
   ]
