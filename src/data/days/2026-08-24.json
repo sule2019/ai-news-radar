@@ -29,7 +29,7 @@
         }
       ],
       "srcTitles": [
-        "Taiwanese prosecutors indict nine people, including Nvidia and Super Micro employees, for allegedly helping illegally export AI servers to China (Reuters)",
+        "Taiwanese prosecutors indict nine people, including Nvidia and Super Micro employees, for allegedly helping illegally export 74 high-end AI servers to China (Reuters)",
         "Nine indicted over AI server exports"
       ]
     },
@@ -62,12 +62,45 @@
       ],
       "srcTitles": [
         "Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Nvidia Reports Earnings on Aug. 26",
+        "Nvidia Reports Earnings on Aug. 26. Here Are 3 Other Artificial Intelligence (AI) Chip Stocks I'll Be Watching Instead.",
         "Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Nvidia Reports Earnings on Aug. 26"
       ]
     },
     {
+      "cat": "funding",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-08-24T09:00:57.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Hugging Face Considers $13 Billion Sale of Its AI Platform",
+      "s": "Hugging Face Considers $13 Billion Sale of Its AI Platform PYMNTS.com",
+      "b": [
+        "pymnts.com: Hugging Face Considers $13 Billion Sale of Its AI Platform",
+        "gizmodo.com: Hugging Face Reportedly Wants to Be Acquired for About $13 Billion"
+      ],
+      "body": [
+        "pymnts.com: Hugging Face Considers $13 Billion Sale of Its AI Platform PYMNTS.com",
+        "gizmodo.com: Hugging Face Reportedly Wants to Be Acquired for About $13 Billion Gizmodo"
+      ],
+      "l": [
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWVaNXFaOTFJZmlBeG5iR0wxRzdhVHlrNTB1aFhrNjFfYmtXMllROU9qcXh0OXplY0s4UnFJRmg2VXVvYTBySFFwNHFVbzRuS0hmWTl2OGFGV09feVRfNUtzWkVhRmw3cXlTc0c0eEZQbUJiNFc3eWZ1T2NndFl1SlNYYnE4UnhLbG5menRHMUZSWVpWTmhxak5kWDJzYjVaY0xLRE9udVU3M0FlVy16cXBlMXVMZw?oc=5"
+        },
+        {
+          "d": "linkedin.com",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdElfeDZ4ekdhMUJwOGEtcm95TzBicFJmSFRYeE5JMDFuODVudDRfejRlOHlWZ3BwTUJkSXFjSTVaLWVoWVlObXV5UjhvTV9EQ3FNNDBISWdzeFg3WExxRVlnZkVFSlRyUklwQTQ1RlpYNy10QWpmQVhDSHN3UGtpay1KanhCazQySmZiaTlPaV95WlFLampnS3BLR0RMNmhPS2tsUERVdEs0NzJzbE03Z3llS1RnWEJDVXc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Hugging Face Considers $13 Billion Sale of Its AI Platform",
+        "The AI industry's next blockbuster acquisition may not be another model maker. Business Insider's Katie Roof exclusively reports that Hugging Face, whose platform helps developers discover, share, and build AI models, has been exploring a sale that could v"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-08-24T11:15:42.000Z",
       "writtenSources": 2,
@@ -95,43 +128,6 @@
       "srcTitles": [
         "Kasparov on machine intelligence",
         "The Contest of the Machines: ChatGPT and the New Generation of Artificial Intelligence"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 35,
-      "sources": 3,
-      "ts": "2026-08-24T09:00:57.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Hugging Face Considers $13 Billion Sale of Its AI Platform",
-      "s": "Hugging Face Considers $13 Billion Sale of Its AI Platform PYMNTS.com",
-      "b": [
-        "pymnts.com: Hugging Face Considers $13 Billion Sale of Its AI Platform",
-        "gizmodo.com: Hugging Face Reportedly Wants to Be Acquired for About $13 Billion"
-      ],
-      "body": [
-        "pymnts.com: Hugging Face Considers $13 Billion Sale of Its AI Platform PYMNTS.com",
-        "gizmodo.com: Hugging Face Reportedly Wants to Be Acquired for About $13 Billion Gizmodo"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/"
-        },
-        {
-          "d": "gizmodo.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRl9lM043ZF9xSFpFQ2hwcHdOdVZZSlJKbTJHeVF4MmFmNl8zTGpaRklDSG5Db3JlcFBvSV9nLWdJejV6QW5MSThhRGRoenh2Q1BCeHZQWXhmUDJQX3F3WUZXQmZTNFZ0RlJVODJQalc3eWN0OE1DM25Kdk9JaXNiQVlLRVJfWVFNM0w5aHFfTnhRT2w2MWJYalVnT1c?oc=5"
-        },
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZWVaNXFaOTFJZmlBeG5iR0wxRzdhVHlrNTB1aFhrNjFfYmtXMllROU9qcXh0OXplY0s4UnFJRmg2VXVvYTBySFFwNHFVbzRuS0hmWTl2OGFGV09feVRfNUtzWkVhRmw3cXlTc0c0eEZQbUJiNFc3eWZ1T2NndFl1SlNYYnE4UnhLbG5menRHMUZSWVpWTmhxak5kWDJzYjVaY0xLRE9udVU3M0FlVy16cXBlMXVMZw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Hugging Face reportedly in talks to be acquired for $13B",
-        "Hugging Face Reportedly Wants to Be Acquired for About $13 Billion",
-        "Hugging Face Considers $13 Billion Sale of Its AI Platform"
       ]
     },
     {
