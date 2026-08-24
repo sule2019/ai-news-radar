@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 32,
-      "sources": 2,
+      "signal": 33,
+      "sources": 3,
       "ts": "2026-08-24T03:49:33.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -26,11 +26,16 @@
         {
           "d": "myjournalcourier.com",
           "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbmxaZmxELXRRVnJMN0o2VjBpUl9NQzRMMHJJZzZSTHRQMi1kdTNwakVHMGRXYUtoWFpRbHU4QjFKR0RURzN0SDdXTG1nSGczb1RVancxQktDOFkxOWZkR2Q5dFVzbl9DU0NER09sWGFFckJReW9adFMxLXktLWhpVnBpdjhjeER1cDdQRWxTU2NxbnNVdkIxNGhvcjFpZWFLQWRJbVJ0ZTF3dFNydXN3?oc=5"
+        },
+        {
+          "d": "independent.co.uk",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMFd1Q3FEMk9kSzM4blNNRUMzemVEYWEwb0p1RWgwM1JHek9YRWM4QldKdDk1VDZPVDh3N2xfQWpIZllQNjlCcm9ya1FXeVh6Wnl1V3h4WXhiUGlWbTVRZjNkUllEa2JwQk9NSk4ybmxrWmlKaTcwNTZuZTlWSWFGVm90TnE3eUFIeWlVVGlURXZQcFlPd1Q3VGY5OUNZb3Nra3RjQkZ3?oc=5"
         }
       ],
       "srcTitles": [
         "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs",
-        "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs - Jacksonville Journal-Courier"
+        "Workers in China worry over being replaced as they adapt to the growing impact of AI on jobs - Jacksonville Journal-Courier",
+        "Workers in China worry over being replaced with AI: ‘Everyone else is using it’"
       ]
     }
   ]
