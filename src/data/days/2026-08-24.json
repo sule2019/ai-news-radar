@@ -3,38 +3,6 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 56,
-      "sources": 2,
-      "ts": "2026-08-24T06:25:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Taiwan indicts 9 over alleged illegal export of AI servers to China",
-      "s": "Taiwan indicts 9 over alleged illegal export of AI servers to China Reuters",
-      "b": [
-        "reuters.com: Taiwan indicts 9 over alleged illegal export of AI servers to China",
-        "kfgo.com: Taiwan indicts nine over alleged illegal export of AI servers to China"
-      ],
-      "body": [
-        "reuters.com: Taiwan indicts 9 over alleged illegal export of AI servers to China Reuters",
-        "kfgo.com: Taiwan indicts nine over alleged illegal export of AI servers to China The Mighty 790 KFGO"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260824/p19#a260824p19"
-        },
-        {
-          "d": "taipeitimes.com",
-          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xVTZTdGRqaFlQUDlOdHlqNDctaE1xV3ZCV3lpMzk3cXFJcGpMYXdNSjZiS043UGVlZjVreTM3TlloMUVZOTFWWjFCcGF6X3M2RGdYeG85dTd2VW80dVFNelp2VjFzNUNGX0VHSERZR0NEVGtLNlU2NA?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Taiwanese prosecutors indict nine people, including Nvidia and Super Micro employees, for allegedly helping illegally export 74 high-end AI servers to China (Reuters)",
-        "Nine indicted over AI server exports"
-      ]
-    },
-    {
-      "cat": "models",
       "signal": 55,
       "sources": 3,
       "ts": "2026-08-24T16:52:24.000Z",
@@ -69,6 +37,38 @@
         "Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Nvidia Reports Earnings on Aug. 26",
         "Nvidia Reports Earnings on Aug. 26. Here Are 3 Other Artificial Intelligence (AI) Chip Stocks I'll Be Watching Instead.",
         "Prediction: This Artificial Intelligence (AI) Stock Will Go Parabolic After Nvidia Reports Earnings on Aug. 26"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 52,
+      "sources": 2,
+      "ts": "2026-08-24T06:25:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Taiwan indicts 9 over alleged illegal export of AI servers to China",
+      "s": "Taiwan indicts 9 over alleged illegal export of AI servers to China Reuters",
+      "b": [
+        "reuters.com: Taiwan indicts 9 over alleged illegal export of AI servers to China",
+        "kfgo.com: Taiwan indicts nine over alleged illegal export of AI servers to China"
+      ],
+      "body": [
+        "reuters.com: Taiwan indicts 9 over alleged illegal export of AI servers to China Reuters",
+        "kfgo.com: Taiwan indicts nine over alleged illegal export of AI servers to China The Mighty 790 KFGO"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260824/p19#a260824p19"
+        },
+        {
+          "d": "taipeitimes.com",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9xVTZTdGRqaFlQUDlOdHlqNDctaE1xV3ZCV3lpMzk3cXFJcGpMYXdNSjZiS043UGVlZjVreTM3TlloMUVZOTFWWjFCcGF6X3M2RGdYeG85dTd2VW80dVFNelp2VjFzNUNGX0VHSERZR0NEVGtLNlU2NA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Taiwanese prosecutors indict nine people, including Nvidia and Super Micro employees, for allegedly helping illegally export 74 high-end AI servers to China (Reuters)",
+        "Nine indicted over AI server exports"
       ]
     },
     {
@@ -115,8 +115,8 @@
       ],
       "l": [
         {
-          "d": "yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQnNpNUZvYXMzVjQ4OVlodlFGZ3AwZWxYUUZFNWFMRFlvUXZTNlJmYXRDMTd6eWFCSjU3dW1RYlprZ1h6bW5aSFNNQnRJRHNpREVyMEVDaXY4R01DcTNFaVpVU3lGT3dfRGtiekl0V0JURW1VMFh6V0ZsOGVvbXJXUXFfbnREdld6M0l3MWtzaFI?oc=5"
+          "d": "pbs.org",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeHdsRjl3VlMtaUtJYzJQdFg5cWp0ZGJEbFZDX0FQQnBHVkFseWRIRHhZdWttYl9oalBPMXhhZzZETlplTEx3ZFJjcDhxbThKcmtTNkhla2xMUFVZbWZ3ZWhORkRjQUFZcm51QjVQWms1ajcwXzVpSWdvNnZ6ZUliXzdpd0FLXzByUDBMWDAyMXdXZWYwanVJY3c4N1gwU2FNTUdybDhKN0N1dHAzSHN4MFl4bGJ0UzBBdjFFbUlhQkxZdGRMMVHSAcsBQVVfeXFMTTl5Y2doZWt0WUxYb2M3aWl2alQzWWc3WUlENUpSWGhaS3NRY2xSbHlWeTJWazRjQWx2S2ExTXRZV1JITmNLdnpMTmhudW5uWld1UEVEY3dGZ3Rndml5RXozOHZQbDNDVkdWV19sdk12bDRGY0YxMGpqTFR3RXJyNlJkYktkTjNFT0NjWW5iSm03U3pzUHQ3Y0NEdVp3T3daMTJPNExDazQzTGgydGFuT29IX3l3dmtaYlhCWG9KMWRIbHZpT21rZk1Obm8?oc=5"
         },
         {
           "d": "wral.com",
