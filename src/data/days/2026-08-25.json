@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 62,
+      "signal": 59,
       "sources": 2,
       "ts": "2026-08-25T13:01:22.000Z",
       "writtenSources": 2,
@@ -38,7 +38,7 @@
     },
     {
       "cat": "policy",
-      "signal": 59,
+      "signal": 55,
       "sources": 2,
       "ts": "2026-08-25T12:10:07.000Z",
       "writtenSources": 2,
@@ -66,6 +66,38 @@
       "srcTitles": [
         "Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters)",
         "Google expands Gemini AI platform for law firms, lawyers"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 44,
+      "sources": 2,
+      "ts": "2026-08-25T00:23:12.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+      "s": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+      "b": [
+        "techcrunch.com: Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+        "upi.com: SEC investigating AI-focused hedge fund Situational Awareness"
+      ],
+      "body": [
+        "techcrunch.com: The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+        "upi.com: SEC investigating AI-focused hedge fund Situational Awareness upi.com"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/"
+        },
+        {
+          "d": "upi.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTWpfYkFHTDNfUDlNaFdBdEhUSHQ5eF90b0xSZHBTaElaTFpDOWtvVFVnS0FhRlRoZUI2WmpCenFHdGN6LUVzUXhTRVpRYTlOTHhvdnRYUkppbWNpWWUtUVZ6cmJjbUhZZTFBdlN3ZzVzYUFkaExsQTZBbkVSUXhmTk9EdU95M0VtU0FGOGRwQ3NwTHZ6RTR5TlVoalPSAaIBQVVfeXFMT0hJckJvUzNfWS1RYzQ2eEQyMHJJOFhJUGx5bjczd0hxQ1hCc1hSdm9uZWZjaDRqR1diOGFoVmQzWVAyYS10SkVqbjdmSEh2TU9NbURtcjctZDF2OEdXZmFhNnFUTmJWd3lpZldJTHgwNDZ3Q19xTEZDRnV1b1pwQUMwNHA3S0ZwTnJCSWFrdGdtYUJsOVpDYXVYRFJtVTc0NU53?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+        "SEC investigating AI-focused hedge fund Situational Awareness"
       ]
     },
     {
@@ -157,6 +189,31 @@
       ],
       "srcTitles": [
         "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw."
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-25T07:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Jalapeño’s first results show industry-leading speed and efficiency in AI inference",
+      "s": "Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models.",
+      "b": [
+        "openai.com: Jalapeño’s first results show industry-leading speed and efficiency in AI inference"
+      ],
+      "body": [
+        "openai.com: Jalapeño is a custom inference chip from OpenAI that delivers faster, more power-efficient AI inference, with higher throughput and lower latency for modern models."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/jalapeno-first-results"
+        }
+      ],
+      "srcTitles": [
+        "Jalapeño’s first results show industry-leading speed and efficiency in AI inference"
       ]
     },
     {
