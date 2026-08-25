@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 68,
-      "sources": 3,
+      "signal": 75,
+      "sources": 4,
       "ts": "2026-08-25T14:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -28,15 +28,19 @@
           "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWmQwQmNxZ285cWMxaVoxaklwVHEyQjI1QUJaaDd1c3pWTTVFeXRZbWZNaUsxVnFjWC1YZWRBZ0hLaGtIYThhUTN3NS1RbHBpWTBLUVE0azBpaGNsalpYNjhWM3JVLVBQNVFfZEM4ZzFHVGF6ZlNTNU12MFk2QUhTOUw0OHBvaVp0bUt4QnlBRV9KUFc5ZmZSUk9CVGcxM1FYWmluLTQwR18?oc=5"
         },
         {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks"
+        },
+        {
           "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260825/p31#a260825p31"
+          "u": "https://www.techmeme.com/260825/p24#a260825p24"
         }
       ],
       "srcTitles": [
         "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
         "OpenAI's Jalapeño Chip Boosts AI Inference",
         "OpenAI Unveils Jalapeño Chip",
-        "A detailed look at Jalapeño, OpenAI's ASIC developed with Broadcom in 16 months, which beat Nvidia, AMD, and Google chips on multiple top open-weight models (SemiAnalysis)"
+        "OpenAI says its Jalapeño chip can power faster AI responses than the competition"
       ]
     },
     {
@@ -108,7 +112,7 @@
     {
       "cat": "models",
       "signal": 50,
-      "sources": 31,
+      "sources": 30,
       "ts": "2026-08-24T22:29:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -140,7 +144,7 @@
           "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWgtRmQ4NEdGdVlWWUQ2UkM1WXJ0cEZUOXZOSjJJcFd0YVRnUUxteHYxd3djM1pBNXRXeTB6WExxbXg0dG9YRFZadk13WVR4bHYzbU8xQkZZYjE5aVI2TE9qMFJfR01YWXliMmREdUlWTjY1ZzNLRDhrMVlRVmwxMHctRm5KQXJOdUppTkp2Ui00SW0zU2sxUXJHUUNvNW5hTlgxdlhFUDlSQ1E4TkUxYzFaQ1YxSUVUUUhxSlFWX1VvQdIB1gFBVV95cUxNaldUU0xfdk9tV0l5dzdhZVVtUGVkbGhUVDFwUHJ0cnY4a3NqbjhZZHZveHFhZkFLa0J6RW9zeS1GaElFMDVzazB3VVVUd0xrTkE2eHdPbGZHN2swTlFLc0FhYkN6b2UwamI1bG1aNkRnY0diRHRyellNOE5vcHB3Wll5LWR1U2VLcVRWYi1mZm5NTnRGSGtlMXpkVXdhUnBLNDlxZGdUU1VLUUJES0xLUEwwUF9fdlp2NWVWYl9mTUdoX09NdmI1Tzl5SS00YjFVa1NpWFZB?oc=5"
         },
         {
-          "d": "+27"
+          "d": "+26"
         }
       ],
       "srcTitles": [
@@ -151,8 +155,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-25T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "s": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "b": [
+        "openai.com: Introducing the Admin plugin for ChatGPT Work and Codex"
+      ],
+      "body": [
+        "openai.com: Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-admin-plugin"
+        }
+      ],
+      "srcTitles": [
+        "Introducing the Admin plugin for ChatGPT Work and Codex"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 47,
+      "signal": 43,
       "sources": 2,
       "ts": "2026-08-25T13:01:22.000Z",
       "writtenSources": 2,
@@ -187,7 +216,7 @@
     },
     {
       "cat": "funding",
-      "signal": 36,
+      "signal": 32,
       "sources": 2,
       "ts": "2026-08-25T00:23:12.000Z",
       "writtenSources": 2,
@@ -219,7 +248,7 @@
     },
     {
       "cat": "policy",
-      "signal": 35,
+      "signal": 31,
       "sources": 2,
       "ts": "2026-08-25T12:10:07.000Z",
       "writtenSources": 2,
