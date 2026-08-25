@@ -38,7 +38,7 @@
     },
     {
       "cat": "policy",
-      "signal": 55,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-08-25T12:10:07.000Z",
       "writtenSources": 2,
@@ -124,12 +124,49 @@
         },
         {
           "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNR0hwVFJQNjBZdWRlaG01RmRJbUV4dnhpNWlJM2VBdFZFOUlubWtlWjdKSWt3YVQ1S3ljLTRMVkg2dURGaFhjWlJFclFYd3lSUGZCYkp4eUJiQVdpQTB1VjF1aUNBVVphRldRT09Ra0lCVHlrN1E0d0QxNHVIRGxBNzhHcTVRWWVocG83eVhRVVVWc3hvaDMyT1ZnSjFXTVNNV0NKMkwzejhmZHdPZU9zUkpYQTlxNjZJaGxES0FVUWNURVJXTGpFOTVWVnkwOXRLVWQ3bmsyRzFuaHRTRVFsQzBNWjk2T2ZxT3FRXzVMUkpCdUdwakM4SUwzNDFxdw?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPY0Z2aEhkc0xFWHN3N3QwVm51SmlGQlJWcFFuUFBsUVZLTGxrSXg2Wnh0UGVIYUJxVzJBN1hXdTBvWUJRLU5SWmQ5Rms0bG5Sdm1ZMjRlb25sWmlnVDk2RDZEYTFqV1BXYk9RWVJFVF8yWFZSVEZEM2xmYW96d2ZDaUNMXzc4a21fbzg4ZnBiQ3ozb3lVUEtMUTFtcks3YVV2bEhVTUczWExKOTM3OXZ0MzVOZ1NIMmNHb2p1NjRUaDJFN0hXUlo0SkZrb0gzUG4xOU1oRVB4Z1ZYQUIyV2JsdFlielNrYUdIOU9uWXNMR2RNQmIxVU5jRXl6Wm1mV0dNTGhsZTh3?oc=5"
         }
       ],
       "srcTitles": [
         "These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street",
         "These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-25T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial intelligence and sensor-fusion systems in sustainable robotics for precision agriculture",
+      "s": "Artificial intelligence and sensor-fusion systems in sustainable robotics for precision agriculture Innovation News Network",
+      "b": [
+        "innovationnewsnetwork.com: Artificial intelligence and sensor-fusion systems in sustainable robotics for precision agriculture",
+        "arxiv.org: What is an intelligent system?",
+        "arxiv.org: Mission-Aligned Learning-Informed Control of Autonomous Systems: Formulation and Foundations"
+      ],
+      "body": [
+        "innovationnewsnetwork.com: Artificial intelligence and sensor-fusion systems in sustainable robotics for precision agriculture Innovation News Network",
+        "arxiv.org: arXiv:2009.09083v4 Announce Type: replace-cross Abstract: The term intelligent system has emerged in the field of information technology as a category of computer systems derived from successful applications of artificial intelligence. This paper proposes a general description that identifies the main properties and types of components typically found in such systems. Adopting an integrative and pedagogical approach, this description provides a conceptual framework for systems engineering practitioners seeking a coherent vocabulary and organizational structure to approach the analysis and construction of intelligent systems. The paper presents examples of both classical and modern intelligent systems to illustrate the generality and applicability of the description.",
+        "arxiv.org: arXiv:2507.04356v3 Announce Type: replace-cross Abstract: Research, innovation and practical capital investment have been increasing rapidly toward the realization of autonomous physical agents. This includes industrial and service robots, unmanned aerial vehicles, embedded control devices, and a number of other realizations of cybernetic/mechatronic implementations of intelligent autonomous devices. In this paper, we consider a stylized version of robotic care, which would normally involve a two-level Reinforcement Learning procedure that trains a policy for both lower level physical movement decisions as well as higher level conceptual tasks and their sub-components. In order to deliver greater safety and reliability in the system, we present the general formulation of this as a two-level optimization scheme which incorporates control at the lower level, and classical planning at the higher level, integrated with a capacity for learning. This synergistic integration of multiple methodologies -- control, classical planning, and RL -- presents an opportunity for greater insight for algorithm development, leading to more efficient and reliable performance. Here, the notion of reliability pertains to physical safety and interpretability into an otherwise black box operation of autonomous agents, concerning users and regulators. This work presents the necessary background and general formulation of the optimization framework, detailing each component and its integration with the others.",
+        "arxiv.org: arXiv:2601.16890v2 Announce Type: replace-cross Abstract: Automated fact-checking (AFC) systems are susceptible to adversarial attacks, enabling false claims to evade detection. Existing adversarial frameworks typically rely on injecting noise or altering semantics, yet no existing framework exploits the adversarial potential of persuasion techniques against AFC systems, which are widely used in disinformation campaigns to manipulate audiences. In this paper, we introduce a novel class of persuasive adversarial attacks on AFCs by employing an LLM to rephrase claims using persuasion techniques. Considering $15$ techniques grouped into $5$ categories, we study the effects of persuasion on both claim verification and evidence retrieval using a decoupled evaluation strategy. Experiments on the FEVER and FEVEROUS benchmarks show that persuasion attacks can substantially degrade both verification performance and evidence retrieval. Our analysis identifies persuasion techniques as a potent class of adversarial attacks, highlighting the need for more robust AFC systems."
+      ],
+      "l": [
+        {
+          "d": "innovationnewsnetwork.com",
+          "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNalJqRGlzZlYySkpsZFB6eXl6OEhvN1ZhUVRHNEhjNFlmVjh4dklRaEtuY19SMkpnLWR5azRSZml4SnYtRnBZYjlUM3UwcWhYQXFuY1pRSTZkZ0pmZ0tRdGdmanRBN1E1MkdYSm1oWjhjaE5NTG1BQmlDV3FlOUN5LUlGMUNHeGk5ZmFYc0tZNG5MTG52RFdqdU9GYnRPUmdGS0lUSHhtZ3pfWndnaWZOOFNMcXh0QTc0NXN1a3hsbklFbkVicnhQTFBzWERwcV9JZmIxTFVvMGtRb29z?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2009.09083"
+        }
+      ],
+      "srcTitles": [
+        "Artificial intelligence and sensor-fusion systems in sustainable robotics for precision agriculture",
+        "What is an intelligent system?",
+        "Mission-Aligned Learning-Informed Control of Autonomous Systems: Formulation and Foundations",
+        "LLM-Based Adversarial Persuasion Attacks on Fact-Checking Systems"
       ]
     },
     {
