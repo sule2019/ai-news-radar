@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 76,
-      "sources": 28,
+      "signal": 79,
+      "sources": 42,
       "ts": "2026-08-24T22:29:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -28,22 +28,22 @@
           "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVXFSVjh3OHZleW9Bc2lFbnJRMUhUNHRYVXhGaFJGVGRKQXROZjU0MHpxZGYyMDFYTE9Sdk1POENhenEta19DOGp6R2QwUG5oelA1Wm1OaWFiOHZyVmpsX2hlX29fd2JyTzBSdDhnUkc4MTRIUy1FNXhvWGFSVlZQcTNmUnBndw?oc=5"
         },
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDRqdXNxbHZqZHJNLUd3dzVXcXZoQldNb1NxTGR3bTVBRkxGY2pGUHZoWHJkZmxnaEVib1JOQzhuaV9XWGlSY2FFRWlhbjFJQktib09yamZSNkJLdV9BVURCbXF1elpGMWFZc0lRamxaaDFrTUJHQzlJUVlLWUtHaW1zMjNiYm9yVm12bkZSMHo0MnR5QUNPaTJBVVRldWpaZjk5LWo2c1JTT2FKNXhzNUxBWThRb1g1NXc4aUNVNnZSQnkzYm4wV2VMWnhWUQ?oc=5"
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTdvSkZfVUh4VnlWSUs3ZVdnVWVyR1JnT3dDLXRaM1BnWlZzeFFXOWhwek1DRGNYdWpHVVRPbHh6djhsSThXRmVLczAzb3lMaC1EREdHckE5a3l3bGJPRkxBVml1ZzJMSURsSnpLX1d0aDBWNWR5Yl9YZ0RvQXZRV3Bock1hYXFleFlkZnRWTmRxc19yUG9tNjJqYw?oc=5"
         },
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNTgxRFl5SHpxWUJoMGp5emZhWDRGWG9lY2NDdjlaWjZSam10dGJfXy1vdzMwMGdDLUxWREV0WGxhYVJJQ3BnclhhUm4wc0F1RG4wa3JsS3dyampDaldsOGo2MG1rellaclQyLXhuT1pubDhGOFJQbkw0MjFhU2F1Z2Jqam1OVFQ0N0dhMUN0ZEZDV1laSWluUXZhUkZqSmxDdGc?oc=5"
+          "d": "laprogressive.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zVVo2T0JVdWhicUM2ZkM0WkJEN0RZeUR0UGhZRUZpMkhmcFRIY0JmWmRJZmFCQWZsTmNsbDFDNjBfZndvWEdKUlczX3ZtenJIbmI5cklCb3pUTFZybjJrazk2M0N6ZjhidXduVmZvUmVDSWZCa0E?oc=5"
         },
         {
-          "d": "+24"
+          "d": "+38"
         }
       ],
       "srcTitles": [
         "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
         "Alabama launches OpenAI probe after artificial intelligence agent hacks Hugging Face during testing",
-        "These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street",
-        "These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street"
+        "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
+        "Artificial Intelligence or Artificial Unintelligence?"
       ]
     },
     {
@@ -161,45 +161,6 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 52,
-      "sources": 3,
-      "ts": "2026-08-25T07:00:15.000Z",
-      "writtenSources": 3,
-      "draft": true,
-      "h": "Experts weigh costs, benefits of using artificial intelligence in education",
-      "s": "Experts weigh costs, benefits of using artificial intelligence in education KSNV",
-      "b": [
-        "news3lv.com: Experts weigh costs, benefits of using artificial intelligence in education",
-        "aginfo.net: How Will Ag Benefit from Artificial Intelligence?",
-        "1819news.com: AG Marshall launches investigation into OpenAI and founder Sam Altman for massive artificial intelligence data breach"
-      ],
-      "body": [
-        "news3lv.com: Experts weigh costs, benefits of using artificial intelligence in education KSNV",
-        "aginfo.net: How Will Ag Benefit from Artificial Intelligence? AG INFORMATION NETWORK OF THE WEST",
-        "1819news.com: AG Marshall launches investigation into OpenAI and founder Sam Altman for massive artificial intelligence data breach 1819 News"
-      ],
-      "l": [
-        {
-          "d": "news3lv.com",
-          "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQemZBcUM4TUhSN2VuX3BNUGtpOG5sbV9BNk5admNpZ205RXNyT0ZKNEVPVU5hNGZKVHhFNnhUN0RkUDJJZnI5NlRnWlJ4NW5yNWhRUTlQWXF2ZzRGM1JZM1JSaG01U0Y4b2t2aVlkMG9KR0NzSWdjdTNFWHliVzh2SGNnSy15cFdzSWU1T0tCeFVSWmRTTkVzUzgyb3V6a1NmVmlMeEwtZ0d5YkxnQnhRT1J0aVlmNzRzME1xc1BDUzQ1bWdjVThqVFhOQ0NWR29MMkZuZ3FTWUJrdw?oc=5"
-        },
-        {
-          "d": "aginfo.net",
-          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWl9qdlZrMXRuQ2hSdkZ1dVQtYVpDQ1NKZHJKOW1JekVad3hKWWpXRjQ2eW9hMmFDVHItcnRWVXIzNFBOSUpFRzNIWVlLQVAtRzE0Y3ZjT3lBVTF3dkxTbHluZ3ltaGNLRkhCcDBBU05vemFBNVFzWW1PNzZNemlfZ3NjcXctVnFuODZpMmtmQ0RNeUlqRnE4MkV6Yy1oZHJqaWFBQlRYaw?oc=5"
-        },
-        {
-          "d": "1819news.com",
-          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOYWk4TTRVeFgyT3J6bmZma3lNWHhZNnRZc1VITlN5RE00OUpZX1NPZFFLMTdnTnVxcHlpMXZ6WHQxcWFGUlRRRmtla2VfY3ZvdXEtVlUydTBuTGdBV3ZjV0c2MnZDM1IzMTZpSVpHTFhNRzF6c3RFZjZzVEdXVUpOakxIbG9KTVFPVU91Y1RUYkg1NGlXXzdHcGNPWGRBakc5V1JGaEgwcGxuUDUzU21yUXMzRkJnbE11WTZoV1Q5bWl1S2pDMXBYTnJVWHM4alg2dkRydUpLYzIydWpGTUdFaXhR?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Experts weigh costs, benefits of using artificial intelligence in education",
-        "How Will Ag Benefit from Artificial Intelligence?",
-        "AG Marshall launches investigation into OpenAI and founder Sam Altman for massive artificial intelligence data breach"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 51,
       "sources": 2,
@@ -232,8 +193,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-25T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "5 ways to upgrade your home decor with Google Search",
+      "s": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+      "b": [
+        "blog.google: 5 ways to upgrade your home decor with Google Search"
+      ],
+      "body": [
+        "blog.google: Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/search/home-decor-tips/"
+        }
+      ],
+      "srcTitles": [
+        "5 ways to upgrade your home decor with Google Search"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-08-25T14:40:03.000Z",
       "writtenSources": 2,
@@ -261,31 +247,6 @@
       "srcTitles": [
         "Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs (Michael Nuñez/VentureBeat)",
         "Perplexity’s on-device AI offering promises data control and lower token costs"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-08-25T16:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "5 ways to upgrade your home decor with Google Search",
-      "s": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
-      "b": [
-        "blog.google: 5 ways to upgrade your home decor with Google Search"
-      ],
-      "body": [
-        "blog.google: Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/products-and-platforms/products/search/home-decor-tips/"
-        }
-      ],
-      "srcTitles": [
-        "5 ways to upgrade your home decor with Google Search"
       ]
     },
     {
