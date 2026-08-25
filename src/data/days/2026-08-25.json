@@ -3,52 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 77,
-      "sources": 33,
-      "ts": "2026-08-24T22:29:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Missouri college students face developing artificial intelligence models as they return to campus",
-      "s": "Missouri college students face developing artificial intelligence models as they return to campus WGEM",
-      "b": [
-        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus",
-        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus"
-      ],
-      "body": [
-        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus WGEM",
-        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus KY3"
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack"
-        },
-        {
-          "d": "jpost.com",
-          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVXFSVjh3OHZleW9Bc2lFbnJRMUhUNHRYVXhGaFJGVGRKQXROZjU0MHpxZGYyMDFYTE9Sdk1POENhenEta19DOGp6R2QwUG5oelA1Wm1OaWFiOHZyVmpsX2hlX29fd2JyTzBSdDhnUkc4MTRIUy1FNXhvWGFSVlZQcTNmUnBndw?oc=5"
-        },
-        {
-          "d": "wsj.com",
-          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTdvSkZfVUh4VnlWSUs3ZVdnVWVyR1JnT3dDLXRaM1BnWlZzeFFXOWhwek1DRGNYdWpHVVRPbHh6djhsSThXRmVLczAzb3lMaC1EREdHckE5a3l3bGJPRkxBVml1ZzJMSURsSnpLX1d0aDBWNWR5Yl9YZ0RvQXZRV3Bock1hYXFleFlkZnRWTmRxc19yUG9tNjJqYw?oc=5"
-        },
-        {
-          "d": "laprogressive.com",
-          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zVVo2T0JVdWhicUM2ZkM0WkJEN0RZeUR0UGhZRUZpMkhmcFRIY0JmWmRJZmFCQWZsTmNsbDFDNjBfZndvWEdKUlczX3ZtenJIbmI5cklCb3pUTFZybjJrazk2M0N6ZjhidXduVmZvUmVDSWZCa0E?oc=5"
-        },
-        {
-          "d": "+29"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-        "Alabama launches OpenAI probe after artificial intelligence agent hacks Hugging Face during testing",
-        "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
-        "Artificial Intelligence or Artificial Unintelligence?"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 75,
+      "signal": 72,
       "sources": 4,
       "ts": "2026-08-25T14:00:00.000Z",
       "writtenSources": 2,
@@ -78,7 +33,7 @@
         },
         {
           "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260825/p24#a260825p24"
+          "u": "https://www.techmeme.com/260825/p31#a260825p31"
         }
       ],
       "srcTitles": [
@@ -131,6 +86,81 @@
     },
     {
       "cat": "models",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-08-25T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Introducing the Admin plugin for ChatGPT Work and Codex",
+      "s": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "b": [
+        "openai.com: Introducing the Admin plugin for ChatGPT Work and Codex"
+      ],
+      "body": [
+        "openai.com: Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-admin-plugin"
+        },
+        {
+          "d": "startuphub.ai",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNEgweDFsUFJQcFZEOGtEck1Wc3RURDZxN3ExUk9hRGJ0UFp2ajVpcjE5VEo4MFJTUkx6U2w2WVFuNnhaQWQ1NktKS2I4MUVqRnlhT3VlREZLVmFpOVI0Rl9sUEZobWtRX2ZJWGRXN3V5elkxMGJJcEFQMFJPQV84a1E0UG5WeTFHVVBHR3NabFlOS0RySUFQMUJ3TGg4Z1pEckNEMHFhTUpIZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Introducing the Admin plugin for ChatGPT Work and Codex",
+        "OpenAI Admin Plugin Simplifies ChatGPT Work"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 50,
+      "sources": 32,
+      "ts": "2026-08-24T22:29:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Missouri college students face developing artificial intelligence models as they return to campus",
+      "s": "Missouri college students face developing artificial intelligence models as they return to campus WGEM",
+      "b": [
+        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus",
+        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus"
+      ],
+      "body": [
+        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus WGEM",
+        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus KY3"
+      ],
+      "l": [
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTdvSkZfVUh4VnlWSUs3ZVdnVWVyR1JnT3dDLXRaM1BnWlZzeFFXOWhwek1DRGNYdWpHVVRPbHh6djhsSThXRmVLczAzb3lMaC1EREdHckE5a3l3bGJPRkxBVml1ZzJMSURsSnpLX1d0aDBWNWR5Yl9YZ0RvQXZRV3Bock1hYXFleFlkZnRWTmRxc19yUG9tNjJqYw?oc=5"
+        },
+        {
+          "d": "laprogressive.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zVVo2T0JVdWhicUM2ZkM0WkJEN0RZeUR0UGhZRUZpMkhmcFRIY0JmWmRJZmFCQWZsTmNsbDFDNjBfZndvWEdKUlczX3ZtenJIbmI5cklCb3pUTFZybjJrazk2M0N6ZjhidXduVmZvUmVDSWZCa0E?oc=5"
+        },
+        {
+          "d": "abc7news.com",
+          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQUNhWktaR1dOX1dlQk14LUk2d1B0YnlYUHBYYWdrQThTTXNlcG5UVy02YVpuc3NXelA5SmY1VC01RWVKSXI2aVBvcGl6akE0UUw5RWFFNGYtX0tzN3BuQms4Wi1BLVhjMjJIUF9QS0Mwc2dGdnBFYjlUd0JGdzRPN1JwUDFZeDNyZmVmTGl0c2l0SGU5dEV1UHFCLUdNcnFxWlB4cDdjQVhEVUlOMWc5b1JsTUlKa0lQTUFFUS0tTE9zWkNmcHRpOUpYLWRHVEQ4empCbENhOTJWVWgwRDE1Wkh30gHnAUFVX3lxTFBMN2NDc1FKQmYzSWhqN09HR1gyVUw0UkZjdG9LdU5sZWtYczRXMTdNelpaODZ0eE1OUTVxTkw2ek5qenJnNWdiT3dYb3A0NFVDU21ZUHJZMWVZNG0tbW94UTJHYk1CZTNhZ0h3Z29yUmtCUDdlU2t2TjNpY2hEYVJwbmZTU0ZPcVphem9EdXJxTzVOU0xwZUlyTEJ6WTQ3bkdRUzMyZlBuLUlxdGxTd2k4MjNhNFB4UHF3bVZxSkdqa0xEQkY2c3ZzdVhKTDZBNVR3ZkZ3YU04WG04NkY1WThYeW8wZmVjOA?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFRnMkpDSERzd0pXTWFYRTRtNlZkc0hDZXpLX2J6Ul91eEktcFpwQ2xBaG1kQ2l0ZGgxdlpYZkR5N25oOGVHanZvTjVyeGh5YnhVbVFZSFh4Sl9wVGRRcFJlZUtPb1pzZktYSzJ4bVpsN0VmSXhmbVZMVldCSDV6eUQyaw?oc=5"
+        },
+        {
+          "d": "+28"
+        }
+      ],
+      "srcTitles": [
+        "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
+        "Artificial Intelligence or Artificial Unintelligence?",
+        "Vallejo Pastor Justin Lester from Friendship Missionary Baptist Church brings artificial intelligence to religious realm",
+        "3 Top Artificial Intelligence (AI) Stocks to Buy Before 2027 Arrives"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 49,
       "sources": 1,
       "ts": "2026-08-25T16:00:00.000Z",
@@ -156,32 +186,46 @@
     },
     {
       "cat": "models",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-08-25T00:00:00.000Z",
-      "writtenSources": 1,
+      "signal": 43,
+      "sources": 3,
+      "ts": "2026-08-25T04:00:00.000Z",
+      "writtenSources": 3,
       "draft": true,
-      "h": "Introducing the Admin plugin for ChatGPT Work and Codex",
-      "s": "Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests.",
+      "h": "Accel-backed Keenable is indexing the web for AI agents",
+      "s": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
       "b": [
-        "openai.com: Introducing the Admin plugin for ChatGPT Work and Codex"
+        "techcrunch.com: Accel-backed Keenable is indexing the web for AI agents",
+        "techmeme.com: Keenable, which is building a web search index for AI agents and says several AI labs are using its API, raised a $26M seed led by Accel (Anna Heim/TechCrunch)",
+        "arxiv.org: Breadcrumbing Search Agents"
       ],
       "body": [
-        "openai.com: Use the Admin plugin for ChatGPT Work and Codex to analyze workspace usage, manage members and permissions, adjust limits, and act on admin requests."
+        "techcrunch.com: Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
+        "techmeme.com: Anna Heim / TechCrunch : Keenable, which is building a web search index for AI agents and says several AI labs are using its API, raised a $26M seed led by Accel Search engines were built and optimized for people, who can't spare the time or attention required to scan entire webpages.",
+        "arxiv.org: arXiv:2608.04565v2 Announce Type: replace-cross Abstract: LLM-based search agents are widely used for information-seeking tasks, but their reliance on external tool returns introduces a critical security risk: web content retrieved during execution is untrusted, exposing agents to prompt injection and goal hijacking. Prior work on search-agent safety primarily focuses on static web-content injection, but modern agents issue follow-up queries and cross-check competing sources, so a single injected page is often diluted or rejected. We show that the channel delivering search and page observations is a fragile security boundary: beyond exposing the agent to a single poisoned page, a mediated search interface can repeatedly steer how the agent gathers evidence and forms its final answer. Under a constrained tool-intermediary threat model, appending only one controlled result per query can substantially increase attack success when the evidence is coordinated across the agent's trajectory. We study this setting with a strategy-driven long-horizon attack system and introduce Authority-Chain Hijack (ACH), an expert-refined strategy that turns isolated search-result and page-content manipulations into a coherent evidence chain across seemingly corroborating sources. ACH achieves the highest Overall ASR among all baselines, reaching 55.9% / 83.3% ASR / MaxN ASR on the full SafeSearch test split. We further introduce Trace-Guided Strategy Evolution (TGSE), which automatically improves attacker strategies from execution traces, replacing manual redesign with trace-driven refinement; its strongest single setting reaches 71.4% / 95.0% in held-out evaluation."
       ],
       "l": [
         {
-          "d": "openai.com",
-          "u": "https://openai.com/index/introducing-admin-plugin"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260825/p39#a260825p39"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.04565"
         }
       ],
       "srcTitles": [
-        "Introducing the Admin plugin for ChatGPT Work and Codex"
+        "Accel-backed Keenable is indexing the web for AI agents",
+        "Keenable, which is building a web search index for AI agents and says several AI labs are using its API, raised a $26M seed led by Accel (Anna Heim/TechCrunch)",
+        "Breadcrumbing Search Agents"
       ]
     },
     {
       "cat": "products",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-08-25T13:01:22.000Z",
       "writtenSources": 2,
@@ -215,8 +259,40 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-25T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI Can Now Create Viruses. Should We Let It?",
+      "s": "AI Can Now Create Viruses. Should We Let It? Georgetown University",
+      "b": [
+        "georgetown.edu: AI Can Now Create Viruses. Should We Let It?",
+        "arxiv.org: What is mathematics now, and what should it be?"
+      ],
+      "body": [
+        "georgetown.edu: AI Can Now Create Viruses. Should We Let It? Georgetown University",
+        "arxiv.org: arXiv:2608.23218v1 Announce Type: new Abstract: Advances in neural theorem provers have been impressive, but the successes obscure a broader vision of what AI can do for mathematics and how mathematicians can engage with AI. This essay advances a more expansive and optimistic point of view."
+      ],
+      "l": [
+        {
+          "d": "georgetown.edu",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONTN1RG1xN1Ezb2hfd25NOWlYTGV2czBJQW5xbTVadUk4U2hrbXBIUzdnOG1VOHBsZ252cnNzYXh3aGlIVFNibTVKR3JtLVhQOFVNNzBFclZVT1V1N045eDVIN0pPeFFVcmJ3aUNZQXhxMmJoYm1KNmZxMUJXV1BocA?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.23218"
+        }
+      ],
+      "srcTitles": [
+        "AI Can Now Create Viruses. Should We Let It?",
+        "What is mathematics now, and what should it be?"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 28,
+      "signal": 24,
       "sources": 2,
       "ts": "2026-08-25T00:23:12.000Z",
       "writtenSources": 2,
@@ -244,38 +320,6 @@
       "srcTitles": [
         "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
         "SEC investigating AI-focused hedge fund Situational Awareness"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 27,
-      "sources": 2,
-      "ts": "2026-08-25T12:10:07.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters)",
-      "s": "Mike Scarcella / Reuters : Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey Alphabet's Googl",
-      "b": [
-        "techmeme.com: Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters)",
-        "reuters.com: Google expands Gemini AI platform for law firms, lawyers"
-      ],
-      "body": [
-        "techmeme.com: Mike Scarcella / Reuters : Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey Alphabet's Google (GOOGL.O) on Tuesday expanded its Gemini Enterprise artificial intelligence platform with new tools for lawyers and law firms",
-        "reuters.com: Google expands Gemini AI platform for law firms, lawyers Reuters"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260825/p16#a260825p16"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters)",
-        "Google expands Gemini AI platform for law firms, lawyers"
       ]
     },
     {
@@ -378,6 +422,38 @@
       ],
       "srcTitles": [
         "Disrupting a new covert influence campaign from Russia"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 23,
+      "sources": 2,
+      "ts": "2026-08-25T12:10:07.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters)",
+      "s": "Mike Scarcella / Reuters : Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey Alphabet's Googl",
+      "b": [
+        "techmeme.com: Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters)",
+        "reuters.com: Google expands Gemini AI platform for law firms, lawyers"
+      ],
+      "body": [
+        "techmeme.com: Mike Scarcella / Reuters : Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey Alphabet's Google (GOOGL.O) on Tuesday expanded its Gemini Enterprise artificial intelligence platform with new tools for lawyers and law firms",
+        "reuters.com: Google expands Gemini AI platform for law firms, lawyers Reuters"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260825/p16#a260825p16"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters)",
+        "Google expands Gemini AI platform for law firms, lawyers"
       ]
     }
   ]
