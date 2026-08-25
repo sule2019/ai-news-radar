@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 61,
-      "sources": 2,
+      "signal": 75,
+      "sources": 4,
       "ts": "2026-08-25T14:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,6 +20,14 @@
       ],
       "l": [
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show/"
+        },
+        {
+          "d": "startuphub.ai",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWmQwQmNxZ285cWMxaVoxaklwVHEyQjI1QUJaaDd1c3pWTTVFeXRZbWZNaUsxVnFjWC1YZWRBZ0hLaGtIYThhUTN3NS1RbHBpWTBLUVE0azBpaGNsalpYNjhWM3JVLVBQNVFfZEM4ZzFHVGF6ZlNTNU12MFk2QUhTOUw0OHBvaVp0bUt4QnlBRV9KUFc5ZmZSUk9CVGcxM1FYWmluLTQwR18?oc=5"
+        },
+        {
           "d": "theverge.com",
           "u": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks"
         },
@@ -29,13 +37,40 @@
         }
       ],
       "srcTitles": [
-        "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
-        "OpenAI says its Jalapeño chip delivered 1.5x-1.9x more AI work per watt and 1.7x-3.6x lower latency than Nvidia chips across GPT-OSS, DeepSeek R1, Kimi K2.5 1T (Emma Roth/The Verge)"
+        "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+        "OpenAI's Jalapeño Chip Boosts AI Inference",
+        "OpenAI Unveils Jalapeño Chip",
+        "OpenAI says its Jalapeño chip can power faster AI responses than the competition"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-08-25T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "5 ways to upgrade your home decor with Google Search",
+      "s": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+      "b": [
+        "blog.google: 5 ways to upgrade your home decor with Google Search"
+      ],
+      "body": [
+        "blog.google: Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/search/home-decor-tips/"
+        }
+      ],
+      "srcTitles": [
+        "5 ways to upgrade your home decor with Google Search"
       ]
     },
     {
       "cat": "products",
-      "signal": 55,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-08-25T13:01:22.000Z",
       "writtenSources": 2,
@@ -70,32 +105,52 @@
     },
     {
       "cat": "models",
-      "signal": 52,
-      "sources": 1,
-      "ts": "2026-08-25T16:00:00.000Z",
-      "writtenSources": 1,
+      "signal": 50,
+      "sources": 32,
+      "ts": "2026-08-24T22:29:00.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "5 ways to upgrade your home decor with Google Search",
-      "s": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
+      "h": "Missouri college students face developing artificial intelligence models as they return to campus",
+      "s": "Missouri college students face developing artificial intelligence models as they return to campus WGEM",
       "b": [
-        "blog.google: 5 ways to upgrade your home decor with Google Search"
+        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus",
+        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus"
       ],
       "body": [
-        "blog.google: Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
+        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus WGEM",
+        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus KY3"
       ],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/products-and-platforms/products/search/home-decor-tips/"
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTdvSkZfVUh4VnlWSUs3ZVdnVWVyR1JnT3dDLXRaM1BnWlZzeFFXOWhwek1DRGNYdWpHVVRPbHh6djhsSThXRmVLczAzb3lMaC1EREdHckE5a3l3bGJPRkxBVml1ZzJMSURsSnpLX1d0aDBWNWR5Yl9YZ0RvQXZRV3Bock1hYXFleFlkZnRWTmRxc19yUG9tNjJqYw?oc=5"
+        },
+        {
+          "d": "laprogressive.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zVVo2T0JVdWhicUM2ZkM0WkJEN0RZeUR0UGhZRUZpMkhmcFRIY0JmWmRJZmFCQWZsTmNsbDFDNjBfZndvWEdKUlczX3ZtenJIbmI5cklCb3pUTFZybjJrazk2M0N6ZjhidXduVmZvUmVDSWZCa0E?oc=5"
+        },
+        {
+          "d": "hackaday.com",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DcjlRSlNFTlp6VURwWnZ1UzZCd09Mam9PUkdHVjhUUGhyNF9JenI3MzVRaEpyNDVxcnZPV1UzZ0tYSlQ0Y0MzSVBzLWsybXBpOXVtbVJlQ1NHTjR1cldvb3BzU2xVT0pqdWVrUl9wX25qR3BuTGFmS0lNdw?oc=5"
+        },
+        {
+          "d": "abc7news.com",
+          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQUNhWktaR1dOX1dlQk14LUk2d1B0YnlYUHBYYWdrQThTTXNlcG5UVy02YVpuc3NXelA5SmY1VC01RWVKSXI2aVBvcGl6akE0UUw5RWFFNGYtX0tzN3BuQms4Wi1BLVhjMjJIUF9QS0Mwc2dGdnBFYjlUd0JGdzRPN1JwUDFZeDNyZmVmTGl0c2l0SGU5dEV1UHFCLUdNcnFxWlB4cDdjQVhEVUlOMWc5b1JsTUlKa0lQTUFFUS0tTE9zWkNmcHRpOUpYLWRHVEQ4empCbENhOTJWVWgwRDE1Wkh30gHnAUFVX3lxTFBMN2NDc1FKQmYzSWhqN09HR1gyVUw0UkZjdG9LdU5sZWtYczRXMTdNelpaODZ0eE1OUTVxTkw2ek5qenJnNWdiT3dYb3A0NFVDU21ZUHJZMWVZNG0tbW94UTJHYk1CZTNhZ0h3Z29yUmtCUDdlU2t2TjNpY2hEYVJwbmZTU0ZPcVphem9EdXJxTzVOU0xwZUlyTEJ6WTQ3bkdRUzMyZlBuLUlxdGxTd2k4MjNhNFB4UHF3bVZxSkdqa0xEQkY2c3ZzdVhKTDZBNVR3ZkZ3YU04WG04NkY1WThYeW8wZmVjOA?oc=5"
+        },
+        {
+          "d": "+28"
         }
       ],
       "srcTitles": [
-        "5 ways to upgrade your home decor with Google Search"
+        "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
+        "Artificial Intelligence or Artificial Unintelligence?",
+        "Artificial Intelligence As It Once Was",
+        "Vallejo Pastor Justin Lester from Friendship Missionary Baptist Church brings artificial intelligence to religious realm"
       ]
     },
     {
       "cat": "funding",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-08-25T00:23:12.000Z",
       "writtenSources": 2,
@@ -127,7 +182,7 @@
     },
     {
       "cat": "policy",
-      "signal": 43,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-08-25T12:10:07.000Z",
       "writtenSources": 2,
@@ -155,112 +210,6 @@
       "srcTitles": [
         "Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters)",
         "Google expands Gemini AI platform for law firms, lawyers"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 30,
-      "sources": 3,
-      "ts": "2026-08-24T22:29:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Missouri college students face developing artificial intelligence models as they return to campus",
-      "s": "Missouri college students face developing artificial intelligence models as they return to campus WGEM",
-      "b": [
-        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus",
-        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus"
-      ],
-      "body": [
-        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus WGEM",
-        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus KY3"
-      ],
-      "l": [
-        {
-          "d": "wgem.com",
-          "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWgtRmQ4NEdGdVlWWUQ2UkM1WXJ0cEZUOXZOSjJJcFd0YVRnUUxteHYxd3djM1pBNXRXeTB6WExxbXg0dG9YRFZadk13WVR4bHYzbU8xQkZZYjE5aVI2TE9qMFJfR01YWXliMmREdUlWTjY1ZzNLRDhrMVlRVmwxMHctRm5KQXJOdUppTkp2Ui00SW0zU2sxUXJHUUNvNW5hTlgxdlhFUDlSQ1E4TkUxYzFaQ1YxSUVUUUhxSlFWX1VvQdIB1gFBVV95cUxNaldUU0xfdk9tV0l5dzdhZVVtUGVkbGhUVDFwUHJ0cnY4a3NqbjhZZHZveHFhZkFLa0J6RW9zeS1GaElFMDVzazB3VVVUd0xrTkE2eHdPbGZHN2swTlFLc0FhYkN6b2UwamI1bG1aNkRnY0diRHRyellNOE5vcHB3Wll5LWR1U2VLcVRWYi1mZm5NTnRGSGtlMXpkVXdhUnBLNDlxZGdUU1VLUUJES0xLUEwwUF9fdlp2NWVWYl9mTUdoX09NdmI1Tzl5SS00YjFVa1NpWFZB?oc=5"
-        },
-        {
-          "d": "kfvs12.com",
-          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzBzWFZMeENXTkdmNkVCamxIQnNQYlB2d3ltWHNmLUloTTJCcDk0eUt3ejVGWTBnQmstY21sQjFsSmJsTDlLaHprUU9mdDJXN3FWNmgxN2Q4V2Rqb0dlckI5TEJvV1BCNFJZME9QRm84WFlFUzNLM1NXb1VmOTFfN3BHbzBFaE4zODZOX0wxQnl3Z3psX29Jbi1MdTRITFMw0gG0AUFVX3lxTE9RUGRDZ3hGQ2ZzWGdMdzZaX29BUFhIY3JHbU41MWlKY2tmUUJNVWNrRU5VUVhGbGhzcUFzeFI1SlYyVE8tbTdTUElyX3VpLW15Wm55aU5Nc3hoUlpRdURpNm01SFo3SVNCaURKRW03LUNLbHRqRXQ3cV9SbDJzSnN1OUhsYnpXZ1U1NWxCTW5xcWoteW5nTUVjb1hXWWJMOGFGNUlwZzFtLUJTUnFEU1RxX0RreQ?oc=5"
-        },
-        {
-          "d": "ky3.com",
-          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmg2TFpNRUM3TkE2eEdlaGJ3aFZxWnhPS256REF0MGdxVk1nSjQ3c0lMdzREQ3N3bUQ2cVBJX0UtWmd2SWNNdUdxa3JPOXYyMjVsN05qbmtOQllIR3QweWxGZXNjR0t1ZThhVVNRZGJ3TXp6QV9vV0RCZGVNVDllSDdzZlZHdng3Q0k1T3ZldVpvRmVDNFBSVG42Zl9lZjNQOEZWdTItSHNjai1ERWhDZ3M2NGQySDMweXg4N21MaUk3WXM5Q2Mtdg?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Missouri college students face developing artificial intelligence models as they return to campus",
-        "Mo. college students face developing AI models as they return to campus",
-        "Missouri college students face developing artificial intelligence models as they return to campus"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 29,
-      "sources": 2,
-      "ts": "2026-08-25T13:35:18.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street",
-      "s": "These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street The Motley Fool",
-      "b": [
-        "fool.com: These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street",
-        "theglobeandmail.com: These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street"
-      ],
-      "body": [
-        "fool.com: These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street The Motley Fool",
-        "theglobeandmail.com: These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street The Globe and Mail"
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeDRqdXNxbHZqZHJNLUd3dzVXcXZoQldNb1NxTGR3bTVBRkxGY2pGUHZoWHJkZmxnaEVib1JOQzhuaV9XWGlSY2FFRWlhbjFJQktib09yamZSNkJLdV9BVURCbXF1elpGMWFZc0lRamxaaDFrTUJHQzlJUVlLWUtHaW1zMjNiYm9yVm12bkZSMHo0MnR5QUNPaTJBVVRldWpaZjk5LWo2c1JTT2FKNXhzNUxBWThRb1g1NXc4aUNVNnZSQnkzYm4wV2VMWnhWUQ?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPY0Z2aEhkc0xFWHN3N3QwVm51SmlGQlJWcFFuUFBsUVZLTGxrSXg2Wnh0UGVIYUJxVzJBN1hXdTBvWUJRLU5SWmQ5Rms0bG5Sdm1ZMjRlb25sWmlnVDk2RDZEYTFqV1BXYk9RWVJFVF8yWFZSVEZEM2xmYW96d2ZDaUNMXzc4a21fbzg4ZnBiQ3ozb3lVUEtMUTFtcks3YVV2bEhVTUczWExKOTM3OXZ0MzVOZ1NIMmNHb2p1NjRUaDJFN0hXUlo0SkZrb0gzUG4xOU1oRVB4Z1ZYQUIyV2JsdFlielNrYUdIOU9uWXNMR2RNQmIxVU5jRXl6Wm1mV0dNTGhsZTh3?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street",
-        "These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-08-25T04:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Artificial intelligence and sensor-fusion systems in sustainable robotics for precision agriculture",
-      "s": "Artificial intelligence and sensor-fusion systems in sustainable robotics for precision agriculture Innovation News Network",
-      "b": [
-        "innovationnewsnetwork.com: Artificial intelligence and sensor-fusion systems in sustainable robotics for precision agriculture",
-        "arxiv.org: What is an intelligent system?",
-        "arxiv.org: Mission-Aligned Learning-Informed Control of Autonomous Systems: Formulation and Foundations"
-      ],
-      "body": [
-        "innovationnewsnetwork.com: Artificial intelligence and sensor-fusion systems in sustainable robotics for precision agriculture Innovation News Network",
-        "arxiv.org: arXiv:2009.09083v4 Announce Type: replace-cross Abstract: The term intelligent system has emerged in the field of information technology as a category of computer systems derived from successful applications of artificial intelligence. This paper proposes a general description that identifies the main properties and types of components typically found in such systems. Adopting an integrative and pedagogical approach, this description provides a conceptual framework for systems engineering practitioners seeking a coherent vocabulary and organizational structure to approach the analysis and construction of intelligent systems. The paper presents examples of both classical and modern intelligent systems to illustrate the generality and applicability of the description.",
-        "arxiv.org: arXiv:2507.04356v3 Announce Type: replace-cross Abstract: Research, innovation and practical capital investment have been increasing rapidly toward the realization of autonomous physical agents. This includes industrial and service robots, unmanned aerial vehicles, embedded control devices, and a number of other realizations of cybernetic/mechatronic implementations of intelligent autonomous devices. In this paper, we consider a stylized version of robotic care, which would normally involve a two-level Reinforcement Learning procedure that trains a policy for both lower level physical movement decisions as well as higher level conceptual tasks and their sub-components. In order to deliver greater safety and reliability in the system, we present the general formulation of this as a two-level optimization scheme which incorporates control at the lower level, and classical planning at the higher level, integrated with a capacity for learning. This synergistic integration of multiple methodologies -- control, classical planning, and RL -- presents an opportunity for greater insight for algorithm development, leading to more efficient and reliable performance. Here, the notion of reliability pertains to physical safety and interpretability into an otherwise black box operation of autonomous agents, concerning users and regulators. This work presents the necessary background and general formulation of the optimization framework, detailing each component and its integration with the others.",
-        "arxiv.org: arXiv:2601.16890v2 Announce Type: replace-cross Abstract: Automated fact-checking (AFC) systems are susceptible to adversarial attacks, enabling false claims to evade detection. Existing adversarial frameworks typically rely on injecting noise or altering semantics, yet no existing framework exploits the adversarial potential of persuasion techniques against AFC systems, which are widely used in disinformation campaigns to manipulate audiences. In this paper, we introduce a novel class of persuasive adversarial attacks on AFCs by employing an LLM to rephrase claims using persuasion techniques. Considering $15$ techniques grouped into $5$ categories, we study the effects of persuasion on both claim verification and evidence retrieval using a decoupled evaluation strategy. Experiments on the FEVER and FEVEROUS benchmarks show that persuasion attacks can substantially degrade both verification performance and evidence retrieval. Our analysis identifies persuasion techniques as a potent class of adversarial attacks, highlighting the need for more robust AFC systems."
-      ],
-      "l": [
-        {
-          "d": "innovationnewsnetwork.com",
-          "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNalJqRGlzZlYySkpsZFB6eXl6OEhvN1ZhUVRHNEhjNFlmVjh4dklRaEtuY19SMkpnLWR5azRSZml4SnYtRnBZYjlUM3UwcWhYQXFuY1pRSTZkZ0pmZ0tRdGdmanRBN1E1MkdYSm1oWjhjaE5NTG1BQmlDV3FlOUN5LUlGMUNHeGk5ZmFYc0tZNG5MTG52RFdqdU9GYnRPUmdGS0lUSHhtZ3pfWndnaWZOOFNMcXh0QTc0NXN1a3hsbklFbkVicnhQTFBzWERwcV9JZmIxTFVvMGtRb29z?oc=5"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2009.09083"
-        }
-      ],
-      "srcTitles": [
-        "Artificial intelligence and sensor-fusion systems in sustainable robotics for precision agriculture",
-        "What is an intelligent system?",
-        "Mission-Aligned Learning-Informed Control of Autonomous Systems: Formulation and Foundations",
-        "LLM-Based Adversarial Persuasion Attacks on Fact-Checking Systems"
       ]
     },
     {
