@@ -3,6 +3,51 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 77,
+      "sources": 33,
+      "ts": "2026-08-24T22:29:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Missouri college students face developing artificial intelligence models as they return to campus",
+      "s": "Missouri college students face developing artificial intelligence models as they return to campus WGEM",
+      "b": [
+        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus",
+        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus"
+      ],
+      "body": [
+        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus WGEM",
+        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus KY3"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack"
+        },
+        {
+          "d": "jpost.com",
+          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVXFSVjh3OHZleW9Bc2lFbnJRMUhUNHRYVXhGaFJGVGRKQXROZjU0MHpxZGYyMDFYTE9Sdk1POENhenEta19DOGp6R2QwUG5oelA1Wm1OaWFiOHZyVmpsX2hlX29fd2JyTzBSdDhnUkc4MTRIUy1FNXhvWGFSVlZQcTNmUnBndw?oc=5"
+        },
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTdvSkZfVUh4VnlWSUs3ZVdnVWVyR1JnT3dDLXRaM1BnWlZzeFFXOWhwek1DRGNYdWpHVVRPbHh6djhsSThXRmVLczAzb3lMaC1EREdHckE5a3l3bGJPRkxBVml1ZzJMSURsSnpLX1d0aDBWNWR5Yl9YZ0RvQXZRV3Bock1hYXFleFlkZnRWTmRxc19yUG9tNjJqYw?oc=5"
+        },
+        {
+          "d": "laprogressive.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zVVo2T0JVdWhicUM2ZkM0WkJEN0RZeUR0UGhZRUZpMkhmcFRIY0JmWmRJZmFCQWZsTmNsbDFDNjBfZndvWEdKUlczX3ZtenJIbmI5cklCb3pUTFZybjJrazk2M0N6ZjhidXduVmZvUmVDSWZCa0E?oc=5"
+        },
+        {
+          "d": "+29"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
+        "Alabama launches OpenAI probe after artificial intelligence agent hacks Hugging Face during testing",
+        "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
+        "Artificial Intelligence or Artificial Unintelligence?"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 75,
       "sources": 4,
       "ts": "2026-08-25T14:00:00.000Z",
@@ -86,7 +131,7 @@
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 49,
       "sources": 1,
       "ts": "2026-08-25T16:00:00.000Z",
       "writtenSources": 1,
@@ -107,51 +152,6 @@
       ],
       "srcTitles": [
         "5 ways to upgrade your home decor with Google Search"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 50,
-      "sources": 30,
-      "ts": "2026-08-24T22:29:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Missouri college students face developing artificial intelligence models as they return to campus",
-      "s": "Missouri college students face developing artificial intelligence models as they return to campus WGEM",
-      "b": [
-        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus",
-        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus"
-      ],
-      "body": [
-        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus WGEM",
-        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus KY3"
-      ],
-      "l": [
-        {
-          "d": "wsj.com",
-          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTdvSkZfVUh4VnlWSUs3ZVdnVWVyR1JnT3dDLXRaM1BnWlZzeFFXOWhwek1DRGNYdWpHVVRPbHh6djhsSThXRmVLczAzb3lMaC1EREdHckE5a3l3bGJPRkxBVml1ZzJMSURsSnpLX1d0aDBWNWR5Yl9YZ0RvQXZRV3Bock1hYXFleFlkZnRWTmRxc19yUG9tNjJqYw?oc=5"
-        },
-        {
-          "d": "laprogressive.com",
-          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zVVo2T0JVdWhicUM2ZkM0WkJEN0RZeUR0UGhZRUZpMkhmcFRIY0JmWmRJZmFCQWZsTmNsbDFDNjBfZndvWEdKUlczX3ZtenJIbmI5cklCb3pUTFZybjJrazk2M0N6ZjhidXduVmZvUmVDSWZCa0E?oc=5"
-        },
-        {
-          "d": "abc7news.com",
-          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQUNhWktaR1dOX1dlQk14LUk2d1B0YnlYUHBYYWdrQThTTXNlcG5UVy02YVpuc3NXelA5SmY1VC01RWVKSXI2aVBvcGl6akE0UUw5RWFFNGYtX0tzN3BuQms4Wi1BLVhjMjJIUF9QS0Mwc2dGdnBFYjlUd0JGdzRPN1JwUDFZeDNyZmVmTGl0c2l0SGU5dEV1UHFCLUdNcnFxWlB4cDdjQVhEVUlOMWc5b1JsTUlKa0lQTUFFUS0tTE9zWkNmcHRpOUpYLWRHVEQ4empCbENhOTJWVWgwRDE1Wkh30gHnAUFVX3lxTFBMN2NDc1FKQmYzSWhqN09HR1gyVUw0UkZjdG9LdU5sZWtYczRXMTdNelpaODZ0eE1OUTVxTkw2ek5qenJnNWdiT3dYb3A0NFVDU21ZUHJZMWVZNG0tbW94UTJHYk1CZTNhZ0h3Z29yUmtCUDdlU2t2TjNpY2hEYVJwbmZTU0ZPcVphem9EdXJxTzVOU0xwZUlyTEJ6WTQ3bkdRUzMyZlBuLUlxdGxTd2k4MjNhNFB4UHF3bVZxSkdqa0xEQkY2c3ZzdVhKTDZBNVR3ZkZ3YU04WG04NkY1WThYeW8wZmVjOA?oc=5"
-        },
-        {
-          "d": "wgem.com",
-          "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWgtRmQ4NEdGdVlWWUQ2UkM1WXJ0cEZUOXZOSjJJcFd0YVRnUUxteHYxd3djM1pBNXRXeTB6WExxbXg0dG9YRFZadk13WVR4bHYzbU8xQkZZYjE5aVI2TE9qMFJfR01YWXliMmREdUlWTjY1ZzNLRDhrMVlRVmwxMHctRm5KQXJOdUppTkp2Ui00SW0zU2sxUXJHUUNvNW5hTlgxdlhFUDlSQ1E4TkUxYzFaQ1YxSUVUUUhxSlFWX1VvQdIB1gFBVV95cUxNaldUU0xfdk9tV0l5dzdhZVVtUGVkbGhUVDFwUHJ0cnY4a3NqbjhZZHZveHFhZkFLa0J6RW9zeS1GaElFMDVzazB3VVVUd0xrTkE2eHdPbGZHN2swTlFLc0FhYkN6b2UwamI1bG1aNkRnY0diRHRyellNOE5vcHB3Wll5LWR1U2VLcVRWYi1mZm5NTnRGSGtlMXpkVXdhUnBLNDlxZGdUU1VLUUJES0xLUEwwUF9fdlp2NWVWYl9mTUdoX09NdmI1Tzl5SS00YjFVa1NpWFZB?oc=5"
-        },
-        {
-          "d": "+26"
-        }
-      ],
-      "srcTitles": [
-        "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
-        "Artificial Intelligence or Artificial Unintelligence?",
-        "Vallejo Pastor Justin Lester from Friendship Missionary Baptist Church brings artificial intelligence to religious realm",
-        "Missouri college students face developing artificial intelligence models as they return to campus"
       ]
     },
     {
@@ -181,7 +181,7 @@
     },
     {
       "cat": "products",
-      "signal": 43,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-08-25T13:01:22.000Z",
       "writtenSources": 2,
@@ -216,7 +216,7 @@
     },
     {
       "cat": "funding",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-08-25T00:23:12.000Z",
       "writtenSources": 2,
@@ -248,7 +248,7 @@
     },
     {
       "cat": "policy",
-      "signal": 31,
+      "signal": 27,
       "sources": 2,
       "ts": "2026-08-25T12:10:07.000Z",
       "writtenSources": 2,
