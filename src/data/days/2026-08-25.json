@@ -2,6 +2,38 @@
   "date": "2026-08-25",
   "stories": [
     {
+      "cat": "models",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-08-25T14:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+      "s": "OpenAI says its new AI chip, Jalape o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with report",
+      "b": [
+        "theverge.com: OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+        "techmeme.com: OpenAI says its Jalapeño chip delivered 1.5x-1.9x more AI work per watt and 1.7x-3.6x lower latency than Nvidia chips across GPT-OSS, DeepSeek R1, Kimi K2.5 1T (Emma Roth/The Verge)"
+      ],
+      "body": [
+        "theverge.com: OpenAI says its new AI chip, Jalape o, completes tasks more efficiently and returns responses faster than other AI systems, according to a blog post published on Tuesday. During a briefing with reporters, OpenAI hardware vice president Richard Ho said Jalape o offers the \"best of both worlds\" with lower latency and higher throughput, as AI systems [ ]",
+        "techmeme.com: Emma Roth / The Verge : OpenAI says its Jalape o chip delivered 1.5x-1.9x more AI work per watt and 1.7x-3.6x lower latency than Nvidia chips across GPT-OSS, DeepSeek R1, Kimi K2.5 1T Jalape o outperformed Nvidia's superchips on an AI inference benchmark test."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260825/p24#a260825p24"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI says its Jalapeño chip can power faster AI responses than the competition",
+        "OpenAI says its Jalapeño chip delivered 1.5x-1.9x more AI work per watt and 1.7x-3.6x lower latency than Nvidia chips across GPT-OSS, DeepSeek R1, Kimi K2.5 1T (Emma Roth/The Verge)"
+      ]
+    },
+    {
       "cat": "products",
       "signal": 59,
       "sources": 2,
@@ -38,7 +70,7 @@
     },
     {
       "cat": "policy",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-08-25T12:10:07.000Z",
       "writtenSources": 2,
@@ -102,7 +134,7 @@
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-08-25T13:35:18.000Z",
       "writtenSources": 2,
@@ -226,6 +258,31 @@
       ],
       "srcTitles": [
         "I spent a day at a robot “carnival” in Shanghai. Here’s what I saw."
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-25T07:05:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The full stack behind abundant intelligence",
+      "s": "OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost.",
+      "b": [
+        "openai.com: The full stack behind abundant intelligence"
+      ],
+      "body": [
+        "openai.com: OpenAI CFO Sarah Friar explains how advances across chips, compute, models, and products compound to deliver more useful intelligence at greater scale and lower cost."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/the-full-stack-behind-abundant-intelligence"
+        }
+      ],
+      "srcTitles": [
+        "The full stack behind abundant intelligence"
       ]
     },
     {
