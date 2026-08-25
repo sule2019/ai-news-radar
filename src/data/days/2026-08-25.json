@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 75,
-      "sources": 4,
+      "signal": 68,
+      "sources": 3,
       "ts": "2026-08-25T14:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -28,19 +28,56 @@
           "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWmQwQmNxZ285cWMxaVoxaklwVHEyQjI1QUJaaDd1c3pWTTVFeXRZbWZNaUsxVnFjWC1YZWRBZ0hLaGtIYThhUTN3NS1RbHBpWTBLUVE0azBpaGNsalpYNjhWM3JVLVBQNVFfZEM4ZzFHVGF6ZlNTNU12MFk2QUhTOUw0OHBvaVp0bUt4QnlBRV9KUFc5ZmZSUk9CVGcxM1FYWmluLTQwR18?oc=5"
         },
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/984290/openai-jalapeno-ai-chip-benchmarks"
-        },
-        {
           "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260825/p24#a260825p24"
+          "u": "https://www.techmeme.com/260825/p31#a260825p31"
         }
       ],
       "srcTitles": [
         "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
         "OpenAI's Jalapeño Chip Boosts AI Inference",
         "OpenAI Unveils Jalapeño Chip",
-        "OpenAI says its Jalapeño chip can power faster AI responses than the competition"
+        "A detailed look at Jalapeño, OpenAI's ASIC developed with Broadcom in 16 months, which beat Nvidia, AMD, and Google chips on multiple top open-weight models (SemiAnalysis)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 59,
+      "sources": 3,
+      "ts": "2026-08-25T04:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out (David Gewirtz/ZDNET)",
+      "s": "David Gewirtz / ZDNET : Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out ZDNET's key takeaways Claude chat and",
+      "b": [
+        "techmeme.com: Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out (David Gewirtz/ZDNET)",
+        "arxiv.org: What is an intelligent system?",
+        "arxiv.org: Mission-Aligned Learning-Informed Control of Autonomous Systems: Formulation and Foundations"
+      ],
+      "body": [
+        "techmeme.com: David Gewirtz / ZDNET : Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out ZDNET's key takeaways Claude chat and Cowork now share one memory system. Memory updates as you chat, with sensitive-data controls.",
+        "arxiv.org: arXiv:2009.09083v4 Announce Type: replace-cross Abstract: The term intelligent system has emerged in the field of information technology as a category of computer systems derived from successful applications of artificial intelligence. This paper proposes a general description that identifies the main properties and types of components typically found in such systems. Adopting an integrative and pedagogical approach, this description provides a conceptual framework for systems engineering practitioners seeking a coherent vocabulary and organizational structure to approach the analysis and construction of intelligent systems. The paper presents examples of both classical and modern intelligent systems to illustrate the generality and applicability of the description.",
+        "arxiv.org: arXiv:2507.04356v3 Announce Type: replace-cross Abstract: Research, innovation and practical capital investment have been increasing rapidly toward the realization of autonomous physical agents. This includes industrial and service robots, unmanned aerial vehicles, embedded control devices, and a number of other realizations of cybernetic/mechatronic implementations of intelligent autonomous devices. In this paper, we consider a stylized version of robotic care, which would normally involve a two-level Reinforcement Learning procedure that trains a policy for both lower level physical movement decisions as well as higher level conceptual tasks and their sub-components. In order to deliver greater safety and reliability in the system, we present the general formulation of this as a two-level optimization scheme which incorporates control at the lower level, and classical planning at the higher level, integrated with a capacity for learning. This synergistic integration of multiple methodologies -- control, classical planning, and RL -- presents an opportunity for greater insight for algorithm development, leading to more efficient and reliable performance. Here, the notion of reliability pertains to physical safety and interpretability into an otherwise black box operation of autonomous agents, concerning users and regulators. This work presents the necessary background and general formulation of the optimization framework, detailing each component and its integration with the others.",
+        "arxiv.org: arXiv:2601.16890v2 Announce Type: replace-cross Abstract: Automated fact-checking (AFC) systems are susceptible to adversarial attacks, enabling false claims to evade detection. Existing adversarial frameworks typically rely on injecting noise or altering semantics, yet no existing framework exploits the adversarial potential of persuasion techniques against AFC systems, which are widely used in disinformation campaigns to manipulate audiences. In this paper, we introduce a novel class of persuasive adversarial attacks on AFCs by employing an LLM to rephrase claims using persuasion techniques. Considering $15$ techniques grouped into $5$ categories, we study the effects of persuasion on both claim verification and evidence retrieval using a decoupled evaluation strategy. Experiments on the FEVER and FEVEROUS benchmarks show that persuasion attacks can substantially degrade both verification performance and evidence retrieval. Our analysis identifies persuasion techniques as a potent class of adversarial attacks, highlighting the need for more robust AFC systems."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260825/p36#a260825p36"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2009.09083"
+        },
+        {
+          "d": "taipeitimes.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5c3hhUG5MN1ZsbjgxLXQwSXNlb2QyQlgtVFYzWkZnempDRVZybmlzUXpRUzg0ZWZYWDN5UlBPTGdiYUJvRE5qRzN6R3JBZGpsR1JUS2QzX0R2ck9DT3dsTU9wdFdwNnFPSVdJU1pJZFI1MEw4cGc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic merges the memory systems for Claude chat and Claude Cowork, making Claude chat history available to Cowork unless users opt out (David Gewirtz/ZDNET)",
+        "What is an intelligent system?",
+        "Mission-Aligned Learning-Informed Control of Autonomous Systems: Formulation and Foundations",
+        "LLM-Based Adversarial Persuasion Attacks on Fact-Checking Systems"
       ]
     },
     {
@@ -69,8 +106,53 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 50,
+      "sources": 31,
+      "ts": "2026-08-24T22:29:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Missouri college students face developing artificial intelligence models as they return to campus",
+      "s": "Missouri college students face developing artificial intelligence models as they return to campus WGEM",
+      "b": [
+        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus",
+        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus"
+      ],
+      "body": [
+        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus WGEM",
+        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus KY3"
+      ],
+      "l": [
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTdvSkZfVUh4VnlWSUs3ZVdnVWVyR1JnT3dDLXRaM1BnWlZzeFFXOWhwek1DRGNYdWpHVVRPbHh6djhsSThXRmVLczAzb3lMaC1EREdHckE5a3l3bGJPRkxBVml1ZzJMSURsSnpLX1d0aDBWNWR5Yl9YZ0RvQXZRV3Bock1hYXFleFlkZnRWTmRxc19yUG9tNjJqYw?oc=5"
+        },
+        {
+          "d": "laprogressive.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zVVo2T0JVdWhicUM2ZkM0WkJEN0RZeUR0UGhZRUZpMkhmcFRIY0JmWmRJZmFCQWZsTmNsbDFDNjBfZndvWEdKUlczX3ZtenJIbmI5cklCb3pUTFZybjJrazk2M0N6ZjhidXduVmZvUmVDSWZCa0E?oc=5"
+        },
+        {
+          "d": "abc7news.com",
+          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQUNhWktaR1dOX1dlQk14LUk2d1B0YnlYUHBYYWdrQThTTXNlcG5UVy02YVpuc3NXelA5SmY1VC01RWVKSXI2aVBvcGl6akE0UUw5RWFFNGYtX0tzN3BuQms4Wi1BLVhjMjJIUF9QS0Mwc2dGdnBFYjlUd0JGdzRPN1JwUDFZeDNyZmVmTGl0c2l0SGU5dEV1UHFCLUdNcnFxWlB4cDdjQVhEVUlOMWc5b1JsTUlKa0lQTUFFUS0tTE9zWkNmcHRpOUpYLWRHVEQ4empCbENhOTJWVWgwRDE1Wkh30gHnAUFVX3lxTFBMN2NDc1FKQmYzSWhqN09HR1gyVUw0UkZjdG9LdU5sZWtYczRXMTdNelpaODZ0eE1OUTVxTkw2ek5qenJnNWdiT3dYb3A0NFVDU21ZUHJZMWVZNG0tbW94UTJHYk1CZTNhZ0h3Z29yUmtCUDdlU2t2TjNpY2hEYVJwbmZTU0ZPcVphem9EdXJxTzVOU0xwZUlyTEJ6WTQ3bkdRUzMyZlBuLUlxdGxTd2k4MjNhNFB4UHF3bVZxSkdqa0xEQkY2c3ZzdVhKTDZBNVR3ZkZ3YU04WG04NkY1WThYeW8wZmVjOA?oc=5"
+        },
+        {
+          "d": "wgem.com",
+          "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWgtRmQ4NEdGdVlWWUQ2UkM1WXJ0cEZUOXZOSjJJcFd0YVRnUUxteHYxd3djM1pBNXRXeTB6WExxbXg0dG9YRFZadk13WVR4bHYzbU8xQkZZYjE5aVI2TE9qMFJfR01YWXliMmREdUlWTjY1ZzNLRDhrMVlRVmwxMHctRm5KQXJOdUppTkp2Ui00SW0zU2sxUXJHUUNvNW5hTlgxdlhFUDlSQ1E4TkUxYzFaQ1YxSUVUUUhxSlFWX1VvQdIB1gFBVV95cUxNaldUU0xfdk9tV0l5dzdhZVVtUGVkbGhUVDFwUHJ0cnY4a3NqbjhZZHZveHFhZkFLa0J6RW9zeS1GaElFMDVzazB3VVVUd0xrTkE2eHdPbGZHN2swTlFLc0FhYkN6b2UwamI1bG1aNkRnY0diRHRyellNOE5vcHB3Wll5LWR1U2VLcVRWYi1mZm5NTnRGSGtlMXpkVXdhUnBLNDlxZGdUU1VLUUJES0xLUEwwUF9fdlp2NWVWYl9mTUdoX09NdmI1Tzl5SS00YjFVa1NpWFZB?oc=5"
+        },
+        {
+          "d": "+27"
+        }
+      ],
+      "srcTitles": [
+        "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
+        "Artificial Intelligence or Artificial Unintelligence?",
+        "Vallejo Pastor Justin Lester from Friendship Missionary Baptist Church brings artificial intelligence to religious realm",
+        "Missouri college students face developing artificial intelligence models as they return to campus"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-08-25T13:01:22.000Z",
       "writtenSources": 2,
@@ -104,53 +186,8 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 50,
-      "sources": 32,
-      "ts": "2026-08-24T22:29:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Missouri college students face developing artificial intelligence models as they return to campus",
-      "s": "Missouri college students face developing artificial intelligence models as they return to campus WGEM",
-      "b": [
-        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus",
-        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus"
-      ],
-      "body": [
-        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus WGEM",
-        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus KY3"
-      ],
-      "l": [
-        {
-          "d": "wsj.com",
-          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTdvSkZfVUh4VnlWSUs3ZVdnVWVyR1JnT3dDLXRaM1BnWlZzeFFXOWhwek1DRGNYdWpHVVRPbHh6djhsSThXRmVLczAzb3lMaC1EREdHckE5a3l3bGJPRkxBVml1ZzJMSURsSnpLX1d0aDBWNWR5Yl9YZ0RvQXZRV3Bock1hYXFleFlkZnRWTmRxc19yUG9tNjJqYw?oc=5"
-        },
-        {
-          "d": "laprogressive.com",
-          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zVVo2T0JVdWhicUM2ZkM0WkJEN0RZeUR0UGhZRUZpMkhmcFRIY0JmWmRJZmFCQWZsTmNsbDFDNjBfZndvWEdKUlczX3ZtenJIbmI5cklCb3pUTFZybjJrazk2M0N6ZjhidXduVmZvUmVDSWZCa0E?oc=5"
-        },
-        {
-          "d": "hackaday.com",
-          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9DcjlRSlNFTlp6VURwWnZ1UzZCd09Mam9PUkdHVjhUUGhyNF9JenI3MzVRaEpyNDVxcnZPV1UzZ0tYSlQ0Y0MzSVBzLWsybXBpOXVtbVJlQ1NHTjR1cldvb3BzU2xVT0pqdWVrUl9wX25qR3BuTGFmS0lNdw?oc=5"
-        },
-        {
-          "d": "abc7news.com",
-          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNQUNhWktaR1dOX1dlQk14LUk2d1B0YnlYUHBYYWdrQThTTXNlcG5UVy02YVpuc3NXelA5SmY1VC01RWVKSXI2aVBvcGl6akE0UUw5RWFFNGYtX0tzN3BuQms4Wi1BLVhjMjJIUF9QS0Mwc2dGdnBFYjlUd0JGdzRPN1JwUDFZeDNyZmVmTGl0c2l0SGU5dEV1UHFCLUdNcnFxWlB4cDdjQVhEVUlOMWc5b1JsTUlKa0lQTUFFUS0tTE9zWkNmcHRpOUpYLWRHVEQ4empCbENhOTJWVWgwRDE1Wkh30gHnAUFVX3lxTFBMN2NDc1FKQmYzSWhqN09HR1gyVUw0UkZjdG9LdU5sZWtYczRXMTdNelpaODZ0eE1OUTVxTkw2ek5qenJnNWdiT3dYb3A0NFVDU21ZUHJZMWVZNG0tbW94UTJHYk1CZTNhZ0h3Z29yUmtCUDdlU2t2TjNpY2hEYVJwbmZTU0ZPcVphem9EdXJxTzVOU0xwZUlyTEJ6WTQ3bkdRUzMyZlBuLUlxdGxTd2k4MjNhNFB4UHF3bVZxSkdqa0xEQkY2c3ZzdVhKTDZBNVR3ZkZ3YU04WG04NkY1WThYeW8wZmVjOA?oc=5"
-        },
-        {
-          "d": "+28"
-        }
-      ],
-      "srcTitles": [
-        "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
-        "Artificial Intelligence or Artificial Unintelligence?",
-        "Artificial Intelligence As It Once Was",
-        "Vallejo Pastor Justin Lester from Friendship Missionary Baptist Church brings artificial intelligence to religious realm"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-08-25T00:23:12.000Z",
       "writtenSources": 2,
@@ -182,7 +219,7 @@
     },
     {
       "cat": "policy",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-08-25T12:10:07.000Z",
       "writtenSources": 2,
