@@ -116,8 +116,40 @@
     },
     {
       "cat": "models",
-      "signal": 50,
-      "sources": 31,
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-08-25T18:34:18.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Amazon SVP Coded 100K Lines with AI",
+      "s": "Amazon SVP Coded 100K Lines with AI StartupHub.ai",
+      "b": [
+        "startuphub.ai: Amazon SVP Coded 100K Lines with AI",
+        "aboutamazon.com: I'm an Amazon SVP who hadn't coded in 25 years. Then I wrote 100,000 lines of code with AI."
+      ],
+      "body": [
+        "startuphub.ai: Amazon SVP Coded 100K Lines with AI StartupHub.ai",
+        "aboutamazon.com: I'm an Amazon SVP who hadn't coded in 25 years. Then I wrote 100,000 lines of code with AI. About Amazon"
+      ],
+      "l": [
+        {
+          "d": "startuphub.ai",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEJPYnJIS1hVNThreUg4NDJhLXNQZzZycWdKQTZ6MUIwMTdRem5OdXhLS3NxdU9GZjFQdE5vcExEQTAtOEVqeFBZc0lDMHBlcHRQRGd2ZmlSVFpxa19zSjVUVTBhUGcxVWw4SFNTeUdhZWNab2xMeVVFaGp3akFiVU9FZVNXR29pYkhkUFp6TkRjTDJZQ0oxSThEamJGdmc?oc=5"
+        },
+        {
+          "d": "aboutamazon.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHV3eXR4YWFwdm5BSjR5aHNiTXRfbnl1TDV3SVZkMG5DajB4enM2VFNURUtUbGdST3U1emhscGpsQ2JFNUxwd0c3Q3BmRnFRdFpCQktPYi04bEJ0NTVITnFmY0lac0ZXRHJyeHNBSGRCcjg1dS1PM0UyU01XOE83bUx3ZnJxbE0?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Amazon SVP Coded 100K Lines with AI",
+        "I'm an Amazon SVP who hadn't coded in 25 years. Then I wrote 100,000 lines of code with AI."
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 49,
+      "sources": 29,
       "ts": "2026-08-24T22:29:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -149,7 +181,7 @@
           "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFRnMkpDSERzd0pXTWFYRTRtNlZkc0hDZXpLX2J6Ul91eEktcFpwQ2xBaG1kQ2l0ZGgxdlpYZkR5N25oOGVHanZvTjVyeGh5YnhVbVFZSFh4Sl9wVGRRcFJlZUtPb1pzZktYSzJ4bVpsN0VmSXhmbVZMVldCSDV6eUQyaw?oc=5"
         },
         {
-          "d": "+27"
+          "d": "+25"
         }
       ],
       "srcTitles": [
@@ -225,7 +257,46 @@
     },
     {
       "cat": "products",
-      "signal": 31,
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-08-25T04:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Student guide explores human skills in AI age",
+      "s": "Student guide explores human skills in AI age Elon News Network",
+      "b": [
+        "elonnewsnetwork.com: Student guide explores human skills in AI age",
+        "news.arizona.edu: A guide to AI tools at the U of A",
+        "arxiv.org: Robustness Analysis of Agentic AI to Inconsistent and Incomplete Tool Responses"
+      ],
+      "body": [
+        "elonnewsnetwork.com: Student guide explores human skills in AI age Elon News Network",
+        "news.arizona.edu: A guide to AI tools at the U of A University of Arizona News",
+        "arxiv.org: arXiv:2608.22676v1 Announce Type: new Abstract: Robustness to a bad tool return means answering it in the way that return calls for, which depends on how the tool went wrong. A tool that has failed and a tool that returns a well-formed falsehood are different problems with different remedies. We ask whether the two already differ at the moment the return arrives. This is a qualitative pilot study: we score single decision points rather than running agents to completion. We inject controlled faults into a retail customer-service domain and read two channels off the model's log-probabilities: the likelihood of the returned content under the tool schema alone and under the whole trajectory, and its distribution over the legal actions, read for both shape and where the mass sits. An incomplete return is legible in every case, being improbable under the schema alone in a range no other condition enters, and it moves the mass toward the tools that re-read state wherever there is room to move. An inconsistent return leaves the schema channel untouched and registers in the likelihood comparison on the field whose true value the context already carries verbatim, not on the one whose contradiction runs through the domain policy. The action distribution gives each condition a distinct signature, but orders them by how far the return bears on the next action rather than by fault family. Recognition is therefore asymmetric: each condition is legible in some channel, and no channel is legible on all of them."
+      ],
+      "l": [
+        {
+          "d": "elonnewsnetwork.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFZVUWpDN1V4QTlVVF91WWZ0ZFkxSjRkdXNtTzROWFUwX0hub0FTX2N0Ry1WS0dSVE5pRDVaR19XN0dycl9GWmQtMjZTdDU1RE4zekdXclF0S3hXeHVsZFFLMkkwUl9GS1dWTE9pNmRXZlJqTjZvczFZZFU1MlNjZlhuNE1QUzBlMU1IazVRWTJlWjUwNEhWTA?oc=5"
+        },
+        {
+          "d": "news.arizona.edu",
+          "u": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMWnRVaE1CcFAwV3NVenpGU29nbEQwbmY3WnV1dWc4TkhaaG9IaU9yM1ExRmVUWkx5SUhPSDZFcGJJSm11TXZRWWN1RmRXVXBsanZNc1lqelRmMXhKZHh1NzlaX3AwUQ?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.22676"
+        }
+      ],
+      "srcTitles": [
+        "Student guide explores human skills in AI age",
+        "A guide to AI tools at the U of A",
+        "Robustness Analysis of Agentic AI to Inconsistent and Incomplete Tool Responses"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 27,
       "sources": 2,
       "ts": "2026-08-25T13:01:22.000Z",
       "writtenSources": 2,
@@ -394,7 +465,7 @@
     },
     {
       "cat": "funding",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-08-25T00:23:12.000Z",
       "writtenSources": 2,
@@ -426,7 +497,7 @@
     },
     {
       "cat": "policy",
-      "signal": 19,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-25T12:10:07.000Z",
       "writtenSources": 2,
