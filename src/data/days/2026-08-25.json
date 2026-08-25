@@ -3,6 +3,41 @@
   "stories": [
     {
       "cat": "products",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-08-25T13:01:22.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Apple unveils a Mac mini with M6 and M5 Pro, with up to 4x faster AI performance and up to 2x faster graphics, for $899+ with M6 and $1,699+ with M5 Pro (Apple)",
+      "s": "Apple : Apple unveils a Mac mini with M6 and M5 Pro, with up to 4x faster AI performance and up to 2x faster graphics, for $899+ with M6 and $1,699+ with M5 Pro Mac mini delivers up to 4x faster AI pe",
+      "b": [
+        "techmeme.com: Apple unveils a Mac mini with M6 and M5 Pro, with up to 4x faster AI performance and up to 2x faster graphics, for $899+ with M6 and $1,699+ with M5 Pro (Apple)",
+        "apple.com: Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+        "techmeme.com: Apple updates the Mac Studio with M5 Max and M5 Ultra, with up to 4.3x faster AI performance, faster graphics, and up to 512GB of unified memory for $2,499+ (Apple)"
+      ],
+      "body": [
+        "techmeme.com: Apple : Apple unveils a Mac mini with M6 and M5 Pro, with up to 4x faster AI performance and up to 2x faster graphics, for $899+ with M6 and $1,699+ with M5 Pro Mac mini delivers up to 4x faster AI performance, up to 2x faster graphics and storage, along with enhanced connectivity all in its ultracompact footprint",
+        "apple.com: Article URL: https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/ Comments URL: https://news.ycombinator.com/item?id=49433292 Points: 148 # Comments: 80",
+        "techmeme.com: Apple : Apple updates the Mac Studio with M5 Max and M5 Ultra, with up to 4.3x faster AI performance, faster graphics, and up to 512GB of unified memory for $2,499+ Apple's most powerful Mac raises the bar for local AI with up to 4.3x faster performance, more advanced graphics, up to 512GB of unified memory, and extensive connectivity"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260825/p19#a260825p19"
+        },
+        {
+          "d": "apple.com",
+          "u": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/"
+        }
+      ],
+      "srcTitles": [
+        "Apple unveils a Mac mini with M6 and M5 Pro, with up to 4x faster AI performance and up to 2x faster graphics, for $899+ with M6 and $1,699+ with M5 Pro (Apple)",
+        "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+        "Apple updates the Mac Studio with M5 Max and M5 Ultra, with up to 4.3x faster AI performance, faster graphics, and up to 512GB of unified memory for $2,499+ (Apple)"
+      ]
+    },
+    {
+      "cat": "products",
       "signal": 27,
       "sources": 1,
       "ts": "2026-08-25T09:00:00.000Z",
