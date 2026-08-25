@@ -4,7 +4,7 @@
     {
       "cat": "models",
       "signal": 74,
-      "sources": 39,
+      "sources": 38,
       "ts": "2026-08-24T22:29:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -36,7 +36,7 @@
           "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNTgxRFl5SHpxWUJoMGp5emZhWDRGWG9lY2NDdjlaWjZSam10dGJfXy1vdzMwMGdDLUxWREV0WGxhYVJJQ3BnclhhUm4wc0F1RG4wa3JsS3dyampDaldsOGo2MG1rellaclQyLXhuT1pubDhGOFJQbkw0MjFhU2F1Z2Jqam1OVFQ0N0dhMUN0ZEZDV1laSWluUXZhUkZqSmxDdGc?oc=5"
         },
         {
-          "d": "+35"
+          "d": "+34"
         }
       ],
       "srcTitles": [
@@ -162,38 +162,6 @@
     },
     {
       "cat": "models",
-      "signal": 47,
-      "sources": 2,
-      "ts": "2026-08-25T18:34:18.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Amazon SVP Coded 100K Lines with AI",
-      "s": "Amazon SVP Coded 100K Lines with AI StartupHub.ai",
-      "b": [
-        "startuphub.ai: Amazon SVP Coded 100K Lines with AI",
-        "aboutamazon.com: I'm an Amazon SVP who hadn't coded in 25 years. Then I wrote 100,000 lines of code with AI."
-      ],
-      "body": [
-        "startuphub.ai: Amazon SVP Coded 100K Lines with AI StartupHub.ai",
-        "aboutamazon.com: I'm an Amazon SVP who hadn't coded in 25 years. Then I wrote 100,000 lines of code with AI. About Amazon"
-      ],
-      "l": [
-        {
-          "d": "startuphub.ai",
-          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEJPYnJIS1hVNThreUg4NDJhLXNQZzZycWdKQTZ6MUIwMTdRem5OdXhLS3NxdU9GZjFQdE5vcExEQTAtOEVqeFBZc0lDMHBlcHRQRGd2ZmlSVFpxa19zSjVUVTBhUGcxVWw4SFNTeUdhZWNab2xMeVVFaGp3akFiVU9FZVNXR29pYkhkUFp6TkRjTDJZQ0oxSThEamJGdmc?oc=5"
-        },
-        {
-          "d": "aboutamazon.com",
-          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHV3eXR4YWFwdm5BSjR5aHNiTXRfbnl1TDV3SVZkMG5DajB4enM2VFNURUtUbGdST3U1emhscGpsQ2JFNUxwd0c3Q3BmRnFRdFpCQktPYi04bEJ0NTVITnFmY0lac0ZXRHJyeHNBSGRCcjg1dS1PM0UyU01XOE83bUx3ZnJxbE0?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Amazon SVP Coded 100K Lines with AI",
-        "I'm an Amazon SVP who hadn't coded in 25 years. Then I wrote 100,000 lines of code with AI."
-      ]
-    },
-    {
-      "cat": "models",
       "signal": 46,
       "sources": 1,
       "ts": "2026-08-25T16:00:00.000Z",
@@ -257,8 +225,40 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 43,
+      "sources": 2,
+      "ts": "2026-08-25T18:34:18.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Amazon SVP Coded 100K Lines with AI",
+      "s": "Amazon SVP Coded 100K Lines with AI StartupHub.ai",
+      "b": [
+        "startuphub.ai: Amazon SVP Coded 100K Lines with AI",
+        "aboutamazon.com: I'm an Amazon SVP who hadn't coded in 25 years. Then I wrote 100,000 lines of code with AI."
+      ],
+      "body": [
+        "startuphub.ai: Amazon SVP Coded 100K Lines with AI StartupHub.ai",
+        "aboutamazon.com: I'm an Amazon SVP who hadn't coded in 25 years. Then I wrote 100,000 lines of code with AI. About Amazon"
+      ],
+      "l": [
+        {
+          "d": "startuphub.ai",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdEJPYnJIS1hVNThreUg4NDJhLXNQZzZycWdKQTZ6MUIwMTdRem5OdXhLS3NxdU9GZjFQdE5vcExEQTAtOEVqeFBZc0lDMHBlcHRQRGd2ZmlSVFpxa19zSjVUVTBhUGcxVWw4SFNTeUdhZWNab2xMeVVFaGp3akFiVU9FZVNXR29pYkhkUFp6TkRjTDJZQ0oxSThEamJGdmc?oc=5"
+        },
+        {
+          "d": "aboutamazon.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQNHV3eXR4YWFwdm5BSjR5aHNiTXRfbnl1TDV3SVZkMG5DajB4enM2VFNURUtUbGdST3U1emhscGpsQ2JFNUxwd0c3Q3BmRnFRdFpCQktPYi04bEJ0NTVITnFmY0lac0ZXRHJyeHNBSGRCcjg1dS1PM0UyU01XOE83bUx3ZnJxbE0?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Amazon SVP Coded 100K Lines with AI",
+        "I'm an Amazon SVP who hadn't coded in 25 years. Then I wrote 100,000 lines of code with AI."
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-08-25T14:40:03.000Z",
       "writtenSources": 2,
@@ -325,6 +325,38 @@
         "Student guide explores human skills in AI age",
         "A guide to AI tools at the U of A",
         "Robustness Analysis of Agentic AI to Inconsistent and Incomplete Tool Responses"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-25T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "LLM Evaluation: Beyond Benchmarks",
+      "s": "LLM Evaluation: Beyond Benchmarks StartupHub.ai",
+      "b": [
+        "startuphub.ai: LLM Evaluation: Beyond Benchmarks",
+        "arxiv.org: Beyond Benchmarks: LLM Evaluation with an Anthropomorphic and Lifecycle-oriented Roadmap"
+      ],
+      "body": [
+        "startuphub.ai: LLM Evaluation: Beyond Benchmarks StartupHub.ai",
+        "arxiv.org: arXiv:2508.18646v3 Announce Type: replace Abstract: Despite their rapid advancement, large language models (LLMs) suffer from a critical disconnect between benchmark scores and real-world utility. Current evaluation remains fragmented, prioritizing isolated technical metrics over the holistic, developmental, and societal aspects essential for deployment. Rather than serving merely as a descriptive catalog, this work establishes a diagnostic ontology that causally maps evaluation dimensions to the canonical LLM training pipeline, transforming evaluation from static ranking into a diagnostic tool for root-cause analysis. In this paper, we introduce an anthropomorphic evaluation framework that re-conceptualizes LLM capabilities through a four-dimensional lens: Intelligence Quotient (IQ), Professional Quotient (PQ), Emotional Quotient (EQ), and Value-oriented Quotient (VQ). We operationalize these concepts through a modular evaluation architecture and validate the framework's diagnostic claims through meta-analysis of public benchmark trends. Analyzing over 200 benchmarks, we synthesize key challenges and future directions. This work offers a strategic compass for developing LLMs that are not only technically proficient but also contextually relevant and ethically sound. A curated repository is available at: https://github.com/onejune2018/Awesome-LLM-Eval."
+      ],
+      "l": [
+        {
+          "d": "startuphub.ai",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZS1nYW9ENlYweUNyNEVoMUcyZksyZzZDQlVnZnI4VU1lOHhFSkg2aDRfU1J6X1MzdHVlWkk5dWY3OEQyc01wQWVLWDh5aXVDTnpUWmxPUHBHczgycXdwdzRNYWlNQnlGb0RoM2Z4TF9maTVDU0duT1FkZE5JazJtbUo4UXVUTi1xZk1NU0JPV2xNenFCWE5URUtGOA?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2508.18646"
+        }
+      ],
+      "srcTitles": [
+        "LLM Evaluation: Beyond Benchmarks",
+        "Beyond Benchmarks: LLM Evaluation with an Anthropomorphic and Lifecycle-oriented Roadmap"
       ]
     },
     {
