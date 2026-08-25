@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 79,
-      "sources": 42,
+      "signal": 74,
+      "sources": 39,
       "ts": "2026-08-24T22:29:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,14 +20,6 @@
       ],
       "l": [
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/984239/alabama-attorney-general-subpoena-openai-hugging-face-hack"
-        },
-        {
-          "d": "jpost.com",
-          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVXFSVjh3OHZleW9Bc2lFbnJRMUhUNHRYVXhGaFJGVGRKQXROZjU0MHpxZGYyMDFYTE9Sdk1POENhenEta19DOGp6R2QwUG5oelA1Wm1OaWFiOHZyVmpsX2hlX29fd2JyTzBSdDhnUkc4MTRIUy1FNXhvWGFSVlZQcTNmUnBndw?oc=5"
-        },
-        {
           "d": "wsj.com",
           "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaTdvSkZfVUh4VnlWSUs3ZVdnVWVyR1JnT3dDLXRaM1BnWlZzeFFXOWhwek1DRGNYdWpHVVRPbHh6djhsSThXRmVLczAzb3lMaC1EREdHckE5a3l3bGJPRkxBVml1ZzJMSURsSnpLX1d0aDBWNWR5Yl9YZ0RvQXZRV3Bock1hYXFleFlkZnRWTmRxc19yUG9tNjJqYw?oc=5"
         },
@@ -36,14 +28,22 @@
           "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9zVVo2T0JVdWhicUM2ZkM0WkJEN0RZeUR0UGhZRUZpMkhmcFRIY0JmWmRJZmFCQWZsTmNsbDFDNjBfZndvWEdKUlczX3ZtenJIbmI5cklCb3pUTFZybjJrazk2M0N6ZjhidXduVmZvUmVDSWZCa0E?oc=5"
         },
         {
-          "d": "+38"
+          "d": "cureus.com",
+          "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMnZHeHJGZWdTdV9kYmJDVXZGRGJfbjV6NlpNRjNfTjQzV2RwYkItVFE4STZsQmV6WE5XSGQzenZxbzZHdkZocmhHYzRHRmxUcmxnYk12MFRiMl9ScVB0b2V1Umk5cERKNlhjV09JWDR0WVotbk00WGExTlg5eWlIMUVhejRoc18zeFNab19mRWpnY2JQcjMxRUtfZDhKMWV2a0JJUFV0eER4TkRtSUhETU05RW1iYl9TMjFvQldud2YyR1VUU0tReDlzV05ZemlDcXhTVjFvdUFNUkpTcTBCUWhmRksxWnZMVXc?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNTgxRFl5SHpxWUJoMGp5emZhWDRGWG9lY2NDdjlaWjZSam10dGJfXy1vdzMwMGdDLUxWREV0WGxhYVJJQ3BnclhhUm4wc0F1RG4wa3JsS3dyampDaldsOGo2MG1rellaclQyLXhuT1pubDhGOFJQbkw0MjFhU2F1Z2Jqam1OVFQ0N0dhMUN0ZEZDV1laSWluUXZhUkZqSmxDdGc?oc=5"
+        },
+        {
+          "d": "+35"
         }
       ],
       "srcTitles": [
-        "OpenAI subpoenaed by Alabama AG over Hugging Face hack",
-        "Alabama launches OpenAI probe after artificial intelligence agent hacks Hugging Face during testing",
         "U.S. Stocks Mixed on Artificial-Intelligence Jitters",
-        "Artificial Intelligence or Artificial Unintelligence?"
+        "Artificial Intelligence or Artificial Unintelligence?",
+        "Artificial Intelligence and Psychiatric Training: Opportunities, Challenges, and the Future of Mental Health Education",
+        "These 2 Artificial Intelligence (AI) Stocks Could Soar by 66% and 46%, According to Wall Street"
       ]
     },
     {
@@ -162,7 +162,7 @@
     },
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-08-25T18:34:18.000Z",
       "writtenSources": 2,
@@ -218,38 +218,6 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 44,
-      "sources": 2,
-      "ts": "2026-08-25T14:40:03.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs (Michael Nuñez/VentureBeat)",
-      "s": "Michael Nu ez / VentureBeat : Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs Perplexit",
-      "b": [
-        "techmeme.com: Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs (Michael Nuñez/VentureBeat)",
-        "computerworld.com: Perplexity’s on-device AI offering promises data control and lower token costs"
-      ],
-      "body": [
-        "techmeme.com: Michael Nu ez / VentureBeat : Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs Perplexity is launching Portable Computer today, a version of its agentic Computer platform that runs entirely",
-        "computerworld.com: Perplexity’s on-device AI offering promises data control and lower token costs Computerworld"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260825/p27#a260825p27"
-        },
-        {
-          "d": "computerworld.com",
-          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUFWSDJGLWpnWVE5cEJNY1BSNnRjVXVodkgwZmxlb3RqNkliVl81S0ZRcGhfaGhSelBySzd1dnBKVzdCa0pGUGhXa0o4b0VfbWxZQlFhRkJoZlN2UnR3VkdEOFlwQVoxVUc1b1lTZUFPOGhobzNmRVM5SzZHRmdZQk4yUGRJYnEtVzdwaXpIeVcwbVk5Mi1KdWtta1ZsUW1tSDNpdTdaVnFXMlNnckU4YmtNejhYNlJpejE4STRXUERBNTFYU0lr?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs (Michael Nuñez/VentureBeat)",
-        "Perplexity’s on-device AI offering promises data control and lower token costs"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 43,
       "sources": 3,
@@ -286,6 +254,38 @@
         "Accel-backed Keenable is indexing the web for AI agents",
         "Keenable, which is building a web search index for AI agents and says several AI labs are using its API, raised a $26M seed led by Accel (Anna Heim/TechCrunch)",
         "Breadcrumbing Search Agents"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-08-25T14:40:03.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs (Michael Nuñez/VentureBeat)",
+      "s": "Michael Nu ez / VentureBeat : Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs Perplexit",
+      "b": [
+        "techmeme.com: Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs (Michael Nuñez/VentureBeat)",
+        "computerworld.com: Perplexity’s on-device AI offering promises data control and lower token costs"
+      ],
+      "body": [
+        "techmeme.com: Michael Nu ez / VentureBeat : Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs Perplexity is launching Portable Computer today, a version of its agentic Computer platform that runs entirely",
+        "computerworld.com: Perplexity’s on-device AI offering promises data control and lower token costs Computerworld"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260825/p27#a260825p27"
+        },
+        {
+          "d": "computerworld.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWUFWSDJGLWpnWVE5cEJNY1BSNnRjVXVodkgwZmxlb3RqNkliVl81S0ZRcGhfaGhSelBySzd1dnBKVzdCa0pGUGhXa0o4b0VfbWxZQlFhRkJoZlN2UnR3VkdEOFlwQVoxVUc1b1lTZUFPOGhobzNmRVM5SzZHRmdZQk4yUGRJYnEtVzdwaXpIeVcwbVk5Mi1KdWtta1ZsUW1tSDNpdTdaVnFXMlNnckU4YmtNejhYNlJpejE4STRXUERBNTFYU0lr?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Perplexity launches Portable Computer, a local AI agent platform running fully on-device with zero token costs, starting with Nvidia DGX Spark and RTX Linux PCs (Michael Nuñez/VentureBeat)",
+        "Perplexity’s on-device AI offering promises data control and lower token costs"
       ]
     },
     {
