@@ -35,7 +35,7 @@
     },
     {
       "cat": "products",
-      "signal": 59,
+      "signal": 55,
       "sources": 2,
       "ts": "2026-08-25T13:01:22.000Z",
       "writtenSources": 2,
@@ -69,35 +69,28 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 47,
-      "sources": 2,
-      "ts": "2026-08-25T12:10:07.000Z",
-      "writtenSources": 2,
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-08-25T16:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters)",
-      "s": "Mike Scarcella / Reuters : Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey Alphabet's Googl",
+      "h": "5 ways to upgrade your home decor with Google Search",
+      "s": "Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
       "b": [
-        "techmeme.com: Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters)",
-        "reuters.com: Google expands Gemini AI platform for law firms, lawyers"
+        "blog.google: 5 ways to upgrade your home decor with Google Search"
       ],
       "body": [
-        "techmeme.com: Mike Scarcella / Reuters : Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey Alphabet's Google (GOOGL.O) on Tuesday expanded its Gemini Enterprise artificial intelligence platform with new tools for lawyers and law firms",
-        "reuters.com: Google expands Gemini AI platform for law firms, lawyers Reuters"
+        "blog.google: Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects."
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260825/p16#a260825p16"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5"
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/search/home-decor-tips/"
         }
       ],
       "srcTitles": [
-        "Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters)",
-        "Google expands Gemini AI platform for law firms, lawyers"
+        "5 ways to upgrade your home decor with Google Search"
       ]
     },
     {
@@ -130,6 +123,75 @@
       "srcTitles": [
         "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
         "SEC investigating AI-focused hedge fund Situational Awareness"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 43,
+      "sources": 2,
+      "ts": "2026-08-25T12:10:07.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters)",
+      "s": "Mike Scarcella / Reuters : Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey Alphabet's Googl",
+      "b": [
+        "techmeme.com: Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters)",
+        "reuters.com: Google expands Gemini AI platform for law firms, lawyers"
+      ],
+      "body": [
+        "techmeme.com: Mike Scarcella / Reuters : Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey Alphabet's Google (GOOGL.O) on Tuesday expanded its Gemini Enterprise artificial intelligence platform with new tools for lawyers and law firms",
+        "reuters.com: Google expands Gemini AI platform for law firms, lawyers Reuters"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260825/p16#a260825p16"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZk81aGh3d2lJX0FucWpwclltdnRJd3RqNVpTWnhMeGNBU3FUeWRIby1lcEpQQ3NOT1VaWjRlU19vT1lmVzdMTEpjbm16eTh4MTdvbGRtN1ZQb243eVZ2aF9Sd19PMEtzd2ZpbGV2R0p5SzZRTGJLNkE4TGNZUmtxVnlvVGx1NlVYQkIwMmEwRnV6RGxEQ1BvTGIzNGE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Google launches Gemini Enterprise for Legal, expanding its platform with specialized AI agents and integrations with Thomson Reuters, LexisNexis, and Harvey (Mike Scarcella/Reuters)",
+        "Google expands Gemini AI platform for law firms, lawyers"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-08-24T22:29:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Missouri college students face developing artificial intelligence models as they return to campus",
+      "s": "Missouri college students face developing artificial intelligence models as they return to campus WGEM",
+      "b": [
+        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus",
+        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus"
+      ],
+      "body": [
+        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus WGEM",
+        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus KY3"
+      ],
+      "l": [
+        {
+          "d": "wgem.com",
+          "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWgtRmQ4NEdGdVlWWUQ2UkM1WXJ0cEZUOXZOSjJJcFd0YVRnUUxteHYxd3djM1pBNXRXeTB6WExxbXg0dG9YRFZadk13WVR4bHYzbU8xQkZZYjE5aVI2TE9qMFJfR01YWXliMmREdUlWTjY1ZzNLRDhrMVlRVmwxMHctRm5KQXJOdUppTkp2Ui00SW0zU2sxUXJHUUNvNW5hTlgxdlhFUDlSQ1E4TkUxYzFaQ1YxSUVUUUhxSlFWX1VvQdIB1gFBVV95cUxNaldUU0xfdk9tV0l5dzdhZVVtUGVkbGhUVDFwUHJ0cnY4a3NqbjhZZHZveHFhZkFLa0J6RW9zeS1GaElFMDVzazB3VVVUd0xrTkE2eHdPbGZHN2swTlFLc0FhYkN6b2UwamI1bG1aNkRnY0diRHRyellNOE5vcHB3Wll5LWR1U2VLcVRWYi1mZm5NTnRGSGtlMXpkVXdhUnBLNDlxZGdUU1VLUUJES0xLUEwwUF9fdlp2NWVWYl9mTUdoX09NdmI1Tzl5SS00YjFVa1NpWFZB?oc=5"
+        },
+        {
+          "d": "kfvs12.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRzBzWFZMeENXTkdmNkVCamxIQnNQYlB2d3ltWHNmLUloTTJCcDk0eUt3ejVGWTBnQmstY21sQjFsSmJsTDlLaHprUU9mdDJXN3FWNmgxN2Q4V2Rqb0dlckI5TEJvV1BCNFJZME9QRm84WFlFUzNLM1NXb1VmOTFfN3BHbzBFaE4zODZOX0wxQnl3Z3psX29Jbi1MdTRITFMw0gG0AUFVX3lxTE9RUGRDZ3hGQ2ZzWGdMdzZaX29BUFhIY3JHbU41MWlKY2tmUUJNVWNrRU5VUVhGbGhzcUFzeFI1SlYyVE8tbTdTUElyX3VpLW15Wm55aU5Nc3hoUlpRdURpNm01SFo3SVNCaURKRW03LUNLbHRqRXQ3cV9SbDJzSnN1OUhsYnpXZ1U1NWxCTW5xcWoteW5nTUVjb1hXWWJMOGFGNUlwZzFtLUJTUnFEU1RxX0RreQ?oc=5"
+        },
+        {
+          "d": "ky3.com",
+          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmg2TFpNRUM3TkE2eEdlaGJ3aFZxWnhPS256REF0MGdxVk1nSjQ3c0lMdzREQ3N3bUQ2cVBJX0UtWmd2SWNNdUdxa3JPOXYyMjVsN05qbmtOQllIR3QweWxGZXNjR0t1ZThhVVNRZGJ3TXp6QV9vV0RCZGVNVDllSDdzZlZHdng3Q0k1T3ZldVpvRmVDNFBSVG42Zl9lZjNQOEZWdTItSHNjai1ERWhDZ3M2NGQySDMweXg4N21MaUk3WXM5Q2Mtdg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Missouri college students face developing artificial intelligence models as they return to campus",
+        "Mo. college students face developing AI models as they return to campus",
+        "Missouri college students face developing artificial intelligence models as they return to campus"
       ]
     },
     {
@@ -199,38 +261,6 @@
         "What is an intelligent system?",
         "Mission-Aligned Learning-Informed Control of Autonomous Systems: Formulation and Foundations",
         "LLM-Based Adversarial Persuasion Attacks on Fact-Checking Systems"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-08-24T22:29:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Missouri college students face developing artificial intelligence models as they return to campus",
-      "s": "Missouri college students face developing artificial intelligence models as they return to campus WGEM",
-      "b": [
-        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus",
-        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus"
-      ],
-      "body": [
-        "wgem.com: Missouri college students face developing artificial intelligence models as they return to campus WGEM",
-        "ky3.com: Missouri college students face developing artificial intelligence models as they return to campus KY3"
-      ],
-      "l": [
-        {
-          "d": "wgem.com",
-          "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWWgtRmQ4NEdGdVlWWUQ2UkM1WXJ0cEZUOXZOSjJJcFd0YVRnUUxteHYxd3djM1pBNXRXeTB6WExxbXg0dG9YRFZadk13WVR4bHYzbU8xQkZZYjE5aVI2TE9qMFJfR01YWXliMmREdUlWTjY1ZzNLRDhrMVlRVmwxMHctRm5KQXJOdUppTkp2Ui00SW0zU2sxUXJHUUNvNW5hTlgxdlhFUDlSQ1E4TkUxYzFaQ1YxSUVUUUhxSlFWX1VvQdIB1gFBVV95cUxNaldUU0xfdk9tV0l5dzdhZVVtUGVkbGhUVDFwUHJ0cnY4a3NqbjhZZHZveHFhZkFLa0J6RW9zeS1GaElFMDVzazB3VVVUd0xrTkE2eHdPbGZHN2swTlFLc0FhYkN6b2UwamI1bG1aNkRnY0diRHRyellNOE5vcHB3Wll5LWR1U2VLcVRWYi1mZm5NTnRGSGtlMXpkVXdhUnBLNDlxZGdUU1VLUUJES0xLUEwwUF9fdlp2NWVWYl9mTUdoX09NdmI1Tzl5SS00YjFVa1NpWFZB?oc=5"
-        },
-        {
-          "d": "ky3.com",
-          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbmg2TFpNRUM3TkE2eEdlaGJ3aFZxWnhPS256REF0MGdxVk1nSjQ3c0lMdzREQ3N3bUQ2cVBJX0UtWmd2SWNNdUdxa3JPOXYyMjVsN05qbmtOQllIR3QweWxGZXNjR0t1ZThhVVNRZGJ3TXp6QV9vV0RCZGVNVDllSDdzZlZHdng3Q0k1T3ZldVpvRmVDNFBSVG42Zl9lZjNQOEZWdTItSHNjai1ERWhDZ3M2NGQySDMweXg4N21MaUk3WXM5Q2Mtdg?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Missouri college students face developing artificial intelligence models as they return to campus",
-        "Missouri college students face developing artificial intelligence models as they return to campus"
       ]
     },
     {
