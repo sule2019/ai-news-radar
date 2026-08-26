@@ -34,6 +34,38 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-26T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "[Page Title] | News",
+      "s": "[Page Title] | News UMass Lowell",
+      "b": [
+        "uml.edu: [Page Title] | News",
+        "arxiv.org: LOCKS: Page-Local Compact Key Summaries for Efficient Long-Context Decoding"
+      ],
+      "body": [
+        "uml.edu: [Page Title] | News UMass Lowell",
+        "arxiv.org: arXiv:2607.24555v2 Announce Type: replace-cross Abstract: Serving large language models at long context is bottlenecked by the key-value (KV) cache, which is read in full at every decode step. Attention keys are locally low-rank though globally high-rank: a fixed low-rank sketch shared across pages is provably blind to page-specific directions, while at the same summary size a page's own basis ranks pages and keeps carriers far better. LOCKS gives every page its own rank-$r$ spectral summary (resident, a tenth of the cache at $r{=}8$ and a twenty-fifth at $r{=}2$), reconstructs within-page logits, estimates each page's attention mass by log-sum-exp, and attends only the top pages; selection itself reads no candidate keys or values. Selecting on this summary alone stays within about a point of the full cache on long-document QA (LongBench-v1; Llama-3.1-8B), tracks the read-every-key exact-LSE oracle on retrieval-dense RULER down to the smallest budgets, and holds quality furthest into the small-budget regime on long-form reasoning (AIME26, MATH-500; Qwen3-4B), where selectors and eviction-based reasoning compressors both fall away. At a $2048$-token budget LOCKS matches FullKV aggregate quality at $100$K$+$ context (GLM-4-9B-Chat-1M) while attending about $2\\%$ of the tokens; since the summary is scanned in full each step, the per-step KV read falls by about $10$--$25\\times$ across that rank range, and this halves per-token decode latency ($2.0\\times$ at $1$M tokens on one H200 NVL, measured at $r{=}8$) against dense attention. LOCKS ships as a drop-in plugin for unmodified vLLM, with batched decode running in full CUDA graphs."
+      ],
+      "l": [
+        {
+          "d": "uml.edu",
+          "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE5EMmNiQ0szZVphdVJaQjdwME9WRHQ2MGstZkFiNXlWd2hNUk1KNGlkbkY3SEM4Q0V5MEJRLWsxajc2akJ6TGw1WWhnbU1vRVRleWZqcVZuSUY3Q21uSlRxOUU2OWdGbllEZmE2SkJ1TUVPdw?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2607.24555"
+        }
+      ],
+      "srcTitles": [
+        "[Page Title] | News",
+        "LOCKS: Page-Local Compact Key Summaries for Efficient Long-Context Decoding"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 24,
       "sources": 1,
