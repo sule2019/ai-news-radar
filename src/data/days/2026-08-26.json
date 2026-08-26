@@ -3,6 +3,38 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 66,
+      "sources": 2,
+      "ts": "2026-08-26T19:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The inside story on why OpenAI agents hacked Hugging Face",
+      "s": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. T",
+      "b": [
+        "technologyreview.com: The inside story on why OpenAI agents hacked Hugging Face",
+        "techmeme.com: OpenAI publishes a technical report on the Hugging Face incident, detailing the agents' activity, safeguard failures, and measures to prevent recurrence (OpenAI)"
+      ],
+      "body": [
+        "technologyreview.com: The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’ fears that AI models might take actions that defy human desires and expectations. Since the hack, OpenAI employees—as well as researchers at the AI evaluation nonprofit METR, which released its own report on the hack today—have worked to understand what went wrong and how similar missteps might be prevented in the future. OpenAI has already put some preventative measures in place based on what they discovered. But making sure AI models do what we want them to do, or “alignment,” remains a gnarly problem, and some of the root causes of the hack will take much longer than a month to resolve. “It’s not something you can solve overnight,” says Kai Chen, who runs OpenAI’s alignment research team. “There are challenges we’ve been tracking for a very long time, and we’re now seeing them with much greater precision.” The Hugging Face hack was a product of months of misbehavior from OpenAI agents, first as they were being trained and then as their abilities were being evaluated. This May, agents in training figured out how to use OpenAI’s infrastructure to communicate with one another and get support with difficult training tasks, including some that were impossible to solve without hacking or otherwise misbehaving. That “message board” was shut down. Then in July, while being evaluated for their cybersecurity abilities, some models created a new message board. They were supposed to be isolated from the internet, but by working together they managed to get online, hack Hugging Face, and obtain solutions for the cybersecurity problems that had stumped them. Based on their investigation, OpenAI researchers believe that events during the trainin",
+        "techmeme.com: OpenAI : OpenAI publishes a technical report on the Hugging Face incident, detailing the agents' activity, safeguard failures, and measures to prevent recurrence Read the technical report Read METR report(opens in a new window)Watch Black Hat talk(opens in a new window) Loading..."
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260826/p50#a260826p50"
+        }
+      ],
+      "srcTitles": [
+        "The inside story on why OpenAI agents hacked Hugging Face",
+        "OpenAI publishes a technical report on the Hugging Face incident, detailing the agents' activity, safeguard failures, and measures to prevent recurrence (OpenAI)"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 46,
       "sources": 1,
       "ts": "2026-08-26T10:00:00.000Z",
@@ -27,8 +59,33 @@
       ]
     },
     {
-      "cat": "products",
+      "cat": "models",
       "signal": 34,
+      "sources": 1,
+      "ts": "2026-08-26T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The Hugging Face incident and the road ahead",
+      "s": "OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment.",
+      "b": [
+        "openai.com: The Hugging Face incident and the road ahead"
+      ],
+      "body": [
+        "openai.com: OpenAI shares findings from the Hugging Face security incident and the steps we’re taking to strengthen AI model security, monitoring, and alignment."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/hugging-face-incident-and-the-road-ahead"
+        }
+      ],
+      "srcTitles": [
+        "The Hugging Face incident and the road ahead"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 30,
       "sources": 2,
       "ts": "2026-08-26T09:41:48.000Z",
       "writtenSources": 2,
@@ -110,7 +167,7 @@
     },
     {
       "cat": "policy",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-26T04:00:00.000Z",
       "writtenSources": 2,
