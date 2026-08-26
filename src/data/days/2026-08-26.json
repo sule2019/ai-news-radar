@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 63,
-      "sources": 2,
+      "signal": 72,
+      "sources": 3,
       "ts": "2026-08-26T19:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -26,11 +26,16 @@
         {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260826/p50#a260826p50"
+        },
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/"
         }
       ],
       "srcTitles": [
         "The inside story on why OpenAI agents hacked Hugging Face",
-        "OpenAI publishes a technical report on the Hugging Face incident, detailing the agents' activity, safeguard failures, and measures to prevent recurrence (OpenAI)"
+        "OpenAI publishes a technical report on the Hugging Face incident, detailing the agents' activity, safeguard failures, and measures to prevent recurrence (OpenAI)",
+        "OpenAI releases its official report on the Hugging Face breach"
       ]
     },
     {
@@ -84,38 +89,6 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-08-26T09:41:48.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter's leaderboard (Luz Ding/Bloomberg)",
-      "s": "Luz Ding / Bloomberg : Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter's leaderboard The new AI model that's",
-      "b": [
-        "techmeme.com: Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter's leaderboard (Luz Ding/Bloomberg)",
-        "bloomberg.com: Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights"
-      ],
-      "body": [
-        "techmeme.com: Luz Ding / Bloomberg : Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter's leaderboard The new AI model that's swept to the top of online usage charts with high performance at zero cost was created by China's Z.AI Co., also known as Zhipu.",
-        "bloomberg.com: Article URL: https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek Comments URL: https://news.ycombinator.com/item?id=49446422 Points: 107 # Comments: 34"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260826/p35#a260826p35"
-        },
-        {
-          "d": "bloomberg.com",
-          "u": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
-        }
-      ],
-      "srcTitles": [
-        "Z.ai releases GLM-5.3-Flash, the first natively multimodal GLM-5 series model, with 320B parameters, and says it served the model as Ox Alpha on Chinese chips (Z.ai)",
-        "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 24,
       "sources": 1,
@@ -163,6 +136,38 @@
       ],
       "srcTitles": [
         "How loveholidays is making everyone a builder with Codex"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-08-26T09:41:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter's leaderboard (Luz Ding/Bloomberg)",
+      "s": "Luz Ding / Bloomberg : Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter's leaderboard The new AI model that's",
+      "b": [
+        "techmeme.com: Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter's leaderboard (Luz Ding/Bloomberg)",
+        "bloomberg.com: Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights"
+      ],
+      "body": [
+        "techmeme.com: Luz Ding / Bloomberg : Z.ai confirms Ox Alpha is a new iteration of its GLM series and says it will release the weights for it tonight; Ox Alpha topped OpenRouter's leaderboard The new AI model that's swept to the top of online usage charts with high performance at zero cost was created by China's Z.AI Co., also known as Zhipu.",
+        "bloomberg.com: Article URL: https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek Comments URL: https://news.ycombinator.com/item?id=49446422 Points: 107 # Comments: 34"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260826/p35#a260826p35"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek"
+        }
+      ],
+      "srcTitles": [
+        "Z.ai releases GLM-5.3-Flash, the first natively multimodal GLM-5 series model, with 320B parameters, and says it served the model as Ox Alpha on Chinese chips (Z.ai)",
+        "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights"
       ]
     },
     {
