@@ -1,4 +1,142 @@
 {
   "date": "2026-08-27",
-  "stories": []
+  "stories": [
+    {
+      "cat": "products",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-08-27T11:35:59.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI to start showing ads on ChatGPT s free and Go tiers in India",
+      "s": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "b": [
+        "techcrunch.com: OpenAI to start showing ads on ChatGPT s free and Go tiers in India",
+        "techmeme.com: OpenAI launches ads on its ChatGPT Free and Go subscription tiers in India, where it has 100M+ weekly active users, and plans to launch an ad manager next month (Ivan Mehta/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+        "techmeme.com: Ivan Mehta / TechCrunch : OpenAI launches ads on its ChatGPT Free and Go subscription tiers in India, where it has 100M+ weekly active users, and plans to launch an ad manager next month It seems there is no escaping the ad industry. OpenAI said on Thursday that it will start showing ads on its ChatGPT Free and Go subscription tiers in India."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260827/p25#a260827p25"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI to start showing ads on ChatGPT s free and Go tiers in India",
+        "OpenAI launches ads on its ChatGPT Free and Go subscription tiers in India, where it has 100M+ weekly active users, and plans to launch an ad manager next month (Ivan Mehta/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-08-27T02:32:06.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Nvidia Acquires Hugging Face for $12.9 Billion",
+      "s": "Nvidia Acquires Hugging Face for $12.9 Billion StartupHub.ai",
+      "b": [
+        "startuphub.ai: Nvidia Acquires Hugging Face for $12.9 Billion",
+        "tomshardware.com: Nvidia to buy Hugging Face for $12.9 billion, report claims — could strengthen Nvidia's open-model strategy and shore up position against rivals"
+      ],
+      "body": [
+        "startuphub.ai: Nvidia Acquires Hugging Face for $12.9 Billion StartupHub.ai",
+        "tomshardware.com: Nvidia to buy Hugging Face for $12.9 billion, report claims — could strengthen Nvidia's open-model strategy and shore up position against rivals Tom's Hardware"
+      ],
+      "l": [
+        {
+          "d": "startuphub.ai",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWXVWMmo0SlJoNFBQbDR0NHkwdmMzUUJOa1JxNTdQY2ZZTkhIeXJyN25KRkM2U1EzQ1pXZkYwVDJ6b1hMT3FFdzVqb0NWMFI2OGRINEJMWlRiWmwxODJlcVUxVnZldjBUNmlkeFhHZ2ZXWTAxejQ2dGh6T1VlZmpPRU5PMHd3QXNPdWpNU1BhWnZScDdYeUU2TkJmcllkeVRrb0pLanZLYUcwMWtk?oc=5"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPbmRVc0dRS2NzX1NhcDgtVkJudFloS1YzVWlqRklhS0xma18tYkFVSXFnMjZLY3ozWEM1SjVWc09aZ2p0My1IZ2dKNkJaTkd1VE9GR3o0eWtGYmNBd09fYnppS0t6RE9OcHRjY0ltdFc0cmpJR3Q2SG9OSUJrX2U2aFIxYkllSndLMVpFMGZpYVhPbXMyczJ1ZUJjODR1MDdWTElzMWc4cmlCaThTb0dDanpvY2NvVENtTms3RllFY24xb2NxTjVsSUwtMWRoYVZFRVI2ZWRmQ3NMM1VaOGhKaGw0Zk1Mcy1GbllPOExZdDRVZ3lrMzM0bkU1Q1RidWk4MW9wdEVvOGNrX2xRbGNsdU5wbWpYNXh0UE1QSFhtMkZndjBFNEM4SXNXVkxtaDVSYXE4?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia Acquires Hugging Face for $12.9 Billion",
+        "Nvidia to buy Hugging Face for $12.9 billion, report claims — could strengthen Nvidia's open-model strategy and shore up position against rivals"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-27T03:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Expanding OpenAI’s presence in Brazil",
+      "s": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "b": [
+        "openai.com: Expanding OpenAI’s presence in Brazil"
+      ],
+      "body": [
+        "openai.com: OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/expanding-our-presence-in-brazil"
+        }
+      ],
+      "srcTitles": [
+        "Expanding OpenAI’s presence in Brazil"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 34,
+      "sources": 5,
+      "ts": "2026-08-27T05:13:43.000Z",
+      "writtenSources": 5,
+      "draft": true,
+      "h": "US futures mostly higher as the artificial intelligence business booms | National News | 2news.com",
+      "s": "US futures mostly higher as the artificial intelligence business booms | National News | 2news.com KTVN",
+      "b": [
+        "ktvn.com: US futures mostly higher as the artificial intelligence business booms | National News | 2news.com",
+        "ottumwacourier.com: US futures mostly higher as the artificial intelligence business booms",
+        "couriernews.com: US futures mostly higher as the artificial intelligence business booms"
+      ],
+      "body": [
+        "ktvn.com: US futures mostly higher as the artificial intelligence business booms | National News | 2news.com KTVN",
+        "ottumwacourier.com: US futures mostly higher as the artificial intelligence business booms Ottumwa Courier",
+        "couriernews.com: US futures mostly higher as the artificial intelligence business booms couriernews.com",
+        "thetimestribune.com: US futures mostly higher as the artificial intelligence business booms thetimestribune.com"
+      ],
+      "l": [
+        {
+          "d": "ktvn.com",
+          "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObUx6N0ZfdTdpYTEtY3NIM1QyU3Bncmp3ZHF2TUl0aTZ6NDdFaGJybzdBRlNISDl5VjV1RG9Ba2hzMm5ZT0l2dEhubzJFamtKMjctR2p2YXdwa2xBN3dNWlc2aW82NE0tVXhWX2tWaHZPbERkeEp1VjkxWGJYcUpqQVlRS3c0U1U1UFZTRFp1cl9VVm1MYVAyTUhJQTFCY2lFcW9oLWpGZDNodFY2Vk0yeHNYbzNhMU11TUFzMGYtX3BLM2ViOUJtQUZ1MVFHczVEclptZzYxSEs5WmJmdVRlOEQwNnZ2TVFkNVE?oc=5"
+        },
+        {
+          "d": "ottumwacourier.com",
+          "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQ0hGWTRXOTVUVE1sRzY5OEFJcHozakRZU1E0SUpVZjRnMF9BWEJjUVAyOW9jWU9qZkpPSWhRRl9NamsxYjNxamVIWWM5Q1U2YVREcllEM0lUR2N1eU9kRFZDVGZlS1BNZjNSOUNrc1FpQ1hHNWZxV0RWeWNPUUxUc3FYeHRtZnBuQ2ZsRUNOZ0h3WDRpMUhxSEk1eVFxSE56WUtiOWNBLUJUWVdWQXNNbWZZZ1RRWEpJbXdFOWFfdVYzTGhhVXh4VHZJNElZUjE5THFCUExUT0VPd1RLM1U0VU9lbjZVbW9rTnlRV3pwWEJlazBocmhKVXRyQy1IUm8?oc=5"
+        },
+        {
+          "d": "couriernews.com",
+          "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUmJWXzhfSmwxaXBsa3d0NVcxZzdITlA5ZDdKNTFMajB2ckZkZTd2WW9NUUNKMlRYdzZDY0hFRHZqNTNHZDNMcHQ4NFZkZU5KcjBsRTUzVkg2Zzk1TEZIckZzVFpFWEl6S3k0XzRxWGFtcFFzTmN3a3VnWW1QVU5zSWJkOTVZVHZ6ZzI4VDFqdG9SOEdid0ZDWDEzZENyWkRHZTZkQThNUVNqTTl2YzNHU09vTFozOXlBZWlodkZkRGNmOFJhZXZJMzZFek9PekI3dTF4VkVJTk0xbjRkdlZ2UnZYajVpdktPSHVFa2pGV0s2SVJB?oc=5"
+        },
+        {
+          "d": "thetimestribune.com",
+          "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVFNCb25NUjU3UlJWcHV2dVc4NEZBaDlmRW1XU1FpX3B3a1o0SHBUbEVtU1RGUGJud1hNM1MtRF9FSEx6d1JWdzJicS1TMG1VYlVmSFhkZnZaY215ckpwNEtxR0FaeGZvNGhTY3VGcFJkdDFGaDY0X3dQRGk0TjM0MXNMWTltMjE0NHRrNWpEamlLY1lMMnVlNU9IcWlza0ZZR2Q5aU5FWFg4WllfazRuN3lSdzVnMXdhS2d0c1pIeWRNSFMxOTJ1SmZqOUw5Ym5ld1ZMWUVGLUQ5d1lMQ3diUkdzQ1kyMkJmLTBNQ3NiZnItR2pfaGN4dlVhM21FOXNx?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "US futures mostly higher as the artificial intelligence business booms | National News | 2news.com",
+        "US futures mostly higher as the artificial intelligence business booms",
+        "US futures mostly higher as the artificial intelligence business booms",
+        "US futures mostly higher as the artificial intelligence business booms"
+      ]
+    }
+  ]
 }
