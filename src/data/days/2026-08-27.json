@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 67,
-      "sources": 3,
+      "signal": 80,
+      "sources": 5,
       "ts": "2026-08-27T04:00:00.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -23,55 +23,78 @@
       ],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260827/p38#a260827p38"
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/"
         },
         {
           "d": "arxiv.org",
           "u": "https://arxiv.org/abs/2608.23860"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/anthropic-standard-ai-agents-coming-to-the-physical-world/"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/"
+        },
+        {
+          "d": "+1"
         }
       ],
       "srcTitles": [
         "Gemini Omni 1.1 Flash lets you build with more control",
-        "Google launches Gemini Omni 1.1 Flash, which it says delivers studio-quality video production, including the ability to extend a scene, 4K upscaling, and more (Google)",
         "Revelation Control",
-        "PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control"
+        "PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control",
+        "Self-Evolving Scientific Agent Designs Physically-Reasoned Whitebox Fluid Control"
       ]
     },
     {
-      "cat": "products",
-      "signal": 60,
-      "sources": 2,
-      "ts": "2026-08-27T11:35:59.000Z",
-      "writtenSources": 2,
+      "cat": "models",
+      "signal": 69,
+      "sources": 5,
+      "ts": "2026-08-27T17:20:02.000Z",
+      "writtenSources": 5,
       "draft": true,
-      "h": "OpenAI to start showing ads on ChatGPT s free and Go tiers in India",
-      "s": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "h": "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+      "s": "Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of",
       "b": [
-        "techcrunch.com: OpenAI to start showing ads on ChatGPT s free and Go tiers in India",
-        "techmeme.com: OpenAI launches ads on its ChatGPT Free and Go subscription tiers in India, where it has 100M+ weekly active users, and plans to launch an ad manager next month (Ivan Mehta/TechCrunch)"
+        "techcrunch.com: OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+        "techmeme.com: OpenAI, Anthropic, AWS, Microsoft, and 100+ companies warn there is \"a limited window\" to prepare for AI-enabled cyberattacks and call for \"collective action\" (Sam Sabin/Axios)",
+        "nytimes.com: OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing"
       ],
       "body": [
-        "techcrunch.com: OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
-        "techmeme.com: Ivan Mehta / TechCrunch : OpenAI launches ads on its ChatGPT Free and Go subscription tiers in India, where it has 100M+ weekly active users, and plans to launch an ad manager next month It seems there is no escaping the ad industry. OpenAI said on Thursday that it will start showing ads on its ChatGPT Free and Go subscription tiers in India."
+        "techcrunch.com: Some of the world's largest tech companies and AI startups have come together to decry the current state of cybersecurity and to advertise a new solution that they say can ward off a new generation of cyber threats.",
+        "techmeme.com: Sam Sabin / Axios : OpenAI, Anthropic, AWS, Microsoft, and 100+ companies warn there is a limited window to prepare for AI-enabled cyberattacks and call for collective action OpenAI, Anthropic, Amazon Web Services, Microsoft and more than 100 other companies warned Thursday",
+        "nytimes.com: OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing The New York Times",
+        "cbsnews.com: OpenAI, Anthropic, tech leaders warn of \"limited window\" to defend against AI cyber threats CBS News"
       ],
       "l": [
         {
           "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/"
+          "u": "https://techcrunch.com/2026/08/27/openai-anthropic-google-and-100-other-companies-call-for-action-to-defend-against-rogue-ai/"
         },
         {
           "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260827/p25#a260827p25"
+          "u": "https://www.techmeme.com/260827/p41#a260827p41"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMWdJNEdsTXRNZHVjeW1zc2hDYzdodk95bHh4Y1BrOWd6Z3VvV1c3RVNMbTgzMV9CVEJOY0FkNlRBSjlQT0c0UzlpRDFUcnhsd2xjYzNtREJIanR0SGU5Qlg1UXotV3JWMTR6UDZKZHJKSk9qSVMxT3VPcm5TM253LQ?oc=5"
+        },
+        {
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1ZW5yWlE0YV9EU2xVM0NmOG1sQzlOUVFQTXY1Z19iTmpNTFBEZkN4NzVqTVJNdWRUeHl5d3hfT2QwLXpqTjJpTkNaMHFwOUFlRmNmUVYzSExCWmctVGZiUDRTa2VNVk5oS0x2M2M2SVRFdmtqdmQ0ZmRn?oc=5"
+        },
+        {
+          "d": "+1"
         }
       ],
       "srcTitles": [
-        "OpenAI to start showing ads on ChatGPT s free and Go tiers in India",
-        "OpenAI launches ads on its ChatGPT Free and Go subscription tiers in India, where it has 100M+ weekly active users, and plans to launch an ad manager next month (Ivan Mehta/TechCrunch)"
+        "OpenAI, Anthropic, Google, and 100 other companies call for action to defend against rogue AI",
+        "OpenAI, Anthropic, AWS, Microsoft, and 100+ companies warn there is \"a limited window\" to prepare for AI-enabled cyberattacks and call for \"collective action\" (Sam Sabin/Axios)",
+        "OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing",
+        "OpenAI, Anthropic, tech leaders warn of \"limited window\" to defend against AI cyber threats"
       ]
     },
     {
@@ -102,6 +125,175 @@
       "srcTitles": [
         "Expanding OpenAI’s presence in Brazil",
         "OpenAI Expands to Brazil"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-08-27T11:35:59.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI to start showing ads on ChatGPT s free and Go tiers in India",
+      "s": "OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+      "b": [
+        "techcrunch.com: OpenAI to start showing ads on ChatGPT s free and Go tiers in India",
+        "techmeme.com: OpenAI launches ads on its ChatGPT Free and Go subscription tiers in India, where it has 100M+ weekly active users, and plans to launch an ad manager next month (Ivan Mehta/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: OpenAI has more than 100 million weekly active ChatGPT users in India, a huge chunk of whom are on the free or the lower-priced Go tiers.",
+        "techmeme.com: Ivan Mehta / TechCrunch : OpenAI launches ads on its ChatGPT Free and Go subscription tiers in India, where it has 100M+ weekly active users, and plans to launch an ad manager next month It seems there is no escaping the ad industry. OpenAI said on Thursday that it will start showing ads on its ChatGPT Free and Go subscription tiers in India."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260827/p25#a260827p25"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI to start showing ads on ChatGPT s free and Go tiers in India",
+        "OpenAI launches ads on its ChatGPT Free and Go subscription tiers in India, where it has 100M+ weekly active users, and plans to launch an ad manager next month (Ivan Mehta/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-08-27T02:32:06.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Nvidia Acquires Hugging Face for $12.9 Billion",
+      "s": "Nvidia Acquires Hugging Face for $12.9 Billion StartupHub.ai",
+      "b": [
+        "startuphub.ai: Nvidia Acquires Hugging Face for $12.9 Billion",
+        "tomshardware.com: Nvidia to buy Hugging Face for $12.9 billion, report claims — could strengthen Nvidia's open-model strategy and shore up position against rivals"
+      ],
+      "body": [
+        "startuphub.ai: Nvidia Acquires Hugging Face for $12.9 Billion StartupHub.ai",
+        "tomshardware.com: Nvidia to buy Hugging Face for $12.9 billion, report claims — could strengthen Nvidia's open-model strategy and shore up position against rivals Tom's Hardware"
+      ],
+      "l": [
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/08/report-nvidia-to-acquire-ai-model-repository-hugging-face-for-13-billion/"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPbmRVc0dRS2NzX1NhcDgtVkJudFloS1YzVWlqRklhS0xma18tYkFVSXFnMjZLY3ozWEM1SjVWc09aZ2p0My1IZ2dKNkJaTkd1VE9GR3o0eWtGYmNBd09fYnppS0t6RE9OcHRjY0ltdFc0cmpJR3Q2SG9OSUJrX2U2aFIxYkllSndLMVpFMGZpYVhPbXMyczJ1ZUJjODR1MDdWTElzMWc4cmlCaThTb0dDanpvY2NvVENtTms3RllFY24xb2NxTjVsSUwtMWRoYVZFRVI2ZWRmQ3NMM1VaOGhKaGw0Zk1Mcy1GbllPOExZdDRVZ3lrMzM0bkU1Q1RidWk4MW9wdEVvOGNrX2xRbGNsdU5wbWpYNXh0UE1QSFhtMkZndjBFNEM4SXNXVkxtaDVSYXE4?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Report: Nvidia to acquire AI model repository Hugging Face for $13 billion",
+        "Nvidia to buy Hugging Face for $12.9 billion, report claims — could strengthen Nvidia's open-model strategy and shore up position against rivals"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-08-27T21:54:26.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "EXCLUSIVE: Anthropic planned, then abandoned $7 billion purchase of MatX, sources say",
+      "s": "EXCLUSIVE: Anthropic planned, then abandoned $7 billion purchase of MatX, sources say Reuters",
+      "b": [
+        "reuters.com: EXCLUSIVE: Anthropic planned, then abandoned $7 billion purchase of MatX, sources say",
+        "kfgo.com: Exclusive-Anthropic planned, then abandoned $7 billion purchase of MatX, sources say"
+      ],
+      "body": [
+        "reuters.com: EXCLUSIVE: Anthropic planned, then abandoned $7 billion purchase of MatX, sources say Reuters",
+        "kfgo.com: Exclusive-Anthropic planned, then abandoned $7 billion purchase of MatX, sources say The Mighty 790 KFGO"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVG5SUDh0c0lLWkFTNWlLWmMtdnhHOXZHMC1zMmlTNFZnTG9CZnpXUG1QbnRZMmFCQTJ5QkhCdzVkX3JtWWNWbFNtSmpNVTJqTERPLWVKbXdxSV9oc2tKdm95YTZnX1B2YXlrRmptRGNqOUZUenctc2dTQi1TdGtnR1NZQXRSVmJMVS1QZWhnX1V0dHAyVG01RVIyQmtQd1VqQnJVcEIxYXBuOVlpeXE2SWxPTEVlcHhIeG9rSlln?oc=5"
+        },
+        {
+          "d": "kfgo.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ0tObzZoYk14Si1XUEw4NzZpaXhYakVjLW1XQkNNVWtaWFdFTW9mVmd0OF9lWVVzWExsUzNXYTFGVUxEWGExZ0ZvbjBTa0hPSjNBam03c3BNTlQ4SkRXTlRERFQ1MjAzendJcGtFVklZMWU2R3YtQ3lCc2x1Z1RoQTFIUXUybE4yaGJuVkYzTGJ3U2h2a043LWlTOGZnVmpEeXFTeWN2clN4UEg1aTAw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "EXCLUSIVE: Anthropic planned, then abandoned $7 billion purchase of MatX, sources say",
+        "Exclusive-Anthropic planned, then abandoned $7 billion purchase of MatX, sources say"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 52,
+      "sources": 3,
+      "ts": "2026-08-27T12:30:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "3 Artificial Intelligence (AI) Stocks Hedge Funds Are Buying Hand Over Fist",
+      "s": "3 Artificial Intelligence (AI) Stocks Hedge Funds Are Buying Hand Over Fist The Motley Fool",
+      "b": [
+        "fool.com: 3 Artificial Intelligence (AI) Stocks Hedge Funds Are Buying Hand Over Fist",
+        "theglobeandmail.com: 3 Artificial Intelligence (AI) Stocks Hedge Funds Are Buying Hand Over Fist",
+        "marketbeat.com: Artificial Intelligence Stocks To Follow Today - August 27th"
+      ],
+      "body": [
+        "fool.com: 3 Artificial Intelligence (AI) Stocks Hedge Funds Are Buying Hand Over Fist The Motley Fool",
+        "theglobeandmail.com: 3 Artificial Intelligence (AI) Stocks Hedge Funds Are Buying Hand Over Fist The Globe and Mail",
+        "marketbeat.com: Artificial Intelligence Stocks To Follow Today - August 27th MarketBeat",
+        "fool.com: Billionaire Bill Ackman Is Buying Microsoft Stock. Is It Still the Best Artificial Intelligence (AI) Buy Today? The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUHJOMlR3ZEdBeDJwVnhZQUl3djlqOE8yalA4MWtfRUZmMmxTLW5VUlhKbmZzOXVycGFpRmxSc2lZUkdtVk1MWTFTV09BWHhSUGtqdy1pMmpvN3hTNjZLb2R4SW1oTEh1Wndub2dVNFhQdkp0bkdDRGZBWjRJVnRteDdzRQ?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaHBKUlBuLWlDb1dYbGlqNFdDamdrTWIyV2ZMMmxLcWt6SXN6WXpTVDZxWGVkMEFpMDVXS2dvSWZEZExjUF9UOVlwaHRzbEJKaFNGT0Q2NWpKUGhCNjNFbjZlVWFPLTBKNWtNNGtYWFk0ZnhubEpubWFKajRTSUxGVF8xWEVNNDRobE5lejNiX0pta1NXZXZ3LWx0TFlDZG02cTdHX2JTN2xUeV9BNC1IRFI3dWE3cUtGSFJtV3RKM05PMERITERUR2oxRFFCcXM3OGxIY3dQWF9sY2I4NUFJTzBtZ2pJVGNYMHB6a3hB?oc=5"
+        },
+        {
+          "d": "marketbeat.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRjdKUFViZlVoX3N2VGZXUHVnSG5tVy0xelBiNlFkWFVxYTgwNWU5aEVqY1pjMjhzSUc5dFN3dTNpMUVDQ044Uk1RZVpXOEVjRnVUSkNFMzAxRFdtV0VUMjItWW5raEpyLVRFZUdKa0J4cVNlZFppdjY1OWl5VVRManNWVU1kU1BRWVh0OHFkWlM2NEN0anJNZWFUZ1dFTFBtTlUwT1ZyTVQ0RkFRS0htTzl0ZEV1UmRq?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "3 Artificial Intelligence (AI) Stocks Hedge Funds Are Buying Hand Over Fist",
+        "3 Artificial Intelligence (AI) Stocks Hedge Funds Are Buying Hand Over Fist",
+        "Artificial Intelligence Stocks To Follow Today - August 27th",
+        "Billionaire Bill Ackman Is Buying Microsoft Stock. Is It Still the Best Artificial Intelligence (AI) Buy Today?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-08-27T16:57:52.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Tech stocks lead Wall Street after Nvidia, Salesforce and others say AI is creating big growth - KSN-TV",
+      "s": "Tech stocks lead Wall Street after Nvidia, Salesforce and others say AI is creating big growth KSN-TV",
+      "b": [
+        "ksn.com: Tech stocks lead Wall Street after Nvidia, Salesforce and others say AI is creating big growth - KSN-TV",
+        "ca.finance.yahoo.com: Tech stocks lead Wall Street after Nvidia, Salesforce and others say AI is creating big growth"
+      ],
+      "body": [
+        "ksn.com: Tech stocks lead Wall Street after Nvidia, Salesforce and others say AI is creating big growth KSN-TV",
+        "ca.finance.yahoo.com: Tech stocks lead Wall Street after Nvidia, Salesforce and others say AI is creating big growth Yahoo! Finance Canada"
+      ],
+      "l": [
+        {
+          "d": "ksn.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQa3VBVXNMTEhLRWlfam5EUE5fbks4Z2puVHFLeF9WZXdEX3R2cTdMV1Z3anlEZk5lYTRqOWVNcTJmd3h3amV2ZkR6LUlVbXg3RWF1QmVZZ3pmSXBocHAzTk8xb1htMm9nN05xX3RkSmxMRExCWnBWMk90T2RYcGRnUU1Za0dTVXp6MlNNVy0zU0ZyMlJ1SXpIZzF2T3phaEVBdmd3cUJUVDItR3ZVZzFfOVdn0gG3AUFVX3lxTE1pODE0UHBpaFJoNUNPUXdsY2pQbmJqaFBuei1Mb0Z0NjR2MnU3MjFnSk91WEk3Z0RwN3FFem4zWVFFTHRNV00wNGo4d2J1TklYWDc1ZG1Pdkhic1JjelBLWVVWSWRwSERrQkVsZVFuc0tTdi1hRm9KaFpPRFNrWkhXZUpqZXExUmhRYUpzYlRXQWVOUHo2U2dOQ1RVTlRqUVljbDlycXB0b3NTRHA4NTR6VXByYVpkZw?oc=5"
+        },
+        {
+          "d": "ca.finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPSV9LUmY5WWRRSTdJZDlMdE1uelRZNHdSZnR3Q21oMlgxTnZHOUtHNEpvSDByODYyMVlRVTl6Y3hVYm5IdWgtQ3kwN0NjcDl2bmNFbm55XzVXVzM3N2hQUXgtSWh0Y1BXVHZ2VWFxUkV6WnpRQzE1aG1hYTdEemFQY2dheDAyZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Tech stocks lead Wall Street after Nvidia, Salesforce and others say AI is creating big growth - KSN-TV",
+        "Tech stocks lead Wall Street after Nvidia, Salesforce and others say AI is creating big growth"
       ]
     },
     {
@@ -162,60 +354,67 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 44,
+      "cat": "models",
+      "signal": 34,
       "sources": 2,
-      "ts": "2026-08-27T02:32:06.000Z",
+      "ts": "2026-08-27T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Nvidia Acquires Hugging Face for $12.9 Billion",
-      "s": "Nvidia Acquires Hugging Face for $12.9 Billion StartupHub.ai",
+      "h": "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+      "s": "Donald Trump may be preparing to announce sweeping new semiconductor tariffs at the absolute worst time, the tech industry fears. On Thursday, Politico reported that a wide range of new semiconductor ",
       "b": [
-        "startuphub.ai: Nvidia Acquires Hugging Face for $12.9 Billion",
-        "tomshardware.com: Nvidia to buy Hugging Face for $12.9 billion, report claims — could strengthen Nvidia's open-model strategy and shore up position against rivals"
+        "arstechnica.com: AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+        "arxiv.org: AI Finds A Way"
       ],
       "body": [
-        "startuphub.ai: Nvidia Acquires Hugging Face for $12.9 Billion StartupHub.ai",
-        "tomshardware.com: Nvidia to buy Hugging Face for $12.9 billion, report claims — could strengthen Nvidia's open-model strategy and shore up position against rivals Tom's Hardware"
+        "arstechnica.com: Donald Trump may be preparing to announce sweeping new semiconductor tariffs at the absolute worst time, the tech industry fears. On Thursday, Politico reported that a wide range of new semiconductor tariffs, which the tech industry expects will “doom” artificial intelligence innovation in the US, could be imposed in the coming “weeks or months.” About eight people familiar with the Trump administration’s plans were granted anonymity to discuss how the tariffs might work. They suggested that the framework for tariffs may change as it becomes finalized, but one approach under consideration could “dramatically expand the number of tech products subject to the duties, hitting not just chips but potentially many of the goods made with them, such as gaming consoles or the servers that fill data centers.” Read full article Comments",
+        "arxiv.org: arXiv:2608.23875v2 Announce Type: new Abstract: Artificial Intelligence (AI) algorithms frequently learn creative and unexpected solutions, surprising even expert researchers who develop and study them. They often astonish practitioners by discovering unanticipated behavior, exploiting loopholes in reward signals, or spontaneously uncovering previously unknown scientific phenomena. However, accounts of such unconventional behavior across machine learning are seldom formally documented. This work presents 26 curated firsthand anecdotes from various machine learning subfields representing the work of over 100 researchers. These anecdotes showcase the capability of modern AI systems to circumvent human-imposed design limitations and discover unexpected solutions to the tasks we train them on. Furthermore, these accounts are particularly important for the safety of future AI systems. They illustrate the fundamental challenge of aligning models with human values without diminishing their creativity, so they can make surprising discoveries without producing surprising, potentially harmful outcomes. The paper first details AI achieving superhuman success through reinforcement learning across many challenging domains. However, reward-driven optimization can fail when the model learns to hack an underspecified reward or unarticulated constraint. We then present case studies suggesting that harnessing internet-scale foundation models (FMs) has not resolved these fundamental challenges and, in fact, can supercharge them. Nevertheless, we argue that these same learning dynamics can be harnessed to accelerate scientific discovery. Finally, we hope this work provides a consolidated resource to inform future research and demonstrates that the tendency toward unexpected behaviors is commonplace in modern AI, highlighting the need to anticipate and manage AI's capacity for innovative, yet unpredictable, solutions. (abstract abridged)"
       ],
       "l": [
         {
-          "d": "startuphub.ai",
-          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWXVWMmo0SlJoNFBQbDR0NHkwdmMzUUJOa1JxNTdQY2ZZTkhIeXJyN25KRkM2U1EzQ1pXZkYwVDJ6b1hMT3FFdzVqb0NWMFI2OGRINEJMWlRiWmwxODJlcVUxVnZldjBUNmlkeFhHZ2ZXWTAxejQ2dGh6T1VlZmpPRU5PMHd3QXNPdWpNU1BhWnZScDdYeUU2TkJmcllkeVRrb0pLanZLYUcwMWtk?oc=5"
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/tech-policy/2026/08/ai-industry-says-trump-plans-to-tax-chips-in-the-single-dumbest-way-imaginable/"
         },
         {
-          "d": "tomshardware.com",
-          "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPbmRVc0dRS2NzX1NhcDgtVkJudFloS1YzVWlqRklhS0xma18tYkFVSXFnMjZLY3ozWEM1SjVWc09aZ2p0My1IZ2dKNkJaTkd1VE9GR3o0eWtGYmNBd09fYnppS0t6RE9OcHRjY0ltdFc0cmpJR3Q2SG9OSUJrX2U2aFIxYkllSndLMVpFMGZpYVhPbXMyczJ1ZUJjODR1MDdWTElzMWc4cmlCaThTb0dDanpvY2NvVENtTms3RllFY24xb2NxTjVsSUwtMWRoYVZFRVI2ZWRmQ3NMM1VaOGhKaGw0Zk1Mcy1GbllPOExZdDRVZ3lrMzM0bkU1Q1RidWk4MW9wdEVvOGNrX2xRbGNsdU5wbWpYNXh0UE1QSFhtMkZndjBFNEM4SXNXVkxtaDVSYXE4?oc=5"
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.23875"
         }
       ],
       "srcTitles": [
-        "Nvidia Acquires Hugging Face for $12.9 Billion",
-        "Nvidia to buy Hugging Face for $12.9 billion, report claims — could strengthen Nvidia's open-model strategy and shore up position against rivals"
+        "AI industry says Trump plans to tax chips in the “single dumbest way imaginable”",
+        "AI Finds A Way"
       ]
     },
     {
       "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-08-27T16:00:00.000Z",
-      "writtenSources": 1,
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-08-27T20:01:32.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "3 new ways to plan and book travel in Search",
-      "s": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "h": "Sen. Gary Peters visits Ferris State Thursday, part of his motorcycle tour",
+      "s": "Sen. Gary Peters visits Ferris State Thursday, part of his motorcycle tour Big Rapids Pioneer",
       "b": [
-        "blog.google: 3 new ways to plan and book travel in Search"
+        "bigrapidsnews.com: Sen. Gary Peters visits Ferris State Thursday, part of his motorcycle tour",
+        "ferris.edu: U.S. Sen. Peters says Ferris State Cybersecurity and Data Science programs are ‘at the forefront’ during motorcycle tour stop"
       ],
       "body": [
-        "blog.google: Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
+        "bigrapidsnews.com: Sen. Gary Peters visits Ferris State Thursday, part of his motorcycle tour Big Rapids Pioneer",
+        "ferris.edu: U.S. Sen. Peters says Ferris State Cybersecurity and Data Science programs are ‘at the forefront’ during motorcycle tour stop Ferris State University"
       ],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
+          "d": "bigrapidsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQa3Z3RVlLUmNGbHpRa1p2Sl9Fd3JvaVVOTXdESzRlU2Q5UHNZZG9aTnEybHIydWQtSjdHTkpia2p2Q0R4RXNac3NWN1QtYXJCV25aYXZyTkY0amVZbWNDSUVPbm42Wjl2cG9xUzYyaTd5a2VpT1RiekZJanltMEpZMXh5Rnk5T21CT2pHUWQ1VWFUQQ?oc=5"
+        },
+        {
+          "d": "ferris.edu",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmZKYkJJTlExN25kTmFqWDZWSEdtTjh0S1BmaE1XMGRMenBaa3c3WndONFBJNHpvZy1fd20xYkw3ckdkRjdNTWVSeVhzc0RTNDNMRTA3WW9tX01qUXRyQWlWWTFnbGUwbHNDRVBscC11M2FocTQyU0VXU2ZyU0lZaG9kNGpOQ3JVNXR2S014WGZGTC1sWFBtWmVRVWU4aHVFUGc4ajREYWdJSnJ2bk1VeFJB?oc=5"
         }
       ],
       "srcTitles": [
-        "3 new ways to plan and book travel in Search"
+        "Sen. Gary Peters visits Ferris State Thursday, part of his motorcycle tour",
+        "U.S. Sen. Peters says Ferris State Cybersecurity and Data Science programs are ‘at the forefront’ during motorcycle tour stop"
       ]
     },
     {
@@ -251,6 +450,56 @@
       "srcTitles": [
         "US futures mostly higher as the artificial intelligence business booms",
         "US futures mostly higher as the artificial intelligence business booms"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-27T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "3 new ways to plan and book travel in Search",
+      "s": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
+      "b": [
+        "blog.google: 3 new ways to plan and book travel in Search"
+      ],
+      "body": [
+        "blog.google: Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
+        }
+      ],
+      "srcTitles": [
+        "3 new ways to plan and book travel in Search"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-27T12:59:16.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Piloting the world's first double-blind AI evaluations",
+      "s": "Piloting the world's first double-blind AI evaluations",
+      "b": [
+        "deepmind.google: Piloting the world's first double-blind AI evaluations"
+      ],
+      "body": [
+        "deepmind.google: Piloting the world's first double-blind AI evaluations"
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/"
+        }
+      ],
+      "srcTitles": [
+        "Piloting the world's first double-blind AI evaluations"
       ]
     }
   ]
