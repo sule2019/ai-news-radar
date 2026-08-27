@@ -3,7 +3,48 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 64,
+      "signal": 67,
+      "sources": 3,
+      "ts": "2026-08-27T04:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Gemini Omni 1.1 Flash lets you build with more control",
+      "s": "Covered by 3 outlets.",
+      "b": [
+        "blog.google: Gemini Omni 1.1 Flash lets you build with more control",
+        "techmeme.com: Google launches Gemini Omni 1.1 Flash, which it says delivers studio-quality video production, including the ability to extend a scene, 4K upscaling, and more (Google)",
+        "arxiv.org: Revelation Control"
+      ],
+      "body": [
+        "techmeme.com: Google : Google launches Gemini Omni 1.1 Flash, which it says delivers studio-quality video production, including the ability to extend a scene, 4K upscaling, and more Omni now delivers studio-quality video production, including the ability to extend a scene, first and last frame interpolation",
+        "arxiv.org: arXiv:2608.23860v1 Announce Type: cross Abstract: Revelation Control is the problem of choosing priced interventions that reveal hidden state only insofar as the revealed distinctions can change a consequential decision, while accounting separately for any useful progress created by the intervention itself. We develop this theory for learning systems, where states equivalent under declared current information can respond differently to future training and favor different actions. The framework defines decision-sufficient revelation and revelation depth, separates pure information value from productive reuse, embeds static Bayes refinement into state-dependent continuation value, and gives an exact cost-adjusted factorization criterion: an additional shallow coordinate is decision-nonredundant only when states sharing a scalar summary lie on opposite sides of the priced Stop/Continue boundary. We also give a target-independent protocol for model-specific instantiation and prove that bounded stop-flip risk alone cannot certify positive expected utility under unrestricted severity. Across Qwen2.5-7B and Mistral-7B-v0.3, deeper future-learning probes have positive decision value and productive reuse yields strict equal-compute utility advantages. Qwen additionally provides evidence for a decision-nonredundant shallow revealability regime; in Mistral, a scalar continuation architecture fit only on an independent development panel retains positive familywise-adjusted lower bounds on a disjoint target panel, consistent with scalar decision sufficiency within the tested architecture family and resolution. The evidence supports structural rather than numerical transfer: the decision theory, cost accounting, continuation logic, and evaluation protocol transport, while empirical proxies, coefficients, thresholds, and even the required shallow state dimension may be system-specific.",
+        "arxiv.org: arXiv:2608.24115v1 Announce Type: cross Abstract: Multimodal large language models (MLLMs) can integrate long visual histories, reason under partial observability, and infer behavior from a few examples. Yet vision-language-action (VLA) models generally inherit pretrained representations without using this contextual capacity as episode memory. Memory-dependent policies address this gap through purpose-built history mechanisms. PonderPounce instead reuses an MLLM's native causal context as robot memory. Ponder, a System2 MLLM, accumulates episode observations, demonstrations, and prior cognition in its native causal context and can generate subgoal text and demonstration reasoning for internal use. Pounce, a System1 VLA, receives the current observation, instruction, and proprioception directly; through the Ponder--Pounce interface, it asynchronously receives only the newest continuous cognition token and its age. Both are jointly trained end to end without a purpose-built memory module or separate bridge pretraining. Optimized serving achieves p50 latencies of 78ms for cognition refresh and 25ms for action-model invocation, supporting 20Hz action playback. On RoboMME with base-scale training data, PonderPounce reaches 60.83% with 9B and 50.04% with 0.8B under the same Pounce architecture and interface, versus 44.51% for FrameSamp+Modul and 17.93% for the current-observation \\pi_{0.5}. With 9x data, it reaches 75.54% versus 57.88% for FrameSamp+Modul. On RoboCasa-DC, the same interface learns from action supervision alone and reaches 12.5% versus 11.6% for the strongest published demonstration-conditioned baseline, falling to 8.6% when cognition is replaced by a learned null state.",
+        "arxiv.org: arXiv:2606.08405v3 Announce Type: replace Abstract: While data-intensive deep reinforcement learning can optimize complex control policies, scientific control design in physical systems fundamentally requires an interpretable chain of reasoning that connects physical evidence to structured control architectures. Here, we present a self-evolving scientific agent workflow, driven by large language models and iterative code generation, that automates controller construction while preserving strict interpretability and rigorous physical reasoning. Instead of adjusting weights, the agent deploys candidate whitebox controllers into physical simulations, actively diagnoses dynamic behaviors from multimodal evidence, and translates these observations into progressive source-code refinements. We demonstrate this framework on a highly non-linear fluid-structure interaction problem: an underactuated, two-joint dogfish swimmer tasked with spatial target reaching in an unsteady flow using only joint angular accelerations. Starting from a target-blind propulsive seed, the agent autonomously designs and refines a unified controller that reaches a target embedded in an unsteady four-cylinder wake. Without retraining, retuning or case-specific branching, the retained controller achieves target capture across the full generalization test matrix, spanning variations in target position, rear-row geometry, cylinder count and inflow speed. The auditable evolution log reveals an emergent control architecture built upon travelling-wave propulsion, body-frame bearing guidance, phase-selective steering, corrective burst and adaptive relief. Our results show that an autonomous scientific agent can successfully transform accumulated physical evidence into a robust, mathematically readable control policy, while maintaining a fully traceable process of scientific control design."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260827/p38#a260827p38"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.23860"
+        }
+      ],
+      "srcTitles": [
+        "Gemini Omni 1.1 Flash lets you build with more control",
+        "Google launches Gemini Omni 1.1 Flash, which it says delivers studio-quality video production, including the ability to extend a scene, 4K upscaling, and more (Google)",
+        "Revelation Control",
+        "PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 60,
       "sources": 2,
       "ts": "2026-08-27T11:35:59.000Z",
       "writtenSources": 2,
@@ -34,8 +75,95 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-08-27T03:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Expanding OpenAI’s presence in Brazil",
+      "s": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "b": [
+        "openai.com: Expanding OpenAI’s presence in Brazil"
+      ],
+      "body": [
+        "openai.com: OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/expanding-our-presence-in-brazil"
+        },
+        {
+          "d": "startuphub.ai",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXVlUkQ3dDZCb0w5VzVwaUxiMXBVY1FvSWNfQzNXYUFpR3N3UTBULUt6Y1NDSl9OT2h1cDlxQ292Ukk4Q08yTHNZNG9heHpOc0ZQMDB6VEJfWGRLZFM1bnA3TG9GcENlLU5lXzNBdEx0ZHFsUGl6ZUVaVDhPNHJVX0JUQzhsV09BR2dIYnNQVFA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Expanding OpenAI’s presence in Brazil",
+        "OpenAI Expands to Brazil"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 46,
+      "sources": 2,
+      "ts": "2026-08-27T13:44:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+      "s": "Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+      "b": [
+        "techcrunch.com: Hugging Face is selling a cute $399 open source duck robot, Microduck",
+        "theverge.com: Hugging Face’s new robot is an adorable rollerskating duck"
+      ],
+      "body": [
+        "techcrunch.com: Clem Delangue, CEO of Hugging Face, said the Microduck is an “open-source robot you can teach new tricks with reinforcement learning.”",
+        "theverge.com: Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in cream, graphite, lavender, and sky blue, and Pollen Robotics says it plans to start shipping the little robot \"before Christmas 2026.\" Video demos of the [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot"
+        }
+      ],
+      "srcTitles": [
+        "Hugging Face is selling a cute $399 open source duck robot, Microduck",
+        "Hugging Face’s new robot is an adorable rollerskating duck"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-08-27T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training",
+      "s": "A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment.",
+      "b": [
+        "openai.com: Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training"
+      ],
+      "body": [
+        "openai.com: A randomized study of more than 1,000 students examines ChatGPT, critical thinking, originality, and student performance on a real-world university assignment."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/what-students-gain-from-chatgpt-critical-thinking-training"
+        }
+      ],
+      "srcTitles": [
+        "Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-08-27T02:32:06.000Z",
       "writtenSources": 2,
@@ -67,33 +195,33 @@
     },
     {
       "cat": "models",
-      "signal": 46,
+      "signal": 27,
       "sources": 1,
-      "ts": "2026-08-27T03:00:00.000Z",
+      "ts": "2026-08-27T16:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
-      "h": "Expanding OpenAI’s presence in Brazil",
-      "s": "OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country.",
+      "h": "3 new ways to plan and book travel in Search",
+      "s": "Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search.",
       "b": [
-        "openai.com: Expanding OpenAI’s presence in Brazil"
+        "blog.google: 3 new ways to plan and book travel in Search"
       ],
       "body": [
-        "openai.com: OpenAI is expanding its presence in Brazil, deepening engagement with developers, businesses, and communities to support AI adoption across the country."
+        "blog.google: Book hotels and track airfares, plus view miles and rewards with AI Mode in Google Search."
       ],
       "l": [
         {
-          "d": "openai.com",
-          "u": "https://openai.com/index/expanding-our-presence-in-brazil"
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/search/book-travel-ai-mode/"
         }
       ],
       "srcTitles": [
-        "Expanding OpenAI’s presence in Brazil"
+        "3 new ways to plan and book travel in Search"
       ]
     },
     {
       "cat": "models",
-      "signal": 34,
-      "sources": 5,
+      "signal": 26,
+      "sources": 2,
       "ts": "2026-08-27T05:13:43.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -112,28 +240,15 @@
       ],
       "l": [
         {
-          "d": "ktvn.com",
-          "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxObUx6N0ZfdTdpYTEtY3NIM1QyU3Bncmp3ZHF2TUl0aTZ6NDdFaGJybzdBRlNISDl5VjV1RG9Ba2hzMm5ZT0l2dEhubzJFamtKMjctR2p2YXdwa2xBN3dNWlc2aW82NE0tVXhWX2tWaHZPbERkeEp1VjkxWGJYcUpqQVlRS3c0U1U1UFZTRFp1cl9VVm1MYVAyTUhJQTFCY2lFcW9oLWpGZDNodFY2Vk0yeHNYbzNhMU11TUFzMGYtX3BLM2ViOUJtQUZ1MVFHczVEclptZzYxSEs5WmJmdVRlOEQwNnZ2TVFkNVE?oc=5"
+          "d": "koin.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUFYtdWN3NWd5Sm9NNm1mSEhzY3VyM2w3OTFjRDhGaDVsT2cwX2xYY0lncktCUlpSLWtxYjMtam9MNWIzeHFlNlNWWGJWVWd2RUV4bXpkQ0U4YWdITFlscDd6MURFVjY5dUUtM0M0RUNCclg0N3lvNnNlakRyTlZuOGhWR3BwMVB6MTEwd0k4U1V5UzRUaFVlZ2ZPTDd3Yi1peG9GTTBkMEhEQ0FSNkVIY0RUblFkdXdramlVV1doVTZ0ZWM?oc=5"
         },
         {
-          "d": "ottumwacourier.com",
-          "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPQ0hGWTRXOTVUVE1sRzY5OEFJcHozakRZU1E0SUpVZjRnMF9BWEJjUVAyOW9jWU9qZkpPSWhRRl9NamsxYjNxamVIWWM5Q1U2YVREcllEM0lUR2N1eU9kRFZDVGZlS1BNZjNSOUNrc1FpQ1hHNWZxV0RWeWNPUUxUc3FYeHRtZnBuQ2ZsRUNOZ0h3WDRpMUhxSEk1eVFxSE56WUtiOWNBLUJUWVdWQXNNbWZZZ1RRWEpJbXdFOWFfdVYzTGhhVXh4VHZJNElZUjE5THFCUExUT0VPd1RLM1U0VU9lbjZVbW9rTnlRV3pwWEJlazBocmhKVXRyQy1IUm8?oc=5"
-        },
-        {
-          "d": "couriernews.com",
-          "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUmJWXzhfSmwxaXBsa3d0NVcxZzdITlA5ZDdKNTFMajB2ckZkZTd2WW9NUUNKMlRYdzZDY0hFRHZqNTNHZDNMcHQ4NFZkZU5KcjBsRTUzVkg2Zzk1TEZIckZzVFpFWEl6S3k0XzRxWGFtcFFzTmN3a3VnWW1QVU5zSWJkOTVZVHZ6ZzI4VDFqdG9SOEdid0ZDWDEzZENyWkRHZTZkQThNUVNqTTl2YzNHU09vTFozOXlBZWlodkZkRGNmOFJhZXZJMzZFek9PekI3dTF4VkVJTk0xbjRkdlZ2UnZYajVpdktPSHVFa2pGV0s2SVJB?oc=5"
-        },
-        {
-          "d": "thetimestribune.com",
-          "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPVFNCb25NUjU3UlJWcHV2dVc4NEZBaDlmRW1XU1FpX3B3a1o0SHBUbEVtU1RGUGJud1hNM1MtRF9FSEx6d1JWdzJicS1TMG1VYlVmSFhkZnZaY215ckpwNEtxR0FaeGZvNGhTY3VGcFJkdDFGaDY0X3dQRGk0TjM0MXNMWTltMjE0NHRrNWpEamlLY1lMMnVlNU9IcWlza0ZZR2Q5aU5FWFg4WllfazRuN3lSdzVnMXdhS2d0c1pIeWRNSFMxOTJ1SmZqOUw5Ym5ld1ZMWUVGLUQ5d1lMQ3diUkdzQ1kyMkJmLTBNQ3NiZnItR2pfaGN4dlVhM21FOXNx?oc=5"
-        },
-        {
-          "d": "+1"
+          "d": "thedailystar.com",
+          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNbEVxNk9jb2tlcG9qOHVYY2FWa3AxZ2tVQS1scmlUMnlNeGxwNkc5UGxHRXk4Y0xKTUpQemdFcndlQkJ1LWpEeVNvZ1lBSk1oN25QZXJjTW1QOWhHbU5JOXdaQ1ZwRW5iNzk5QkpzRjZsbkpKNzJpQU9TVEluUjgzSG9JeXpYUXJ1M3RWZzNyR2prZWMwWF9tZkNwR0ZFWXF6UFZnQWl5cy1meWQwNml0ZGRvTVFLLTEwUkgxb2NwS3lPd09EWlBHTWNMbkxrYTFNTlRhTVJud3Nna3hUQXdiMHRZcFYwVlNEV05reWtHS3VfenU0bVE?oc=5"
         }
       ],
       "srcTitles": [
-        "US futures mostly higher as the artificial intelligence business booms | National News | 2news.com",
-        "US futures mostly higher as the artificial intelligence business booms",
         "US futures mostly higher as the artificial intelligence business booms",
         "US futures mostly higher as the artificial intelligence business booms"
       ]
