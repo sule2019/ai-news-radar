@@ -23,22 +23,22 @@
       ],
       "l": [
         {
-          "d": "nextgov.com",
-          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSXZYdGNJdXY4cENESG9adkhETXgxN2hMU2xjazNoUi11dktxcVA1Q0ZzYl9meGdrOVhsdHZuUVdqQVVPM1huZ0lJNWhYT2JESzhVdE92cXVmUHFzQWhURHlDaHQwRk1WdmJiQ0VUR2o1RGdhNS0tOEtLU0t0VTR6QzVhWGw3YUFpWnZEVS1ucWZoZ2NaTEV4cXl0bldvNkxzd3RheXpST0VqamtjQ2hqcklhVGwxUlZmSWxseG5MaVpBNDlHbHB6bzZEN0UtTy12b0ExNlNmUVQ0MV9tZ1ptY1VPZUN1YmVjeGxWWTktTlB0Szdhb0E?oc=5"
+          "d": "federalnewsnetwork.com",
+          "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZFI4RWdtQ1B0MHJQbFVVN21Bc1VKclJkdnV3andjZDN3LU11VDdmamN5RlVOaWFKczJra1NBclZyeEM3ZVZ0eEpXRE52dlZhRk5ESURoTUo1R3ZkWTdUdVc4WHRyTXVQNTI3VUNSZnBXNjREWGpST3JnQXRtT3JKbWZScGppX0dXVWZaal9ERERrQ1ljMEM1YnY1WFBWR0FkTjd1Y29od2JnaUE3UkpvMGNmUWJtVWozWmJSaUdPZnRHME9ReENNWks0b1E4cVBXYmtv?oc=5"
         },
         {
-          "d": "opb.org",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUTJKRG1Ganl0M240T1FfcmdOcVU1b00yT2Q5VUg4QXVuNnpWT011bUZiaGp6REZYSFo0emRnUF9Da1UtNFgtZElUeUFDM1dLaUt2azFEdlFUcHZqdUZTQ01UblI3cGhqcXRMcV9xLWJtOTFlVmNnbmU3M294UHZqejZSTE1odnlOVERSS0lhakFEOE1CZEgyUzlRUGU0dDNZSVg3X191aHg5WW1OOVI5Z1VxcFA?oc=5"
+          "d": "nextgov.com",
+          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPSXZYdGNJdXY4cENESG9adkhETXgxN2hMU2xjazNoUi11dktxcVA1Q0ZzYl9meGdrOVhsdHZuUVdqQVVPM1huZ0lJNWhYT2JESzhVdE92cXVmUHFzQWhURHlDaHQwRk1WdmJiQ0VUR2o1RGdhNS0tOEtLU0t0VTR6QzVhWGw3YUFpWnZEVS1ucWZoZ2NaTEV4cXl0bldvNkxzd3RheXpST0VqamtjQ2hqcklhVGwxUlZmSWxseG5MaVpBNDlHbHB6bzZEN0UtTy12b0ExNlNmUVQ0MV9tZ1ptY1VPZUN1YmVjeGxWWTktTlB0Szdhb0E?oc=5"
         }
       ],
       "srcTitles": [
-        "Judge rules Anthropic supply chain risk designation was ‘illegal and baseless’",
-        "Judge says Pentagon's measures against Anthropic were 'illegal and baseless' - Oregon Public Broadcasting"
+        "Judge says Pentagon’s measures against Anthropic were ‘illegal and baseless’",
+        "Judge rules Anthropic supply chain risk designation was ‘illegal and baseless’"
       ]
     },
     {
       "cat": "funding",
-      "signal": 46,
+      "signal": 42,
       "sources": 2,
       "ts": "2026-08-28T03:52:00.000Z",
       "writtenSources": 2,
@@ -97,7 +97,39 @@
       ],
       "srcTitles": [
         "Bay Area Nurses Protest Use of Palantir’s AI Tech at Hospitals",
-        "Nurses union protests HCA's use of Palantir AI system"
+        "Nurses union protests HCA Healthcare's use of Palantir AI system"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-08-28T19:34:51.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI companies warn cyberattacks could surge within months as public concerns grow",
+      "s": "AI companies warn cyberattacks could surge within months as public concerns grow KATU",
+      "b": [
+        "kunptv.com: AI companies warn cyberattacks could surge within months as public concerns grow",
+        "coastalabc.com: AI companies warn cyberattacks could surge within months as public concerns grow"
+      ],
+      "body": [
+        "kunptv.com: AI companies warn cyberattacks could surge within months as public concerns grow KATU",
+        "coastalabc.com: AI companies warn cyberattacks could surge within months as public concerns grow coastalabc.com"
+      ],
+      "l": [
+        {
+          "d": "kunptv.com",
+          "u": "https://news.google.com/rss/articles/CBMilANBVV95cUxPaHRWNVRVUUZreXQ4dDUzMVFfMlFPaVk1aGZ6eHZTVWRBRFk2WGlyRVhBNFQycHVwTHg2V2pfTzdlUmMyODN1aTdaZWt2bVFuOTY2bnhWOERMZUcxdG5RVlBZMFhjWWdRcjN3cEpBdFZmQlRycjRWQmowd1FGT2NfNk5HdllESUJ3cURxcXlGR1oydEZGbWJxNXQyMnFRaFZqSTZ4T2ZzZk95cDdhN0Q4YUNCM2JJWUxwaHVPdkVCSVBfem5tZ3NSUC1BTFp5QnNvc1dBVGM5d09PTTRvamp6WDBpMEdwSEFnbnFPVXhqUkI0OUlOMHBZd3pZbXlMbmtZSG50dUJHSmE0Y05BZHVhMDhCa1FHV0laY1Vaam9ucExmZUdsV25aTXFwWS1xaHA4MU43eG41Q2s0SGlSWV9yQmQzNm8wcXllb3MtQWpXZkt3Sk0tYXdRdVVrNlZ1UE05N2Nqa1BySTRCX3JRUEY0cHZCYlN3b1JJMmZtRTRfNkJqOUNFSXNNazVGWmhNb3ozcktOeA?oc=5"
+        },
+        {
+          "d": "coastalabc.com",
+          "u": "https://news.google.com/rss/articles/CBMilgNBVV95cUxQV2RIVVlrRW5kdmtEV3FtZ0ZYVk9wZXNwZ0c2akJxa0FUdDRwamhfUVRhbXhGZ1IyRGlrTGpWTVBFbXlQdVlRUk1kYTQtS3I3VUlHN0VKcFpDX2dyQlZPZXRKR3lsVWtxTFNsWm5ZX1BkWnVZcW9CNjZiNjRnZzk5ZHZETU15a1hNY3FQSTZUUU5sMlo4aWl1RXg3bjcyZUpqbVVlZFpVZFdNcUVmazVUQnJSbGJ1aEQwSkYyMFpNQUZNcmZUV1c4NzhYZTBKUEtPZkJtYWRNc2xIWFNMZk54dFFxYXNleW9fNVJVZDVHOXZtUFRGZUNtVmw4UVZpaG41Z3BaV3RULUxXRm9PczVrTUZOVHJ5RWZnaXQwV1h4Ym1vV3RGd21TYk53azF4Zkc5MTFPVzEzbHc0OGQ0SHdnSUVCeW01eXNCTEs2UEVkdXBLZnlVUkpKZjJvSF9fNWFqd2EwczhWUGJFZUJ0VGRDbGdzeWlobnMzbHBCcXlLV1d1enZ6Mk5kX19fOHp4YkhrNFd5cWR3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI companies warn cyberattacks could surge within months as public concerns grow",
+        "AI companies warn cyberattacks could surge within months as public concerns grow"
       ]
     },
     {
