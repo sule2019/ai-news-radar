@@ -2,8 +2,53 @@
   "date": "2026-08-28",
   "stories": [
     {
+      "cat": "models",
+      "signal": 64,
+      "sources": 4,
+      "ts": "2026-08-28T02:10:02.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "A US judge blocks the Pentagon from blacklisting Anthropic, ruling that its designation as a supply-chain risk was \"illegal and baseless\" (Jack Queen/Reuters)",
+      "s": "Jack Queen / Reuters : A US judge blocks the Pentagon from blacklisting Anthropic, ruling that its designation as a supply-chain risk was illegal and baseless A U.S. judge on Thursday blocked the Pent",
+      "b": [
+        "techmeme.com: A US judge blocks the Pentagon from blacklisting Anthropic, ruling that its designation as a supply-chain risk was \"illegal and baseless\" (Jack Queen/Reuters)",
+        "aljazeera.com: US judge blocks Pentagon blacklisting of AI firm Anthropic",
+        "usnews.com: Judge Says Pentagon's Measures Against Anthropic Were 'Illegal and Baseless'"
+      ],
+      "body": [
+        "techmeme.com: Jack Queen / Reuters : A US judge blocks the Pentagon from blacklisting Anthropic, ruling that its designation as a supply-chain risk was illegal and baseless A U.S. judge on Thursday blocked the Pentagon's blacklisting of Anthropic, the latest turn in the Claude maker's high-stakes fight with the military over AI safety on the battlefield.",
+        "aljazeera.com: US judge blocks Pentagon blacklisting of AI firm Anthropic Al Jazeera",
+        "usnews.com: Judge Says Pentagon's Measures Against Anthropic Were 'Illegal and Baseless' U.S. News & World Report",
+        "washingtonpost.com: AI firm Anthropic wins case challenging Pentagon blacklisting The Washington Post"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260827/p60#a260827p60"
+        },
+        {
+          "d": "aljazeera.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQTNzNk5XaHlld1A2T1NvbXM0SU5WclJhOXRPWGxRMXQyTjQzV1hhdFItZXZCYmFEWHBGWEdMU0N1bFRMVjFFMFZzOTdGWkhsd2ZvdjVuSGV6M2VFZnE5VnNWS0lhZ2ZNekZ0TWpPSUtCaHplc1ZWdFlBT08zd0I2ZElXOERnaGtLb2dldlY3NlFRVHU0OEI3LTdEWHlNekY40gGmAUFVX3lxTE5fZFRGc3ZiMmRGTlA5dHpnVmVvTm9pdU81Nk1QaEx4RUVqMnJLV1ZNeFJhcW5jcXhzTERCcFlURjBqZWdxTHRXcVhnbjdzVkN5RnNBMXg5eEE2TkFPSHhMQmhLdFlGRng4ZWVqVWhwVEg2R1FKaHhpNnpUTjh4ZFEzUHh1bl90S0Jjbm5BYnVPNHVud21yWm5KOXlOYjJvR0Q1clhTcHc?oc=5"
+        },
+        {
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc2NqcURDMU5JUlpGWFNZN0VhdjFBOTI0NXVHUDl2aXhHb2VjdDlZemlLXzM1S0pvT00tVmdqY0xiOE16MXJmRnFnSzIwTFBjQ0xseF9TZDE4ZFpQNUI3LXZtMnJpTEpmRHhfQV9IV0d3bE9lLW9ocmt4OEFELXJlcV95YUJhLWp3OUVyVk9CTUxUODFkSzhjSFUzczRGOWdhTkF1c2dmYXNoVExDM0VCSmJHWmtzSTluRmxTcElSMF9QTHpabDJ0QlZR?oc=5"
+        },
+        {
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTjFwTklMVzhyeW5nOUdzUUVpN01kQ2hzcmpFT2FrOUNWRXNueDF1SzN5aG95QmtSOWsyaVdTMjJzdkZ6eU15STYybUtZdWtJdWhlQmFxNjFDWWo3b3FnMHVPak1RdENMZHM1ZUk5Y2ZXdUx3NUd4RExQQ0hocGxXWVBxbTVhdDRPR0JrUU1NWl9qQi1JRW5tTnRJOHV2c0RITUgxVU9aOFJCYlVXdGk5T3ZfalJyd01DWldMYjdR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "A US judge blocks the Pentagon from blacklisting Anthropic, ruling that its designation as a supply-chain risk was \"illegal and baseless\" (Jack Queen/Reuters)",
+        "US judge blocks Pentagon blacklisting of AI firm Anthropic",
+        "Judge Says Pentagon's Measures Against Anthropic Were 'Illegal and Baseless'",
+        "AI firm Anthropic wins case challenging Pentagon blacklisting"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 54,
+      "signal": 50,
       "sources": 2,
       "ts": "2026-08-28T03:52:00.000Z",
       "writtenSources": 2,
