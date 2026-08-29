@@ -1,4 +1,76 @@
 {
   "date": "2026-08-29",
-  "stories": []
+  "stories": [
+    {
+      "cat": "products",
+      "signal": 67,
+      "sources": 3,
+      "ts": "2026-08-29T15:30:01.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Sony Music, Warner sue Anthropic, alleging a brazen campaign of intellectual property theft",
+      "s": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "b": [
+        "techcrunch.com: Sony Music, Warner sue Anthropic, alleging a brazen campaign of intellectual property theft",
+        "theverge.com: Sony Music and Warner Chappell are suing Anthropic",
+        "techmeme.com: Sony Music and Warner Chappell sue Anthropic, Dario Amodei, and Benjamin Mann, alleging tens of thousands of copyrighted songs were used to train Claude's LLMs (Tim Ingham/Music Business Worldwide)"
+      ],
+      "body": [
+        "techcrunch.com: This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+        "theverge.com: Sony Music and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\" copyrighted works. The companies are asking for up to $150,000 per work, plus up to $25,000 for each instance when identifiable copyright data was stripped. In total, the [ ]",
+        "techmeme.com: Tim Ingham / Music Business Worldwide : Sony Music and Warner Chappell sue Anthropic, Dario Amodei, and Benjamin Mann, alleging tens of thousands of copyrighted songs were used to train Claude's LLMs Sony Music Publishing and Warner Chappell Music have joined forces to sue Anthropic, home of Claude, over what the publishers call"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260829/p11#a260829p11"
+        }
+      ],
+      "srcTitles": [
+        "Sony Music, Warner sue Anthropic, alleging a brazen campaign of intellectual property theft",
+        "Sony Music and Warner Chappell are suing Anthropic",
+        "Sony Music and Warner Chappell sue Anthropic, Dario Amodei, and Benjamin Mann, alleging tens of thousands of copyrighted songs were used to train Claude's LLMs (Tim Ingham/Music Business Worldwide)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-29T04:03:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Small businesses turn to AI for marketing as costs rise",
+      "s": "Small businesses turn to AI for marketing as costs rise KY3",
+      "b": [
+        "ky3.com: Small businesses turn to AI for marketing as costs rise",
+        "kfvs12.com: Small businesses turn to AI for marketing as costs rise"
+      ],
+      "body": [
+        "ky3.com: Small businesses turn to AI for marketing as costs rise KY3",
+        "kfvs12.com: Small businesses turn to AI for marketing as costs rise KFVS12"
+      ],
+      "l": [
+        {
+          "d": "ky3.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVEtWYW15aFNxcWN1TmZXZmVyVjVWV2UwUU5kWmpNX0xtLXlWZ1FrRlk0bkIwd1BQd3JrWmJWX0ozVUtDNEtUVUwtbXpFY3hiQTl0SlNWR0x1ZEgtVU5OSXhFV1lNZmw5dW5DclBVV1dHMkk2aTZjMGdVSzZ3dVVhM2VlU3hCZ2lDa3Mw?oc=5"
+        },
+        {
+          "d": "kfvs12.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNlZIRTI1dkFkTFRYUmFmZVAxZW1RRnptaGZBczQtVi0tLXg0aS1IYkZKYXRGTmRSYmczU21DYjJOT2NuYmotbEEybHQ5VWFsM19GMEpRVklXUFJwT2RHb3JIazlGS1REbUJQeXRqTTZDTnoxY2xGaDlNTWxSbnFsa3RVMFhjTDZjazdndFp4cw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Small businesses turn to AI for marketing as costs rise",
+        "Small businesses turn to AI for marketing as costs rise"
+      ]
+    }
+  ]
 }
