@@ -3,8 +3,40 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 54,
       "sources": 2,
+      "ts": "2026-08-30T17:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google AI Week gives Killeen businesses hands-on look at artificial intelligence",
+      "s": "Google AI Week gives Killeen businesses hands-on look at artificial intelligence The Killeen Daily Herald",
+      "b": [
+        "kdhnews.com: Google AI Week gives Killeen businesses hands-on look at artificial intelligence",
+        "tdtnews.com: Google AI Week gives Killeen businesses hands-on look at artificial intelligence"
+      ],
+      "body": [
+        "kdhnews.com: Google AI Week gives Killeen businesses hands-on look at artificial intelligence The Killeen Daily Herald",
+        "tdtnews.com: Google AI Week gives Killeen businesses hands-on look at artificial intelligence Temple Daily Telegram"
+      ],
+      "l": [
+        {
+          "d": "kdhnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPdWlBV3J4aWNfOTZIeXA5Q09Vc002WHhrN25GUm1YSFl4N28wenhNeVp0ZTFQV24xcDdIQ2dWSDRpcThIOVVUOVBfX2RaOUNsVDFQbjd5dXVEdUw3enFJbEdjbEdIaVpkaFY3SlB2ZDVBMDhfbUtMTWJ3ZjI4U1M4NVdJWnhBeWlVbFFoSWc3Q0FETUtlZnV6NFpwbW5xVUV2Q0RfdWwwelRQZm9qOHdRQkwyWHEtbS1IYzRRTUdDZDdsaERPTC1fLVhPUDZSeWRRUHlDRjE3X3hvWE5nMV9nTUEyV1RESnNmeTNLTWk2bUg?oc=5"
+        },
+        {
+          "d": "tdtnews.com",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdjFaSnI0Y2t4eG9EQXc4aHBMNThVMExRcFdGdzJRT3FDenRxM2NnRmJHeHZ5MnR4V1otMS1HMzBJaU4yQlBzbFc1TjBXZUl1MXhTNE9PaElueU1SU1psaXNzdkZUcGxjR1BqYlhNa2JZWkxqd2ZwZkY0d2JWQWJ6LWtsckJrMHZDbTlYakJR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Google AI Week gives Killeen businesses hands-on look at artificial intelligence",
+        "Google AI Week gives Killeen businesses hands-on look at artificial intelligence"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 40,
+      "sources": 3,
       "ts": "2026-08-30T09:20:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,17 +52,23 @@
       ],
       "l": [
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNXJ1OVZrOXVWcmlBX0xBTGNxR05GWjdiOGdwTVVHd1d2dXBTWjdpemJ0SnU3NDEtcG4yZGJZWDNrMUw0QmNsY2RidlM1emZsYldtYjlwdERJTEtIdlo0aUVzYmpKb3Nyc0NZQWIwLWJfRjlkeXBHcUVDWWN1N1QzOGJ1XzV6Wm1GVndZd21NTTRvWlBuMmFlaA?oc=5"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY2RsektkSlVHblBubmN2ckNseldWXzREYVNVcmRocFo3bFVEQlRObWcwbGk4V1Z4aks2Mmh6UFVWV0pfRkdiUk5mdHN3SVN2M2FZOHAwZUwzZ1M1NVJnZkJqRm1KczM5MFNGNVZpYmxNNm9PVno2U2hqejFaMHN2WGRkV2IzSnZ6bFp0X1VOYjFDVkNRRlQ1TUR6VQ?oc=5"
         },
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdG56S1BQT0w4bGdILU4wQXBiOFYtRlhSelY5bzJpQlcwdm1ndXR3OUpwc1pJLWJsLWtRdFBIZlg4M0IwQXRRUXBYLTI5VGNBeGhHXzdGNkZpeFJHcXVsU2cyZExsM3c2NHB3eW1FUU8yWnVjOFpqbk4ybkNWUjJzcjByalgyQXdEeWdYSi1CUVZFMmFNOXBrYzZCTnRScEd6LXc?oc=5"
+          "d": "marketbeat.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0pNUzlpUzZTSWFRRXF4YXJTZ3lQOUJyczVNd1RYSXJ6b0hibS1YZXBwOTlIem9lemw0SVBtaVJGeVl2bGUxWmdiY09BaDNrcTBuTi1CWEFSdEFJcmhvbU5qLTFEZmtnbmRUcEhneVRkS1VLLWJyejMwT2dWVlBiLW5SeWtUU1NFV2IwaEdNVFktaTdlVlVCZ0VkUno0OEJIT3BjS29CQTdOZXVTRkw3aTVIaw?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnRNYXBjbUN5LVdhaXhGNHNrYzdqeExkV1JnYWdFS2xLbXdGMEprR3Uxc3pLc1gxanFUbGtsZnJWZEdjWHBwOE9nakJtOENkb1pHU2xzRmhIQWZDRGhkaTFDN0EtTDdFN0duRGdaSnBudTJaREtvem9SZ1lvT3hqU2ZGTWRYbnlHUWdabDZEZUY2WEE1cDFRbw?oc=5"
         }
       ],
       "srcTitles": [
+        "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Stock Is Clearly the Better Buy Today",
+        "Artificial Intelligence Stocks To Consider - August 30th",
         "Warren Buffett's Successor, Greg Abel, Keeps Buying This Incredible Artificial Intelligence (AI) Stock That Buffett Also Loved",
-        "Warren Buffett's Successor, Greg Abel, Keeps Buying This Incredible Artificial Intelligence (AI) Stock That Buffett Also Loved"
+        "Micron vs. Sandisk: 1 Artificial Intelligence (AI) Memory Stock Is Clearly the Better Buy Today"
       ]
     }
   ]
