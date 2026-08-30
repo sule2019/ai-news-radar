@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-08-30T17:35:00.000Z",
       "writtenSources": 2,
@@ -20,12 +20,12 @@
       ],
       "l": [
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeFN0RTZoMXNQZ0JUS2dHcWtFeGdKVGZtQjl2M1I4N1BYZWNkNVo5SkxPcWdQNmxIcnRkbnhRVUl1X3ZhbktwN2FKZWlmaEJXNm1DdXZLVkctLTE5T2hVS0JaUUlQVGtWTFAyaXoxbGp3NUNaRlYwRVBqQi1rLTVZbXF3VF9Ka2MyTWJacTNiandvN21CZ1E?oc=5"
-        },
-        {
           "d": "finance.yahoo.com",
           "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTWJ4dGZtY3JEb2tVVU00Z0pqNFdIaHprUmQzal9rdUJnOUdFTDMtRTN3a3FRX2ctdjJEbmEwMnRMblBrTXYwS1ByaUR0NXBCaXgwd3RSOWRlb1hwa0VmWkFQaXV0SGJYWjhuSjRhX3NSNm1MR3ZKdmExVzhxd3pfeUt0MjA3REcyWXpXZnVZODJGVzgwOHJjaVlCMTQ?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeFN0RTZoMXNQZ0JUS2dHcWtFeGdKVGZtQjl2M1I4N1BYZWNkNVo5SkxPcWdQNmxIcnRkbnhRVUl1X3ZhbktwN2FKZWlmaEJXNm1DdXZLVkctLTE5T2hVS0JaUUlQVGtWTFAyaXoxbGp3NUNaRlYwRVBqQi1rLTVZbXF3VF9Ka2MyTWJacTNiandvN21CZ1E?oc=5"
         }
       ],
       "srcTitles": [
@@ -35,7 +35,7 @@
     },
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-08-30T17:00:00.000Z",
       "writtenSources": 2,
