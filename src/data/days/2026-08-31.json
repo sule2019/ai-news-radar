@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 61,
+      "signal": 57,
       "sources": 2,
       "ts": "2026-08-31T12:47:42.000Z",
       "writtenSources": 2,
@@ -34,8 +34,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-08-31T18:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Hugging Face hack could indicate cultural issues at OpenAI",
+      "s": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . By now you’ve probably heard about last month’s major AI secu",
+      "b": [
+        "technologyreview.com: Hugging Face hack could indicate cultural issues at OpenAI"
+      ],
+      "body": [
+        "technologyreview.com: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging Face while trying to cheat on a test. It’s a wild story. On Wednesday, OpenAI released a postmortem technical report on the incident, which I wrote about here . The day before OpenAI released that report, I spoke with David Krueger, a computer science professor and prominent alignment expert who took leave from the University of Montreal to found and lead an AI safety nonprofit called Evitable. He said what he had really hoped to see in the report was an analysis of the human factors behind the incident. “When you look at accidents and incidents, oftentimes people try to find the technical source of failure, but that can give a very inaccurate and misleading sense of why the failure occurred,” he said. “If people are just cutting corners all the time, if people are not in a culture that prioritizes safety and has appropriate incentives and structures, [accidents] are kind of bound to happen.” The report did not meet Krueger’s hopes. Its 38 pages detail a multi-month progression of agent misbehavior that culminated in the Hugging Face hack, explore the technical reasons why that misbehavior occurred, and enumerate the steps being taken to prevent similar events in the future. But there’s no consideration of the role that company culture may have played in the incident, and the report includes few references to specific human errors. That’s all the more concerning because the references to human error in the report suggest that significant cultural issues could be at play. Back in May, models in training figured out how to communicate with one another via an improvised message board, and an OpenAI team observed the behavior. Because that behavior occurred during training, t"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/"
+        }
+      ],
+      "srcTitles": [
+        "Hugging Face hack could indicate cultural issues at OpenAI"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 51,
+      "signal": 47,
       "sources": 5,
       "ts": "2026-08-31T06:01:00.000Z",
       "writtenSources": 4,
@@ -83,7 +108,64 @@
     },
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-08-31T13:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Instagram cracks down on AI accounts pretending to be human",
+      "s": "Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it cle",
+      "b": [
+        "theverge.com: Instagram cracks down on AI accounts pretending to be human",
+        "pymnts.com: Instagram Looks to Limit AI-Created Accounts Posing as Human"
+      ],
+      "body": [
+        "theverge.com: Instagram is finally taking steps to address the rise of fake AI-influencer accounts that have gotten harder to spot. It's also renaming the \"AI creator\" label to \"AI-generated profile\" to make it clear when a profile features an AI-generated person that's not a real human being. \"We've heard that people don't like seeing a profile [ ]",
+        "pymnts.com: Instagram Looks to Limit AI-Created Accounts Posing as Human PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/986593/instagram-addresses-fake-ai-profile-slop"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdElWb05tNGhpWElNYWdMbGhyaEphNVc1MzRsM3RDWnRBN1lWZkx1QWtXeldXMnAwc3FrQnUycHpzOVk2b2dOWVlPWl9IbHlEOGx2N2VSTXZsTmRaMGtfS1JIVWZhYnJZTEVSR0ZtbFQzZE9KUV96enZSQk1ZRjFhSUlzeF93Y2Y3RGlUSlh5bVJhVmxRWi02THNPZ1FRczJKajJEWWx2MUw5WUFrRzVSTEhfaUx6S3NhZmc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Instagram cracks down on AI accounts pretending to be human",
+        "Instagram Looks to Limit AI-Created Accounts Posing as Human"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-08-31T04:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "A milestone in expanding access to AI",
+      "s": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
+      "b": [
+        "openai.com: A milestone in expanding access to AI"
+      ],
+      "body": [
+        "openai.com: ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
+        }
+      ],
+      "srcTitles": [
+        "A milestone in expanding access to AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
       "sources": 2,
       "ts": "2026-08-31T09:39:28.000Z",
       "writtenSources": 2,
@@ -111,31 +193,6 @@
       "srcTitles": [
         "People & Profit - Artificial Intelligence in Europe: does advanced AI have a glass ceiling?",
         "Huawei H1 profit drop quickens to 36% on rising costs, R&D spending"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-08-31T04:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "A milestone in expanding access to AI",
-      "s": "ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options.",
-      "b": [
-        "openai.com: A milestone in expanding access to AI"
-      ],
-      "body": [
-        "openai.com: ChatGPT Ads reaches $1 billion in annualized revenue run rate and expands globally, supporting broader access to AI through free and affordable options."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads"
-        }
-      ],
-      "srcTitles": [
-        "A milestone in expanding access to AI"
       ]
     }
   ]
