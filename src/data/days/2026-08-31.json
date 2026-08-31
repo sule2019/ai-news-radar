@@ -2,8 +2,40 @@
   "date": "2026-08-31",
   "stories": [
     {
+      "cat": "models",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-08-31T19:57:15.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Amazon to permanently lay off 121 workers in Seattle, Bellevue amid ongoing AI push",
+      "s": "Amazon to permanently lay off 121 workers in Seattle, Bellevue amid ongoing AI push KOMO",
+      "b": [
+        "komonews.com: Amazon to permanently lay off 121 workers in Seattle, Bellevue amid ongoing AI push",
+        "bizjournals.com: Amazon lays off 121 Seattle-area workers"
+      ],
+      "body": [
+        "komonews.com: Amazon to permanently lay off 121 workers in Seattle, Bellevue amid ongoing AI push KOMO",
+        "bizjournals.com: Amazon lays off 121 Seattle-area workers The Business Journals"
+      ],
+      "l": [
+        {
+          "d": "komonews.com",
+          "u": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPNWJXMUxTR2hCU0dCd1NZdEFIa1Z1MDRnOXB5UU96VVUxT0UxT2htai1EM1c2THVucW9iR21lZ0drRWxySWdfSHpsNVdZT0Q3V3Z0UndaT0hnMWZuZWZOd0lldmNBWFN5Vk9Jd3RUVzNhQ000cUlnY2lKeFlGeHhPdmZ2R2VreFEwZ09PYTcyVnpaQjNJOTJSWjFsVVlQWjQtTU02Q25QaVpidlRWcWROSjA5ekltWUx4SlR5YU1zc3EtYUduSzBsZGt1QzFBS3Zsb2xnM0N2YnJZU0ZQcjIxRnlUZmpIWXlUUnlJalR2d0RKSTFlMHJxQkJpNzFIT0ZFZk56amtkcWsxaXRPWHNCaURDUTZVTk91cWp2cW5paEtHRVBzQ25tcFRiTnc3UHhfQjVrWjFEQ05uWGl2YWZXZVJmaGtXTWJLUEM5RmJNMzNXamVRUHFHMFc3d21nMm5NVnVDYXgycW1lVlB5X0E?oc=5"
+        },
+        {
+          "d": "bizjournals.com",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRmQ4VFA3NUdhZGVtOGFEREY1cFBlcXdtM2puM3IzNVRsLWdKVEVsWGxCZllpX1NNOFZaQjJIekNzT3VTVGtJS2FSZXlGWG9PU3M3Sko4NGJVYmExejk0OThQQmVnWHgyRXNxMWRPQXAwZS1xQlZMU0Z2ZERoT2pYTzdFTHpzcFJ0eHhvX2ZVZHYwVDVrcWphbm4xNk5RSVJiaEFwemZ3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Amazon to permanently lay off 121 workers in Seattle, Bellevue amid ongoing AI push",
+        "Amazon lays off 121 Seattle-area workers"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 53,
+      "signal": 49,
       "sources": 2,
       "ts": "2026-08-31T12:47:42.000Z",
       "writtenSources": 2,
@@ -35,7 +67,7 @@
     },
     {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-08-31T18:00:00.000Z",
       "writtenSources": 1,
@@ -55,12 +87,12 @@
         }
       ],
       "srcTitles": [
-        "Hugging Face hack could indicate cultural issues at OpenAI"
+        "The Hugging Face hack could indicate cultural issues at OpenAI"
       ]
     },
     {
       "cat": "policy",
-      "signal": 43,
+      "signal": 39,
       "sources": 5,
       "ts": "2026-08-31T06:01:00.000Z",
       "writtenSources": 4,
@@ -108,6 +140,38 @@
     },
     {
       "cat": "models",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-08-31T06:37:08.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Polimill builds Japan's next-generation public AI infrastructure",
+      "s": "Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+      "b": [
+        "openai.com: Polimill builds Japan's next-generation public AI infrastructure",
+        "tokyoweekender.com: Japan's Fifth Generation Computer Project: The 1980s Plan To Build AI"
+      ],
+      "body": [
+        "openai.com: Polimill uses OpenAI GPT models and Codex to help municipalities search and use administrative knowledge while accelerating development.",
+        "tokyoweekender.com: Japan's Fifth Generation Computer Project: The 1980s Plan To Build AI Tokyo Weekender"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/polimill"
+        },
+        {
+          "d": "tokyoweekender.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObEIzdFlzTFItSm1hMjVScjBfX3NadU5wWC1tTF9ndkxuR0JFMVV1Z3dpMmtldUdyUFhMVnk5b3JkNjdhTGtSYldVNkVxd2l2UC1MbTVOOTJad19RMU5aaGxWaXlLTzYwVFIyT2NCeTBrSFNtZDB6SkRtOTgzME5odGtvN21hX3JVNkZCYXhsbDR0VXNDSkRvdzl4a2NyNUhhSkE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Polimill builds Japan's next-generation public AI infrastructure",
+        "Japan's Fifth Generation Computer Project: The 1980s Plan To Build AI"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 34,
       "sources": 2,
       "ts": "2026-08-31T13:00:00.000Z",
@@ -140,6 +204,38 @@
     },
     {
       "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-08-31T06:04:42.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "House Intelligence Committee warns of 'Black Swan' AI risks",
+      "s": "House Intelligence Committee warns of 'Black Swan' AI risks cnbc.com",
+      "b": [
+        "cnbc.com: House Intelligence Committee warns of 'Black Swan' AI risks",
+        "fsb.org: FSB Chair warns of risks arising from frontier Artificial Intelligence (AI) models"
+      ],
+      "body": [
+        "cnbc.com: House Intelligence Committee warns of 'Black Swan' AI risks cnbc.com",
+        "fsb.org: FSB Chair warns of risks arising from frontier Artificial Intelligence (AI) models Financial Stability Board"
+      ],
+      "l": [
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSldFa0VOb0pOQTkxckR0ZHBOSWJFalQ1NVIyaFdPVDM5SEQ3RXFxOEJjY0Y3cEU3QWcwMC1kTWRyak00THMxNXhuTGZ5THdvLVZuTFdTTXBDbjhFVWxibVhYdGNYQmF2S3p6bzA3TnBuR3ZEbVNlLXNwWEZpMFhQdWJR0gGHAUFVX3lxTE9BbzhvdWdiTFcxcXB0SDcxSVlDekRsZlcwUldyTEtoU09rc21aTk9iU3I3WXV2cW1wcXJmQ0s3LTR1VnEyWm9nU21GaFlvZEg1ZFgtZ1V3YUY3UjBDd0c4c3ZnaUVZNFYxeUdLZV9hZ1hBaEs0bUtPbjNHQnRMSnA3T3dzd29hRQ?oc=5"
+        },
+        {
+          "d": "fsb.org",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmJIcDlHZ0Y3aGJ0VHA1ZUNOaTIzSkR3YThzNVdKdkVMQUhRU252NWpTV3ZQMHoyYnNjZWEtcWowTW9jNjhPaWxuT1JZQjUxb0tlS3ROaTJkVmNfRDh0dGxZVWs4OG5mTXFib3lsMVd5TVczZEEwTWlPMnd6R0hlZHQ0WXVtaTdUTWt1WWFqU0h1ZWhwLWd2bWV4WmlKVU4ybWVfT1lZNkVob0J0R2c?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "House Intelligence Committee warns of 'Black Swan' AI risks",
+        "FSB Chair warns of risks arising from frontier Artificial Intelligence (AI) models"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 24,
       "sources": 1,
       "ts": "2026-08-31T04:00:00.000Z",
@@ -165,7 +261,7 @@
     },
     {
       "cat": "models",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-08-31T09:39:28.000Z",
       "writtenSources": 2,
