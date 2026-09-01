@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 67,
-      "sources": 3,
+      "signal": 69,
+      "sources": 4,
       "ts": "2026-08-31T23:59:36.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -29,17 +29,54 @@
         {
           "d": "huggingface.co",
           "u": "https://huggingface.co/blog/webgpu-kernels"
+        },
+        {
+          "d": "aws.amazon.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRktHdVJiSWtrU2l4ZnJ6a3R5OXo1QzVoWjF0WjMwTUFkU1hPeGFKRC03UWpMMGNkYzdidTlBWUJacVFpRGxuMDRaNW5xcm9DRmxWSnpyZTNiTHhpb3ZjT2xlV1lJdXIwR2NNUEljcjAxenlKcDhackkyc1dUazdYeDU3SngySEFmcVE?oc=5"
         }
       ],
       "srcTitles": [
         "Introducing agentic video understanding with Gemini",
         "Introducing wrapture",
-        "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI"
+        "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+        "Introducing Claude Fable 5.1 on AWS"
       ]
     },
     {
       "cat": "products",
-      "signal": 51,
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-09-01T20:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+      "s": "The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+      "b": [
+        "wired.com: OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+        "techmeme.com: OpenAI says Astra is its first model to reach its \"Critical\" cyber threshold and warns safeguards may mistakenly flag legitimate activity as cyber misuse (Ina Fried/Axios)"
+      ],
+      "body": [
+        "wired.com: The company will give select partners early access to its Astra AI model—so they have time to shore up their defenses.",
+        "techmeme.com: Ina Fried / Axios : OpenAI says Astra is its first model to reach its Critical cyber threshold and warns safeguards may mistakenly flag legitimate activity as cyber misuse OpenAI said Tuesday that it plans to release its latest model Astra soon, but its most advanced cybersecurity features"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/openai-astra-first-ai-model-with-critical-cyber-abilities/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260901/p44#a260901p44"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI Is About to Release Its First AI Model With ‘Critical’ Cyber Abilities",
+        "OpenAI says Astra is its first model to reach its \"Critical\" cyber threshold and warns safeguards may mistakenly flag legitimate activity as cyber misuse (Ina Fried/Axios)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 54,
       "sources": 2,
       "ts": "2026-09-01T11:25:01.000Z",
       "writtenSources": 2,
@@ -56,22 +93,22 @@
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260901/p12#a260901p12"
+          "d": "abc7.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaGY1Q25xSTBUWXdKb2RtbkdWN1BsRWxVaEVILXJrQW4yYTJFaUloMWN3M1MtRy15YmpZTUl1UHllM25fTkdRMV95VXFnS1ZTSElINDJYcGVtVURDd0tRQWJsMnQydEZnR2xyeVdKYkFjR2dfNU54ZVVtMFRQMDE2TzZOaVFILXZSMVHSAY8BQVVfeXFMT0VNam45cGV4X0k0TkZNaEF2RkhQNG1TdjlyOWVCZElwZjgzLTlxbFVfQkV5QlZ6eWlWTkFURzdBSEdYX0l4ZnotdlpBd25wT01PNFVxdHVFaWZSOUZRV3FhRDdDVjY5ZHlEZHEyZEtSSS1rQWIyRjV0WTFZYVBCSWV5NTZOS2RLdWN3dm05NnM?oc=5"
         },
         {
-          "d": "scmp.com",
-          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVnIzR2RXUkhrSW1YdnlnZDUyNi0xVHB1WEczZ09QVlYxNVBJYXhlaVVGY1FycXM1UzlDMjcyTGhxbmFyYVg5UmUzcUltU3J2MkZOaE9mVDA0ejRlU3Z6VGp3LW5zUUtsXzY4TkxpLXlBMkhiYUJqZWJSeEp5VU1tWTlyd3hkaHdHWHlhMkF5a0dCbWs0eENVdllTTU5sSEhyNEFpbE1xX1piWTM3M2k3YkQtbE01RnBpdzBrYVJBdmlLMU3SAcMBQVVfeXFMTjNKTzBYbko2VlJFNTJqOTdXT0JNbEltVmhLZW56YUFmX19VZldkSDIxckZTbWhvQmtmbjJITkNzREhJYXFFV1NoeXJoOGc2VTgzRkFHY1lTY0lmbUlIMjlJbUg0WnRyeTF4dUJ5Sm9nRElFQTdOdGJhYlZGbkZLak9Qb1lJajRjVmJkUENqTEVEZmVDOHdBdWN4ZFdKQWNSaTltZ1lQNDZTNmNjdzdJa1VfUExpdGhleXdmX0Z1SnZfZ05R?oc=5"
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY0RRek9NcjRvc0o2ZDlSU3NwdTFFVWFKdlpMZTZ5VGJFcDRwM0pOUHpZYWIzYTV2T2tDaFlQUWhTcmxUOVVsZ01NNm13clFEc2c0WWVoOEVfT05LWnJpNUEtbG9GMTFMcUJRWWIyQWFyRDcxLWd2ZXlDTTFzUERELWJ3RGJ5WF9pNEQ4WEtCSkswcHBHalhIem5OamxjLUZpLWNNWjBQbFhSb0ZrY0JMN1M4MjU?oc=5"
         }
       ],
       "srcTitles": [
-        "A look at Tim Cook's 15-year tenure: Apple silicon, wearables, hitting a $1T market cap, privacy, Apple Vision Pro, Apple Car, AI, App Store battles, and Trump (Emma Roth/The Verge)",
-        "Apple’s new CEO Ternus takes over from Tim Cook after 15 years"
+        "Apple's new CEO, John Ternus, takes over from Tim Cook after 15 years",
+        "Who is John Ternus, Apple’s new CEO?"
       ]
     },
     {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-09-01T16:00:00.000Z",
       "writtenSources": 1,
@@ -120,8 +157,40 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-09-01T21:03:44.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Palo Alto Networks reports Q4 revenue up 34% YoY to $3.41B, vs. $3.35B est., and acquires Console, which provides AI-powered IT service management (Samantha Subin/CNBC)",
+      "s": "Samantha Subin / CNBC : Palo Alto Networks reports Q4 revenue up 34% YoY to $3.41B, vs. $3.35B est., and acquires Console, which provides AI-powered IT service management Palo Alto Networks surpassed ",
+      "b": [
+        "techmeme.com: Palo Alto Networks reports Q4 revenue up 34% YoY to $3.41B, vs. $3.35B est., and acquires Console, which provides AI-powered IT service management (Samantha Subin/CNBC)",
+        "reuters.com: Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console"
+      ],
+      "body": [
+        "techmeme.com: Samantha Subin / CNBC : Palo Alto Networks reports Q4 revenue up 34% YoY to $3.41B, vs. $3.35B est., and acquires Console, which provides AI-powered IT service management Palo Alto Networks surpassed fiscal fourth-quarter estimates as mounting artificial intelligence risks boost demand for its cybersecurity tools.",
+        "reuters.com: Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console Reuters"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260901/p49#a260901p49"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWXk1N1BVQlkxV200Z2xPZkE4T2JVX1hJa0RjaUVCS2UzVjJlb0RLc25UZU5kQzZCS2R4ZlNoeXUybkpZSVdfbTFHNWc5VkpJT3AxNlp3N3E5TVdBRlk0eVhrem9YcnZnYkZManJmNlFmc0NDLXNySW5MSjBnMEpNZjJmaGhDRjFOU0dRZzFPcmJuck9wc3UzS3dDOGt6cTFMSUpyMnJDMTIyaHJyZlhRRXpESExyMWRYMERF?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Palo Alto Networks reports Q4 revenue up 34% YoY to $3.41B, vs. $3.35B est., and acquires Console, which provides AI-powered IT service management (Samantha Subin/CNBC)",
+        "Palo Alto Networks beats quarterly earnings estimates, acquires AI platform Console"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-09-01T16:31:04.000Z",
       "writtenSources": 2,
@@ -153,7 +222,7 @@
     },
     {
       "cat": "models",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-09-01T16:00:52.000Z",
       "writtenSources": 2,
@@ -187,6 +256,31 @@
       "cat": "models",
       "signal": 30,
       "sources": 1,
+      "ts": "2026-09-01T20:45:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The latest AI news we announced in August 2026",
+      "s": "Here are Google’s latest AI updates from August 2026",
+      "b": [
+        "blog.google: The latest AI news we announced in August 2026"
+      ],
+      "body": [
+        "blog.google: Here are Google’s latest AI updates from August 2026"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/"
+        }
+      ],
+      "srcTitles": [
+        "The latest AI news we announced in August 2026"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
       "ts": "2026-09-01T17:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
@@ -210,7 +304,7 @@
     },
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-09-01T16:29:00.000Z",
       "writtenSources": 2,
@@ -238,6 +332,95 @@
       "srcTitles": [
         "The Ethics of Intelligence: Hampton University Builds an AI Ecosystem for a Future Where Access, Data, Opportunity Matter",
         "Hampton University Builds an AI Ecosystem for a Future Where Access, Data, Opportunity Matter"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-01T14:05:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Iran Integrates Artificial Intelligence into Air Defense Systems -",
+      "s": "Iran Integrates Artificial Intelligence into Air Defense Systems - wanaen.com",
+      "b": [
+        "wanaen.com: Iran Integrates Artificial Intelligence into Air Defense Systems -",
+        "newswire.ca: Worthware Systems International Inc. Announces CellSell® AI: Artificial Intelligence Integrated Directly into CellSell®"
+      ],
+      "body": [
+        "wanaen.com: Iran Integrates Artificial Intelligence into Air Defense Systems - wanaen.com",
+        "newswire.ca: Worthware Systems International Inc. Announces CellSell® AI: Artificial Intelligence Integrated Directly into CellSell® PR Newswire Canada"
+      ],
+      "l": [
+        {
+          "d": "wanaen.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2VrcXdGX2pHdmhYNlZab1c2Qmc1V0VPb0RnSWVyZ0NiM1ZuN3JPaW5oZWhJN0syRDNMUXFMQTZJV2xxbW1UNDdYWFBYaEV3UUtDZlRQVGlnbXkzakE0TzhzWXQzZXNVcFJRRGdCMXkwWTBtSTBTQ0dvUzJFQ0dTSFd4U05SUk9FcnZUdQ?oc=5"
+        },
+        {
+          "d": "newswire.ca",
+          "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMVpaYnhUQ0t1X1hac0hDWmJXYjljZEU2dGdyQmlTdUNSbFZRWFZ0Z1hhT0RXcnBWQTNhNXE0RHpXaXk1WVNLMjVCV0JYZGZwWXh3bnJ0UnRoRE1VdUpqc1RrN0JZQlpyRG1ZRjhOc29Hb0xNY0xNVGVvN2hMVHA1YkVQM0dRZ2RUbTBrTmRfWTNHa0JjVWpGUDVaSXptQ1oxdGpPQ181SEwzU3F6am40V1pRNWptaWtzZE9lZEU0T3ptZ1RiVFRxdlgwQWtIZ0k2d01WQUstbnZGZ2R5V28tWDF2UTB2YXdUbEJiZUdsbTZpR3Y5QWxNUU15TzdlR0VOYllF?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Iran Integrates Artificial Intelligence into Air Defense Systems -",
+        "Worthware Systems International Inc. Announces CellSell® AI: Artificial Intelligence Integrated Directly into CellSell®"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-01T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses [R]",
+      "s": "LLM agents increasingly modify their own prompts, tools, middleware, resources, and execution harnesses at runtime. Such self-evolution can improve capability, but a successful mutation may leave pers",
+      "b": [
+        "reddit.com: EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses [R]",
+        "arxiv.org: EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses"
+      ],
+      "body": [
+        "reddit.com: LLM agents increasingly modify their own prompts, tools, middleware, resources, and execution harnesses at runtime. Such self-evolution can improve capability, but a successful mutation may leave persistent effects that cannot be safely reversed in states different from the one in which it was created. We introduce EvoUndo, a framework for representing, synthesizing, diagnosing, and independently verifying recoverability of model-generated self-modifications across counterfactual states. Across 600 unseen one-shot self-evolution tasks, we identify 197 capability-improving mutations that fail recoverability verification. Under the original recovery representation, conventional repair strategies recover 0/197 of these natural failures. Deterministic oracle analysis recovers 48/197 under the original recovery language L0, while the extended recovery calculus increases empirical oracle recovery to 191/197. A protocol-locked 2×2 grounding-by-expressivity intervention then separates two bottlenecks: exact state-address grounding increases successful recovery from 0/48 to 38/48 (79.2%) when the original language is sufficient, while extending the recovery language enables recovery on 142/143 (99.3%) failures in the oracle-defined S1 stratum. On the primary gpt-oss-120b backbone, adding exact-address diagnostics to the richer language reduces recovery to 133/143 (93.0%); a Qwen3.8-27B replication preserves the grounding and expressivity effects but not this negative interaction, indicating that the latter is model-dependent. These results indicate that reliable agent self-evolution requires co-designing verification, state grounding, witness semantics, and recovery-language expressivity rather than relying on iterative prompting alone. Paper: https://arxiv.org/abs/2608.28363 submitted by /u/AccomplishedLeg1508 [link] [comments]",
+        "arxiv.org: arXiv:2608.28363v1 Announce Type: new Abstract: LLM agents increasingly modify their own prompts, tools, middleware, resources, and execution harnesses at runtime. Such self-evolution can improve capability, but a successful mutation may leave persistent effects that cannot be safely reversed in states different from the one in which it was created. We introduce EvoUndo, a framework for representing, synthesizing, diagnosing, and independently verifying recoverability of model-generated self-modifications across counterfactual states. Across 600 unseen one-shot self-evolution tasks, we identify 197 capability-improving mutations that fail recoverability verification. Under the original recovery representation, conventional repair strategies recover 0/197 of these natural failures. Deterministic oracle analysis recovers 48/197 under the original recovery language L0, while the extended recovery calculus increases empirical oracle recovery to 191/197. A protocol-locked 2x2 grounding-by-expressivity intervention then separates two bottlenecks: exact state-address grounding increases successful recovery from 0/48 to 38/48 (79.2%) when the original language is sufficient, while extending the recovery language enables recovery on 142/143 (99.3%) failures in the oracle-defined S1 stratum. On the primary gpt-oss-120b backbone, adding exact-address diagnostics to the richer language reduces recovery to 133/143 (93.0%); a Qwen3.8-27B replication preserves the grounding and expressivity effects but not this negative interaction, indicating that the latter is model-dependent. These results indicate that reliable agent self-evolution requires co-designing verification, state grounding, witness semantics, and recovery-language expressivity rather than relying on iterative prompting alone."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1w4m0hq/evoundo_recoverabilityconstrained_selfevolution/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.28363"
+        }
+      ],
+      "srcTitles": [
+        "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses [R]",
+        "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-01T13:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Path to Astra: critical capabilities and frontier safeguards",
+      "s": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+      "b": [
+        "openai.com: Path to Astra: critical capabilities and frontier safeguards"
+      ],
+      "body": [
+        "openai.com: Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/path-to-astra"
+        }
+      ],
+      "srcTitles": [
+        "Path to Astra: critical capabilities and frontier safeguards"
       ]
     }
   ]
