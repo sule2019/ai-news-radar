@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 69,
-      "sources": 4,
+      "signal": 67,
+      "sources": 3,
       "ts": "2026-08-31T23:59:36.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -29,22 +29,49 @@
         {
           "d": "huggingface.co",
           "u": "https://huggingface.co/blog/webgpu-kernels"
-        },
-        {
-          "d": "aws.amazon.com",
-          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRktHdVJiSWtrU2l4ZnJ6a3R5OXo1QzVoWjF0WjMwTUFkU1hPeGFKRC03UWpMMGNkYzdidTlBWUJacVFpRGxuMDRaNW5xcm9DRmxWSnpyZTNiTHhpb3ZjT2xlV1lJdXIwR2NNUEljcjAxenlKcDhackkyc1dUazdYeDU3SngySEFmcVE?oc=5"
         }
       ],
       "srcTitles": [
         "Introducing agentic video understanding with Gemini",
         "Introducing wrapture",
-        "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-        "Introducing Claude Fable 5.1 on AWS"
+        "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI"
       ]
     },
     {
       "cat": "products",
-      "signal": 64,
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-01T20:53:05.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google s Android update tackles motion sickness, accessibility, and more",
+      "s": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+      "b": [
+        "techcrunch.com: Google s Android update tackles motion sickness, accessibility, and more",
+        "techmeme.com: Google rolls out its September Android Drop, with remembered items in Find Hub, Guided vision in Gemini Live, Motion Assist to reduce motion sickness, and more (Ryan Whitwam/Ars Technica)"
+      ],
+      "body": [
+        "techcrunch.com: While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+        "techmeme.com: Ryan Whitwam / Ars Technica : Google rolls out its September Android Drop, with remembered items in Find Hub, Guided vision in Gemini Live, Motion Assist to reduce motion sickness, and more Let's be frank: Some of Google's recent Android feature Drops have been duds, offering little more than an expansion of Gemini summaries and chat functions."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260901/p53#a260901p53"
+        }
+      ],
+      "srcTitles": [
+        "Google s Android update tackles motion sickness, accessibility, and more",
+        "Google rolls out its September Android Drop, with remembered items in Find Hub, Guided vision in Gemini Live, Motion Assist to reduce motion sickness, and more (Ryan Whitwam/Ars Technica)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 61,
       "sources": 2,
       "ts": "2026-09-01T20:00:00.000Z",
       "writtenSources": 2,
@@ -75,8 +102,53 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 60,
+      "sources": 33,
+      "ts": "2026-09-01T14:05:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Iran Integrates Artificial Intelligence into Air Defense Systems -",
+      "s": "Iran Integrates Artificial Intelligence into Air Defense Systems - wanaen.com",
+      "b": [
+        "wanaen.com: Iran Integrates Artificial Intelligence into Air Defense Systems -",
+        "newswire.ca: Worthware Systems International Inc. Announces CellSell® AI: Artificial Intelligence Integrated Directly into CellSell®"
+      ],
+      "body": [
+        "wanaen.com: Iran Integrates Artificial Intelligence into Air Defense Systems - wanaen.com",
+        "newswire.ca: Worthware Systems International Inc. Announces CellSell® AI: Artificial Intelligence Integrated Directly into CellSell® PR Newswire Canada"
+      ],
+      "l": [
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdlhnZnJYYzduOURZejlmSkpvTm5tNEw5cHNkcUFrdVZ0SEtWMEJTTUVZdHJHdjFGN0otOFRkZUlHZHk1Wm5wYzJDR1p5dE1XemJ4TkVHT285U2MtZVA4bEJLOFFRMDFlMEgyaHZMb184SXVsR1c1NTVycFVaQXZtWV9nUmMwWXVpdmdTSTRCeXZmbnc?oc=5"
+        },
+        {
+          "d": "mondediplo.com",
+          "u": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5UWEJDUHhYdGdrdG5XaU81dFc2dmJXMExhdmZMdW9qNndaUFdWSnZVRU1NWngzcm1YUmlpN3VhcmsyQ2kyTFhiOGZlMA?oc=5"
+        },
+        {
+          "d": "globenewswire.com",
+          "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRzY0MERIX1JYRzFDWnF6NjFjVFdxTUxoQVZHZV8yQUdidlUwNHRUODR2NXQza3ktR3lwTHpJZERJb2hBV2NSYi12bDNfaF9pZVdnMXpMWVB5NmRNaHVmcWxOUUl4TWJERmNjOTVCaHRkS1VDZnozWDRldUltbnFYRHU4YUJWRHBqdTZkcHRGTjRuVkhzcnpqUUctNlVkWVlFRmF1NWxQTmFRc1VqV3RiYVJDM3lSMk9TYVJIdjhTV1dWaWV3WUdsRHR5ZmI0am5UMGlKcHJRUWkxQU9fdnhYV1VFYmhUSnpUVVhSTHViZl9uMjQ0?oc=5"
+        },
+        {
+          "d": "lufkindailynews.com",
+          "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQb3ZrVHQ5LVFfQnpVaExpakdBcW1VR09PdFNjNzFrQXRfZktpbkU3U21JVHNuNy0wa2RUUzV4aERmU2pNVERtak1kVWpGaTRGQlFGRlJ0OEhVeFJabUJjd2tmTkR4dzRqeEYtMDVrcFpBNEQxbnNRS083ZEZpUzZoUVJWbzU1ZFBFX1dfTHU5OWpyLVpqbERZY0ZUemJYTV9BUUUxZGpJY0Q1U0tEOHpJVHk4YVotbkpnaFA3WkRneUc2MVlCa1c2dHRLVXU1YmNRYjU4Y1FnYXdad1FMdm9QMHBKQk00TzFISk52SURrSV9OaFg3MVJDTDg2aGN3akFZY0E?oc=5"
+        },
+        {
+          "d": "+29"
+        }
+      ],
+      "srcTitles": [
+        "‘Superhuman’ AI tool spots heart disease in less than 2 seconds | AI (artificial intelligence)",
+        "Artificial intelligence and the left - Le Monde diplomatique",
+        "Artificial Intelligence (AI)-Powered Pathology Analysis System Market Global Report 2026",
+        "Rivian Autonomy and AI (artificial intelligence) Day in Palo Alto, California"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 54,
+      "signal": 50,
       "sources": 2,
       "ts": "2026-09-01T11:25:01.000Z",
       "writtenSources": 2,
@@ -158,7 +230,7 @@
     },
     {
       "cat": "funding",
-      "signal": 40,
+      "signal": 37,
       "sources": 2,
       "ts": "2026-09-01T21:03:44.000Z",
       "writtenSources": 2,
@@ -221,8 +293,40 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-01T19:42:13.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "G20 Innovation Ministerial talks spotlight AI, data centers",
+      "s": "G20 Innovation Ministerial talks spotlight AI, data centers ABC11 News",
+      "b": [
+        "abc11.com: G20 Innovation Ministerial talks spotlight AI, data centers",
+        "rfi.fr: Zuckerberg, Musk make plea at G20 for more AI data centers"
+      ],
+      "body": [
+        "abc11.com: G20 Innovation Ministerial talks spotlight AI, data centers ABC11 News",
+        "rfi.fr: Zuckerberg, Musk make plea at G20 for more AI data centers RFI"
+      ],
+      "l": [
+        {
+          "d": "abc11.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeXROWXA4NkpoTTVKSUEwLTF2YVdudUFSNml6UHF6QThGWHRVSFY4WDlaNi1KdEVYOEhZc0c2N3k0am9INjNyTU52NGhrSVRjM3JNSHM4NE43OFA0NzQ1QjRVWHdmNU5jZ1psYWNOLU51cXZTREJjbFhJcWFyN1RSeFp3eTIxOWstbC1RcjdBSW05dHFEVmfSAZsBQVVfeXFMT2x5QUxCMG5EeVlKOHlnSm9PSlNXblI4RHJPcGhSX1dkVGY1YWlXbGNJYUhJRU9LdXVVcDdSZzJpdGsxWDJPNmdiUEJETGg3dHR4T1hOVktfX1lvWnMybDVfNXFaSDZ6bE9nVl9xQWtLbTRtUWoxNWJxRHpLUjczQWNZTkR3UkU0TGtEUkRCUzluX0RoZEVtTFJLRGc?oc=5"
+        },
+        {
+          "d": "rfi.fr",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUnBUSDBza29MQUlETllvZFRUaERiNExteERXR1otY0JjUVJpVU43cHFYY3A0ZVg1U1B3MFM2Wnc5d0pwRk9oZG1lWm1teTVCaVJsZklJYlFZTEM0cFUyeGFDaDE4Y3ZCWmt5TEp5Vi11ajhkY04xajBsckdXNkdGTVhha0RnQTU3b0IxU3pnVmVMUlY5bTl5WmFnRGZsOHZ3SVp3aGxpWHB2OTQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "G20 Innovation Ministerial talks spotlight AI, data centers",
+        "Zuckerberg, Musk make plea at G20 for more AI data centers"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 31,
+      "signal": 27,
       "sources": 2,
       "ts": "2026-09-01T16:31:04.000Z",
       "writtenSources": 2,
@@ -254,7 +358,7 @@
     },
     {
       "cat": "models",
-      "signal": 31,
+      "signal": 27,
       "sources": 2,
       "ts": "2026-09-01T16:00:52.000Z",
       "writtenSources": 2,
@@ -286,7 +390,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-09-01T20:45:00.000Z",
       "writtenSources": 1,
@@ -307,31 +411,6 @@
       ],
       "srcTitles": [
         "The latest AI news we announced in August 2026"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-09-01T17:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "How AI-native companies turn workflows into operating capability",
-      "s": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
-      "b": [
-        "openai.com: How AI-native companies turn workflows into operating capability"
-      ],
-      "body": [
-        "openai.com: Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/ai-native-company-workflows"
-        }
-      ],
-      "srcTitles": [
-        "How AI-native companies turn workflows into operating capability"
       ]
     },
     {
@@ -370,38 +449,6 @@
       "cat": "models",
       "signal": 26,
       "sources": 2,
-      "ts": "2026-09-01T14:05:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Iran Integrates Artificial Intelligence into Air Defense Systems -",
-      "s": "Iran Integrates Artificial Intelligence into Air Defense Systems - wanaen.com",
-      "b": [
-        "wanaen.com: Iran Integrates Artificial Intelligence into Air Defense Systems -",
-        "newswire.ca: Worthware Systems International Inc. Announces CellSell® AI: Artificial Intelligence Integrated Directly into CellSell®"
-      ],
-      "body": [
-        "wanaen.com: Iran Integrates Artificial Intelligence into Air Defense Systems - wanaen.com",
-        "newswire.ca: Worthware Systems International Inc. Announces CellSell® AI: Artificial Intelligence Integrated Directly into CellSell® PR Newswire Canada"
-      ],
-      "l": [
-        {
-          "d": "wanaen.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa2VrcXdGX2pHdmhYNlZab1c2Qmc1V0VPb0RnSWVyZ0NiM1ZuN3JPaW5oZWhJN0syRDNMUXFMQTZJV2xxbW1UNDdYWFBYaEV3UUtDZlRQVGlnbXkzakE0TzhzWXQzZXNVcFJRRGdCMXkwWTBtSTBTQ0dvUzJFQ0dTSFd4U05SUk9FcnZUdQ?oc=5"
-        },
-        {
-          "d": "newswire.ca",
-          "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQMVpaYnhUQ0t1X1hac0hDWmJXYjljZEU2dGdyQmlTdUNSbFZRWFZ0Z1hhT0RXcnBWQTNhNXE0RHpXaXk1WVNLMjVCV0JYZGZwWXh3bnJ0UnRoRE1VdUpqc1RrN0JZQlpyRG1ZRjhOc29Hb0xNY0xNVGVvN2hMVHA1YkVQM0dRZ2RUbTBrTmRfWTNHa0JjVWpGUDVaSXptQ1oxdGpPQ181SEwzU3F6am40V1pRNWptaWtzZE9lZEU0T3ptZ1RiVFRxdlgwQWtIZ0k2d01WQUstbnZGZ2R5V28tWDF2UTB2YXdUbEJiZUdsbTZpR3Y5QWxNUU15TzdlR0VOYllF?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Iran Integrates Artificial Intelligence into Air Defense Systems -",
-        "Worthware Systems International Inc. Announces CellSell® AI: Artificial Intelligence Integrated Directly into CellSell®"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
       "ts": "2026-09-01T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -428,6 +475,31 @@
       "srcTitles": [
         "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses [R]",
         "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-01T17:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How AI-native companies turn workflows into operating capability",
+      "s": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "b": [
+        "openai.com: How AI-native companies turn workflows into operating capability"
+      ],
+      "body": [
+        "openai.com: Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/ai-native-company-workflows"
+        }
+      ],
+      "srcTitles": [
+        "How AI-native companies turn workflows into operating capability"
       ]
     },
     {
