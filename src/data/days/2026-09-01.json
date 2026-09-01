@@ -39,7 +39,7 @@
     },
     {
       "cat": "products",
-      "signal": 55,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-09-01T11:25:01.000Z",
       "writtenSources": 2,
@@ -206,6 +206,38 @@
       ],
       "srcTitles": [
         "How AI-native companies turn workflows into operating capability"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-01T16:29:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Ethics of Intelligence: Hampton University Builds an AI Ecosystem for a Future Where Access, Data, Opportunity Matter",
+      "s": "The Ethics of Intelligence: Hampton University Builds an AI Ecosystem for a Future Where Access, Data, Opportunity Matter Yahoo! Finance Canada",
+      "b": [
+        "ca.finance.yahoo.com: The Ethics of Intelligence: Hampton University Builds an AI Ecosystem for a Future Where Access, Data, Opportunity Matter",
+        "fidelity.com: Hampton University Builds an AI Ecosystem for a Future Where Access, Data, Opportunity Matter"
+      ],
+      "body": [
+        "ca.finance.yahoo.com: The Ethics of Intelligence: Hampton University Builds an AI Ecosystem for a Future Where Access, Data, Opportunity Matter Yahoo! Finance Canada",
+        "fidelity.com: Hampton University Builds an AI Ecosystem for a Future Where Access, Data, Opportunity Matter Fidelity Investments"
+      ],
+      "l": [
+        {
+          "d": "ca.finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOS295dXJFTkl5M2pFLXBycU5pb29pYUZ4VDR0cVZteVBOZm56Qy16LUtad3NHZlBDdU9uYnMtUzNsdU9YWU9OVVhRanFzRnBObHU1Zk1lZl9MSUVaTkxGR3lEMThUeUZNMU1fWjJSVUR3QmdORXBBSEhmUGpzRUJOT2ZhM2dxbHppN3ZmR19RdmZuVFZuY211VDlB?oc=5"
+        },
+        {
+          "d": "fidelity.com",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFZVYUNsWHdoUkRMNVRKdlN3ajdPN0Y2TjItWTlNcXhjNi1lOWppMEZ0RVMzQ2RhWE5SekdXWmt3azRJLS1CNGRKZTBBd0lFZ1B2THBsRDFHZ3VrYjE2U0ZScWF0TjdHWkYxMGZlS2VSWVZBR2JNUG1qRk8wUTUtaVFJMjRUeHRTeDVsMHRn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The Ethics of Intelligence: Hampton University Builds an AI Ecosystem for a Future Where Access, Data, Opportunity Matter",
+        "Hampton University Builds an AI Ecosystem for a Future Where Access, Data, Opportunity Matter"
       ]
     }
   ]
