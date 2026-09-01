@@ -2,8 +2,44 @@
   "date": "2026-09-01",
   "stories": [
     {
+      "cat": "models",
+      "signal": 67,
+      "sources": 3,
+      "ts": "2026-08-31T23:59:36.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+      "s": "Covered by 2 outlets.",
+      "b": [
+        "huggingface.co: Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
+        "simonwillison.net: Introducing wrapture"
+      ],
+      "body": [
+        "simonwillison.net: Introducing wrapture New from Graham Dumpleton (of wrapt , mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same time. Wrapture ( full documentation here ) makes it easy to wrap any function or method such that all access can be traced, or can be overridden to return a different value. It acts as both an alternative to unittest.mock and a way to implement tracing against an existing project: Attaching observation to code you do not control, recording what flows through it, and doing so without disturbing the program being watched, is a problem I have never really stopped thinking about. Wrapture includes OpenTelemetry support and even has an entirely configuration-based mechanism for adding tracing to an existing Python project, which looks like this: capture = \" summary \" [[ observe ]] target = \" domain:Calculator \" name = [ \" outer \" , \" inner \" ] [[ sink ]] type = \" jsonlines \" path = \" trace.jsonl \" This is still a very young project - just a few weeks old - but it's off to a very promising start. Interestingly, this is also Graham's first attempt at large entirely agent-driven project: Every line of code and documentation in wrapture was written by an AI assistant working under my direction. I want to be upfront about that, and equally upfront about what it was not. This was not vibe coding, where a one-shot prompt produces a pile of generated code and the person driving hopes for the best because they lack the knowledge to judge what came back. Vibe coding has earned its bad reputation. I engineered wrapture carefully from the start. I have spent a long time in this particular corner of Python and knew exactly what the result needed to be, and the AI was the means of producing it rather than the source of the design. In a follow-up post, Unit testing with wrapture , Graham shows the testing patterns supported by the new library: def test_"
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/"
+        },
+        {
+          "d": "huggingface.co",
+          "u": "https://huggingface.co/blog/webgpu-kernels"
+        }
+      ],
+      "srcTitles": [
+        "Introducing agentic video understanding with Gemini",
+        "Introducing wrapture",
+        "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 59,
+      "signal": 55,
       "sources": 2,
       "ts": "2026-09-01T11:25:01.000Z",
       "writtenSources": 2,
@@ -35,33 +71,141 @@
     },
     {
       "cat": "models",
-      "signal": 34,
-      "sources": 2,
-      "ts": "2026-08-31T23:59:36.000Z",
-      "writtenSources": 2,
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-09-01T16:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "s": "Covered by 2 outlets.",
+      "h": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "s": "Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
       "b": [
-        "huggingface.co: Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-        "simonwillison.net: Introducing wrapture"
+        "blog.google: Try Google Pics: Easy image creation and editing in Google Workspace"
       ],
       "body": [
-        "simonwillison.net: Introducing wrapture New from Graham Dumpleton (of wrapt , mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same time. Wrapture ( full documentation here ) makes it easy to wrap any function or method such that all access can be traced, or can be overridden to return a different value. It acts as both an alternative to unittest.mock and a way to implement tracing against an existing project: Attaching observation to code you do not control, recording what flows through it, and doing so without disturbing the program being watched, is a problem I have never really stopped thinking about. Wrapture includes OpenTelemetry support and even has an entirely configuration-based mechanism for adding tracing to an existing Python project, which looks like this: capture = \" summary \" [[ observe ]] target = \" domain:Calculator \" name = [ \" outer \" , \" inner \" ] [[ sink ]] type = \" jsonlines \" path = \" trace.jsonl \" This is still a very young project - just a few weeks old - but it's off to a very promising start. Interestingly, this is also Graham's first attempt at large entirely agent-driven project: Every line of code and documentation in wrapture was written by an AI assistant working under my direction. I want to be upfront about that, and equally upfront about what it was not. This was not vibe coding, where a one-shot prompt produces a pile of generated code and the person driving hopes for the best because they lack the knowledge to judge what came back. Vibe coding has earned its bad reputation. I engineered wrapture carefully from the start. I have spent a long time in this particular corner of Python and knew exactly what the result needed to be, and the AI was the means of producing it rather than the source of the design. In a follow-up post, Unit testing with wrapture , Graham shows the testing patterns supported by the new library: def test_"
+        "blog.google: Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available."
       ],
       "l": [
         {
-          "d": "huggingface.co",
-          "u": "https://huggingface.co/blog/webgpu-kernels"
-        },
-        {
-          "d": "simonwillison.net",
-          "u": "https://simonwillison.net/2026/Aug/31/introducing-wrapture/"
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/workspace/google-pics/"
         }
       ],
       "srcTitles": [
-        "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-        "Introducing wrapture"
+        "Try Google Pics: Easy image creation and editing in Google Workspace"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-01T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
+      "s": "ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more.",
+      "b": [
+        "openai.com: Healthcare organizations can now connect EHR and additional industry data to ChatGPT"
+      ],
+      "body": [
+        "openai.com: ChatGPT can now connect to trusted healthcare data, helping clinicians securely access patient context, medical research, and more."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources"
+        }
+      ],
+      "srcTitles": [
+        "Healthcare organizations can now connect EHR and additional industry data to ChatGPT"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-09-01T16:31:04.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+      "s": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+      "b": [
+        "techcrunch.com: Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+        "techmeme.com: Empirik, which uses AI to predict and prevent IT outages by analyzing system changes and their effects, raised a $21M seed and spins out from Sequoia Capital (Marina Temkin/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+        "techmeme.com: Marina Temkin / TechCrunch : Empirik, which uses AI to predict and prevent IT outages by analyzing system changes and their effects, raised a $21M seed and spins out from Sequoia Capital Before joining Sequoia Capital in 2020 as chief digital and information officer, Avon Puri spent over a decade running infrastructure at Rubrik and VMware."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260901/p31#a260901p31"
+        }
+      ],
+      "srcTitles": [
+        "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+        "Empirik, which uses AI to predict and prevent IT outages by analyzing system changes and their effects, raised a $21M seed and spins out from Sequoia Capital (Marina Temkin/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-09-01T16:00:52.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "John Deere launched an AI chatbot for farmers",
+      "s": "John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"fi",
+      "b": [
+        "theverge.com: John Deere launched an AI chatbot for farmers",
+        "techmeme.com: John Deere is testing JD, an AI assistant for farmers, to help with best practices and find trends based on farmers' \"field, machine, and operational data\" (Stevie Bonifield/The Verge)"
+      ],
+      "body": [
+        "theverge.com: John Deere is testing a new \"JD\" AI assistant that it says can help farmers make more money, with answers about best practices and historical trends that are based on their own data. It uses their \"field, machine and operational data\" to answer questions on topics like equipment settings, fuel usage, or harvest timing. The [ ]",
+        "techmeme.com: Stevie Bonifield / The Verge : John Deere is testing JD, an AI assistant for farmers, to help with best practices and find trends based on farmers' field, machine, and operational data The new JD AI uses farmers' own data to answer questions about their operations and equipment."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/987486/john-deere-jd-ai-chatbot"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260901/p30#a260901p30"
+        }
+      ],
+      "srcTitles": [
+        "John Deere launched an AI chatbot for farmers",
+        "John Deere is testing JD, an AI assistant for farmers, to help with best practices and find trends based on farmers' \"field, machine, and operational data\" (Stevie Bonifield/The Verge)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-09-01T17:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How AI-native companies turn workflows into operating capability",
+      "s": "Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply.",
+      "b": [
+        "openai.com: How AI-native companies turn workflows into operating capability"
+      ],
+      "body": [
+        "openai.com: Basis, Clay, and Exa Labs use AI agents to improve onboarding, account management, and developer integrations. See what enterprise leaders can apply."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/ai-native-company-workflows"
+        }
+      ],
+      "srcTitles": [
+        "How AI-native companies turn workflows into operating capability"
       ]
     }
   ]
