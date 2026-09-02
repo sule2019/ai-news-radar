@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 50,
+      "signal": 46,
       "sources": 2,
       "ts": "2026-09-01T22:01:36.000Z",
       "writtenSources": 2,
@@ -35,8 +35,8 @@
     },
     {
       "cat": "policy",
-      "signal": 40,
-      "sources": 3,
+      "signal": 32,
+      "sources": 4,
       "ts": "2026-09-02T12:13:28.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -54,22 +54,27 @@
       ],
       "l": [
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban"
+          "d": "abc7ny.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjNWaXZlY1NRcTJnRTJnVXdoclZHa1MxT0NQbXpWSjl4a0lMU1ZtUHhFMGVXMldkT2tLemVfV1RVaXVOUFB2SmlmbXpXaXN4dW8yNHRsSWZQZHdqVlFXOUhZcUdibGVFVVR2OTNZWFdsQ05nQVBGNjNPUzFvejNfcTZ1QnV2OVAyalZmTmpKQnNGRzhSMXZPMDJFT2fSAaIBQVVfeXFMT0NYeUtoa0pSdVd3eERBVlJjcXREU2RRdHI2VXFuY2Vqd1NUdDdONUdpWTN3a0RJZFU0SXRhN2czSmpsNFVsc3pzalh5ODVMTl9mZ0lLYzYzWkRGNTJEcTdNZDh6VU9wSV90cFU3QzZKNkZqRVpncVpoR19xUzZfR1RtYlhUbjRVMHlMUjlZSi1UQWhueEQ3QVBERmtJQXJzNl93?oc=5"
         },
         {
-          "d": "politico.com",
-          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1M2R3d1Z0VSZDRQTW1qMXc2X09PWW1OUHd0YVk1RHl2ZGJ4eHc0bEJPTTYzQzFucWdpQkhVZEVwSmw0b21saVdZVnBPZ0tESUNjMmZaSHVWLWhKaTc4T1JYSFkzQXVTYkZnWXpoLVc0Um9NUlBlYjdmU2VGNXpYWGREb3hwN2JhY24wVS05YW5mSVY1enoxSGJJWnNBeTJhOHU4blRyNkNvX2hyTzZpZ0UzRjhTcjBlX1FWcUV6UjdLczha?oc=5"
+          "d": "gothamist.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOElzUTBZeWQ3ZzBEVlBtc25YV29uRmYtaExQc3JBQmEzVTl5Y0IyckxyVzRIdVBHUUlqTFZpZGtWUzE2VGFDQlRqYWxQYllDZWtIMnB0SXEwLVRlem1pQkhrNE1aM3o0bEg3NUdfaEpndXFkLU11R3ExbFBSMDd6aEVaUzVCZUZ4SUdHcHhUUzdVZ0hNYi1PMw?oc=5"
         },
         {
-          "d": "cbsnews.com",
-          "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DQXVqYk1UZkdxSnNBdHMzY00yZWZqeGtSWXpOeUY0c3YzMkJlTFlOdHhpa3lCTU41WXQtOGF2aVpoWDV3c2pZYWhSVkF4VzlWa2dxcGJJUVZYRXVjVjhIaEJZVENvbmo3cVMwR1NEXzg?oc=5"
+          "d": "english.aawsat.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaGVuZklmbXhQRmg1MlhsQkN6YUtJVFBjRDY1Z0VoSGU3bVI3TUR3X0hyQm01RU9uR1FocENlcThJUXkzRjBBU0l4djkzSzBFVjdpWFJWc0lUNUJLOXpfdm4xalkwT3NQT0ptSEY4MEhvblo3TU95RE9HRFEwOXdCYkM2djZPS2hyZFl5SmY2bEVBLTRPOHd4Q1lXZmpHeUE5QjFj?oc=5"
+        },
+        {
+          "d": "abc13.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRTBzZ3dqT3Rsb0JsWTF2Q2NHaFVhMkdDaS00S2w0Z0dIZ2RsNEp1ZURIUFAxbkVLb3JuQmhpR3dPWDhSRjhLQmdXYkJBbUQ0UFJ1THBmQUdtWWZLRGh1ZGl1RGhOZDQ3dkF3WE1iUG42QUNmSU9GMGlrdTNacUdTaktvcnlBemx5aFI5eDBwSGVOUnFSeUlWX0c1T2JzeTFNRzl0WWd6dGg?oc=5"
         }
       ],
       "srcTitles": [
-        "NYC bans AI use for students until they reach high school",
-        "NYC school system to ban AI for elementary, middle school students",
-        "NYC officials to ban AI in the classroom until high school, sources say"
+        "NYC schools ban AI for students through 8th grade under sweeping new policy",
+        "NYC public schools to ban AI for teaching students below 9th grade",
+        "New York City to Ban AI in Public Schools Through Eighth Grade - ASHARQ AL-AWSAT English",
+        "New York City Public Schools banning AI use through middle school starting this year"
       ]
     },
     {
