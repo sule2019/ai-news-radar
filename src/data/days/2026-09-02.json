@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 70,
+      "signal": 65,
       "sources": 3,
       "ts": "2026-09-02T15:15:16.000Z",
       "writtenSources": 3,
@@ -30,14 +30,14 @@
           "u": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260902/p25#a260902p25"
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQazlyYzJEYzZkWGJwX0UwZ1k0TkRDRkg4NXZfREh3ZUx3Q0F2TkpuU3pSRFo4MHY4MHNYclI5c0RhQWdXeXdoQTVyandQTWhvbUYxM0c4dzhESjlFaFBuMWZXR0ZUS0xCakJCNUVMaFZiTkstS05uMm13MW5fcml0VE1MaTFidi10R1E?oc=5"
         }
       ],
       "srcTitles": [
         "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
         "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
-        "The Trump administration files a brief supporting OpenAI in its dispute with The New York Times, saying training LLMs on copyrighted works is generally fair use (Blake Brittain/Reuters)"
+        "Trump administration backs OpenAI in newspapers' copyright case"
       ]
     },
     {
@@ -59,17 +59,17 @@
       ],
       "l": [
         {
-          "d": "arstechnica.com",
-          "u": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260902/p27#a260902p27"
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/"
         }
       ],
       "srcTitles": [
-        "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
-        "Google releases Gemini 3.8 Flash, three weeks after Gemini 3.7 Flash, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31 (Abner Li/9to5Google)"
+        "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+        "Google releases Gemini 3.8 Flash, its third Flash model in six weeks"
       ]
     },
     {
@@ -105,8 +105,87 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 44,
+      "sources": 2,
+      "ts": "2026-09-02T16:20:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The US Army awards $192M in contracts to Palantir and Anduril to produce eight TITAN AI-powered mobile ground stations, to be delivered over the next 18 months (Barratt Dewey/Tectonic Defense)",
+      "s": "Barratt Dewey / Tectonic Defense : The US Army awards $192M in contracts to Palantir and Anduril to produce eight TITAN AI-powered mobile ground stations, to be delivered over the next 18 months Watch",
+      "b": [
+        "techmeme.com: The US Army awards $192M in contracts to Palantir and Anduril to produce eight TITAN AI-powered mobile ground stations, to be delivered over the next 18 months (Barratt Dewey/Tectonic Defense)",
+        "axios.com: Army taps Palantir for 8 AI-fueled TITAN trucks"
+      ],
+      "body": [
+        "techmeme.com: Barratt Dewey / Tectonic Defense : The US Army awards $192M in contracts to Palantir and Anduril to produce eight TITAN AI-powered mobile ground stations, to be delivered over the next 18 months Watch out, world. The US Army's kill chain is going mobile. On Tuesday, the Army awarded two contracts worth a combined $192M",
+        "axios.com: Army taps Palantir for 8 AI-fueled TITAN trucks axios.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260902/p30#a260902p30"
+        },
+        {
+          "d": "axios.com",
+          "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40T1ppbTdIUGhJNzRQak9zLVZSNV9vS2Y2blFJaHRIVHM1ZEJibXFLMHEzeXdVbHdFVGJTcmdkNTRsMkxUZkRKc0dKdWEyc3NKbnU3RnZwOS0xRmxweFdGVDBIY1pOS0ZaNmg1YXZIVHg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The US Army awards $192M in contracts to Palantir and Anduril to produce eight TITAN AI-powered mobile ground stations, to be delivered over the next 18 months (Barratt Dewey/Tectonic Defense)",
+        "Army taps Palantir for 8 AI-fueled TITAN trucks"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 43,
+      "signal": 42,
+      "sources": 6,
+      "ts": "2026-09-02T12:13:28.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "NYC bans AI use for students until they reach high school",
+      "s": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, w",
+      "b": [
+        "theverge.com: NYC bans AI use for students until they reach high school",
+        "politico.com: NYC school system to ban AI for elementary, middle school students",
+        "cbsnews.com: NYC officials to ban AI in the classroom until high school, sources say"
+      ],
+      "body": [
+        "theverge.com: New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced alongside additional limits on digital devices and a [ ]",
+        "politico.com: NYC school system to ban AI for elementary, middle school students Politico",
+        "cbsnews.com: NYC officials to ban AI in the classroom until high school, sources say CBS News"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban"
+        },
+        {
+          "d": "abc7ny.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjNWaXZlY1NRcTJnRTJnVXdoclZHa1MxT0NQbXpWSjl4a0lMU1ZtUHhFMGVXMldkT2tLemVfV1RVaXVOUFB2SmlmbXpXaXN4dW8yNHRsSWZQZHdqVlFXOUhZcUdibGVFVVR2OTNZWFdsQ05nQVBGNjNPUzFvejNfcTZ1QnV2OVAyalZmTmpKQnNGRzhSMXZPMDJFT2fSAaIBQVVfeXFMT0NYeUtoa0pSdVd3eERBVlJjcXREU2RRdHI2VXFuY2Vqd1NUdDdONUdpWTN3a0RJZFU0SXRhN2czSmpsNFVsc3pzalh5ODVMTl9mZ0lLYzYzWkRGNTJEcTdNZDh6VU9wSV90cFU3QzZKNkZqRVpncVpoR19xUzZfR1RtYlhUbjRVMHlMUjlZSi1UQWhueEQ3QVBERmtJQXJzNl93?oc=5"
+        },
+        {
+          "d": "nbcnewyork.com",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2Z1c1ZRd2pxNW5aOFFwNlpvanJ4NGl0TDczX09xd0VEa0txaVd2Mlp6S0RGZE1Bb2l1MVVnaGN5TTlobldMLV8xWVN4MGFFVmVPNG1rbTV3N3R3RkVqMDgxeF8tbV9UUno3Tld3TXBFQUpwLXVsS0JBVkRpZW9OWS1zTUduYnVo0gGQAUFVX3lxTE0tQ1FSdkp1b2JOVmk3V1UwUEROSFdiQXBtTTBIRlYzNXFQS0w0N1dURmd6Vm5rZnRCZzJXSTA5b1hnNVFyOV8wYXB6YmlLT0c0QjdtMnh3d19VeTZQRXhjWVNTR05TVXdEMDFBRFpjRFU4d3ozTHgzOWZTUW01X3BMTVFUb3NhR0FXQ0pPNjk1Sw?oc=5"
+        },
+        {
+          "d": "detroitnews.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR04xd1NzeHRmTENzaWx4ZEw2N1NRYVVFUzh3N0tneXk1dU5RTWNrSlN0UmFBSl83SzU3aTNOSFFJNlBuYkd3aXhpRlZtcTZFZUxBOWEwRXpCZ05zUFdydVp3ME94bjNwaUFHbXJlQ2I4T2NsQjVEb290bGx4QkQwbE1uVTFzYU9oQ2ZhM0I2T3VtUEs1QnVzUU9tOGVua1p4OGt2emI1QUV1Vkk5T2JxNERfa2JiTlFaallEOURR?oc=5"
+        },
+        {
+          "d": "+2"
+        }
+      ],
+      "srcTitles": [
+        "NYC bans AI use for students until they reach high school",
+        "NYC schools ban AI for students through 8th grade under sweeping new policy",
+        "Mamdani bans AI in NYC public schools for students through 8th grade",
+        "Mamdani imposes one-year AI ban for most NYC students"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 40,
       "sources": 2,
       "ts": "2026-09-02T15:40:00.000Z",
       "writtenSources": 2,
@@ -137,7 +216,7 @@
     },
     {
       "cat": "products",
-      "signal": 38,
+      "signal": 34,
       "sources": 2,
       "ts": "2026-09-01T22:01:36.000Z",
       "writtenSources": 2,
@@ -168,42 +247,8 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 37,
-      "sources": 2,
-      "ts": "2026-09-02T12:13:28.000Z",
-      "writtenSources": 3,
-      "draft": true,
-      "h": "NYC bans AI use for students until they reach high school",
-      "s": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, w",
-      "b": [
-        "theverge.com: NYC bans AI use for students until they reach high school",
-        "politico.com: NYC school system to ban AI for elementary, middle school students",
-        "cbsnews.com: NYC officials to ban AI in the classroom until high school, sources say"
-      ],
-      "body": [
-        "theverge.com: New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced alongside additional limits on digital devices and a [ ]",
-        "politico.com: NYC school system to ban AI for elementary, middle school students Politico",
-        "cbsnews.com: NYC officials to ban AI in the classroom until high school, sources say CBS News"
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban"
-        },
-        {
-          "d": "usnews.com",
-          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNVQ1X1BZMkZZcU1YdHVzY3NUeUhJTDl1d3RWZG54RnRNclhzY2Q4ZWZwSXRDbVRZUWpCQUFZVmR4Ymc1TThiOTktS0dKY2ZrZkRKeWtSUHRBV2g0OXRxQkVPakF6TU1YTWNwclRqWFhyVXZVR3FEYWU1ampSNXBkNHNDMTFzemtxZEpYMFN4SWxDV2l2bnNzcjV5NlRMZEhQeF9qUGQ5YUF1dGlYZ1Zfdjl3dWl0LTY4Zm1GcXBoOXgyX01JR3dSXzVQT2VLVUxpUEVSU2RXb2tnUHBLQmpuYg?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "NYC bans AI use for students until they reach high school",
-        "NYC, the Nation's Largest School District, Bans AI for Students Through 8th Grade"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-02T14:00:00.000Z",
       "writtenSources": 1,
@@ -228,7 +273,7 @@
     },
     {
       "cat": "funding",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-09-02T07:01:14.000Z",
       "writtenSources": 2,
