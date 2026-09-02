@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 54,
+      "signal": 50,
       "sources": 2,
       "ts": "2026-09-01T22:01:36.000Z",
       "writtenSources": 2,
@@ -31,6 +31,70 @@
       "srcTitles": [
         "Anthropic launches Claude Fable 5.1 and says it s up to 45 percent cheaper for agentic work",
         "Anthropic says Fable 5.1 \"will cost an estimated 25% less than Fable 5 for typical workloads\" and up to ~45% less for \"highly agentic work\" (Zac Hall/9to5Mac)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 40,
+      "sources": 3,
+      "ts": "2026-09-02T12:13:28.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "NYC bans AI use for students until they reach high school",
+      "s": "New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, w",
+      "b": [
+        "theverge.com: NYC bans AI use for students until they reach high school",
+        "politico.com: NYC school system to ban AI for elementary, middle school students",
+        "cbsnews.com: NYC officials to ban AI in the classroom until high school, sources say"
+      ],
+      "body": [
+        "theverge.com: New York City mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026-2027 school year, will impact about 600,000 public school students in 2-K through eighth grade and is being introduced alongside additional limits on digital devices and a [ ]",
+        "politico.com: NYC school system to ban AI for elementary, middle school students Politico",
+        "cbsnews.com: NYC officials to ban AI in the classroom until high school, sources say CBS News"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNa1M2R3d1Z0VSZDRQTW1qMXc2X09PWW1OUHd0YVk1RHl2ZGJ4eHc0bEJPTTYzQzFucWdpQkhVZEVwSmw0b21saVdZVnBPZ0tESUNjMmZaSHVWLWhKaTc4T1JYSFkzQXVTYkZnWXpoLVc0Um9NUlBlYjdmU2VGNXpYWGREb3hwN2JhY24wVS05YW5mSVY1enoxSGJJWnNBeTJhOHU4blRyNkNvX2hyTzZpZ0UzRjhTcjBlX1FWcUV6UjdLczha?oc=5"
+        },
+        {
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DQXVqYk1UZkdxSnNBdHMzY00yZWZqeGtSWXpOeUY0c3YzMkJlTFlOdHhpa3lCTU41WXQtOGF2aVpoWDV3c2pZYWhSVkF4VzlWa2dxcGJJUVZYRXVjVjhIaEJZVENvbmo3cVMwR1NEXzg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "NYC bans AI use for students until they reach high school",
+        "NYC school system to ban AI for elementary, middle school students",
+        "NYC officials to ban AI in the classroom until high school, sources say"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-09-02T14:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Facilitating AI integration with simplicity at scale",
+      "s": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds ",
+      "b": [
+        "technologyreview.com: Facilitating AI integration with simplicity at scale"
+      ],
+      "body": [
+        "technologyreview.com: As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make decisions with confidence. For Jabil, a global manufacturing company with more than 100 sites across more than 30 countries, the answer has been to make integration and simplification a priority. The company adopted a “simplify-first, then-innovate mindset,” says Harish Manohar, SAP IT director at Jabil, recognizing that adding new technologies without first reducing complexity risks creating more risk. The goal is to standardize processes, consolidate where possible, and establish a more consistent data backbone across the organization. “Any innovation without simplification is going to add more complexity,” Manohar says. That philosophy also changes how Jabil approaches modernization. “Any modernization or transformation should add measurable business value,” Manohar says. The company is focused on connecting processes end-to-end across its supply chain and creating a foundation that can scale consistently across regions. Integration comes first because, as Manohar puts it, “the backbone of any contemporary or modern organization is data.” Before organizations can optimize, automate, or apply AI, data needs to flow seamlessly across systems. But doing that across a global organization is hardly straightforward. Jabil’s more than 100 sites operate with different levels of process maturity, legacy systems, and localized workflows, while regulated businesses bring additional compliance requirements. As such, standardizing across different regions and business environments means changing processes and governance without disrupting the operations already in place. The value of that work extends beyond the technology to the people using it. Integrated workflows can offer employe"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/"
+        }
+      ],
+      "srcTitles": [
+        "Facilitating AI integration with simplicity at scale"
       ]
     }
   ]
