@@ -2,8 +2,138 @@
   "date": "2026-09-02",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 70,
+      "sources": 3,
+      "ts": "2026-09-02T15:15:16.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "s": "The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that ",
+      "b": [
+        "theverge.com: The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+        "wired.com: Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+        "techmeme.com: The Trump administration files a brief supporting OpenAI in its dispute with The New York Times, saying training LLMs on copyrighted works is generally fair use (Blake Brittain/Reuters)"
+      ],
+      "body": [
+        "theverge.com: The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December 2023, alleging that OpenAI unlawfully trained its AI systems on articles from The New York Times and seeks to recoup \"billions of dollars\" in damages from [ ]",
+        "wired.com: The US government wrote a letter in support of OpenAI’s argument that training AI on others' intellectual property is fair use.",
+        "techmeme.com: Blake Brittain / Reuters : The Trump administration files a brief supporting OpenAI in its dispute with The New York Times, saying training LLMs on copyrighted works is generally fair use The Trump administration has filed a brief supporting OpenAI in its dispute with the New York Times (NYT.N)"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/trump-administration-sides-with-ai-giants-new-york-times-lawsuit/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260902/p25#a260902p25"
+        }
+      ],
+      "srcTitles": [
+        "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+        "Trump Administration Sides With OpenAI in New York Times Copyright Lawsuit",
+        "The Trump administration files a brief supporting OpenAI in its dispute with The New York Times, saying training LLMs on copyrighted works is generally fair use (Blake Brittain/Reuters)"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 46,
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-02T15:35:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+      "s": "Google hasn't released a frontier-level Gemini Pro AI model since early 2026, but it sure loves rolling out new Gemini Flash variants. Today, Google is announcing its third Flash model release in just",
+      "b": [
+        "arstechnica.com: Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+        "techmeme.com: Google releases Gemini 3.8 Flash, three weeks after Gemini 3.7 Flash, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31 (Abner Li/9to5Google)"
+      ],
+      "body": [
+        "arstechnica.com: Google hasn't released a frontier-level Gemini Pro AI model since early 2026, but it sure loves rolling out new Gemini Flash variants. Today, Google is announcing its third Flash model release in just six weeks , making it more likely that we'll never see the promised Gemini 3.5 Pro. But no matter, says Google, because Gemini 3.8 Flash is its best reasoning and coding model yet. Gemini 3.8 Flash comes in two variations. There's the standard Flash, which Google describes as a \"workhorse\" model that's good for anything from agentic tasks to software development. Then we have Gemini 3.8 Flash Cyber, which runs on the same foundations but has been tuned for vulnerability detection and mitigation. For developers, Google has the same pitch as it did for the 3.7 Flash release just a couple of weeks ago. API access to the model is available at an \"introductory rate\" through the end of the year: $0.75 per million input tokens and $3.75 per million output tokens. The regular price will be $1.50 / $7.50, but it's likely there will be new models available long before the price changes. Google probably sees the lower prices as a necessity given that other AI labs have recently dropped token pricing to keep increasingly wary businesses engaged with AI tools. Read full article Comments",
+        "techmeme.com: Abner Li / 9to5Google : Google releases Gemini 3.8 Flash, three weeks after Gemini 3.7 Flash, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31 After the last model release three weeks ago, Google today is rolling out Gemini 3.8 Flash. This marks the third Flash update in three months."
+      ],
+      "l": [
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260902/p27#a260902p27"
+        }
+      ],
+      "srcTitles": [
+        "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+        "Google releases Gemini 3.8 Flash, three weeks after Gemini 3.7 Flash, for an introductory price of $0.75/1M input and $3.75/1M output tokens until December 31 (Abner Li/9to5Google)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-09-02T12:09:42.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "s": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+      "b": [
+        "techcrunch.com: OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+        "theverge.com: OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits"
+      ],
+      "body": [
+        "techcrunch.com: Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+        "theverge.com: OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school shooting, as reported earlier by TechCrunch. The new wave of lawsuits was filed in a California federal court on Wednesday by the students, teachers, and the principal [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+        "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 43,
+      "sources": 2,
+      "ts": "2026-09-02T15:40:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Proactive cyber defense for governments and enterprises",
+      "s": "The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
+      "b": [
+        "blog.google: Proactive cyber defense for governments and enterprises",
+        "blog.google: Proactive cyber defense for governments and enterprises"
+      ],
+      "body": [
+        "blog.google: The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/"
+        }
+      ],
+      "srcTitles": [
+        "Proactive cyber defense for governments and enterprises",
+        "Proactive cyber defense for governments and enterprises"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 42,
       "sources": 2,
       "ts": "2026-09-01T22:01:36.000Z",
       "writtenSources": 2,
@@ -35,8 +165,8 @@
     },
     {
       "cat": "policy",
-      "signal": 32,
-      "sources": 4,
+      "signal": 37,
+      "sources": 2,
       "ts": "2026-09-02T12:13:28.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -54,32 +184,22 @@
       ],
       "l": [
         {
-          "d": "abc7ny.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWjNWaXZlY1NRcTJnRTJnVXdoclZHa1MxT0NQbXpWSjl4a0lMU1ZtUHhFMGVXMldkT2tLemVfV1RVaXVOUFB2SmlmbXpXaXN4dW8yNHRsSWZQZHdqVlFXOUhZcUdibGVFVVR2OTNZWFdsQ05nQVBGNjNPUzFvejNfcTZ1QnV2OVAyalZmTmpKQnNGRzhSMXZPMDJFT2fSAaIBQVVfeXFMT0NYeUtoa0pSdVd3eERBVlJjcXREU2RRdHI2VXFuY2Vqd1NUdDdONUdpWTN3a0RJZFU0SXRhN2czSmpsNFVsc3pzalh5ODVMTl9mZ0lLYzYzWkRGNTJEcTdNZDh6VU9wSV90cFU3QzZKNkZqRVpncVpoR19xUzZfR1RtYlhUbjRVMHlMUjlZSi1UQWhueEQ3QVBERmtJQXJzNl93?oc=5"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban"
         },
         {
-          "d": "gothamist.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOElzUTBZeWQ3ZzBEVlBtc25YV29uRmYtaExQc3JBQmEzVTl5Y0IyckxyVzRIdVBHUUlqTFZpZGtWUzE2VGFDQlRqYWxQYllDZWtIMnB0SXEwLVRlem1pQkhrNE1aM3o0bEg3NUdfaEpndXFkLU11R3ExbFBSMDd6aEVaUzVCZUZ4SUdHcHhUUzdVZ0hNYi1PMw?oc=5"
-        },
-        {
-          "d": "english.aawsat.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaGVuZklmbXhQRmg1MlhsQkN6YUtJVFBjRDY1Z0VoSGU3bVI3TUR3X0hyQm01RU9uR1FocENlcThJUXkzRjBBU0l4djkzSzBFVjdpWFJWc0lUNUJLOXpfdm4xalkwT3NQT0ptSEY4MEhvblo3TU95RE9HRFEwOXdCYkM2djZPS2hyZFl5SmY2bEVBLTRPOHd4Q1lXZmpHeUE5QjFj?oc=5"
-        },
-        {
-          "d": "abc13.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRTBzZ3dqT3Rsb0JsWTF2Q2NHaFVhMkdDaS00S2w0Z0dIZ2RsNEp1ZURIUFAxbkVLb3JuQmhpR3dPWDhSRjhLQmdXYkJBbUQ0UFJ1THBmQUdtWWZLRGh1ZGl1RGhOZDQ3dkF3WE1iUG42QUNmSU9GMGlrdTNacUdTaktvcnlBemx5aFI5eDBwSGVOUnFSeUlWX0c1T2JzeTFNRzl0WWd6dGg?oc=5"
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPNVQ1X1BZMkZZcU1YdHVzY3NUeUhJTDl1d3RWZG54RnRNclhzY2Q4ZWZwSXRDbVRZUWpCQUFZVmR4Ymc1TThiOTktS0dKY2ZrZkRKeWtSUHRBV2g0OXRxQkVPakF6TU1YTWNwclRqWFhyVXZVR3FEYWU1ampSNXBkNHNDMTFzemtxZEpYMFN4SWxDV2l2bnNzcjV5NlRMZEhQeF9qUGQ5YUF1dGlYZ1Zfdjl3dWl0LTY4Zm1GcXBoOXgyX01JR3dSXzVQT2VLVUxpUEVSU2RXb2tnUHBLQmpuYg?oc=5"
         }
       ],
       "srcTitles": [
-        "NYC schools ban AI for students through 8th grade under sweeping new policy",
-        "NYC public schools to ban AI for teaching students below 9th grade",
-        "New York City to Ban AI in Public Schools Through Eighth Grade - ASHARQ AL-AWSAT English",
-        "New York City Public Schools banning AI use through middle school starting this year"
+        "NYC bans AI use for students until they reach high school",
+        "NYC, the Nation's Largest School District, Bans AI for Students Through 8th Grade"
       ]
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-09-02T14:00:00.000Z",
       "writtenSources": 1,
@@ -100,6 +220,38 @@
       ],
       "srcTitles": [
         "Facilitating AI integration with simplicity at scale"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-02T07:01:14.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "PwC: Global investment in AI infrastructure to hit $31.6 trillion through 2050",
+      "s": "PwC: Global investment in AI infrastructure to hit $31.6 trillion through 2050 The Loadstar",
+      "b": [
+        "theloadstar.com: PwC: Global investment in AI infrastructure to hit $31.6 trillion through 2050",
+        "thenextweb.com: PwC projects that the global investment in AI infrastructure will reach $31.6 trillion by 2050"
+      ],
+      "body": [
+        "theloadstar.com: PwC: Global investment in AI infrastructure to hit $31.6 trillion through 2050 The Loadstar",
+        "thenextweb.com: PwC projects that the global investment in AI infrastructure will reach $31.6 trillion by 2050 The Next Web"
+      ],
+      "l": [
+        {
+          "d": "theloadstar.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaW9jR1htREtwSHRRcDN5TWJHeVRnUHNTUkpBNUJnTEpEVEJBVlg2VFFsX21RMGRnanFNeXM4c2hKbEw1YXkxUGpzWWlESkxzSzA4Q1p4Y0xCVjdzSlBVZlluM3ByV1J3MllMUnpnOVpYUTBuWUVETnNwUTZSRjl3ZW9hbGpiM3RlenlnNVV0R2pnYkJVcjYxMHF5ekltaXJ5VjNR?oc=5"
+        },
+        {
+          "d": "thenextweb.com",
+          "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94VGhYS3N2SXU5U25ISWdwcnpOMV9DWkppZWtqaTZrNTEwVlBfZVRzcUNKaDhxX2Y4STA4NlFMMzBoZ21Ua0NmaDlORmtIM3BrYkt6Yk1uUnIyU2tIRER0Q3k3VEt6MHNRRHdGXzJiQnZxZ2Fw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "PwC: Global investment in AI infrastructure to hit $31.6 trillion through 2050",
+        "PwC projects that the global investment in AI infrastructure will reach $31.6 trillion by 2050"
       ]
     }
   ]
