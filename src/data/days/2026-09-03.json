@@ -2,9 +2,54 @@
   "date": "2026-09-03",
   "stories": [
     {
-      "cat": "funding",
-      "signal": 82,
+      "cat": "products",
+      "signal": 88,
       "sources": 10,
+      "ts": "2026-09-03T18:06:24.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+      "s": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
+      "b": [
+        "wired.com: GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+        "techmeme.com: OpenAI launches GPT-6 Astra, initially for customers in its Daybreak program; Greg Brockman says it is a \"generational leap\" and \"we are now in the AGI era\" (Hayden Field/The Verge)"
+      ],
+      "body": [
+        "wired.com: OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
+        "techmeme.com: Hayden Field / The Verge : OpenAI launches GPT-6 Astra, initially for customers in its Daybreak program; Greg Brockman says it is a generational leap and we are now in the AGI era OpenAI's next big model is here: GPT-6 Astra. The company calls it a generational leap in capability"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/legora-financial-statement-review-with-astra"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Sep/3/gpt6-astra/"
+        },
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEhVLUYyaUZ3dDB0UGpFemVFREl1RkE0Q2FldS0zQmNQVVNudlNULXg3RXlVdjBId2lKSUJSdGllakNFNzJTMUstb2R1Nm1NQ2R6UEQxZkw1dzRoRG5NLWE0WlJWVGw3Y3VWUkQ3WHNOd1h3YndNZ0FNQ2NmX0JHZnBjakRjemhjWEtvN1RnbUdRdWtSUGpWTkRnTG1ncmQ3Mk5fTmEycGgxemROWDBMNzZaYnlyUVpsYXVLNnNpMHJVV2s?oc=5"
+        },
+        {
+          "d": "+6"
+        }
+      ],
+      "srcTitles": [
+        "Legora reviewed 41 documents in minutes with GPT-6 Astra",
+        "GPT‑6 Astra",
+        "Playco cut manual fixes 50% prototyping games with GPT-6 Astra",
+        "Safety overview: GPT-6 Astra"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 84,
+      "sources": 14,
       "ts": "2026-09-03T12:09:09.000Z",
       "writtenSources": 13,
       "draft": true,
@@ -39,7 +84,7 @@
           "u": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
         },
         {
-          "d": "+6"
+          "d": "+10"
         }
       ],
       "srcTitles": [
@@ -50,72 +95,40 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 64,
+      "cat": "models",
+      "signal": 58,
       "sources": 2,
-      "ts": "2026-09-03T18:06:24.000Z",
+      "ts": "2026-09-03T15:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-      "s": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
+      "h": "Google s latest AI weather model gives you no excuse to forget your umbrella",
+      "s": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an",
       "b": [
-        "wired.com: GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-        "techmeme.com: OpenAI launches GPT-6 Astra, initially for customers in its Daybreak program; Greg Brockman says it is a \"generational leap\" and \"we are now in the AGI era\" (Hayden Field/The Verge)"
+        "techcrunch.com: Google s latest AI weather model gives you no excuse to forget your umbrella",
+        "theverge.com: Google says its AI weather model is getting better"
       ],
       "body": [
-        "wired.com: OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
-        "techmeme.com: Hayden Field / The Verge : OpenAI launches GPT-6 Astra, initially for customers in its Daybreak program; Greg Brockman says it is a generational leap and we are now in the AGI era OpenAI's next big model is here: GPT-6 Astra. The company calls it a generational leap in capability"
-      ],
-      "l": [
-        {
-          "d": "wired.com",
-          "u": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260903/p33#a260903p33"
-        }
-      ],
-      "srcTitles": [
-        "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
-        "OpenAI launches GPT-6 Astra, initially for customers in its Daybreak program; Greg Brockman says it is a \"generational leap\" and \"we are now in the AGI era\" (Hayden Field/The Verge)"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 62,
-      "sources": 2,
-      "ts": "2026-09-03T18:01:45.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "s": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "b": [
-        "techcrunch.com: OpenAI launches Astra, its powerful (and controversial) new model",
-        "reuters.com: OpenAI launches new Astra model amid growing scrutiny over agents' safety"
-      ],
-      "body": [
-        "techcrunch.com: OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-        "reuters.com: OpenAI launches new Astra model amid growing scrutiny over agents' safety Reuters"
+        "techcrunch.com: WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
+        "theverge.com: Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five [ ]"
       ],
       "l": [
         {
           "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
+          "u": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
         },
         {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEhVLUYyaUZ3dDB0UGpFemVFREl1RkE0Q2FldS0zQmNQVVNudlNULXg3RXlVdjBId2lKSUJSdGllakNFNzJTMUstb2R1Nm1NQ2R6UEQxZkw1dzRoRG5NLWE0WlJWVGw3Y3VWUkQ3WHNOd1h3YndNZ0FNQ2NmX0JHZnBjakRjemhjWEtvN1RnbUdRdWtSUGpWTkRnTG1ncmQ3Mk5fTmEycGgxemROWDBMNzZaYnlyUVpsYXVLNnNpMHJVV2s?oc=5"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update"
         }
       ],
       "srcTitles": [
-        "OpenAI launches Astra, its powerful (and controversial) new model",
-        "OpenAI launches new Astra model amid growing scrutiny over agents' safety"
+        "Google s latest AI weather model gives you no excuse to forget your umbrella",
+        "Google says its AI weather model is getting better"
       ]
     },
     {
       "cat": "products",
-      "signal": 61,
+      "signal": 57,
       "sources": 2,
       "ts": "2026-09-03T16:00:00.000Z",
       "writtenSources": 2,
@@ -147,39 +160,7 @@
     },
     {
       "cat": "models",
-      "signal": 61,
-      "sources": 2,
-      "ts": "2026-09-03T15:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Google s latest AI weather model gives you no excuse to forget your umbrella",
-      "s": "WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, an",
-      "b": [
-        "techcrunch.com: Google s latest AI weather model gives you no excuse to forget your umbrella",
-        "theverge.com: Google says its AI weather model is getting better"
-      ],
-      "body": [
-        "techcrunch.com: WeatherNext 3 is the latest wave of a sea change in meteorology brought out by deep learning techniques. Google says it will start feeding into weather information users see in search, Google Maps, and Gemini.",
-        "theverge.com: Google is rolling out an updated AI weather model that's supposed to be more accurate, especially when it comes to predicting rain and snowfall. In the announcement today, the company says it's now able to make forecasts with \"unprecedented resolution\" using its new WeatherNext 3 AI model. It can produce a global picture that's five [ ]"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/09/03/googles-latest-ai-weather-model-gives-you-no-excuse-to-forget-your-umbrella/"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/988921/weather-forecast-ai-model-google-satellite-update"
-        }
-      ],
-      "srcTitles": [
-        "Google s latest AI weather model gives you no excuse to forget your umbrella",
-        "Google says its AI weather model is getting better"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 59,
+      "signal": 56,
       "sources": 2,
       "ts": "2026-09-03T15:25:00.000Z",
       "writtenSources": 3,
@@ -209,12 +190,51 @@
       ],
       "srcTitles": [
         "ChatGPT, Grok, and Claude all went down at the same time",
+        "ChatGPT, Grok, and Claude all went down at the same time",
         "ChatGPT, Claude and Gemini are all down as thousands of users experience outages"
       ]
     },
     {
+      "cat": "funding",
+      "signal": 52,
+      "sources": 3,
+      "ts": "2026-09-03T08:52:12.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
+      "s": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now fool.com",
+      "b": [
+        "fool.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
+        "theglobeandmail.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now"
+      ],
+      "body": [
+        "fool.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now fool.com",
+        "theglobeandmail.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSThtWjVialdTQU9iRk91MkFkQzIwWXhoQmhST1JUZURTN0VGTnl2VnFvUWc5MG1OekxGZlR1S3Y2QUo4NzM0TC1UR0prZndvTjZqbmtyRlRpVGVRTm1rTkt4ckY3QVVab01KakVzYWN5SzNaNXNzUllsWGpOZUhNaENwN2plOS1ZQTMwdFY4NHM0VGZQYlhETVk5NWdwcnRjdUpobFgwTV9JaVE?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGZTSDc5SjM0RUNMUzRtejZGXzZXVmtMTlBGUmZZS2JjanAyYV94OFhaQmRwZmVxZW9BQ0lCQ2VUTm5uaV8zZVhKYnRwZ3JfaWduNHk2eDFBLVIzRnAydkdvbXZjNXdCY2VqY2tNVmxCeFZyN0xseXBhZlF3aDNvQmJkMk5KYXNyWmxQdkpENV9VVzlxZHNaYw?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVXNFRm5mSXc5ZW1fWU84ZEYyQ3RlSGZwUVBVdFZUcDVYSW5Ya090UnNYRmx0R2x0Z0Nxek5MRzRHZi1uZ1FRLUpRbXhaaXdIRHdYbXhWUk9vSnE3UWpYcU1ZT0FGWllwYnJmb291Tzlxa21HU0tyZnNaVTBCVWtaWWlFX2ExYzh5UEZGTERWQVRRZlBiSU1kY0RtbnNFbHNfM0JDODU4N3kyMzhkZUdjMEdkcmdUOGFZbm5XMGR0WHBJMGRhbE9PSWR5QjdzQ1ZneVFVN0xVdXZFaGhFcmQzMVd2OE5GbVJkM1BFM09mNzRjdG0xbXZyNVJ1UGVXcDg4d2VZNHpCVGhJd1B2bVVB?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
+        "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock",
+        "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
+        "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 42,
+      "signal": 38,
       "sources": 2,
       "ts": "2026-09-03T01:32:02.000Z",
       "writtenSources": 2,
@@ -242,6 +262,38 @@
       "srcTitles": [
         "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
         "Sources: Meta adjusts employee review language around \"AI-driven impact\" and token usage, easing off on tokenmaxxing, while promoting the use of AI agent Hatch (Wired)"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-09-03T15:28:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
+      "s": "Bloomberg : Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models Saudi Arabia's artificial intellige",
+      "b": [
+        "techmeme.com: Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
+        "prnewswire.com: HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models Saudi Arabia's artificial intelligence company Humain has built a national AI platform based on an open model from Chinese lab MiniMax Group Inc.",
+        "prnewswire.com: HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node prnewswire.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260903/p31#a260903p31"
+        },
+        {
+          "d": "prnewswire.com",
+          "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSnpUMG56YmRuRDdBbWNoWE5kVGpvcDdmTVFoOS1mMk1qbXBTN0plNG1ranJpajg4cGRKNXBYLUl3SUs0SEZLY0VwcWUtT2FkRS1FX2RUV25aRks5NXE3MmJ2cGlabzhmNWdYMTVXRk5NY0RXVFZ0cVdoWWhBd1FsZmhYdk9mR3pud2s4bHZmWVd3bFp2UlI4QktXQ0FCcWhPUXpwNXB3Vkx5dmdrcm8zdnVMMzdaalZfUEc5NVJ6OE9DZjJQS2ZEbUlFUEQtMEJqNXdhRlhndU1ucUwyb0Zjdlh1bVh5RUdpYXViMHlkU2xxYjduOEVQSnZ4TkFJdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
+        "HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node"
       ]
     },
     {
@@ -276,95 +328,35 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 33,
-      "sources": 2,
-      "ts": "2026-09-03T15:28:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
-      "s": "Bloomberg : Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models Saudi Arabia's artificial intellige",
-      "b": [
-        "techmeme.com: Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
-        "prnewswire.com: HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node"
-      ],
-      "body": [
-        "techmeme.com: Bloomberg : Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models Saudi Arabia's artificial intelligence company Humain has built a national AI platform based on an open model from Chinese lab MiniMax Group Inc.",
-        "prnewswire.com: HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node prnewswire.com"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260903/p31#a260903p31"
-        },
-        {
-          "d": "prnewswire.com",
-          "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSnpUMG56YmRuRDdBbWNoWE5kVGpvcDdmTVFoOS1mMk1qbXBTN0plNG1ranJpajg4cGRKNXBYLUl3SUs0SEZLY0VwcWUtT2FkRS1FX2RUV25aRks5NXE3MmJ2cGlabzhmNWdYMTVXRk5NY0RXVFZ0cVdoWWhBd1FsZmhYdk9mR3pud2s4bHZmWVd3bFp2UlI4QktXQ0FCcWhPUXpwNXB3Vkx5dmdrcm8zdnVMMzdaalZfUEc5NVJ6OE9DZjJQS2ZEbUlFUEQtMEJqNXdhRlhndU1ucUwyb0Zjdlh1bVh5RUdpYXViMHlkU2xxYjduOEVQSnZ4TkFJdw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
-        "HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 30,
-      "sources": 3,
-      "ts": "2026-09-03T08:52:12.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
-      "s": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now fool.com",
-      "b": [
-        "fool.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
-        "theglobeandmail.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now"
-      ],
-      "body": [
-        "fool.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now fool.com",
-        "theglobeandmail.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now The Globe and Mail"
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWlBQdVNKQTh3amR6OVc5UWtpRUhKa0RBUUZIZWZfSnJvcFZkeFN3VEpiTmRxcDNpZUNVMmY4dk1NSUV2ZmQta25Bd0thc3JmUlNuSXE0NXlNSmhJSHl1b1U1dnpzbUg0UnA2dkdrdlE3QnZiOWE4UVRRTXhrTzlfb3VJTXdWcEZtWmFMYmFoLUxVZWQya1E?oc=5"
-        },
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSThtWjVialdTQU9iRk91MkFkQzIwWXhoQmhST1JUZURTN0VGTnl2VnFvUWc5MG1OekxGZlR1S3Y2QUo4NzM0TC1UR0prZndvTjZqbmtyRlRpVGVRTm1rTkt4ckY3QVVab01KakVzYWN5SzNaNXNzUllsWGpOZUhNaENwN2plOS1ZQTMwdFY4NHM0VGZQYlhETVk5NWdwcnRjdUpobFgwTV9JaVE?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc1JpQXZKZDU2WTZuNXNLT2ZTMjkzWFVSQnpCc19jUnpyUVYyV29qeVpFSEVWMl9zdkkyMHBWbjlvYmVva2xkX09rVFd3SUdqYkZpaEpZNms0NzFHX1ZXT281WXRTWmZOcUJlMTdpSi1heVBtRjdNMkpqeWNOY1c0TjJjUDdOejdDV2NsOGFQaGQ2WWlwUWNtQktyX0JIeF96Z01aNjViSDAtZUY4UGhJSUxISDNXWnlYRkVnMGU1SlFGaTJqdDdpb1duVndHVDA1SFBxTldBVjAtTDZpSkktRkgzRQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
-        "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
-        "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-09-03T15:02:08.000Z",
-      "writtenSources": 1,
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-03T19:44:15.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
-      "s": "Covered by 1 outlet.",
+      "h": "Artificial intelligence and building design",
+      "s": "Artificial intelligence and building design Fifty Plus Advocate",
       "b": [
-        "blog.google: Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+        "fiftyplusadvocate.com: Artificial intelligence and building design",
+        "manilatimes.net: Top Tech Expert: Elon Musk Is Quietly Building Artificial Intelligence in Space. One Small Company May Be the Key."
       ],
-      "body": [],
+      "body": [
+        "fiftyplusadvocate.com: Artificial intelligence and building design Fifty Plus Advocate",
+        "manilatimes.net: Top Tech Expert: Elon Musk Is Quietly Building Artificial Intelligence in Space. One Small Company May Be the Key. The Manila Times"
+      ],
       "l": [
         {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+          "d": "fiftyplusadvocate.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDhicF9rdXZRSXNpZGlOcUk4Q3huVVBVamVUVlEtckwxaWtfV2FTejVkT2pfcjM4U0VDRTAzQzJCNWpGLVJadUwyTGdzT2g2ckFDWjIwVFE1UEdMdFUzSjBkMWdkNGJYXzNPVjd6bVV5bmM5TGVlTnZ6TF8wSWNHS0NZQkVDdmIwOGNvOWZkZmI4QlU?oc=5"
+        },
+        {
+          "d": "manilatimes.net",
+          "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORTFMRlRRcDBfdGlQVEFzLVJIRUh3alNJdFFMczdGc0E4cm9IUFEtbzJmeFhLSFh2S1ZiTjBIWTZ3Rmo2c19QMVNVdktyeEIwcW5sZF9jdXFKeFlYWWZFX05xTURYUnI4Y1pFOHJvZS1Vci0xdmdRWUFTQlhuNzBfRjlmQkwzS2ZLaHVpV1hUREd5Q1gzWmhyUmR2ZjdvVHpEcnVtd1FFdHdoV0Y1cUJfWVQza3RSQkJpQnRZYnREUTZrXzRmRzhRMXNIWkFCQ0toZnpLSklaWUpjM2V6MFBVR29JU3U1U3BCOGhUdzExNFdFUHJTSmNvZ2NIT3NSTWRvbmtGb1RpdEY2eXhldC1mb1VFONIBmAJBVV95cUxNc1Bab2tOa3JnWTN5aTVtU0lNMmp5OU1ZZUp4ZXFMeW1IWkwwXy01REpyNFJOZkpmRjg1NmFXcmozUXFLb0Rua2dRZ3o4U0tFaGpTUDNZRDNPbUpQZ05NNnd6ZUhaVGozZU10VjhtM2xJRENsNG5SWTZUSVZEdzFxY0ZFRHk0bmZkcU14NlhJd2FKcUhvODNibnVDSEpXSDR3cmFNbHVmOWg3RGpydloxTVl1RG44VlVrVE9OX2h6OElOSWFKdC1qYktFa0NUeTNkbE9iSUllLXkwdVpZT0htOENHbXQxa0llZFR6M3VYcXJXcjA5OUk0Rng1MXhITW44RDl0SkVMOVB0d0MyYWVGTmFQdWRDX0pz?oc=5"
         }
       ],
       "srcTitles": [
-        "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+        "Artificial intelligence and building design",
+        "Top Tech Expert: Elon Musk Is Quietly Building Artificial Intelligence in Space. One Small Company May Be the Key."
       ]
     },
     {
@@ -389,24 +381,107 @@
       ],
       "l": [
         {
-          "d": "einpresswire.com",
-          "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOVUhUbmR3dERzRnF0aHdXMDhOTE1XT2RUVnZpcWNydU1HVmluT2Fkd0ZYRTdWY2NLYS0yZTM2WE9zeW5oalJSSkE1QXJKOVhOQXlRSjdPc29admk0Mml5LUhLWF9LeUc2cVVPSWwwa0wxX3daQWNvcjFjMmdkTElMY0xoTmhZN3pFOWdOU29jYjdCdVF0QXI3NVFjWVpNaFRZYlV2a1NCMThubzliUlY1WUFsc0FuTnJRVkdzWk0wV1M2T05nbnRINWVIZHhlaXBUdHBTbF90RkFmN0s5RmFPVWY5c2hENVpTUWc?oc=5"
+          "d": "einnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSlFtV3RCNHcyMmw2MUtSRV9WcXRIUUZMcGhTdXE2TmphaTRRRzRGVXdiLVo2TG93LUViWWJ1SzNyWWVzaDkwRk1KZ3hldUtGS1hFeXFmQUZhcm40RUdSTlZ2U0hJd2hhNVBtYTlhaDdjVXNBMmNDMXQwYkpwWTM2UjdVUE1xQUM4WmcwYmN4c1A3Sl90Y0RLU0xSN2xLNU5Bd1d1a2t5amcxd0w1a3c0ZVdXcDFJRUt5UEN4dE9jbmc3Wkk5UUItQlEtQWxTQ0pzWXdidGp6MHNobUFiUVM1c2xyZw?oc=5"
         },
         {
-          "d": "einnews.com",
-          "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPWUpETG5Ubm1wTTdzT2ZPcklPVjVXcVZSdlF1cjkwdU1lREw1dUs5N3hxb3NKOVJwVFFKd1gyZEktZk1qb19JUTl2dEpCOEJncjlzRXpXVDRKc2xIRmNWYlFucHpvVVZBdEFXQl9xcHp4MlIzeGNYSzE0bm53Snp5N19qN2FQYl9Vb1k4REg4WGZpb0JDN3h5SzFBenUxeDJfY1RUUER0ZEtkbFJJWGl6dW5GampmN1JrTDhtay1YcDkxNlpRdHAxdnpyMzFwMjdsWU83YWx6MUlmckJBNFk2cG9IdDcxUlN6RHlVaA?oc=5"
+          "d": "einpresswire.com",
+          "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPX28yMUM2aDd0ZjN1SmIwN3JHWFQ5Wlc3TWthZ1pmcjlsY21KTmJZT19QRWdMR3liYnJJYnYxRU1qdkJRTVEza291NERLSHR4ZDlIZ2lpelNfa0VqczhFXzZ1WDdIVHZiZFd0N1VtSFZMSkJDRmxTTVhpcklPWUFPUUhpM2tqRVkwbGlWTkVKa2lUbDRCOHBWanJfa1c1R3VlZjgxdEhiOUhRX2doWGFIeW85R1ZSXzV6NXdkbGJZZ0xONDhYZzdiLUVnZ0RkbERjeVdhSWhyZHpmUnhmTllNV3B5aERuSUt0SEJPQ3VjN1ZOeWtPNjBCWg?oc=5"
         }
       ],
       "srcTitles": [
         "Artificial Intelligence (AI)-Native Insurance Underwriting Platform Market Segmentation Analysis Reveals 2030",
         "Artificial intelligence (AI) In Hospital Operation Market Trends And Forecast Analysis Reveal Strong Long-Term Potential",
         "Artificial Intelligence (AI) Personal Finance And Wealth Management Platform Market Size Cross $29.81 Billion By 2030",
-        "Artificial Intelligence (AI)-Based Workflow Automation In Hospitals Market Revenue To Cross $11.4 Billion By 2030"
+        "Artificial Intelligence (AI)-Driven Drug Safety And Pharmacovigilance Platforms Market Strong Growth 2030 At 20.2% CAGR"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-03T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
+      "s": "LLMs describe physics well but don t understand it in any grounded sense — they ve learned statistical relationships between tokens like falls and gravity , not actual physical intuition. This is basi",
+      "b": [
+        "reddit.com: Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
+        "reddit.com: Mol-JEPA",
+        "arxiv.org: Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules"
+      ],
+      "body": [
+        "reddit.com: LLMs describe physics well but don t understand it in any grounded sense — they ve learned statistical relationships between tokens like falls and gravity , not actual physical intuition. This is basically the Mary s Room problem: Mary knows every physical fact about color but has never seen one. LLMs are Mary. The idea I ve been thinking about: Train a JEPA-style model inside a physics simulation (think MuJoCo or a simple 2D env). Instead of predicting pixels or tokens, the model predicts representations of future states in an abstract embedding space. If it gets physics wrong, the predictor fails — the loss is unforgiving in a way next-token prediction never is. The embedding space that emerges should encode actual physical structure — object permanence, momentum, trajectories — because that s what makes prediction possible. Not surface-level textures, just the principles. Freeze those representations and attach them to an LLM-style reasoning model as a conditioning signal. The LLM now has both linguistic physics knowledge AND grounded physical intuition it can actually run forward — closer to a computational primitive than a propositional fact. The hypothesis is this makes downstream learning significantly faster — the LLM doesn t have to rediscover that objects fall, it has representations that already encode that. V-JEPA does something adjacent for video (predict future frame representations, not pixels), and DreamerV3 uses a latent world model for efficient RL — but the specific combo of JEPA-style prediction + sim-grounded physics representations + LLM attachment doesn t seem to have been done cleanly. Questions for the community: - Is there prior work I m missing that does exactly this? - What s the right interface between grounded JEPA representations and a language model? Just concatenate to the prompt embedding? Cross-attention? - Would the sim-to-reality gap kill the transfer, or are the representations abstract enough to survive it? Interested in whethe",
+        "reddit.com: Hi everyone, I just quickly wanted to share a paper I was working on for around a year now. I created this summary website with key results: https://flogrammer.github.io/moljepa/ TL;DR: its a multimodal JEPA model for molecules. There will be more work to do to improve performance and I would be happy about feedback and ideas :) submitted by /u/TerribleAntelope9348 [link] [comments]",
+        "arxiv.org: arXiv:2608.22642v4 Announce Type: replace-cross Abstract: Despite recent advances in molecular foundation models, several limitations remain, such as chemically invalid augmentations, modality collapse, and incomplete representation of biochemical environments. To address these challenges, we present \\textbf{Mol-JEPA}, a scalable framework for learning molecular world models. Rather than relying on suboptimal molecular perturbations, our model uses modality masking to exploit information from molecular structures, cellular phenotypes, binding affinities, ADMET profiles, quantum chemistry simulations and other drug discovery data. Across various benchmarks, we show that the representations learned by Mol-JEPA deliver strong performance, demonstrating the value of incorporating biochemical context through latent space prediction."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.22642"
+        }
+      ],
+      "srcTitles": [
+        "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
+        "Mol-JEPA",
+        "Mol-JEPA: A multimodal Joint Embedding Predictive Architecture for Molecules"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-03T15:02:08.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+      "s": "Covered by 1 outlet.",
+      "b": [
+        "blog.google: Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+      ],
+      "body": [],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
+        }
+      ],
+      "srcTitles": [
+        "Introducing WeatherNext 3, our most advanced and accurate global weather AI model"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-03T13:15:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Daybreak for Frontline Defenders: $1B to protect essential services",
+      "s": "OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services.",
+      "b": [
+        "openai.com: Daybreak for Frontline Defenders: $1B to protect essential services"
+      ],
+      "body": [
+        "openai.com: OpenAI introduces Daybreak for Frontline Defenders. A $1 billion commitment expands access to frontier cyber AI, training, and support for essential services."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/daybreak-for-frontline-defenders"
+        }
+      ],
+      "srcTitles": [
+        "Daybreak for Frontline Defenders: $1B to protect essential services"
       ]
     },
     {
       "cat": "policy",
-      "signal": 25,
+      "signal": 21,
       "sources": 2,
       "ts": "2026-09-03T15:30:54.000Z",
       "writtenSources": 2,
