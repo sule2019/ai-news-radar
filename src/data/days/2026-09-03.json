@@ -2,8 +2,56 @@
   "date": "2026-09-03",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 91,
+      "sources": 13,
+      "ts": "2026-09-03T12:09:09.000Z",
+      "writtenSources": 13,
+      "draft": true,
+      "h": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+      "s": "Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+      "b": [
+        "techcrunch.com: Nvidia confirms it will buy Hugging Face for $12.9 billion",
+        "theverge.com: Nvidia is buying Hugging Face for almost $13 billion",
+        "wired.com: Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI"
+      ],
+      "body": [
+        "techcrunch.com: Nvidia said Hugging Face hosts over 3 million models and is used by over 18 million developers.",
+        "theverge.com: Nvidia has agreed to buy Hugging Face for $12.93 billion, bringing one of the most popular hosting platforms for open-source AI models, datasets, and tools under the ownership of the world's biggest AI chipmaker. Hugging Face is an online platform founded in 2016 that gives AI developers a space to share their projects and data [ ]",
+        "wired.com: The long-rumored deal will give the chip giant access to—and help it promote—a huge repository of open-source AI models and data sets.",
+        "arstechnica.com: Nvidia has agreed to buy AI model platform Hugging Face for $13 billion, in the latest step by the $5.4 trillion chip giant to use its financial might to accelerate the technology’s boom while exerting greater control over the industry. Hugging Face, which only last year turned down a large investment from Nvidia at a $7 billion valuation to maintain its independence, serves as a repository for millions of models and data sets and has become a champion of “open” AI systems. Nvidia said the goal of the deal was to speed up the spread of open models. Unlike proprietary models from labs such as OpenAI and Anthropic, the design of open-weight models is public and users can download, customize and run them on their own hardware. Read full article Comments"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/985474/nvidia-buying-hugging-face-deal"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/nvidias-hugging-face-acquisition-is-a-dollar129-billion-bet-on-open-source-ai/"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
+        },
+        {
+          "d": "+9"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia confirms it will buy Hugging Face for $12.9 billion",
+        "Nvidia is buying Hugging Face for almost $13 billion",
+        "Nvidia’s Hugging Face Acquisition Is a $12.9 Billion Bet on Open-Source AI",
+        "Nvidia buys Hugging Face, the GitHub of AI, for $13 billion"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 58,
+      "signal": 54,
       "sources": 2,
       "ts": "2026-09-03T01:32:02.000Z",
       "writtenSources": 2,
@@ -34,8 +82,108 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-09-03T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+      "s": "Covered by 2 outlets.",
+      "b": [
+        "huggingface.co: NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "arxiv.org: NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference"
+      ],
+      "body": [
+        "arxiv.org: arXiv:2609.01657v1 Announce Type: cross Abstract: Multimodal models often build on architectures designed for generative vision-language modeling, typically combining separately pretrained vision encoders with causal language models. Visual document retrievers such as ColPali repurpose these models as encoders, carrying over the parameter and compute overhead of a VLM for a non-generative task. We introduce NeoMME, a family of 260M and 800M-parameter Multimodal and Multilingual bidirectional Encoders that process multilingual text and raw image patches in a single bidirectional Transformer encoder. Both models are pretrained from scratch with a masked discrete-diffusion text objective, conditioned on visible image patches for multimodal examples. Both support a 16,384-token context, enough to encode up to two standard 4K UHD images. To demonstrate its downstream capabilities, we fine-tune NeoMME with jointly trained dense and late-interaction heads. On the ViDoRe v3 benchmark, the resulting NeoMME-Retriever 260M outperforms all evaluated models strictly below 800M parameters with 0.523 nDCG@10, while NeoMME-Retriever 800M reaches 0.556. At a matched 2048x2048 image input size on an NVIDIA L40S, NeoMME-260M encodes pages with about 2x the throughput of ColModernVBERT. Hierarchical token pooling and asymmetric quantization compress late-interaction multimodal document embeddings by 255x while preserving over 95% of baseline nDCG@10. We contribute NeoMME to Hugging Face Transformers and release the pretrained backbone and retrieval-compatible checkpoints under Apache 2.0 at https://hf.co/collections/Hcompany/neomme."
+      ],
+      "l": [
+        {
+          "d": "huggingface.co",
+          "u": "https://huggingface.co/blog/Hcompany/neomme"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.01657"
+        }
+      ],
+      "srcTitles": [
+        "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
+        "NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-03T12:05:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial Intelligence (AI)-Driven Population Health Management Market Research Report Offering Insights On Growth",
+      "s": "Artificial Intelligence (AI)-Driven Population Health Management Market Research Report Offering Insights On Growth EIN News",
+      "b": [
+        "einnews.com: Artificial Intelligence (AI)-Driven Population Health Management Market Research Report Offering Insights On Growth",
+        "einnews.com: Artificial Intelligence in Retail Inventory Management Market: Trends, Growth & Forecast to 2030",
+        "einpresswire.com: Artificial intelligence (AI) In Hospital Operation Market Trends And Forecast Analysis Reveal Strong Long-Term Potential"
+      ],
+      "body": [
+        "einnews.com: Artificial Intelligence (AI)-Driven Population Health Management Market Research Report Offering Insights On Growth EIN News",
+        "einnews.com: Artificial Intelligence in Retail Inventory Management Market: Trends, Growth & Forecast to 2030 EIN News",
+        "einpresswire.com: Artificial intelligence (AI) In Hospital Operation Market Trends And Forecast Analysis Reveal Strong Long-Term Potential EIN Presswire",
+        "einnews.com: Artificial Intelligence (AI)-Native Insurance Underwriting Platform Market Segmentation Analysis Reveals 2030 EIN News"
+      ],
+      "l": [
+        {
+          "d": "einnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbFNJank1STZYc0VtN3VJLVNPOWthWjlzRjI4M19nNlltYmpZNUpnWUNyNzZyRHZlVF9LWkdjb082QnVhcDk0dHEtSGM1cFNfWm5McTZTMk91RU40alRVWWU3ekJGc0xNM2pHT1JodGZwTXlpWnRSRGVaOVJ1MVNuazg2Sk1oTUxqYWZsSlRyMUFlaHVBVm1PZWp2TjNLcl9UWTh6Ni1jdWgwYjFPSUlKTFVxWm5Tc3MtQmhDbnBUR2p3WWl6Ri1Kem02UklfRWxGcW9salNGODhIeHEwMDB0Tm9nOUxrbEZHbUlz?oc=5"
+        },
+        {
+          "d": "einpresswire.com",
+          "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPX28yMUM2aDd0ZjN1SmIwN3JHWFQ5Wlc3TWthZ1pmcjlsY21KTmJZT19QRWdMR3liYnJJYnYxRU1qdkJRTVEza291NERLSHR4ZDlIZ2lpelNfa0VqczhFXzZ1WDdIVHZiZFd0N1VtSFZMSkJDRmxTTVhpcklPWUFPUUhpM2tqRVkwbGlWTkVKa2lUbDRCOHBWanJfa1c1R3VlZjgxdEhiOUhRX2doWGFIeW85R1ZSXzV6NXdkbGJZZ0xONDhYZzdiLUVnZ0RkbERjeVdhSWhyZHpmUnhmTllNV3B5aERuSUt0SEJPQ3VjN1ZOeWtPNjBCWg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial Intelligence (AI)-Driven Population Health Management Market Research Report Offering Insights On Growth",
+        "Artificial Intelligence in Retail Inventory Management Market: Trends, Growth & Forecast to 2030",
+        "Artificial intelligence (AI) In Hospital Operation Market Trends And Forecast Analysis Reveal Strong Long-Term Potential",
+        "Artificial Intelligence (AI)-Native Insurance Underwriting Platform Market Segmentation Analysis Reveals 2030"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-03T08:52:12.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
+      "s": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now fool.com",
+      "b": [
+        "fool.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
+        "theglobeandmail.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now"
+      ],
+      "body": [
+        "fool.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now fool.com",
+        "theglobeandmail.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWlBQdVNKQTh3amR6OVc5UWtpRUhKa0RBUUZIZWZfSnJvcFZkeFN3VEpiTmRxcDNpZUNVMmY4dk1NSUV2ZmQta25Bd0thc3JmUlNuSXE0NXlNSmhJSHl1b1U1dnpzbUg0UnA2dkdrdlE3QnZiOWE4UVRRTXhrTzlfb3VJTXdWcEZtWmFMYmFoLUxVZWQya1E?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQc1JpQXZKZDU2WTZuNXNLT2ZTMjkzWFVSQnpCc19jUnpyUVYyV29qeVpFSEVWMl9zdkkyMHBWbjlvYmVva2xkX09rVFd3SUdqYkZpaEpZNms0NzFHX1ZXT281WXRTWmZOcUJlMTdpSi1heVBtRjdNMkpqeWNOY1c0TjJjUDdOejdDV2NsOGFQaGQ2WWlwUWNtQktyX0JIeF96Z01aNjViSDAtZUY4UGhJSUxISDNXWnlYRkVnMGU1SlFGaTJqdDdpb1duVndHVDA1SFBxTldBVjAtTDZpSkktRkgzRQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
+        "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-09-02T22:04:34.000Z",
       "writtenSources": 2,
