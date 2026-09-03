@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 86,
+      "signal": 82,
       "sources": 10,
       "ts": "2026-09-03T12:09:09.000Z",
       "writtenSources": 13,
@@ -50,44 +50,67 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 62,
-      "sources": 3,
-      "ts": "2026-09-03T15:25:00.000Z",
-      "writtenSources": 3,
+      "cat": "products",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-09-03T18:06:24.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "ChatGPT, Grok, and Claude all went down at the same time",
-      "s": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use ",
+      "h": "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+      "s": "OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
       "b": [
-        "theverge.com: ChatGPT, Grok, and Claude all went down at the same time",
-        "theverge.com: ChatGPT, Grok, and Claude all went down at the same time",
-        "nypost.com: ChatGPT, Claude and Gemini are all down as thousands of users experience outages"
+        "wired.com: GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+        "techmeme.com: OpenAI launches GPT-6 Astra, initially for customers in its Daybreak program; Greg Brockman says it is a \"generational leap\" and \"we are now in the AGI era\" (Hayden Field/The Verge)"
       ],
       "body": [
-        "theverge.com: OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there are currently \"elevated errors across ChatGPT and Codex.\" In addition to preventing users from having conversations [ ]",
-        "theverge.com: ChatGPT, Grok, and Claude all went down at the same time The Verge",
-        "nypost.com: ChatGPT, Claude and Gemini are all down as thousands of users experience outages New York Post",
-        "futurism.com: World Plunged Into Chaos as ChatGPT, Claude, and Grok Suddenly Go Down Simultaneously: \"Finally I Can See the Sun!\" Futurism"
+        "wired.com: OpenAI leaders think the company’s next generation model, which excels at computer use and coding, may mark a major milestone in AI development.",
+        "techmeme.com: Hayden Field / The Verge : OpenAI launches GPT-6 Astra, initially for customers in its Daybreak program; Greg Brockman says it is a generational leap and we are now in the AGI era OpenAI's next big model is here: GPT-6 Astra. The company calls it a generational leap in capability"
       ],
       "l": [
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down"
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/openai-says-gpt-6-can-use-a-computer-better-than-a-human/"
         },
         {
-          "d": "nypost.com",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOTA4UmE1MUpzMVFlWDNrZG9rSUJsSFl0a3dHanNJWlo5dWJxREc5cFo3UnQxRS1reHRCX01FbWJQeDd6Ulp1WlZPQmhIek81QUhlV0lleWE1M2ZieGhpM2trbkhaTmtPbVR0ZlFpN2lhWEhpWTNNQk9rTUlKblBtTzMxUU5HV2ptSGFxaTUxYmZYM0tiQ1ZSb1ZOTU11VWUzYlpnU1ZIYk9SaUlIc1dxR3lWd0hqQ2dHX3Jv?oc=5"
-        },
-        {
-          "d": "futurism.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUFc3STJYekFKUEZHUlBIbHllcnpHeHlJblBaQi1nNzc1M0dRSmNLUGJXRjRhdGZVOFJudGVHWWViTXRVU1JGVE1tVGk2Y1FyaDV1VlBvaXcwTDdieWx4LXFSdWpHZExZNHg5NlprR1M1OFRWaU5QRk05T1NlVmthbFJaLUZONkw5Tm5ZYQ?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260903/p33#a260903p33"
         }
       ],
       "srcTitles": [
-        "ChatGPT, Grok, and Claude all went down at the same time",
-        "ChatGPT, Grok, and Claude all went down at the same time",
-        "ChatGPT, Claude and Gemini are all down as thousands of users experience outages",
-        "World Plunged Into Chaos as ChatGPT, Claude, and Grok Suddenly Go Down Simultaneously: \"Finally I Can See the Sun!\""
+        "GPT-6 Astra Is Here—and OpenAI Thinks It May Kick Off the AGI Era",
+        "OpenAI launches GPT-6 Astra, initially for customers in its Daybreak program; Greg Brockman says it is a \"generational leap\" and \"we are now in the AGI era\" (Hayden Field/The Verge)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-09-03T18:01:45.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "s": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "b": [
+        "techcrunch.com: OpenAI launches Astra, its powerful (and controversial) new model",
+        "reuters.com: OpenAI launches new Astra model amid growing scrutiny over agents' safety"
+      ],
+      "body": [
+        "techcrunch.com: OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+        "reuters.com: OpenAI launches new Astra model amid growing scrutiny over agents' safety Reuters"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model/"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEhVLUYyaUZ3dDB0UGpFemVFREl1RkE0Q2FldS0zQmNQVVNudlNULXg3RXlVdjBId2lKSUJSdGllakNFNzJTMUstb2R1Nm1NQ2R6UEQxZkw1dzRoRG5NLWE0WlJWVGw3Y3VWUkQ3WHNOd1h3YndNZ0FNQ2NmX0JHZnBjakRjemhjWEtvN1RnbUdRdWtSUGpWTkRnTG1ncmQ3Mk5fTmEycGgxemROWDBMNzZaYnlyUVpsYXVLNnNpMHJVV2s?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI launches Astra, its powerful (and controversial) new model",
+        "OpenAI launches new Astra model amid growing scrutiny over agents' safety"
       ]
     },
     {
@@ -155,8 +178,43 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-09-03T15:25:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "ChatGPT, Grok, and Claude all went down at the same time",
+      "s": "OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use ",
+      "b": [
+        "theverge.com: ChatGPT, Grok, and Claude all went down at the same time",
+        "theverge.com: ChatGPT, Grok, and Claude all went down at the same time",
+        "nypost.com: ChatGPT, Claude and Gemini are all down as thousands of users experience outages"
+      ],
+      "body": [
+        "theverge.com: OpenAI's ChatGPT, xAI's Grok, and Anthropic's Claude all began experiencing issues around the same time on Thursday. At about 11AM ET, ChatGPT started returning error messages for users trying to use the chatbot, with its status page saying there are currently \"elevated errors across ChatGPT and Codex.\" In addition to preventing users from having conversations [ ]",
+        "theverge.com: ChatGPT, Grok, and Claude all went down at the same time The Verge",
+        "nypost.com: ChatGPT, Claude and Gemini are all down as thousands of users experience outages New York Post",
+        "futurism.com: World Plunged Into Chaos as ChatGPT, Claude, and Grok Suddenly Go Down Simultaneously: \"Finally I Can See the Sun!\" Futurism"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/989503/chatgpt-grok-claude-outage-down"
+        },
+        {
+          "d": "nypost.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNOTA4UmE1MUpzMVFlWDNrZG9rSUJsSFl0a3dHanNJWlo5dWJxREc5cFo3UnQxRS1reHRCX01FbWJQeDd6Ulp1WlZPQmhIek81QUhlV0lleWE1M2ZieGhpM2trbkhaTmtPbVR0ZlFpN2lhWEhpWTNNQk9rTUlKblBtTzMxUU5HV2ptSGFxaTUxYmZYM0tiQ1ZSb1ZOTU11VWUzYlpnU1ZIYk9SaUlIc1dxR3lWd0hqQ2dHX3Jv?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "ChatGPT, Grok, and Claude all went down at the same time",
+        "ChatGPT, Claude and Gemini are all down as thousands of users experience outages"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 46,
+      "signal": 42,
       "sources": 2,
       "ts": "2026-09-03T01:32:02.000Z",
       "writtenSources": 2,
@@ -184,38 +242,6 @@
       "srcTitles": [
         "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
         "Sources: Meta adjusts employee review language around \"AI-driven impact\" and token usage, easing off on tokenmaxxing, while promoting the use of AI agent Hatch (Wired)"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 37,
-      "sources": 2,
-      "ts": "2026-09-03T15:28:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
-      "s": "Bloomberg : Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models Saudi Arabia's artificial intellige",
-      "b": [
-        "techmeme.com: Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
-        "prnewswire.com: HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node"
-      ],
-      "body": [
-        "techmeme.com: Bloomberg : Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models Saudi Arabia's artificial intelligence company Humain has built a national AI platform based on an open model from Chinese lab MiniMax Group Inc.",
-        "prnewswire.com: HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node prnewswire.com"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260903/p31#a260903p31"
-        },
-        {
-          "d": "prnewswire.com",
-          "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSnpUMG56YmRuRDdBbWNoWE5kVGpvcDdmTVFoOS1mMk1qbXBTN0plNG1ranJpajg4cGRKNXBYLUl3SUs0SEZLY0VwcWUtT2FkRS1FX2RUV25aRks5NXE3MmJ2cGlabzhmNWdYMTVXRk5NY0RXVFZ0cVdoWWhBd1FsZmhYdk9mR3pud2s4bHZmWVd3bFp2UlI4QktXQ0FCcWhPUXpwNXB3Vkx5dmdrcm8zdnVMMzdaalZfUEc5NVJ6OE9DZjJQS2ZEbUlFUEQtMEJqNXdhRlhndU1ucUwyb0Zjdlh1bVh5RUdpYXViMHlkU2xxYjduOEVQSnZ4TkFJdw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
-        "HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node"
       ]
     },
     {
@@ -250,6 +276,38 @@
       ]
     },
     {
+      "cat": "research",
+      "signal": 33,
+      "sources": 2,
+      "ts": "2026-09-03T15:28:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
+      "s": "Bloomberg : Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models Saudi Arabia's artificial intellige",
+      "b": [
+        "techmeme.com: Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
+        "prnewswire.com: HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models Saudi Arabia's artificial intelligence company Humain has built a national AI platform based on an open model from Chinese lab MiniMax Group Inc.",
+        "prnewswire.com: HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node prnewswire.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260903/p31#a260903p31"
+        },
+        {
+          "d": "prnewswire.com",
+          "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSnpUMG56YmRuRDdBbWNoWE5kVGpvcDdmTVFoOS1mMk1qbXBTN0plNG1ranJpajg4cGRKNXBYLUl3SUs0SEZLY0VwcWUtT2FkRS1FX2RUV25aRks5NXE3MmJ2cGlabzhmNWdYMTVXRk5NY0RXVFZ0cVdoWWhBd1FsZmhYdk9mR3pud2s4bHZmWVd3bFp2UlI4QktXQ0FCcWhPUXpwNXB3Vkx5dmdrcm8zdnVMMzdaalZfUEc5NVJ6OE9DZjJQS2ZEbUlFUEQtMEJqNXdhRlhndU1ucUwyb0Zjdlh1bVh5RUdpYXViMHlkU2xxYjduOEVQSnZ4TkFJdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
+        "HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node"
+      ]
+    },
+    {
       "cat": "funding",
       "signal": 30,
       "sources": 3,
@@ -268,12 +326,12 @@
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSThtWjVialdTQU9iRk91MkFkQzIwWXhoQmhST1JUZURTN0VGTnl2VnFvUWc5MG1OekxGZlR1S3Y2QUo4NzM0TC1UR0prZndvTjZqbmtyRlRpVGVRTm1rTkt4ckY3QVVab01KakVzYWN5SzNaNXNzUllsWGpOZUhNaENwN2plOS1ZQTMwdFY4NHM0VGZQYlhETVk5NWdwcnRjdUpobFgwTV9JaVE?oc=5"
-        },
-        {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWlBQdVNKQTh3amR6OVc5UWtpRUhKa0RBUUZIZWZfSnJvcFZkeFN3VEpiTmRxcDNpZUNVMmY4dk1NSUV2ZmQta25Bd0thc3JmUlNuSXE0NXlNSmhJSHl1b1U1dnpzbUg0UnA2dkdrdlE3QnZiOWE4UVRRTXhrTzlfb3VJTXdWcEZtWmFMYmFoLUxVZWQya1E?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSThtWjVialdTQU9iRk91MkFkQzIwWXhoQmhST1JUZURTN0VGTnl2VnFvUWc5MG1OekxGZlR1S3Y2QUo4NzM0TC1UR0prZndvTjZqbmtyRlRpVGVRTm1rTkt4ckY3QVVab01KakVzYWN5SzNaNXNzUllsWGpOZUhNaENwN2plOS1ZQTMwdFY4NHM0VGZQYlhETVk5NWdwcnRjdUpobFgwTV9JaVE?oc=5"
         },
         {
           "d": "theglobeandmail.com",
@@ -284,38 +342,6 @@
         "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
         "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
         "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 29,
-      "sources": 2,
-      "ts": "2026-09-03T15:30:54.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents",
-      "s": "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents The Washington Post",
-      "b": [
-        "washingtonpost.com: Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents",
-        "gizmodo.com: Bernie Sanders Calls for Global Ban on AI ‘Superintelligence’"
-      ],
-      "body": [
-        "washingtonpost.com: Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents The Washington Post",
-        "gizmodo.com: Bernie Sanders Calls for Global Ban on AI ‘Superintelligence’ Gizmodo"
-      ],
-      "l": [
-        {
-          "d": "washingtonpost.com",
-          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUM2S0d4bnRiVmNRdE5JaHRVb0xCYXFTWkh1dnZPSWI1a0VoMEtlNzRZSzJHZG1PNjZobnBzV2licHEwVWg0RkdIenFEeV96eDRWYTZzXzhXZ2pUZWRPRHhBdENmRnIwNEtnUVZNekE5djd4TzZ6NnBQRHhkaFdUT3VTOWphUHdzWFR4d1NLc0tzNmZ4MDRPWFduRXZMeWhHYmpndGRhYm10S2sweEt3VE5oeGxtdmUxQnJMelhtbzlzZTVZZklV?oc=5"
-        },
-        {
-          "d": "gizmodo.com",
-          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1Zta19PQzQ2M1dlN0ZVTXJhczBCODJOTkhOa2puNmN5bkVURjYxMjJEU3ZseGRSMXBQc2FzYkdYbVQ4Z2hBSXBDckRfMHFheVdsdVdfRzZLT3dzRmtiQ3N6NmZ6RmRaNF9SelJ4SVdNY2sxaUc2cGJfUTRMenIzXzJmS2kxZklJOEJwTTlQU3hmeEF2?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents",
-        "Bernie Sanders Calls for Global Ban on AI ‘Superintelligence’"
       ]
     },
     {
@@ -333,8 +359,8 @@
       "body": [],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/introducing-weathernext-3/"
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/"
         }
       ],
       "srcTitles": [
@@ -376,6 +402,38 @@
         "Artificial intelligence (AI) In Hospital Operation Market Trends And Forecast Analysis Reveal Strong Long-Term Potential",
         "Artificial Intelligence (AI) Personal Finance And Wealth Management Platform Market Size Cross $29.81 Billion By 2030",
         "Artificial Intelligence (AI)-Based Workflow Automation In Hospitals Market Revenue To Cross $11.4 Billion By 2030"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 25,
+      "sources": 2,
+      "ts": "2026-09-03T15:30:54.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents",
+      "s": "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents The Washington Post",
+      "b": [
+        "washingtonpost.com: Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents",
+        "gizmodo.com: Bernie Sanders Calls for Global Ban on AI ‘Superintelligence’"
+      ],
+      "body": [
+        "washingtonpost.com: Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents The Washington Post",
+        "gizmodo.com: Bernie Sanders Calls for Global Ban on AI ‘Superintelligence’ Gizmodo"
+      ],
+      "l": [
+        {
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUM2S0d4bnRiVmNRdE5JaHRVb0xCYXFTWkh1dnZPSWI1a0VoMEtlNzRZSzJHZG1PNjZobnBzV2licHEwVWg0RkdIenFEeV96eDRWYTZzXzhXZ2pUZWRPRHhBdENmRnIwNEtnUVZNekE5djd4TzZ6NnBQRHhkaFdUT3VTOWphUHdzWFR4d1NLc0tzNmZ4MDRPWFduRXZMeWhHYmpndGRhYm10S2sweEt3VE5oeGxtdmUxQnJMelhtbzlzZTVZZklV?oc=5"
+        },
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb1Zta19PQzQ2M1dlN0ZVTXJhczBCODJOTkhOa2puNmN5bkVURjYxMjJEU3ZseGRSMXBQc2FzYkdYbVQ4Z2hBSXBDckRfMHFheVdsdVdfRzZLT3dzRmtiQ3N6NmZ6RmRaNF9SelJ4SVdNY2sxaUc2cGJfUTRMenIzXzJmS2kxZklJOEJwTTlQU3hmeEF2?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sanders proposes ban on ‘artificial superintelligence’ after rogue AI incidents",
+        "Bernie Sanders Calls for Global Ban on AI ‘Superintelligence’"
       ]
     },
     {
