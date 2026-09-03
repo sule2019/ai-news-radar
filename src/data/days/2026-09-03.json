@@ -49,7 +49,7 @@
     {
       "cat": "funding",
       "signal": 84,
-      "sources": 14,
+      "sources": 13,
       "ts": "2026-09-03T12:09:09.000Z",
       "writtenSources": 13,
       "draft": true,
@@ -84,7 +84,7 @@
           "u": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
         },
         {
-          "d": "+10"
+          "d": "+9"
         }
       ],
       "srcTitles": [
@@ -127,38 +127,6 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 57,
-      "sources": 2,
-      "ts": "2026-09-03T16:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Nvidia launches free tool that links idle computers into a personal AI data center",
-      "s": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious ",
-      "b": [
-        "theverge.com: Nvidia launches free tool that links idle computers into a personal AI data center",
-        "techmeme.com: Nvidia launches Personal AI Router (PAIR), a free tool that distributes local AI inference workloads across compatible computers on a network, in beta (Antonio G. Di Benedetto/The Verge)"
-      ],
-      "body": [
-        "theverge.com: Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software [ ]",
-        "techmeme.com: Antonio G. Di Benedetto / The Verge : Nvidia launches Personal AI Router (PAIR), a free tool that distributes local AI inference workloads across compatible computers on a network, in beta PAIR is designed to get your desktop and laptop working together on local AI tasks when not in use."
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260903/p27#a260903p27"
-        }
-      ],
-      "srcTitles": [
-        "Nvidia launches free tool that links idle computers into a personal AI data center",
-        "Nvidia launches Personal AI Router (PAIR), a free tool that distributes local AI inference workloads across compatible computers on a network, in beta (Antonio G. Di Benedetto/The Verge)"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 56,
       "sources": 2,
@@ -192,6 +160,38 @@
         "ChatGPT, Grok, and Claude all went down at the same time",
         "ChatGPT, Grok, and Claude all went down at the same time",
         "ChatGPT, Claude and Gemini are all down as thousands of users experience outages"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 53,
+      "sources": 2,
+      "ts": "2026-09-03T16:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Nvidia launches free tool that links idle computers into a personal AI data center",
+      "s": "Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious ",
+      "b": [
+        "theverge.com: Nvidia launches free tool that links idle computers into a personal AI data center",
+        "techmeme.com: Nvidia launches Personal AI Router (PAIR), a free tool that distributes local AI inference workloads across compatible computers on a network, in beta (Antonio G. Di Benedetto/The Verge)"
+      ],
+      "body": [
+        "theverge.com: Nvidia is announcing its new Personal AI Router (PAIR), a free tool that syncs up your home computers for tackling local AI inference tasks with tools like Ollama and LM Studio. Let's get the obvious thing out of the way, despite what its name might imply: PAIR is not a hardware router. It's open-source software [ ]",
+        "techmeme.com: Antonio G. Di Benedetto / The Verge : Nvidia launches Personal AI Router (PAIR), a free tool that distributes local AI inference workloads across compatible computers on a network, in beta PAIR is designed to get your desktop and laptop working together on local AI tasks when not in use."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/989435/nvidia-pair-personal-ai-router-home-local-llm-compute-tool-rtx-macbook"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260903/p27#a260903p27"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia launches free tool that links idle computers into a personal AI data center",
+        "Nvidia launches Personal AI Router (PAIR), a free tool that distributes local AI inference workloads across compatible computers on a network, in beta (Antonio G. Di Benedetto/The Verge)"
       ]
     },
     {
@@ -230,38 +230,6 @@
         "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock",
         "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
         "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 38,
-      "sources": 2,
-      "ts": "2026-09-03T01:32:02.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-      "s": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
-      "b": [
-        "wired.com: Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-        "techmeme.com: Sources: Meta adjusts employee review language around \"AI-driven impact\" and token usage, easing off on tokenmaxxing, while promoting the use of AI agent Hatch (Wired)"
-      ],
-      "body": [
-        "wired.com: The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
-        "techmeme.com: Wired : Sources: Meta adjusts employee review language around AI-driven impact and token usage, easing off on tokenmaxxing, while promoting the use of AI agent Hatch The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch"
-      ],
-      "l": [
-        {
-          "d": "wired.com",
-          "u": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260902/p49#a260902p49"
-        }
-      ],
-      "srcTitles": [
-        "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
-        "Sources: Meta adjusts employee review language around \"AI-driven impact\" and token usage, easing off on tokenmaxxing, while promoting the use of AI agent Hatch (Wired)"
       ]
     },
     {
@@ -328,8 +296,40 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-09-03T01:32:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "s": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+      "b": [
+        "wired.com: Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+        "techmeme.com: Sources: Meta adjusts employee review language around \"AI-driven impact\" and token usage, easing off on tokenmaxxing, while promoting the use of AI agent Hatch (Wired)"
+      ],
+      "body": [
+        "wired.com: The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+        "techmeme.com: Wired : Sources: Meta adjusts employee review language around AI-driven impact and token usage, easing off on tokenmaxxing, while promoting the use of AI agent Hatch The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260902/p49#a260902p49"
+        }
+      ],
+      "srcTitles": [
+        "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+        "Sources: Meta adjusts employee review language around \"AI-driven impact\" and token usage, easing off on tokenmaxxing, while promoting the use of AI agent Hatch (Wired)"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 32,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-09-03T19:44:15.000Z",
       "writtenSources": 2,
@@ -357,6 +357,38 @@
       "srcTitles": [
         "Artificial intelligence and building design",
         "Top Tech Expert: Elon Musk Is Quietly Building Artificial Intelligence in Space. One Small Company May Be the Key."
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-03T18:44:33.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "LAUSD Adopts Moratorium on Student AI Use, Another Big Move to Limit Tech Use",
+      "s": "LAUSD Adopts Moratorium on Student AI Use, Another Big Move to Limit Tech Use Education Week",
+      "b": [
+        "edweek.org: LAUSD Adopts Moratorium on Student AI Use, Another Big Move to Limit Tech Use",
+        "latimes.com: LAUSD adopts moratorium on student AI use, another big move to limit classroom computer time"
+      ],
+      "body": [
+        "edweek.org: LAUSD Adopts Moratorium on Student AI Use, Another Big Move to Limit Tech Use Education Week",
+        "latimes.com: LAUSD adopts moratorium on student AI use, another big move to limit classroom computer time Los Angeles Times"
+      ],
+      "l": [
+        {
+          "d": "edweek.org",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDlCV2VfRlZINzdjZ2ZXSU5YRW45UG44UUJFbDR4RE13dkJSbnBacGVTSXpkck96cUR2LVJ0bGplZW10SW1jbGZ3bXlFQTRBTEpzZmJaTnZqbk11ekd3Wk9oOFZDaFViX2xpb0dHcUhxbzBQMmlkQlozT1dockZHaVRIajJwX0J4bVJNVXJ0SmE0dl9weTlxY3A0bnFrZWxfcmptVVdVLWVFSlJWMjFfWjRGdkJNTWxjZVE?oc=5"
+        },
+        {
+          "d": "latimes.com",
+          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjFKaVptZ3ZTXzZXT1hoV3BTTE5wZi1iWU8tTnlWZGdmS2d3Z0FBWU00ZU5fNVNHTjlJdlMtTWhySi1KVkJQNUJrV3FyYzF2T3hOSWlqR0lEckRjWi1ncTREdFF6bzhBRWpkVFpNNExtWEdGRWMtQUxWVGp6UGpVdHZidGhQZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "LAUSD Adopts Moratorium on Student AI Use, Another Big Move to Limit Tech Use",
+        "LAUSD adopts moratorium on student AI use, another big move to limit classroom computer time"
       ]
     },
     {
@@ -481,7 +513,7 @@
     },
     {
       "cat": "policy",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-09-03T15:30:54.000Z",
       "writtenSources": 2,
