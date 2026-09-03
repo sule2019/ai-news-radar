@@ -1,4 +1,37 @@
 {
   "date": "2026-09-03",
-  "stories": []
+  "stories": [
+    {
+      "cat": "policy",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-03T01:32:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+      "s": "The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+      "b": [
+        "wired.com: Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+        "techmeme.com: Sources: Meta adjusts employee review language around \"AI-driven impact\" and token usage, easing off on tokenmaxxing, while promoting the use of AI agent Hatch (Wired)"
+      ],
+      "body": [
+        "wired.com: The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch, its most advanced AI project yet.",
+        "techmeme.com: Wired : Sources: Meta adjusts employee review language around AI-driven impact and token usage, easing off on tokenmaxxing, while promoting the use of AI agent Hatch The company is reducing pressure on workers to use artificial intelligence tools while encouraging them to experiment with Hatch"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/meta-pushes-its-new-ai-agent-on-employees-but-eases-off-on-tokenmaxxing/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260902/p49#a260902p49"
+        }
+      ],
+      "srcTitles": [
+        "Meta Pushes Its New AI Agent on Employees—but Eases Off on Tokenmaxxing",
+        "Sources: Meta adjusts employee review language around \"AI-driven impact\" and token usage, easing off on tokenmaxxing, while promoting the use of AI agent Hatch (Wired)"
+      ]
+    }
+  ]
 }
