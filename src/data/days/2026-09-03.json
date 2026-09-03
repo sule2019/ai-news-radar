@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 88,
-      "sources": 10,
+      "signal": 89,
+      "sources": 11,
       "ts": "2026-09-03T18:06:24.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -36,7 +36,7 @@
           "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbEhVLUYyaUZ3dDB0UGpFemVFREl1RkE0Q2FldS0zQmNQVVNudlNULXg3RXlVdjBId2lKSUJSdGllakNFNzJTMUstb2R1Nm1NQ2R6UEQxZkw1dzRoRG5NLWE0WlJWVGw3Y3VWUkQ3WHNOd1h3YndNZ0FNQ2NmX0JHZnBjakRjemhjWEtvN1RnbUdRdWtSUGpWTkRnTG1ncmQ3Mk5fTmEycGgxemROWDBMNzZaYnlyUVpsYXVLNnNpMHJVV2s?oc=5"
         },
         {
-          "d": "+6"
+          "d": "+7"
         }
       ],
       "srcTitles": [
@@ -48,8 +48,8 @@
     },
     {
       "cat": "funding",
-      "signal": 84,
-      "sources": 13,
+      "signal": 83,
+      "sources": 12,
       "ts": "2026-09-03T12:09:09.000Z",
       "writtenSources": 13,
       "draft": true,
@@ -84,7 +84,7 @@
           "u": "https://arstechnica.com/ai/2026/09/nvidia-buys-hugging-face-the-github-of-ai-for-13-billion/"
         },
         {
-          "d": "+9"
+          "d": "+8"
         }
       ],
       "srcTitles": [
@@ -163,8 +163,46 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 52,
+      "sources": 3,
+      "ts": "2026-09-03T08:52:12.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
+      "s": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now fool.com",
+      "b": [
+        "fool.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
+        "theglobeandmail.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now"
+      ],
+      "body": [
+        "fool.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now fool.com",
+        "theglobeandmail.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGZTSDc5SjM0RUNMUzRtejZGXzZXVmtMTlBGUmZZS2JjanAyYV94OFhaQmRwZmVxZW9BQ0lCQ2VUTm5uaV8zZVhKYnRwZ3JfaWduNHk2eDFBLVIzRnAydkdvbXZjNXdCY2VqY2tNVmxCeFZyN0xseXBhZlF3aDNvQmJkMk5KYXNyWmxQdkpENV9VVzlxZHNaYw?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSThtWjVialdTQU9iRk91MkFkQzIwWXhoQmhST1JUZURTN0VGTnl2VnFvUWc5MG1OekxGZlR1S3Y2QUo4NzM0TC1UR0prZndvTjZqbmtyRlRpVGVRTm1rTkt4ckY3QVVab01KakVzYWN5SzNaNXNzUllsWGpOZUhNaENwN2plOS1ZQTMwdFY4NHM0VGZQYlhETVk5NWdwcnRjdUpobFgwTV9JaVE?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVXNFRm5mSXc5ZW1fWU84ZEYyQ3RlSGZwUVBVdFZUcDVYSW5Ya090UnNYRmx0R2x0Z0Nxek5MRzRHZi1uZ1FRLUpRbXhaaXdIRHdYbXhWUk9vSnE3UWpYcU1ZT0FGWllwYnJmb291Tzlxa21HU0tyZnNaVTBCVWtaWWlFX2ExYzh5UEZGTERWQVRRZlBiSU1kY0RtbnNFbHNfM0JDODU4N3kyMzhkZUdjMEdkcmdUOGFZbm5XMGR0WHBJMGRhbE9PSWR5QjdzQ1ZneVFVN0xVdXZFaGhFcmQzMVd2OE5GbVJkM1BFM09mNzRjdG0xbXZyNVJ1UGVXcDg4d2VZNHpCVGhJd1B2bVVB?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock",
+        "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
+        "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
+        "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 53,
+      "signal": 49,
       "sources": 2,
       "ts": "2026-09-03T16:00:00.000Z",
       "writtenSources": 2,
@@ -192,76 +230,6 @@
       "srcTitles": [
         "Nvidia launches free tool that links idle computers into a personal AI data center",
         "Nvidia launches Personal AI Router (PAIR), a free tool that distributes local AI inference workloads across compatible computers on a network, in beta (Antonio G. Di Benedetto/The Verge)"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 52,
-      "sources": 3,
-      "ts": "2026-09-03T08:52:12.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
-      "s": "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now fool.com",
-      "b": [
-        "fool.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
-        "theglobeandmail.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now"
-      ],
-      "body": [
-        "fool.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now fool.com",
-        "theglobeandmail.com: 3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now The Globe and Mail"
-      ],
-      "l": [
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSThtWjVialdTQU9iRk91MkFkQzIwWXhoQmhST1JUZURTN0VGTnl2VnFvUWc5MG1OekxGZlR1S3Y2QUo4NzM0TC1UR0prZndvTjZqbmtyRlRpVGVRTm1rTkt4ckY3QVVab01KakVzYWN5SzNaNXNzUllsWGpOZUhNaENwN2plOS1ZQTMwdFY4NHM0VGZQYlhETVk5NWdwcnRjdUpobFgwTV9JaVE?oc=5"
-        },
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGZTSDc5SjM0RUNMUzRtejZGXzZXVmtMTlBGUmZZS2JjanAyYV94OFhaQmRwZmVxZW9BQ0lCQ2VUTm5uaV8zZVhKYnRwZ3JfaWduNHk2eDFBLVIzRnAydkdvbXZjNXdCY2VqY2tNVmxCeFZyN0xseXBhZlF3aDNvQmJkMk5KYXNyWmxQdkpENV9VVzlxZHNaYw?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPVXNFRm5mSXc5ZW1fWU84ZEYyQ3RlSGZwUVBVdFZUcDVYSW5Ya090UnNYRmx0R2x0Z0Nxek5MRzRHZi1uZ1FRLUpRbXhaaXdIRHdYbXhWUk9vSnE3UWpYcU1ZT0FGWllwYnJmb291Tzlxa21HU0tyZnNaVTBCVWtaWWlFX2ExYzh5UEZGTERWQVRRZlBiSU1kY0RtbnNFbHNfM0JDODU4N3kyMzhkZUdjMEdkcmdUOGFZbm5XMGR0WHBJMGRhbE9PSWR5QjdzQ1ZneVFVN0xVdXZFaGhFcmQzMVd2OE5GbVJkM1BFM09mNzRjdG0xbXZyNVJ1UGVXcDg4d2VZNHpCVGhJd1B2bVVB?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
-        "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock",
-        "3 Millionaire-Maker Artificial Intelligence (AI) Stocks to Buy Now",
-        "Amazon vs. Microsoft: 1 Key Metric Identifies the Superior Artificial Intelligence (AI) Cloud Stock"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 34,
-      "sources": 2,
-      "ts": "2026-09-03T15:28:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
-      "s": "Bloomberg : Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models Saudi Arabia's artificial intellige",
-      "b": [
-        "techmeme.com: Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
-        "prnewswire.com: HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node"
-      ],
-      "body": [
-        "techmeme.com: Bloomberg : Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models Saudi Arabia's artificial intelligence company Humain has built a national AI platform based on an open model from Chinese lab MiniMax Group Inc.",
-        "prnewswire.com: HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node prnewswire.com"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260903/p31#a260903p31"
-        },
-        {
-          "d": "prnewswire.com",
-          "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSnpUMG56YmRuRDdBbWNoWE5kVGpvcDdmTVFoOS1mMk1qbXBTN0plNG1ranJpajg4cGRKNXBYLUl3SUs0SEZLY0VwcWUtT2FkRS1FX2RUV25aRks5NXE3MmJ2cGlabzhmNWdYMTVXRk5NY0RXVFZ0cVdoWWhBd1FsZmhYdk9mR3pud2s4bHZmWVd3bFp2UlI4QktXQ0FCcWhPUXpwNXB3Vkx5dmdrcm8zdnVMMzdaalZfUEc5NVJ6OE9DZjJQS2ZEbUlFUEQtMEJqNXdhRlhndU1ucUwyb0Zjdlh1bVh5RUdpYXViMHlkU2xxYjduOEVQSnZ4TkFJdw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
-        "HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node"
       ]
     },
     {
@@ -296,8 +264,40 @@
       ]
     },
     {
+      "cat": "research",
+      "signal": 30,
+      "sources": 2,
+      "ts": "2026-09-03T15:28:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
+      "s": "Bloomberg : Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models Saudi Arabia's artificial intellige",
+      "b": [
+        "techmeme.com: Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
+        "prnewswire.com: HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models Saudi Arabia's artificial intelligence company Humain has built a national AI platform based on an open model from Chinese lab MiniMax Group Inc.",
+        "prnewswire.com: HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node prnewswire.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260903/p31#a260903p31"
+        },
+        {
+          "d": "prnewswire.com",
+          "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPSnpUMG56YmRuRDdBbWNoWE5kVGpvcDdmTVFoOS1mMk1qbXBTN0plNG1ranJpajg4cGRKNXBYLUl3SUs0SEZLY0VwcWUtT2FkRS1FX2RUV25aRks5NXE3MmJ2cGlabzhmNWdYMTVXRk5NY0RXVFZ0cVdoWWhBd1FsZmhYdk9mR3pud2s4bHZmWVd3bFp2UlI4QktXQ0FCcWhPUXpwNXB3Vkx5dmdrcm8zdnVMMzdaalZfUEc5NVJ6OE9DZjJQS2ZEbUlFUEQtMEJqNXdhRlhndU1ucUwyb0Zjdlh1bVh5RUdpYXViMHlkU2xxYjduOEVQSnZ4TkFJdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Humain launches humain-m3, an Arabic-language model developed with MiniMax, amid controversy among US allies over sovereign AI built with Chinese models (Bloomberg)",
+        "HUMAIN Unveils humain-m3, a Frontier Arabic Language Model Developed by MiniMax, in Research Preview on HUMAIN Node"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 34,
+      "signal": 30,
       "sources": 2,
       "ts": "2026-09-03T01:32:02.000Z",
       "writtenSources": 2,
@@ -331,38 +331,6 @@
       "cat": "models",
       "signal": 29,
       "sources": 2,
-      "ts": "2026-09-03T19:44:15.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Artificial intelligence and building design",
-      "s": "Artificial intelligence and building design Fifty Plus Advocate",
-      "b": [
-        "fiftyplusadvocate.com: Artificial intelligence and building design",
-        "manilatimes.net: Top Tech Expert: Elon Musk Is Quietly Building Artificial Intelligence in Space. One Small Company May Be the Key."
-      ],
-      "body": [
-        "fiftyplusadvocate.com: Artificial intelligence and building design Fifty Plus Advocate",
-        "manilatimes.net: Top Tech Expert: Elon Musk Is Quietly Building Artificial Intelligence in Space. One Small Company May Be the Key. The Manila Times"
-      ],
-      "l": [
-        {
-          "d": "fiftyplusadvocate.com",
-          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDhicF9rdXZRSXNpZGlOcUk4Q3huVVBVamVUVlEtckwxaWtfV2FTejVkT2pfcjM4U0VDRTAzQzJCNWpGLVJadUwyTGdzT2g2ckFDWjIwVFE1UEdMdFUzSjBkMWdkNGJYXzNPVjd6bVV5bmM5TGVlTnZ6TF8wSWNHS0NZQkVDdmIwOGNvOWZkZmI4QlU?oc=5"
-        },
-        {
-          "d": "manilatimes.net",
-          "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORTFMRlRRcDBfdGlQVEFzLVJIRUh3alNJdFFMczdGc0E4cm9IUFEtbzJmeFhLSFh2S1ZiTjBIWTZ3Rmo2c19QMVNVdktyeEIwcW5sZF9jdXFKeFlYWWZFX05xTURYUnI4Y1pFOHJvZS1Vci0xdmdRWUFTQlhuNzBfRjlmQkwzS2ZLaHVpV1hUREd5Q1gzWmhyUmR2ZjdvVHpEcnVtd1FFdHdoV0Y1cUJfWVQza3RSQkJpQnRZYnREUTZrXzRmRzhRMXNIWkFCQ0toZnpLSklaWUpjM2V6MFBVR29JU3U1U3BCOGhUdzExNFdFUHJTSmNvZ2NIT3NSTWRvbmtGb1RpdEY2eXhldC1mb1VFONIBmAJBVV95cUxNc1Bab2tOa3JnWTN5aTVtU0lNMmp5OU1ZZUp4ZXFMeW1IWkwwXy01REpyNFJOZkpmRjg1NmFXcmozUXFLb0Rua2dRZ3o4U0tFaGpTUDNZRDNPbUpQZ05NNnd6ZUhaVGozZU10VjhtM2xJRENsNG5SWTZUSVZEdzFxY0ZFRHk0bmZkcU14NlhJd2FKcUhvODNibnVDSEpXSDR3cmFNbHVmOWg3RGpydloxTVl1RG44VlVrVE9OX2h6OElOSWFKdC1qYktFa0NUeTNkbE9iSUllLXkwdVpZT0htOENHbXQxa0llZFR6M3VYcXJXcjA5OUk0Rng1MXhITW44RDl0SkVMOVB0d0MyYWVGTmFQdWRDX0pz?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Artificial intelligence and building design",
-        "Top Tech Expert: Elon Musk Is Quietly Building Artificial Intelligence in Space. One Small Company May Be the Key."
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 29,
-      "sources": 2,
       "ts": "2026-09-03T18:44:33.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -378,17 +346,17 @@
       ],
       "l": [
         {
-          "d": "edweek.org",
-          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDlCV2VfRlZINzdjZ2ZXSU5YRW45UG44UUJFbDR4RE13dkJSbnBacGVTSXpkck96cUR2LVJ0bGplZW10SW1jbGZ3bXlFQTRBTEpzZmJaTnZqbk11ekd3Wk9oOFZDaFViX2xpb0dHcUhxbzBQMmlkQlozT1dockZHaVRIajJwX0J4bVJNVXJ0SmE0dl9weTlxY3A0bnFrZWxfcmptVVdVLWVFSlJWMjFfWjRGdkJNTWxjZVE?oc=5"
-        },
-        {
           "d": "latimes.com",
           "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQjFKaVptZ3ZTXzZXT1hoV3BTTE5wZi1iWU8tTnlWZGdmS2d3Z0FBWU00ZU5fNVNHTjlJdlMtTWhySi1KVkJQNUJrV3FyYzF2T3hOSWlqR0lEckRjWi1ncTREdFF6bzhBRWpkVFpNNExtWEdGRWMtQUxWVGp6UGpVdHZidGhQZw?oc=5"
+        },
+        {
+          "d": "edweek.org",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUDlCV2VfRlZINzdjZ2ZXSU5YRW45UG44UUJFbDR4RE13dkJSbnBacGVTSXpkck96cUR2LVJ0bGplZW10SW1jbGZ3bXlFQTRBTEpzZmJaTnZqbk11ekd3Wk9oOFZDaFViX2xpb0dHcUhxbzBQMmlkQlozT1dockZHaVRIajJwX0J4bVJNVXJ0SmE0dl9weTlxY3A0bnFrZWxfcmptVVdVLWVFSlJWMjFfWjRGdkJNTWxjZVE?oc=5"
         }
       ],
       "srcTitles": [
-        "LAUSD Adopts Moratorium on Student AI Use, Another Big Move to Limit Tech Use",
-        "LAUSD adopts moratorium on student AI use, another big move to limit classroom computer time"
+        "LAUSD adopts moratorium on student AI use, another big move to limit classroom computer time",
+        "LAUSD Adopts Moratorium on Student AI Use, Another Big Move to Limit Tech Use"
       ]
     },
     {
@@ -465,6 +433,38 @@
     },
     {
       "cat": "models",
+      "signal": 25,
+      "sources": 2,
+      "ts": "2026-09-03T19:44:15.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial intelligence and building design",
+      "s": "Artificial intelligence and building design Fifty Plus Advocate",
+      "b": [
+        "fiftyplusadvocate.com: Artificial intelligence and building design",
+        "manilatimes.net: Top Tech Expert: Elon Musk Is Quietly Building Artificial Intelligence in Space. One Small Company May Be the Key."
+      ],
+      "body": [
+        "fiftyplusadvocate.com: Artificial intelligence and building design Fifty Plus Advocate",
+        "manilatimes.net: Top Tech Expert: Elon Musk Is Quietly Building Artificial Intelligence in Space. One Small Company May Be the Key. The Manila Times"
+      ],
+      "l": [
+        {
+          "d": "fiftyplusadvocate.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUDhicF9rdXZRSXNpZGlOcUk4Q3huVVBVamVUVlEtckwxaWtfV2FTejVkT2pfcjM4U0VDRTAzQzJCNWpGLVJadUwyTGdzT2g2ckFDWjIwVFE1UEdMdFUzSjBkMWdkNGJYXzNPVjd6bVV5bmM5TGVlTnZ6TF8wSWNHS0NZQkVDdmIwOGNvOWZkZmI4QlU?oc=5"
+        },
+        {
+          "d": "manilatimes.net",
+          "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORTFMRlRRcDBfdGlQVEFzLVJIRUh3alNJdFFMczdGc0E4cm9IUFEtbzJmeFhLSFh2S1ZiTjBIWTZ3Rmo2c19QMVNVdktyeEIwcW5sZF9jdXFKeFlYWWZFX05xTURYUnI4Y1pFOHJvZS1Vci0xdmdRWUFTQlhuNzBfRjlmQkwzS2ZLaHVpV1hUREd5Q1gzWmhyUmR2ZjdvVHpEcnVtd1FFdHdoV0Y1cUJfWVQza3RSQkJpQnRZYnREUTZrXzRmRzhRMXNIWkFCQ0toZnpLSklaWUpjM2V6MFBVR29JU3U1U3BCOGhUdzExNFdFUHJTSmNvZ2NIT3NSTWRvbmtGb1RpdEY2eXhldC1mb1VFONIBmAJBVV95cUxNc1Bab2tOa3JnWTN5aTVtU0lNMmp5OU1ZZUp4ZXFMeW1IWkwwXy01REpyNFJOZkpmRjg1NmFXcmozUXFLb0Rua2dRZ3o4U0tFaGpTUDNZRDNPbUpQZ05NNnd6ZUhaVGozZU10VjhtM2xJRENsNG5SWTZUSVZEdzFxY0ZFRHk0bmZkcU14NlhJd2FKcUhvODNibnVDSEpXSDR3cmFNbHVmOWg3RGpydloxTVl1RG44VlVrVE9OX2h6OElOSWFKdC1qYktFa0NUeTNkbE9iSUllLXkwdVpZT0htOENHbXQxa0llZFR6M3VYcXJXcjA5OUk0Rng1MXhITW44RDl0SkVMOVB0d0MyYWVGTmFQdWRDX0pz?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial intelligence and building design",
+        "Top Tech Expert: Elon Musk Is Quietly Building Artificial Intelligence in Space. One Small Company May Be the Key."
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 24,
       "sources": 1,
       "ts": "2026-09-03T15:02:08.000Z",
@@ -513,7 +513,7 @@
     },
     {
       "cat": "policy",
-      "signal": 17,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-09-03T15:30:54.000Z",
       "writtenSources": 2,
