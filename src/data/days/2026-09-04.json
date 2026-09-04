@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 47,
       "sources": 3,
       "ts": "2026-09-04T00:02:47.000Z",
       "writtenSources": 3,
@@ -44,7 +44,7 @@
     },
     {
       "cat": "models",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-09-04T13:55:44.000Z",
       "writtenSources": 2,
@@ -76,7 +76,7 @@
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-09-04T17:05:00.000Z",
       "writtenSources": 2,
@@ -104,6 +104,31 @@
       "srcTitles": [
         "MMRO Earns URAC Artificial Intelligence in Health Care Accreditation",
         "MMRO Receives URAC Accreditation for Artificial Intelligence in Health Care"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-04T18:39:19.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Architecting memory and storage in the AI era",
+      "s": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
+      "b": [
+        "technologyreview.com: Architecting memory and storage in the AI era"
+      ],
+      "body": [
+        "technologyreview.com: The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while also supporting an increasingly intelligent edge of IoT and consumer devices. However, in this inference-driven landscape, every delay, bottleneck, or wasted watt directly affects human outcomes and operating costs. This shift changes what infrastructure must deliver. Performance, latency, memory bandwidth, storage throughput, and networking cannot be optimized in silos. Inference workloads are continuous, geographically distributed, and highly sensitive to response time, requiring systems designed for scale, resilience, and efficiency from the start. “We tend to think of AI as a single workload, and it’s not. It’s thousands, it’s millions, it’s billions of different workloads,” says Jim McGregor, founder and principal analyst, Tirias Research. AI inference changes the optimization problem from one of raw compute to coordinated infrastructure—memory, storage, and networking. For business leaders, the priority is clear: AI infrastructure decisions must balance cost, flexibility, and future readiness. The winners will be organizations that improve performance per watt, reduce environmental footprint, and remove memory and storage bottlenecks before they limit growth. AI inference requires a new architectural approach Systems for AI need to be rearchitected because shoehorning modern AI systems into legacy infrastructure limits AI’s transformative potential. Purpose-built architectures are essential to realize the true value of AI, from accelerating scientific discovery to creating truly autonomous digital agents. Traditional enterprise IT has been able to rely on relatively stable"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
+        }
+      ],
+      "srcTitles": [
+        "Architecting memory and storage in the AI era"
       ]
     },
     {
