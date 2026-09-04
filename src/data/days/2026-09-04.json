@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 59,
+      "signal": 55,
       "sources": 3,
       "ts": "2026-09-04T00:02:47.000Z",
       "writtenSources": 3,
@@ -44,7 +44,7 @@
     },
     {
       "cat": "models",
-      "signal": 54,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-09-04T13:55:44.000Z",
       "writtenSources": 2,
@@ -65,13 +65,77 @@
           "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTHR3dUpIeWNSZjRRMGtRbGpLTTV0bDBZb1F1SUNlTzIxNGNFWm5DTEQ2ejc1VmZ3VTJJWFJrTVMzeW5oM1ZVZXJ0QWdJMjdPeXZHNHZfaUtmSVFETzNvT0VaQjdwSVVIYzZSY3FWbGI0U0JrT0FOU1hqb1FINUJlM1l6YjR5RE8xVXp1dGtxWGw0a2Y0eUhHb0x4ZC1TbXhyaHBfSEx0X2ZaZG5uS3dsOWpQRFRZdTZKcmRz?oc=5"
         },
         {
-          "d": "infoworld.com",
-          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTmx5MnN6b0Z3NTJkMnBEdXc2SjZaYl9DckZrd1g1T09zM0JMTXNPT0NFUGhlV1FtTk9wd3B0VGhTT0VKSE83RF9KZkFMdVRqblJQS2hMR3k4LU1RaXVLNTFBZlk5VXpmcGtTcE9uQ0ktUVFCUWxBNVRBZzhCNjI3YTZOa2poeEp2RWRlTS1vRUZHMHl5Y282anNZVTQxOF9IOGk1Qk9NUW9LN1EzQS1KSE1HbGZZdDZTZEE?oc=5"
+          "d": "computerworld.com",
+          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeXoxaTVTSzd0NjYxc0plNEdQVXo4elo1d0huazNPaUxEZHUtczlxd2xCdzdqTWQyRGZGMDFMRDFTakdfSHMtU1RCMTY0YWl1WnZXV0pqdkR2c1NkSXBJaElZZWp3aVdJUC1nSm1JWjBzeHl5elpQU1ZUaXQtbWo4a2h0dFBLRnhqTkhQY1pHd1RGSWZBYnZsMlNkUm9uaEpSZ3JJVDFGQUZub0I1RkVXV2xnZEN4emxZeGl3aDRGNA?oc=5"
         }
       ],
       "srcTitles": [
         "Nvidia lets you build your own AI clusters locally with PAIR software",
         "Nvidia lets you build your own AI clusters locally with PAIR software"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-04T17:05:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "MMRO Earns URAC Artificial Intelligence in Health Care Accreditation",
+      "s": "MMRO Earns URAC Artificial Intelligence in Health Care Accreditation uk.finance.yahoo.com",
+      "b": [
+        "uk.finance.yahoo.com: MMRO Earns URAC Artificial Intelligence in Health Care Accreditation",
+        "geneonline.com: MMRO Receives URAC Accreditation for Artificial Intelligence in Health Care"
+      ],
+      "body": [
+        "uk.finance.yahoo.com: MMRO Earns URAC Artificial Intelligence in Health Care Accreditation uk.finance.yahoo.com",
+        "geneonline.com: MMRO Receives URAC Accreditation for Artificial Intelligence in Health Care geneonline.com"
+      ],
+      "l": [
+        {
+          "d": "uk.finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWUNaTFpWRV9kSlA1bzd5TWt6M3JmMXduV1pxTjFXVDlKdXV3aUFud1dFQWdrMkNtY05SUlFWOHZhM2ZuRzhNeEVRUjRfYXVhTzJ5NFk3dGpiWW00TDRqMjMwZG1xR3RVajQ4ZnBrM2stU3k0WURfQTA2VUFVS200a2o5VllfTFFLTTZ4c25YMktIQQ?oc=5"
+        },
+        {
+          "d": "geneonline.com",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMjJUbzgxUktwNTB6RV9pRFBNNHIwY0dzeFU1akFOM1ZMbjhpQjdkREFfYTNmQTF4RTZvMjl0azlXdWEyX0dfLWlTS3lKTzQxTDhnWFlEdzh4OVJ5WktEUHlyVWtSbEE1OTNIQ3VLMzVubDRlckdPb0hidjA5ZnljQ0RVREhsbXhyWU9tS3VnbVd4bzhEN1dHUzhNWkktcHNSOHJudDR3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "MMRO Earns URAC Artificial Intelligence in Health Care Accreditation",
+        "MMRO Receives URAC Accreditation for Artificial Intelligence in Health Care"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-04T10:44:13.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Stuff AI Is Made Of: A Human Ecology of Artificial Intelligence",
+      "s": "The Stuff AI Is Made Of: A Human Ecology of Artificial Intelligence College of the Atlantic",
+      "b": [
+        "coa.edu: The Stuff AI Is Made Of: A Human Ecology of Artificial Intelligence",
+        "observatory.tec.mx: Artificial Intelligence and Human Pain - Observatory"
+      ],
+      "body": [
+        "coa.edu: The Stuff AI Is Made Of: A Human Ecology of Artificial Intelligence College of the Atlantic",
+        "observatory.tec.mx: Artificial Intelligence and Human Pain Observatory - Institute for the Future of Education"
+      ],
+      "l": [
+        {
+          "d": "coa.edu",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdjM1RVVDNFFfaGFzTnE1OXNYT1Mzc1VndlMwVE0xemE4NUhTRkc1R3c1VGc4TWZkaVU3b25ER0RwZDNvcVlraWxLWHNaNVo0TnpXZFFOU2lFVXdWTjZ5YWhEX292S0hPV1E1YWtCRGczN0ZJbWhTSDFWcGxTY21PRFQ3dmF1NWZPWHJGNHJhLUFOaDVjbmlVTg?oc=5"
+        },
+        {
+          "d": "observatory.tec.mx",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZHNMeF9XYXJrN0NjanBnejhoRTJlZFhLb2ppdG5oeENfWGowaEt3NXBsbmN5OGlZc2NYQkhhTC1BZUluc0JoT3J2enFzLVBJWXQyeXpQa0h6aG0wczdZd2lUNThnalNXTmxvWG5DR0pPVmFrTVJPdlhqMjVfZ3NNcg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The Stuff AI Is Made Of: A Human Ecology of Artificial Intelligence",
+        "Artificial Intelligence and Human Pain - Observatory"
       ]
     },
     {
