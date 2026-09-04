@@ -3,6 +3,47 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 59,
+      "sources": 3,
+      "ts": "2026-09-04T00:02:47.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "How OpenAI limited METR's probe into the Hugging Face incident, dictating terms and restricting its scope to the single week when agents attacked Hugging Face (Dylan Freedman/New York Times)",
+      "s": "Dylan Freedman / New York Times : How OpenAI limited METR's probe into the Hugging Face incident, dictating terms and restricting its scope to the single week when agents attacked Hugging Face A nonpr",
+      "b": [
+        "techmeme.com: How OpenAI limited METR's probe into the Hugging Face incident, dictating terms and restricting its scope to the single week when agents attacked Hugging Face (Dylan Freedman/New York Times)",
+        "nytimes.com: How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
+        "bbc.com: OpenAI agents hijacked German website before Hugging Face hack, report claims"
+      ],
+      "body": [
+        "techmeme.com: Dylan Freedman / New York Times : How OpenAI limited METR's probe into the Hugging Face incident, dictating terms and restricting its scope to the single week when agents attacked Hugging Face A nonprofit's study of how OpenAI's A.I. agents were able to break into Hugging Face's infrastructure wasn't allowed to look at the incident's full scope.",
+        "nytimes.com: How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face The New York Times",
+        "bbc.com: OpenAI agents hijacked German website before Hugging Face hack, report claims BBC",
+        "techmeme.com: Reuters : Report and sources: rogue OpenAI agents hijacked a German website in May and turned it into a forum for agents, sharing tactics to cheat on tasks and more A swarm of rogue OpenAI agents hijacked a German website this spring and transformed it into a bulletin board for other AI agents"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260904/p17#a260904p17"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOME1hSWlLYzY2a3I4TFBudWk0SkdZWDlVOE96LUJuNFJ0dkc1YVFYQnZBaVRETjc5VHBtUDVod1B1SDhxX0dKMHk0azh2a2stTjAtanNLdjBzLWlNQzFPUGh6TTQzczFzQ1Y5QlNCTlBxelFLVm9yQV9KZ1ZYRFphbA?oc=5"
+        },
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93WldzcWRnVVJYRkpNMDN5Y3VRLXpaalZqNUpPYzJrNGJIaVd0Q1dKQ2J4RmVyQThUTUp4S2Y3bV9MZm1VUHZiS3B5dWsyVTY3bjM0X1RlVU9sQQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "How OpenAI limited METR's probe into the Hugging Face incident, dictating terms and restricting its scope to the single week when agents attacked Hugging Face (Dylan Freedman/New York Times)",
+        "How OpenAI Limited the Probe of Its Bots’ Hack of Hugging Face",
+        "OpenAI agents hijacked German website before Hugging Face hack, report claims",
+        "Report and sources: rogue OpenAI agents hijacked a German website in May and turned it into a forum for agents, sharing tactics to cheat on tasks and more (Reuters)"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 54,
       "sources": 2,
       "ts": "2026-09-04T13:55:44.000Z",
@@ -35,31 +76,6 @@
     },
     {
       "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-09-04T09:25:19.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "s": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the",
-      "b": [
-        "technologyreview.com: Data from drones in Ukraine is fueling a new Wild West marketplace"
-      ],
-      "body": [
-        "technologyreview.com: Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part of the AI architecture that shapes even civilian life. For every flight, unmanned systems collect thousands of points of data, from images and video to controller inputs. Together, those records show how a machine and a person responded to constantly shifting circumstances. Ukraine has now begun converting that experience into a resource. Its Ministry of Defense announced in January that it would make millions of data points gathered during tens of thousands of drone flights available to both military contractors and commercial companies, and since then more than 100 companies and the UK government have gained access. For a country at war, it’s a quick way to attract funding and partnerships. But this step turns the front line into an active site of model training, taking advantage of how the chaos of war creates conditions that AI companies struggle to reproduce on their own. Other countries and battlefields are likely to follow Ukraine’s lead, but the responsibility for governing this new industry cannot fall solely on a country fighting for its survival. That legal vacuum has to be filled together by the countries and companies involved in this industry’s development. Explosive growth Ukraine’s battlefields are not the first to produce records used to train and develop models: American drones over Syria and Yemen collected data that informed the first generation of semiautonomous military hardware in the late 2010s. The difference now is that access to that data is being used to develop a wider ecosystem. And the financial value to defense firms is immense: Battlefield data offers large volumes of machine experience gathered under conditions"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
-        }
-      ],
-      "srcTitles": [
-        "Data from drones in Ukraine is fueling a new Wild West marketplace"
-      ]
-    },
-    {
-      "cat": "models",
       "signal": 26,
       "sources": 2,
       "ts": "2026-09-04T01:33:48.000Z",
@@ -88,6 +104,31 @@
       "srcTitles": [
         "Technological Leap in Costa Rica: Key Commission Born to Boost Artificial Intelligence and Data Centers",
         "Artificial Intelligence for Energy Optimization in Data Centers"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-04T09:25:19.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "s": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the",
+      "b": [
+        "technologyreview.com: Data from drones in Ukraine is fueling a new Wild West marketplace"
+      ],
+      "body": [
+        "technologyreview.com: Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part of the AI architecture that shapes even civilian life. For every flight, unmanned systems collect thousands of points of data, from images and video to controller inputs. Together, those records show how a machine and a person responded to constantly shifting circumstances. Ukraine has now begun converting that experience into a resource. Its Ministry of Defense announced in January that it would make millions of data points gathered during tens of thousands of drone flights available to both military contractors and commercial companies, and since then more than 100 companies and the UK government have gained access. For a country at war, it’s a quick way to attract funding and partnerships. But this step turns the front line into an active site of model training, taking advantage of how the chaos of war creates conditions that AI companies struggle to reproduce on their own. Other countries and battlefields are likely to follow Ukraine’s lead, but the responsibility for governing this new industry cannot fall solely on a country fighting for its survival. That legal vacuum has to be filled together by the countries and companies involved in this industry’s development. Explosive growth Ukraine’s battlefields are not the first to produce records used to train and develop models: American drones over Syria and Yemen collected data that informed the first generation of semiautonomous military hardware in the late 2010s. The difference now is that access to that data is being used to develop a wider ecosystem. And the financial value to defense firms is immense: Battlefield data offers large volumes of machine experience gathered under conditions"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
+        }
+      ],
+      "srcTitles": [
+        "Data from drones in Ukraine is fueling a new Wild West marketplace"
       ]
     }
   ]
