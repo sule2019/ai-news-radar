@@ -2,8 +2,40 @@
   "date": "2026-09-04",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-09-04T19:50:08.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+      "s": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+      "b": [
+        "techcrunch.com: AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+        "techmeme.com: Sources: London-based AI infrastructure startup Nscale is in talks to raise as much as $3.5B in financing, including $2B from Nvidia, ahead of a planned IPO (Bloomberg)"
+      ],
+      "body": [
+        "techcrunch.com: Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO.",
+        "techmeme.com: Bloomberg : Sources: London-based AI infrastructure startup Nscale is in talks to raise as much as $3.5B in financing, including $2B from Nvidia, ahead of a planned IPO Nscale, a cloud computing firm focused on artificial intelligence, is in talks with potential investors to raise as much as $3.5 billion"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260904/p27#a260904p27"
+        }
+      ],
+      "srcTitles": [
+        "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+        "Sources: London-based AI infrastructure startup Nscale is in talks to raise as much as $3.5B in financing, including $2B from Nvidia, ahead of a planned IPO (Bloomberg)"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 47,
+      "signal": 43,
       "sources": 3,
       "ts": "2026-09-04T00:02:47.000Z",
       "writtenSources": 3,
@@ -44,7 +76,7 @@
     },
     {
       "cat": "models",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-09-04T13:55:44.000Z",
       "writtenSources": 2,
@@ -76,7 +108,32 @@
     },
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-04T18:39:19.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Architecting memory and storage in the AI era",
+      "s": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
+      "b": [
+        "technologyreview.com: Architecting memory and storage in the AI era"
+      ],
+      "body": [
+        "technologyreview.com: The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while also supporting an increasingly intelligent edge of IoT and consumer devices. However, in this inference-driven landscape, every delay, bottleneck, or wasted watt directly affects human outcomes and operating costs. This shift changes what infrastructure must deliver. Performance, latency, memory bandwidth, storage throughput, and networking cannot be optimized in silos. Inference workloads are continuous, geographically distributed, and highly sensitive to response time, requiring systems designed for scale, resilience, and efficiency from the start. “We tend to think of AI as a single workload, and it’s not. It’s thousands, it’s millions, it’s billions of different workloads,” says Jim McGregor, founder and principal analyst, Tirias Research. AI inference changes the optimization problem from one of raw compute to coordinated infrastructure—memory, storage, and networking. For business leaders, the priority is clear: AI infrastructure decisions must balance cost, flexibility, and future readiness. The winners will be organizations that improve performance per watt, reduce environmental footprint, and remove memory and storage bottlenecks before they limit growth. AI inference requires a new architectural approach Systems for AI need to be rearchitected because shoehorning modern AI systems into legacy infrastructure limits AI’s transformative potential. Purpose-built architectures are essential to realize the true value of AI, from accelerating scientific discovery to creating truly autonomous digital agents. Traditional enterprise IT has been able to rely on relatively stable"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
+        }
+      ],
+      "srcTitles": [
+        "Architecting memory and storage in the AI era"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 25,
       "sources": 2,
       "ts": "2026-09-04T17:05:00.000Z",
       "writtenSources": 2,
@@ -108,32 +165,32 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
-      "ts": "2026-09-04T18:39:19.000Z",
+      "ts": "2026-09-04T09:25:19.000Z",
       "writtenSources": 1,
       "draft": true,
-      "h": "Architecting memory and storage in the AI era",
-      "s": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolv",
+      "h": "Data from drones in Ukraine is fueling a new Wild West marketplace",
+      "s": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the",
       "b": [
-        "technologyreview.com: Architecting memory and storage in the AI era"
+        "technologyreview.com: Data from drones in Ukraine is fueling a new Wild West marketplace"
       ],
       "body": [
-        "technologyreview.com: The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer needs at once. These real-world breakthroughs rely on advanced infrastructure acting as the engine of continuous intelligence, powering real-time services while also supporting an increasingly intelligent edge of IoT and consumer devices. However, in this inference-driven landscape, every delay, bottleneck, or wasted watt directly affects human outcomes and operating costs. This shift changes what infrastructure must deliver. Performance, latency, memory bandwidth, storage throughput, and networking cannot be optimized in silos. Inference workloads are continuous, geographically distributed, and highly sensitive to response time, requiring systems designed for scale, resilience, and efficiency from the start. “We tend to think of AI as a single workload, and it’s not. It’s thousands, it’s millions, it’s billions of different workloads,” says Jim McGregor, founder and principal analyst, Tirias Research. AI inference changes the optimization problem from one of raw compute to coordinated infrastructure—memory, storage, and networking. For business leaders, the priority is clear: AI infrastructure decisions must balance cost, flexibility, and future readiness. The winners will be organizations that improve performance per watt, reduce environmental footprint, and remove memory and storage bottlenecks before they limit growth. AI inference requires a new architectural approach Systems for AI need to be rearchitected because shoehorning modern AI systems into legacy infrastructure limits AI’s transformative potential. Purpose-built architectures are essential to realize the true value of AI, from accelerating scientific discovery to creating truly autonomous digital agents. Traditional enterprise IT has been able to rely on relatively stable"
+        "technologyreview.com: Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part of the AI architecture that shapes even civilian life. For every flight, unmanned systems collect thousands of points of data, from images and video to controller inputs. Together, those records show how a machine and a person responded to constantly shifting circumstances. Ukraine has now begun converting that experience into a resource. Its Ministry of Defense announced in January that it would make millions of data points gathered during tens of thousands of drone flights available to both military contractors and commercial companies, and since then more than 100 companies and the UK government have gained access. For a country at war, it’s a quick way to attract funding and partnerships. But this step turns the front line into an active site of model training, taking advantage of how the chaos of war creates conditions that AI companies struggle to reproduce on their own. Other countries and battlefields are likely to follow Ukraine’s lead, but the responsibility for governing this new industry cannot fall solely on a country fighting for its survival. That legal vacuum has to be filled together by the countries and companies involved in this industry’s development. Explosive growth Ukraine’s battlefields are not the first to produce records used to train and develop models: American drones over Syria and Yemen collected data that informed the first generation of semiautonomous military hardware in the late 2010s. The difference now is that access to that data is being used to develop a wider ecosystem. And the financial value to defense firms is immense: Battlefield data offers large volumes of machine experience gathered under conditions"
       ],
       "l": [
         {
           "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era/"
+          "u": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
         }
       ],
       "srcTitles": [
-        "Architecting memory and storage in the AI era"
+        "Data from drones in Ukraine is fueling a new Wild West marketplace"
       ]
     },
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-09-04T10:44:13.000Z",
       "writtenSources": 2,
@@ -165,7 +222,7 @@
     },
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-09-04T01:33:48.000Z",
       "writtenSources": 2,
@@ -193,31 +250,6 @@
       "srcTitles": [
         "Technological Leap in Costa Rica: Key Commission Born to Boost Artificial Intelligence and Data Centers",
         "Artificial Intelligence for Energy Optimization in Data Centers"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-09-04T09:25:19.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Data from drones in Ukraine is fueling a new Wild West marketplace",
-      "s": "Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the",
-      "b": [
-        "technologyreview.com: Data from drones in Ukraine is fueling a new Wild West marketplace"
-      ],
-      "body": [
-        "technologyreview.com: Battlefields in Ukraine are littered with the remnants of drones, which are now firmly established as a critical weapon of modern warfare. But behind all that wreckage, there’s a new gold mine for the defense sector. The data drones generate will far outlast the wars in which they are used to fight, increasingly becoming part of the AI architecture that shapes even civilian life. For every flight, unmanned systems collect thousands of points of data, from images and video to controller inputs. Together, those records show how a machine and a person responded to constantly shifting circumstances. Ukraine has now begun converting that experience into a resource. Its Ministry of Defense announced in January that it would make millions of data points gathered during tens of thousands of drone flights available to both military contractors and commercial companies, and since then more than 100 companies and the UK government have gained access. For a country at war, it’s a quick way to attract funding and partnerships. But this step turns the front line into an active site of model training, taking advantage of how the chaos of war creates conditions that AI companies struggle to reproduce on their own. Other countries and battlefields are likely to follow Ukraine’s lead, but the responsibility for governing this new industry cannot fall solely on a country fighting for its survival. That legal vacuum has to be filled together by the countries and companies involved in this industry’s development. Explosive growth Ukraine’s battlefields are not the first to produce records used to train and develop models: American drones over Syria and Yemen collected data that informed the first generation of semiautonomous military hardware in the late 2010s. The difference now is that access to that data is being used to develop a wider ecosystem. And the financial value to defense firms is immense: Battlefield data offers large volumes of machine experience gathered under conditions"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/04/1143452/drone-data-wild-west/"
-        }
-      ],
-      "srcTitles": [
-        "Data from drones in Ukraine is fueling a new Wild West marketplace"
       ]
     }
   ]
