@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 47,
+      "signal": 43,
       "sources": 2,
       "ts": "2026-09-05T01:50:37.000Z",
       "writtenSources": 2,
@@ -35,7 +35,39 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-05T10:17:20.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Got $1,000? 3 Stocks Building the Physical Artificial Intelligence (AI) Era",
+      "s": "Got $1,000? 3 Stocks Building the Physical Artificial Intelligence (AI) Era The Motley Fool",
+      "b": [
+        "fool.com: Got $1,000? 3 Stocks Building the Physical Artificial Intelligence (AI) Era",
+        "aol.com: Got $1,000? 3 Stocks Building the Physical Artificial Intelligence (AI) Era"
+      ],
+      "body": [
+        "fool.com: Got $1,000? 3 Stocks Building the Physical Artificial Intelligence (AI) Era The Motley Fool",
+        "aol.com: Got $1,000? 3 Stocks Building the Physical Artificial Intelligence (AI) Era AOL.com"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3lnODlaa0ZWMC1laTU4ZnM0cHFxOVNaSjd3bW1qTXZRWTFtSVR5TmVZM0FTZXNsU3ZZTHpTT2xVNEhUQ2hSSzV4WmRQZjBWTGYxRHFzTlVzT2xTbHl5c3UxUWxCeElwb19hd20wTEp2M183M1BpOWdmUENncHFZN2FIajdabmxVUTJyU00wUkxpV2NLVFI1OA?oc=5"
+        },
+        {
+          "d": "aol.com",
+          "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wY1VtRVJlVHhQdDd6bl9NdmoyZVRObDV4akZrNmVZYkRBNUlnWUl6dXFueGdSaEtIMFJIWTA0YnNzYmFKY084c2ZQSVNscjVibkNCdzNsUGlJYmNwY2RZYU5yX3A2N1VGejVQQ2ZpVQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Got $1,000? 3 Stocks Building the Physical Artificial Intelligence (AI) Era",
+        "Got $1,000? 3 Stocks Building the Physical Artificial Intelligence (AI) Era"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
       "sources": 2,
       "ts": "2026-09-04T22:57:32.000Z",
       "writtenSources": 2,
