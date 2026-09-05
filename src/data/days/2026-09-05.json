@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 59,
-      "sources": 3,
+      "signal": 67,
+      "sources": 4,
       "ts": "2026-09-05T01:50:37.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,6 +20,10 @@
       ],
       "l": [
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft/"
+        },
+        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260905/p13#a260905p13"
         },
@@ -33,6 +37,7 @@
         }
       ],
       "srcTitles": [
+        "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
         "The Seattle Times and Newsday sue OpenAI and Microsoft, alleging the companies trained AI on their journalism; Microsoft and OpenAI are funders of Seattle Times (Todd Bishop/GeekWire)",
         "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
         "Seattle Times sues Microsoft and OpenAI, alleging they trained their AI on its journalism"
@@ -72,7 +77,7 @@
     },
     {
       "cat": "models",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-09-05T16:03:00.000Z",
       "writtenSources": 2,
@@ -200,7 +205,7 @@
     },
     {
       "cat": "models",
-      "signal": 15,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-09-05T10:17:20.000Z",
       "writtenSources": 2,
@@ -221,8 +226,8 @@
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc3lnODlaa0ZWMC1laTU4ZnM0cHFxOVNaSjd3bW1qTXZRWTFtSVR5TmVZM0FTZXNsU3ZZTHpTT2xVNEhUQ2hSSzV4WmRQZjBWTGYxRHFzTlVzT2xTbHl5c3UxUWxCeElwb19hd20wTEp2M183M1BpOWdmUENncHFZN2FIajdabmxVUTJyU00wUkxpV2NLVFI1OA?oc=5"
         },
         {
-          "d": "aol.com",
-          "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wY1VtRVJlVHhQdDd6bl9NdmoyZVRObDV4akZrNmVZYkRBNUlnWUl6dXFueGdSaEtIMFJIWTA0YnNzYmFKY084c2ZQSVNscjVibkNCdzNsUGlJYmNwY2RZYU5yX3A2N1VGejVQQ2ZpVQ?oc=5"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRl83ZzFIanc4dk8yRU1POEdIb3F3Y3RTYlJrbkd3aFUxLVROS3J3RWNKQV9ydjY5Q2s2dGZMbWE4M1pnaUhhandrcGdjNzFya2JGQ0ZJUHBsZ3B5QllXNXozSjd5elpfVC1ZaGdqLVZGbm5WemtQQ3hzam0zc0ozVnFjMXljekR5Q0Rn?oc=5"
         }
       ],
       "srcTitles": [
