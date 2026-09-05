@@ -3,7 +3,39 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 37,
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-09-05T01:50:37.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
+      "s": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement Reuters",
+      "b": [
+        "reuters.com: Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
+        "geekwire.com: Seattle Times sues Microsoft and OpenAI, alleging they trained their AI on its journalism"
+      ],
+      "body": [
+        "reuters.com: Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement Reuters",
+        "geekwire.com: Seattle Times sues Microsoft and OpenAI, alleging they trained their AI on its journalism GeekWire"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOE83d29ldlZFZGYwMXNLVWtXaUpMLS1xWmpDWjIzREhzTUk0cklteXNPX0ZnMlZ5M3JUcktaLUhlbVJGNHNnTTJwMy1DMFRTWWpFRy1VdmwwZVYtLTNTS0Q4WFZlLUgyd3VqSUxZX3VSTDVzeE1xOHhiclJFLVJGUjB6emhPNFVfWHgzbzBKQ0FiQ29wRmNEYkc4MjFIYjVuSW9Gc2VObDMwdjh4c0xiTFZmd3doU2NPV2I0eTJLZ0N3aDl5alE?oc=5"
+        },
+        {
+          "d": "geekwire.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTm5HWjM0eF9lNm1wYVcyUFZkS2R4ek1kdmtiWnhTZnpOSWNBaFFta2NLSEJpalZlV2RXVVhaenRubV9heWF6MVRYNDNrRUs2eXI2YnBUQTVUdGtuMDV4NUh5QndZeUp0Zm1DODhDUU02anBGNFVCdUg5ekRaUE81X2UzcTQ2TVdiUkxhZUZ3Ry1NaDRjaWhKSDdIMUFMMS0wRHpZaVltcGI3b1FPTEM0UDU1eWY5eWF1cVBN?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
+        "Seattle Times sues Microsoft and OpenAI, alleging they trained their AI on its journalism"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 34,
       "sources": 2,
       "ts": "2026-09-04T22:57:32.000Z",
       "writtenSources": 2,
@@ -24,13 +56,13 @@
           "u": "https://www.techmeme.com/260904/p32#a260904p32"
         },
         {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd0dTWnZWcm1zc3pGR2l0R0c3YWhnUWFZa2JQeDFSeDA0OHNBdXlULTgya3ZKQ192OXI3NU0xZEEyRmdYb01zaHRQTEt6N01CNFZxU1NnOEZ3WVI0MGtkOUNQSmI3UTJyaWVVTE1hY19NOGJMOWJESVYycVpRU3NvaTdIamVWX2k4dXlIUXVhMUtzZXo4SWV6S01JblIwMGJ5UDF1VA?oc=5"
+          "d": "jpost.com",
+          "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1odnJ3dFpYVEpyWGN1YlFlWXc4dndSdm8ySTVTMGlGeXE0VmppYXBtVS1RN1B0OGlQX3pTd2tVWE9DeUNMd2x2dVBqME15aFdFS0xZM1h4TTdGTTdWbzFR?oc=5"
         }
       ],
       "srcTitles": [
         "Sources: the US and China will discuss AI safety risks during talks planned for mid-September, with Treasury Secretary Scott Bessent leading the US side (Laurie Chen/Reuters)",
-        "EXCLUSIVE: US, China gear up for mid-September AI safety talks"
+        "US, China to discuss AI safety risks, cooperation on monitoring AI-directed cyberattacks"
       ]
     }
   ]
