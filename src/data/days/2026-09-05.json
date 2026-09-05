@@ -2,6 +2,38 @@
   "date": "2026-09-05",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-09-05T07:35:25.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "s": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "b": [
+        "techcrunch.com: OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "techmeme.com: In response to the \"wiki incident\", OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment (@openai)"
+      ],
+      "body": [
+        "techcrunch.com: OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+        "techmeme.com: @openai : In response to the wiki incident , OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment How we think about the wiki incident, where our agents wrote to several internet sites: it's past time for us"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260905/p7#a260905p7"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+        "In response to the \"wiki incident\", OpenAI says it is working on a framework for reporting misalignment incidents during training, evaluation, and deployment (@openai)"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 48,
       "sources": 2,
@@ -35,7 +67,39 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-05T14:48:29.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Patient Attitudes Towards Ambient Artificial Intelligence in Clinical Consultations",
+      "s": "Patient Attitudes Towards Ambient Artificial Intelligence in Clinical Consultations cureus.com",
+      "b": [
+        "cureus.com: Patient Attitudes Towards Ambient Artificial Intelligence in Clinical Consultations",
+        "bioengineer.org: Nurses’ knowledge and attitudes toward artificial intelligence in Antigua hospital"
+      ],
+      "body": [
+        "cureus.com: Patient Attitudes Towards Ambient Artificial Intelligence in Clinical Consultations cureus.com",
+        "bioengineer.org: Nurses’ knowledge and attitudes toward artificial intelligence in Antigua hospital Bioengineer.org"
+      ],
+      "l": [
+        {
+          "d": "cureus.com",
+          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNREg5cS04OHJzOV9CRmdDNTVyYjZtWkVjcU9Helh1U09QSE1FTkpRZHRqRzBuVGc0WlE5N0duNmpVSmpJay1Kdm04UnZnVTNfaDZmVmlpUy1yY0stNWZxQXhwT3p2VHBZUkxtajR5Um1TZUVodW9tSEdzTEtfTjZLeWQtaDRONGVXQUNXd3Uza1VsYXNBTFJCZDJkZnV0a1RtTkN1MkV1dEF6c2RDckFtTWlqUlo2TXAtOUM0bWk1WQ?oc=5"
+        },
+        {
+          "d": "bioengineer.org",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaTROVEFycmZKdHJSZVJTbEdubGtPRUE3bDliZHM4ME1NbDVlcGFnTkV5TUNZUklhZ0s2TklYQkdENE9zbHJaY3FYZjFtSFpwemRxRTJpbE5RYkhxN0NYem9vSGhtdS1hUl9Nelh2bC1fNWpkVkpBd1ZYcnU3NHF4NDR2c01rc3FmaURmb2cwb2R4UTYzRGNMckY2bVpCekx1NGVGX19lMHQydw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Patient Attitudes Towards Ambient Artificial Intelligence in Clinical Consultations",
+        "Nurses’ knowledge and attitudes toward artificial intelligence in Antigua hospital"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-05T10:17:20.000Z",
       "writtenSources": 2,
