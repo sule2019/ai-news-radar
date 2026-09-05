@@ -2,6 +2,38 @@
   "date": "2026-09-05",
   "stories": [
     {
+      "cat": "models",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-09-05T16:03:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Hikers rescued after using Google Gemini for planning",
+      "s": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "b": [
+        "techcrunch.com: Hikers rescued after using Google Gemini for planning",
+        "futurism.com: Hikers Rescued After Using Google AI to Plan Disastrous Trip"
+      ],
+      "body": [
+        "techcrunch.com: The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+        "futurism.com: Hikers Rescued After Using Google AI to Plan Disastrous Trip futurism.com"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/"
+        },
+        {
+          "d": "futurism.com",
+          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HQkJxSy1DeC1UQlc5ZFU0dkc0OW50T1VfVE1yRGZid0xPYTNTT1N0aHpPMk9WZzY2c3R4Q3JJbzF6WG5LbHVwblcwXzFBT0E2YmwtZDFCbEdPUXNOVzRFcUtjZC1kVjUtbWdFMlJSVDE4WXQ3MVdQTVEtN0JRaEU?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Hikers rescued after using Google Gemini for planning",
+        "Hikers Rescued After Using Google AI to Plan Disastrous Trip"
+      ]
+    },
+    {
       "cat": "funding",
       "signal": 58,
       "sources": 2,
@@ -99,7 +131,71 @@
     },
     {
       "cat": "models",
-      "signal": 18,
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-05T14:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Trump’s embrace of AI data centers adds to GOP’s midterm peril",
+      "s": "Trump’s embrace of AI data centers adds to GOP’s midterm peril The Detroit News",
+      "b": [
+        "detroitnews.com: Trump’s embrace of AI data centers adds to GOP’s midterm peril",
+        "bloomberg.com: Trump’s Embrace of AI Data Centers Adds to GOP’s Midterm Peril"
+      ],
+      "body": [
+        "detroitnews.com: Trump’s embrace of AI data centers adds to GOP’s midterm peril The Detroit News",
+        "bloomberg.com: Trump’s Embrace of AI Data Centers Adds to GOP’s Midterm Peril Bloomberg.com"
+      ],
+      "l": [
+        {
+          "d": "detroitnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPM3lkLWlIaXQwOHFNenNNbnN5ZTVTRGhRNWZuRE51cXliX3c2M0JZck00S1hibkZlS2t3ZWVuZlBZdTg4RUc1dVAwY0RXTThDbWVESHdER2ZqNzNjYkw3TXNvMXdhU0ctdWl2a0g3MXFfYkI2ZENhdWFZOGFhMHJpb3pFaEFweDZFTkw2SFlMOHZyeUZjbFBzQTRjRkg0cGtBbGtpOGVPX1J4cVBqQW5rX1BEQlYwaWpWWnBXRGRYN2RtMGk5YUEtQ0hlQ2tITmh2S09v?oc=5"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbW1pUUx6a3A1dDZjd1R6R2tFVVhzb2I3dHoxbU9HR0xXQjJEU1VVNXFxODk4bVhjaE9GSFFsWVRPUzR5MFJJcUNMZUtDRkRlN2taWGhycTVnVGhoU1pTRnB4VU1VcVdrdmQ5dlNYTkxnZDg0MWYyZXZ0cHlOU2lrZl9qbHB4WndxVnlISTNHMElXcF9uaDNDT3p1ckFJdTRzTUhxTmNfa0FnUVFtaEdodlpiQQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump’s embrace of AI data centers adds to GOP’s midterm peril",
+        "Trump’s Embrace of AI Data Centers Adds to GOP’s Midterm Peril"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-05T12:23:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial Intelligence (AI)-Powered Fintech Compliance And RegTech Platform Market Forecast To Hit $47.26 Bn By 2030 - Carroll County Mirror-Democrat",
+      "s": "Artificial Intelligence (AI)-Powered Fintech Compliance And RegTech Platform Market Forecast To Hit $47.26 Bn By 2030 Carroll County Mirror-Democrat",
+      "b": [
+        "mycarrollcountynews.com: Artificial Intelligence (AI)-Powered Fintech Compliance And RegTech Platform Market Forecast To Hit $47.26 Bn By 2030 - Carroll County Mirror-Democrat",
+        "einpresswire.com: Artificial Intelligence-Powered Demand Forecasting Market Forecast To Hit $15.88 Bn By 2030 Amid Strong Industry Growth"
+      ],
+      "body": [
+        "mycarrollcountynews.com: Artificial Intelligence (AI)-Powered Fintech Compliance And RegTech Platform Market Forecast To Hit $47.26 Bn By 2030 Carroll County Mirror-Democrat",
+        "einpresswire.com: Artificial Intelligence-Powered Demand Forecasting Market Forecast To Hit $15.88 Bn By 2030 Amid Strong Industry Growth EIN Presswire"
+      ],
+      "l": [
+        {
+          "d": "mycarrollcountynews.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTERvS1R1a0FnM3hNSXJGRmU5UGpRVlFLOXowSTlMalBkcnVubTlBWVN3YlNQNG5XX0lQZ3ZidTdYMFJ0MVN4VnV5c1JDMmozLWdYRVJqLUtGQXZEZXNWRVpTSUdMQ2kyOW5IRy1zOEphRUtIai1vc2w5M2otMWd5WHFVXzVGWUdaQ19nNG42WlFFNFJmMDN1YkdPd0tnMWxJQUhKOW5qUFp3WFRsOXJ6SV9sTVliQWs?oc=5"
+        },
+        {
+          "d": "einpresswire.com",
+          "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQN0FpNXVoOXAtNDRrdkgxemt0MlBqeUF6cXg2ck1KVkVrRnJGVGJPeDRvMnhub29nNmFRX005RFUxa0dwNk5WMlh0ZXcxWFc5ZFFHX0ZKU1EwNGRKZGdnNDI5LTN1ZjdnNGpRSThqdTVDbHd1ekw4M0FuNDRlMVlpMFZhb2VXQ0s3ZHlkOWNka05KYmJkck8wQklIeFdUNGR2VldzNGxIOUlWWmtjOTRHbjVRd2pvVjAtUWdaYllOOHgzODBXeDdqQVdwUEY5QTllRjRnQ0EwS2NhNEdRRGtZX2hCV2REQ0dxbmJ1SnZIS1l1RnpIU0pyRg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial Intelligence (AI)-Powered Fintech Compliance And RegTech Platform Market Forecast To Hit $47.26 Bn By 2030 - Carroll County Mirror-Democrat",
+        "Artificial Intelligence-Powered Demand Forecasting Market Forecast To Hit $15.88 Bn By 2030 Amid Strong Industry Growth"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 15,
       "sources": 2,
       "ts": "2026-09-05T10:17:20.000Z",
       "writtenSources": 2,
