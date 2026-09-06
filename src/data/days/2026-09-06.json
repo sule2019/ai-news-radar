@@ -1,4 +1,37 @@
 {
   "date": "2026-09-06",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-09-06T08:26:53.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "GPT-6 Astra: A new generation of intelligence",
+      "s": "GPT-6 Astra: A new generation of intelligence OpenAI",
+      "b": [
+        "openai.com: GPT-6 Astra: A new generation of intelligence",
+        "mk.co.kr: OpenAI's next-generation artificial intelligence (AI) model 'GPT-6 Astra' has rekindled its semicond.."
+      ],
+      "body": [
+        "openai.com: GPT-6 Astra: A new generation of intelligence OpenAI",
+        "mk.co.kr: OpenAI's next-generation artificial intelligence (AI) model 'GPT-6 Astra' has rekindled its semicond.. 매일경제"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE11QUxBUVJLdC1jSmtJbmcxQzg4Qm9yUlNPS3JEMEVBanIyY1FRT2k2R0hBTlNnX2VqcWpTSDJUMDV0TjBJN1VGamlrZzVPZw?oc=5"
+        },
+        {
+          "d": "mk.co.kr",
+          "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAtMEM4aE1OM1QtX3NEblR0V3dnR1ZhdUI2RHA2TjliM2kxNkNvUE9NeUJ6dGczOTJ4TGJINHFlb3RLQTNvU25HbjNFX2R2QkE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "GPT-6 Astra: A new generation of intelligence",
+        "OpenAI's next-generation artificial intelligence (AI) model 'GPT-6 Astra' has rekindled its semicond.."
+      ]
+    }
+  ]
 }
