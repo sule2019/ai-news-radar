@@ -79,8 +79,33 @@
       ]
     },
     {
-      "cat": "models",
+      "cat": "research",
       "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-06T08:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Research acceleration: The view inside OpenAI",
+      "s": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+      "b": [
+        "openai.com: Research acceleration: The view inside OpenAI"
+      ],
+      "body": [
+        "openai.com: Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/research-acceleration-view-inside-openai"
+        }
+      ],
+      "srcTitles": [
+        "Research acceleration: The view inside OpenAI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 42,
       "sources": 2,
       "ts": "2026-09-06T19:21:19.000Z",
       "writtenSources": 2,
@@ -111,33 +136,8 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-09-06T08:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Research acceleration: The view inside OpenAI",
-      "s": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
-      "b": [
-        "openai.com: Research acceleration: The view inside OpenAI"
-      ],
-      "body": [
-        "openai.com: Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/research-acceleration-view-inside-openai"
-        }
-      ],
-      "srcTitles": [
-        "Research acceleration: The view inside OpenAI"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-09-06T08:26:53.000Z",
       "writtenSources": 2,
