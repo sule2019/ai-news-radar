@@ -2,6 +2,51 @@
   "date": "2026-09-06",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 64,
+      "sources": 6,
+      "ts": "2026-09-06T11:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
+      "s": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI The Guardian",
+      "b": [
+        "theguardian.com: I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
+        "journal.classiccars.com: A Caution About Artificial Intelligence"
+      ],
+      "body": [
+        "theguardian.com: I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI The Guardian",
+        "journal.classiccars.com: A Caution About Artificial Intelligence journal.classiccars.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260906/p3#a260906p3"
+        },
+        {
+          "d": "beza1e1.tuxen.de",
+          "u": "https://beza1e1.tuxen.de/ai_feelings.html"
+        },
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5"
+        },
+        {
+          "d": "journal.classiccars.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVk1rZnhVQ1piYjJwanZBc0lrQzJqaTdpNXdBZXoxdEtyXzEzaWtvYUVyeXVwTExZNWwzSWxtZDZISjdOTU94OFFocVM3RnJzQkRVV0dHblNLUUtvZjk4YjBueHpycWZOdWJLNGJ0UkNLLXlrVWxFZmZCV0MwdEtYamE2Tnpab3RfNnBV?oc=5"
+        },
+        {
+          "d": "+2"
+        }
+      ],
+      "srcTitles": [
+        "Trump officials say Judeo-Christian principles inform AI policy, with some optimistic about AI and others seeing parallels to biblical end-times prophecies (Philip Wegmann/Wall Street Journal)",
+        "How I feel about AI",
+        "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
+        "A Caution About Artificial Intelligence"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 48,
       "sources": 2,
@@ -56,38 +101,6 @@
       ],
       "srcTitles": [
         "Research acceleration: The view inside OpenAI"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-09-06T11:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
-      "s": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI The Guardian",
-      "b": [
-        "theguardian.com: I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
-        "journal.classiccars.com: A Caution About Artificial Intelligence"
-      ],
-      "body": [
-        "theguardian.com: I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI The Guardian",
-        "journal.classiccars.com: A Caution About Artificial Intelligence journal.classiccars.com"
-      ],
-      "l": [
-        {
-          "d": "theguardian.com",
-          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZUp6TVFuemZ5UmY1aXQ3a1dSRzhKTk5FbDRvUktyYkNPQnpEZFhJWjh3Ym1EamdrVVNWdkh4MEhyN0w0aVpWRi13THcyQkh2Q05xLUVZUDlaekt6aUF6LVlId2liVXVTZC1fa09aM3E4RWtYclBkeG5kUVFVOEQtaFI4X3laOFJNemlGUlI1RG0yY3NJc0RncU1sYVpvR2VNdV9nNlpoZ0FDUTc2ajhPX3pQeDBTN2FqT0M3Ylo5cGUwSzJnOE1lMVlNVQ?oc=5"
-        },
-        {
-          "d": "journal.classiccars.com",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVk1rZnhVQ1piYjJwanZBc0lrQzJqaTdpNXdBZXoxdEtyXzEzaWtvYUVyeXVwTExZNWwzSWxtZDZISjdOTU94OFFocVM3RnJzQkRVV0dHblNLUUtvZjk4YjBueHpycWZOdWJLNGJ0UkNLLXlrVWxFZmZCV0MwdEtYamE2Tnpab3RfNnBV?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
-        "A Caution About Artificial Intelligence"
       ]
     },
     {
