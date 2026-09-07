@@ -2,8 +2,88 @@
   "date": "2026-09-07",
   "stories": [
     {
+      "cat": "research",
+      "signal": 63,
+      "sources": 5,
+      "ts": "2026-09-07T04:00:00.000Z",
+      "writtenSources": 5,
+      "draft": true,
+      "h": "Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month (Bloomberg)",
+      "s": "Bloomberg : Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month ByteDance Ltd. is readying an AI ",
+      "b": [
+        "techmeme.com: Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month (Bloomberg)",
+        "simonwillison.net: Video compressor",
+        "bbc.com: Victim loses £250k after scammers use AI video of 'well-known' celebrity"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month ByteDance Ltd. is readying an AI model geared for real-time spatial video generation, taking on Meta Platforms Inc. and Alphabet Inc",
+        "simonwillison.net: Tool: Video compressor I recorded a short demo video of my Equal Earth animation on my phone and wanted to publish an optimized version of that video (using FFMPEG) on my blog, so I had Claude Fable 5.1 in Claude Code for web build me this tool using the WebAssembly build of FFMPEG. Tags: ffmpeg , video , webassembly , claude , claude-code , claude-mythos-fable",
+        "bbc.com: Victim loses £250k after scammers use AI video of 'well-known' celebrity BBC",
+        "cnycentral.com: 'Beware my power': White House shares AI-generated video of Trump as Green Lantern WSTM"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260907/p11#a260907p11"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Sep/7/video-compressor/"
+        },
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83clhseU5POXhzUVZLTjFiSjEtdWZTVms4cVhhTzFvNjBUaElLV3l6ZzNfWnQ0QU9EblM1T05Bcmt2bGZHT3plNFJNNElLYVFtZnZ6dzNXLVpndw?oc=5"
+        },
+        {
+          "d": "cnycentral.com",
+          "u": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPUkFhWGdvc211Yk1wRVdoRkZ5ME8zZlU4bS1MT3ZMVVB3Q1ZsWFlIMTJjTHFtUVhmOXItT3hNelRqTXpzREROT0ZHQ19VdDkxbktVUkQzd0FVbERoREtVUkJYMEhKRnAtWGlGcHJFejZPSGpuT0hkVXNySE5yYVZxa0IwcUlhMk85MnJYdkJIVnJvLU1RRE0xVTVRYnJ0QlV1dU14UWZCUzZQMHZRZnpWX3hobWRCd296NnJMOW1kdXdHa2xtbzZnb2QzSzV4S0UzNW11c3IyTTZEb3ItOEpnekpzY0E5bzVsYU5KM3ZaUm0tTXVkSlgxeVdEemFBV2cxcDJzcjBMekR2MkZJUEJ6RFVmOUk3QWI4MzhZQVVBWlZIcGNNY2xlT2VPcmVON3RsRkx0SVdtNWpwZjZmWFF2UlF5ZE4xWkprbm5PUFlCTmZLOTg?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month (Bloomberg)",
+        "Video compressor",
+        "Victim loses £250k after scammers use AI video of 'well-known' celebrity",
+        "'Beware my power': White House shares AI-generated video of Trump as Green Lantern"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 39,
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-09-07T12:22:07.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "‘No one is prepared’: ChatGPT maker’s top scientist sends an AI warning",
+      "s": "‘No one is prepared’: ChatGPT maker’s top scientist sends an AI warning smh.com.au",
+      "b": [
+        "smh.com.au: ‘No one is prepared’: ChatGPT maker’s top scientist sends an AI warning",
+        "bbc.com: OpenAI chief scientist warns no-one is prepared for consequences of AI"
+      ],
+      "body": [
+        "smh.com.au: ‘No one is prepared’: ChatGPT maker’s top scientist sends an AI warning smh.com.au",
+        "bbc.com: OpenAI chief scientist warns no-one is prepared for consequences of AI BBC"
+      ],
+      "l": [
+        {
+          "d": "smh.com.au",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT3RiRnp5ZDBKeENGMDdlMUNIVjVxNmVSOGZ4NnoxZy1zVzFQS2E0V2RZQkFwVGN4U0dINndLR0xXb2VmUVM2cUthVmZKUWtqMF9RRzZaeXhDQkozb3V5T3d1WGd0a3J1UEpRSElpOVNRZ3Rzb2xreTl0NHBJbUwxOGVJY0Q2OGpFbGNtT0VtenVJOHJYUmxrVTlia3dmOTg1Q2V3bHRZeHBYcjAxVUE1RndTdHlDdjdzZGQxSzlkaGI?oc=5"
+        },
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxV2FoYnFlb1JwdkkxYVh4RFdleTROcmI1MnQwV2Vlb3l3Uk1MQUtQd1c2Ri1US2FFdW9iX3VGdmJVakRkdzY2YTRiQWp6RDlNV05MZnpod3NkQQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "‘No one is prepared’: ChatGPT maker’s top scientist sends an AI warning",
+        "OpenAI chief scientist warns no-one is prepared for consequences of AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 35,
       "sources": 2,
       "ts": "2026-09-07T10:56:49.000Z",
       "writtenSources": 2,
@@ -63,38 +143,6 @@
       "srcTitles": [
         "Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
         "Early Data Indicates an A.I.-Generated Drug Could Slow Aging"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-09-07T09:10:48.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "AI could pose 'existential' risk to humanity, UN rights chief warns",
-      "s": "AI could pose 'existential' risk to humanity, UN rights chief warns Reuters",
-      "b": [
-        "reuters.com: AI could pose 'existential' risk to humanity, UN rights chief warns",
-        "wtvbam.com: AI could pose ‘existential’ risk to humanity, UN rights chief warns"
-      ],
-      "body": [
-        "reuters.com: AI could pose 'existential' risk to humanity, UN rights chief warns Reuters",
-        "wtvbam.com: AI could pose ‘existential’ risk to humanity, UN rights chief warns WTVB"
-      ],
-      "l": [
-        {
-          "d": "euronews.com",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYndiNkRIdG1yYUVJYzFuXzV3RlRJT2NKV0pzanA3eFpmcEVySTFOUmJwNUdyRkNwcVFWb0R5S25adHFsWWZFQU1Zdy0xQlVZNERmeUJ4a20tVms2ZDNaUXhFT0xFUmxfVWh4YWk5N0s0V042MDN5Q2ROWjBEdW02SUNNNTJ6VzdZcFpuYW51ZHBSSFE2WEozdEk4eEhmZlBhaFA2Q3dRTndrLTk3Snc?oc=5"
-        },
-        {
-          "d": "indianexpress.com",
-          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQel9Kel9hOHc0ZzFQVUVXR0FfbmdmMWhTRE40MlZzWlZjOGxDS3g0N3A2NDRwQWs2dTJvWGswTThNdmptTEpfSTFJTlRwUlZJRnNXTkFXdGlWdVIyQXhqbElNdmgzdnhqUnJCWHZpdE5EYmEtUDZZcFRaX0FDaXdNMjdGcTlZT2xWZjBVVl9SMFdRYldCVXVaLS1mWFVXa1g1NjJxQ0g5bUxqelZxXzdzUEgtOHExRXZKWDhzY2hYY25PeGE2MF9xRjJNUV9yM2JZZVpzZHh1eWo3anPSAeIBQVVfeXFMTXNqelo2Z1hHbUV5VG5wLUFKajhnNTF1NFNQeHFEQTBKZk1nTDlpYWFaMEtidHFBMWRUMVprYjNTb20zbGV0TW1vcmZOMmtFZFo1SmtEQjEzQm9oWDB0U3Q5dlBLUTBKbFpFREt3M0o1RGlmUGxFLWRjZ2Z3YmlNaG9EenNQUWc0S0xjNXY2Wk1wUXJWZWVnbW8zZWxvdlJHYnNLSlR5dVlWMi1FaGk0OFZXYTlNdGY2eDN3MWNiNFJ1bkdvR0dsZXE2SC1rZGp1bVYyM2lnVGhPdmRvREZEYTA3dw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "UN rights chief warns how AI could pose ‘existential risk to humanity’",
-        "AI could pose ‘existential’ risk to humanity, UN rights chief warns"
       ]
     },
     {
@@ -184,6 +232,38 @@
       ],
       "srcTitles": [
         "Supporting independent journalism in Ukraine"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-09-07T09:10:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI could pose 'existential' risk to humanity, UN rights chief warns",
+      "s": "AI could pose 'existential' risk to humanity, UN rights chief warns Reuters",
+      "b": [
+        "reuters.com: AI could pose 'existential' risk to humanity, UN rights chief warns",
+        "wtvbam.com: AI could pose ‘existential’ risk to humanity, UN rights chief warns"
+      ],
+      "body": [
+        "reuters.com: AI could pose 'existential' risk to humanity, UN rights chief warns Reuters",
+        "wtvbam.com: AI could pose ‘existential’ risk to humanity, UN rights chief warns WTVB"
+      ],
+      "l": [
+        {
+          "d": "euronews.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYndiNkRIdG1yYUVJYzFuXzV3RlRJT2NKV0pzanA3eFpmcEVySTFOUmJwNUdyRkNwcVFWb0R5S25adHFsWWZFQU1Zdy0xQlVZNERmeUJ4a20tVms2ZDNaUXhFT0xFUmxfVWh4YWk5N0s0V042MDN5Q2ROWjBEdW02SUNNNTJ6VzdZcFpuYW51ZHBSSFE2WEozdEk4eEhmZlBhaFA2Q3dRTndrLTk3Snc?oc=5"
+        },
+        {
+          "d": "indianexpress.com",
+          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQel9Kel9hOHc0ZzFQVUVXR0FfbmdmMWhTRE40MlZzWlZjOGxDS3g0N3A2NDRwQWs2dTJvWGswTThNdmptTEpfSTFJTlRwUlZJRnNXTkFXdGlWdVIyQXhqbElNdmgzdnhqUnJCWHZpdE5EYmEtUDZZcFRaX0FDaXdNMjdGcTlZT2xWZjBVVl9SMFdRYldCVXVaLS1mWFVXa1g1NjJxQ0g5bUxqelZxXzdzUEgtOHExRXZKWDhzY2hYY25PeGE2MF9xRjJNUV9yM2JZZVpzZHh1eWo3anPSAeIBQVVfeXFMTXNqelo2Z1hHbUV5VG5wLUFKajhnNTF1NFNQeHFEQTBKZk1nTDlpYWFaMEtidHFBMWRUMVprYjNTb20zbGV0TW1vcmZOMmtFZFo1SmtEQjEzQm9oWDB0U3Q5dlBLUTBKbFpFREt3M0o1RGlmUGxFLWRjZ2Z3YmlNaG9EenNQUWc0S0xjNXY2Wk1wUXJWZWVnbW8zZWxvdlJHYnNLSlR5dVlWMi1FaGk0OFZXYTlNdGY2eDN3MWNiNFJ1bkdvR0dsZXE2SC1rZGp1bVYyM2lnVGhPdmRvREZEYTA3dw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "UN rights chief warns how AI could pose ‘existential risk to humanity’",
+        "AI could pose ‘existential’ risk to humanity, UN rights chief warns"
       ]
     }
   ]
