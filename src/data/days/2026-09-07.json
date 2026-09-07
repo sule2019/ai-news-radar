@@ -51,7 +51,7 @@
     },
     {
       "cat": "models",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-09-07T12:22:07.000Z",
       "writtenSources": 2,
@@ -120,38 +120,6 @@
     },
     {
       "cat": "models",
-      "signal": 31,
-      "sources": 2,
-      "ts": "2026-09-07T10:56:49.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "OpenAI has sent EU incident report on hijacked German website, Commission says",
-      "s": "OpenAI has sent EU incident report on hijacked German website, Commission says Reuters",
-      "b": [
-        "reuters.com: OpenAI has sent EU incident report on hijacked German website, Commission says",
-        "whbl.com: OpenAI has sent EU incident report on hijacked German website, Commission says"
-      ],
-      "body": [
-        "reuters.com: OpenAI has sent EU incident report on hijacked German website, Commission says Reuters",
-        "whbl.com: OpenAI has sent EU incident report on hijacked German website, Commission says whbl.com"
-      ],
-      "l": [
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzJFOUNDZWR2SV9UcEdYdGV3Ql9RNnkwZFg1ZHZNV3VSSWllaldEUjhYNi1wZVBmOXZITXlEbGtldWhvdjJtUVZoejJ0UUFIZDNVd2ptUFdCRDB4ejVtRmcxTUNQMVNuSE9kWUxUS2xLenAzY2ZQeF9JVUZMWUlZZ0o4VktuUEhiTFZnRm40Vld0NGF5SFRMRHZqN0NtYUh6UW5FRFB5N1pnMU85Z3B5SFhaQXVVMXFHNE1j?oc=5"
-        },
-        {
-          "d": "whbl.com",
-          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSk1OT19TeGtrUHVvMnNDU1lPM1dKZThUM3M3Z0xRSWlBUktFbFZRYzBTUTAwNTZkVGJDUVJ6VUZxNGlQMmd2TmNUVlZPVmpsMEdZdHgwV1BrQlBjdkVZQnRoeEtwZjNoLWFCUlpjcDdxX1pqaUhVT19sV3VZLXhOWnFVZ0Y4NHpUaDc3dlVvMjlrOVVKa25GZWdzblVCbmZlNmdMRnhqaEtuZw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI has sent EU incident report on hijacked German website, Commission says",
-        "OpenAI has sent EU incident report on hijacked German website, Commission says"
-      ]
-    },
-    {
-      "cat": "models",
       "signal": 29,
       "sources": 2,
       "ts": "2026-09-07T19:37:35.000Z",
@@ -180,6 +148,38 @@
       "srcTitles": [
         "Trump backs data centers as voter concerns grow ahead of midterm elections - WEAR-TV",
         "Trump backs data centers as voter concerns grow ahead of midterm elections"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 2,
+      "ts": "2026-09-07T10:56:49.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI has sent EU incident report on hijacked German website, Commission says",
+      "s": "OpenAI has sent EU incident report on hijacked German website, Commission says Reuters",
+      "b": [
+        "reuters.com: OpenAI has sent EU incident report on hijacked German website, Commission says",
+        "whbl.com: OpenAI has sent EU incident report on hijacked German website, Commission says"
+      ],
+      "body": [
+        "reuters.com: OpenAI has sent EU incident report on hijacked German website, Commission says Reuters",
+        "whbl.com: OpenAI has sent EU incident report on hijacked German website, Commission says whbl.com"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzJFOUNDZWR2SV9UcEdYdGV3Ql9RNnkwZFg1ZHZNV3VSSWllaldEUjhYNi1wZVBmOXZITXlEbGtldWhvdjJtUVZoejJ0UUFIZDNVd2ptUFdCRDB4ejVtRmcxTUNQMVNuSE9kWUxUS2xLenAzY2ZQeF9JVUZMWUlZZ0o4VktuUEhiTFZnRm40Vld0NGF5SFRMRHZqN0NtYUh6UW5FRFB5N1pnMU85Z3B5SFhaQXVVMXFHNE1j?oc=5"
+        },
+        {
+          "d": "whbl.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSk1OT19TeGtrUHVvMnNDU1lPM1dKZThUM3M3Z0xRSWlBUktFbFZRYzBTUTAwNTZkVGJDUVJ6VUZxNGlQMmd2TmNUVlZPVmpsMEdZdHgwV1BrQlBjdkVZQnRoeEtwZjNoLWFCUlpjcDdxX1pqaUhVT19sV3VZLXhOWnFVZ0Y4NHpUaDc3dlVvMjlrOVVKa25GZWdzblVCbmZlNmdMRnhqaEtuZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI has sent EU incident report on hijacked German website, Commission says",
+        "OpenAI has sent EU incident report on hijacked German website, Commission says"
       ]
     },
     {
@@ -273,7 +273,7 @@
     },
     {
       "cat": "models",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-09-07T09:10:48.000Z",
       "writtenSources": 2,
