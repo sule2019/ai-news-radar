@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 47,
+      "signal": 43,
       "sources": 2,
       "ts": "2026-09-07T10:56:49.000Z",
       "writtenSources": 2,
@@ -31,38 +31,6 @@
       "srcTitles": [
         "OpenAI has sent EU incident report on hijacked German website, Commission says",
         "OpenAI has sent EU incident report on hijacked German website, Commission says"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 37,
-      "sources": 2,
-      "ts": "2026-09-07T09:04:03.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
-      "s": "Cade Metz / New York Times : Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging Artificial i",
-      "b": [
-        "techmeme.com: Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
-        "nytimes.com: Early Data Indicates an A.I.-Generated Drug Could Slow Aging"
-      ],
-      "body": [
-        "techmeme.com: Cade Metz / New York Times : Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging Artificial intelligence was used to help develop a drug candidate, rentosertib, for a rare lung condition.",
-        "nytimes.com: Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260907/p9#a260907p9"
-        },
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
-        "Early Data Indicates an A.I.-Generated Drug Could Slow Aging"
       ]
     },
     {
@@ -96,8 +64,8 @@
           "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0N4eVRwRWtlV19HSUl2ZnBLTi0xYW9wblczZ1pUeUxKdmVHU2pkMTBUX0lBZVBQZ2FVUG95elNuLUxSU1EzQmlMaUlVZ1VnT0tLdDZDbHk2Zl9EenZjQ3dfT1VDQy1sSjhSOV9UWHJ6d1Z4VWMyQldnTEJvNUpDOW1uR2dTeGFON0ZOZ29obFlDdndsUXpWbW90OA?oc=5"
         },
         {
-          "d": "indianexpress.com",
-          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQel9Kel9hOHc0ZzFQVUVXR0FfbmdmMWhTRE40MlZzWlZjOGxDS3g0N3A2NDRwQWs2dTJvWGswTThNdmptTEpfSTFJTlRwUlZJRnNXTkFXdGlWdVIyQXhqbElNdmgzdnhqUnJCWHZpdE5EYmEtUDZZcFRaX0FDaXdNMjdGcTlZT2xWZjBVVl9SMFdRYldCVXVaLS1mWFVXa1g1NjJxQ0g5bUxqelZxXzdzUEgtOHExRXZKWDhzY2hYY25PeGE2MF9xRjJNUV9yM2JZZVpzZHh1eWo3anPSAeIBQVVfeXFMTXNqelo2Z1hHbUV5VG5wLUFKajhnNTF1NFNQeHFEQTBKZk1nTDlpYWFaMEtidHFBMWRUMVprYjNTb20zbGV0TW1vcmZOMmtFZFo1SmtEQjEzQm9oWDB0U3Q5dlBLUTBKbFpFREt3M0o1RGlmUGxFLWRjZ2Z3YmlNaG9EenNQUWc0S0xjNXY2Wk1wUXJWZWVnbW8zZWxvdlJHYnNLSlR5dVlWMi1FaGk0OFZXYTlNdGY2eDN3MWNiNFJ1bkdvR0dsZXE2SC1rZGp1bVYyM2lnVGhPdmRvREZEYTA3dw?oc=5"
+          "d": "euronews.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYndiNkRIdG1yYUVJYzFuXzV3RlRJT2NKV0pzanA3eFpmcEVySTFOUmJwNUdyRkNwcVFWb0R5S25adHFsWWZFQU1Zdy0xQlVZNERmeUJ4a20tVms2ZDNaUXhFT0xFUmxfVWh4YWk5N0s0V042MDN5Q2ROWjBEdW02SUNNNTJ6VzdZcFpuYW51ZHBSSFE2WEozdEk4eEhmZlBhaFA2Q3dRTndrLTk3Snc?oc=5"
         },
         {
           "d": "+1"
@@ -107,7 +75,39 @@
         "AI could pose 'existential' risk to humanity, UN rights chief warns",
         "AI could pose ‘existential’ risk to humanity, UN rights chief warns",
         "AI could pose ‘existential’ risk to humanity, UN rights chief warns",
-        "AI could pose ‘existential’ risk to humanity, UN rights chief warns"
+        "UN rights chief warns how AI could pose ‘existential risk to humanity’"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-09-07T09:04:03.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
+      "s": "Cade Metz / New York Times : Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging Artificial i",
+      "b": [
+        "techmeme.com: Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
+        "nytimes.com: Early Data Indicates an A.I.-Generated Drug Could Slow Aging"
+      ],
+      "body": [
+        "techmeme.com: Cade Metz / New York Times : Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging Artificial intelligence was used to help develop a drug candidate, rentosertib, for a rare lung condition.",
+        "nytimes.com: Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260907/p9#a260907p9"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
+        "Early Data Indicates an A.I.-Generated Drug Could Slow Aging"
       ]
     },
     {
@@ -140,6 +140,38 @@
       "srcTitles": [
         "Cheap Tricks",
         "Cheap Verifiers, Large Blind Spots: Measuring the Reliability Cost of Cost-Saving Cascades"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-07T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
+      "s": "I used an LLM to iteratively evolve an optimization algorithm rather than solve the packing directly. Starting from a simple seed solver, the LLM proposes algorithmic changes guided by a scoreboard of",
+      "b": [
+        "reddit.com: LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
+        "arxiv.org: LLM-Guided Program Evolution for Circle Packing: Breaking 10 Packomania Records for $28"
+      ],
+      "body": [
+        "reddit.com: I used an LLM to iteratively evolve an optimization algorithm rather than solve the packing directly. Starting from a simple seed solver, the LLM proposes algorithmic changes guided by a scoreboard of results and a history of prior attempts, and each candidate is scored by an independent verifier so improvements are kept and failures discarded. On the Packomania csqv benchmark it improved the best-known sum-of-radii for 10 values of N from 101 to 114, by 2.4 to 5.4%, in 15 iterations. Total LLM cost was $27.72. Packomania accepted the results independently. Paper: arxiv.org/abs/2609.05093 Code + solutions: github.com/ucsandman/discovery-loop Benchmark: packomania.com/csqv/csqv.html Happy to discuss the plateau-detection stopping rule, that s the piece I d most want critique on. submitted by /u/SIGH_I_CALL [link] [comments]",
+        "arxiv.org: arXiv:2609.05093v1 Announce Type: new Abstract: We present Discovery Loop, a lightweight system that uses a large language model (LLM) to iteratively evolve optimization algorithms. Starting from a simple seed solver, the LLM proposes algorithmic improvements guided by a scoreboard of results and a history of prior ideas. Each candidate is evaluated against an independent verifier; improvements are kept and failures discarded. Applied to the Packomania circle-packing benchmark (csqv: maximize the sum of radii of N variable-radius circles in the unit square), the system improved the best known solutions for 10 values of N in the range 101-114, with gains of 2.4%-5.4% over prior records, all within 15 iterations and at a total LLM cost of $27.72. These results have been independently accepted by Packomania. We describe the method, analyze cost-efficiency dynamics including an adaptive plateau-detection mechanism, and discuss implications for democratizing automated scientific discovery."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.05093"
+        }
+      ],
+      "srcTitles": [
+        "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
+        "LLM-Guided Program Evolution for Circle Packing: Breaking 10 Packomania Records for $28"
       ]
     },
     {
