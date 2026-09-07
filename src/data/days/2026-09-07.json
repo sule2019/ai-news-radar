@@ -3,6 +3,102 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-09-07T10:56:49.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI has sent EU incident report on hijacked German website, Commission says",
+      "s": "OpenAI has sent EU incident report on hijacked German website, Commission says Reuters",
+      "b": [
+        "reuters.com: OpenAI has sent EU incident report on hijacked German website, Commission says",
+        "whbl.com: OpenAI has sent EU incident report on hijacked German website, Commission says"
+      ],
+      "body": [
+        "reuters.com: OpenAI has sent EU incident report on hijacked German website, Commission says Reuters",
+        "whbl.com: OpenAI has sent EU incident report on hijacked German website, Commission says whbl.com"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSzJFOUNDZWR2SV9UcEdYdGV3Ql9RNnkwZFg1ZHZNV3VSSWllaldEUjhYNi1wZVBmOXZITXlEbGtldWhvdjJtUVZoejJ0UUFIZDNVd2ptUFdCRDB4ejVtRmcxTUNQMVNuSE9kWUxUS2xLenAzY2ZQeF9JVUZMWUlZZ0o4VktuUEhiTFZnRm40Vld0NGF5SFRMRHZqN0NtYUh6UW5FRFB5N1pnMU85Z3B5SFhaQXVVMXFHNE1j?oc=5"
+        },
+        {
+          "d": "whbl.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSk1OT19TeGtrUHVvMnNDU1lPM1dKZThUM3M3Z0xRSWlBUktFbFZRYzBTUTAwNTZkVGJDUVJ6VUZxNGlQMmd2TmNUVlZPVmpsMEdZdHgwV1BrQlBjdkVZQnRoeEtwZjNoLWFCUlpjcDdxX1pqaUhVT19sV3VZLXhOWnFVZ0Y4NHpUaDc3dlVvMjlrOVVKa25GZWdzblVCbmZlNmdMRnhqaEtuZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI has sent EU incident report on hijacked German website, Commission says",
+        "OpenAI has sent EU incident report on hijacked German website, Commission says"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-09-07T09:04:03.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
+      "s": "Cade Metz / New York Times : Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging Artificial i",
+      "b": [
+        "techmeme.com: Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
+        "nytimes.com: Early Data Indicates an A.I.-Generated Drug Could Slow Aging"
+      ],
+      "body": [
+        "techmeme.com: Cade Metz / New York Times : Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging Artificial intelligence was used to help develop a drug candidate, rentosertib, for a rare lung condition.",
+        "nytimes.com: Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260907/p9#a260907p9"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
+        "Early Data Indicates an A.I.-Generated Drug Could Slow Aging"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-07T09:10:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI could pose 'existential' risk to humanity, UN rights chief warns",
+      "s": "AI could pose 'existential' risk to humanity, UN rights chief warns Reuters",
+      "b": [
+        "reuters.com: AI could pose 'existential' risk to humanity, UN rights chief warns",
+        "wtvbam.com: AI could pose ‘existential’ risk to humanity, UN rights chief warns"
+      ],
+      "body": [
+        "reuters.com: AI could pose 'existential' risk to humanity, UN rights chief warns Reuters",
+        "wtvbam.com: AI could pose ‘existential’ risk to humanity, UN rights chief warns WTVB"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo?oc=5"
+        },
+        {
+          "d": "wtvbam.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0N4eVRwRWtlV19HSUl2ZnBLTi0xYW9wblczZ1pUeUxKdmVHU2pkMTBUX0lBZVBQZ2FVUG95elNuLUxSU1EzQmlMaUlVZ1VnT0tLdDZDbHk2Zl9EenZjQ3dfT1VDQy1sSjhSOV9UWHJ6d1Z4VWMyQldnTEJvNUpDOW1uR2dTeGFON0ZOZ29obFlDdndsUXpWbW90OA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI could pose 'existential' risk to humanity, UN rights chief warns",
+        "AI could pose ‘existential’ risk to humanity, UN rights chief warns"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 24,
       "sources": 1,
       "ts": "2026-09-07T00:00:00.000Z",
