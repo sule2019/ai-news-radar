@@ -31,12 +31,12 @@
           "u": "https://simonwillison.net/2026/Sep/7/video-compressor/"
         },
         {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83clhseU5POXhzUVZLTjFiSjEtdWZTVms4cVhhTzFvNjBUaElLV3l6ZzNfWnQ0QU9EblM1T05Bcmt2bGZHT3plNFJNNElLYVFtZnZ6dzNXLVpndw?oc=5"
-        },
-        {
           "d": "cnycentral.com",
           "u": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPUkFhWGdvc211Yk1wRVdoRkZ5ME8zZlU4bS1MT3ZMVVB3Q1ZsWFlIMTJjTHFtUVhmOXItT3hNelRqTXpzREROT0ZHQ19VdDkxbktVUkQzd0FVbERoREtVUkJYMEhKRnAtWGlGcHJFejZPSGpuT0hkVXNySE5yYVZxa0IwcUlhMk85MnJYdkJIVnJvLU1RRE0xVTVRYnJ0QlV1dU14UWZCUzZQMHZRZnpWX3hobWRCd296NnJMOW1kdXdHa2xtbzZnb2QzSzV4S0UzNW11c3IyTTZEb3ItOEpnekpzY0E5bzVsYU5KM3ZaUm0tTXVkSlgxeVdEemFBV2cxcDJzcjBMekR2MkZJUEJ6RFVmOUk3QWI4MzhZQVVBWlZIcGNNY2xlT2VPcmVON3RsRkx0SVdtNWpwZjZmWFF2UlF5ZE4xWkprbm5PUFlCTmZLOTg?oc=5"
+        },
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83clhseU5POXhzUVZLTjFiSjEtdWZTVms4cVhhTzFvNjBUaElLV3l6ZzNfWnQ0QU9EblM1T05Bcmt2bGZHT3plNFJNNElLYVFtZnZ6dzNXLVpndw?oc=5"
         },
         {
           "d": "+1"
@@ -45,13 +45,13 @@
       "srcTitles": [
         "Sources: ByteDance founder Zhang Yiming is overseeing the development of an AI model for real-time spatial video, which could launch as soon as next month (Bloomberg)",
         "Video compressor",
-        "Victim loses £250k after scammers use AI video of 'well-known' celebrity",
-        "'Beware my power': White House shares AI-generated video of Trump as Green Lantern"
+        "'Beware my power': White House shares AI-generated video of Trump as Green Lantern",
+        "Victim loses £250k after scammers use AI video of 'well-known' celebrity"
       ]
     },
     {
       "cat": "models",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-09-07T12:22:07.000Z",
       "writtenSources": 2,
@@ -83,7 +83,44 @@
     },
     {
       "cat": "models",
-      "signal": 35,
+      "signal": 37,
+      "sources": 3,
+      "ts": "2026-09-07T09:04:03.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
+      "s": "Cade Metz / New York Times : Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging Artificial i",
+      "b": [
+        "techmeme.com: Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
+        "nytimes.com: Early Data Indicates an A.I.-Generated Drug Could Slow Aging"
+      ],
+      "body": [
+        "techmeme.com: Cade Metz / New York Times : Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging Artificial intelligence was used to help develop a drug candidate, rentosertib, for a rare lung condition.",
+        "nytimes.com: Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260907/p9#a260907p9"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5"
+        },
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUDBrajV4ME1kNFlBbjdyWWFMZDV4RWwyOFJBNjQxeEY0QW51cnloTHZScGZKSTFKNnpCRklBS1VLenRqS2Fsc1JfZ0x0LWpLQy0zTVhQMlNzN3ZTQUxLVER0MVI2QUZPN2g3Vm50RFRETlBjWlZvMU9BNF85LWd0OGpEZXdTWmc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
+        "Early Data Indicates an A.I.-Generated Drug Could Slow Aging",
+        "Study Suggests AI-Generated Drug Could Slow Aging"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 31,
       "sources": 2,
       "ts": "2026-09-07T10:56:49.000Z",
       "writtenSources": 2,
@@ -115,34 +152,34 @@
     },
     {
       "cat": "models",
-      "signal": 34,
+      "signal": 29,
       "sources": 2,
-      "ts": "2026-09-07T09:04:03.000Z",
+      "ts": "2026-09-07T19:37:35.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
-      "s": "Cade Metz / New York Times : Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging Artificial i",
+      "h": "Trump backs data centers as voter concerns grow ahead of midterm elections - WEAR-TV",
+      "s": "Trump backs data centers as voter concerns grow ahead of midterm elections WEAR-TV",
       "b": [
-        "techmeme.com: Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
-        "nytimes.com: Early Data Indicates an A.I.-Generated Drug Could Slow Aging"
+        "weartv.com: Trump backs data centers as voter concerns grow ahead of midterm elections - WEAR-TV",
+        "thenationaldesk.com: Trump backs data centers as voter concerns grow ahead of midterm elections"
       ],
       "body": [
-        "techmeme.com: Cade Metz / New York Times : Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging Artificial intelligence was used to help develop a drug candidate, rentosertib, for a rare lung condition.",
-        "nytimes.com: Early Data Indicates an A.I.-Generated Drug Could Slow Aging The New York Times"
+        "weartv.com: Trump backs data centers as voter concerns grow ahead of midterm elections WEAR-TV",
+        "thenationaldesk.com: Trump backs data centers as voter concerns grow ahead of midterm elections The National Desk"
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260907/p9#a260907p9"
+          "d": "weartv.com",
+          "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxQbEVwNUlyQzA2U3pkTGNwNDE4WlRralFNOWZYTTRYcnpGU3NvdVNHZE1jM3FITGR5UkNnODRPY1MzUjdicE5YWEt5S1V2YnIzejlfS0JqTjZ5TTNUVVBBWE81bzhEd01rLXdZLVVFSG1BYzJwOTI2SWpRaVpuMnp0Rmo2R3ZUb2NrN2xRRW13cVhVSGZxd2tSMnhoNDZtbFdfM1FPYkNWOVdhcEdpZ1EtMFFYY0NseW9vbzd0TThBMEM3S0k4YVhUc3lyV3FLQXNJYl9YdFlZeFk5aHhfemdMUHpDT2d6M1ZpWXBlek1lbzdnVVRMRENVNmZPazQtMElxMjMzME0yYks4UEZtRG95RUlmdnM2MWhhVVNuOC1aSHlQeFNieWdwaDVkZXVwTlNTRENJ?oc=5"
         },
         {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZkh6d3hkX2RaWUpjSGtmeEJjS0NLTXNzWkk4eF9CQWJxYTRFVGFhY2VlLVJIRFRaeE5nWnlVZ0trVy1NNVpENkRZUWxVRUoxRkFMR2FaLWZMeV9aVTlYZGtqaVJZcjBjd2xZNjV5dG12dERmWnhDS3E1dldhNm9IdA?oc=5"
+          "d": "thenationaldesk.com",
+          "u": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNMFY0azc4UDRLd3U3bzAwM0ExdXJQYWJ6QmJVYW5hWjk3cXllNGxwaXd5T2kyMGhnQzA0MzZVZ09RZXhLYjR0ZjhBM1cxU25oSk5UY05UNDBCVlRtV2xTOFNMRFBDd0x4YWpRbmFLUVh1SDZjRF9pZjJKblFoT0t4cWNUdnZ3dlFodVEtaGQyTnJ2dzhQMkdIT2tQa25NcnpDcUV2VWVRX3hRSGRrUDFGM0Zka1VWbkViX0dWMFQ2bUN3ZGMxMVlONTJRZ2R5Wmw3aDFnd0x6NzVJdF95bzQwd2VWeXBCVFFrZUxaU2FwSnhpaF8tOGRDbk1fOUhybXBrbmZVSkFBYW5hSlNFTVpIV3dHTkh4R2FNZXZYMjVtNXlfM2tsNUFJNlZkM1lBZmFnMHdObkdR?oc=5"
         }
       ],
       "srcTitles": [
-        "Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
-        "Early Data Indicates an A.I.-Generated Drug Could Slow Aging"
+        "Trump backs data centers as voter concerns grow ahead of midterm elections - WEAR-TV",
+        "Trump backs data centers as voter concerns grow ahead of midterm elections"
       ]
     },
     {
@@ -236,7 +273,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-07T09:10:48.000Z",
       "writtenSources": 2,
