@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 43,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-09-07T10:56:49.000Z",
       "writtenSources": 2,
@@ -36,51 +36,6 @@
     {
       "cat": "models",
       "signal": 34,
-      "sources": 5,
-      "ts": "2026-09-07T09:10:48.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "AI could pose 'existential' risk to humanity, UN rights chief warns",
-      "s": "AI could pose 'existential' risk to humanity, UN rights chief warns Reuters",
-      "b": [
-        "reuters.com: AI could pose 'existential' risk to humanity, UN rights chief warns",
-        "wtvbam.com: AI could pose ‘existential’ risk to humanity, UN rights chief warns"
-      ],
-      "body": [
-        "reuters.com: AI could pose 'existential' risk to humanity, UN rights chief warns Reuters",
-        "wtvbam.com: AI could pose ‘existential’ risk to humanity, UN rights chief warns WTVB"
-      ],
-      "l": [
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQV3llNF9IYW5jOC1zYWZwY2hlYVR4RndlVWkxemtJNjlOSVhuZkhZR3d1TnE4c2sxcFlvSEd2YmJaQXBTeHpJV1NqQ0t6OGgtOGVRWXRTTDJmdHFFd0tvZ2VYZzJUU3BGTzVqZHJqRV9CUHN6VkpSWkZsdUZJV0p5ZDR0TlFSZ2dqNkRvdWMzSG44bTZFV3B4QW9pcmhmN1lmUlNtSmRvdWVuX2Fo?oc=5"
-        },
-        {
-          "d": "kfgo.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMllFRW9tM3ZtQnVNdkRkLWFPZjk0aEJtbmlGQmNmOVBQNUhvVDExak1PWHRSSVlWcEVkVV94SzN4aVlkVERGSmhINF95Q010US05dGcxODI3dk5sRnE5YjVSeTVDZzJQQXhvT2xTa1htaF9EZmNKTjlHZzgtM2lHdk9YRzZpT3JzUzRsM2F2YTBmSXRxN2RiMg?oc=5"
-        },
-        {
-          "d": "wtvbam.com",
-          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN0N4eVRwRWtlV19HSUl2ZnBLTi0xYW9wblczZ1pUeUxKdmVHU2pkMTBUX0lBZVBQZ2FVUG95elNuLUxSU1EzQmlMaUlVZ1VnT0tLdDZDbHk2Zl9EenZjQ3dfT1VDQy1sSjhSOV9UWHJ6d1Z4VWMyQldnTEJvNUpDOW1uR2dTeGFON0ZOZ29obFlDdndsUXpWbW90OA?oc=5"
-        },
-        {
-          "d": "euronews.com",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYndiNkRIdG1yYUVJYzFuXzV3RlRJT2NKV0pzanA3eFpmcEVySTFOUmJwNUdyRkNwcVFWb0R5S25adHFsWWZFQU1Zdy0xQlVZNERmeUJ4a20tVms2ZDNaUXhFT0xFUmxfVWh4YWk5N0s0V042MDN5Q2ROWjBEdW02SUNNNTJ6VzdZcFpuYW51ZHBSSFE2WEozdEk4eEhmZlBhaFA2Q3dRTndrLTk3Snc?oc=5"
-        },
-        {
-          "d": "+1"
-        }
-      ],
-      "srcTitles": [
-        "AI could pose 'existential' risk to humanity, UN rights chief warns",
-        "AI could pose ‘existential’ risk to humanity, UN rights chief warns",
-        "AI could pose ‘existential’ risk to humanity, UN rights chief warns",
-        "UN rights chief warns how AI could pose ‘existential risk to humanity’"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 34,
       "sources": 2,
       "ts": "2026-09-07T09:04:03.000Z",
       "writtenSources": 2,
@@ -108,6 +63,38 @@
       "srcTitles": [
         "Insilico, which uses AI to accelerate drug discovery, says early data shows rentosertib, a drug whose structure was generated with AI's help, could slow aging (Cade Metz/New York Times)",
         "Early Data Indicates an A.I.-Generated Drug Could Slow Aging"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-07T09:10:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI could pose 'existential' risk to humanity, UN rights chief warns",
+      "s": "AI could pose 'existential' risk to humanity, UN rights chief warns Reuters",
+      "b": [
+        "reuters.com: AI could pose 'existential' risk to humanity, UN rights chief warns",
+        "wtvbam.com: AI could pose ‘existential’ risk to humanity, UN rights chief warns"
+      ],
+      "body": [
+        "reuters.com: AI could pose 'existential' risk to humanity, UN rights chief warns Reuters",
+        "wtvbam.com: AI could pose ‘existential’ risk to humanity, UN rights chief warns WTVB"
+      ],
+      "l": [
+        {
+          "d": "euronews.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYndiNkRIdG1yYUVJYzFuXzV3RlRJT2NKV0pzanA3eFpmcEVySTFOUmJwNUdyRkNwcVFWb0R5S25adHFsWWZFQU1Zdy0xQlVZNERmeUJ4a20tVms2ZDNaUXhFT0xFUmxfVWh4YWk5N0s0V042MDN5Q2ROWjBEdW02SUNNNTJ6VzdZcFpuYW51ZHBSSFE2WEozdEk4eEhmZlBhaFA2Q3dRTndrLTk3Snc?oc=5"
+        },
+        {
+          "d": "indianexpress.com",
+          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQel9Kel9hOHc0ZzFQVUVXR0FfbmdmMWhTRE40MlZzWlZjOGxDS3g0N3A2NDRwQWs2dTJvWGswTThNdmptTEpfSTFJTlRwUlZJRnNXTkFXdGlWdVIyQXhqbElNdmgzdnhqUnJCWHZpdE5EYmEtUDZZcFRaX0FDaXdNMjdGcTlZT2xWZjBVVl9SMFdRYldCVXVaLS1mWFVXa1g1NjJxQ0g5bUxqelZxXzdzUEgtOHExRXZKWDhzY2hYY25PeGE2MF9xRjJNUV9yM2JZZVpzZHh1eWo3anPSAeIBQVVfeXFMTXNqelo2Z1hHbUV5VG5wLUFKajhnNTF1NFNQeHFEQTBKZk1nTDlpYWFaMEtidHFBMWRUMVprYjNTb20zbGV0TW1vcmZOMmtFZFo1SmtEQjEzQm9oWDB0U3Q5dlBLUTBKbFpFREt3M0o1RGlmUGxFLWRjZ2Z3YmlNaG9EenNQUWc0S0xjNXY2Wk1wUXJWZWVnbW8zZWxvdlJHYnNLSlR5dVlWMi1FaGk0OFZXYTlNdGY2eDN3MWNiNFJ1bkdvR0dsZXE2SC1rZGp1bVYyM2lnVGhPdmRvREZEYTA3dw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "UN rights chief warns how AI could pose ‘existential risk to humanity’",
+        "AI could pose ‘existential’ risk to humanity, UN rights chief warns"
       ]
     },
     {
