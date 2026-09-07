@@ -1,4 +1,30 @@
 {
   "date": "2026-09-07",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-07T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Supporting independent journalism in Ukraine",
+      "s": "OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism.",
+      "b": [
+        "openai.com: Supporting independent journalism in Ukraine"
+      ],
+      "body": [
+        "openai.com: OpenAI, AIRPPU and WAN-IFRA launch an AI program to help Ukrainian news organizations strengthen innovation, resilience, and independent journalism."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/supporting-independent-journalism-in-ukraine"
+        }
+      ],
+      "srcTitles": [
+        "Supporting independent journalism in Ukraine"
+      ]
+    }
+  ]
 }
