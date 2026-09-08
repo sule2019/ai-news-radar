@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 57,
+      "signal": 54,
       "sources": 4,
       "ts": "2026-09-08T05:00:05.000Z",
       "writtenSources": 4,
@@ -44,6 +44,31 @@
         "Mistral AI raises €3 billion in response to doubts over its strategic direction",
         "French start-up Mistral AI raises €3 billion in Samsung-led round",
         "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-09-08T10:34:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "s": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only ",
+      "b": [
+        "technologyreview.com: This AI entrepreneur is developing agents that can plan ahead for the unexpected"
+      ],
+      "body": [
+        "technologyreview.com: Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up for in robots. Humanoids of various shapes and sizes hang like marionettes from racks that run down the center of the wide-open space. While Hafner, 31, won’t say too much about his new venture just yet, he describes it as a continuation of his longtime work to enable AI to navigate environments it has not encountered in training. The humanoids, which he imports from China, are the next evolution of this work—and its physical embodiment. Their ability to react in previously untested scenarios will be key to getting robots into human spaces. Because if you want to send a robot into a person’s home, for example, it needs to be able to handle a floor plan and furniture it’s never seen before. To achieve this, Hafner relies on something called model-based reinforcement learning. He develops world models—AI models designed to emulate physical reality—and trains agents within them. The agent essentially treats the model as a real-world simulation and learns how to act there. It then uses those experiences to make predictions (to dream or imagine, Hafner might say) about future outcomes. That allows agents—or the robots they’re embedded in—to navigate unfamiliar situations IRL. “I get to interact with a lot of really smart people in research at Google, and he easily sits in the top half of 1%.” Timothy Lillicrap, Google DeepMind Unlike other efforts, Hafner’s technique enables agents and the robots they control to execute massively complicated tasks without the real-world trial-and-­error training that’s traditionally been used in robotics. Hafner grew up in a rural town in northeastern Germany, where his parents were both classical musicians. He learned programming from a neigh"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
+        }
+      ],
+      "srcTitles": [
+        "This AI entrepreneur is developing agents that can plan ahead for the unexpected"
       ]
     }
   ]
