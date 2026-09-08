@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 75,
-      "sources": 3,
+      "signal": 79,
+      "sources": 4,
       "ts": "2026-09-08T14:00:00.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -30,6 +30,10 @@
           "u": "https://www.techmeme.com/260908/p23#a260908p23"
         },
         {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas"
+        },
+        {
           "d": "spectrum.ieee.org",
           "u": "https://spectrum.ieee.org/alphagenome-atlas"
         }
@@ -37,13 +41,53 @@
       "srcTitles": [
         "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
         "Google DeepMind releases AlphaGenome Atlas, a 1PB dataset of predicted molecular effects for all ~9B possible single-letter DNA changes in the human genome (Google)",
+        "Google’s Atlas of the human genome could pave the way for new treatments",
         "Google DeepMind Maps 9 Billion Possible DNA Variants"
       ]
     },
     {
+      "cat": "models",
+      "signal": 61,
+      "sources": 3,
+      "ts": "2026-09-08T10:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "On the Navier–Stokes Millennium Prize Problem",
+      "s": "We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+      "b": [
+        "openai.com: On the Navier–Stokes Millennium Prize Problem",
+        "nytimes.com: OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
+        "reddit.com: OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) [N]"
+      ],
+      "body": [
+        "openai.com: We’re sharing an AI-generated solution to the Navier–Stokes Millennium Prize Problem, including a writeup and a formal proof in Lean.",
+        "nytimes.com: OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’ nytimes.com",
+        "reddit.com: As reported by the New York Times: https://www.nytimes.com/2026/09/08/science/openai-proof-millennium-problem.html?smid=nytcore-ios-share OpenAI’s announcement: https://openai.com/index/navier-stokes-solution/ submitted by /u/Shizuka_Kuze [link] [comments]"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/navier-stokes-solution"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5"
+        },
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/"
+        }
+      ],
+      "srcTitles": [
+        "On the Navier–Stokes Millennium Prize Problem",
+        "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
+        "OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) [N]"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 59,
-      "sources": 7,
+      "signal": 52,
+      "sources": 3,
       "ts": "2026-09-08T05:00:05.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -62,30 +106,47 @@
       ],
       "l": [
         {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYTJBTzZBUm93RGpLWWFQOHBOaW1GeWNBUTdjeDBSYjd3Z0NMSzNaRTJ4R0NUdkZhVzhpVUdWXzJReWJKVWtBbXVuTW82WTRsOHhPc0VFQTVKdHBpLUlHdWFoVEUxT2twczk4ekZIQWd6b3RmMXRIZ3ZlVFM?oc=5"
-        },
-        {
-          "d": "euronews.com",
-          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmUtZEpsdDd6REdrcHhZZ0pSMzRVc0twWmFRcHJDTllDdDJCcF85SGdIb2lSTjIxeHRKU0ZuYmQyNk14Qm03TThSOEd2Q2VtMWpmck5Pa3RyQnhzSGdtWXJ3elRUZG9YdzM4aVRpd1BEeVdGMlJrZlVQalVfc3NmMnJIaDVPWjBnS28xV0c4OWJVR1h3MGRYNlE1emlyME10MV9ZYnQ3a0MweW5N?oc=5"
-        },
-        {
-          "d": "kedglobal.com",
-          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tbnVKOEJHbjBFRFNfYnVXQW5WS3dVa1hGb2Iyb2hhNUkxSzhhX1RPTE1Lb1RZazh2TmFrTFh3Q3ZJbkZxNHpjbUJOUnUweUdXZFFZempBdlVBdl9uMXlWVmNpdDNpLU1xeTBDQVRVcGtpajlwQ2RjQ0JEVQ?oc=5"
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzZndFBZYk1SQ19xOVJYSXR1ZHdKa2p2a0RSYTVfeWVicHRLZ2JOdG5zc3hibHhJYWh1V3pIVEhDaV9Wc2xQV2RlYkNkTEZJSDV2V1V6aGloYXVPcFNtMHlCU1ZsTnR5UEZTNTI5WTExa1A4Vy0xZjN4ZFE3TVUzN2tUWFNnc3V2aXNBRldFWXlGYnFwcGtGVkFtRE9HTDktVUhJR09HVUwtdHZmNHdjWGZCTkw?oc=5"
         },
         {
           "d": "pymnts.com",
           "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZjBkd202SzJsdGJQZVA3SkQ4TFg0ektBQkY0OGRiR3hSNGE0VDhaWXhsSVhILXJVMUVuOEI1T3Q2cGJNdjZwT2gxbEhFUzZVQnZzS0FQdDBwNkV3Vm9FdHZiX2NNVW1VU3NQYWkzUENFQkZNUmdZbEpMcS1iRWM5N3hXWFlQTkVIMktaalJfMUpLSjZGOUdXNzZSNkhSZ1JUaEpEWWlLSlVQTFZnYmJrSzJwQW42QVdCSVpWTDM4amlPZnpmQVZjSU9zMmtFWE9lMlljRA?oc=5"
         },
         {
-          "d": "+3"
+          "d": "kedglobal.com",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tbnVKOEJHbjBFRFNfYnVXQW5WS3dVa1hGb2Iyb2hhNUkxSzhhX1RPTE1Lb1RZazh2TmFrTFh3Q3ZJbkZxNHpjbUJOUnUweUdXZFFZempBdlVBdl9uMXlWVmNpdDNpLU1xeTBDQVRVcGtpajlwQ2RjQ0JEVQ?oc=5"
         }
       ],
       "srcTitles": [
-        "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift",
-        "French start-up Mistral AI raises €3 billion in Samsung-led round",
-        "Samsung backs Mistral AI in $3.5 billion funding round to deepen AI ties",
-        "Mistral Raises $3.5 Billion for AI Research in Record EU Funding Round"
+        "French AI company Mistral hits $24 billion valuation in funding round",
+        "Mistral Raises $3.5 Billion for AI Research in Record EU Funding Round",
+        "Samsung backs Mistral AI in $3.5 billion funding round to deepen AI ties"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-08T11:30:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Introducing ChatGPT Images 2.5",
+      "s": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "b": [
+        "openai.com: Introducing ChatGPT Images 2.5"
+      ],
+      "body": [
+        "openai.com: ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-chatgpt-images-2-5"
+        }
+      ],
+      "srcTitles": [
+        "Introducing ChatGPT Images 2.5"
       ]
     },
     {
@@ -115,52 +176,34 @@
     },
     {
       "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-09-08T13:00:00.000Z",
-      "writtenSources": 1,
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-08T16:16:10.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "The Work Now Within Reach",
-      "s": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "h": "Florida AG proposes holding AI companies liable when chatbots help commit crimes",
+      "s": "Florida AG proposes holding AI companies liable when chatbots help commit crimes WPEC",
       "b": [
-        "openai.com: The Work Now Within Reach"
+        "cbs12.com: Florida AG proposes holding AI companies liable when chatbots help commit crimes",
+        "news4jax.com: Florida AG pushes to hold AI chatbot companies accountable for crimes"
       ],
       "body": [
-        "openai.com: Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
+        "cbs12.com: Florida AG proposes holding AI companies liable when chatbots help commit crimes WPEC",
+        "news4jax.com: Florida AG pushes to hold AI chatbot companies accountable for crimes News4JAX"
       ],
       "l": [
         {
-          "d": "openai.com",
-          "u": "https://openai.com/index/the-work-now-within-reach"
-        }
-      ],
-      "srcTitles": [
-        "The Work Now Within Reach"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-09-08T10:34:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "s": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only ",
-      "b": [
-        "technologyreview.com: This AI entrepreneur is developing agents that can plan ahead for the unexpected"
-      ],
-      "body": [
-        "technologyreview.com: Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up for in robots. Humanoids of various shapes and sizes hang like marionettes from racks that run down the center of the wide-open space. While Hafner, 31, won’t say too much about his new venture just yet, he describes it as a continuation of his longtime work to enable AI to navigate environments it has not encountered in training. The humanoids, which he imports from China, are the next evolution of this work—and its physical embodiment. Their ability to react in previously untested scenarios will be key to getting robots into human spaces. Because if you want to send a robot into a person’s home, for example, it needs to be able to handle a floor plan and furniture it’s never seen before. To achieve this, Hafner relies on something called model-based reinforcement learning. He develops world models—AI models designed to emulate physical reality—and trains agents within them. The agent essentially treats the model as a real-world simulation and learns how to act there. It then uses those experiences to make predictions (to dream or imagine, Hafner might say) about future outcomes. That allows agents—or the robots they’re embedded in—to navigate unfamiliar situations IRL. “I get to interact with a lot of really smart people in research at Google, and he easily sits in the top half of 1%.” Timothy Lillicrap, Google DeepMind Unlike other efforts, Hafner’s technique enables agents and the robots they control to execute massively complicated tasks without the real-world trial-and-­error training that’s traditionally been used in robotics. Hafner grew up in a rural town in northeastern Germany, where his parents were both classical musicians. He learned programming from a neigh"
-      ],
-      "l": [
+          "d": "cbs12.com",
+          "u": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPNVZVS0YwN3gzWE1keFE4MFVPUkJjVzBsblloSHMzOU53MjJzc3lXWFZmcjVUVkNzLXIxVDFnU2JuYUdySm5jeDk4MXk2M0V5ZnFGNEZaWVVEeGVfRDROSU9wWjdJVzgxcEN0d3lKQ3lOUzVId1l5Q3R0SkpjbFhpdnlseE1PeWROZk0tVENneEpmeGpsSFBaa3VqNFQzZWRtd1RpY01GZXhHb2ticDZvaGRWYlJMdkszUUhEUnpHazREMXVjMnBaWHVHTlVRdWU0alNIOW0wdk9iTW5leHo2Mkl0RldTeGdveWwtWXpmc0VSRU16LVBSU3RBcWFhcjFTQVdsUlJpdkhsNjRLUkhWelNCNEI2Wk4yb3VVMmtNdXVGUklxb0M1V2dFaFduNDVzYzluUzdWeUdrRHBwenFPaG8xRXBlakgyMjNIU0o1b3hBSGtOLXlHS2FHTFYwcWx3WDRfbWI2VG5RR2hNSmZ4UDRIYllPSnVVdmxXRGxSNA?oc=5"
+        },
         {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
+          "d": "news4jax.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPU0M2NHo4WkowSjQ4blR2Z19PMFVpUW9rS1JZUEJlOU9aTGFLdER3T0RsNW5pNTdXQXZGTmdGZ0JLNVBHUXE0emJ5OTZBM09yVzlNNEJkMENpNUg2QzFJUDhtTlhGeWIwOW1rWmJPS2xVQXFURHFxcWhaQlp3VWExVUpzSDdTbjZJSzlLRmhEb3A4VWUtcWVjQXNyNG9PY0x0QWMzXy1kVFR2NGZ5ZWQ4eTA2U19nZ1E0?oc=5"
         }
       ],
       "srcTitles": [
-        "This AI entrepreneur is developing agents that can plan ahead for the unexpected"
+        "Florida AG proposes holding AI companies liable when chatbots help commit crimes",
+        "Florida AG pushes to hold AI chatbot companies accountable for crimes"
       ]
     },
     {
@@ -193,6 +236,81 @@
       "srcTitles": [
         "AI will cure cancer in our lifetime, claims boss of UK chip giant",
         "AI will help find cure for cancer ‘within our lifetimes’, says Arm Holdings chief"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-08T13:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The Work Now Within Reach",
+      "s": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "b": [
+        "openai.com: The Work Now Within Reach"
+      ],
+      "body": [
+        "openai.com: Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/the-work-now-within-reach"
+        }
+      ],
+      "srcTitles": [
+        "The Work Now Within Reach"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-08T10:34:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "s": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only ",
+      "b": [
+        "technologyreview.com: This AI entrepreneur is developing agents that can plan ahead for the unexpected"
+      ],
+      "body": [
+        "technologyreview.com: Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in the way of furniture. But what it lacks in decor, it makes up for in robots. Humanoids of various shapes and sizes hang like marionettes from racks that run down the center of the wide-open space. While Hafner, 31, won’t say too much about his new venture just yet, he describes it as a continuation of his longtime work to enable AI to navigate environments it has not encountered in training. The humanoids, which he imports from China, are the next evolution of this work—and its physical embodiment. Their ability to react in previously untested scenarios will be key to getting robots into human spaces. Because if you want to send a robot into a person’s home, for example, it needs to be able to handle a floor plan and furniture it’s never seen before. To achieve this, Hafner relies on something called model-based reinforcement learning. He develops world models—AI models designed to emulate physical reality—and trains agents within them. The agent essentially treats the model as a real-world simulation and learns how to act there. It then uses those experiences to make predictions (to dream or imagine, Hafner might say) about future outcomes. That allows agents—or the robots they’re embedded in—to navigate unfamiliar situations IRL. “I get to interact with a lot of really smart people in research at Google, and he easily sits in the top half of 1%.” Timothy Lillicrap, Google DeepMind Unlike other efforts, Hafner’s technique enables agents and the robots they control to execute massively complicated tasks without the real-world trial-and-­error training that’s traditionally been used in robotics. Hafner grew up in a rural town in northeastern Germany, where his parents were both classical musicians. He learned programming from a neigh"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents/"
+        }
+      ],
+      "srcTitles": [
+        "This AI entrepreneur is developing agents that can plan ahead for the unexpected"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-08T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Funding grants for new research into AI and teen development",
+      "s": "Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety.",
+      "b": [
+        "openai.com: Funding grants for new research into AI and teen development"
+      ],
+      "body": [
+        "openai.com: Apply now for OpenAI’s $5 million grant program supporting independent research on how generative AI affects teen development, well-being, and safety."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/teen-development-research-grants"
+        }
+      ],
+      "srcTitles": [
+        "Funding grants for new research into AI and teen development"
       ]
     }
   ]
