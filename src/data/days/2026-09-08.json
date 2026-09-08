@@ -1,4 +1,50 @@
 {
   "date": "2026-09-08",
-  "stories": []
+  "stories": [
+    {
+      "cat": "funding",
+      "signal": 57,
+      "sources": 4,
+      "ts": "2026-09-08T05:00:05.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "French AI company Mistral hits $24 billion valuation in funding round",
+      "s": "French AI company Mistral hits $24 billion valuation in funding round Reuters",
+      "b": [
+        "reuters.com: French AI company Mistral hits $24 billion valuation in funding round",
+        "lemonde.fr: Mistral AI raises €3 billion in response to doubts over its strategic direction",
+        "euronews.com: French start-up Mistral AI raises €3 billion in Samsung-led round"
+      ],
+      "body": [
+        "reuters.com: French AI company Mistral hits $24 billion valuation in funding round Reuters",
+        "lemonde.fr: Mistral AI raises €3 billion in response to doubts over its strategic direction Le Monde.fr",
+        "euronews.com: French start-up Mistral AI raises €3 billion in Samsung-led round Euronews.com",
+        "nytimes.com: French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift The New York Times"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzZndFBZYk1SQ19xOVJYSXR1ZHdKa2p2a0RSYTVfeWVicHRLZ2JOdG5zc3hibHhJYWh1V3pIVEhDaV9Wc2xQV2RlYkNkTEZJSDV2V1V6aGloYXVPcFNtMHlCU1ZsTnR5UEZTNTI5WTExa1A4Vy0xZjN4ZFE3TVUzN2tUWFNnc3V2aXNBRldFWXlGYnFwcGtGVkFtRE9HTDktVUhJR09HVUwtdHZmNHdjWGZCTkw?oc=5"
+        },
+        {
+          "d": "lemonde.fr",
+          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNkdlM2Jzay1heWg3WFNoNl9zUDdoYVFJbzJXMUhEMGxzQ1R5VVliaklNdkx5N3hCb2hEaTNiS0tMUWVMZWlXNmdlVVkzckpSWDlsVnZRYXY3M2RIbW84OThvRTJZeW45WHliLTdyajV2NExjMzFTNmtaN09iNDRJeTJVQVAyWnRnM1hRczZNWnRObTJrX24zYUdxSy1PTTU0ZlluU0dXcG8xS2w4UVdtSXVocDVGby1mckVXa25kbDNmaGFGbnY3MVh1RWdCUzZvUjg3UURIMXI2alh6dzlkVQ?oc=5"
+        },
+        {
+          "d": "euronews.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmUtZEpsdDd6REdrcHhZZ0pSMzRVc0twWmFRcHJDTllDdDJCcF85SGdIb2lSTjIxeHRKU0ZuYmQyNk14Qm03TThSOEd2Q2VtMWpmck5Pa3RyQnhzSGdtWXJ3elRUZG9YdzM4aVRpd1BEeVdGMlJrZlVQalVfc3NmMnJIaDVPWjBnS28xV0c4OWJVR1h3MGRYNlE1emlyME10MV9ZYnQ3a0MweW5N?oc=5"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYTJBTzZBUm93RGpLWWFQOHBOaW1GeWNBUTdjeDBSYjd3Z0NMSzNaRTJ4R0NUdkZhVzhpVUdWXzJReWJKVWtBbXVuTW82WTRsOHhPc0VFQTVKdHBpLUlHdWFoVEUxT2twczk4ekZIQWd6b3RmMXRIZ3ZlVFM?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "French AI company Mistral hits $24 billion valuation in funding round",
+        "Mistral AI raises €3 billion in response to doubts over its strategic direction",
+        "French start-up Mistral AI raises €3 billion in Samsung-led round",
+        "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift"
+      ]
+    }
+  ]
 }
