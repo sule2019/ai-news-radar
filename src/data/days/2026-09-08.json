@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 79,
+      "signal": 76,
       "sources": 4,
       "ts": "2026-09-08T14:00:00.000Z",
       "writtenSources": 3,
@@ -85,6 +85,36 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 60,
+      "sources": 2,
+      "ts": "2026-09-08T11:30:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Introducing ChatGPT Images 2.5",
+      "s": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
+      "b": [
+        "openai.com: Introducing ChatGPT Images 2.5"
+      ],
+      "body": [
+        "openai.com: ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-chatgpt-images-2-5"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260908/p34#a260908p34"
+        }
+      ],
+      "srcTitles": [
+        "Introducing ChatGPT Images 2.5",
+        "OpenAI launches ChatGPT Images 2.5, which it says cuts image generation latency by up to 50% vs. Images 2.0, and adds a Sketch feature for drawing in ChatGPT (Ina Fried/Axios)"
+      ]
+    },
+    {
       "cat": "funding",
       "signal": 52,
       "sources": 3,
@@ -122,31 +152,6 @@
         "French AI company Mistral hits $24 billion valuation in funding round",
         "Mistral Raises $3.5 Billion for AI Research in Record EU Funding Round",
         "Samsung backs Mistral AI in $3.5 billion funding round to deepen AI ties"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-09-08T11:30:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Introducing ChatGPT Images 2.5",
-      "s": "ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas.",
-      "b": [
-        "openai.com: Introducing ChatGPT Images 2.5"
-      ],
-      "body": [
-        "openai.com: ChatGPT Images 2.5 helps turn your ideas, sketches, and reference photos into more personalized, polished images that better reflect your ideas."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/introducing-chatgpt-images-2-5"
-        }
-      ],
-      "srcTitles": [
-        "Introducing ChatGPT Images 2.5"
       ]
     },
     {
