@@ -2,53 +2,57 @@
   "date": "2026-09-08",
   "stories": [
     {
-      "cat": "funding",
-      "signal": 76,
-      "sources": 4,
-      "ts": "2026-09-08T14:00:00.000Z",
-      "writtenSources": 3,
+      "cat": "products",
+      "signal": 79,
+      "sources": 6,
+      "ts": "2026-09-08T16:20:31.000Z",
+      "writtenSources": 6,
       "draft": true,
-      "h": "Google DeepMind Maps 9 Billion Possible DNA Variants",
-      "s": "DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is consid",
+      "h": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "s": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still t",
       "b": [
-        "spectrum.ieee.org: Google DeepMind Maps 9 Billion Possible DNA Variants",
-        "thetimes.com: Google DeepMind maps human DNA in quest to cure ‘all disease’",
-        "fortune.com: Google DeepMind publishes AI-powered predictions for effect of all 9B mutations to human DNA"
+        "techcrunch.com: Meta debuts its Muse AI agent. Will consumers trust it?",
+        "theverge.com: Meta bets on AI agent Muse to catch up in AI race",
+        "wired.com: Muse, Meta’s New Personal AI Agent, Needs You to Trust It"
       ],
       "body": [
-        "spectrum.ieee.org: DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is considered “non-coding.” Some of it has no known function, while other segments are critical to regulating gene activity. These regulatory elements can interact in complicated ways, and their effects can vary across different cells and tissues. Some also influence genes located far away in the genome. Understanding how changes in DNA affect this regulation “is fundamental to understanding most disease,” says Carl de Boer , a genomicist at the University of British Columbia. That’s why researchers are working to understand what every imaginable small variation in human DNA across the entire genome might mean for gene regulation. A recent AI tool built for that purpose from Google DeepMind, AlphaGenome , was originally announced in 2025 . In January, a paper published in Nature provided more details, and the model was released for public non-commercial use. The AI model can compare an original DNA sequence with an altered one and predict how the change might affect gene expression and other regulatory activity. But researchers had to select the variants they wanted to test, write code and run the computationally demanding model themselves. Now DeepMind has done that work in advance for all 9 billion possible single-letter changes to a reference human genome. Today, on 8 September, DeepMind announced the creation and public release of the AlphaGenome Atlas, an online repository of pre-computed predictions made using the AlphaGenome model. The Atlas offers a more approachable interface for scientists, without the need to write code or run the AlphaGenome model themselves. It also includes a much-requested new feature, a single-number impact score intended to show at a glance if a variant is likely to be meaningful. “Understanding our DNA is a grand challenge,” says Pushmeet Kohli",
-        "thetimes.com: Google DeepMind maps human DNA in quest to cure ‘all disease’ The Times",
-        "fortune.com: Google DeepMind publishes AI-powered predictions for effect of all 9B mutations to human DNA Fortune"
+        "techcrunch.com: Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+        "theverge.com: Meta is making another push to bring artificial intelligence to the masses with Muse, a personal assistant it says can put AI in the hands of virtually anyone. The product is the latest step in a multi-billion dollar strategy overhaul designed to revitalize the company's ailing position in the AI race and help it catch [ ]",
+        "wired.com: Designed to compete with OpenClaw and Instinct, the company says Muse can do everything from sell your car to book you a plane ticket.",
+        "techmeme.com: Riley Griffin / Bloomberg : Meta's personal AI agent Muse is powered by Muse Spark 1.3 and is free for up to 100M tokens per week; users can get more compute via $20 and $100 monthly tiers Meta Platforms Inc. unveiled a new artificial intelligence agent designed to carry out tasks on a user's behalf"
       ],
       "l": [
         {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260908/p23#a260908p23"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
         },
         {
           "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/991180/google-launches-alpha-genome-atlas"
+          "u": "https://www.theverge.com/ai-artificial-intelligence/991216/meta-bets-on-ai-agent-muse-to-catch-up-in-ai-race"
         },
         {
-          "d": "spectrum.ieee.org",
-          "u": "https://spectrum.ieee.org/alphagenome-atlas"
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260908/p38#a260908p38"
+        },
+        {
+          "d": "+2"
         }
       ],
       "srcTitles": [
-        "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-        "Google DeepMind releases AlphaGenome Atlas, a 1PB dataset of predicted molecular effects for all ~9B possible single-letter DNA changes in the human genome (Google)",
-        "Google’s Atlas of the human genome could pave the way for new treatments",
-        "Google DeepMind Maps 9 Billion Possible DNA Variants"
+        "Meta debuts its Muse AI agent. Will consumers trust it?",
+        "Meta bets on AI agent Muse to catch up in AI race",
+        "Muse, Meta’s New Personal AI Agent, Needs You to Trust It",
+        "Meta's personal AI agent Muse is powered by Muse Spark 1.3 and is free for up to 100M tokens per week; users can get more compute via $20 and $100 monthly tiers (Riley Griffin/Bloomberg)"
       ]
     },
     {
       "cat": "models",
-      "signal": 61,
-      "sources": 3,
+      "signal": 63,
+      "sources": 4,
       "ts": "2026-09-08T10:00:00.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -74,6 +78,10 @@
           "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPeGZlZkg4d2o3cU1aeDlUdHNXRjkzMmxjcVFqX0VNS1RST2plREhzXzdhZld4OXVZVGFUeW9JVEhzdzNCdDIwTWJqRzJ3UGhfd3psYS1VMnpobHFBSFpNRDMzdWxyQnk1anhPTUp2UDQzZ2VBVnhCU2xEZl9tZVRPbEYzcWx1Zw?oc=5"
         },
         {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3SVF1ZXlGRkRVeHY3OFBzZ0xLR29lQ3d5dWNXeU5nU0V0SFNhRkRzcmhFVVRGckphOVJWTVhPSVg0R2ZOUWZYbkU5aEFwdmVpaEtPUGd4MjFZQQ?oc=5"
+        },
+        {
           "d": "reddit.com",
           "u": "https://www.reddit.com/r/MachineLearning/comments/1wavdi7/openal_says_it_has_cracked_one_of_maths/"
         }
@@ -81,6 +89,7 @@
       "srcTitles": [
         "On the Navier–Stokes Millennium Prize Problem",
         "OpenAI Says It Has Cracked One of Math’s ‘Millennium Problems’",
+        "OpenAI says it cracked 90-year-old maths problem in 88 hours",
         "OpenAl Says It Has Cracked One of Math's “Millennium Problems” (Navier-Stokes) [N]"
       ]
     },
@@ -115,8 +124,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-09-08T17:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How GPT-5.6 Sol helps run quantum computing experiments",
+      "s": "See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits.",
+      "b": [
+        "openai.com: How GPT-5.6 Sol helps run quantum computing experiments"
+      ],
+      "body": [
+        "openai.com: See how an MIT researcher uses GPT-5.6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/codex-quantum-computing-experiments"
+        }
+      ],
+      "srcTitles": [
+        "How GPT-5.6 Sol helps run quantum computing experiments"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 52,
+      "signal": 48,
       "sources": 3,
       "ts": "2026-09-08T05:00:05.000Z",
       "writtenSources": 4,
@@ -183,6 +217,38 @@
       "cat": "models",
       "signal": 29,
       "sources": 2,
+      "ts": "2026-09-08T19:35:43.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "US accuses Chinese AI firms of 'malicious' copying of AI technology",
+      "s": "US accuses Chinese AI firms of 'malicious' copying of AI technology Reuters",
+      "b": [
+        "reuters.com: US accuses Chinese AI firms of 'malicious' copying of AI technology",
+        "scmp.com: US accuses Chinese AI firms of ‘malicious’ copying of AI technology"
+      ],
+      "body": [
+        "reuters.com: US accuses Chinese AI firms of 'malicious' copying of AI technology Reuters",
+        "scmp.com: US accuses Chinese AI firms of ‘malicious’ copying of AI technology South China Morning Post"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5"
+        },
+        {
+          "d": "scmp.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUE1feG9lVlVhR0dHbldVRmk0TkRWQXB1b055aDR2dllFamtpRjZPa1dKWGI3RHNRcXdHdTd1M0UzVUk5UlpLbkVfT2NYZ1paTV91RzdiNTMwQjdZZDVtWTJFNDVrSHNPWUFiMU52dVIxdzJtd1p4V1hIME90NFBiaVJ0OFpGWGtJRFVpMHZ1QS1mR0JWUEpEaHZkMDBzYUt2cWY2QlI1SURWUXJ4UnhqQXpubWxCOTcw0gG4AUFVX3lxTE9VeFVkQy1nSVlQTVFDdkJSRXB4MHVvT1RxcXpnOEg3ZXlKbFBHZURrN2JDMnZfSGg3RlZ5UDZOYjVranp6XzUwaGVKdkw4Qnd6T0lJSmpBSk8tbENHLW5hS3lrd0dHSFNXZ1VsTWUtVFpVMmVyVjYtVW00YldIZnNGSFZJdFJoNWNpODNMSmVHVFNQQUJkUlo4eG9YMnlEdUhTYWxuTzk4NnJEWi1Edk9uaUV3Zm51Q2s?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "US accuses Chinese AI firms of 'malicious' copying of AI technology",
+        "US accuses Chinese AI firms of ‘malicious’ copying of AI technology"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 25,
+      "sources": 2,
       "ts": "2026-09-08T16:16:10.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -212,35 +278,32 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-09-08T09:17:48.000Z",
-      "writtenSources": 2,
+      "cat": "funding",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-08T14:00:00.000Z",
+      "writtenSources": 3,
       "draft": true,
-      "h": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-      "s": "AI will cure cancer in our lifetime, claims boss of UK chip giant BBC",
+      "h": "Google DeepMind Maps 9 Billion Possible DNA Variants",
+      "s": "DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is consid",
       "b": [
-        "bbc.com: AI will cure cancer in our lifetime, claims boss of UK chip giant",
-        "theguardian.com: AI will help find cure for cancer ‘within our lifetimes’, says Arm Holdings chief"
+        "spectrum.ieee.org: Google DeepMind Maps 9 Billion Possible DNA Variants",
+        "thetimes.com: Google DeepMind maps human DNA in quest to cure ‘all disease’",
+        "fortune.com: Google DeepMind publishes AI-powered predictions for effect of all 9B mutations to human DNA"
       ],
       "body": [
-        "bbc.com: AI will cure cancer in our lifetime, claims boss of UK chip giant BBC",
-        "theguardian.com: AI will help find cure for cancer ‘within our lifetimes’, says Arm Holdings chief The Guardian"
+        "spectrum.ieee.org: DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is considered “non-coding.” Some of it has no known function, while other segments are critical to regulating gene activity. These regulatory elements can interact in complicated ways, and their effects can vary across different cells and tissues. Some also influence genes located far away in the genome. Understanding how changes in DNA affect this regulation “is fundamental to understanding most disease,” says Carl de Boer , a genomicist at the University of British Columbia. That’s why researchers are working to understand what every imaginable small variation in human DNA across the entire genome might mean for gene regulation. A recent AI tool built for that purpose from Google DeepMind, AlphaGenome , was originally announced in 2025 . In January, a paper published in Nature provided more details, and the model was released for public non-commercial use. The AI model can compare an original DNA sequence with an altered one and predict how the change might affect gene expression and other regulatory activity. But researchers had to select the variants they wanted to test, write code and run the computationally demanding model themselves. Now DeepMind has done that work in advance for all 9 billion possible single-letter changes to a reference human genome. Today, on 8 September, DeepMind announced the creation and public release of the AlphaGenome Atlas, an online repository of pre-computed predictions made using the AlphaGenome model. The Atlas offers a more approachable interface for scientists, without the need to write code or run the AlphaGenome model themselves. It also includes a much-requested new feature, a single-number impact score intended to show at a glance if a variant is likely to be meaningful. “Understanding our DNA is a grand challenge,” says Pushmeet Kohli",
+        "thetimes.com: Google DeepMind maps human DNA in quest to cure ‘all disease’ The Times",
+        "fortune.com: Google DeepMind publishes AI-powered predictions for effect of all 9B mutations to human DNA Fortune"
       ],
       "l": [
         {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uT19YeTdOc0N1ZEYtMDhQMlZ2QTh3emFXTTNKRjAxbENoVlgtcjY0d2hWUHNYLTBYaHN4Y1l1M01FRXNJSTdZRzV3WTlJb3dPRFBHWkExSVB5QQ?oc=5"
-        },
-        {
-          "d": "theguardian.com",
-          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSXV1em1wX2pqbjh5ZXMzd3hRWUlRNGc4WWstbEZDM19KcEdGNi01TFF2Y0lmUWJHWXhUYTRYOWo5N1NpNGdsY3FVazktS21SbXZxbEJpX055cU1iZmZDak00a0ZNNjFkYkN6VGFZTnFsYlNVNkxKODl1MloyR01zYVUwUk5aUEJIb2RORURISQ?oc=5"
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
         }
       ],
       "srcTitles": [
-        "AI will cure cancer in our lifetime, claims boss of UK chip giant",
-        "AI will help find cure for cancer ‘within our lifetimes’, says Arm Holdings chief"
+        "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
       ]
     },
     {
@@ -316,6 +379,63 @@
       ],
       "srcTitles": [
         "Funding grants for new research into AI and teen development"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-08T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "1Password increases engineering productivity 21% with Codex",
+      "s": "Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies.",
+      "b": [
+        "openai.com: 1Password increases engineering productivity 21% with Codex"
+      ],
+      "body": [
+        "openai.com: Engineers at 1Password use Codex to rapidly build new features and internal tools, reaching production-readiness while maintaining rigorous security policies."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/1password"
+        }
+      ],
+      "srcTitles": [
+        "1Password increases engineering productivity 21% with Codex"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-09-08T09:17:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "s": "AI will cure cancer in our lifetime, claims boss of UK chip giant BBC",
+      "b": [
+        "bbc.com: AI will cure cancer in our lifetime, claims boss of UK chip giant",
+        "theguardian.com: AI will help find cure for cancer ‘within our lifetimes’, says Arm Holdings chief"
+      ],
+      "body": [
+        "bbc.com: AI will cure cancer in our lifetime, claims boss of UK chip giant BBC",
+        "theguardian.com: AI will help find cure for cancer ‘within our lifetimes’, says Arm Holdings chief The Guardian"
+      ],
+      "l": [
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uT19YeTdOc0N1ZEYtMDhQMlZ2QTh3emFXTTNKRjAxbENoVlgtcjY0d2hWUHNYLTBYaHN4Y1l1M01FRXNJSTdZRzV3WTlJb3dPRFBHWkExSVB5QQ?oc=5"
+        },
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSXV1em1wX2pqbjh5ZXMzd3hRWUlRNGc4WWstbEZDM19KcEdGNi01TFF2Y0lmUWJHWXhUYTRYOWo5N1NpNGdsY3FVazktS21SbXZxbEJpX055cU1iZmZDak00a0ZNNjFkYkN6VGFZTnFsYlNVNkxKODl1MloyR01zYVUwUk5aUEJIb2RORURISQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+        "AI will help find cure for cancer ‘within our lifetimes’, says Arm Holdings chief"
       ]
     }
   ]
