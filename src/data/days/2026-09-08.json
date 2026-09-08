@@ -3,8 +3,47 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 54,
-      "sources": 4,
+      "signal": 65,
+      "sources": 3,
+      "ts": "2026-09-08T14:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Google DeepMind Maps 9 Billion Possible DNA Variants",
+      "s": "DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is consid",
+      "b": [
+        "spectrum.ieee.org: Google DeepMind Maps 9 Billion Possible DNA Variants",
+        "thetimes.com: Google DeepMind maps human DNA in quest to cure ‘all disease’",
+        "fortune.com: Google DeepMind publishes AI-powered predictions for effect of all 9B mutations to human DNA"
+      ],
+      "body": [
+        "spectrum.ieee.org: DNA is often explained as a codebook or set of instructions for producing proteins, and ultimately, life. Some stretches of DNA, called genes, code for proteins, but the vast majority of DNA is considered “non-coding.” Some of it has no known function, while other segments are critical to regulating gene activity. These regulatory elements can interact in complicated ways, and their effects can vary across different cells and tissues. Some also influence genes located far away in the genome. Understanding how changes in DNA affect this regulation “is fundamental to understanding most disease,” says Carl de Boer , a genomicist at the University of British Columbia. That’s why researchers are working to understand what every imaginable small variation in human DNA across the entire genome might mean for gene regulation. A recent AI tool built for that purpose from Google DeepMind, AlphaGenome , was originally announced in 2025 . In January, a paper published in Nature provided more details, and the model was released for public non-commercial use. The AI model can compare an original DNA sequence with an altered one and predict how the change might affect gene expression and other regulatory activity. But researchers had to select the variants they wanted to test, write code and run the computationally demanding model themselves. Now DeepMind has done that work in advance for all 9 billion possible single-letter changes to a reference human genome. Today, on 8 September, DeepMind announced the creation and public release of the AlphaGenome Atlas, an online repository of pre-computed predictions made using the AlphaGenome model. The Atlas offers a more approachable interface for scientists, without the need to write code or run the AlphaGenome model themselves. It also includes a much-requested new feature, a single-number impact score intended to show at a glance if a variant is likely to be meaningful. “Understanding our DNA is a grand challenge,” says Pushmeet Kohli",
+        "thetimes.com: Google DeepMind maps human DNA in quest to cure ‘all disease’ The Times",
+        "fortune.com: Google DeepMind publishes AI-powered predictions for effect of all 9B mutations to human DNA Fortune"
+      ],
+      "l": [
+        {
+          "d": "spectrum.ieee.org",
+          "u": "https://spectrum.ieee.org/alphagenome-atlas"
+        },
+        {
+          "d": "thetimes.com",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdjU5aERMMDZFR3U3NHRWZjhVaWFIc015Uy1UX3NtYjQyQlNMNWtOYVBzX1AyMWVUaThCOW5PdnlwRnZVNWpUbzI3WjQ3NEQyVG9NR0tidXJlVzVXblZaMTNoNzkxRDNaS2Q5MzlkNkNHZ0JEZGNTRlNKSXkybWNKWDFPbXBGclNmOWJMNHdnLWxWNUl1OHJtcEt6Zm9rWm1RTmlpbGFB?oc=5"
+        },
+        {
+          "d": "fortune.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRzFBUHBlRE9uZFhpcHd6Y0pnSGwzOGZXMWFiODB5OXJTYkF3YjIyLWU5enRDVG9ubHNtd29yYXRWeHlIUzRJd0h2WEx1Rm5tLWJsMUN1bndpQTFPX2xrLUw4TGFjcml2RFRtSmhJVTZTQ3BMcUhJZFVHT0cxOEVhZlpCQ3dLOU91QUR0cXBacXlUTC1rZWpwUVZ3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Google DeepMind Maps 9 Billion Possible DNA Variants",
+        "Google DeepMind maps human DNA in quest to cure ‘all disease’",
+        "Google DeepMind publishes AI-powered predictions for effect of all 9B mutations to human DNA"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 56,
+      "sources": 5,
       "ts": "2026-09-08T05:00:05.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -27,28 +66,106 @@
           "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzZndFBZYk1SQ19xOVJYSXR1ZHdKa2p2a0RSYTVfeWVicHRLZ2JOdG5zc3hibHhJYWh1V3pIVEhDaV9Wc2xQV2RlYkNkTEZJSDV2V1V6aGloYXVPcFNtMHlCU1ZsTnR5UEZTNTI5WTExa1A4Vy0xZjN4ZFE3TVUzN2tUWFNnc3V2aXNBRldFWXlGYnFwcGtGVkFtRE9HTDktVUhJR09HVUwtdHZmNHdjWGZCTkw?oc=5"
         },
         {
-          "d": "lemonde.fr",
-          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNkdlM2Jzay1heWg3WFNoNl9zUDdoYVFJbzJXMUhEMGxzQ1R5VVliaklNdkx5N3hCb2hEaTNiS0tMUWVMZWlXNmdlVVkzckpSWDlsVnZRYXY3M2RIbW84OThvRTJZeW45WHliLTdyajV2NExjMzFTNmtaN09iNDRJeTJVQVAyWnRnM1hRczZNWnRObTJrX24zYUdxSy1PTTU0ZlluU0dXcG8xS2w4UVdtSXVocDVGby1mckVXa25kbDNmaGFGbnY3MVh1RWdCUzZvUjg3UURIMXI2alh6dzlkVQ?oc=5"
+          "d": "kedglobal.com",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tbnVKOEJHbjBFRFNfYnVXQW5WS3dVa1hGb2Iyb2hhNUkxSzhhX1RPTE1Lb1RZazh2TmFrTFh3Q3ZJbkZxNHpjbUJOUnUweUdXZFFZempBdlVBdl9uMXlWVmNpdDNpLU1xeTBDQVRVcGtpajlwQ2RjQ0JEVQ?oc=5"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYTJBTzZBUm93RGpLWWFQOHBOaW1GeWNBUTdjeDBSYjd3Z0NMSzNaRTJ4R0NUdkZhVzhpVUdWXzJReWJKVWtBbXVuTW82WTRsOHhPc0VFQTVKdHBpLUlHdWFoVEUxT2twczk4ekZIQWd6b3RmMXRIZ3ZlVFM?oc=5"
         },
         {
           "d": "euronews.com",
           "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmUtZEpsdDd6REdrcHhZZ0pSMzRVc0twWmFRcHJDTllDdDJCcF85SGdIb2lSTjIxeHRKU0ZuYmQyNk14Qm03TThSOEd2Q2VtMWpmck5Pa3RyQnhzSGdtWXJ3elRUZG9YdzM4aVRpd1BEeVdGMlJrZlVQalVfc3NmMnJIaDVPWjBnS28xV0c4OWJVR1h3MGRYNlE1emlyME10MV9ZYnQ3a0MweW5N?oc=5"
         },
         {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYTJBTzZBUm93RGpLWWFQOHBOaW1GeWNBUTdjeDBSYjd3Z0NMSzNaRTJ4R0NUdkZhVzhpVUdWXzJReWJKVWtBbXVuTW82WTRsOHhPc0VFQTVKdHBpLUlHdWFoVEUxT2twczk4ekZIQWd6b3RmMXRIZ3ZlVFM?oc=5"
+          "d": "+1"
         }
       ],
       "srcTitles": [
         "French AI company Mistral hits $24 billion valuation in funding round",
-        "Mistral AI raises €3 billion in response to doubts over its strategic direction",
-        "French start-up Mistral AI raises €3 billion in Samsung-led round",
-        "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift"
+        "Samsung backs Mistral AI in $3.5 billion funding round to deepen AI ties",
+        "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift",
+        "French start-up Mistral AI raises €3 billion in Samsung-led round"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-08T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "OpenAI expands initiatives to support journalism from classrooms to newsrooms",
+      "s": "OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations.",
+      "b": [
+        "openai.com: OpenAI expands initiatives to support journalism from classrooms to newsrooms"
+      ],
+      "body": [
+        "openai.com: OpenAI is expanding support for journalism with tools, training, and partnerships for students, educators, journalists, and news organizations."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/supporting-journalism-from-classrooms-to-newsrooms"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI expands initiatives to support journalism from classrooms to newsrooms"
       ]
     },
     {
       "cat": "models",
       "signal": 30,
+      "sources": 1,
+      "ts": "2026-09-08T14:00:15.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+      "s": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
+      "b": [
+        "deepmind.google: AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
+      ],
+      "body": [
+        "deepmind.google: AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+        }
+      ],
+      "srcTitles": [
+        "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-09-08T13:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The Work Now Within Reach",
+      "s": "Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical.",
+      "b": [
+        "openai.com: The Work Now Within Reach"
+      ],
+      "body": [
+        "openai.com: Explore how more capable, affordable AI can expand the work people and businesses can accomplish—and make growth more economical."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/the-work-now-within-reach"
+        }
+      ],
+      "srcTitles": [
+        "The Work Now Within Reach"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
       "sources": 1,
       "ts": "2026-09-08T10:34:00.000Z",
       "writtenSources": 1,
@@ -69,6 +186,38 @@
       ],
       "srcTitles": [
         "This AI entrepreneur is developing agents that can plan ahead for the unexpected"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-08T09:17:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+      "s": "AI will cure cancer in our lifetime, claims boss of UK chip giant BBC",
+      "b": [
+        "bbc.com: AI will cure cancer in our lifetime, claims boss of UK chip giant",
+        "theguardian.com: AI will help find cure for cancer ‘within our lifetimes’, says Arm Holdings chief"
+      ],
+      "body": [
+        "bbc.com: AI will cure cancer in our lifetime, claims boss of UK chip giant BBC",
+        "theguardian.com: AI will help find cure for cancer ‘within our lifetimes’, says Arm Holdings chief The Guardian"
+      ],
+      "l": [
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uT19YeTdOc0N1ZEYtMDhQMlZ2QTh3emFXTTNKRjAxbENoVlgtcjY0d2hWUHNYLTBYaHN4Y1l1M01FRXNJSTdZRzV3WTlJb3dPRFBHWkExSVB5QQ?oc=5"
+        },
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSXV1em1wX2pqbjh5ZXMzd3hRWUlRNGc4WWstbEZDM19KcEdGNi01TFF2Y0lmUWJHWXhUYTRYOWo5N1NpNGdsY3FVazktS21SbXZxbEJpX055cU1iZmZDak00a0ZNNjFkYkN6VGFZTnFsYlNVNkxKODl1MloyR01zYVUwUk5aUEJIb2RORURISQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI will cure cancer in our lifetime, claims boss of UK chip giant",
+        "AI will help find cure for cancer ‘within our lifetimes’, says Arm Holdings chief"
       ]
     }
   ]
