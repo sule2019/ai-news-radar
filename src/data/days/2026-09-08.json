@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 65,
+      "signal": 75,
       "sources": 3,
       "ts": "2026-09-08T14:00:00.000Z",
       "writtenSources": 3,
@@ -22,28 +22,28 @@
       ],
       "l": [
         {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260908/p23#a260908p23"
+        },
+        {
           "d": "spectrum.ieee.org",
           "u": "https://spectrum.ieee.org/alphagenome-atlas"
-        },
-        {
-          "d": "thetimes.com",
-          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdjU5aERMMDZFR3U3NHRWZjhVaWFIc015Uy1UX3NtYjQyQlNMNWtOYVBzX1AyMWVUaThCOW5PdnlwRnZVNWpUbzI3WjQ3NEQyVG9NR0tidXJlVzVXblZaMTNoNzkxRDNaS2Q5MzlkNkNHZ0JEZGNTRlNKSXkybWNKWDFPbXBGclNmOWJMNHdnLWxWNUl1OHJtcEt6Zm9rWm1RTmlpbGFB?oc=5"
-        },
-        {
-          "d": "fortune.com",
-          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRzFBUHBlRE9uZFhpcHd6Y0pnSGwzOGZXMWFiODB5OXJTYkF3YjIyLWU5enRDVG9ubHNtd29yYXRWeHlIUzRJd0h2WEx1Rm5tLWJsMUN1bndpQTFPX2xrLUw4TGFjcml2RFRtSmhJVTZTQ3BMcUhJZFVHT0cxOEVhZlpCQ3dLOU91QUR0cXBacXlUTC1rZWpwUVZ3?oc=5"
         }
       ],
       "srcTitles": [
-        "Google DeepMind Maps 9 Billion Possible DNA Variants",
-        "Google DeepMind maps human DNA in quest to cure ‘all disease’",
-        "Google DeepMind publishes AI-powered predictions for effect of all 9B mutations to human DNA"
+        "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
+        "Google DeepMind releases AlphaGenome Atlas, a 1PB dataset of predicted molecular effects for all ~9B possible single-letter DNA changes in the human genome (Google)",
+        "Google DeepMind Maps 9 Billion Possible DNA Variants"
       ]
     },
     {
       "cat": "funding",
-      "signal": 56,
-      "sources": 5,
+      "signal": 59,
+      "sources": 7,
       "ts": "2026-09-08T05:00:05.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -62,14 +62,6 @@
       ],
       "l": [
         {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSzZndFBZYk1SQ19xOVJYSXR1ZHdKa2p2a0RSYTVfeWVicHRLZ2JOdG5zc3hibHhJYWh1V3pIVEhDaV9Wc2xQV2RlYkNkTEZJSDV2V1V6aGloYXVPcFNtMHlCU1ZsTnR5UEZTNTI5WTExa1A4Vy0xZjN4ZFE3TVUzN2tUWFNnc3V2aXNBRldFWXlGYnFwcGtGVkFtRE9HTDktVUhJR09HVUwtdHZmNHdjWGZCTkw?oc=5"
-        },
-        {
-          "d": "kedglobal.com",
-          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tbnVKOEJHbjBFRFNfYnVXQW5WS3dVa1hGb2Iyb2hhNUkxSzhhX1RPTE1Lb1RZazh2TmFrTFh3Q3ZJbkZxNHpjbUJOUnUweUdXZFFZempBdlVBdl9uMXlWVmNpdDNpLU1xeTBDQVRVcGtpajlwQ2RjQ0JEVQ?oc=5"
-        },
-        {
           "d": "nytimes.com",
           "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYTJBTzZBUm93RGpLWWFQOHBOaW1GeWNBUTdjeDBSYjd3Z0NMSzNaRTJ4R0NUdkZhVzhpVUdWXzJReWJKVWtBbXVuTW82WTRsOHhPc0VFQTVKdHBpLUlHdWFoVEUxT2twczk4ekZIQWd6b3RmMXRIZ3ZlVFM?oc=5"
         },
@@ -78,14 +70,22 @@
           "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcmUtZEpsdDd6REdrcHhZZ0pSMzRVc0twWmFRcHJDTllDdDJCcF85SGdIb2lSTjIxeHRKU0ZuYmQyNk14Qm03TThSOEd2Q2VtMWpmck5Pa3RyQnhzSGdtWXJ3elRUZG9YdzM4aVRpd1BEeVdGMlJrZlVQalVfc3NmMnJIaDVPWjBnS28xV0c4OWJVR1h3MGRYNlE1emlyME10MV9ZYnQ3a0MweW5N?oc=5"
         },
         {
-          "d": "+1"
+          "d": "kedglobal.com",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tbnVKOEJHbjBFRFNfYnVXQW5WS3dVa1hGb2Iyb2hhNUkxSzhhX1RPTE1Lb1RZazh2TmFrTFh3Q3ZJbkZxNHpjbUJOUnUweUdXZFFZempBdlVBdl9uMXlWVmNpdDNpLU1xeTBDQVRVcGtpajlwQ2RjQ0JEVQ?oc=5"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZjBkd202SzJsdGJQZVA3SkQ4TFg0ektBQkY0OGRiR3hSNGE0VDhaWXhsSVhILXJVMUVuOEI1T3Q2cGJNdjZwT2gxbEhFUzZVQnZzS0FQdDBwNkV3Vm9FdHZiX2NNVW1VU3NQYWkzUENFQkZNUmdZbEpMcS1iRWM5N3hXWFlQTkVIMktaalJfMUpLSjZGOUdXNzZSNkhSZ1JUaEpEWWlLSlVQTFZnYmJrSzJwQW42QVdCSVpWTDM4amlPZnpmQVZjSU9zMmtFWE9lMlljRA?oc=5"
+        },
+        {
+          "d": "+3"
         }
       ],
       "srcTitles": [
-        "French AI company Mistral hits $24 billion valuation in funding round",
-        "Samsung backs Mistral AI in $3.5 billion funding round to deepen AI ties",
         "French A.I. Start-Up Mistral Raises $3.5 Billion as Part of Strategy Shift",
-        "French start-up Mistral AI raises €3 billion in Samsung-led round"
+        "French start-up Mistral AI raises €3 billion in Samsung-led round",
+        "Samsung backs Mistral AI in $3.5 billion funding round to deepen AI ties",
+        "Mistral Raises $3.5 Billion for AI Research in Record EU Funding Round"
       ]
     },
     {
@@ -115,32 +115,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
-      "sources": 1,
-      "ts": "2026-09-08T14:00:15.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome",
-      "s": "AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.",
-      "b": [
-        "deepmind.google: AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
-      ],
-      "body": [
-        "deepmind.google: AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome."
-      ],
-      "l": [
-        {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome/"
-        }
-      ],
-      "srcTitles": [
-        "AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-09-08T13:00:00.000Z",
       "writtenSources": 1,
