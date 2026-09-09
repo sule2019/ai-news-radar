@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 79,
-      "sources": 12,
+      "signal": 83,
+      "sources": 11,
       "ts": "2026-09-08T23:46:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -32,24 +32,59 @@
           "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTGhoeTZ6WVpJNC1IWnk5NUlyV3Eta1lrc3BJSHN3Nm1JZjBCNG82eGlwbldhQTl6V0otNlp1bnFxTUdNZjdvbFhEQWwyaEVkN2JHMmxwaWdhdG5vTW1Ya1g5SGlnY3RSSFVNak1FeWY2ODUwbUV2VHFoR1hESmtJVXd3N3BhaGIzV24wS3BoanFvNVQwektDR3BR?oc=5"
         },
         {
-          "d": "scmp.com",
-          "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdVJST1BjcEl0TUxwOGhoMlZ6MUk1SnhqM09MbzRiaFA1OUIyQmdsLVVyVlBGZ1dwZHA4Q25uZlAzQlFUUU1EQ2ZtR0tiRzhxT1NvUEFGVUZPdDdTTkZZYmd1VDRYZGxTU3BMVS15LXAxQkhlRkwzZDlVYU5FVnJhZExPbjhaajVlOENVTU90SkJBOGdsZnhuQ1laY1p0d2hyb0Izcnl5RlVKV192VE9ocEh1QkdjRGJDYTVoN2NEQ1RjN0o1alFxOEJRQ002VEVYVkVGWl9pNkxDOTJqX0dN0gHfAUFVX3lxTE13ZVFVYzhha2V5N2J5dnBBc1pSZjRURF8yWnhLV002dkRMTzJYdXRMekNvOUd4NlI4MXI4QVhOejBJUmxWa0pXakQwZTNBejVkV0wwVkRjMkZWenFWaHJDRFppMW5acUNoVHIwN21rSHJEem9VMjBVeG5sTmd5YlJrVW5GWEktS0N1MXdaWURHNE5zbkwxWjRXUlQ3V3hmOU9NWXNiUkVNbVZObWF0NXo2Y1UxRkVBbVdDN2VjZW45dW5ucGxpTm40bUY2RDE3VFp6WHpoS3Y4T0xuWVdnN2c?oc=5"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
         },
         {
-          "d": "+8"
+          "d": "+7"
         }
       ],
       "srcTitles": [
         "Gambling with our lives : Anthropic researcher quits, warns against self-improving AI",
         "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears",
         "Florida Republicans’ AI fears buoyed by Anthropic researcher bombshell",
-        "Anthropic researcher quits, says AI firms are ‘gambling with our lives’"
+        "Worried Anthropic researchers warn that AI could kill all humans"
       ]
     },
     {
       "cat": "products",
-      "signal": 70,
-      "sources": 3,
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-09-09T18:58:50.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Apple Watch s new AI features are normalizing the idea that technology is always listening",
+      "s": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave wh",
+      "b": [
+        "techcrunch.com: Apple Watch s new AI features are normalizing the idea that technology is always listening",
+        "bloomberg.com: Apple Takes on AI Wearables With Always-Listening Watch Features",
+        "techcrunch.com: Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch"
+      ],
+      "body": [
+        "techcrunch.com: Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+        "bloomberg.com: Apple Takes on AI Wearables With Always-Listening Watch Features Bloomberg.com",
+        "techcrunch.com: The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGV0eUhFdWZJV1dFQXBWVFhBcjJhWVRsMENVeThEYVpZY1BiSEFleXdEcUdIc1pPTmhaZEtxbzRVak9HTnBtVVNteXRibGFoeFF3OGFidDBBbzF0OWM5b2VNaUtROFNUU2VwaG13TmJsMTNvYlZBdHJxNjZ5NWgyWVpuRElHZWVjczVhbDc0RkNvSlFBcVJYbXJuNHdhYld0bTd2SWlYYXpDdVlHZ3NiakVnZW9rUQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Apple Watch s new AI features are normalizing the idea that technology is always listening",
+        "Apple Takes on AI Wearables With Always-Listening Watch Features",
+        "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 58,
+      "sources": 2,
       "ts": "2026-09-09T17:40:05.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -73,21 +108,16 @@
         {
           "d": "theverge.com",
           "u": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260909/p30#a260909p30"
         }
       ],
       "srcTitles": [
-        "Apple has a new way prove your iPhone photos aren’t AI slop",
-        "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
-        "Apple adds a Reference Image feature to the iPhone 18 Pro, which digitally authenticates that photos taken with its camera haven't later been altered by AI (Benjamin Mayo/9to5Mac)"
+        "Apple has a new way to prove your iPhone photos aren’t AI slop",
+        "Apple’s new iPhone camera mode promises to prove your photo isn’t AI"
       ]
     },
     {
       "cat": "models",
-      "signal": 54,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-09-09T15:30:45.000Z",
       "writtenSources": 2,
@@ -119,7 +149,7 @@
     },
     {
       "cat": "research",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-09-09T16:30:33.000Z",
       "writtenSources": 2,
@@ -151,7 +181,7 @@
     },
     {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-09-09T17:00:00.000Z",
       "writtenSources": 1,
@@ -172,6 +202,31 @@
       ],
       "srcTitles": [
         "Paul Christiano joins OpenAI Foundation Board"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-09T11:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "GPT-6 Astra: The next generation in intelligence for work",
+      "s": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+      "b": [
+        "openai.com: GPT-6 Astra: The next generation in intelligence for work"
+      ],
+      "body": [
+        "openai.com: Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/gpt-6-astra-next-generation-work"
+        }
+      ],
+      "srcTitles": [
+        "GPT-6 Astra: The next generation in intelligence for work"
       ]
     },
     {
@@ -202,51 +257,6 @@
     {
       "cat": "models",
       "signal": 42,
-      "sources": 6,
-      "ts": "2026-09-09T09:44:51.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
-      "s": "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks WRAL",
-      "b": [
-        "wral.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
-        "news4jax.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks"
-      ],
-      "body": [
-        "wral.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks WRAL",
-        "news4jax.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks News4JAX"
-      ],
-      "l": [
-        {
-          "d": "arstechnica.com",
-          "u": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5"
-        },
-        {
-          "d": "cnn.com",
-          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMHYzUXVXM3VfMmRMWWo1X2Mwdmg3MWhBcGRqYnRXbHlvcXZzV3lXLUJPTXNQbUFTWkdacW03S0tQb3hkUldfMXRNSlI2OU1GV1Q5b29adkVIUGtyWnpXMjZBb1RUVDBwNE9NQ0stWlBlMWozV3Jqd1NkOWRsZGVOVzByMjhrUDhTZUE?oc=5"
-        },
-        {
-          "d": "aljazeera.com",
-          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXdzNmNWRGQ2ZUFLcTRnZGNMbHFJVV9fU1NHUGxTVEE4cUgxT0RXVlE0WFJiM3ZYdm1qam5xUlAteUlHUzV6c3A1OU9CQVk5czJoOGFkbEVrRE0zVVZmRXdOUUZGYVBpSkc1azZ4dUtDLXZfbFFpMm5GR05jREhJaGpZR2psVi1ZZHp5RlQ4RkNsbGFr0gGaAUFVX3lxTE85bkI4eGtESWxuRGtzSzBidDJRTjhXcU1scnA3SzVLNHRKYWN0dWtLbjIxc1NOT3lfZWNjdDFVYTlDbzF6VFpSLS03MlExS1BTSmw3MkFzSDhmZnVZYjNQVXdSa1NxUWFTWmN6YUtYZXoyRGFyZkp1cEIyak4wZE9zb2ZZdE8yUEtsSEd4S2ZCTEhPd3Q5S0hWUlE?oc=5"
-        },
-        {
-          "d": "+2"
-        }
-      ],
-      "srcTitles": [
-        "Six Chinese AI firms accused of aggressively copying US frontier models",
-        "US accuses Chinese AI firms of 'malicious' copying of AI technology",
-        "US claims Chinese AI firms are carrying out ‘industrial-scale’ theft of trade secrets",
-        "China slams US claims of ‘industrial-scale’ AI theft"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 42,
       "sources": 4,
       "ts": "2026-09-09T08:05:00.000Z",
       "writtenSources": 2,
@@ -263,10 +273,6 @@
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtTX29jWUNzc005Qm1GZmJhaEU5aFpISFRLRlRwdXdxTmZsZVcxa3dPOFhSVDNidEJKYlJ1OGw0b2l0Vi1hdDZRSUpyZkxKMzRUR1FCRWg3RmNqdVhWalFHQ2lCM19nOU5UbFZ6RTlZcDM0MVBROGdYMFpYOFN3NEZ3TjBCSWlZeldPOWFtOEpzbHNtWml6SWRLeWdvNFZrWWE0?oc=5"
-        },
-        {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdmQ1WFhka2JNcHlBNjQySmd3ZnphMFJubVZuVC1FMkp6bnM0VVloclZVQ2VSMUVRYjNBNUZjSEhKeWZ4WmNmSWFMX3pha3RRVFRJcUsydlFNMXhwNWJHeVNjVEctT05TbVBkZl90ejR0X3NIUlFCVURvR2Y0OXhyM0RNMUNzemlHRGRtcG1ZYmx0N0FFOW9hVQ?oc=5"
         },
@@ -275,82 +281,19 @@
           "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORFFNclQ0akw5VzZyLWhLNHdpNXRKbU1SazZUNmVDUFRGV2o3cktLdlZRalUyZmNvTUY1QXlFRS1FQ2RkdHhrNGNidWJUVEdvdGhTREVPS0U5Y252SjJaMmJGTXhtYWlWM29tVUQtQm5TS09NVlR5Zjl6VGVuT2F0Qk5xSW9XMmtMaV9YNVdUV2lJSExZaGh0NXJBSnhPVlplaVpLR2cwb2x0eDV5THFMWm9VNnVXX29xU1Q0Nm5B?oc=5"
         },
         {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa1BtTWR6RUZ2U3FwQV9yc09fd2l4c0lIVG5aV1JhbUJIZW11cmJPSUI2Snh6U3JSYmptQk1UcUdqYXQzbzZMcWt5djFFbVFMcm5qSTdja1luc0VLVEVZSFdabjVPTVFpNlV2TjZQRkZGYVNlRWpIdkhpeG1QMHl2WHplNWJhT0oxU19iVWpCNnNHc21tOUFzaTFwN0ZMd3lRYnhN?oc=5"
+        },
+        {
           "d": "theglobeandmail.com",
           "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSXFYelV2MHJFcTczOUV0Qmpwb1ZKWldBcjQ2ZnJWbGROMlItc2J5bDZvSlY4MzNPY2dTakhWRno4eUZEOERLWlVqcGlnZEd2UDJkVEpqS2VfUDRqdDVuZVpLQ1ZfNEI2bENBZzZHOW40UjJzWmNkYVJMM1hSQkMxYlJ5dkppdDUzUm1Jd0pkcTZnU0FxeUVZZDNRV2sxVk5XWml3bU1UOV9MSXJjUVdlOWR5N2k1Ylpvc2thUklLZGprSEZ5YVRaNVZsc3F3UTFhRC1ROWFrcUx6TTFhNUxDUHRabVZyZw?oc=5"
         }
       ],
       "srcTitles": [
         "Is SpaceX a Top Artificial Intelligence (AI) Stock Pick in September?",
-        "Is SpaceX a Top Artificial Intelligence (AI) Stock Pick in September?",
+        "If You Own Artificial Intelligence (AI) Stocks, Get Ready for a Big Change",
         "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be the Top Performers to End 2026",
-        "If You Own Artificial Intelligence (AI) Stocks, Get Ready for a Big Change"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 36,
-      "sources": 2,
-      "ts": "2026-09-09T07:01:19.000Z",
-      "writtenSources": 3,
-      "draft": true,
-      "h": "Google to Invest $15 Billion in Data Centers and Infrastructure in Finland",
-      "s": "Google to Invest $15 Billion in Data Centers and Infrastructure in Finland WSJ",
-      "b": [
-        "wsj.com: Google to Invest $15 Billion in Data Centers and Infrastructure in Finland",
-        "upi.com: Google to invest $15.1B in AI infrastructure in Finland",
-        "finance.yahoo.com: Google to invest $15 billion AI infrastructure in Finland"
-      ],
-      "body": [
-        "wsj.com: Google to Invest $15 Billion in Data Centers and Infrastructure in Finland WSJ",
-        "upi.com: Google to invest $15.1B in AI infrastructure in Finland upi.com",
-        "finance.yahoo.com: Google to invest $15 billion AI infrastructure in Finland Yahoo Finance"
-      ],
-      "l": [
-        {
-          "d": "wsj.com",
-          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWVXTzcwTVJMV3N1ZWh5cFU3ajlmTGJVRHExM0tIemhzNTZGZFZndmp4SkxMNGd4dnlnMEp4VjhISXpwSXFDVWd4b3M2OVJtNGp2Zm81YXBDSEdLWndFSnBISG4tc0RVOW41RU1SMGNybE40U2NtV3Y4a2RheDFwbmw2bzYwUHpLZnZRVjV5YVR6Ny0tUG5hbWhhNnVRRFdYREN0cGxucFJfS2ZzYWpiWA?oc=5"
-        },
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWlsQWd3YVpfR2RHNGVpT2ZoV18yTXJSUVdjOXVIZ1BTSHk5OFJiWlh3Q1F0cVpFbmdrbjlHNjR2c0FLbUpsRTNISEtMZk5oRnFtVUtENkk1Z3lFMlREeEgzck4zY0lIZDRPeFZJeGtfTW53M0JoSFh3UXpROGlXVmp1OVB3M2JjUS1aRjVyVFI4cWEwMHc?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Google to Invest $15 Billion in AI Infrastructure in Finland",
-        "Google to Invest $15 Billion in Data Centers and Infrastructure in Finland",
-        "Google to invest $15 billion AI infrastructure in Finland"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 34,
-      "sources": 2,
-      "ts": "2026-09-09T13:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Instacart launches an AI grocery shopping assistant called Clementine",
-      "s": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
-      "b": [
-        "techcrunch.com: Instacart launches an AI grocery shopping assistant called Clementine",
-        "pymnts.com: Instacart Launches AI Agent Clementine to Turn Chats Into Grocery Carts"
-      ],
-      "body": [
-        "techcrunch.com: Instacart is the latest app to bake a conversational AI assistant into its platform.",
-        "pymnts.com: Instacart Launches AI Agent Clementine to Turn Chats Into Grocery Carts PYMNTS.com"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
-        },
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRVhsNUpxWE9kaENqYmhuOWJ6R1NxLTlydHZmRExTYWJ6UFJQaURHclNkcHBpQmpyaVFTVzFBUVN2X2lHZTVUdW9KdUFDR1A1MUZkSnlYQmNMbDNoS2lLSS16TXZDSk1zUFllMDhicF91U0pmbC1VNmdmMXgwZ1FWNlVSUUJsUV9DREc4WENuSjF0VEpFZGJnc0dzVjhmYVRNSkY5T3dNbzdQcHVOVFJubTluVkpJTWFJR1QyWmJJWHMxN2hOYWloLQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Instacart launches an AI grocery shopping assistant called Clementine",
-        "Instacart Launches AI Agent Clementine to Turn Chats Into Grocery Carts"
+        "Top Artificial Intelligence Stocks To Follow Now - September 9th"
       ]
     },
     {
@@ -387,46 +330,74 @@
     },
     {
       "cat": "funding",
-      "signal": 30,
-      "sources": 3,
-      "ts": "2026-09-08T22:16:00.000Z",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-09T07:01:19.000Z",
       "writtenSources": 3,
       "draft": true,
-      "h": "UNT to open new college of artificial intelligence with $20 million gift",
-      "s": "UNT to open new college of artificial intelligence with $20 million gift Dallas News",
+      "h": "Google to Invest $15 Billion in Data Centers and Infrastructure in Finland",
+      "s": "Google to Invest $15 Billion in Data Centers and Infrastructure in Finland WSJ",
       "b": [
-        "dallasnews.com: UNT to open new college of artificial intelligence with $20 million gift",
-        "yahoo.com: UNT to open new college of artificial intelligence with $20 million gift",
-        "wfaa.com: UNT receives $20M gift to launch new college focused on Artificial Intelligence"
+        "wsj.com: Google to Invest $15 Billion in Data Centers and Infrastructure in Finland",
+        "upi.com: Google to invest $15.1B in AI infrastructure in Finland",
+        "finance.yahoo.com: Google to invest $15 billion AI infrastructure in Finland"
       ],
       "body": [
-        "dallasnews.com: UNT to open new college of artificial intelligence with $20 million gift Dallas News",
-        "yahoo.com: UNT to open new college of artificial intelligence with $20 million gift Yahoo",
-        "wfaa.com: UNT receives $20M gift to launch new college focused on Artificial Intelligence WFAA"
+        "wsj.com: Google to Invest $15 Billion in Data Centers and Infrastructure in Finland WSJ",
+        "upi.com: Google to invest $15.1B in AI infrastructure in Finland upi.com",
+        "finance.yahoo.com: Google to invest $15 billion AI infrastructure in Finland Yahoo Finance"
       ],
       "l": [
         {
-          "d": "dallasnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTQyU0tiQVE2d3N3UHRqcFBQZ0o3R1p2VnRtSW9KeTZ2dVJnbGZwLVBRSktPUzd1YTZVWDFDcUZkQmp0eTY3VnJqdy16Y3dqR0JpS09tWjBWaHNOaHdQa1BJWWZzZ1lVRHRCbS04OU0yM1RtVlZmM1JlMGRxUmZZSmJ2V1ZIbElreGc?oc=5"
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWVXTzcwTVJMV3N1ZWh5cFU3ajlmTGJVRHExM0tIemhzNTZGZFZndmp4SkxMNGd4dnlnMEp4VjhISXpwSXFDVWd4b3M2OVJtNGp2Zm81YXBDSEdLWndFSnBISG4tc0RVOW41RU1SMGNybE40U2NtV3Y4a2RheDFwbmw2bzYwUHpLZnZRVjV5YVR6Ny0tUG5hbWhhNnVRRFdYREN0cGxucFJfS2ZzYWpiWA?oc=5"
         },
         {
-          "d": "yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMGdSeTJ0NEVZcW5mMGluekI0MEdabGdIVGc5VUxQU3hqZ0liOWFCcy1HYW1XcFo0RUlZZ1V4bnBWRTdHX0Z4MUVIU2VoeFhTSXY5dVl4azJuV0FmQ3lCdDduN19Vb0tPVGtTRTdaWGpleW1VZE05WGRldTVRbVdINk5kREExNlV2UlNDQkJQaDJBUVE?oc=5"
-        },
-        {
-          "d": "wfaa.com",
-          "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY0pNaERKOXNTb0VJb21fR1V5V0tNdFdfM1ZLZTZ1U2g4eXFzMEpTODBES2psU1FxcXJtaXJDWjE5WHA4RWZaQXJXWVZIZVA3bVQ1c0NEUi1sS0Z0YkpQVFJjWU8xOHlYUkVxZmVxd3VXMURMcWFOdFZJV0xzR0ZzSS1sR2txVXpZb1VmVjZlTnRlbFVWbW9TRjUyd08wYXNtRFFqbkg4bVV1dUFXSHhNVXh0alB6dkU1cy1TdmxHZnhkMzA5dThZVzk0c1FCV1JTV19PbjlkZmJSWkRoa0pNbDVkam84VkxoUVhmVkRR?oc=5"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWlsQWd3YVpfR2RHNGVpT2ZoV18yTXJSUVdjOXVIZ1BTSHk5OFJiWlh3Q1F0cVpFbmdrbjlHNjR2c0FLbUpsRTNISEtMZk5oRnFtVUtENkk1Z3lFMlREeEgzck4zY0lIZDRPeFZJeGtfTW53M0JoSFh3UXpROGlXVmp1OVB3M2JjUS1aRjVyVFI4cWEwMHc?oc=5"
         }
       ],
       "srcTitles": [
-        "UNT to open new college of artificial intelligence with $20 million gift",
-        "UNT to open new college of artificial intelligence with $20 million gift",
-        "UNT receives $20M gift to launch new college focused on Artificial Intelligence"
+        "Google to Invest $15 Billion in AI Infrastructure in Finland",
+        "Google to Invest $15 Billion in Data Centers and Infrastructure in Finland",
+        "Google to invest $15 billion AI infrastructure in Finland"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 30,
+      "sources": 2,
+      "ts": "2026-09-09T13:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "s": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "b": [
+        "techcrunch.com: Instacart launches an AI grocery shopping assistant called Clementine",
+        "pymnts.com: Instacart Launches AI Agent Clementine to Turn Chats Into Grocery Carts"
+      ],
+      "body": [
+        "techcrunch.com: Instacart is the latest app to bake a conversational AI assistant into its platform.",
+        "pymnts.com: Instacart Launches AI Agent Clementine to Turn Chats Into Grocery Carts PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRVhsNUpxWE9kaENqYmhuOWJ6R1NxLTlydHZmRExTYWJ6UFJQaURHclNkcHBpQmpyaVFTVzFBUVN2X2lHZTVUdW9KdUFDR1A1MUZkSnlYQmNMbDNoS2lLSS16TXZDSk1zUFllMDhicF91U0pmbC1VNmdmMXgwZ1FWNlVSUUJsUV9DREc4WENuSjF0VEpFZGJnc0dzVjhmYVRNSkY5T3dNbzdQcHVOVFJubTluVkpJTWFJR1QyWmJJWHMxN2hOYWloLQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Instacart launches an AI grocery shopping assistant called Clementine",
+        "Instacart Launches AI Agent Clementine to Turn Chats Into Grocery Carts"
       ]
     },
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-09-09T17:49:00.000Z",
       "writtenSources": 2,
@@ -448,7 +419,7 @@
         },
         {
           "d": "nextgov.com",
-          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUW5kTFd0aWlWb2F2OGhpekx1UlNjRzQwOUNNallKZmJQMzFHd3lLVE1qeWpmRU5jVTVsZFZGd2ZXYUI2Y0g0emtUa09fQzJFWk5xYk02a1lJQlBZVE9ydmZyZzNkazFDY1c3OVZwU0RxelpfbWE0UDZEX0pYOUItQUlyWjRtejNhT1FtazlXY2lIOWpBeThJM1paTy1YSmJFYW45VzgycEhpUDhUV0R3TF9ZWkFUdEZMdXBlNXBucEtydFpIbHVicjlUNGhMTlZYOFgxS3VuN2FDUlpoSlFOTXl3?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVG53QWhHSmdTRGNSTTJrUm9YdWwxNmE5Mkk2Nm1qWU1ZRUQ3LVNkZDVsdzhVZEhhWWo1eDJLMG9LR1J3Nk9vSmVnczdza1lHTU1jVlJMd0pFS0VYb2JtalktdVdiS1NBdTdHZmxmUFJYY2tSeWJVSXdpbEhocTEySTh1dXFRSTBqVnBoQkgtUThKRk9UNFNXTkduaVhZRE5Ka05qVlItTFJFOVpobGRGVkRvcmRrLUNnSTNmRWtLcXU0N1k?oc=5"
         }
       ],
       "srcTitles": [
@@ -457,40 +428,67 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 28,
+      "cat": "models",
+      "signal": 26,
       "sources": 2,
-      "ts": "2026-09-09T04:00:00.000Z",
+      "ts": "2026-09-09T09:44:51.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
-      "s": "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping PYMNTS.com",
+      "h": "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
+      "s": "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks WRAL",
       "b": [
-        "pymnts.com: Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
-        "arxiv.org: Agentic Inequality",
-        "arxiv.org: An agentic framework for gravitational-wave counterpart association in the multi-messenger era"
+        "wral.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
+        "news4jax.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks"
       ],
       "body": [
-        "pymnts.com: Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping PYMNTS.com",
-        "arxiv.org: arXiv:2510.16853v4 Announce Type: replace-cross Abstract: Autonomous AI agents capable of complex planning and action mark a shift beyond today's generative tools. As these systems enter political and economic life, who can access them, how capable they are, and how many can be deployed will shape distributions of power and opportunity. We define this emerging challenge as \"agentic inequality\": disparities in power, opportunity, and outcomes arising from unequal access to, and capabilities of, AI agents. We show that agents could either deepen existing divides or, under the right conditions, mitigate them. The paper makes three contributions. First, it develops a framework for analysing agentic inequality across three dimensions: availability, quality, and quantity. Second, it argues that agentic inequality differs from earlier technological divides because agents function as autonomous delegates rather than tools, generating new asymmetries through scalable goal delegation and direct agent-to-agent competition. Third, it analyses the technical and socioeconomic drivers likely to shape the distribution of agentic power, from model release strategies to market incentives, and concludes with a research agenda for governance.",
-        "arxiv.org: arXiv:2605.10584v2 Announce Type: replace-cross Abstract: With the detection of gravitational waves (GWs), multi-messenger astronomy has opened a new window for advancing our understanding of astrophysics, dense matter, gravitation, and cosmology. The GW sources detected to date are from mergers of compact object binaries, which possess the potential to generate detectable electromagnetic (EM) counterparts. Searching for associations between GW signals and their EM counterparts is an essential step toward enabling subsequent multi-messenger studies. In the era of next-generation GW and EM detectors, the rapid increase in the number of events brings not only unprecedented scientific opportunities, but also substantial challenges to the existing data analysis paradigm. To help address these challenges, we develop GW-Eyes, an agentic framework powered by large language models (LLMs). For the first time, GW-Eyes integrates domain-specific tools and autonomously performs counterpart association tasks between GW and candidate EM events. It supports natural language interaction to assist human experts with auxiliary tasks such as catalog management, skymap visualization, and rapid verification. Our framework leverages the complex decision-making capabilities of LLMs and their traceable reasoning processes, offering a new perspective to the multi-messenger astronomy.",
-        "arxiv.org: arXiv:2605.30434v3 Announce Type: replace-cross Abstract: Real-world data analysis is inherently iterative, yet existing benchmarks mostly evaluate isolated or short interactive tasks, leaving agents' ability to track evolving analytical context over long horizons untested. We introduce LongDS, a benchmark for long-horizon, multi-turn data analysis where agents must maintain, update, restore, and compose evolving analytical states. LongDS comprises 68 tasks constructed from real-world Kaggle notebooks, spanning 2,225 turns across six domains including Geoscience, Business, and Education. Tasks are designed around state-evolution patterns (e.g., counterfactual perturbation, rollback, multi-state composition), with an average dependency span of 11.3 turns. Evaluating five state-of-the-art models, we find that the best model reaches only 48.45% average accuracy, performance drops nearly 47 points from early to late turns, and long-horizon errors account for 52%--69% of failures. Further analysis shows that additional agent steps do not necessarily improve performance, suggesting that the key bottleneck is maintaining a correct analytical state rather than increasing interaction budget. We release LongDS to support research on reliable long-horizon agentic data analysis. Code and data are released at https://github.com/zjunlp/DataMind."
+        "wral.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks WRAL",
+        "news4jax.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks News4JAX"
       ],
       "l": [
         {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNWNDQnI5WHppNGRiN1JjT1EtUjczSURNTjFsa1pZa25kWE12U1A3RlpCZ3kwUHpYZm1hSWwyMFR3cGw1aEdmTHZHaVlXVVNmLS0zc2NtbzdfbFpER1BhN2JEMlM5Q3R3dVRuZklDaHN2T2ZXbC1OTTZiaHFFcFg4UzBGaDk5QXdPQThBcEFlbWszRXA0Zk1yVkhYSVR1VzhiU2p6LXdpUjZEVVZkLUZsYV9uMVAtX2I1aXQtdmZhRWUzUWRp?oc=5"
+          "d": "informnny.com",
+          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0I3YUNWRGM1TW93Y2l0alNMVC01bENUR3NEWXVnWVluZTM2UlVuTXQ0N0E0bVQ2cUZTLW4xTXlxTWRiZ1RzenU5aDlOdE0zU3VybjFvVXZOMEpGYXNPVXBpaldzX0xNdU1sMzBXUVpjRW1LSy11Y0M2cFFqUGpVbnliM0F6bjVYcUkxSy01X2FjaWJRdGV5YVNvajlQZXNtaGxaeWlXb2JNUFlVSUhJQndjNGVsSnBHQnI4V3UxdEw3TVF3M0pEZ1pQZVNYdlnSAdQBQVVfeXFMTXFENDlmSGw2WEotXzl6d0NyNEwxaEdiaEQzX09CVG4wSW9VeUZrMGFqajMwanlTd3piZFVGTmkwcy1Gb3dabnhpdDZ1R293dlBJUUViSnlPNWdkSnhjQnVMWWM3WDA2YlBOdXdsNERYbS1vZ19PVUFtcTZRTG1kT0ZHenZVZWtkVUFKYVhRdzFyTFJwWUFiSzB6ZjJaa2N0TU1YSzdRNDZQYjk3ZzRid2JfeHBva3lHSzkwOVdtbW11UENOQUlzYWFuY1NFZXZfaXdwcFc?oc=5"
         },
         {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2510.16853"
+          "d": "aljazeera.com",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXdzNmNWRGQ2ZUFLcTRnZGNMbHFJVV9fU1NHUGxTVEE4cUgxT0RXVlE0WFJiM3ZYdm1qam5xUlAteUlHUzV6c3A1OU9CQVk5czJoOGFkbEVrRE0zVVZmRXdOUUZGYVBpSkc1azZ4dUtDLXZfbFFpMm5GR05jREhJaGpZR2psVi1ZZHp5RlQ4RkNsbGFr0gGaAUFVX3lxTE85bkI4eGtESWxuRGtzSzBidDJRTjhXcU1scnA3SzVLNHRKYWN0dWtLbjIxc1NOT3lfZWNjdDFVYTlDbzF6VFpSLS03MlExS1BTSmw3MkFzSDhmZnVZYjNQVXdSa1NxUWFTWmN6YUtYZXoyRGFyZkp1cEIyak4wZE9zb2ZZdE8yUEtsSEd4S2ZCTEhPd3Q5S0hWUlE?oc=5"
         }
       ],
       "srcTitles": [
-        "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
-        "Agentic Inequality",
-        "An agentic framework for gravitational-wave counterpart association in the multi-messenger era",
-        "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis"
+        "China hits back at US claims of ‘malicious’ AI distillation ahead of planned Trump-Xi talks",
+        "China slams US claims of ‘industrial-scale’ AI theft"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-09T08:05:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming.",
+      "s": "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. The Motley Fool",
+      "b": [
+        "fool.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming.",
+        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming."
+      ],
+      "body": [
+        "fool.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. The Motley Fool",
+        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. Yahoo Finance"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa1FlU2wyWVhVMzdGbDFHVUZscWVERG8wdzZUZmV3LUhEMmZnMDdPbF9fSTFqbUo2NW5TRmtIVFA4WWN2VHU1cllJOEhCODFzY1dUd3NIMi1Td09MUnVHUTFmeEhVVVIwbzhmdWhHNVduV3JOMzAwWWQ3bXRoX1BYVFp0d1JlMjM3dkZQR2taUkUzaVc0aXE4?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmc2ME1uek9zYXk2Y1RNWE9mbDJjRXNlcHk1YWFDaXJzVHJHdWJMczdYWV9qR1JqRllEWlNTNFQ2dllDc0FqYXd5TVg5eVdvSjlCVW9acVhmbDFQVnV0NzlNSTROUnpNbkRRMWtpdXVwc21RTXJrTEExbVhLeXp0aWlWamxVNWVUaU0wVUJCZjUtWTgzRTYxSEhVQlVKZHRiNzAySEtxUHE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming.",
+        "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming."
       ]
     },
     {
@@ -527,34 +525,73 @@
     },
     {
       "cat": "funding",
-      "signal": 24,
+      "signal": 26,
       "sources": 2,
-      "ts": "2026-09-09T13:00:00.000Z",
-      "writtenSources": 2,
+      "ts": "2026-09-08T22:16:00.000Z",
+      "writtenSources": 3,
       "draft": true,
-      "h": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-      "s": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "h": "UNT to open new college of artificial intelligence with $20 million gift",
+      "s": "UNT to open new college of artificial intelligence with $20 million gift Dallas News",
       "b": [
-        "techcrunch.com: Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-        "techmeme.com: Enterprise AI security startup Cymphony emerges from stealth with $30M, including a $25M Series A co-led by Sequoia and SMBC, at a $100M+ post-money valuation (Jagmeet Singh/TechCrunch)"
+        "dallasnews.com: UNT to open new college of artificial intelligence with $20 million gift",
+        "yahoo.com: UNT to open new college of artificial intelligence with $20 million gift",
+        "wfaa.com: UNT receives $20M gift to launch new college focused on Artificial Intelligence"
       ],
       "body": [
-        "techcrunch.com: Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
-        "techmeme.com: Jagmeet Singh / TechCrunch : Enterprise AI security startup Cymphony emerges from stealth with $30M, including a $25M Series A co-led by Sequoia and SMBC, at a $100M+ post-money valuation As AI agents gain access to the same sensitive corporate data and systems as human workers while operating at machine speed, enterprises are prone to new security risks."
+        "dallasnews.com: UNT to open new college of artificial intelligence with $20 million gift Dallas News",
+        "yahoo.com: UNT to open new college of artificial intelligence with $20 million gift Yahoo",
+        "wfaa.com: UNT receives $20M gift to launch new college focused on Artificial Intelligence WFAA"
       ],
       "l": [
         {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
+          "d": "dallasnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTQyU0tiQVE2d3N3UHRqcFBQZ0o3R1p2VnRtSW9KeTZ2dVJnbGZwLVBRSktPUzd1YTZVWDFDcUZkQmp0eTY3VnJqdy16Y3dqR0JpS09tWjBWaHNOaHdQa1BJWWZzZ1lVRHRCbS04OU0yM1RtVlZmM1JlMGRxUmZZSmJ2V1ZIbElreGc?oc=5"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260909/p19#a260909p19"
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdGJSRjhUd09SUFBSU280bXhPZnkzU1ozSDhEWGRsYWR6clNicXdwd2xoQ2Ffc1RwRXl6MkVfTXpZcWtwVlNpektWSUliT2Mxd3dZTlp0WGhtRFp5Q0xjQVMwc0hRcVdnZHdkWl85UjhUMkgwN01DTm1hcjdqaE0tSXREN2l6UDB0cm9ZRVB3VlZPN28?oc=5"
         }
       ],
       "srcTitles": [
-        "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
-        "Enterprise AI security startup Cymphony emerges from stealth with $30M, including a $25M Series A co-led by Sequoia and SMBC, at a $100M+ post-money valuation (Jagmeet Singh/TechCrunch)"
+        "UNT to open new college of artificial intelligence with $20 million gift",
+        "UNT to open new college of artificial intelligence with $20 million gift"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 24,
+      "sources": 2,
+      "ts": "2026-09-09T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
+      "s": "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping PYMNTS.com",
+      "b": [
+        "pymnts.com: Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
+        "arxiv.org: Agentic Inequality",
+        "arxiv.org: An agentic framework for gravitational-wave counterpart association in the multi-messenger era"
+      ],
+      "body": [
+        "pymnts.com: Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping PYMNTS.com",
+        "arxiv.org: arXiv:2510.16853v4 Announce Type: replace-cross Abstract: Autonomous AI agents capable of complex planning and action mark a shift beyond today's generative tools. As these systems enter political and economic life, who can access them, how capable they are, and how many can be deployed will shape distributions of power and opportunity. We define this emerging challenge as \"agentic inequality\": disparities in power, opportunity, and outcomes arising from unequal access to, and capabilities of, AI agents. We show that agents could either deepen existing divides or, under the right conditions, mitigate them. The paper makes three contributions. First, it develops a framework for analysing agentic inequality across three dimensions: availability, quality, and quantity. Second, it argues that agentic inequality differs from earlier technological divides because agents function as autonomous delegates rather than tools, generating new asymmetries through scalable goal delegation and direct agent-to-agent competition. Third, it analyses the technical and socioeconomic drivers likely to shape the distribution of agentic power, from model release strategies to market incentives, and concludes with a research agenda for governance.",
+        "arxiv.org: arXiv:2605.10584v2 Announce Type: replace-cross Abstract: With the detection of gravitational waves (GWs), multi-messenger astronomy has opened a new window for advancing our understanding of astrophysics, dense matter, gravitation, and cosmology. The GW sources detected to date are from mergers of compact object binaries, which possess the potential to generate detectable electromagnetic (EM) counterparts. Searching for associations between GW signals and their EM counterparts is an essential step toward enabling subsequent multi-messenger studies. In the era of next-generation GW and EM detectors, the rapid increase in the number of events brings not only unprecedented scientific opportunities, but also substantial challenges to the existing data analysis paradigm. To help address these challenges, we develop GW-Eyes, an agentic framework powered by large language models (LLMs). For the first time, GW-Eyes integrates domain-specific tools and autonomously performs counterpart association tasks between GW and candidate EM events. It supports natural language interaction to assist human experts with auxiliary tasks such as catalog management, skymap visualization, and rapid verification. Our framework leverages the complex decision-making capabilities of LLMs and their traceable reasoning processes, offering a new perspective to the multi-messenger astronomy.",
+        "arxiv.org: arXiv:2605.30434v3 Announce Type: replace-cross Abstract: Real-world data analysis is inherently iterative, yet existing benchmarks mostly evaluate isolated or short interactive tasks, leaving agents' ability to track evolving analytical context over long horizons untested. We introduce LongDS, a benchmark for long-horizon, multi-turn data analysis where agents must maintain, update, restore, and compose evolving analytical states. LongDS comprises 68 tasks constructed from real-world Kaggle notebooks, spanning 2,225 turns across six domains including Geoscience, Business, and Education. Tasks are designed around state-evolution patterns (e.g., counterfactual perturbation, rollback, multi-state composition), with an average dependency span of 11.3 turns. Evaluating five state-of-the-art models, we find that the best model reaches only 48.45% average accuracy, performance drops nearly 47 points from early to late turns, and long-horizon errors account for 52%--69% of failures. Further analysis shows that additional agent steps do not necessarily improve performance, suggesting that the key bottleneck is maintaining a correct analytical state rather than increasing interaction budget. We release LongDS to support research on reliable long-horizon agentic data analysis. Code and data are released at https://github.com/zjunlp/DataMind."
+      ],
+      "l": [
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNWNDQnI5WHppNGRiN1JjT1EtUjczSURNTjFsa1pZa25kWE12U1A3RlpCZ3kwUHpYZm1hSWwyMFR3cGw1aEdmTHZHaVlXVVNmLS0zc2NtbzdfbFpER1BhN2JEMlM5Q3R3dVRuZklDaHN2T2ZXbC1OTTZiaHFFcFg4UzBGaDk5QXdPQThBcEFlbWszRXA0Zk1yVkhYSVR1VzhiU2p6LXdpUjZEVVZkLUZsYV9uMVAtX2I1aXQtdmZhRWUzUWRp?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2510.16853"
+        }
+      ],
+      "srcTitles": [
+        "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
+        "Agentic Inequality",
+        "An agentic framework for gravitational-wave counterpart association in the multi-messenger era",
+        "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis"
       ]
     },
     {
@@ -605,6 +642,38 @@
       ],
       "srcTitles": [
         "Recreating a 70-year love story frame by frame"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 20,
+      "sources": 2,
+      "ts": "2026-09-09T13:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "s": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+      "b": [
+        "techcrunch.com: Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+        "techmeme.com: Enterprise AI security startup Cymphony emerges from stealth with $30M, including a $25M Series A co-led by Sequoia and SMBC, at a $100M+ post-money valuation (Jagmeet Singh/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+        "techmeme.com: Jagmeet Singh / TechCrunch : Enterprise AI security startup Cymphony emerges from stealth with $30M, including a $25M Series A co-led by Sequoia and SMBC, at a $100M+ post-money valuation As AI agents gain access to the same sensitive corporate data and systems as human workers while operating at machine speed, enterprises are prone to new security risks."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260909/p19#a260909p19"
+        }
+      ],
+      "srcTitles": [
+        "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+        "Enterprise AI security startup Cymphony emerges from stealth with $30M, including a $25M Series A co-led by Sequoia and SMBC, at a $100M+ post-money valuation (Jagmeet Singh/TechCrunch)"
       ]
     }
   ]
