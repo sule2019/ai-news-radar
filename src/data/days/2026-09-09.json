@@ -1,4 +1,62 @@
 {
   "date": "2026-09-09",
-  "stories": []
+  "stories": [
+    {
+      "cat": "research",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-09-08T23:46:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won't be able to control (Amrith Ramkumar/Wall Street Journal)",
+      "s": "Amrith Ramkumar / Wall Street Journal : Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won't be able to control Co",
+      "b": [
+        "techmeme.com: Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won't be able to control (Amrith Ramkumar/Wall Street Journal)",
+        "wsj.com: Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears"
+      ],
+      "body": [
+        "techmeme.com: Amrith Ramkumar / Wall Street Journal : Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won't be able to control Concerns are rising inside AI labs that competition is pushing tech companies to race toward self-improving models that risk spiraling out of human control",
+        "wsj.com: Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears WSJ"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260908/p47#a260908p47"
+        },
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won't be able to control (Amrith Ramkumar/Wall Street Journal)",
+        "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-09-09T03:10:08.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "What OpenAI’s latest controversy tells us about the future of math",
+      "s": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most importan",
+      "b": [
+        "technologyreview.com: What OpenAI’s latest controversy tells us about the future of math"
+      ],
+      "body": [
+        "technologyreview.com: OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather in OpenAI’s cap. But the announcement has been overshadowed by accusations that OpenAI used NYU mathematician Tristan Buckmaster’s and Anthropic employee Levent Alpöge’s AI-assisted work on the problem as a jumping-off point and failed to credit them. OpenAI has denied the accusations. It remains uncertain if OpenAI’s models made use of the work completed by Buckmaster and Alpöge, though Sébastien Bubeck, a member of the technical staff at OpenAI, said in a press briefing that the team was inspired to pursue the problem after hearing a rumor about Buckmaster and Alpöge’s efforts. But whether or not OpenAI’s models took advantage of Buckmaster and Alpöge’s research, this episode may mark a turning point in the history of mathematics. AI models now seem essential for making progress on the most important mathematical problems of our time, and solving them may demand resources only available at a couple of frontier AI companies, which often defy the norms of academic collaboration that undergird most mathematical progress. If that’s the future we are headed for, it is unclear how human mathematicians will fit into it. The problem that OpenAI claims to have solved is known as the Navier–Stokes existence and smoothness problem. It is one of seven Millennium Prize Problems selected by the Clay Mathematics Institute in 2000. Solutions come with a one million dollar prize; before today, only one other Millennium Prize Problem had been solved. The Navier–Stokes problem concerns a set of equations that describes how fluids, such as water and air, flow over time. The equations are widely used in the field of fluid dynamics, and they have proven powerful, but physicists and mathematici"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/"
+        }
+      ],
+      "srcTitles": [
+        "What OpenAI’s latest controversy tells us about the future of math"
+      ]
+    }
+  ]
 }
