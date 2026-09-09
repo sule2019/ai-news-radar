@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 64,
-      "sources": 6,
+      "signal": 66,
+      "sources": 7,
       "ts": "2026-09-08T23:46:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -28,28 +28,28 @@
           "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FWC1lZ2xrRGtNX2VqX3RQOFlKXzNOcW1mdUVNRmV6VE05dm92SlNaUmVNYmFlcnBuVDJvbUI0R2xfaW1fOHg5eVp5ZGszMU9qcjQtWWJVR3B0SDFLYzNWTS1mWnl2WlJRRUZYZE1LbW1FXzg0ZTNmTEcxTjllQdIBgwFBVV95cUxPZFdIdE5uZnlyMlhCdUpWRHo4UWtyRWVfazZCdDlNVTA0YjdtbjNpRTZSVWZLbnFiMnNRN2pqeTV0NVFMVGVBVlVVdzFXX1V4LTNmWU1FOW9xOGNCVHAweXk0bnBwemNhMm9HUTJqaDJYWHRIbUVuTUdIX2tSNU9Mcl9BOA?oc=5"
         },
         {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6WDZoOFRnTjQ5WW5vMUJKeThhbUUyUTlaeXdKbUhoNE5WNDhnVjhmM080N3p3ZFJfSm9ncUZtblZDRm1YU1hYbjBZZ3ZXNkRjSmNBUmdTa0tCZw?oc=5"
+        },
+        {
           "d": "tomshardware.com",
           "u": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNWUZNVU1NV1UyUHJyZEt3eGt4N1NTWHhjbFpsc3U2S2MyNXhodWtkcXptNGhZdWZlSlFRM3A0N2JXRWItUElyTFdnU2NPdUw0TEVZczdxems1SF9keWstUjBPNF90MWpyVFdLdjAzdkE1UURJS3ZUNG9kNDBqQlFsMW1LNEdSOTNyM0Q5TVhHMXA0TVpiZ3BydDViajVackVPS2dILWFHV1hiU1ptQ2pyRDVXSGZqSkR3RWk4bnpFQmV3RjRoN0lOVDJOcS1xY0ZVWU9GQnFXUGMyTmtER09adzdEelFtWVd2clNNYUF1QlpzbVFYTDJ0WUtFNW9pM2ZDN3ZpOHN4QjdrUHBiSnhoeWxDWVZCRU10UmpDdFRRV0JUTHJtR1A3TldFUjFldi1ZRTBJOXZVSlduV1pmWnlRdnE2NVFEX3B1Vi1OSDJqaTdhX3FDMmlHU2pn?oc=5"
         },
         {
-          "d": "wsj.com",
-          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5"
-        },
-        {
-          "d": "+2"
+          "d": "+3"
         }
       ],
       "srcTitles": [
         "Anthropic's Alignment Science lead says there is a \">10%\" chance AI could kill all humans within the next decade and worries about recursive self-improvement (Evan Hubinger/@evanhub)",
         "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
-        "More than 10% chance AI 'could kill all humans' in the next 10 years, Anthropic safety researcher says",
-        "Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won't be able to control (Amrith Ramkumar/Wall Street Journal)"
+        "Anthropic safety researcher says more than 10% chance AI 'could kill all humans'",
+        "More than 10% chance AI 'could kill all humans' in the next 10 years, Anthropic safety researcher says"
       ]
     },
     {
       "cat": "funding",
-      "signal": 55,
-      "sources": 3,
+      "signal": 57,
+      "sources": 4,
       "ts": "2026-09-09T07:01:19.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -68,7 +68,7 @@
       "l": [
         {
           "d": "wsj.com",
-          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejhvOEd3al93UzVIYmt2VFRlWUdKZU1WaTlwV2ktMnZMeGt6VV9wMTRVR09qU2MtZnBoeU92Ymh2d0NQU29WaUU3VEtmYjE3MGRiOVZTSnYxNXo2RWtSbU00allwa2RtdTc4VlJWZXZRMmNyWXh1OTZJdE9QQnVhM0toOGw0MTBfSUFvRWVvZW5OeDR2Z2lCNUY4S0ZzbEJ1eGI2blphVF9LMWc?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWVXTzcwTVJMV3N1ZWh5cFU3ajlmTGJVRHExM0tIemhzNTZGZFZndmp4SkxMNGd4dnlnMEp4VjhISXpwSXFDVWd4b3M2OVJtNGp2Zm81YXBDSEdLWndFSnBISG4tc0RVOW41RU1SMGNybE40U2NtV3Y4a2RheDFwbmw2bzYwUHpLZnZRVjV5YVR6Ny0tUG5hbWhhNnVRRFdYREN0cGxucFJfS2ZzYWpiWA?oc=5"
         },
         {
           "d": "upi.com",
@@ -77,12 +77,49 @@
         {
           "d": "finance.yahoo.com",
           "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWlsQWd3YVpfR2RHNGVpT2ZoV18yTXJSUVdjOXVIZ1BTSHk5OFJiWlh3Q1F0cVpFbmdrbjlHNjR2c0FLbUpsRTNISEtMZk5oRnFtVUtENkk1Z3lFMlREeEgzck4zY0lIZDRPeFZJeGtfTW53M0JoSFh3UXpROGlXVmp1OVB3M2JjUS1aRjVyVFI4cWEwMHc?oc=5"
+        },
+        {
+          "d": "lemonde.fr",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVBSOG5FWlh5S2JZenlOYk5wZjVrSUVzcnBNR0xGRGZ5Vk5ERmRieG1sZHV3dm9nN1dsVmNTX01OWUFRd3ZYbU9SQlFNMi10MTZSV1A5QWQwUnQzOHZkTWp0UHlmcFZrSFI0bkFJWjM4bmFaOFBjRDFKdWc2ak5SbVBURWs0eS1uMlpRWmZVQWdqc2diaUlORFVXV0JDc2hESnhZNkJaMGMzSjR0aXhvTDlBOWVDM0dZeGNOYzA4Sk92OHVMYXc?oc=5"
         }
       ],
       "srcTitles": [
+        "Google to Invest $15 Billion on AI Infrastructure in Finland",
         "Google to Invest $15 Billion in Data Centers and Infrastructure in Finland",
         "Google to invest $15.1B in AI infrastructure in Finland",
         "Google to invest $15 billion AI infrastructure in Finland"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-09-09T08:25:35.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "‘Gambling with our lives’: AI researcher quits Anthropic with dire warning about safety",
+      "s": "‘Gambling with our lives’: AI researcher quits Anthropic with dire warning about safety politico.eu",
+      "b": [
+        "politico.eu: ‘Gambling with our lives’: AI researcher quits Anthropic with dire warning about safety",
+        "aa.com.tr: ‘Gambling with our lives’: Anthropic researcher quits over AI labs’ ‘irresponsible’ race"
+      ],
+      "body": [
+        "politico.eu: ‘Gambling with our lives’: AI researcher quits Anthropic with dire warning about safety politico.eu",
+        "aa.com.tr: ‘Gambling with our lives’: Anthropic researcher quits over AI labs’ ‘irresponsible’ race Anadolu Ajansı"
+      ],
+      "l": [
+        {
+          "d": "politico.eu",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeUw0TUdzSWVyMTBITjI4c1lBREZaVnIwVkR2a2lWVjVDSkpTVVNvRTkzc0dRVXRDWUkxaDZaR2ZzXzg4a1d1RHpRWTF5V2dXazJ6eG1HQVZza2JlZk1SQUhldkJuUGNGM2tkYWVNTVFKWlNjUzhabXpVUlYxTVV5NTZDcDNwSnY0V2tzbTlqbTZGN2VwTDVsUDNKWkJMR1ZR?oc=5"
+        },
+        {
+          "d": "aa.com.tr",
+          "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMDByUEV2STlaWElqVDQyQWZDMGZDSnQ0Q2txMkx0ZWxkcGhIMGJpMTJGTkRpTXBHMS1LazNoODBCb2tKaVduZWNyMW14SlNiWVBGaThhVjl0RmFRTDRpQ2RwTy1lSXJkWlQ3VFhmbUpoVEVybVZRc3BLVDNHc0NDWEhfOUhHYTJKdjM2SDVqSEYtZjBERi1PSHJweVlpeEI2Y1ctQjlMUUV3UjRHNjJ1OHJHYnpvRDdtWVlsejdqMk5EQ1hSckwyc3FPV2RJa3Z2dXFCMEUzTQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "‘Gambling with our lives’: AI researcher quits Anthropic with dire warning about safety",
+        "‘Gambling with our lives’: Anthropic researcher quits over AI labs’ ‘irresponsible’ race"
       ]
     },
     {
@@ -108,6 +145,38 @@
       ],
       "srcTitles": [
         "What OpenAI’s latest controversy tells us about the future of math"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-09T09:44:51.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
+      "s": "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks WRAL",
+      "b": [
+        "wral.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
+        "news4jax.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks"
+      ],
+      "body": [
+        "wral.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks WRAL",
+        "news4jax.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks News4JAX"
+      ],
+      "l": [
+        {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU19zSEFsc3g2bXU0MUdsTDZTQWJnbTBHbU52UG1ZdS1waldiX0hCaFRPUXdtNENNTXc5RjlUM19MNmtobkxpa2kxTXpMbFVHM2F3eGw3V1FPMDROVkl6S0d2QWdwTXc5eGdldmJXUWJLcjBzSHpqN3NmZVZkd2RwOWRqcjZ4MndnaFQ2UGVULUtEOXA1enc1SUY0VGZaOHFMR1ZnbXY1YUg3Ql8xcG0wNGlMNEJKQVAyQU5EcWtYeHpPUE0?oc=5"
+        },
+        {
+          "d": "news4jax.com",
+          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdmkyS3dwUVlLc0ZtT0MxanVhNTdKX3dMU2FDdkFKRjlkcWFOYlFINGFCQnJEVVdpd0RSMlJPSFdNdXRiZl9VbHJ5UjFyWFRnYlh5ZzM3cDhGeHRfVjN1RFZwR0V5LUZxQUFoalNUbHNpWDVwRUdOSzNVZG0wNjlCTUExRF91dVVpRUVqUmNBNVc3LVRFR1loVWE1R21BTmlOUUpoeXB0ZGlGR01SN3RaR0lkNXdlb3kxeHowbUNJNzVaMDAxSDdHcFFsTTR0Mm1P?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
+        "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks"
       ]
     }
   ]
