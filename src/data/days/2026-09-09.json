@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 66,
-      "sources": 7,
+      "signal": 77,
+      "sources": 8,
       "ts": "2026-09-08T23:46:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,36 +20,170 @@
       ],
       "l": [
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/09/gambling-with-our-lives-anthropic-researcher-quits-warns-against-self-improving-ai/"
         },
         {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB6WDZoOFRnTjQ5WW5vMUJKeThhbUUyUTlaeXdKbUhoNE5WNDhnVjhmM080N3p3ZFJfSm9ncUZtblZDRm1YU1hYbjBZZ3ZXNkRjSmNBUmdTa0tCZw?oc=5"
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5"
         },
         {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FWC1lZ2xrRGtNX2VqX3RQOFlKXzNOcW1mdUVNRmV6VE05dm92SlNaUmVNYmFlcnBuVDJvbUI0R2xfaW1fOHg5eVp5ZGszMU9qcjQtWWJVR3B0SDFLYzNWTS1mWnl2WlJRRUZYZE1LbW1FXzg0ZTNmTEcxTjllQdIBgwFBVV95cUxPZFdIdE5uZnlyMlhCdUpWRHo4UWtyRWVfazZCdDlNVTA0YjdtbjNpRTZSVWZLbnFiMnNRN2pqeTV0NVFMVGVBVlVVdzFXX1V4LTNmWU1FOW9xOGNCVHAweXk0bnBwemNhMm9HUTJqaDJYWHRIbUVuTUdIX2tSNU9Mcl9BOA?oc=5"
+          "d": "sfchronicle.com",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFVVVnFBTEJpd1lqekJwOVhzRDZUT25DVHNHSnE5dnZiZ3ZPZC1ya3lBSGtRV1Q3WTM4SWE0aGpaMlVZNWhKMTYyRGZ6NGFTcUVra3U4emZVS0NWZmI2d3NsWDkzU050Vnl1T28yNmZIc0FHSUh4NDJNX203VjVjTlpyaTBlbUkwUWZuZTFUV29pbXBzSEoyWTZZUmpCMWc?oc=5"
         },
         {
-          "d": "theguardian.com",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNUNtV20wYXJQU1RyZGpkOVh6LUFqTDRPY1hDTDhoQzlVZWduQjB2aVR0QzZmYkozX3BLZHVYMDdaV1c5UHhaNktCX0o1UnZCWm81Wjl3TUs0c1I3QXB3Z3NRQW1EZFduejZTLWk3OFBqMFhQNFhTM1d1NEVvbkM4czhqNlhUWlNqRnVvV2FvamxYRTRPTDlPQ2xGOXpac1V2NjkzdUh5U0s5NW9fLUE?oc=5"
+          "d": "startuphub.ai",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcTlNM3BiVTV6Y0ZmcGMyWFl6Mml1ZVNJOHp0WG9EZ2oxX2tnT2tsaXJoMFRCNUNTQlZQSVhzbFp6ZnZ2Nk9xVTBLUUJCZ2RONUFTalBnRk9oNnZ5NWc0NnJaZlh5QUtpUWU4M2VnVXl3cnBkeXdGZDBZWEc5am5teXNVdUJheG9XbklFeXBobUpFcURSa25nbWt6YWJNQUp0aDlz?oc=5"
         },
         {
-          "d": "+3"
+          "d": "+4"
         }
       ],
       "srcTitles": [
-        "Worried Anthropic researchers warn that AI could kill all humans",
-        "Anthropic researcher believes more than 10% chance AI 'could kill all humans'",
-        "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
-        "AI could kill all humans in next decade, warn experts: but how seriously should we take them?"
+        "Gambling with our lives : Anthropic researcher quits, warns against self-improving AI",
+        "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears",
+        "Anthropic researcher resigns, warning AI labs are ‘gambling with our lives’",
+        "Anthropic researcher quits over AI safety"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-09-09T16:30:33.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Researchers: OpenAI's agents used 10+ previously undisclosed sites for unsanctioned communications earlier in 2026; the behavior was closer to spam than hacking (Reuters)",
+      "s": "Reuters : Researchers: OpenAI's agents used 10+ previously undisclosed sites for unsanctioned communications earlier in 2026; the behavior was closer to spam than hacking AI agents unleashed by OpenAI",
+      "b": [
+        "techmeme.com: Researchers: OpenAI's agents used 10+ previously undisclosed sites for unsanctioned communications earlier in 2026; the behavior was closer to spam than hacking (Reuters)",
+        "reuters.com: EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say"
+      ],
+      "body": [
+        "techmeme.com: Reuters : Researchers: OpenAI's agents used 10+ previously undisclosed sites for unsanctioned communications earlier in 2026; the behavior was closer to spam than hacking AI agents unleashed by OpenAI used more than 10 previously undisclosed websites for unsanctioned communications earlier this year",
+        "reuters.com: EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say Reuters"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260909/p24#a260909p24"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWXFxSC1yRTU2ejFxemZvWTFuejRhSXZTY2cwVUFCU21iLURyaGltd3BCTGlJeXR4NEJzZUpldTN2M2RfQ191TV9rb1RfeExhSms3elNGLVV4cU9nbG9oNWV3dFB5S1ctLXNBSDVOdjZsYnZoYklyb2FmdDZrLVBsYTEzT1c5Unhpd1dacUNpMWNzd1UxYnZMR2NrSWVMSEQxYXFXRGE4RDktQzIwS2xGaG9sWUFvNlAtbDVLNElSWQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Researchers: OpenAI's agents used 10+ previously undisclosed sites for unsanctioned communications earlier in 2026; the behavior was closer to spam than hacking (Reuters)",
+        "EXCLUSIVE: OpenAI’s rogue agents used at least 10 more sites for unauthorized comms, researchers say"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 61,
+      "sources": 36,
+      "ts": "2026-09-09T08:05:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming.",
+      "s": "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming.",
+        "fool.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming."
+      ],
+      "body": [
+        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. Yahoo Finance",
+        "fool.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtTX29jWUNzc005Qm1GZmJhaEU5aFpISFRLRlRwdXdxTmZsZVcxa3dPOFhSVDNidEJKYlJ1OGw0b2l0Vi1hdDZRSUpyZkxKMzRUR1FCRWg3RmNqdVhWalFHQ2lCM19nOU5UbFZ6RTlZcDM0MVBROGdYMFpYOFN3NEZ3TjBCSWlZeldPOWFtOEpzbHNtWml6SWRLeWdvNFZrWWE0?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWDRQQmhrX1dnclVqdnJzWTg5UXZuNFFZSmFmeU1NYmpmbzBXUjhzVFhsQ0FDUmtmdEZLQXFYeEdJVWpuWEhiZXlLNzNuc2lNc1FWVERZMTVXaEVwMXBMQWNDa3pRamdnSDJPVHVWYTFRYS1veGUwaXF6NE1NZHNrNmlOVWVWdzBvV2F0amx2SnM?oc=5"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
+        },
+        {
+          "d": "techxplore.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORExsZHBTNzlmbkdyS08xbEkxTlZQSVp3MjFxaTh3ZHFFcUt1LUg0M2NSWC1fNGF3SWo3Yk1faGhkMndsc1hXYXdVTzJFR2hPMGNYVXR6a1RubldsMEVyR2MtdGlkdlJIOVJ5SzJPb0JWbnJaazZBMGJ1M3dJS21aV3BQbGFoWFJBaEFPcjNxcGNMZTZZNnlXbWNpTQ?oc=5"
+        },
+        {
+          "d": "+32"
+        }
+      ],
+      "srcTitles": [
+        "Is SpaceX a Top Artificial Intelligence (AI) Stock Pick in September?",
+        "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be the Top Performers to End 2026",
+        "Artificial Intelligence - ABC News",
+        "Americans use artificial intelligence, but still prefer that humans make consequential decisions"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-09T15:30:45.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Microsoft has new AI privacy rules for schools",
+      "s": "Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. In a new agreement with the American Federation",
+      "b": [
+        "theverge.com: Microsoft has new AI privacy rules for schools",
+        "techmeme.com: The American Federation of Teachers and Microsoft agree on AI privacy standards for schools, with legal protections that hold Microsoft liable for breaches (Madina Touré/Politico)"
+      ],
+      "body": [
+        "theverge.com: Microsoft agreed to a set of safety and privacy principles for AI in schools a week after two major school systems announced a ban on student-facing AI. In a new agreement with the American Federation of Teachers (AFT), the second-largest teachers union in the US, and its New York City affiliate the United Federation of [ ]",
+        "techmeme.com: Madina Tour / Politico : The American Federation of Teachers and Microsoft agree on AI privacy standards for schools, with legal protections that hold Microsoft liable for breaches NEW YORK The American Federation of Teachers and Microsoft have reached an agreement establishing privacy and safety protections"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260909/p21#a260909p21"
+        }
+      ],
+      "srcTitles": [
+        "Microsoft has new AI privacy rules for schools",
+        "The American Federation of Teachers and Microsoft agree on AI privacy standards for schools, with legal protections that hold Microsoft liable for breaches (Madina Touré/Politico)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-09-09T17:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Paul Christiano joins OpenAI Foundation Board",
+      "s": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards.",
+      "b": [
+        "openai.com: Paul Christiano joins OpenAI Foundation Board"
+      ],
+      "body": [
+        "openai.com: Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/paul-christiano-joins-openai-foundation-board"
+        }
+      ],
+      "srcTitles": [
+        "Paul Christiano joins OpenAI Foundation Board"
       ]
     },
     {
       "cat": "funding",
-      "signal": 54,
-      "sources": 4,
+      "signal": 48,
+      "sources": 2,
       "ts": "2026-09-09T07:01:19.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -71,22 +205,13 @@
           "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWVXTzcwTVJMV3N1ZWh5cFU3ajlmTGJVRHExM0tIemhzNTZGZFZndmp4SkxMNGd4dnlnMEp4VjhISXpwSXFDVWd4b3M2OVJtNGp2Zm81YXBDSEdLWndFSnBISG4tc0RVOW41RU1SMGNybE40U2NtV3Y4a2RheDFwbmw2bzYwUHpLZnZRVjV5YVR6Ny0tUG5hbWhhNnVRRFdYREN0cGxucFJfS2ZzYWpiWA?oc=5"
         },
         {
-          "d": "upi.com",
-          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEdyYlhMczNadTAwUWxDLXcyNWtfOWIzb25kLUUwSGZsSU90TXhpOHdCSFVoc1RJM0Y4Rjk1cF82UC1uaUhBNDlaakJ5VThNeTYxLUNMdVlyaUtsc3lhblZ1QTRrTWxWR193dXBMc1RMamlvU2pSa0NyMFNwdFBob1hjTko1ZzJNeFpSVl9iSlhPbTBhaTZiY2ZmekcwX3JTc1VvaHdhMmNsczZkTXpHSjRqUmNnZ9IBuwFBVV95cUxQWXRUQjVqLXNxV2VDMXFKWXFWMWFBS1IyXzBwX3hrbXlxT1RTNlNVRXhFWDNRU3VtWHBUSk8zU2FEY0pqYkVVVHR6VVR2MVp2Q08yMi03YnRpSXc3NXo2Y2xZeG1YQlFDWFJ4UkJ5OXN3eE1CemNlYl9KTTlaSnE2Y0VrQlVjUDM3ZndDbU1EUjNUckVxekJCUXB3Yl9iZG5DMXZTdWtvRUdpMC1mRTZuSUFUa2ExT1NSYkJB?oc=5"
-        },
-        {
           "d": "finance.yahoo.com",
           "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWlsQWd3YVpfR2RHNGVpT2ZoV18yTXJSUVdjOXVIZ1BTSHk5OFJiWlh3Q1F0cVpFbmdrbjlHNjR2c0FLbUpsRTNISEtMZk5oRnFtVUtENkk1Z3lFMlREeEgzck4zY0lIZDRPeFZJeGtfTW53M0JoSFh3UXpROGlXVmp1OVB3M2JjUS1aRjVyVFI4cWEwMHc?oc=5"
-        },
-        {
-          "d": "lemonde.fr",
-          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVBSOG5FWlh5S2JZenlOYk5wZjVrSUVzcnBNR0xGRGZ5Vk5ERmRieG1sZHV3dm9nN1dsVmNTX01OWUFRd3ZYbU9SQlFNMi10MTZSV1A5QWQwUnQzOHZkTWp0UHlmcFZrSFI0bkFJWjM4bmFaOFBjRDFKdWc2ak5SbVBURWs0eS1uMlpRWmZVQWdqc2diaUlORFVXV0JDc2hESnhZNkJaMGMzSjR0aXhvTDlBOWVDM0dZeGNOYzA4Sk92OHVMYXc?oc=5"
         }
       ],
       "srcTitles": [
         "Google to Invest $15 Billion in AI Infrastructure in Finland",
         "Google to Invest $15 Billion in Data Centers and Infrastructure in Finland",
-        "Google to invest $15.1B in AI infrastructure in Finland",
         "Google to invest $15 billion AI infrastructure in Finland"
       ]
     },
@@ -116,40 +241,191 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 26,
+      "cat": "funding",
+      "signal": 36,
       "sources": 2,
-      "ts": "2026-09-09T08:05:00.000Z",
+      "ts": "2026-09-09T13:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming.",
-      "s": "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. Yahoo Finance",
+      "h": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+      "s": "Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
       "b": [
-        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming.",
-        "fool.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming."
+        "techcrunch.com: Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+        "techmeme.com: Enterprise AI security startup Cymphony emerges from stealth with $30M, including a $25M Series A co-led by Sequoia and SMBC, at a $100M+ post-money valuation (Jagmeet Singh/TechCrunch)"
       ],
       "body": [
-        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. Yahoo Finance",
-        "fool.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. The Motley Fool"
+        "techcrunch.com: Cymphony was valued at more than $100 million in a $25 million Series A co-led by Sequoia and SMBC Fin Atlas Beyond Fund.",
+        "techmeme.com: Jagmeet Singh / TechCrunch : Enterprise AI security startup Cymphony emerges from stealth with $30M, including a $25M Series A co-led by Sequoia and SMBC, at a $100M+ post-money valuation As AI agents gain access to the same sensitive corporate data and systems as human workers while operating at machine speed, enterprises are prone to new security risks."
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZmc2ME1uek9zYXk2Y1RNWE9mbDJjRXNlcHk1YWFDaXJzVHJHdWJMczdYWV9qR1JqRllEWlNTNFQ2dllDc0FqYXd5TVg5eVdvSjlCVW9acVhmbDFQVnV0NzlNSTROUnpNbkRRMWtpdXVwc21RTXJrTEExbVhLeXp0aWlWamxVNWVUaU0wVUJCZjUtWTgzRTYxSEhVQlVKZHRiNzAySEtxUHE?oc=5"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks/"
         },
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOa1FlU2wyWVhVMzdGbDFHVUZscWVERG8wdzZUZmV3LUhEMmZnMDdPbF9fSTFqbUo2NW5TRmtIVFA4WWN2VHU1cllJOEhCODFzY1dUd3NIMi1Td09MUnVHUTFmeEhVVVIwbzhmdWhHNVduV3JOMzAwWWQ3bXRoX1BYVFp0d1JlMjM3dkZQR2taUkUzaVc0aXE4?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260909/p19#a260909p19"
         }
       ],
       "srcTitles": [
-        "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming.",
-        "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming."
+        "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
+        "Enterprise AI security startup Cymphony emerges from stealth with $30M, including a $25M Series A co-led by Sequoia and SMBC, at a $100M+ post-money valuation (Jagmeet Singh/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-09-09T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
+      "s": "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping PYMNTS.com",
+      "b": [
+        "pymnts.com: Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
+        "arxiv.org: Agentic Inequality",
+        "arxiv.org: An agentic framework for gravitational-wave counterpart association in the multi-messenger era"
+      ],
+      "body": [
+        "pymnts.com: Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping PYMNTS.com",
+        "arxiv.org: arXiv:2510.16853v4 Announce Type: replace-cross Abstract: Autonomous AI agents capable of complex planning and action mark a shift beyond today's generative tools. As these systems enter political and economic life, who can access them, how capable they are, and how many can be deployed will shape distributions of power and opportunity. We define this emerging challenge as \"agentic inequality\": disparities in power, opportunity, and outcomes arising from unequal access to, and capabilities of, AI agents. We show that agents could either deepen existing divides or, under the right conditions, mitigate them. The paper makes three contributions. First, it develops a framework for analysing agentic inequality across three dimensions: availability, quality, and quantity. Second, it argues that agentic inequality differs from earlier technological divides because agents function as autonomous delegates rather than tools, generating new asymmetries through scalable goal delegation and direct agent-to-agent competition. Third, it analyses the technical and socioeconomic drivers likely to shape the distribution of agentic power, from model release strategies to market incentives, and concludes with a research agenda for governance.",
+        "arxiv.org: arXiv:2605.10584v2 Announce Type: replace-cross Abstract: With the detection of gravitational waves (GWs), multi-messenger astronomy has opened a new window for advancing our understanding of astrophysics, dense matter, gravitation, and cosmology. The GW sources detected to date are from mergers of compact object binaries, which possess the potential to generate detectable electromagnetic (EM) counterparts. Searching for associations between GW signals and their EM counterparts is an essential step toward enabling subsequent multi-messenger studies. In the era of next-generation GW and EM detectors, the rapid increase in the number of events brings not only unprecedented scientific opportunities, but also substantial challenges to the existing data analysis paradigm. To help address these challenges, we develop GW-Eyes, an agentic framework powered by large language models (LLMs). For the first time, GW-Eyes integrates domain-specific tools and autonomously performs counterpart association tasks between GW and candidate EM events. It supports natural language interaction to assist human experts with auxiliary tasks such as catalog management, skymap visualization, and rapid verification. Our framework leverages the complex decision-making capabilities of LLMs and their traceable reasoning processes, offering a new perspective to the multi-messenger astronomy.",
+        "arxiv.org: arXiv:2605.30434v3 Announce Type: replace-cross Abstract: Real-world data analysis is inherently iterative, yet existing benchmarks mostly evaluate isolated or short interactive tasks, leaving agents' ability to track evolving analytical context over long horizons untested. We introduce LongDS, a benchmark for long-horizon, multi-turn data analysis where agents must maintain, update, restore, and compose evolving analytical states. LongDS comprises 68 tasks constructed from real-world Kaggle notebooks, spanning 2,225 turns across six domains including Geoscience, Business, and Education. Tasks are designed around state-evolution patterns (e.g., counterfactual perturbation, rollback, multi-state composition), with an average dependency span of 11.3 turns. Evaluating five state-of-the-art models, we find that the best model reaches only 48.45% average accuracy, performance drops nearly 47 points from early to late turns, and long-horizon errors account for 52%--69% of failures. Further analysis shows that additional agent steps do not necessarily improve performance, suggesting that the key bottleneck is maintaining a correct analytical state rather than increasing interaction budget. We release LongDS to support research on reliable long-horizon agentic data analysis. Code and data are released at https://github.com/zjunlp/DataMind."
+      ],
+      "l": [
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNWNDQnI5WHppNGRiN1JjT1EtUjczSURNTjFsa1pZa25kWE12U1A3RlpCZ3kwUHpYZm1hSWwyMFR3cGw1aEdmTHZHaVlXVVNmLS0zc2NtbzdfbFpER1BhN2JEMlM5Q3R3dVRuZklDaHN2T2ZXbC1OTTZiaHFFcFg4UzBGaDk5QXdPQThBcEFlbWszRXA0Zk1yVkhYSVR1VzhiU2p6LXdpUjZEVVZkLUZsYV9uMVAtX2I1aXQtdmZhRWUzUWRp?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2510.16853"
+        }
+      ],
+      "srcTitles": [
+        "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
+        "Agentic Inequality",
+        "An agentic framework for gravitational-wave counterpart association in the multi-messenger era",
+        "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-09-09T13:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Instacart launches an AI grocery shopping assistant called Clementine",
+      "s": "Instacart is the latest app to bake a conversational AI assistant into its platform.",
+      "b": [
+        "techcrunch.com: Instacart launches an AI grocery shopping assistant called Clementine",
+        "pymnts.com: Instacart Launches AI Agent Clementine to Turn Chats Into Grocery Carts"
+      ],
+      "body": [
+        "techcrunch.com: Instacart is the latest app to bake a conversational AI assistant into its platform.",
+        "pymnts.com: Instacart Launches AI Agent Clementine to Turn Chats Into Grocery Carts PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine/"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRVhsNUpxWE9kaENqYmhuOWJ6R1NxLTlydHZmRExTYWJ6UFJQaURHclNkcHBpQmpyaVFTVzFBUVN2X2lHZTVUdW9KdUFDR1A1MUZkSnlYQmNMbDNoS2lLSS16TXZDSk1zUFllMDhicF91U0pmbC1VNmdmMXgwZ1FWNlVSUUJsUV9DREc4WENuSjF0VEpFZGJnc0dzVjhmYVRNSkY5T3dNbzdQcHVOVFJubTluVkpJTWFJR1QyWmJJWHMxN2hOYWloLQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Instacart launches an AI grocery shopping assistant called Clementine",
+        "Instacart Launches AI Agent Clementine to Turn Chats Into Grocery Carts"
       ]
     },
     {
       "cat": "models",
-      "signal": 24,
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-09-09T12:05:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Students who use AI generally score worse at school",
+      "s": "Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds thoug",
+      "b": [
+        "theverge.com: Students who use AI generally score worse at school",
+        "dallasnews.com: Should schools be teaching students how to use AI?"
+      ],
+      "body": [
+        "theverge.com: Students who use AI to help them study tend to perform worse at school than those who don't, according to data from a global OECD educational report. The situation is more complex than it sounds though, with certain types of AI use giving learners a slight boost, especially among students taught to critically assess how [ ]",
+        "dallasnews.com: Should schools be teaching students how to use AI? Dallas News"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa"
+        },
+        {
+          "d": "dallasnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSVZ3RkNMaTdaOFRYNVV6ZVlEd1NQN2NOT20xTTMtQ0pBNzgzSHVSejR2X21oZzF3Q1BsbUozcE5UVDhidjAtaW8tbGVtU0I4MUNMLVl4dkNRVlI5Z3lwOXhDUXlCWGNyX0FYQTRUbmg5Q3B4SXBTY2dFZHB4SGlucmJqSG92RFR5bUFwd3FrTndIT09PcGtyWmZRM3pZTWkyQmJYNzZZNFlkZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Students who use AI generally score worse at school",
+        "Should schools be teaching students how to use AI?"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-09T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Get ready for the game with new football features in Search",
+      "s": "Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season.",
+      "b": [
+        "blog.google: Get ready for the game with new football features in Search"
+      ],
+      "body": [
+        "blog.google: Track live game feeds, explore detailed stats, and get custom fantasy recommendations directly in Search this season."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/search/football-features-google-search/"
+        }
+      ],
+      "srcTitles": [
+        "Get ready for the game with new football features in Search"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-09T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Recreating a 70-year love story frame by frame",
+      "s": "Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\"",
+      "b": [
+        "blog.google: Recreating a 70-year love story frame by frame"
+      ],
+      "body": [
+        "blog.google: Discover how filmmakers and Google DeepMind used AI to recreate a couple's unrecorded past in the short film \"Love, Rendered.\""
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/love-rendered-film/"
+        }
+      ],
+      "srcTitles": [
+        "Recreating a 70-year love story frame by frame"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
       "sources": 2,
       "ts": "2026-09-09T09:44:51.000Z",
       "writtenSources": 2,
@@ -166,17 +442,17 @@
       ],
       "l": [
         {
-          "d": "wral.com",
-          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPU19zSEFsc3g2bXU0MUdsTDZTQWJnbTBHbU52UG1ZdS1waldiX0hCaFRPUXdtNENNTXc5RjlUM19MNmtobkxpa2kxTXpMbFVHM2F3eGw3V1FPMDROVkl6S0d2QWdwTXc5eGdldmJXUWJLcjBzSHpqN3NmZVZkd2RwOWRqcjZ4MndnaFQ2UGVULUtEOXA1enc1SUY0VGZaOHFMR1ZnbXY1YUg3Ql8xcG0wNGlMNEJKQVAyQU5EcWtYeHpPUE0?oc=5"
+          "d": "greenwichtime.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjdtYUY4N2VDT0IyWHMtSjd6SWZpRE50bVhCNlpKT24wcEVIZlBpZXpjQjNYNXJkVkVpeDdHNS1COGxDUUVXOGE2WVNKcEk3SkJZa2Y2Z2ZNWEZ6b3FONVIzR3dWNFIwVjRRU3NwNlBaQmRSQmRhRGRlenlMeWdjS1NWTmlFT0JDUlJIYVdDNWpOaG5VRTlxSXJDd2NRZFlpQTZsd3dDb1Rkdw?oc=5"
         },
         {
-          "d": "news4jax.com",
-          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdmkyS3dwUVlLc0ZtT0MxanVhNTdKX3dMU2FDdkFKRjlkcWFOYlFINGFCQnJEVVdpd0RSMlJPSFdNdXRiZl9VbHJ5UjFyWFRnYlh5ZzM3cDhGeHRfVjN1RFZwR0V5LUZxQUFoalNUbHNpWDVwRUdOSzNVZG0wNjlCTUExRF91dVVpRUVqUmNBNVc3LVRFR1loVWE1R21BTmlOUUpoeXB0ZGlGR01SN3RaR0lkNXdlb3kxeHowbUNJNzVaMDAxSDdHcFFsTTR0Mm1P?oc=5"
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOWRRblpCdmZ4XzExM292YnYyb2V0cU90UXU5Yk4tZllkUjBGRkx2R2cyUU93SUtaRzlRWUltcjBoQk9DWTZkSmZ3djdNRHlTVmdjVUNXaHF4S0NmZWY2QU0tMy1VUWxhbTczSlhvUWExUWtOUy03bndGeEdhUHRaUWV2ejNhSVp2T2QxaXRPZVA1WVV3VGduQUxESVF4dG1zQzJKbdIBqgFBVV95cUxPM3N6WHdMOEM1UWlwejJhcDNpci1lc2hJZ3JwWEVkUHFMaXFKaGlFMEpzanZ2a25PT1F4c2tkbEtUWEJNVVFKbnFJTG1hcHRoVEp4eDBTVzR6aW81ZFFGUmgwT2h1VF96WHA2WmhmWkN4RmxnbHVvUFNtbDFINjRjclN0N1l0OVNJUVBuUHhjc0FET2NzUzBRQlhMdkJlUFpHVDBzWVh6QlpwQQ?oc=5"
         }
       ],
       "srcTitles": [
         "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
-        "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks"
+        "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks - ABC News"
       ]
     }
   ]
