@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 56,
-      "sources": 2,
+      "signal": 64,
+      "sources": 6,
       "ts": "2026-09-08T23:46:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -21,21 +21,73 @@
       "l": [
         {
           "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260908/p47#a260908p47"
+          "u": "https://www.techmeme.com/260909/p1#a260909p1"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FWC1lZ2xrRGtNX2VqX3RQOFlKXzNOcW1mdUVNRmV6VE05dm92SlNaUmVNYmFlcnBuVDJvbUI0R2xfaW1fOHg5eVp5ZGszMU9qcjQtWWJVR3B0SDFLYzNWTS1mWnl2WlJRRUZYZE1LbW1FXzg0ZTNmTEcxTjllQdIBgwFBVV95cUxPZFdIdE5uZnlyMlhCdUpWRHo4UWtyRWVfazZCdDlNVTA0YjdtbjNpRTZSVWZLbnFiMnNRN2pqeTV0NVFMVGVBVlVVdzFXX1V4LTNmWU1FOW9xOGNCVHAweXk0bnBwemNhMm9HUTJqaDJYWHRIbUVuTUdIX2tSNU9Mcl9BOA?oc=5"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxNWUZNVU1NV1UyUHJyZEt3eGt4N1NTWHhjbFpsc3U2S2MyNXhodWtkcXptNGhZdWZlSlFRM3A0N2JXRWItUElyTFdnU2NPdUw0TEVZczdxems1SF9keWstUjBPNF90MWpyVFdLdjAzdkE1UURJS3ZUNG9kNDBqQlFsMW1LNEdSOTNyM0Q5TVhHMXA0TVpiZ3BydDViajVackVPS2dILWFHV1hiU1ptQ2pyRDVXSGZqSkR3RWk4bnpFQmV3RjRoN0lOVDJOcS1xY0ZVWU9GQnFXUGMyTmtER09adzdEelFtWVd2clNNYUF1QlpzbVFYTDJ0WUtFNW9pM2ZDN3ZpOHN4QjdrUHBiSnhoeWxDWVZCRU10UmpDdFRRV0JUTHJtR1A3TldFUjFldi1ZRTBJOXZVSlduV1pmWnlRdnE2NVFEX3B1Vi1OSDJqaTdhX3FDMmlHU2pn?oc=5"
         },
         {
           "d": "wsj.com",
           "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNNkJNMUhyUzQ3M1FsRFZMcUhKMGFFeFpsdnJaVzM4T2duWVVFYTk4ZUpXN0dRemFMUjZ3bC1CZ29ETjF4dWlScEQ5UVZDYVhLOUt0YVVmV1JfdjVoZWVpcXVyTFhDdjNTN0NIc2h6bXdRbkZDek5RX3poR0JkRE5XdG55ZFFJRGNqRWllSzllQk56LWJHYURn?oc=5"
+        },
+        {
+          "d": "+2"
         }
       ],
       "srcTitles": [
-        "Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won't be able to control (Amrith Ramkumar/Wall Street Journal)",
-        "Exclusive | Anthropic Researcher Quits Over ‘Out-of-Control’ AI Fears"
+        "Anthropic's Alignment Science lead says there is a \">10%\" chance AI could kill all humans within the next decade and worries about recursive self-improvement (Evan Hubinger/@evanhub)",
+        "Anthropic researcher says AI has more than 10% chance of 'killing all humans' after colleague quits",
+        "More than 10% chance AI 'could kill all humans' in the next 10 years, Anthropic safety researcher says",
+        "Anthropic researcher Jacob Coxon says he is quitting the AI industry over fears that tech companies are racing to build systems they won't be able to control (Amrith Ramkumar/Wall Street Journal)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 55,
+      "sources": 3,
+      "ts": "2026-09-09T07:01:19.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Google to Invest $15 Billion in Data Centers and Infrastructure in Finland",
+      "s": "Google to Invest $15 Billion in Data Centers and Infrastructure in Finland WSJ",
+      "b": [
+        "wsj.com: Google to Invest $15 Billion in Data Centers and Infrastructure in Finland",
+        "upi.com: Google to invest $15.1B in AI infrastructure in Finland",
+        "finance.yahoo.com: Google to invest $15 billion AI infrastructure in Finland"
+      ],
+      "body": [
+        "wsj.com: Google to Invest $15 Billion in Data Centers and Infrastructure in Finland WSJ",
+        "upi.com: Google to invest $15.1B in AI infrastructure in Finland upi.com",
+        "finance.yahoo.com: Google to invest $15 billion AI infrastructure in Finland Yahoo Finance"
+      ],
+      "l": [
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNejhvOEd3al93UzVIYmt2VFRlWUdKZU1WaTlwV2ktMnZMeGt6VV9wMTRVR09qU2MtZnBoeU92Ymh2d0NQU29WaUU3VEtmYjE3MGRiOVZTSnYxNXo2RWtSbU00allwa2RtdTc4VlJWZXZRMmNyWXh1OTZJdE9QQnVhM0toOGw0MTBfSUFvRWVvZW5OeDR2Z2lCNUY4S0ZzbEJ1eGI2blphVF9LMWc?oc=5"
+        },
+        {
+          "d": "upi.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZEdyYlhMczNadTAwUWxDLXcyNWtfOWIzb25kLUUwSGZsSU90TXhpOHdCSFVoc1RJM0Y4Rjk1cF82UC1uaUhBNDlaakJ5VThNeTYxLUNMdVlyaUtsc3lhblZ1QTRrTWxWR193dXBMc1RMamlvU2pSa0NyMFNwdFBob1hjTko1ZzJNeFpSVl9iSlhPbTBhaTZiY2ZmekcwX3JTc1VvaHdhMmNsczZkTXpHSjRqUmNnZ9IBuwFBVV95cUxQWXRUQjVqLXNxV2VDMXFKWXFWMWFBS1IyXzBwX3hrbXlxT1RTNlNVRXhFWDNRU3VtWHBUSk8zU2FEY0pqYkVVVHR6VVR2MVp2Q08yMi03YnRpSXc3NXo2Y2xZeG1YQlFDWFJ4UkJ5OXN3eE1CemNlYl9KTTlaSnE2Y0VrQlVjUDM3ZndDbU1EUjNUckVxekJCUXB3Yl9iZG5DMXZTdWtvRUdpMC1mRTZuSUFUa2ExT1NSYkJB?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUWlsQWd3YVpfR2RHNGVpT2ZoV18yTXJSUVdjOXVIZ1BTSHk5OFJiWlh3Q1F0cVpFbmdrbjlHNjR2c0FLbUpsRTNISEtMZk5oRnFtVUtENkk1Z3lFMlREeEgzck4zY0lIZDRPeFZJeGtfTW53M0JoSFh3UXpROGlXVmp1OVB3M2JjUS1aRjVyVFI4cWEwMHc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Google to Invest $15 Billion in Data Centers and Infrastructure in Finland",
+        "Google to invest $15.1B in AI infrastructure in Finland",
+        "Google to invest $15 billion AI infrastructure in Finland"
       ]
     },
     {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-09-09T03:10:08.000Z",
       "writtenSources": 1,
