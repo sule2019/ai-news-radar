@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 77,
-      "sources": 9,
+      "signal": 78,
+      "sources": 10,
       "ts": "2026-09-08T23:46:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -36,7 +36,7 @@
           "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaFVVVnFBTEJpd1lqekJwOVhzRDZUT25DVHNHSnE5dnZiZ3ZPZC1ya3lBSGtRV1Q3WTM4SWE0aGpaMlVZNWhKMTYyRGZ6NGFTcUVra3U4emZVS0NWZmI2d3NsWDkzU050Vnl1T28yNmZIc0FHSUh4NDJNX203VjVjTlpyaTBlbUkwUWZuZTFUV29pbXBzSEoyWTZZUmpCMWc?oc=5"
         },
         {
-          "d": "+5"
+          "d": "+6"
         }
       ],
       "srcTitles": [
@@ -47,53 +47,47 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 73,
-      "sources": 35,
-      "ts": "2026-09-09T08:05:00.000Z",
-      "writtenSources": 2,
+      "cat": "products",
+      "signal": 70,
+      "sources": 3,
+      "ts": "2026-09-09T17:40:05.000Z",
+      "writtenSources": 3,
       "draft": true,
-      "h": "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming.",
-      "s": "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. Yahoo Finance",
+      "h": "Apple has a new way prove your iPhone photos aren’t AI slop",
+      "s": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
       "b": [
-        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming.",
-        "fool.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming."
+        "techcrunch.com: Apple has a new way prove your iPhone photos aren’t AI slop",
+        "theverge.com: Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+        "techmeme.com: Apple adds a Reference Image feature to the iPhone 18 Pro, which digitally authenticates that photos taken with its camera haven't later been altered by AI (Benjamin Mayo/9to5Mac)"
       ],
       "body": [
-        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. Yahoo Finance",
-        "fool.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. The Motley Fool"
+        "techcrunch.com: Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+        "theverge.com: Apple is launching a new way to prove that the picture you took isn't manipulated by AI. A new feature, called \"Reference Image,\" will arrive with the iPhone 18 Pro lineup later this month and is supposed to use the device's new camera sensor to \"sign every pixel it sees.\" The iPhone 18 Pro and [ ]",
+        "techmeme.com: Benjamin Mayo / 9to5Mac : Apple adds a Reference Image feature to the iPhone 18 Pro, which digitally authenticates that photos taken with its camera haven't later been altered by AI Apple is introducing a new Reference Image feature as part of the new iPhone 18 Pro, which digitally authenticates that the image"
       ],
       "l": [
         {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHQWNlSHQzMUlJUTg1elY2MnlhM0JMRDkyUlMtYUdwNDFYYmF2cktZZzg2X3pDMVluRVhBS01LY0VnRVI0bnk2eElyWkczd0dLdktiOFMybWl5STktVHc?oc=5"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/"
         },
         {
-          "d": "techxplore.com",
-          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORExsZHBTNzlmbkdyS08xbEkxTlZQSVp3MjFxaTh3ZHFFcUt1LUg0M2NSWC1fNGF3SWo3Yk1faGhkMndsc1hXYXdVTzJFR2hPMGNYVXR6a1RubldsMEVyR2MtdGlkdlJIOVJ5SzJPb0JWbnJaazZBMGJ1M3dJS21aV3BQbGFoWFJBaEFPcjNxcGNMZTZZNnlXbWNpTQ?oc=5"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image"
         },
         {
-          "d": "pvamu.edu",
-          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSFJUbjdXbUNpVUlfckJhb0wtTlZQY3dOdzdZYnp0SXZtYkdsQWN1aEpSQkFjdjd2THNnV3lUaUp5MnN5czBnRXpNMVZuMS1ZVDF5cWplazdpdDVvZTQ2TXV0aXRGcHZXZUUxZ3otMW1MSS0zM3ZIbm8ybTI2d29tanY2SU9nWVNndkswZzlVRUZjWjlqM0NsamdvdnptY3ltQ2QydGZJaWNtemJUakFsazdhQlJOZw?oc=5"
-        },
-        {
-          "d": "jdsupra.com",
-          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMlRBZUVQckNtNnpoRXZYWTk0LTd5VWVhb0NrRnRSeDBRUHd5R0JTUUJlQ3lVd0wwMmh3OFJJUkloR21TbDNBRVZiYlVjSEQ0QXNYVTFTcWVKdnBpWWhZa0ZMNHdPRGxYWU5HYTI4YWNrWG9POU1HVVJ4cEtHRnV3QTUzSno?oc=5"
-        },
-        {
-          "d": "+31"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260909/p30#a260909p30"
         }
       ],
       "srcTitles": [
-        "Artificial Intelligence - ABC News",
-        "Americans use artificial intelligence, but still prefer that humans make consequential decisions",
-        "PVAMU awarded nearly $10 million to advance artificial intelligence for national defense",
-        "[Webinar] Artificial Intelligence and Labor/Employee Relations: What Employers Need to Know"
+        "Apple has a new way prove your iPhone photos aren’t AI slop",
+        "Apple’s new iPhone camera mode promises to prove your photo isn’t AI",
+        "Apple adds a Reference Image feature to the iPhone 18 Pro, which digitally authenticates that photos taken with its camera haven't later been altered by AI (Benjamin Mayo/9to5Mac)"
       ]
     },
     {
       "cat": "research",
-      "signal": 59,
+      "signal": 55,
       "sources": 2,
       "ts": "2026-09-09T16:30:33.000Z",
       "writtenSources": 2,
@@ -125,7 +119,7 @@
     },
     {
       "cat": "models",
-      "signal": 57,
+      "signal": 54,
       "sources": 2,
       "ts": "2026-09-09T15:30:45.000Z",
       "writtenSources": 2,
@@ -142,22 +136,22 @@
       ],
       "l": [
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/policy/992359/microsoft-aft-schools-ai-privacy"
+          "d": "abc3340.com",
+          "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS2RONnk4Z3BaUk9iSzFPOEsxN3htLUI3NTJzdDlxTWZDQW1kdUdxVXFDR0p5RkRxT19jSDcxSkpKNUxLNlp4b3l1alpQOG56UTgtSHhYaE1RaFVYLS0zNDJURDJBU3c0alloWFhIWFMyS21VYjFwSEJCcVZPSll1VzdsSm5OQlhDTEhSMmJNRDJOemRkX0JLWGp3LUZTT2J5OHVUWTJUYS1tQ014bVgtSFJHUjhneUhnVVRBVW1tcHJHRUtPNUVjMkF4NDVfWFpIX3A4ZjRyQVZQNnVf?oc=5"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260909/p21#a260909p21"
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNamtHVVdxTjU3T2hDNUx1TUFZa056NnBxdllvMG1aM3dDLTRlN3lrd1g0YWNidHhXWnJvU01WT0ZEblJOYk9vM0M4cXZMNmtqTUhxMjAyVXB5LUhscnF0RF9vbkVpeUZ6bTA1VGszWk5RSW5YdWlVTl9iLXlJT2xmc3Fpaw?oc=5"
         }
       ],
       "srcTitles": [
-        "Microsoft has new AI privacy rules for schools",
-        "The American Federation of Teachers and Microsoft agree on AI privacy standards for schools, with legal protections that hold Microsoft liable for breaches (Madina Touré/Politico)"
+        "AI privacy agreement reached between teachers union and Microsoft",
+        "Teachers union reaches AI privacy deal with Microsoft"
       ]
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 49,
       "sources": 1,
       "ts": "2026-09-09T17:00:00.000Z",
       "writtenSources": 1,
@@ -206,8 +200,91 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 41,
+      "sources": 5,
+      "ts": "2026-09-09T09:44:51.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
+      "s": "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks WRAL",
+      "b": [
+        "wral.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
+        "news4jax.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks"
+      ],
+      "body": [
+        "wral.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks WRAL",
+        "news4jax.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks News4JAX"
+      ],
+      "l": [
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/tech-policy/2026/09/six-chinese-ai-firms-accused-of-aggressively-copying-us-frontier-models/"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUFVxbU42ZUIyUVJ3Zlc4QWJsV1h6bDIzSjBTcHRJX2ZqSXF6SHhacGZsUnR4Z1p5UE1zcWZEY09zN0Y1RFpnVlByU281QWNTeS1KTDhIMUlMU2tCVFZKUU1fUjBsck0yWGpNUTA3dXY0LTV6bG90X2VGanJkbmstOGEzMkhYVC1vOTM2Vzh4OWJieEFkWUVQNUVZVks0OW96OGhWTjBhZldSUlNxcGh4LQ?oc=5"
+        },
+        {
+          "d": "cnn.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMHYzUXVXM3VfMmRMWWo1X2Mwdmg3MWhBcGRqYnRXbHlvcXZzV3lXLUJPTXNQbUFTWkdacW03S0tQb3hkUldfMXRNSlI2OU1GV1Q5b29adkVIUGtyWnpXMjZBb1RUVDBwNE9NQ0stWlBlMWozV3Jqd1NkOWRsZGVOVzByMjhrUDhTZUE?oc=5"
+        },
+        {
+          "d": "aljazeera.com",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeXdzNmNWRGQ2ZUFLcTRnZGNMbHFJVV9fU1NHUGxTVEE4cUgxT0RXVlE0WFJiM3ZYdm1qam5xUlAteUlHUzV6c3A1OU9CQVk5czJoOGFkbEVrRE0zVVZmRXdOUUZGYVBpSkc1azZ4dUtDLXZfbFFpMm5GR05jREhJaGpZR2psVi1ZZHp5RlQ4RkNsbGFr0gGaAUFVX3lxTE85bkI4eGtESWxuRGtzSzBidDJRTjhXcU1scnA3SzVLNHRKYWN0dWtLbjIxc1NOT3lfZWNjdDFVYTlDbzF6VFpSLS03MlExS1BTSmw3MkFzSDhmZnVZYjNQVXdSa1NxUWFTWmN6YUtYZXoyRGFyZkp1cEIyak4wZE9zb2ZZdE8yUEtsSEd4S2ZCTEhPd3Q5S0hWUlE?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "Six Chinese AI firms accused of aggressively copying US frontier models",
+        "US accuses Chinese AI firms of 'malicious' copying of AI technology",
+        "US claims Chinese AI firms are carrying out ‘industrial-scale’ theft of trade secrets",
+        "China slams US claims of ‘industrial-scale’ AI theft"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 40,
+      "sources": 3,
+      "ts": "2026-09-09T08:05:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming.",
+      "s": "Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming.",
+        "fool.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming."
+      ],
+      "body": [
+        "finance.yahoo.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. Yahoo Finance",
+        "fool.com: Broadcom's Artificial Intelligence (AI) Chip Revenue Just Rose 221%. There's More Growth Coming. The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbUtTX29jWUNzc005Qm1GZmJhaEU5aFpISFRLRlRwdXdxTmZsZVcxa3dPOFhSVDNidEJKYlJ1OGw0b2l0Vi1hdDZRSUpyZkxKMzRUR1FCRWg3RmNqdVhWalFHQ2lCM19nOU5UbFZ6RTlZcDM0MVBROGdYMFpYOFN3NEZ3TjBCSWlZeldPOWFtOEpzbHNtWml6SWRLeWdvNFZrWWE0?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdmQ1WFhka2JNcHlBNjQySmd3ZnphMFJubVZuVC1FMkp6bnM0VVloclZVQ2VSMUVRYjNBNUZjSEhKeWZ4WmNmSWFMX3pha3RRVFRJcUsydlFNMXhwNWJHeVNjVEctT05TbVBkZl90ejR0X3NIUlFCVURvR2Y0OXhyM0RNMUNzemlHRGRtcG1ZYmx0N0FFOW9hVQ?oc=5"
+        },
+        {
+          "d": "marketbeat.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORFFNclQ0akw5VzZyLWhLNHdpNXRKbU1SazZUNmVDUFRGV2o3cktLdlZRalUyZmNvTUY1QXlFRS1FQ2RkdHhrNGNidWJUVEdvdGhTREVPS0U5Y252SjJaMmJGTXhtYWlWM29tVUQtQm5TS09NVlR5Zjl6VGVuT2F0Qk5xSW9XMmtMaV9YNVdUV2lJSExZaGh0NXJBSnhPVlplaVpLR2cwb2x0eDV5THFMWm9VNnVXX29xU1Q0Nm5B?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Is SpaceX a Top Artificial Intelligence (AI) Stock Pick in September?",
+        "Is SpaceX a Top Artificial Intelligence (AI) Stock Pick in September?",
+        "If You Own Artificial Intelligence (AI) Stocks, Get Ready for a Big Change",
+        "Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be the Top Performers to End 2026"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-09-09T07:01:19.000Z",
       "writtenSources": 3,
@@ -238,43 +315,6 @@
         "Google to Invest $15 Billion in AI Infrastructure in Finland",
         "Google to Invest $15 Billion in Data Centers and Infrastructure in Finland",
         "Google to invest $15 billion AI infrastructure in Finland"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 36,
-      "sources": 2,
-      "ts": "2026-09-09T04:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
-      "s": "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping PYMNTS.com",
-      "b": [
-        "pymnts.com: Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
-        "arxiv.org: Agentic Inequality",
-        "arxiv.org: An agentic framework for gravitational-wave counterpart association in the multi-messenger era"
-      ],
-      "body": [
-        "pymnts.com: Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping PYMNTS.com",
-        "arxiv.org: arXiv:2510.16853v4 Announce Type: replace-cross Abstract: Autonomous AI agents capable of complex planning and action mark a shift beyond today's generative tools. As these systems enter political and economic life, who can access them, how capable they are, and how many can be deployed will shape distributions of power and opportunity. We define this emerging challenge as \"agentic inequality\": disparities in power, opportunity, and outcomes arising from unequal access to, and capabilities of, AI agents. We show that agents could either deepen existing divides or, under the right conditions, mitigate them. The paper makes three contributions. First, it develops a framework for analysing agentic inequality across three dimensions: availability, quality, and quantity. Second, it argues that agentic inequality differs from earlier technological divides because agents function as autonomous delegates rather than tools, generating new asymmetries through scalable goal delegation and direct agent-to-agent competition. Third, it analyses the technical and socioeconomic drivers likely to shape the distribution of agentic power, from model release strategies to market incentives, and concludes with a research agenda for governance.",
-        "arxiv.org: arXiv:2605.10584v2 Announce Type: replace-cross Abstract: With the detection of gravitational waves (GWs), multi-messenger astronomy has opened a new window for advancing our understanding of astrophysics, dense matter, gravitation, and cosmology. The GW sources detected to date are from mergers of compact object binaries, which possess the potential to generate detectable electromagnetic (EM) counterparts. Searching for associations between GW signals and their EM counterparts is an essential step toward enabling subsequent multi-messenger studies. In the era of next-generation GW and EM detectors, the rapid increase in the number of events brings not only unprecedented scientific opportunities, but also substantial challenges to the existing data analysis paradigm. To help address these challenges, we develop GW-Eyes, an agentic framework powered by large language models (LLMs). For the first time, GW-Eyes integrates domain-specific tools and autonomously performs counterpart association tasks between GW and candidate EM events. It supports natural language interaction to assist human experts with auxiliary tasks such as catalog management, skymap visualization, and rapid verification. Our framework leverages the complex decision-making capabilities of LLMs and their traceable reasoning processes, offering a new perspective to the multi-messenger astronomy.",
-        "arxiv.org: arXiv:2605.30434v3 Announce Type: replace-cross Abstract: Real-world data analysis is inherently iterative, yet existing benchmarks mostly evaluate isolated or short interactive tasks, leaving agents' ability to track evolving analytical context over long horizons untested. We introduce LongDS, a benchmark for long-horizon, multi-turn data analysis where agents must maintain, update, restore, and compose evolving analytical states. LongDS comprises 68 tasks constructed from real-world Kaggle notebooks, spanning 2,225 turns across six domains including Geoscience, Business, and Education. Tasks are designed around state-evolution patterns (e.g., counterfactual perturbation, rollback, multi-state composition), with an average dependency span of 11.3 turns. Evaluating five state-of-the-art models, we find that the best model reaches only 48.45% average accuracy, performance drops nearly 47 points from early to late turns, and long-horizon errors account for 52%--69% of failures. Further analysis shows that additional agent steps do not necessarily improve performance, suggesting that the key bottleneck is maintaining a correct analytical state rather than increasing interaction budget. We release LongDS to support research on reliable long-horizon agentic data analysis. Code and data are released at https://github.com/zjunlp/DataMind."
-      ],
-      "l": [
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNWNDQnI5WHppNGRiN1JjT1EtUjczSURNTjFsa1pZa25kWE12U1A3RlpCZ3kwUHpYZm1hSWwyMFR3cGw1aEdmTHZHaVlXVVNmLS0zc2NtbzdfbFpER1BhN2JEMlM5Q3R3dVRuZklDaHN2T2ZXbC1OTTZiaHFFcFg4UzBGaDk5QXdPQThBcEFlbWszRXA0Zk1yVkhYSVR1VzhiU2p6LXdpUjZEVVZkLUZsYV9uMVAtX2I1aXQtdmZhRWUzUWRp?oc=5"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2510.16853"
-        }
-      ],
-      "srcTitles": [
-        "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
-        "Agentic Inequality",
-        "An agentic framework for gravitational-wave counterpart association in the multi-messenger era",
-        "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis"
       ]
     },
     {
@@ -345,6 +385,114 @@
       "cat": "funding",
       "signal": 32,
       "sources": 2,
+      "ts": "2026-09-09T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
+      "s": "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping PYMNTS.com",
+      "b": [
+        "pymnts.com: Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
+        "arxiv.org: Agentic Inequality",
+        "arxiv.org: An agentic framework for gravitational-wave counterpart association in the multi-messenger era"
+      ],
+      "body": [
+        "pymnts.com: Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping PYMNTS.com",
+        "arxiv.org: arXiv:2510.16853v4 Announce Type: replace-cross Abstract: Autonomous AI agents capable of complex planning and action mark a shift beyond today's generative tools. As these systems enter political and economic life, who can access them, how capable they are, and how many can be deployed will shape distributions of power and opportunity. We define this emerging challenge as \"agentic inequality\": disparities in power, opportunity, and outcomes arising from unequal access to, and capabilities of, AI agents. We show that agents could either deepen existing divides or, under the right conditions, mitigate them. The paper makes three contributions. First, it develops a framework for analysing agentic inequality across three dimensions: availability, quality, and quantity. Second, it argues that agentic inequality differs from earlier technological divides because agents function as autonomous delegates rather than tools, generating new asymmetries through scalable goal delegation and direct agent-to-agent competition. Third, it analyses the technical and socioeconomic drivers likely to shape the distribution of agentic power, from model release strategies to market incentives, and concludes with a research agenda for governance.",
+        "arxiv.org: arXiv:2605.10584v2 Announce Type: replace-cross Abstract: With the detection of gravitational waves (GWs), multi-messenger astronomy has opened a new window for advancing our understanding of astrophysics, dense matter, gravitation, and cosmology. The GW sources detected to date are from mergers of compact object binaries, which possess the potential to generate detectable electromagnetic (EM) counterparts. Searching for associations between GW signals and their EM counterparts is an essential step toward enabling subsequent multi-messenger studies. In the era of next-generation GW and EM detectors, the rapid increase in the number of events brings not only unprecedented scientific opportunities, but also substantial challenges to the existing data analysis paradigm. To help address these challenges, we develop GW-Eyes, an agentic framework powered by large language models (LLMs). For the first time, GW-Eyes integrates domain-specific tools and autonomously performs counterpart association tasks between GW and candidate EM events. It supports natural language interaction to assist human experts with auxiliary tasks such as catalog management, skymap visualization, and rapid verification. Our framework leverages the complex decision-making capabilities of LLMs and their traceable reasoning processes, offering a new perspective to the multi-messenger astronomy.",
+        "arxiv.org: arXiv:2605.30434v3 Announce Type: replace-cross Abstract: Real-world data analysis is inherently iterative, yet existing benchmarks mostly evaluate isolated or short interactive tasks, leaving agents' ability to track evolving analytical context over long horizons untested. We introduce LongDS, a benchmark for long-horizon, multi-turn data analysis where agents must maintain, update, restore, and compose evolving analytical states. LongDS comprises 68 tasks constructed from real-world Kaggle notebooks, spanning 2,225 turns across six domains including Geoscience, Business, and Education. Tasks are designed around state-evolution patterns (e.g., counterfactual perturbation, rollback, multi-state composition), with an average dependency span of 11.3 turns. Evaluating five state-of-the-art models, we find that the best model reaches only 48.45% average accuracy, performance drops nearly 47 points from early to late turns, and long-horizon errors account for 52%--69% of failures. Further analysis shows that additional agent steps do not necessarily improve performance, suggesting that the key bottleneck is maintaining a correct analytical state rather than increasing interaction budget. We release LongDS to support research on reliable long-horizon agentic data analysis. Code and data are released at https://github.com/zjunlp/DataMind."
+      ],
+      "l": [
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNWNDQnI5WHppNGRiN1JjT1EtUjczSURNTjFsa1pZa25kWE12U1A3RlpCZ3kwUHpYZm1hSWwyMFR3cGw1aEdmTHZHaVlXVVNmLS0zc2NtbzdfbFpER1BhN2JEMlM5Q3R3dVRuZklDaHN2T2ZXbC1OTTZiaHFFcFg4UzBGaDk5QXdPQThBcEFlbWszRXA0Zk1yVkhYSVR1VzhiU2p6LXdpUjZEVVZkLUZsYV9uMVAtX2I1aXQtdmZhRWUzUWRp?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2510.16853"
+        }
+      ],
+      "srcTitles": [
+        "Mastercard Expands Agentic Suite to Help Merchants Scale AI Shopping",
+        "Agentic Inequality",
+        "An agentic framework for gravitational-wave counterpart association in the multi-messenger era",
+        "LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-09-08T22:16:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "UNT to open new college of artificial intelligence with $20 million gift",
+      "s": "UNT to open new college of artificial intelligence with $20 million gift Dallas News",
+      "b": [
+        "dallasnews.com: UNT to open new college of artificial intelligence with $20 million gift",
+        "yahoo.com: UNT to open new college of artificial intelligence with $20 million gift",
+        "wfaa.com: UNT receives $20M gift to launch new college focused on Artificial Intelligence"
+      ],
+      "body": [
+        "dallasnews.com: UNT to open new college of artificial intelligence with $20 million gift Dallas News",
+        "yahoo.com: UNT to open new college of artificial intelligence with $20 million gift Yahoo",
+        "wfaa.com: UNT receives $20M gift to launch new college focused on Artificial Intelligence WFAA"
+      ],
+      "l": [
+        {
+          "d": "dallasnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTQyU0tiQVE2d3N3UHRqcFBQZ0o3R1p2VnRtSW9KeTZ2dVJnbGZwLVBRSktPUzd1YTZVWDFDcUZkQmp0eTY3VnJqdy16Y3dqR0JpS09tWjBWaHNOaHdQa1BJWWZzZ1lVRHRCbS04OU0yM1RtVlZmM1JlMGRxUmZZSmJ2V1ZIbElreGc?oc=5"
+        },
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMGdSeTJ0NEVZcW5mMGluekI0MEdabGdIVGc5VUxQU3hqZ0liOWFCcy1HYW1XcFo0RUlZZ1V4bnBWRTdHX0Z4MUVIU2VoeFhTSXY5dVl4azJuV0FmQ3lCdDduN19Vb0tPVGtTRTdaWGpleW1VZE05WGRldTVRbVdINk5kREExNlV2UlNDQkJQaDJBUVE?oc=5"
+        },
+        {
+          "d": "wfaa.com",
+          "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY0pNaERKOXNTb0VJb21fR1V5V0tNdFdfM1ZLZTZ1U2g4eXFzMEpTODBES2psU1FxcXJtaXJDWjE5WHA4RWZaQXJXWVZIZVA3bVQ1c0NEUi1sS0Z0YkpQVFJjWU8xOHlYUkVxZmVxd3VXMURMcWFOdFZJV0xzR0ZzSS1sR2txVXpZb1VmVjZlTnRlbFVWbW9TRjUyd08wYXNtRFFqbkg4bVV1dUFXSHhNVXh0alB6dkU1cy1TdmxHZnhkMzA5dThZVzk0c1FCV1JTV19PbjlkZmJSWkRoa0pNbDVkam84VkxoUVhmVkRR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "UNT to open new college of artificial intelligence with $20 million gift",
+        "UNT to open new college of artificial intelligence with $20 million gift",
+        "UNT receives $20M gift to launch new college focused on Artificial Intelligence"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-09T17:49:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "House Democrats weigh AI select committee",
+      "s": "House Democrats weigh AI select committee Politico",
+      "b": [
+        "politico.com: House Democrats weigh AI select committee",
+        "nextgov.com: Democrats mull creating a select AI committee if they win the House"
+      ],
+      "body": [
+        "politico.com: House Democrats weigh AI select committee Politico",
+        "nextgov.com: Democrats mull creating a select AI committee if they win the House Nextgov/FCW"
+      ],
+      "l": [
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOelg5WlFsZHR0VU83MDlCQm1TcGNYaDVobEdCM1hXV0ktM1JaY0xaSnVoaUU2dVhhYXRkc1llWG5DMUVYNVVMTU4tNUM3VW13djJwb1Q4LVpRWHF0OXR4NmtkQzAwMzVsY0d6R0o2ZUtNYTd6U0lTamgyN2pfcFpuZXVGTkRBOF82N05oVEhLNXlqdUpQUHc?oc=5"
+        },
+        {
+          "d": "nextgov.com",
+          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUW5kTFd0aWlWb2F2OGhpekx1UlNjRzQwOUNNallKZmJQMzFHd3lLVE1qeWpmRU5jVTVsZFZGd2ZXYUI2Y0g0emtUa09fQzJFWk5xYk02a1lJQlBZVE9ydmZyZzNkazFDY1c3OVZwU0RxelpfbWE0UDZEX0pYOUItQUlyWjRtejNhT1FtazlXY2lIOWpBeThJM1paTy1YSmJFYW45VzgycEhpUDhUV0R3TF9ZWkFUdEZMdXBlNXBucEtydFpIbHVicjlUNGhMTlZYOFgxS3VuN2FDUlpoSlFOTXl3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "House Democrats weigh AI select committee",
+        "Democrats mull creating a select AI committee if they win the House"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 28,
+      "sources": 2,
       "ts": "2026-09-09T13:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -375,44 +523,39 @@
     },
     {
       "cat": "models",
-      "signal": 30,
-      "sources": 3,
-      "ts": "2026-09-09T09:44:51.000Z",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-09T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
-      "s": "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks WRAL",
+      "h": "State of Artificial Intelligence: Data Center Decommissioning",
+      "s": "State of Artificial Intelligence: Data Center Decommissioning weny.com",
       "b": [
-        "wral.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
-        "news4jax.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks"
+        "weny.com: State of Artificial Intelligence: Data Center Decommissioning",
+        "arxiv.org: AI for AI: Optimizing Additional Infrastructure Build-out to Power Artificial Intelligence Data Centers"
       ],
       "body": [
-        "wral.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks WRAL",
-        "news4jax.com: China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks News4JAX"
+        "weny.com: State of Artificial Intelligence: Data Center Decommissioning weny.com",
+        "arxiv.org: arXiv:2609.08166v1 Announce Type: cross Abstract: The twenty-first century's transformative technology, artificial intelligence, is increasingly constrained by the twentieth century's transformative technology, the electricity grid. Rapid growth in electricity demand from data centers is leading to higher electricity prices, without a compensating supply-side response. We develop a framework linking data-center load growth, available generation capacity, and market-clearing prices to understand this phenomenon. We first analyze a deterministic model to show how differing estimates of demand and supply growth rates affect prices. We then model the expansion of new data centers and their associated electricity demand, together with build-outs of new electricity supply, as stochastic processes,resulting in probabilistic distributions of supply, demand, and prices rather than a single forecast. Finally, we formulate generation expansion as a stochastic control problem in which a revenue-maximizing investor dynamically chooses the intensity of supply-side investments. The analysis highlights a central challenge of the data-center build-out: even when rapid demand growth increases the need for new generation, the uncertainties related to load forecasts, development execution risks, and value cannibalization from overbuilding capacity may weaken incentives to invest at the pace required to keep electricity prices stable."
       ],
       "l": [
         {
-          "d": "yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXhiRDJMR3BMWkJaaWRWbGZyMU43UzBUR3hpQ2tFYVRJQm5PMU0ybnpkZVRJX3pPNWZrSGRycDF4WFRVUi1Pc0NfTFM2NVFoNWk4NDJndEJrZGU4SjNFWUF5eFR6cEZOWGcxaGxVNVlZYVVUOXJ5ODhUV1E0SUw1OXdBZ3N4WjNQRkV4cWpn?oc=5"
+          "d": "weny.com",
+          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQei1TYk5pbFdrXzVoS0JqR3BVdDdOc2FjZktfUnhtT2ZkT2YwMDJ1S1JrcC12ZWNSREpCc3BCaWZGSHlieTFqNG5pZGdwS3dhV0lEZGQ3VGtLbXVjelpqX0x3amxmWXVmUlJYVC1sVDFBVzQxeHBSMzNXbWpOaloyRi1uZHJOOWZ4MEZLV3V1WXJDWnh4N2w5c0xDYzJzZjR4b05WSXFONUI2Y3JUWjlqeWdNVUpueXMybFNPQl9qQi1EdkdFSXR5V0FnOXlVMmR2SFlVNURMT1FMSzBQS3hrUA?oc=5"
         },
         {
-          "d": "greenwichtime.com",
-          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjdtYUY4N2VDT0IyWHMtSjd6SWZpRE50bVhCNlpKT24wcEVIZlBpZXpjQjNYNXJkVkVpeDdHNS1COGxDUUVXOGE2WVNKcEk3SkJZa2Y2Z2ZNWEZ6b3FONVIzR3dWNFIwVjRRU3NwNlBaQmRSQmRhRGRlenlMeWdjS1NWTmlFT0JDUlJIYVdDNWpOaG5VRTlxSXJDd2NRZFlpQTZsd3dDb1Rkdw?oc=5"
-        },
-        {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOWRRblpCdmZ4XzExM292YnYyb2V0cU90UXU5Yk4tZllkUjBGRkx2R2cyUU93SUtaRzlRWUltcjBoQk9DWTZkSmZ3djdNRHlTVmdjVUNXaHF4S0NmZWY2QU0tMy1VUWxhbTczSlhvUWExUWtOUy03bndGeEdhUHRaUWV2ejNhSVp2T2QxaXRPZVA1WVV3VGduQUxESVF4dG1zQzJKbdIBqgFBVV95cUxPM3N6WHdMOEM1UWlwejJhcDNpci1lc2hJZ3JwWEVkUHFMaXFKaGlFMEpzanZ2a25PT1F4c2tkbEtUWEJNVVFKbnFJTG1hcHRoVEp4eDBTVzR6aW81ZFFGUmgwT2h1VF96WHA2WmhmWkN4RmxnbHVvUFNtbDFINjRjclN0N1l0OVNJUVBuUHhjc0FET2NzUzBRQlhMdkJlUFpHVDBzWVh6QlpwQQ?oc=5"
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.08166"
         }
       ],
       "srcTitles": [
-        "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
-        "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks",
-        "China hits back at US claims of 'malicious' AI distillation ahead of planned Trump-Xi talks - ABC News"
+        "State of Artificial Intelligence: Data Center Decommissioning",
+        "AI for AI: Optimizing Additional Infrastructure Build-out to Power Artificial Intelligence Data Centers"
       ]
     },
     {
       "cat": "products",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-09T16:00:00.000Z",
       "writtenSources": 1,
@@ -437,7 +580,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-09T16:00:00.000Z",
       "writtenSources": 1,
