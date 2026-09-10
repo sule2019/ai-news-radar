@@ -2,8 +2,33 @@
   "date": "2026-09-10",
   "stories": [
     {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-09-10T11:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Powering AI is an architecture problem",
+      "s": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn t the f",
+      "b": [
+        "technologyreview.com: Powering AI is an architecture problem"
+      ],
+      "body": [
+        "technologyreview.com: On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No one could anticipate so much uniform load responding to grid faults the same way, at the same time. The AI power debate is mostly about generation: more turbines, more solar, more transmission. The grid needs more electrons. But the outages in Virginia weren t supply failures; they were architecture failures. And a giant wave of interconnections is arriving on that same architecture, putting grid reliability at risk. It s a problem nobody wants to own. Asking more from the grid The grid was built around predictable loads: steel mills, refineries, and houses at dinnertime. Different load sizes, same process—drawing power smoothly, misbehaving occasionally, and recovering gracefully. But AI data centers don t behave that way. An AI campus can swing 70% of its load in milliseconds during a training run, then trip offline just as fast at the first sign of trouble upstream to protect billions in compute. Each is rational alone. Together, at gigawatt scale, they re a problem the grid has never solved—and the next wave of data center campuses is planned at exactly that scale. Where the old stack breaks The standard data center power stack hasn t changed in decades. Medium-voltage power arrives, transformers step it down, low-voltage uninterruptible power supply (UPS) units condition it, and it reaches the racks. Push that design to AI scale, and it cracks in three places. First, the UPS sits deep inside the building, close to the racks. But its batteries are an undersized spare tire, designed to handle an outage for a few minutes, not to absorb load swings this fast and volatile around the clock. Second, the UPS spends most of its life in bypass. "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
+        }
+      ],
+      "srcTitles": [
+        "Powering AI is an architecture problem"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 22,
+      "signal": 18,
       "sources": 3,
       "ts": "2026-09-09T22:55:11.000Z",
       "writtenSources": 3,
