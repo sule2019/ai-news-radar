@@ -2,8 +2,47 @@
   "date": "2026-09-10",
   "stories": [
     {
+      "cat": "products",
+      "signal": 52,
+      "sources": 3,
+      "ts": "2026-09-10T12:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "NASA, IBM Launch AI Foundation Model for Lunar Science",
+      "s": "NASA, IBM Launch AI Foundation Model for Lunar Science NASA Science (.gov)",
+      "b": [
+        "science.nasa.gov: NASA, IBM Launch AI Foundation Model for Lunar Science",
+        "livescience.com: Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say",
+        "newsroom.ibm.com: IBM and NASA Release Open-Source AI Model to Support Lunar Exploration"
+      ],
+      "body": [
+        "science.nasa.gov: NASA, IBM Launch AI Foundation Model for Lunar Science NASA Science (.gov)",
+        "livescience.com: Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say Live Science",
+        "newsroom.ibm.com: IBM and NASA Release Open-Source AI Model to Support Lunar Exploration IBM Newsroom"
+      ],
+      "l": [
+        {
+          "d": "science.nasa.gov",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFlWQjYwaUlKUDJBcXY5dnVhMFBab2pnUGFpRVVrdU42b2NuaDhzUms2RDRsakc3RS0tSUpUV3prTWNRTUtqWnJrZUl1YXJLTFZGcVpBb0lLMlJKa2U1Yml0clEzT3hHdkVoM0lwMU9BU2ozcTRYeG80dlBRR18ycElfYXNUeFFQZFByb2ZiVkgtWkU?oc=5"
+        },
+        {
+          "d": "newsroom.ibm.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlVnOTlRLU5CdXJ2NG1vZnpXaWJfaktBQ0l4dGlKRF9tVVZST083WGhxTXpUT051X25pNlBYSTlsTG1NOGlsTWIxaE1xS2pJb0gzVmNZeUZ5Ulhzb2FBeHFHSHlvRlh4aE4xWGluVko0Y2xSSl9PeDNpbUJGM1NOQVRSN2ZQd05pdU9sSDBSWWRGZEx5b0JqQ1VKLUt6VzN5b0EzdHBzYTlTUQ?oc=5"
+        },
+        {
+          "d": "livescience.com",
+          "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcXZEb2tEc1RJTk1Odl9iOUhaZDQ1U1lRX3Bvd1hDVVRqZnppdHY5SVRDVDdhX1NRODlfcjdVVTA3QVJfam1JNkpoYmtNbHVucmgtWDZCbEVVZlktbjU4dnFyQW8wdFc0dno1R3Z4OFNkNVRzemxpaURrNHpSNHg3aXh3Zk5NWmI5UldHUXhrQkhHN2pBLXlzeHVqanpsUXM5SkJJR2FySXRjTW1zaDMtSzdpYXBKajYwd3pNcmNMUUI4NnVKZVJveFNFbk4xVTY2VkRMN2ZHeWFKZDFEX2dSSDJtTHZVS2tiQnc4WDU5Umw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "NASA, IBM Launch AI Foundation Model for Lunar Science",
+        "IBM and NASA Release Open-Source AI Model to Support Lunar Exploration",
+        "Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-09-10T09:45:01.000Z",
       "writtenSources": 2,
@@ -34,42 +73,83 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 51,
-      "sources": 2,
-      "ts": "2026-09-10T12:00:00.000Z",
-      "writtenSources": 3,
+      "cat": "research",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-09-10T16:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "NASA, IBM Launch AI Foundation Model for Lunar Science",
-      "s": "NASA, IBM Launch AI Foundation Model for Lunar Science NASA Science (.gov)",
+      "h": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "s": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
       "b": [
-        "science.nasa.gov: NASA, IBM Launch AI Foundation Model for Lunar Science",
-        "livescience.com: Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say",
-        "newsroom.ibm.com: IBM and NASA Release Open-Source AI Model to Support Lunar Exploration"
+        "openai.com: How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
       ],
       "body": [
-        "science.nasa.gov: NASA, IBM Launch AI Foundation Model for Lunar Science NASA Science (.gov)",
-        "livescience.com: Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say Live Science",
-        "newsroom.ibm.com: IBM and NASA Release Open-Source AI Model to Support Lunar Exploration IBM Newsroom"
+        "openai.com: César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
       ],
       "l": [
         {
-          "d": "science.nasa.gov",
-          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFlWQjYwaUlKUDJBcXY5dnVhMFBab2pnUGFpRVVrdU42b2NuaDhzUms2RDRsakc3RS0tSUpUV3prTWNRTUtqWnJrZUl1YXJLTFZGcVpBb0lLMlJKa2U1Yml0clEzT3hHdkVoM0lwMU9BU2ozcTRYeG80dlBRR18ycElfYXNUeFFQZFByb2ZiVkgtWkU?oc=5"
-        },
-        {
-          "d": "livescience.com",
-          "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcXZEb2tEc1RJTk1Odl9iOUhaZDQ1U1lRX3Bvd1hDVVRqZnppdHY5SVRDVDdhX1NRODlfcjdVVTA3QVJfam1JNkpoYmtNbHVucmgtWDZCbEVVZlktbjU4dnFyQW8wdFc0dno1R3Z4OFNkNVRzemxpaURrNHpSNHg3aXh3Zk5NWmI5UldHUXhrQkhHN2pBLXlzeHVqanpsUXM5SkJJR2FySXRjTW1zaDMtSzdpYXBKajYwd3pNcmNMUUI4NnVKZVJveFNFbk4xVTY2VkRMN2ZHeWFKZDFEX2dSSDJtTHZVS2tiQnc4WDU5Umw?oc=5"
+          "d": "openai.com",
+          "u": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
         }
       ],
       "srcTitles": [
-        "NASA, IBM Launch AI Foundation Model for Lunar Science",
-        "Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say"
+        "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
       ]
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-10T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "s": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "b": [
+        "openai.com: Build more natural voice experiences with GPT‑Live‑1 in the API"
+      ],
+      "body": [
+        "openai.com: GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+        }
+      ],
+      "srcTitles": [
+        "Build more natural voice experiences with GPT‑Live‑1 in the API"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-10T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "3 ways to prep for your next big race with Search",
+      "s": "Search can help runners get race-day ready with registration alerts, tailored training plans, and more.",
+      "b": [
+        "blog.google: 3 ways to prep for your next big race with Search"
+      ],
+      "body": [
+        "blog.google: Search can help runners get race-day ready with registration alerts, tailored training plans, and more."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/search/running-race-training-tips/"
+        }
+      ],
+      "srcTitles": [
+        "3 ways to prep for your next big race with Search"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
       "sources": 1,
       "ts": "2026-09-10T15:00:00.000Z",
       "writtenSources": 1,
@@ -94,7 +174,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-10T11:00:00.000Z",
       "writtenSources": 1,
