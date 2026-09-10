@@ -2,6 +2,85 @@
   "date": "2026-09-10",
   "stories": [
     {
+      "cat": "products",
+      "signal": 86,
+      "sources": 47,
+      "ts": "2026-09-10T12:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "NASA, IBM Launch AI Foundation Model for Lunar Science",
+      "s": "NASA, IBM Launch AI Foundation Model for Lunar Science NASA Science (.gov)",
+      "b": [
+        "science.nasa.gov: NASA, IBM Launch AI Foundation Model for Lunar Science",
+        "livescience.com: Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say",
+        "newsroom.ibm.com: IBM and NASA Release Open-Source AI Model to Support Lunar Exploration"
+      ],
+      "body": [
+        "science.nasa.gov: NASA, IBM Launch AI Foundation Model for Lunar Science NASA Science (.gov)",
+        "livescience.com: Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say Live Science",
+        "newsroom.ibm.com: IBM and NASA Release Open-Source AI Model to Support Lunar Exploration IBM Newsroom"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/expanding-ai-access-us-government"
+        },
+        {
+          "d": "edow.org",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DNFpjSnVXaUNnalRqN0Nhb3BOSVpJWG4ycTF0YUU2b1dGamhjMXdjelY5d3Ixbi1KVUpIZW5aWWR1T1hXWXkxYlIxNHRqblQxUGlrS3I3WExLdw?oc=5"
+        },
+        {
+          "d": "wkbn.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1lVaEI2bUdLT2VJb2MwSTZXRXVxaHA1bVNUMldpZlNXRUdDTkI1OXFtUGlxM3dSR2J4WEtZSThlcnQtdUlyQkNaci16Vkw0MkRNU1NMQl9faVU0S1NBdlgxeGlnTFR0UVR4TWczQnJuMjNrSk5FV3F0aXNhTGFQRWNtU2otQ1FJVG9ocm5NRXJYU0pycXJOSlN5RUZGLTRW?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNlJDTVpGUjNQcWRSb3BKVy1aV2xYMUVJMG1kU2wtVy1IVnNLMzBpdmNTeExoNWpsLUtfc18wY2ZxYV9OUGczLWpiZjNuT2RuWXZsYlJ6Ukw4b09zSDZNb1hVNXl5OWVPVnlUd3gxNTFuOUphNlVBb3B3ME8zTXJMUG81UU4zLU5FampOT1RMMjBSZ080amxQTGZFSDByY0ZNMGZXU01ZbFFZTG1KSkZudG4yd2VGZw?oc=5"
+        },
+        {
+          "d": "+43"
+        }
+      ],
+      "srcTitles": [
+        "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
+        "AI and the Church",
+        "Leader in AI to speak at Stambaugh Auditorium",
+        "In-house counsel group accuses rival of training AI on its materials"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-10T19:10:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI puts Pro subscriptions on hold due to Astra demand",
+      "s": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+      "b": [
+        "techcrunch.com: OpenAI puts Pro subscriptions on hold due to Astra demand",
+        "techmeme.com: OpenAI says it will pause new $200/month ChatGPT Pro subscriptions amid \"unprecedented\" Astra demand; existing accounts, other plans, and API are unaffected (Tibo/@thsottiaux)"
+      ],
+      "body": [
+        "techcrunch.com: The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
+        "techmeme.com: Tibo / @thsottiaux : OpenAI says it will pause new $200/month ChatGPT Pro subscriptions amid unprecedented Astra demand; existing accounts, other plans, and API are unaffected To make sure our current users have an incredible experience and continued access to Astra, we are going to pause subscriptions to our $200 Pro plan. These put the most strain on our systems and we wanted to take the smallest step that allows us to continue giving the broadest access possible. All ..."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260910/p32#a260910p32"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI puts Pro subscriptions on hold due to Astra demand",
+        "OpenAI says it will pause new $200/month ChatGPT Pro subscriptions amid \"unprecedented\" Astra demand; existing accounts, other plans, and API are unaffected (Tibo/@thsottiaux)"
+      ]
+    },
+    {
       "cat": "research",
       "signal": 60,
       "sources": 2,
@@ -34,79 +113,8 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 52,
-      "sources": 3,
-      "ts": "2026-09-10T12:00:00.000Z",
-      "writtenSources": 3,
-      "draft": true,
-      "h": "NASA, IBM Launch AI Foundation Model for Lunar Science",
-      "s": "NASA, IBM Launch AI Foundation Model for Lunar Science NASA Science (.gov)",
-      "b": [
-        "science.nasa.gov: NASA, IBM Launch AI Foundation Model for Lunar Science",
-        "livescience.com: Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say",
-        "newsroom.ibm.com: IBM and NASA Release Open-Source AI Model to Support Lunar Exploration"
-      ],
-      "body": [
-        "science.nasa.gov: NASA, IBM Launch AI Foundation Model for Lunar Science NASA Science (.gov)",
-        "livescience.com: Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say Live Science",
-        "newsroom.ibm.com: IBM and NASA Release Open-Source AI Model to Support Lunar Exploration IBM Newsroom"
-      ],
-      "l": [
-        {
-          "d": "science.nasa.gov",
-          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaFlWQjYwaUlKUDJBcXY5dnVhMFBab2pnUGFpRVVrdU42b2NuaDhzUms2RDRsakc3RS0tSUpUV3prTWNRTUtqWnJrZUl1YXJLTFZGcVpBb0lLMlJKa2U1Yml0clEzT3hHdkVoM0lwMU9BU2ozcTRYeG80dlBRR18ycElfYXNUeFFQZFByb2ZiVkgtWkU?oc=5"
-        },
-        {
-          "d": "newsroom.ibm.com",
-          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYlVnOTlRLU5CdXJ2NG1vZnpXaWJfaktBQ0l4dGlKRF9tVVZST083WGhxTXpUT051X25pNlBYSTlsTG1NOGlsTWIxaE1xS2pJb0gzVmNZeUZ5Ulhzb2FBeHFHSHlvRlh4aE4xWGluVko0Y2xSSl9PeDNpbUJGM1NOQVRSN2ZQd05pdU9sSDBSWWRGZEx5b0JqQ1VKLUt6VzN5b0EzdHBzYTlTUQ?oc=5"
-        },
-        {
-          "d": "livescience.com",
-          "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPcXZEb2tEc1RJTk1Odl9iOUhaZDQ1U1lRX3Bvd1hDVVRqZnppdHY5SVRDVDdhX1NRODlfcjdVVTA3QVJfam1JNkpoYmtNbHVucmgtWDZCbEVVZlktbjU4dnFyQW8wdFc0dno1R3Z4OFNkNVRzemxpaURrNHpSNHg3aXh3Zk5NWmI5UldHUXhrQkhHN2pBLXlzeHVqanpsUXM5SkJJR2FySXRjTW1zaDMtSzdpYXBKajYwd3pNcmNMUUI4NnVKZVJveFNFbk4xVTY2VkRMN2ZHeWFKZDFEX2dSSDJtTHZVS2tiQnc4WDU5Umw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "NASA, IBM Launch AI Foundation Model for Lunar Science",
-        "IBM and NASA Release Open-Source AI Model to Support Lunar Exploration",
-        "Powerful new AI model will map the moon's surface in more detail than ever, NASA and IBM scientists say"
-      ]
-    },
-    {
       "cat": "research",
-      "signal": 51,
-      "sources": 2,
-      "ts": "2026-09-10T14:23:13.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Viral AI researcher’s warning ‘ scary as hell ,’ Cruz says",
-      "s": "Viral AI researcher’s warning ‘ scary as hell ,’ Cruz says Politico",
-      "b": [
-        "politico.com: Viral AI researcher’s warning ‘ scary as hell ,’ Cruz says",
-        "thenextweb.com: Top Pentagon official dismisses viral AI warning from an Anthropic researcher"
-      ],
-      "body": [
-        "politico.com: Viral AI researcher’s warning ‘ scary as hell ,’ Cruz says Politico",
-        "thenextweb.com: Top Pentagon official dismisses viral AI warning from an Anthropic researcher thenextweb.com"
-      ],
-      "l": [
-        {
-          "d": "politico.com",
-          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVVTMDBIR3doZDh2TVBHM3liTmpCYmtfaEFwaWFiRm5WSXNSR1dSZ0xneldyN20xVFpJOER5SVNNT3BhSUFBWTRVZUNIX2tEUUh6aUxsRTl4bDYtVXZKWU9CcjRjYzlmc2ZaQnpjV2FoSm1FTHcwMm1mSWtNcFdyQUFaaFhOODFvS2VZRWNHTFRrczA?oc=5"
-        },
-        {
-          "d": "thenextweb.com",
-          "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QVUNXdlRoNVk0VXFRUUY5NFpyRHlTUU1UVXZ4NWZpYW9zN0YtZ1cwb3FFZVQ4UE13bTQ0OXl4VDcxYzhHYXM5OUJfck9DWTNOQUxnM3gwTkVVX0NDSTBQY1p4U3Y0ZHZyMHNWWXNB?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Viral AI researcher’s warning ‘ scary as hell ,’ Cruz says",
-        "Top Pentagon official dismisses viral AI warning from an Anthropic researcher"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-09-10T16:00:00.000Z",
       "writtenSources": 1,
@@ -130,8 +138,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-10T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "s": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "b": [
+        "openai.com: Build more natural voice experiences with GPT‑Live‑1 in the API"
+      ],
+      "body": [
+        "openai.com: GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+        }
+      ],
+      "srcTitles": [
+        "Build more natural voice experiences with GPT‑Live‑1 in the API"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-09-10T09:45:01.000Z",
       "writtenSources": 2,
@@ -163,32 +196,39 @@
     },
     {
       "cat": "models",
-      "signal": 46,
-      "sources": 1,
+      "signal": 36,
+      "sources": 2,
       "ts": "2026-09-10T00:00:00.000Z",
-      "writtenSources": 1,
+      "writtenSources": 2,
       "draft": true,
-      "h": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "s": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.",
+      "h": "Introducing the Agents API",
+      "s": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
       "b": [
-        "openai.com: Build more natural voice experiences with GPT‑Live‑1 in the API"
+        "openai.com: Introducing the Agents API",
+        "arxiv.org: Introducing Consort: A Spec-First Agent Framework for Enforced, Test-Driven Development on Live Database Branches"
       ],
       "body": [
-        "openai.com: GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support."
+        "openai.com: Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use.",
+        "arxiv.org: arXiv:2609.09671v1 Announce Type: cross Abstract: When an agent writes code, the development framework becomes the control system for a non-deterministic worker. Spec-first, agent-driven frameworks have gained rapid traction since 2025; the installable ones, GitHub Spec Kit, obra/superpowers, BMAD, and GSD, and our own, all capture intent through a specification or durable planning artifacts. Since they agree on capturing intent up front, what separates them is how each enforces the engineering discipline that keeps agent-written code clean, correct, and maintainable. Every framework enforces that discipline somehow; they differ in how. We characterize three modes: enforcement by persuasion (prompt discipline the model may ignore), by front-loaded structure (strong specs, then a trusted build), and through controls the agent cannot edit (a deterministic orchestrator, human-approved gates, immutable tests, and a green result that must pass against a live, branched database). We introduce Consort, a spec-first, test-driven agent framework built on the third, enforcing that discipline through controls the agent runs inside but cannot bypass, in which a deterministic orchestrator drives separate role agents through a spec-first design lane and a test-driven build lane on a live database branch. We argue that enforcing the tests and gates in code keeps agent-written code honest and verifiable, while its specialized roles, like the human roles before them, are what make it maintainable, claims we frame as a pre-registered, testable hypothesis."
       ],
       "l": [
         {
           "d": "openai.com",
-          "u": "https://openai.com/index/introducing-gpt-live-1-in-the-api"
+          "u": "https://openai.com/index/introducing-the-agents-api"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.09671"
         }
       ],
       "srcTitles": [
-        "Build more natural voice experiences with GPT‑Live‑1 in the API"
+        "Introducing the Agents API",
+        "Introducing Consort: A Spec-First Agent Framework for Enforced, Test-Driven Development on Live Database Branches"
       ]
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-10T16:00:00.000Z",
       "writtenSources": 1,
@@ -213,7 +253,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-10T15:00:00.000Z",
       "writtenSources": 1,
@@ -234,95 +274,6 @@
       ],
       "srcTitles": [
         "Now everyone can put data to work"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-09-10T11:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Powering AI is an architecture problem",
-      "s": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn t the f",
-      "b": [
-        "technologyreview.com: Powering AI is an architecture problem"
-      ],
-      "body": [
-        "technologyreview.com: On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn t the first time. Two years earlier, a single failed surge arrester dropped roughly 60 Virginia facilities and 1,500 megawatts at once. No one could anticipate so much uniform load responding to grid faults the same way, at the same time. The AI power debate is mostly about generation: more turbines, more solar, more transmission. The grid needs more electrons. But the outages in Virginia weren t supply failures; they were architecture failures. And a giant wave of interconnections is arriving on that same architecture, putting grid reliability at risk. It s a problem nobody wants to own. Asking more from the grid The grid was built around predictable loads: steel mills, refineries, and houses at dinnertime. Different load sizes, same process—drawing power smoothly, misbehaving occasionally, and recovering gracefully. But AI data centers don t behave that way. An AI campus can swing 70% of its load in milliseconds during a training run, then trip offline just as fast at the first sign of trouble upstream to protect billions in compute. Each is rational alone. Together, at gigawatt scale, they re a problem the grid has never solved—and the next wave of data center campuses is planned at exactly that scale. Where the old stack breaks The standard data center power stack hasn t changed in decades. Medium-voltage power arrives, transformers step it down, low-voltage uninterruptible power supply (UPS) units condition it, and it reaches the racks. Push that design to AI scale, and it cracks in three places. First, the UPS sits deep inside the building, close to the racks. But its batteries are an undersized spare tire, designed to handle an outage for a few minutes, not to absorb load swings this fast and volatile around the clock. Second, the UPS spends most of its life in bypass. "
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/"
-        }
-      ],
-      "srcTitles": [
-        "Powering AI is an architecture problem"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-09-10T07:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
-      "s": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.",
-      "b": [
-        "openai.com: Expanding AI access and cyber defense for federal, state, local, and tribal governments"
-      ],
-      "body": [
-        "openai.com: OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/expanding-ai-access-us-government"
-        }
-      ],
-      "srcTitles": [
-        "Expanding AI access and cyber defense for federal, state, local, and tribal governments"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 15,
-      "sources": 3,
-      "ts": "2026-09-09T22:55:11.000Z",
-      "writtenSources": 3,
-      "draft": true,
-      "h": "Political world erupts as AI researchers warn of ‘extinction’ threat",
-      "s": "Political world erupts as AI researchers warn of ‘extinction’ threat The Washington Post Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity The New York Times How ",
-      "b": [
-        "washingtonpost.com: Political world erupts as AI researchers warn of ‘extinction’ threat",
-        "pbs.org: AI researcher warns companies are ignoring catastrophic risks",
-        "theguardian.com: Lawmakers blast AI companies after researcher warns of human extinction by 2030"
-      ],
-      "body": [
-        "washingtonpost.com: Political world erupts as AI researchers warn of ‘extinction’ threat The Washington Post Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity The New York Times How Would AI Actually Kill Us All? What to Know About the AI Doomsday Debate WSJ",
-        "pbs.org: AI researcher warns companies are ignoring catastrophic risks PBS",
-        "theguardian.com: Lawmakers blast AI companies after researcher warns of human extinction by 2030 The Guardian"
-      ],
-      "l": [
-        {
-          "d": "washingtonpost.com",
-          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONE16cFNXWkVTdG1xM1dRTUxYLTVtdms1elBUVEJrT3BpT2RMS3pwaUlUVWVSQnFlM0RYYmNab2dUZ0hJRW9GRVYtTHRjLWk2SThLQzJ3ZG1iNjhQU1pEWXVLRnQyclBOOGd1WGNHYUlfdEZUdUVHRW5nYmgwZTkyT2FyTUg3TENQUENmVENmNXA4bmtNc08yaUdUOVBWaGRXQm1QVXFaR25VMW9Pa2FUVktKQldOcG80WVBaOXRuRmxDNml5WlkyUg?oc=5"
-        },
-        {
-          "d": "pbs.org",
-          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNjVVRTdJVkMweDNHZkMzZkJhQ09wc2tjNm41eXFEeGMzRktCcWNreC1WdWJOa3I2RmpjbExDbUEwUVNCcTQ2dm1zbEowN2NoekxZVWtUVElRdGpLRHhQSEZqYlQzaThYcU9meWJkN1ZsS1puZ0l5U2tTbWc2RVJtTnlkWFRnMi1XeHhlU1RPTm5oSTBUeWJfWmlDSQ?oc=5"
-        },
-        {
-          "d": "theguardian.com",
-          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdjZzVHpEamtvYU5iZ2xxTVc2RlZMd0piaWo3M1VzbjJ1Qk8wc2ZyWUFTaXlqVm95SjFnbEFqemtSZ1FvQWZQWWFCVlJXRlduNy1EeFp6cFVMdFJyTE9CNnVpZlptM0VYY2MwSmwwX3BKRU5TaGpMd2ZkYjhtUkxXS295NEJQQ1hLU1RtVk95NzBkQQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Political world erupts as AI researchers warn of ‘extinction’ threat",
-        "AI researcher warns companies are ignoring catastrophic risks",
-        "Lawmakers blast AI companies after researcher warns of human extinction by 2030"
       ]
     }
   ]
