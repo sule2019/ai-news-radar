@@ -2,6 +2,38 @@
   "date": "2026-09-10",
   "stories": [
     {
+      "cat": "research",
+      "signal": 60,
+      "sources": 2,
+      "ts": "2026-09-10T07:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Introducing ChatGPT for Financial Services",
+      "s": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+      "b": [
+        "openai.com: Introducing ChatGPT for Financial Services",
+        "techmeme.com: OpenAI unveils ChatGPT for Financial Services, a version of ChatGPT Work made with \"design partners\" Morgan Stanley and Evercore to research like an analyst (CNBC)"
+      ],
+      "body": [
+        "openai.com: Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.",
+        "techmeme.com: CNBC : OpenAI unveils ChatGPT for Financial Services, a version of ChatGPT Work made with design partners Morgan Stanley and Evercore to research like an analyst OpenAI is taking aim at some of Wall Street's most labor-intensive tasks with a new version of ChatGPT designed to research companies"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-chatgpt-financial-services"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260910/p30#a260910p30"
+        }
+      ],
+      "srcTitles": [
+        "Introducing ChatGPT for Financial Services",
+        "OpenAI unveils ChatGPT for Financial Services, a version of ChatGPT Work made with \"design partners\" Morgan Stanley and Evercore to research like an analyst (CNBC)"
+      ]
+    },
+    {
       "cat": "products",
       "signal": 52,
       "sources": 3,
@@ -41,8 +73,65 @@
       ]
     },
     {
+      "cat": "research",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-09-10T14:23:13.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Viral AI researcher’s warning ‘ scary as hell ,’ Cruz says",
+      "s": "Viral AI researcher’s warning ‘ scary as hell ,’ Cruz says Politico",
+      "b": [
+        "politico.com: Viral AI researcher’s warning ‘ scary as hell ,’ Cruz says",
+        "thenextweb.com: Top Pentagon official dismisses viral AI warning from an Anthropic researcher"
+      ],
+      "body": [
+        "politico.com: Viral AI researcher’s warning ‘ scary as hell ,’ Cruz says Politico",
+        "thenextweb.com: Top Pentagon official dismisses viral AI warning from an Anthropic researcher thenextweb.com"
+      ],
+      "l": [
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcVVTMDBIR3doZDh2TVBHM3liTmpCYmtfaEFwaWFiRm5WSXNSR1dSZ0xneldyN20xVFpJOER5SVNNT3BhSUFBWTRVZUNIX2tEUUh6aUxsRTl4bDYtVXZKWU9CcjRjYzlmc2ZaQnpjV2FoSm1FTHcwMm1mSWtNcFdyQUFaaFhOODFvS2VZRWNHTFRrczA?oc=5"
+        },
+        {
+          "d": "thenextweb.com",
+          "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QVUNXdlRoNVk0VXFRUUY5NFpyRHlTUU1UVXZ4NWZpYW9zN0YtZ1cwb3FFZVQ4UE13bTQ0OXl4VDcxYzhHYXM5OUJfck9DWTNOQUxnM3gwTkVVX0NDSTBQY1p4U3Y0ZHZyMHNWWXNB?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Viral AI researcher’s warning ‘ scary as hell ,’ Cruz says",
+        "Top Pentagon official dismisses viral AI warning from an Anthropic researcher"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-09-10T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
+      "s": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
+      "b": [
+        "openai.com: How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
+      ],
+      "body": [
+        "openai.com: César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
+        }
+      ],
+      "srcTitles": [
+        "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 52,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-09-10T09:45:01.000Z",
       "writtenSources": 2,
@@ -70,31 +159,6 @@
       "srcTitles": [
         "Letter: the Senate disaster management subcommittee, led by Senator Josh Hawley, is probing OpenAI's handling of the Hugging Face breach, calling it \"reckless\" (Axios)",
         "OpenAI’s Hugging Face Hack Triggers Senate Probe"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 49,
-      "sources": 1,
-      "ts": "2026-09-10T16:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules",
-      "s": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.",
-      "b": [
-        "openai.com: How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
-      ],
-      "body": [
-        "openai.com: César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials"
-        }
-      ],
-      "srcTitles": [
-        "How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules"
       ]
     },
     {
