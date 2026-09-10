@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 86,
+      "signal": 96,
       "sources": 48,
       "ts": "2026-09-10T12:00:00.000Z",
       "writtenSources": 3,
@@ -30,12 +30,12 @@
           "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DNFpjSnVXaUNnalRqN0Nhb3BOSVpJWG4ycTF0YUU2b1dGamhjMXdjelY5d3Ixbi1KVUpIZW5aWWR1T1hXWXkxYlIxNHRqblQxUGlrS3I3WExLdw?oc=5"
         },
         {
-          "d": "washingtonpost.com",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQanR3SlM2c3E1V2NUQVpxSWxzMnJQLUZFUXhaNG5WNWZSRjhqR3FaNzV5VjZZZE9NVXJNNVZ3aklaVHhGb2hITVFVYTlpMWVFVFU5ZnpIN2FvbnVYb3d3dkVwcmVsY0dPX3FpdXZSZTQydDZaSHFCUmpZRmtoS09peTU2TE12cGllMDVGUHNodDRpSmYteTh6R0Y0eHV1R1BLcV8xWGplU0U1MkFRbG1BMHp3ODNNQjE0YlpTYUtB?oc=5"
+          "d": "scientificamerican.com",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUmZaLXZQbEdoREZRa2ozd1Y0SUw3ZFhnV19XM3VwVEdEUl9YVVp2UTNERl94WEFrUV8zVC1pcWpGa3ZxM2ZHV2tIZ3NzeG9wSURwc3lRMWZGLXFUQWdkcFRIZnBDM1BGd0Z1VFhsMExIVklORzJSZ25yX0RzNGxrYmVod3VTN1hRWWJGYlZB?oc=5"
         },
         {
-          "d": "wkbn.com",
-          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ1lVaEI2bUdLT2VJb2MwSTZXRXVxaHA1bVNUMldpZlNXRUdDTkI1OXFtUGlxM3dSR2J4WEtZSThlcnQtdUlyQkNaci16Vkw0MkRNU1NMQl9faVU0S1NBdlgxeGlnTFR0UVR4TWczQnJuMjNrSk5FV3F0aXNhTGFQRWNtU2otQ1FJVG9ocm5NRXJYU0pycXJOSlN5RUZGLTRW?oc=5"
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQm56T2dLMnFMeVp3a0tJY2s1eVdLalpSQ2c4bXBGQ2dOclF3a0dCVjhDYldvcEJMbEQ5TUQ5RXJuZXllZ1FvR3phRVlGNHhBazR0LXlaTy1DQmdXUENkQ1hLcWZrZlh0Ni0zdVVhSEhNdGxSckNpbHpiMi1GbUM0aUhSOFluSkZ0aG9WVG9DZ0pzQm13d2ZjRG9hZEZrdFRYUTU3bHoyWmhVYjNXUFN4TGtZRGdXbmM?oc=5"
         },
         {
           "d": "+44"
@@ -44,8 +44,8 @@
       "srcTitles": [
         "Expanding AI access and cyber defense for federal, state, local, and tribal governments",
         "AI and the Church",
-        "For years, they warned AI could kill all humans. Now people are listening.",
-        "Leader in AI to speak at Stambaugh Auditorium"
+        "The summer AI ate math",
+        "Pentagon in talks to lend $5 billion to AI cloud startup Fluidstack, WSJ reports"
       ]
     },
     {
@@ -114,6 +114,45 @@
     },
     {
       "cat": "research",
+      "signal": 52,
+      "sources": 3,
+      "ts": "2026-09-10T16:54:02.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Parents navigate AI’s role in kids’ learning",
+      "s": "Parents navigate AI’s role in kids’ learning WWBT",
+      "b": [
+        "12onyourside.com: Parents navigate AI’s role in kids’ learning",
+        "cepa.org: AI’s Rubberstamp",
+        "theguardian.com: More Anthropic researchers warn of AI’s perils as Musk terms fears a ‘psyop’"
+      ],
+      "body": [
+        "12onyourside.com: Parents navigate AI’s role in kids’ learning WWBT",
+        "cepa.org: AI’s Rubberstamp Center for European Policy Analysis (CEPA)",
+        "theguardian.com: More Anthropic researchers warn of AI’s perils as Musk terms fears a ‘psyop’ theguardian.com"
+      ],
+      "l": [
+        {
+          "d": "12onyourside.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeHFrSFVPSXEyX09Kb0htMFkwOVMxb21GcjRXWWFobGRjNHVGVG9lUUZfVTZ1U1AxZ3RSUkt1SzZvSmIwdUxGS3JpN1pGdlYxWTU3S2s1bi1fSGh6UjVyS3Uza1doUndzd1E0LVVPOWR3MVpvRGlKUnJjTC1DdUJJZnlNOEY1bUHSAZsBQVVfeXFMT1dKa3V1ZklnWFhGX1NNN3ZOampTU2E0OWtZVW5SMWpWSXQzZC1fT0NfMzM2dnBnUDJrMTZFU29sNXVLZU9FY1dpR3VRck0yT2JRVER6V3RSTDhvaGlYZ0lrR0V0UDhYdlNDU294LWRTd2Q5aGZIeGhSMExIQXVTVGphbUc2bFpQSEFRUXU2ZjdqWno2NTNOT21HRE0?oc=5"
+        },
+        {
+          "d": "cepa.org",
+          "u": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBuZEtfMWdRUHFYQVl1eEJmUUM5MFVuY3BMeHgteTBPd0N5b2JPcG9JUVJkWWU2NDc0OXdEeU1iWmhEWTFsR0tqaTVSV1gyNXp0c09Z?oc=5"
+        },
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeG9CTGdvNDlpZlRmYU9BeEtNNC1qQWhkWHBJZmthYzBWalBUSEN0MmRUOFM2SERjX0M2V195ZmRsTkxoVzEyVUttT2pOODhKNHlQOXVZRGdwRVBicGExZU1FNEpGVlIxWDczbll5anB1QURMbk1jdFJ3ZVlxWlRaVkVqcWFyYS1qdzZ5aUx3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Parents navigate AI’s role in kids’ learning",
+        "AI’s Rubberstamp",
+        "More Anthropic researchers warn of AI’s perils as Musk terms fears a ‘psyop’"
+      ]
+    },
+    {
+      "cat": "research",
       "signal": 46,
       "sources": 1,
       "ts": "2026-09-10T16:00:00.000Z",
@@ -164,7 +203,7 @@
     },
     {
       "cat": "policy",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-09-10T09:45:01.000Z",
       "writtenSources": 2,
