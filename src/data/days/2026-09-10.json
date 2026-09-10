@@ -1,4 +1,44 @@
 {
   "date": "2026-09-10",
-  "stories": []
+  "stories": [
+    {
+      "cat": "policy",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-09-09T22:55:11.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Political world erupts as AI researchers warn of ‘extinction’ threat",
+      "s": "Political world erupts as AI researchers warn of ‘extinction’ threat The Washington Post Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity The New York Times How ",
+      "b": [
+        "washingtonpost.com: Political world erupts as AI researchers warn of ‘extinction’ threat",
+        "pbs.org: AI researcher warns companies are ignoring catastrophic risks",
+        "theguardian.com: Lawmakers blast AI companies after researcher warns of human extinction by 2030"
+      ],
+      "body": [
+        "washingtonpost.com: Political world erupts as AI researchers warn of ‘extinction’ threat The Washington Post Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity The New York Times How Would AI Actually Kill Us All? What to Know About the AI Doomsday Debate WSJ",
+        "pbs.org: AI researcher warns companies are ignoring catastrophic risks PBS",
+        "theguardian.com: Lawmakers blast AI companies after researcher warns of human extinction by 2030 The Guardian"
+      ],
+      "l": [
+        {
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONE16cFNXWkVTdG1xM1dRTUxYLTVtdms1elBUVEJrT3BpT2RMS3pwaUlUVWVSQnFlM0RYYmNab2dUZ0hJRW9GRVYtTHRjLWk2SThLQzJ3ZG1iNjhQU1pEWXVLRnQyclBOOGd1WGNHYUlfdEZUdUVHRW5nYmgwZTkyT2FyTUg3TENQUENmVENmNXA4bmtNc08yaUdUOVBWaGRXQm1QVXFaR25VMW9Pa2FUVktKQldOcG80WVBaOXRuRmxDNml5WlkyUg?oc=5"
+        },
+        {
+          "d": "pbs.org",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNjVVRTdJVkMweDNHZkMzZkJhQ09wc2tjNm41eXFEeGMzRktCcWNreC1WdWJOa3I2RmpjbExDbUEwUVNCcTQ2dm1zbEowN2NoekxZVWtUVElRdGpLRHhQSEZqYlQzaThYcU9meWJkN1ZsS1puZ0l5U2tTbWc2RVJtTnlkWFRnMi1XeHhlU1RPTm5oSTBUeWJfWmlDSQ?oc=5"
+        },
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdjZzVHpEamtvYU5iZ2xxTVc2RlZMd0piaWo3M1VzbjJ1Qk8wc2ZyWUFTaXlqVm95SjFnbEFqemtSZ1FvQWZQWWFCVlJXRlduNy1EeFp6cFVMdFJyTE9CNnVpZlptM0VYY2MwSmwwX3BKRU5TaGpMd2ZkYjhtUkxXS295NEJQQ1hLU1RtVk95NzBkQQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Political world erupts as AI researchers warn of ‘extinction’ threat",
+        "AI researcher warns companies are ignoring catastrophic risks",
+        "Lawmakers blast AI companies after researcher warns of human extinction by 2030"
+      ]
+    }
+  ]
 }
