@@ -1,4 +1,30 @@
 {
   "date": "2026-09-11",
-  "stories": []
+  "stories": [
+    {
+      "cat": "funding",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-11T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "s": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.",
+      "b": [
+        "openai.com: Rapidly scaling online storage to serve over 1 billion ChatGPT users"
+      ],
+      "body": [
+        "openai.com: Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/scaling-storage-one-billion-users-part-one"
+        }
+      ],
+      "srcTitles": [
+        "Rapidly scaling online storage to serve over 1 billion ChatGPT users"
+      ]
+    }
+  ]
 }
