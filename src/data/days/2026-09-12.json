@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 64,
-      "sources": 6,
+      "signal": 62,
+      "sources": 5,
       "ts": "2026-09-12T15:29:10.000Z",
       "writtenSources": 6,
       "draft": true,
@@ -39,7 +39,7 @@
           "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdVd3Q2R6NGZfdkJHREJrV2N1RDcwSTRBZy1JYTZTS05kTno2N2pqWnZBQ21XOTJ3Yl9ObERSSE94U3dkWF8wSVRtNGtHQklLbkFhUFoyUHR5dGp1MmtWX0s0enEzNktEd1ZGRzkwTktMckpUMGlFZE83UWhCVkFvVV94ZTZKUENwdUdZRS1jS2RhWVk?oc=5"
         },
         {
-          "d": "+2"
+          "d": "+1"
         }
       ],
       "srcTitles": [
@@ -50,8 +50,33 @@
       ]
     },
     {
-      "cat": "research",
+      "cat": "models",
       "signal": 52,
+      "sources": 1,
+      "ts": "2026-09-12T00:22:21.079Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "s": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "b": [
+        "openai.com: Perplexity trusts GPT-6 Astra with end-to-end systems"
+      ],
+      "body": [
+        "openai.com: Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+        }
+      ],
+      "srcTitles": [
+        "Perplexity trusts GPT-6 Astra with end-to-end systems"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 48,
       "sources": 2,
       "ts": "2026-09-11T22:45:41.000Z",
       "writtenSources": 2,
@@ -79,31 +104,6 @@
       "srcTitles": [
         "Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do \"benign tasks\" (Robert McMillan/Wall Street Journal)",
         "OpenAI agents attacked RubyGems back in May"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 52,
-      "sources": 1,
-      "ts": "2026-09-12T00:22:21.079Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "s": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
-      "b": [
-        "openai.com: Perplexity trusts GPT-6 Astra with end-to-end systems"
-      ],
-      "body": [
-        "openai.com: Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
-        }
-      ],
-      "srcTitles": [
-        "Perplexity trusts GPT-6 Astra with end-to-end systems"
       ]
     }
   ]
