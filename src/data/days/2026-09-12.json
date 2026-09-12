@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 70,
-      "sources": 9,
+      "signal": 80,
+      "sources": 27,
       "ts": "2026-09-12T15:29:10.000Z",
       "writtenSources": 6,
       "draft": true,
@@ -27,10 +27,6 @@
           "u": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
         },
         {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrRjBnT05YelZFQXM0ejVFa0VZUDdYWENTbHowbzJSVmxwZWFpWEw2NFh4NHpjU01Ubi1jM21FQjhfWl82Z3JsczNTQnFIVFpkOWQyTXhQVzlGZw?oc=5"
-        },
-        {
           "d": "facebook.com",
           "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaUk4bzJTRHdSaEp3dTBWeFlMbTBKOXFSeXdydGR1QzF5WFcyMG9nTll3aGdncnZCNW90SWFGa252b01aRkxrY2FOR2gyaVJzc0NkYlUtLVg3RkZvOXRqbm9neWlkd3YzTXdZS3lfOFBpYjNWU0s3UVNhME1RM2xOcnZ3YVBRU3R6dllJbHVxS1NmZ2d4VjBibm1JYVluMjVIWFdLa2Y3SHN5UEUzMUVHVVJkanl3d0xsWDFGZzN4RDdUc3lnelJ3OHVBS0prWl94eUhpdDBYUVBOQQ?oc=5"
         },
@@ -39,14 +35,57 @@
           "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOY3ZuaHZCbGZRVHctOG5ubTQyaHlnNmx3eWhBZ0FGc2tUYU5PMXh1T1QyWFdlQ3FmVnRybFc4RExhMHowWDdSdnByakl5cGJFcDR4Yk5SbUM3dy1JcGlFNnBmMU5QenBvV3hQeXpWaFBWWHhtUzc3U0J4R1lmd1MtR3VWaDloajROMXFTeE1GZjhSNnY0d3BMdzV5WmR2UjZNNE1Rbk1wTUkwelRQMVpERVJWWlFraFNRd2M1eklJdmUyR0FoMDI5RDl0WG9acFQyR0tlWDJpM2RMa0hpcGpUeHJBWFM2SzFPdW12ZXJQc2RReUtqR20tUWwwMGxaQ0dk?oc=5"
         },
         {
-          "d": "+5"
+          "d": "thehill.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTFBveFBkRDRaa1RWV3R6OHh3Q1l4T1BMRkx3TFhkTVJ3NVdUV09SSTRYMGd1LUF0cWczeXlJUHV0MXYzdjRSaUROdnE3TTduVHByZjBhZnM5MUp5QmMyYnA3b21pSmtDdGFzc3NpSG8tVmtuVVpwRkwxYkFkNFV1YnhuMEhIRkF1X2NlYkg3NNIBlAFBVV95cUxNeExsNTdXOWozdWFwZmRxQld6NW1UTkpydlhZYUhnTVdVUHRMdkhOV1ZQWVppT2NaUnZQRDVvamRxTGwySHJqdk1RR3JFSER0aTF5YnZxYUNvSTFnc0xUMkQxYnA4UFFBeG1hVHc2TGhXZFVsOXRpN1RqVFZxcHRFWm0ycXcxbGlwbXVsOTFkWjUwNDRi?oc=5"
+        },
+        {
+          "d": "+23"
         }
       ],
       "srcTitles": [
         "Anthropic CEO outlines plan to slow AI development",
-        "Anthropic boss Dario Amodei calls for AI development to slow down",
         "The CEO of Anthropic said Saturday the artificial-intelligence industry should slow its fast-moving development to give safety measures time to catch up. Without it, Dario Amodei warned AI could be capable within six to 12 months of leading a swarm that could",
-        "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up"
+        "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up",
+        "Anthropic CEO calls to ‘slow the pace’ of AI development amid safety concerns"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 70,
+      "sources": 3,
+      "ts": "2026-09-12T19:35:05.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "OpenAI’s Sam Altman says it would be ill-advised to go public in 2026",
+      "s": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "b": [
+        "techcrunch.com: OpenAI’s Sam Altman says it would be ill-advised to go public in 2026",
+        "theverge.com: Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+        "techmeme.com: Sam Altman confirms OpenAI won't go public this year saying \"given everything happening with safety, right now would be an ill-advised moment to go public\" (Jason Ma/Fortune)"
+      ],
+      "body": [
+        "techcrunch.com: While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+        "theverge.com: OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects including the Hugging Face hacking incident, recursive self-improvement, and the possibility of building an AI that was beyond human control. On the latter, he [ ]",
+        "techmeme.com: Jason Ma / Fortune : Sam Altman confirms OpenAI won't go public this year saying given everything happening with safety, right now would be an ill-advised moment to go public Wall Street will have to wait for one of the most highly anticipated initial public offerings as OpenAI CEO Sam Altman confirmed it will not happen in 2026."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260912/p16#a260912p16"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI’s Sam Altman says it would be ill-advised to go public in 2026",
+        "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+        "Sam Altman confirms OpenAI won't go public this year saying \"given everything happening with safety, right now would be an ill-advised moment to go public\" (Jason Ma/Fortune)"
       ]
     },
     {
@@ -76,7 +115,7 @@
     },
     {
       "cat": "research",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-09-11T22:45:41.000Z",
       "writtenSources": 2,
@@ -104,6 +143,38 @@
       "srcTitles": [
         "Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do \"benign tasks\" (Robert McMillan/Wall Street Journal)",
         "OpenAI agents attacked RubyGems back in May"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-12T20:20:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy",
+      "s": "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy The Motley Fool",
+      "b": [
+        "fool.com: This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy",
+        "finance.yahoo.com: This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy"
+      ],
+      "body": [
+        "fool.com: This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy The Motley Fool",
+        "finance.yahoo.com: This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy Yahoo Finance"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaDM1NVFEZGk5SGdfWGQtaXdsNWtSX0prU21xTkxCX05KN3BnWmh3a2hMcmxKNnRSa1pVT1BLLVBGMmhqTDFscy05M3ptQWxQbm9zRkhlcENJMjFRNXpuYjlMT1BaUTVjNk1jbzRoUHgwdWtoLXdGdG1WWG5NcE5GTWZCdWFiNXc3dXdWM1MtMjRYZ2cwYXN3?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaWp4ZXdvLWsxMkhYQS1CSV9IVjdSeHZaY0QtVTJzdEl5aFRVSmpEVC0xLU96RURhU2doaHpzcXJyU3VlN0JwemFtYkhUYkhpcW1pQmlzMWZMcW1aMVZLNzl1VVp2WGFVd0NjdGxhSWM2M0diQzFuXzZkdXJHdGVERXVJVG1QZms2Y0hiUjFtM1Foai1OTjhEa1M2a0xZQi1rb2k3QQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy",
+        "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy"
       ]
     }
   ]
