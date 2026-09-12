@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 54,
-      "sources": 2,
+      "signal": 70,
+      "sources": 9,
       "ts": "2026-09-12T15:29:10.000Z",
       "writtenSources": 6,
       "draft": true,
@@ -23,17 +23,30 @@
       ],
       "l": [
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/"
+        },
+        {
           "d": "bbc.com",
           "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBrRjBnT05YelZFQXM0ejVFa0VZUDdYWENTbHowbzJSVmxwZWFpWEw2NFh4NHpjU01Ubi1jM21FQjhfWl82Z3JsczNTQnFIVFpkOWQyTXhQVzlGZw?oc=5"
         },
         {
-          "d": "sg.news.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ITVI1TnJFd2p2S0JjdVJGS3l4SGtxRVRRWUREcUt1SktOREQyTHllakZqeGdWYnRoQVFGQ1N0WVgtWlJKTnFJb0pIOEw2ajJmbUp6SUFhRmppSGpZYjNQelRidzV6THJ3YnRlb1lJaWlkejdQUE4zOUJRRkRVNG8?oc=5"
+          "d": "facebook.com",
+          "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaUk4bzJTRHdSaEp3dTBWeFlMbTBKOXFSeXdydGR1QzF5WFcyMG9nTll3aGdncnZCNW90SWFGa252b01aRkxrY2FOR2gyaVJzc0NkYlUtLVg3RkZvOXRqbm9neWlkd3YzTXdZS3lfOFBpYjNWU0s3UVNhME1RM2xOcnZ3YVBRU3R6dllJbHVxS1NmZ2d4VjBibm1JYVluMjVIWFdLa2Y3SHN5UEUzMUVHVVJkanl3d0xsWDFGZzN4RDdUc3lnelJ3OHVBS0prWl94eUhpdDBYUVBOQQ?oc=5"
+        },
+        {
+          "d": "ktvn.com",
+          "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOY3ZuaHZCbGZRVHctOG5ubTQyaHlnNmx3eWhBZ0FGc2tUYU5PMXh1T1QyWFdlQ3FmVnRybFc4RExhMHowWDdSdnByakl5cGJFcDR4Yk5SbUM3dy1JcGlFNnBmMU5QenBvV3hQeXpWaFBWWHhtUzc3U0J4R1lmd1MtR3VWaDloajROMXFTeE1GZjhSNnY0d3BMdzV5WmR2UjZNNE1Rbk1wTUkwelRQMVpERVJWWlFraFNRd2M1eklJdmUyR0FoMDI5RDl0WG9acFQyR0tlWDJpM2RMa0hpcGpUeHJBWFM2SzFPdW12ZXJQc2RReUtqR20tUWwwMGxaQ0dk?oc=5"
+        },
+        {
+          "d": "+5"
         }
       ],
       "srcTitles": [
+        "Anthropic CEO outlines plan to slow AI development",
         "Anthropic boss Dario Amodei calls for AI development to slow down",
-        "Anthropic boss calls for AI slowdown, Altman and Musk agree"
+        "The CEO of Anthropic said Saturday the artificial-intelligence industry should slow its fast-moving development to give safety measures time to catch up. Without it, Dario Amodei warned AI could be capable within six to 12 months of leading a swarm that could",
+        "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up"
       ]
     },
     {
@@ -63,7 +76,7 @@
     },
     {
       "cat": "research",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-09-11T22:45:41.000Z",
       "writtenSources": 2,
