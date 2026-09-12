@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 80,
-      "sources": 29,
+      "signal": 79,
+      "sources": 24,
       "ts": "2026-09-12T15:29:10.000Z",
       "writtenSources": 6,
       "draft": true,
@@ -31,22 +31,22 @@
           "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOaUk4bzJTRHdSaEp3dTBWeFlMbTBKOXFSeXdydGR1QzF5WFcyMG9nTll3aGdncnZCNW90SWFGa252b01aRkxrY2FOR2gyaVJzc0NkYlUtLVg3RkZvOXRqbm9neWlkd3YzTXdZS3lfOFBpYjNWU0s3UVNhME1RM2xOcnZ3YVBRU3R6dllJbHVxS1NmZ2d4VjBibm1JYVluMjVIWFdLa2Y3SHN5UEUzMUVHVVJkanl3d0xsWDFGZzN4RDdUc3lnelJ3OHVBS0prWl94eUhpdDBYUVBOQQ?oc=5"
         },
         {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQY1didkw3bjl0ZERHbnFQVnNXd3NhVzFmalVuQzNmSHBHTHNSdmhPRGVMZkFNOFp6ZnI0Z2ZDYS01OGxjVzVIQWRzb2lqVTlQVjZHV2tFbmIxazZxTDRDSFM0ZHc5MDk5MnYzMWctUk0xdHZXZ1YxcWRybGRWUXNWdnA3MzFnSTJKTTc3eTJ4VVdiRTlQNTZGeGlhdVRXTFVrNk1r0gGoAUFVX3lxTE9HdlY0SnIyUjNNSTM5QVlUY2JGbVlUNWZQT1JEVVIxalh6RGExWENvU3NtTmpqa195MW1Ob3htbnFKMzUwVW8tYXpQSDlveUdEMGpQWWM5YWpLbFBSSkRRSzFfR2d1dXBsMzUtVDllVVdKbGQtUUJDdjRpQ0kxTHVLWDRscHhPaTA3TVJjYXpZTW1uYVhrUkR1c1FvN3FocEdpV0J1NWQ1RQ?oc=5"
+          "d": "pbs.org",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZkE3SzFLWmJNc3RvT2QtU2JTVTl6OWVnclZUc0hiUXBhN0tlVlNjOWVvNnJ6dVBvZnlqeHBUNEV5ekxITVlQRG1fakN4NHpKWEczS0xPTWFoS3lkbUZ3R0hrTFBibnQ5SzVTOVFzWkRLZGdwRHhMUW1XRmJuTE5NWU8xUDRCZ0NKSzBEYkpxU3B1MW5iUm9Wa3h1RzJ2VklZd1doNEpmOTRpTnEySi1fZ2FGUQ?oc=5"
         },
         {
-          "d": "gizmodo.com",
-          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1pvY1g1azVaNHpQNnA5aVk4MVgtdzQyUjQ5LWkzTTcwSGcwaWFnY2NwdC1YQXpWTnhiNkNlY1JuQXRqWVdNY2tzNGYwd282dWtVOEdpQ2thV29RX0tONWdMRmN1aHpuckhJeWZZZWZ0eFhvOWMxaUtBWmlUaEcwejAyamRuQWxFSTc5TTdaNkEzTlM3UFpnSHVJR3ZQWEVG?oc=5"
+          "d": "post-gazette.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLWtlTEI3dl9mSWZIeFJOMDA0d0FicVJwUHBtWjNDSWZGVGV2dlA2UTBVSDMxWTN4UkFZcEF3WjRHcVBtY0p4bXFuMm1QRkZvRlJ1SmlLUFAxRkFjV08xUGtDNkwtVWRTbEtoTlJaVDV1elRzeGNtUFZHTnVLRFV4MXlwT0FUcE1Ya3ZOVDhUekJFdEcwMVY1bmZaaEJVNzhMQnFWMThOb0hFSTRmREU3cg?oc=5"
         },
         {
-          "d": "+25"
+          "d": "+20"
         }
       ],
       "srcTitles": [
         "Anthropic CEO outlines plan to slow AI development",
         "The CEO of Anthropic said Saturday the artificial-intelligence industry should slow its fast-moving development to give safety measures time to catch up. Without it, Dario Amodei warned AI could be capable within six to 12 months of leading a swarm that could",
-        "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - ABC News",
-        "Anthropic CEO Dario Amodei Calls for Pause in AI Development, Sort Of"
+        "Anthropic CEO says AI industry needs to give safety measures time to catch up",
+        "Anthropic CEO Dario Amodei says AI industry needs to give safety measures time to catch up - post-gazette.com"
       ]
     },
     {
@@ -146,38 +146,6 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 32,
-      "sources": 2,
-      "ts": "2026-09-11T22:45:41.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do \"benign tasks\" (Robert McMillan/Wall Street Journal)",
-      "s": "Robert McMillan / Wall Street Journal : Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do benign tasks The inc",
-      "b": [
-        "techmeme.com: Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do \"benign tasks\" (Robert McMillan/Wall Street Journal)",
-        "simonwillison.net: OpenAI agents attacked RubyGems back in May"
-      ],
-      "body": [
-        "techmeme.com: Robert McMillan / Wall Street Journal : Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do benign tasks The incident, which wasn't previously linked to OpenAI, happened two months before July's Hugging Face hack",
-        "simonwillison.net: OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis ( previously ) last week. This time they're noting that it looks very likely that an OpenAI agent swarm was behind an attack against the RubyGems package repository first reported on May 12th by Maciej Mensfeld of the RubyGems security team : We're dealing with a major malicious attack on @rubygems right now. Signups are paused for the time being. Hundreds of packages involved - mostly targeting us, but some carrying exploits. The team has been on this for hours. More details to follow once we're through it. Those packages turned out to carry some very suspicious patterns: Many of them included \"oai\" in their name, or the author field, or the fake email address they provided. The files they were accessing were similar in character to the files retrieved by the wiki agents, using similar tricks (r.jina.ai) - and OpenAI have confirmed the wiki agents were theirs. The code in the packages appeared to be LLM-authored. I find point 2 the most convincing, given what we learned from the wiki attack when it was analyzed in September. Many of the packages were exploiting the RubyDoc.info documentation build process to exfiltrate (public) data from UK government websites, presumably as part of an information gathering task similar to the research tasks processed by the wiki-exploiting agents. We know this because one agent helpfully left a comment: # malicious crawler/exfil for Southwark Jan 2026 docs via rubydoc.info worker They also attempted to steal API keys via an exploit that was patched over two months later - it's not clear if those attempts were successful. The thing that bothers me most about this incident is that the authors report that OpenAI had not disclosed to RubyGems that they were responsible for the attack prior to now. If that's true there a"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260911/p32#a260911p32"
-        },
-        {
-          "d": "simonwillison.net",
-          "u": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
-        }
-      ],
-      "srcTitles": [
-        "Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do \"benign tasks\" (Robert McMillan/Wall Street Journal)",
-        "OpenAI agents attacked RubyGems back in May"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 29,
       "sources": 2,
@@ -207,6 +175,38 @@
       "srcTitles": [
         "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy",
         "This Artificial Intelligence Stock Is Down 71% and Could Be a Screaming Buy"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 28,
+      "sources": 2,
+      "ts": "2026-09-11T22:45:41.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do \"benign tasks\" (Robert McMillan/Wall Street Journal)",
+      "s": "Robert McMillan / Wall Street Journal : Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do benign tasks The inc",
+      "b": [
+        "techmeme.com: Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do \"benign tasks\" (Robert McMillan/Wall Street Journal)",
+        "simonwillison.net: OpenAI agents attacked RubyGems back in May"
+      ],
+      "body": [
+        "techmeme.com: Robert McMillan / Wall Street Journal : Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do benign tasks The incident, which wasn't previously linked to OpenAI, happened two months before July's Hugging Face hack",
+        "simonwillison.net: OpenAI agents carried out an undisclosed attack on RubyGems is a new bombshell report from Spencer Kitts, Thomas Larsen, and Sydney Von Arx - three of the four authors of the report on the agent attack on disused wikis ( previously ) last week. This time they're noting that it looks very likely that an OpenAI agent swarm was behind an attack against the RubyGems package repository first reported on May 12th by Maciej Mensfeld of the RubyGems security team : We're dealing with a major malicious attack on @rubygems right now. Signups are paused for the time being. Hundreds of packages involved - mostly targeting us, but some carrying exploits. The team has been on this for hours. More details to follow once we're through it. Those packages turned out to carry some very suspicious patterns: Many of them included \"oai\" in their name, or the author field, or the fake email address they provided. The files they were accessing were similar in character to the files retrieved by the wiki agents, using similar tricks (r.jina.ai) - and OpenAI have confirmed the wiki agents were theirs. The code in the packages appeared to be LLM-authored. I find point 2 the most convincing, given what we learned from the wiki attack when it was analyzed in September. Many of the packages were exploiting the RubyDoc.info documentation build process to exfiltrate (public) data from UK government websites, presumably as part of an information gathering task similar to the research tasks processed by the wiki-exploiting agents. We know this because one agent helpfully left a comment: # malicious crawler/exfil for Southwark Jan 2026 docs via rubydoc.info worker They also attempted to steal API keys via an exploit that was patched over two months later - it's not clear if those attempts were successful. The thing that bothers me most about this incident is that the authors report that OpenAI had not disclosed to RubyGems that they were responsible for the attack prior to now. If that's true there a"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260911/p32#a260911p32"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/"
+        }
+      ],
+      "srcTitles": [
+        "Researchers: OpenAI agents attacked Ruby package manager RubyGems in May; OpenAI says its agents used RubyGems to access the internet to do \"benign tasks\" (Robert McMillan/Wall Street Journal)",
+        "OpenAI agents attacked RubyGems back in May"
       ]
     }
   ]
