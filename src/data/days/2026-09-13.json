@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 57,
-      "sources": 4,
+      "signal": 58,
+      "sources": 6,
       "ts": "2026-09-13T15:57:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,24 +20,27 @@
       ],
       "l": [
         {
-          "d": "washingtonpost.com",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUC1sNlREa2ZpZmZkaklBb3dodW5GQV95czZiNVJCYXlhNlQxQXdpQ0pEWU5vZ3FsUVVEMzh0eUt1UVN0LXNvM2U5N0wtNVVkclVPbmRYZHBzanliXzhJMXZaUGp6MGthbWNoVUg2T3VSeFlIeVdNOFpwbmdrNkJZcENKd3ptaTVvakRlSDJWNUlMa1lOSG1MQkhzeHdVMXBYTVQ3ZHRRUXUwbkktZVAwRGFZZERhZk5rSEJudzhR?oc=5"
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Va0d5eEp4ZUxtaHRQMU9obnE2UDFYcjlYV05YclYwcXA5c00wQU9hVEphQmcwOWdMUTRjblNoS0d3Mm5qRGVsSHBzbmdwQU00aV9vcXpTYWpoUQ?oc=5"
         },
         {
           "d": "thehill.com",
           "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PRVNRQXpmdm15TzNRWlpGYTlGakxyZzFrdnpXenFpUDZ1aEo4bUc1dmFKUlpKeUx6VVhzSTQ5OGVsa3pKQlpUZzJ0cGdwcmRCZWxwTjFjaGxtN05KOUxELUdUbUhDQldiZ0ZQcmtVb0RhMUgtLW9BY3A2MNIBgAFBVV95cUxNYXBMRkhhcWJfc1d3cllTZTdZbU1aTXhsa2JyNEJHYzNnU09MLW9hdHdwYW54VkNJcHBTU2I2cHRpWVRIcFVuRmlGdTJHQ19Sc28zUTE1V2J1WWdBSl9TQ25CM0JvWDlMa1FpOU5OZl9sdndBVk96c2lybWRJQ3ZlbQ?oc=5"
         },
         {
-          "d": "ktvn.com",
-          "u": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOREdJREUxWEJfeDhNNm04bVdmbGRSU2xXRFhxaHE2cXVERU8xMTJkMDJFb3dpc0lEcFFhQVdCbmNWSDFQRG9SWmoxN1VDNlh6MFVBVGxNMnR1a2RibWZraEVMQmgzZHduVmtUTlhSVDVTRk1ZN1RrcFdBZnMzT0liU25vRkNmbmxEM3otOXFwRVN6R0dEUWlLbkFwQ1JUbG0wdkh0bTdnOG9kUnJESFJqR2VYSUdacEphb1NJYkNtSGZFZk9tb1FPUUhiNzBHdjlvZEhfY0hoU2VJNjdBYWVfVlhsVFZnMGdBWnJ3cHZYTkZTMUdPTGY4?oc=5"
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5"
         },
         {
           "d": "washingtontimes.com",
           "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2ZCbkNTemp5cE5XaWhuZ1J3WVJCaVd4M1lmM2Z4X0swUlVydjcyaEtZZTk3S0Z2a0I5TXZ2ckxReGtpRkJ0VHZPZmtFRTluWjZkeFd6cWRLOUhYdHRmMHVnZUlpd3FFdHVvMGtxbFREVklaZzBGNkZVSlREVWhqbHZFRXZabElCZUM1RERyNXZZNTFxVW5ncUVad0RuME40OWE5OE9XTTBUcTJzSVZj?oc=5"
+        },
+        {
+          "d": "+2"
         }
       ],
       "srcTitles": [
-        "Trump dismisses AI leaders’ calls to slow down, citing Chinese competition",
+        "Trump downplays AI risks after dire expert warnings and calls to slow development down",
         "Trump downplays AI warnings, citing competition with China",
         "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
         "Congress scrambles on AI rules as Trump presses for edge over China"
@@ -45,7 +48,7 @@
     },
     {
       "cat": "policy",
-      "signal": 43,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-09-13T13:55:00.000Z",
       "writtenSources": 2,
@@ -77,7 +80,7 @@
     },
     {
       "cat": "models",
-      "signal": 33,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-09-13T15:42:41.000Z",
       "writtenSources": 2,
@@ -111,38 +114,6 @@
       "cat": "funding",
       "signal": 26,
       "sources": 2,
-      "ts": "2026-09-13T05:05:05.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
-      "s": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Motley Fool",
-      "b": [
-        "fool.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
-        "theglobeandmail.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors"
-      ],
-      "body": [
-        "fool.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Motley Fool",
-        "theglobeandmail.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Globe and Mail"
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRFRpeEhHaDJCOTZJVk9aS1dub0x5dEp5T3M1eHozSEQ3YkNWZGlWaGh5SS0zMTdOSHBTdEJfbzJRVE0wRmF3c0M4MnlMd2txb0NRb1hYMFU2c0tsZVZzM3JWc1h5S3pFZzRoXzBzZE5TX25BVzlMeGQtQ2c0c2M2SW9ELTFzNm1aOVdoczI3ampvQ3JnWkpUREp4dHZYOVRIY2NQLU00UktFQ3B1aW9JS2Rxa0VuVFZmM25FX09GRDNfZk1RNXRuNEQwTExNaTlVM1hkektCMnRuby0zQ29MZQ?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOcnZIZTh2ZFloc3dwdjgtZ2dMbmxCZEVwb0R0VTU3aHN5QWJXUTdnWkRlTWF5a21tXzBMNVljZkxoblB5TEFIQ29nTXNnU2c2dlI1b0NDT3pBcW5ya2FITXltR3BvUDRBUlJQWUlNQmpzWnZuX1NISzhadnEtaUNOb21OdnlUTllidGIxUmkyU1FFYmNkTFg0eURJY3NlWVNuenJhUTNqb3BzajZDOW5nQlplanhTZ0hUbENucGlDdjNNQXpvblQ4cmpnRHlSUG1YYUlvb2ktMkZVcDM5MW5RUHgtaU4yWkJIR1lmZ0lwYko1Q1VkVV94bC1fNm85ZFJsX2Z5NzhJR1ZSTkJk?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
-        "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 26,
-      "sources": 2,
       "ts": "2026-09-13T04:23:50.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -169,6 +140,38 @@
       "srcTitles": [
         "BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant",
         "BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-09-13T05:05:05.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
+      "s": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Motley Fool",
+      "b": [
+        "fool.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
+        "theglobeandmail.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors"
+      ],
+      "body": [
+        "fool.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Motley Fool",
+        "theglobeandmail.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRFRpeEhHaDJCOTZJVk9aS1dub0x5dEp5T3M1eHozSEQ3YkNWZGlWaGh5SS0zMTdOSHBTdEJfbzJRVE0wRmF3c0M4MnlMd2txb0NRb1hYMFU2c0tsZVZzM3JWc1h5S3pFZzRoXzBzZE5TX25BVzlMeGQtQ2c0c2M2SW9ELTFzNm1aOVdoczI3ampvQ3JnWkpUREp4dHZYOVRIY2NQLU00UktFQ3B1aW9JS2Rxa0VuVFZmM25FX09GRDNfZk1RNXRuNEQwTExNaTlVM1hkektCMnRuby0zQ29MZQ?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOcnZIZTh2ZFloc3dwdjgtZ2dMbmxCZEVwb0R0VTU3aHN5QWJXUTdnWkRlTWF5a21tXzBMNVljZkxoblB5TEFIQ29nTXNnU2c2dlI1b0NDT3pBcW5ya2FITXltR3BvUDRBUlJQWUlNQmpzWnZuX1NISzhadnEtaUNOb21OdnlUTllidGIxUmkyU1FFYmNkTFg0eURJY3NlWVNuenJhUTNqb3BzajZDOW5nQlplanhTZ0hUbENucGlDdjNNQXpvblQ4cmpnRHlSUG1YYUlvb2ktMkZVcDM5MW5RUHgtaU4yWkJIR1lmZ0lwYko1Q1VkVV94bC1fNm85ZFJsX2Z5NzhJR1ZSTkJk?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
+        "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors"
       ]
     },
     {
