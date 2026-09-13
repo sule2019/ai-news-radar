@@ -2,53 +2,8 @@
   "date": "2026-09-13",
   "stories": [
     {
-      "cat": "models",
-      "signal": 58,
-      "sources": 6,
-      "ts": "2026-09-13T15:57:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Trump dismisses AI leaders’ calls to slow down, citing Chinese competition",
-      "s": "Trump dismisses AI leaders’ calls to slow down, citing Chinese competition The Washington Post Trump says 'very negative forces' raising exaggerated concerns over AI Reuters Trump downplays AI risks a",
-      "b": [
-        "washingtonpost.com: Trump dismisses AI leaders’ calls to slow down, citing Chinese competition",
-        "thehill.com: Trump downplays AI warnings, citing competition with China"
-      ],
-      "body": [
-        "washingtonpost.com: Trump dismisses AI leaders’ calls to slow down, citing Chinese competition The Washington Post Trump says 'very negative forces' raising exaggerated concerns over AI Reuters Trump downplays AI risks after dire expert warnings and calls to slow development down BBC",
-        "thehill.com: Trump downplays AI warnings, citing competition with China The Hill"
-      ],
-      "l": [
-        {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Va0d5eEp4ZUxtaHRQMU9obnE2UDFYcjlYV05YclYwcXA5c00wQU9hVEphQmcwOWdMUTRjblNoS0d3Mm5qRGVsSHBzbmdwQU00aV9vcXpTYWpoUQ?oc=5"
-        },
-        {
-          "d": "thehill.com",
-          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PRVNRQXpmdm15TzNRWlpGYTlGakxyZzFrdnpXenFpUDZ1aEo4bUc1dmFKUlpKeUx6VVhzSTQ5OGVsa3pKQlpUZzJ0cGdwcmRCZWxwTjFjaGxtN05KOUxELUdUbUhDQldiZ0ZQcmtVb0RhMUgtLW9BY3A2MNIBgAFBVV95cUxNYXBMRkhhcWJfc1d3cllTZTdZbU1aTXhsa2JyNEJHYzNnU09MLW9hdHdwYW54VkNJcHBTU2I2cHRpWVRIcFVuRmlGdTJHQ19Sc28zUTE1V2J1WWdBSl9TQ25CM0JvWDlMa1FpOU5OZl9sdndBVk96c2lybWRJQ3ZlbQ?oc=5"
-        },
-        {
-          "d": "apnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5"
-        },
-        {
-          "d": "washingtontimes.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR2ZCbkNTemp5cE5XaWhuZ1J3WVJCaVd4M1lmM2Z4X0swUlVydjcyaEtZZTk3S0Z2a0I5TXZ2ckxReGtpRkJ0VHZPZmtFRTluWjZkeFd6cWRLOUhYdHRmMHVnZUlpd3FFdHVvMGtxbFREVklaZzBGNkZVSlREVWhqbHZFRXZabElCZUM1RERyNXZZNTFxVW5ncUVad0RuME40OWE5OE9XTTBUcTJzSVZj?oc=5"
-        },
-        {
-          "d": "+2"
-        }
-      ],
-      "srcTitles": [
-        "Trump downplays AI risks after dire expert warnings and calls to slow development down",
-        "Trump downplays AI warnings, citing competition with China",
-        "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
-        "Congress scrambles on AI rules as Trump presses for edge over China"
-      ]
-    },
-    {
       "cat": "policy",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-09-13T13:55:00.000Z",
       "writtenSources": 2,
@@ -80,7 +35,52 @@
     },
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 34,
+      "sources": 5,
+      "ts": "2026-09-13T15:57:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Trump dismisses AI leaders’ calls to slow down, citing Chinese competition",
+      "s": "Trump dismisses AI leaders’ calls to slow down, citing Chinese competition The Washington Post Trump says 'very negative forces' raising exaggerated concerns over AI Reuters Trump downplays AI risks a",
+      "b": [
+        "washingtonpost.com: Trump dismisses AI leaders’ calls to slow down, citing Chinese competition",
+        "thehill.com: Trump downplays AI warnings, citing competition with China"
+      ],
+      "body": [
+        "washingtonpost.com: Trump dismisses AI leaders’ calls to slow down, citing Chinese competition The Washington Post Trump says 'very negative forces' raising exaggerated concerns over AI Reuters Trump downplays AI risks after dire expert warnings and calls to slow development down BBC",
+        "thehill.com: Trump downplays AI warnings, citing competition with China The Hill"
+      ],
+      "l": [
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Va0d5eEp4ZUxtaHRQMU9obnE2UDFYcjlYV05YclYwcXA5c00wQU9hVEphQmcwOWdMUTRjblNoS0d3Mm5qRGVsSHBzbmdwQU00aV9vcXpTYWpoUQ?oc=5"
+        },
+        {
+          "d": "thehill.com",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9PRVNRQXpmdm15TzNRWlpGYTlGakxyZzFrdnpXenFpUDZ1aEo4bUc1dmFKUlpKeUx6VVhzSTQ5OGVsa3pKQlpUZzJ0cGdwcmRCZWxwTjFjaGxtN05KOUxELUdUbUhDQldiZ0ZQcmtVb0RhMUgtLW9BY3A2MNIBgAFBVV95cUxNYXBMRkhhcWJfc1d3cllTZTdZbU1aTXhsa2JyNEJHYzNnU09MLW9hdHdwYW54VkNJcHBTU2I2cHRpWVRIcFVuRmlGdTJHQ19Sc28zUTE1V2J1WWdBSl9TQ25CM0JvWDlMa1FpOU5OZl9sdndBVk96c2lybWRJQ3ZlbQ?oc=5"
+        },
+        {
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5"
+        },
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNHhaZDdmSnhhVGNfeWtDNVlxaHlCS0hyVE9VcmNQeU5JVUQtNldVZnBidjlrWVdPY3NuNElYbjZhUi1DdDd4SFU3VkRBakdwRGxZX0pjLXA0OWZBOEJFeXVlNi1ZT05MaWwwUDdSc3V5NjQyMzAyNDRBeFIya1Y3d3FYMlEzYnBpR0lDSzdlbkhrV2ZKT0hLTQ?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "Trump downplays AI risks after dire expert warnings and calls to slow development down",
+        "Trump downplays AI warnings, citing competition with China",
+        "Trump downplays the need to check AI development and says he doesn't want to cede edge to China",
+        "Is it possible to slow down the development of AI?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 34,
       "sources": 2,
       "ts": "2026-09-13T15:42:41.000Z",
       "writtenSources": 2,
@@ -101,18 +101,18 @@
           "u": "https://www.techmeme.com/260913/p9#a260913p9"
         },
         {
-          "d": "ft.com",
-          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVGpIWkFrLXNOMW52MlJQZno3UmNCMU5jMFVaNjRoOUZDSU1Hc2Q5MzRFaTd5ckVPS2FwR2hmVkNqRDhhcEYtZGxjNUhOLUZDWWR1YzBGY0dYYVI1ek5NVFd2d3hLNzlrN1JnbkE0Wmo5a3R1SUhJaHNzLWJ1Yk1Ib3lvc3A?oc=5"
+          "d": "asia.nikkei.com",
+          "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQWp6STRDemIyR1o5Y19jNkxzSUF6ZUlZc0ZJOEVEa1F6alNicW1rRW5JbmVKTjVOaDFIMDVTdnBiTkxmaWZiOEE1dVl3QVk4a1RET2F6QWkxa0l2bFh6d0xaWWdoTDExZnRmdGpjVXJrR21MN1lpeVNjbk1HYl9TTzIzaUltZEFaV2xLNlg2eUJ1SjFUMEdtT1RMOFlUaEE2TnNzNWVITEFrOFBYdC1mWTFWcU5abVhFLXZOZnJZdjh3czkxMExzX3VWdURERU1FQUE?oc=5"
         }
       ],
       "srcTitles": [
         "President Trump dismisses calls for an AI slowdown, saying \"you have a lot of negative forces that are bringing it up that shouldn't be bringing it up\" (Myles McCormick/Financial Times)",
-        "Donald Trump rejects calls from tech bosses for an AI slowdown"
+        "Trump says 'very negative forces' raising exaggerated concerns over AI"
       ]
     },
     {
       "cat": "funding",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-09-13T04:23:50.000Z",
       "writtenSources": 2,
@@ -144,7 +144,7 @@
     },
     {
       "cat": "funding",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-13T05:05:05.000Z",
       "writtenSources": 2,
