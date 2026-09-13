@@ -2,8 +2,104 @@
   "date": "2026-09-13",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-09-13T13:55:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Speaker Johnson says AI leaders must meet with Congress on safety laws after 'end of humanity' warnings",
+      "s": "Speaker Johnson says AI leaders must meet with Congress on safety laws after 'end of humanity' warnings New York Post",
+      "b": [
+        "nypost.com: Speaker Johnson says AI leaders must meet with Congress on safety laws after 'end of humanity' warnings",
+        "tmz.com: Speaker Mike Johnson Calls for A.I. Safety Laws as Experts Warn of 'End of Humanity'"
+      ],
+      "body": [
+        "nypost.com: Speaker Johnson says AI leaders must meet with Congress on safety laws after 'end of humanity' warnings New York Post",
+        "tmz.com: Speaker Mike Johnson Calls for A.I. Safety Laws as Experts Warn of 'End of Humanity' TMZ"
+      ],
+      "l": [
+        {
+          "d": "nypost.com",
+          "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQm9rLVZDekdOWFJMOU5MeTlWY0tyRl9rMllXdXNROVFpZGR6Wm9sSEtlb3Nqc0RZQmNQS055ZmNwV3Brd2M3d2s0cnhENlFfMUZrMVBTME41SS1qdkVDNDlpdy04S2trUGY1Wmt5SUhCaXVUV1FVYVBvUnVOMTdpQkc1ZnRmeUI2OTdNOXFvZDlHelI2UTNSTHpVSDJQdGt3M0VSMWt2a0xCNzdWd1d1ZHpNbW9ETEVtUEtCVmU2M21mYlJqZEg2Q2RWTm53U2xxVzkyeWl4Yw?oc=5"
+        },
+        {
+          "d": "tmz.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVhyNFp4emFqd0w0WHViMzlLR1pWZk9KZlZzSFJPeHJpanpSdXd1SlA3a3FlMVFjWWRJdVBBaXFQSmkwNWVUSjlXVXExWHo5Q2pBaXpUcHJaOVA5M3F2OWpTTjJacFRSYmE2clJ3Nmotdm5Jc0xkbV9TVjB2eVFoZ0VZV0g1SDJwTEpnZ05nTQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Speaker Johnson says AI leaders must meet with Congress on safety laws after 'end of humanity' warnings",
+        "Speaker Mike Johnson Calls for A.I. Safety Laws as Experts Warn of 'End of Humanity'"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-13T05:05:05.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
+      "s": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Motley Fool",
+      "b": [
+        "fool.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
+        "theglobeandmail.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors"
+      ],
+      "body": [
+        "fool.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Motley Fool",
+        "theglobeandmail.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRFRpeEhHaDJCOTZJVk9aS1dub0x5dEp5T3M1eHozSEQ3YkNWZGlWaGh5SS0zMTdOSHBTdEJfbzJRVE0wRmF3c0M4MnlMd2txb0NRb1hYMFU2c0tsZVZzM3JWc1h5S3pFZzRoXzBzZE5TX25BVzlMeGQtQ2c0c2M2SW9ELTFzNm1aOVdoczI3ampvQ3JnWkpUREp4dHZYOVRIY2NQLU00UktFQ3B1aW9JS2Rxa0VuVFZmM25FX09GRDNfZk1RNXRuNEQwTExNaTlVM1hkektCMnRuby0zQ29MZQ?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOcnZIZTh2ZFloc3dwdjgtZ2dMbmxCZEVwb0R0VTU3aHN5QWJXUTdnWkRlTWF5a21tXzBMNVljZkxoblB5TEFIQ29nTXNnU2c2dlI1b0NDT3pBcW5ya2FITXltR3BvUDRBUlJQWUlNQmpzWnZuX1NISzhadnEtaUNOb21OdnlUTllidGIxUmkyU1FFYmNkTFg0eURJY3NlWVNuenJhUTNqb3BzajZDOW5nQlplanhTZ0hUbENucGlDdjNNQXpvblQ4cmpnRHlSUG1YYUlvb2ktMkZVcDM5MW5RUHgtaU4yWkJIR1lmZ0lwYko1Q1VkVV94bC1fNm85ZFJsX2Z5NzhJR1ZSTkJk?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
+        "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-13T04:23:50.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant",
+      "s": "BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant The Motley Fool",
+      "b": [
+        "fool.com: BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant",
+        "theglobeandmail.com: BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant"
+      ],
+      "body": [
+        "fool.com: BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant The Motley Fool",
+        "theglobeandmail.com: BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPRndUeUI1WHhtbU5vVnExNGpHTGl4ZTU5ZHZ2dnFrMmRMZ3Y0d09XdVdENjU1WkgtUmd0QjNOcEJldnFrWmtLeFdDbE91NloxZnZfWFNMTGROVkpJeDF4TTlLMDNsZ3Y0clpZVGQwOTV6emRRZEFydlBvMV9OdUtTd2NtQnBYODhQVmlzZWJzdVF5a2tESmtPTjZUaFZjWDZrWmxPREt0OE9KWlVYNWlvajQ4UWp0MXYwWGxKeDZUVHNSdjlkSE80U2V0bElzNHNEUm1wYUkwQ2k1T1h4WFM0V2gyRVY0X01SNXZxWHJjOUdwdVpKSHB5THpNMFk?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQMUhJTEJLVWtwTjdESTVPOFl5YktOU3RKSGNZaVJRUWcxR1A2REdXYWZrVDc4eTROVGNPM2E5MWhiMi1mTHJKZl9oVUxtM1NKODAyaElUbURza1oyOHpTRkUwVng2djRVd0o4OWFqM2E3UlFfbmRDZTNmM3EyT0IwZDRxcTNUUU5lRndCRnpDdlN2UERISlZXdnJfWHBQdlM4OVk2cnVEcTNrYkVWdmhTN2hDSkctOUFnbG5pRHJqYzRaRWhmRDhUQlBtNXFfQUdHX1dxQXJlNUxGbWhXVHQ4dHR4RXJNdFdBRG93RTFpYXJiVXpiTWdUOGxybmV0OUo0S25DRGN5WUdTWWpVTVNLcDAzWGJVUEgxTTdqNVY0QkdxZDVzWlNvWQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant",
+        "BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-09-13T05:27:00.000Z",
       "writtenSources": 2,
