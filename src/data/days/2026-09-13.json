@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 35,
+      "signal": 31,
       "sources": 2,
       "ts": "2026-09-13T13:55:00.000Z",
       "writtenSources": 2,
@@ -35,7 +35,7 @@
     },
     {
       "cat": "models",
-      "signal": 34,
+      "signal": 30,
       "sources": 5,
       "ts": "2026-09-13T15:57:00.000Z",
       "writtenSources": 2,
@@ -80,7 +80,7 @@
     },
     {
       "cat": "models",
-      "signal": 34,
+      "signal": 30,
       "sources": 2,
       "ts": "2026-09-13T15:42:41.000Z",
       "writtenSources": 2,
@@ -112,7 +112,7 @@
     },
     {
       "cat": "funding",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-13T04:23:50.000Z",
       "writtenSources": 2,
@@ -140,38 +140,6 @@
       "srcTitles": [
         "BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant",
         "BigBear.ai vs. IonQ: Weighing Whether to Invest in the Artificial Intelligence Company or the Quantum Computing Giant"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 18,
-      "sources": 2,
-      "ts": "2026-09-13T05:05:05.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
-      "s": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Motley Fool",
-      "b": [
-        "fool.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
-        "theglobeandmail.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors"
-      ],
-      "body": [
-        "fool.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Motley Fool",
-        "theglobeandmail.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Globe and Mail"
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRFRpeEhHaDJCOTZJVk9aS1dub0x5dEp5T3M1eHozSEQ3YkNWZGlWaGh5SS0zMTdOSHBTdEJfbzJRVE0wRmF3c0M4MnlMd2txb0NRb1hYMFU2c0tsZVZzM3JWc1h5S3pFZzRoXzBzZE5TX25BVzlMeGQtQ2c0c2M2SW9ELTFzNm1aOVdoczI3ampvQ3JnWkpUREp4dHZYOVRIY2NQLU00UktFQ3B1aW9JS2Rxa0VuVFZmM25FX09GRDNfZk1RNXRuNEQwTExNaTlVM1hkektCMnRuby0zQ29MZQ?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOcnZIZTh2ZFloc3dwdjgtZ2dMbmxCZEVwb0R0VTU3aHN5QWJXUTdnWkRlTWF5a21tXzBMNVljZkxoblB5TEFIQ29nTXNnU2c2dlI1b0NDT3pBcW5ya2FITXltR3BvUDRBUlJQWUlNQmpzWnZuX1NISzhadnEtaUNOb21OdnlUTllidGIxUmkyU1FFYmNkTFg0eURJY3NlWVNuenJhUTNqb3BzajZDOW5nQlplanhTZ0hUbENucGlDdjNNQXpvblQ4cmpnRHlSUG1YYUlvb2ktMkZVcDM5MW5RUHgtaU4yWkJIR1lmZ0lwYko1Q1VkVV94bC1fNm85ZFJsX2Z5NzhJR1ZSTkJk?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
-        "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors"
       ]
     },
     {
@@ -204,6 +172,38 @@
       "srcTitles": [
         "Obama Voices Caution on AI, Urges Democrats to Tackle It, NYT Says",
         "Obama voices caution on AI, urges Democrats to tackle it, NYT says"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-09-13T05:05:05.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
+      "s": "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Motley Fool",
+      "b": [
+        "fool.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
+        "theglobeandmail.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors"
+      ],
+      "body": [
+        "fool.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Motley Fool",
+        "theglobeandmail.com: C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRFRpeEhHaDJCOTZJVk9aS1dub0x5dEp5T3M1eHozSEQ3YkNWZGlWaGh5SS0zMTdOSHBTdEJfbzJRVE0wRmF3c0M4MnlMd2txb0NRb1hYMFU2c0tsZVZzM3JWc1h5S3pFZzRoXzBzZE5TX25BVzlMeGQtQ2c0c2M2SW9ELTFzNm1aOVdoczI3ampvQ3JnWkpUREp4dHZYOVRIY2NQLU00UktFQ3B1aW9JS2Rxa0VuVFZmM25FX09GRDNfZk1RNXRuNEQwTExNaTlVM1hkektCMnRuby0zQ29MZQ?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOcnZIZTh2ZFloc3dwdjgtZ2dMbmxCZEVwb0R0VTU3aHN5QWJXUTdnWkRlTWF5a21tXzBMNVljZkxoblB5TEFIQ29nTXNnU2c2dlI1b0NDT3pBcW5ya2FITXltR3BvUDRBUlJQWUlNQmpzWnZuX1NISzhadnEtaUNOb21OdnlUTllidGIxUmkyU1FFYmNkTFg0eURJY3NlWVNuenJhUTNqb3BzajZDOW5nQlplanhTZ0hUbENucGlDdjNNQXpvblQ4cmpnRHlSUG1YYUlvb2ktMkZVcDM5MW5RUHgtaU4yWkJIR1lmZ0lwYko1Q1VkVV94bC1fNm85ZFJsX2Z5NzhJR1ZSTkJk?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors",
+        "C3.ai vs. UiPath: What Revenue Trends Between These Artificial Intelligence Companies Tell Investors"
       ]
     }
   ]
