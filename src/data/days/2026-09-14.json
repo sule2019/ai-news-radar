@@ -2,6 +2,86 @@
   "date": "2026-09-14",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 69,
+      "sources": 9,
+      "ts": "2026-09-14T01:04:20.000Z",
+      "writtenSources": 9,
+      "draft": true,
+      "h": "DevFest is back",
+      "s": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "b": [
+        "blog.google: DevFest is back",
+        "arxiv.org: Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation",
+        "nytimes.com: What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown"
+      ],
+      "body": [
+        "blog.google: DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+        "arxiv.org: arXiv:2510.18019v3 Announce Type: replace-cross Abstract: Multilingual watermarking aims to make large language model (LLM) outputs traceable across languages, yet current methods still fall short. Despite claims of cross-lingual robustness, they are evaluated only on high-resource languages. We show that existing multilingual watermarking methods are not truly multilingual: they fail to remain robust under translation attacks in medium- and low-resource languages. We trace this failure to semantic clustering, which fails when the tokenizer vocabulary contains too few full-word tokens for a given language. To address this, we introduce STEAM, a detection method that uses Bayesian optimisation to search among 126 candidate languages for the back-translation that best recovers the watermark strength. It is compatible with any watermarking method, robust across different tokenizers and languages, non-invasive, and easily extendable to new languages. With average gains of +0.23 AUC and +37%p TPR@1%, STEAM provides a scalable approach toward fairer watermarking across the diversity of languages.",
+        "nytimes.com: What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown The New York Times AI CEOs say they need to slow the pace of development. But will they? The Guardian Tech leaders urge limits on AI development amid warnings WJLA",
+        "democracynow.org: Anthropic’s CEO Calls for the Development of Artificial Intelligence to Slowdown Democracy Now!"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2510.18019"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5"
+        },
+        {
+          "d": "democracynow.org",
+          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVW45alFWbWhhdGJqR0c4U2taalRQVkdFLThtZWFfWEJiR1Z4WnVReEZJaXF0UURSdVVxdGJlVmEtSHJCOXBFTzFwbzd5Yk9SZlZuMnBzMmZTbnpHejRtNmFkNU9GQWtWSm56Rk5hd3dMVWo3XzBFR0FLTnljb29PQ29SeVc3aVdOcjlIcEgxeFFIZVM3NEVBSF9rREJIUVg5ajV5ay1zazZUWlpPVUE5MUpjSW9IR0IyRWoyRGt0TVNickMzRVh6Mw?oc=5"
+        },
+        {
+          "d": "+5"
+        }
+      ],
+      "srcTitles": [
+        "DevFest is back",
+        "Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation",
+        "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
+        "Anthropic’s CEO Calls for the Development of Artificial Intelligence to Slowdown"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-14T17:15:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+      "s": "As previously announced, Apple has today released 2026's major annual updates for its operating systems, including iOS 27, macOS 27 Golden Gate, watchOS 27, visionOS 27, and tvOS 27. Siri AI—a large l",
+      "b": [
+        "arstechnica.com: Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+        "techmeme.com: Apple rolls out iOS 27, watchOS 27, iPadOS 27, visionOS 27, and macOS 27 Golden Gate, all with Siri AI (Tom Warren/The Verge)"
+      ],
+      "body": [
+        "arstechnica.com: As previously announced, Apple has today released 2026's major annual updates for its operating systems, including iOS 27, macOS 27 Golden Gate, watchOS 27, visionOS 27, and tvOS 27. Siri AI—a large language model-based and context-aware overhaul of the company's Siri voice and text assistant—is the flagship feature across all these releases except one (tvOS). Read full article Comments",
+        "techmeme.com: Tom Warren / The Verge : Apple rolls out iOS 27, watchOS 27, iPadOS 27, visionOS 27, and macOS 27 Golden Gate, all with Siri AI watchOS 27, iPadOS 27, and visionOS 27 also debut today. Apple is now rolling out its iOS 27 update to compatible devices today, alongside the watchOS 27, iPadOS 27, and visionOS 27 updates."
+      ],
+      "l": [
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/apple/2026/09/apple-releases-ios-27-macos-golden-gate-27-with-siri-ai-and-liquid-glass-refinements/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260914/p27#a260914p27"
+        }
+      ],
+      "srcTitles": [
+        "Apple releases iOS 27, macOS Golden Gate 27 with Siri AI and Liquid Glass refinements",
+        "Apple rolls out iOS 27, watchOS 27, iPadOS 27, visionOS 27, and macOS 27 Golden Gate, all with Siri AI (Tom Warren/The Verge)"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 59,
       "sources": 2,
@@ -99,7 +179,7 @@
     },
     {
       "cat": "models",
-      "signal": 43,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-09-14T11:56:12.000Z",
       "writtenSources": 2,
@@ -131,8 +211,8 @@
     },
     {
       "cat": "products",
-      "signal": 37,
-      "sources": 5,
+      "signal": 35,
+      "sources": 4,
       "ts": "2026-09-14T15:10:16.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -165,9 +245,6 @@
         {
           "d": "dw.com",
           "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUlhfSjBHT0tsN3F3VDg5aDZtQUpjQWlzM252LVVINnpBdnI0S1ZsbHNqbTg0Qmk5cDF1OWhVZGZLWHBUMWJnUUYtbnhlQmlweWt6eXdyU3QzSkF6RWVESUtTYUp1dU5jVEUtc0NXQnFNU1BnQUdNZVhhTHR1Ykd5LVJjTE5yUUFna0VGMtIBjAFBVV95cUxONEpUUHFGRFEwb3ZyYVhhMGo4eDZmV2J3Mi16S0lGT21zRDd6QmlvUG5wMno0dXQzZkkxSDk5Yi13UDJkWkZReTJiVWppQlRTZUxINDktYW5pYzZReDNWajA0U2pqM3hjV1p0MDVCQW04Rjd0amswZU1oc2x2TzVuUElKTlNxVHB4U3VrTQ?oc=5"
-        },
-        {
-          "d": "+1"
         }
       ],
       "srcTitles": [
@@ -207,38 +284,6 @@
       "srcTitles": [
         "Rogue AI fears spur calls for guardrails & new legislation",
         "Rogue AI fears spur calls for guardrails & new legislation"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 32,
-      "sources": 2,
-      "ts": "2026-09-14T18:06:30.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’",
-      "s": "Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’ The Irish Times",
-      "b": [
-        "irishtimes.com: Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’",
-        "news.sky.com: Why is Donald Trump dismissing fears about artificial intelligence?"
-      ],
-      "body": [
-        "irishtimes.com: Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’ The Irish Times",
-        "news.sky.com: Why is Donald Trump dismissing fears about artificial intelligence? Sky News"
-      ],
-      "l": [
-        {
-          "d": "irishtimes.com",
-          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjVYM2NmaHhRajZ6X0lUZ29XZVkzMHVpbWNBNDVKT0JXM2R2NXAzaldQV29BS1NnSno4UmFUck95Sy1laTIxYnJkZ0ZaUDhCYm5ZZTRKMjFLY2xJWmlmanhVQmluaEdJNnV2cUxwWUgwYXhwSjA3S2JSQUhpSGowZjN6T2VWYzRWbWtLdFZSeDhxS0J6S2lKd1hlUzdTZ3hlVndXN0luTEQwUHlqQmlIcS1pbm04X1VuSDR2NmM5TkdIOUxKT0hGZnlBLVVrd3Vj?oc=5"
-        },
-        {
-          "d": "news.sky.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQVh4djFmMThCSW5tZHc1c2diU2ViNkxsMjRva296S3l6aFRDdlhBQmRMQUc0NDF1aDZwU2dSLUpoaUhuNENCdUFLZnlXX3E1ZHhhTW9LSV9odmNEWDV5eDR0QW9Hb3ZCQkZGQk5JOWdCXzJIcENBRS1MTVZKN0M5NVBpM3EwbGgzSDY2cjVNWFFocHk0UVJCYXRfdDRkc2V2RkpMNQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’",
-        "Why is Donald Trump dismissing fears about artificial intelligence?"
       ]
     },
     {
@@ -296,6 +341,38 @@
       "srcTitles": [
         "Trump says AI doesn’t need guardrails, only a ‘high IQ’ president",
         "Trump says only AI regulation needed is 'high IQ' president"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 28,
+      "sources": 2,
+      "ts": "2026-09-14T18:06:30.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’",
+      "s": "Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’ The Irish Times",
+      "b": [
+        "irishtimes.com: Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’",
+        "news.sky.com: Why is Donald Trump dismissing fears about artificial intelligence?"
+      ],
+      "body": [
+        "irishtimes.com: Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’ The Irish Times",
+        "news.sky.com: Why is Donald Trump dismissing fears about artificial intelligence? Sky News"
+      ],
+      "l": [
+        {
+          "d": "irishtimes.com",
+          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjVYM2NmaHhRajZ6X0lUZ29XZVkzMHVpbWNBNDVKT0JXM2R2NXAzaldQV29BS1NnSno4UmFUck95Sy1laTIxYnJkZ0ZaUDhCYm5ZZTRKMjFLY2xJWmlmanhVQmluaEdJNnV2cUxwWUgwYXhwSjA3S2JSQUhpSGowZjN6T2VWYzRWbWtLdFZSeDhxS0J6S2lKd1hlUzdTZ3hlVndXN0luTEQwUHlqQmlIcS1pbm04X1VuSDR2NmM5TkdIOUxKT0hGZnlBLVVrd3Vj?oc=5"
+        },
+        {
+          "d": "news.sky.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQVh4djFmMThCSW5tZHc1c2diU2ViNkxsMjRva296S3l6aFRDdlhBQmRMQUc0NDF1aDZwU2dSLUpoaUhuNENCdUFLZnlXX3E1ZHhhTW9LSV9odmNEWDV5eDR0QW9Hb3ZCQkZGQk5JOWdCXzJIcENBRS1MTVZKN0M5NVBpM3EwbGgzSDY2cjVNWFFocHk0UVJCYXRfdDRkc2V2RkpMNQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’",
+        "Why is Donald Trump dismissing fears about artificial intelligence?"
       ]
     },
     {
