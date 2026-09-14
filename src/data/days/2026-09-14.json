@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 52,
-      "sources": 1,
+      "signal": 58,
+      "sources": 2,
       "ts": "2026-09-14T00:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
@@ -20,10 +20,17 @@
         {
           "d": "openai.com",
           "u": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2602.09490"
         }
       ],
       "srcTitles": [
-        "Perplexity trusts GPT-6 Astra with end-to-end systems"
+        "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "Robust Trust",
+        "Can We Trust LLM Judges: A Study of Capability-Dependent Biases and Multi-Judge Ensemble for Bias Calibration",
+        "GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction"
       ]
     }
   ]
