@@ -3,6 +3,38 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-09-14T13:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Microsoft says ‘people matter more than AI’ following safety concerns",
+      "s": "Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI developm",
+      "b": [
+        "theverge.com: Microsoft says ‘people matter more than AI’ following safety concerns",
+        "techmeme.com: Microsoft publishes a 37-page \"humanist AI code of conduct\", establishing that \"people matter more than AI\", rejecting legal personhood for AI, and more (Tom Warren/The Verge)"
+      ],
+      "body": [
+        "theverge.com: Microsoft is publishing a 37-page \"humanist AI code of conduct\" today, amid growing safety concerns over AI model progress. Anthropic CEO Dario Amodei called for a coordinated slow down of AI development over the weekend, after researchers warned recently that AI model progress could outpace our ability to safely deploy increasingly complex systems and verify [ ]",
+        "techmeme.com: Tom Warren / The Verge : Microsoft publishes a 37-page humanist AI code of conduct , establishing that people matter more than AI , rejecting legal personhood for AI, and more Microsoft has created a humanist AI code of conduct in response to safety concerns."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260914/p15#a260914p15"
+        }
+      ],
+      "srcTitles": [
+        "Microsoft says ‘people matter more than AI’ following safety concerns",
+        "Microsoft publishes a 37-page \"humanist AI code of conduct\", establishing that \"people matter more than AI\", rejecting legal personhood for AI, and more (Tom Warren/The Verge)"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 58,
       "sources": 2,
       "ts": "2026-09-14T00:00:00.000Z",
@@ -31,6 +63,38 @@
         "Robust Trust",
         "Can We Trust LLM Judges: A Study of Capability-Dependent Biases and Multi-Judge Ensemble for Bias Calibration",
         "GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-09-14T11:56:12.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate",
+      "s": "New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate 6abc Philadelphia",
+      "b": [
+        "6abc.com: New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate",
+        "newson6.com: New warnings about the risks of AI to humanity reignite long-running debate"
+      ],
+      "body": [
+        "6abc.com: New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate 6abc Philadelphia",
+        "newson6.com: New warnings about the risks of AI to humanity reignite long-running debate News On 6"
+      ],
+      "l": [
+        {
+          "d": "6abc.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX0JQMi11NUhONTRpQUFkeHF2eTYyXzRVTloxWU1pakZLYnBoZDkxZ201WVk0dEVuWTdPSDV1WFBlRzFFU21jODY5UUdlcTltLWgzbzd1cndxNHV6SWFlbm92bmI5YlZKSFJMVVN0eEluU2ZOTXpfQmFPM29PbHJQeFVWS0NNYlNzRGozUEFvbEhXd29DYU1xWnU2b1pkMkV6R0stRGxaQWZsMDNPZllMTdIBtgFBVV95cUxQUjcxUzFXbWJvMVZZN1IydUpaUzRpMHBoZzVDTFZEbWFaMmxxWThQVE9PX1RIRTQtQmdUS2pVb1dWRVNMdG5LT1czMnhvQmFhTkxLUEFEdGI3MTJRdkxqeTNkOFJpREVlcHZPdFJ6Q1VlR1F2Z0l6ZDZVRFM1MXZhdDZhTHpfZEZnUEdmTURHd1JFZFQ2RDBwN0lUd1BwUExPTkdYOWI1TWVmaTRoeUNQVDNmYU53QQ?oc=5"
+        },
+        {
+          "d": "newson6.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0tPcDNFajZiQWkzVHlhc2ZuRHQ5LVlYV2phZGh4YkJ4UnYtYXRpWlRYUGx5SzkxaFR1WmRrV28yRUZLVmljTUZhZUVkX2JlMURLRlIzVm5iU0pncmw3bWJRTWI3N3NwZXdXLWFVMHA3ZU9qWkdvaDlYdXdtNFExb2lmUHRBbnotTmNraGozNEliYmNOQWthUWVlRm1DS2dGWWZWTHFuUlUyd29l?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate",
+        "New warnings about the risks of AI to humanity reignite long-running debate"
       ]
     }
   ]
