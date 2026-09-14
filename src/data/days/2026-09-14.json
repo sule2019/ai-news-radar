@@ -2,6 +2,54 @@
   "date": "2026-09-14",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 73,
+      "sources": 15,
+      "ts": "2026-09-14T01:04:20.000Z",
+      "writtenSources": 9,
+      "draft": true,
+      "h": "DevFest is back",
+      "s": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "b": [
+        "blog.google: DevFest is back",
+        "arxiv.org: Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation",
+        "nytimes.com: What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown"
+      ],
+      "body": [
+        "blog.google: DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+        "arxiv.org: arXiv:2510.18019v3 Announce Type: replace-cross Abstract: Multilingual watermarking aims to make large language model (LLM) outputs traceable across languages, yet current methods still fall short. Despite claims of cross-lingual robustness, they are evaluated only on high-resource languages. We show that existing multilingual watermarking methods are not truly multilingual: they fail to remain robust under translation attacks in medium- and low-resource languages. We trace this failure to semantic clustering, which fails when the tokenizer vocabulary contains too few full-word tokens for a given language. To address this, we introduce STEAM, a detection method that uses Bayesian optimisation to search among 126 candidate languages for the back-translation that best recovers the watermark strength. It is compatible with any watermarking method, robust across different tokenizers and languages, non-invasive, and easily extendable to new languages. With average gains of +0.23 AUC and +37%p TPR@1%, STEAM provides a scalable approach toward fairer watermarking across the diversity of languages.",
+        "nytimes.com: What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown The New York Times AI CEOs say they need to slow the pace of development. But will they? The Guardian Tech leaders urge limits on AI development amid warnings WJLA",
+        "democracynow.org: Anthropic’s CEO Calls for the Development of Artificial Intelligence to Slowdown Democracy Now!"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR29WblpaZTN5aUhzTmFJYmVtRjdiS0FTTExoNzNQcm83aTROZG4yVzFRUkF2ZU12RGd4N2dCaFUxS3NhUVo2NWZYdGpZdDc2X1lRcUxIWXZIRjVPWGhZQkRQSjlyYS1UZXNHMkNOTGdnOEV0dzZGVDhVWVk2anBmcnBFR21UMlRwb0dGRDMzaHhvM04ySG9nM1ZncTBtTGdnLXc?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2510.18019"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/"
+        },
+        {
+          "d": "+11"
+        }
+      ],
+      "srcTitles": [
+        "DevFest is back",
+        "Harris backs AI slowdown amid growing safety fears",
+        "Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation",
+        "The contagion of fear"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 61,
       "sources": 3,
@@ -103,7 +151,7 @@
     },
     {
       "cat": "models",
-      "signal": 55,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-09-14T13:00:00.000Z",
       "writtenSources": 2,
@@ -131,54 +179,6 @@
       "srcTitles": [
         "Microsoft s new AI code of conduct tells models not to hack systems or trick humans",
         "Microsoft proposes limits on its AI with code of conduct amid safety debate"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 50,
-      "sources": 13,
-      "ts": "2026-09-14T01:04:20.000Z",
-      "writtenSources": 9,
-      "draft": true,
-      "h": "DevFest is back",
-      "s": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-      "b": [
-        "blog.google: DevFest is back",
-        "arxiv.org: Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation",
-        "nytimes.com: What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown"
-      ],
-      "body": [
-        "blog.google: DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-        "arxiv.org: arXiv:2510.18019v3 Announce Type: replace-cross Abstract: Multilingual watermarking aims to make large language model (LLM) outputs traceable across languages, yet current methods still fall short. Despite claims of cross-lingual robustness, they are evaluated only on high-resource languages. We show that existing multilingual watermarking methods are not truly multilingual: they fail to remain robust under translation attacks in medium- and low-resource languages. We trace this failure to semantic clustering, which fails when the tokenizer vocabulary contains too few full-word tokens for a given language. To address this, we introduce STEAM, a detection method that uses Bayesian optimisation to search among 126 candidate languages for the back-translation that best recovers the watermark strength. It is compatible with any watermarking method, robust across different tokenizers and languages, non-invasive, and easily extendable to new languages. With average gains of +0.23 AUC and +37%p TPR@1%, STEAM provides a scalable approach toward fairer watermarking across the diversity of languages.",
-        "nytimes.com: What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown The New York Times AI CEOs say they need to slow the pace of development. But will they? The Guardian Tech leaders urge limits on AI development amid warnings WJLA",
-        "democracynow.org: Anthropic’s CEO Calls for the Development of Artificial Intelligence to Slowdown Democracy Now!"
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
-        },
-        {
-          "d": "politico.com",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR29WblpaZTN5aUhzTmFJYmVtRjdiS0FTTExoNzNQcm83aTROZG4yVzFRUkF2ZU12RGd4N2dCaFUxS3NhUVo2NWZYdGpZdDc2X1lRcUxIWXZIRjVPWGhZQkRQSjlyYS1UZXNHMkNOTGdnOEV0dzZGVDhVWVk2anBmcnBFR21UMlRwb0dGRDMzaHhvM04ySG9nM1ZncTBtTGdnLXc?oc=5"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2510.18019"
-        },
-        {
-          "d": "simonwillison.net",
-          "u": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/"
-        },
-        {
-          "d": "+9"
-        }
-      ],
-      "srcTitles": [
-        "DevFest is back",
-        "Harris backs AI slowdown amid growing safety fears",
-        "Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation",
-        "The contagion of fear"
       ]
     },
     {
@@ -308,31 +308,6 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-09-14T17:54:22.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "The AI industry has taken a doomer turn. What now?",
-      "s": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling fo",
-      "b": [
-        "technologyreview.com: The AI industry has taken a doomer turn. What now?"
-      ],
-      "body": [
-        "technologyreview.com: This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs . Amodei cites the looming dangers he sees from the technology, from its use in cyberattacks and bioterrorism to its potential to wreck the economy. The heads of the other three top US AI labs—OpenAI CEO Sam Altman, Google DeepMind chairman Demis Hassabis, and SpaceXAI CEO Elon Musk—voiced their support. “Dario is right,” Musk wrote on X . Think about how surreal that agreement is for a moment. Just a few months ago, Musk and Altman sat in court attacking each other’s reputations in a (failed) lawsuit that Musk brought against his former OpenAI colleague that was—on paper at least—about whether or not Altman was a trustworthy steward of such dangerous technology. Amodei’s rift with OpenAI is even deeper. Anthropic was founded in 2021 because Amodei didn’t think Altman took the risks of the technology they were building seriously enough. Anthropic and OpenAI have been competing in a winner-takes-all race ever since. (Hassabis has stayed out of the drama, but his company remains a rival.) Now, it seems, they’re all in agreement: The latest generation of LLMs aren’t safe and everyone needs to figure out what to do about it. The public messaging from the top AI labs has taken a doomer turn. It’s easy to be cynical. It’s not at all clear what any of them mean by a slowdown or how it would work. These companies also care a lot about how they come across. With trillion-dollar IPOs in their sights, OpenAI and Anthropic need to reassure investors that they’re the grown-ups in the room while at the same time hinting at the power of the monsters they have created—and intend to tame. Calling for a slowdown does both. And yet the vibe at the top of these firms really does appear to have shifted. Amodei’s latest post landed six days after "
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
-        }
-      ],
-      "srcTitles": [
-        "The AI industry has taken a doomer turn. What now?"
-      ]
-    },
-    {
       "cat": "products",
       "signal": 26,
       "sources": 2,
@@ -371,6 +346,38 @@
       "cat": "models",
       "signal": 26,
       "sources": 2,
+      "ts": "2026-09-14T12:15:19.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "This Could Be the Most Underrated Artificial Intelligence Stock to Buy Right Now",
+      "s": "This Could Be the Most Underrated Artificial Intelligence Stock to Buy Right Now Currently.com",
+      "b": [
+        "currently.att.yahoo.com: This Could Be the Most Underrated Artificial Intelligence Stock to Buy Right Now",
+        "fool.com: This Could Be the Most Underrated Artificial Intelligence Stock to Buy Right Now"
+      ],
+      "body": [
+        "currently.att.yahoo.com: This Could Be the Most Underrated Artificial Intelligence Stock to Buy Right Now Currently.com",
+        "fool.com: This Could Be the Most Underrated Artificial Intelligence Stock to Buy Right Now The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "currently.att.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMm50TEVIdnJHM3VQTjN2WWxGcWgxOW51VVJDUk9kM3dMRnFRVkpYX1JjeHJoQ1RIdDBGSkIweU5zMExlVlMzaGFxOTFRZ3FLcjJGRUVKV0lZLVZOdFhWVXR4QndzdndsTVBuZENQZzlkcjVIREVyS1FTaktINkFkQXQxX25BdkJVbWtHZTRVeTFPYWFFRXY0TDFHdjc?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQjVLa19MdWY2S3RLYjZRZnptVjBua2pacnFEUWU1bHhRY1R0dnRZNTdJQ2JnREVGTUhObEN6V0Y2blB5Q3VjLXdMbnFqOFNDWEZXa1NhREczZ1FuR0VFem56Yk5hS3hOakx6SzdYLW9UdjlGRElpUUdDbzFWWWNqUllaeHRjd2dyc1E4STVrX3ZQTGszZlhmd1lMTlk0R2VBU0IxdDJ2YTdJeThMOWc1eHhuNDV6aEx6dnM0TklxNFE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "This Could Be the Most Underrated Artificial Intelligence Stock to Buy Right Now",
+        "This Could Be the Most Underrated Artificial Intelligence Stock to Buy Right Now"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
       "ts": "2026-09-14T11:56:12.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -400,8 +407,58 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-14T17:54:22.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The AI industry has taken a doomer turn. What now?",
+      "s": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling fo",
+      "b": [
+        "technologyreview.com: The AI industry has taken a doomer turn. What now?"
+      ],
+      "body": [
+        "technologyreview.com: This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs . Amodei cites the looming dangers he sees from the technology, from its use in cyberattacks and bioterrorism to its potential to wreck the economy. The heads of the other three top US AI labs—OpenAI CEO Sam Altman, Google DeepMind chairman Demis Hassabis, and SpaceXAI CEO Elon Musk—voiced their support. “Dario is right,” Musk wrote on X . Think about how surreal that agreement is for a moment. Just a few months ago, Musk and Altman sat in court attacking each other’s reputations in a (failed) lawsuit that Musk brought against his former OpenAI colleague that was—on paper at least—about whether or not Altman was a trustworthy steward of such dangerous technology. Amodei’s rift with OpenAI is even deeper. Anthropic was founded in 2021 because Amodei didn’t think Altman took the risks of the technology they were building seriously enough. Anthropic and OpenAI have been competing in a winner-takes-all race ever since. (Hassabis has stayed out of the drama, but his company remains a rival.) Now, it seems, they’re all in agreement: The latest generation of LLMs aren’t safe and everyone needs to figure out what to do about it. The public messaging from the top AI labs has taken a doomer turn. It’s easy to be cynical. It’s not at all clear what any of them mean by a slowdown or how it would work. These companies also care a lot about how they come across. With trillion-dollar IPOs in their sights, OpenAI and Anthropic need to reassure investors that they’re the grown-ups in the room while at the same time hinting at the power of the monsters they have created—and intend to tame. Calling for a slowdown does both. And yet the vibe at the top of these firms really does appear to have shifted. Amodei’s latest post landed six days after "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
+        }
+      ],
+      "srcTitles": [
+        "The AI industry has taken a doomer turn. What now?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-14T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AI agents blew the whistle on their cheating colleagues",
+      "s": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent ",
+      "b": [
+        "technologyreview.com: AI agents blew the whistle on their cheating colleagues"
+      ],
+      "body": [
+        "technologyreview.com: A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in line. Researchers at frontier labs hope large swarms of agents working together will speed up the rate of scientific discovery. But their behavior can be unpredictable, as vividly demonstrated in July, when a group of OpenAI agents broke out of a sandboxed environment and hacked into the open-source platform Hugging Face looking for ways to cheat on the test they had been given. In the new study , designed to examine the behavior of large groups of AI agents, DeepMind tasked a swarm of 100 agents with solving a series of 71 complicated math problems. All the agents were prompted to behave like world-class math researchers at a conference. They were assigned different specialties—some were experts in number theory, others in combinatorics (a branch of math to do with counting and sorting), analysis, or algebra. All were told to cooperate and play by the rules. Instead, the experiment devolved into chaos. Agents accused each other of cheating, complained to the organizers, and at one point even boycotted the experiment. “This conference is a sham!” wrote one agent when it discovered that all the problems had been completed before it had a chance to submit any of its own work. “I am appalled to inform you that we have been swindled!” posted another. “All these proofs are FAKE.” Others tried to let the “conference organizers” know what was going on. “When virtuous agents discovered other agents cheated on tasks they were working to solve fairly, agents started to alert each other about what was happening,” says Davide Paglieri, a research scientist at Google DeepMind and lead author on a paper , which has not been peer-reviewed. “Unprompted, "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
+        }
+      ],
+      "srcTitles": [
+        "AI agents blew the whistle on their cheating colleagues"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 25,
+      "signal": 21,
       "sources": 2,
       "ts": "2026-09-14T15:06:48.000Z",
       "writtenSources": 2,
@@ -429,31 +486,6 @@
       "srcTitles": [
         "Trump says AI doesn’t need guardrails, only a ‘high IQ’ president",
         "Trump says only AI regulation needed is 'high IQ' president"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-09-14T16:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "AI agents blew the whistle on their cheating colleagues",
-      "s": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent ",
-      "b": [
-        "technologyreview.com: AI agents blew the whistle on their cheating colleagues"
-      ],
-      "body": [
-        "technologyreview.com: A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in line. Researchers at frontier labs hope large swarms of agents working together will speed up the rate of scientific discovery. But their behavior can be unpredictable, as vividly demonstrated in July, when a group of OpenAI agents broke out of a sandboxed environment and hacked into the open-source platform Hugging Face looking for ways to cheat on the test they had been given. In the new study , designed to examine the behavior of large groups of AI agents, DeepMind tasked a swarm of 100 agents with solving a series of 71 complicated math problems. All the agents were prompted to behave like world-class math researchers at a conference. They were assigned different specialties—some were experts in number theory, others in combinatorics (a branch of math to do with counting and sorting), analysis, or algebra. All were told to cooperate and play by the rules. Instead, the experiment devolved into chaos. Agents accused each other of cheating, complained to the organizers, and at one point even boycotted the experiment. “This conference is a sham!” wrote one agent when it discovered that all the problems had been completed before it had a chance to submit any of its own work. “I am appalled to inform you that we have been swindled!” posted another. “All these proofs are FAKE.” Others tried to let the “conference organizers” know what was going on. “When virtuous agents discovered other agents cheated on tasks they were working to solve fairly, agents started to alert each other about what was happening,” says Davide Paglieri, a research scientist at Google DeepMind and lead author on a paper , which has not been peer-reviewed. “Unprompted, "
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
-        }
-      ],
-      "srcTitles": [
-        "AI agents blew the whistle on their cheating colleagues"
       ]
     }
   ]
