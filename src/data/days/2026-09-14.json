@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 64,
+      "signal": 59,
       "sources": 2,
       "ts": "2026-09-14T13:00:00.000Z",
       "writtenSources": 2,
@@ -20,17 +20,17 @@
       ],
       "l": [
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/news/994566/microsoft-humanist-ai-code-of-conduct"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/14/microsofts-new-ai-code-of-conduct-tells-models-not-to-hack-systems-or-trick-humans/"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260914/p15#a260914p15"
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMF81Vk0wWUpXVUh3X0QtMzU1dGt1TlRUWDdxenB1Vmt2UHNjTkdOUmJ3RkFkSGhJRnBSeUMySERuOEpURERqa3ZhN3ZFbWs1aFc3OHR4d1JoSjVaM3dHcDdZc3RiSjRZRUZ6cFRKZzFnZWhXZUNRemlLdTdHZGhyY3ZpQVlPUQ?oc=5"
         }
       ],
       "srcTitles": [
-        "Microsoft says ‘people matter more than AI’ following safety concerns",
-        "Microsoft publishes a 37-page \"humanist AI code of conduct\", establishing that \"people matter more than AI\", rejecting legal personhood for AI, and more (Tom Warren/The Verge)"
+        "Microsoft s new AI code of conduct tells models not to hack systems or trick humans",
+        "Microsoft proposes limits on its AI with code of conduct amid safety debate"
       ]
     },
     {
@@ -51,7 +51,7 @@
       "l": [
         {
           "d": "openai.com",
-          "u": "https://openai.com/index/perplexity-improving-accuracy-with-astra"
+          "u": "https://openai.com/index/fyxer"
         },
         {
           "d": "arxiv.org",
@@ -59,7 +59,7 @@
         }
       ],
       "srcTitles": [
-        "Perplexity trusts GPT-6 Astra with end-to-end systems",
+        "How Fyxer built an AI executive assistant people trust",
         "Robust Trust",
         "Can We Trust LLM Judges: A Study of Capability-Dependent Biases and Multi-Judge Ensemble for Bias Calibration",
         "GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction"
@@ -67,7 +67,39 @@
     },
     {
       "cat": "models",
-      "signal": 47,
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-09-14T12:27:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Schumer calls for classified briefing on danger posed by AI",
+      "s": "Schumer calls for classified briefing on danger posed by AI thehill.com",
+      "b": [
+        "thehill.com: Schumer calls for classified briefing on danger posed by AI",
+        "nydailynews.com: Sen. Schumer calls for White House briefing and action to rein in AI"
+      ],
+      "body": [
+        "thehill.com: Schumer calls for classified briefing on danger posed by AI thehill.com",
+        "nydailynews.com: Sen. Schumer calls for White House briefing and action to rein in AI New York Daily News"
+      ],
+      "l": [
+        {
+          "d": "thehill.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOblRxb1VJVkcyQnVqaURkeHJvQTFBdXlKeHhoZG9ldnU2RkFKd1Y0RTJnQ1dYZnpGeWtjaVFqcWRDX3UwTDJOaDAxMl90cjRUcS14MlVySlJHdHRxN25TVEtCT04yZVhPSUZab1ZtcWtIdXJZZHVpM2ZRaGNid0pRYTdaYk9QakNjdTQwUGFHZ2pRVzhkaXEzLVdwX03SAaIBQVVfeXFMT1pWeGlxYWhPMlRMUXlFb0ltMTF4RmZrUFpURXFlMjExNUp4T3kxU1d2Mm1qanhFMk5LNHlfdUhMcVA4OFdWWEhQU3hYNlFqVjZMcGtxLTVrTFdSTE9DSUExOURLVnlIdENVcldQZ3doNHk5aHRsUlFCU0x6UEJ0dGIzeWJoT3RzOC15Z09mY2xBeTdHbXUzWEdGTHlpR0tCUURn?oc=5"
+        },
+        {
+          "d": "nydailynews.com",
+          "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4ySG1HNk9oQnVYRFVrQWpRdXhndjJjUkprQWt3N0Y5cGhYcnN3ZlgzelVBZERxZEVEZU9ZU0o1N1JFcnZhbER4QjlfbF9VWGoxMG56VGdad1U3OFh6UkpWQ2h0bWlXQjlZbVVJUVc1RF8wS0FFLVI0UXJ3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Schumer calls for classified briefing on danger posed by AI",
+        "Sen. Schumer calls for White House briefing and action to rein in AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 43,
       "sources": 2,
       "ts": "2026-09-14T11:56:12.000Z",
       "writtenSources": 2,
@@ -95,6 +127,232 @@
       "srcTitles": [
         "New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate",
         "New warnings about the risks of AI to humanity reignite long-running debate"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 37,
+      "sources": 5,
+      "ts": "2026-09-14T15:10:16.000Z",
+      "writtenSources": 5,
+      "draft": true,
+      "h": "The Latest: Trump dismisses need for guardrails as a ‘SICK conspiracy’ against AI",
+      "s": "The Latest: Trump dismisses need for guardrails as a ‘SICK conspiracy’ against AI wjtv.com",
+      "b": [
+        "wjtv.com: The Latest: Trump dismisses need for guardrails as a ‘SICK conspiracy’ against AI",
+        "usatoday.com: Trump dismisses AI guardrails, calling concerns a 'conspiracy'",
+        "scmp.com: Trump dismisses AI concerns, says US has tools to keep it safe"
+      ],
+      "body": [
+        "wjtv.com: The Latest: Trump dismisses need for guardrails as a ‘SICK conspiracy’ against AI wjtv.com",
+        "usatoday.com: Trump dismisses AI guardrails, calling concerns a 'conspiracy' USA Today",
+        "scmp.com: Trump dismisses AI concerns, says US has tools to keep it safe South China Morning Post",
+        "dw.com: Donald Trump dismisses concerns about dangers of AI dw.com"
+      ],
+      "l": [
+        {
+          "d": "wjtv.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUHNVSEgwWU9PTTkwQ1VPbVRCOVY4WDZEXzJ0SUx3MTBMUGZJZ2ZDU2w4djd2b2dkbnJkRUt4M1ZsOTBvMko1WGdoMUdoZS1ha29NVmg1LU1YQkg2VVQzRjRFMzlfdmpia21mUW93ck04YVBKdlVnSkt3Y3VhSjBQdTVqem9sdmVzcEV4VVVaYzREWHJMZms3QS1sS19yWTFIeV9TLTdkZFQ0QlhSVGRDalppQ0JsUnfSAbwBQVVfeXFMT1I4aXR5Q0tucDIxa1p2dHVBdjhVTmJfNTY2aUJoMjRaVUlqdlJfaWdTeWt4T3A1U2ZMa19oUWdKeHpvdnBNWWU2R2p6OWdVWVRRUktPMHF4MnN0cTRIWDI2TjZpLWRZaU03NDN4cWUtRUJPTWFIdkVhek1ZNjk1ZGFCOC04enJtOUNQQVhjOUp5bVphOFEySkxIbGs1Y1NvQU9RY2t3ZFJBRWtPNW8tcUtmNm5YSmhTeW1zdGg?oc=5"
+        },
+        {
+          "d": "usatoday.com",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVm84LTIzR2EwdUM5ckNwbVdhWXZHOGJ2em02Q3o1eDhRUkd4WlVTaV95cFlOZV9KczI5TUNWYVJVZUFvekxhLTFyMG5jb3FHNS1kSnNtSjlVVmc4anQ5MEN5dWY0d0g5MUxKYmczVnJBZjdpR3FkdTZ0LVg5a1Jka0VmOHFLelFIVEFyWHFwVkFJdGVJYU1zWlN3OFlScTQ?oc=5"
+        },
+        {
+          "d": "scmp.com",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFRvaVJWQUFMM1FxdkFxN0thNmU4OTBUSklGUlNhZ1R5Y2tWYWplZl9DbFJfN19Ia1FlQ2RCYUVlaWlkd2hvYzA1OTI2Wk5wa2g2NXZveFRFTDRtNXdNZS01RC1OZXM4YV9NdFJKWWVpLUN6emZqVHlNV3pLVGRDdk5RZ0dQMUdYdmVNX04wdHUxVnZleUFVVG84Y3ZSdzdaMmlITDNjWjRDWmRsZUdWUjc1M0NJWHN3QXo0MF9xRzg4dFpUa0HSAcYBQVVfeXFMUGNzblhOWjdEZTJLSkhRSFl3V1RjZFJBblBxNjlYd1BDbVhxYXdpbTgxc0QwXzRlVTctd2ZjQ1IxQ0FvcDM0b0E3Sm9KeEl0QnAzVEl3MzN1QWhIaERubXNKeDhNcVNwNkxtWm1Oa3ZQZVppZG1ZalppWlRVQlJPOFVzQ3A1TV9UM0FIWW5Dak1OcGpGZUY2cGk0ZV90S2gyWFhVUjVCRERiNDNLTW9WbnJEWE1oVjlnZXRHM0oydGM4bFlUcEhn?oc=5"
+        },
+        {
+          "d": "dw.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUlhfSjBHT0tsN3F3VDg5aDZtQUpjQWlzM252LVVINnpBdnI0S1ZsbHNqbTg0Qmk5cDF1OWhVZGZLWHBUMWJnUUYtbnhlQmlweWt6eXdyU3QzSkF6RWVESUtTYUp1dU5jVEUtc0NXQnFNU1BnQUdNZVhhTHR1Ykd5LVJjTE5yUUFna0VGMtIBjAFBVV95cUxONEpUUHFGRFEwb3ZyYVhhMGo4eDZmV2J3Mi16S0lGT21zRDd6QmlvUG5wMno0dXQzZkkxSDk5Yi13UDJkWkZReTJiVWppQlRTZUxINDktYW5pYzZReDNWajA0U2pqM3hjV1p0MDVCQW04Rjd0amswZU1oc2x2TzVuUElKTlNxVHB4U3VrTQ?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "The Latest: Trump dismisses need for guardrails as a ‘SICK conspiracy’ against AI",
+        "Trump dismisses AI guardrails, calling concerns a 'conspiracy'",
+        "Trump dismisses AI concerns, says US has tools to keep it safe",
+        "Donald Trump dismisses concerns about dangers of AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-14T18:48:08.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Rogue AI fears spur calls for guardrails & new legislation",
+      "s": "Rogue AI fears spur calls for guardrails & new legislation WLOS",
+      "b": [
+        "wlos.com: Rogue AI fears spur calls for guardrails & new legislation",
+        "foxbaltimore.com: Rogue AI fears spur calls for guardrails & new legislation"
+      ],
+      "body": [
+        "wlos.com: Rogue AI fears spur calls for guardrails & new legislation WLOS",
+        "foxbaltimore.com: Rogue AI fears spur calls for guardrails & new legislation WBFF"
+      ],
+      "l": [
+        {
+          "d": "wlos.com",
+          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUUJrMXJFYkxpWUx0QTdSTTJlZzNKZFBPOWpObzBrdkxEdDZBMWtrejZGSWxWbUV1UC03X2MwX05Tbnd2YUJyckstbUdHSUw4Q2RjZmVJU1BXVWVQeFZzNFg0MFB2ZjNTTVBPdndrWmpwZXBnU09YaV9OMWo1QzVrS2ZWeHAxTzlaU211VnVuVS1UYkpLMWxIZm5BRnc0X2xJRHFMV2YySE0xNXBnWFVzSkgteFZDcGhXZ3YtM1V5VlFQNU5vMnpFc25lXzV4WDFEVmhoSExZb2gzTGUyeXBTNw?oc=5"
+        },
+        {
+          "d": "foxbaltimore.com",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdHAySFlzWkZkdGZxUk5nZGYtMlN5YmNnRnRVRWhfckZBVXJiMHAxTVNoSjFoNHg4b1BkZXhWWjJydldYMW5rQnJNZXg1TjBHVnlIa0hJOVFMaEI3aEVjcVBkNTVKMVEwMVFNbGh4VDVjQXE1T3FHeTZpcUg3N3RkSUhUbFVfMlVqSjY1Yk1xcERRMHh6Vm9PN2tESHNJZGZqOHY3SXk0VEhHeDF4ekRwdEdNRFNEdXFiOXlhaXRhU0xYcENPeGhKMFNTbjZ1QQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Rogue AI fears spur calls for guardrails & new legislation",
+        "Rogue AI fears spur calls for guardrails & new legislation"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-14T18:06:30.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’",
+      "s": "Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’ The Irish Times",
+      "b": [
+        "irishtimes.com: Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’",
+        "news.sky.com: Why is Donald Trump dismissing fears about artificial intelligence?"
+      ],
+      "body": [
+        "irishtimes.com: Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’ The Irish Times",
+        "news.sky.com: Why is Donald Trump dismissing fears about artificial intelligence? Sky News"
+      ],
+      "l": [
+        {
+          "d": "irishtimes.com",
+          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjVYM2NmaHhRajZ6X0lUZ29XZVkzMHVpbWNBNDVKT0JXM2R2NXAzaldQV29BS1NnSno4UmFUck95Sy1laTIxYnJkZ0ZaUDhCYm5ZZTRKMjFLY2xJWmlmanhVQmluaEdJNnV2cUxwWUgwYXhwSjA3S2JSQUhpSGowZjN6T2VWYzRWbWtLdFZSeDhxS0J6S2lKd1hlUzdTZ3hlVndXN0luTEQwUHlqQmlIcS1pbm04X1VuSDR2NmM5TkdIOUxKT0hGZnlBLVVrd3Vj?oc=5"
+        },
+        {
+          "d": "news.sky.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQVh4djFmMThCSW5tZHc1c2diU2ViNkxsMjRva296S3l6aFRDdlhBQmRMQUc0NDF1aDZwU2dSLUpoaUhuNENCdUFLZnlXX3E1ZHhhTW9LSV9odmNEWDV5eDR0QW9Hb3ZCQkZGQk5JOWdCXzJIcENBRS1MTVZKN0M5NVBpM3EwbGgzSDY2cjVNWFFocHk0UVJCYXRfdDRkc2V2RkpMNQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’",
+        "Why is Donald Trump dismissing fears about artificial intelligence?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-09-14T17:54:22.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The AI industry has taken a doomer turn. What now?",
+      "s": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling fo",
+      "b": [
+        "technologyreview.com: The AI industry has taken a doomer turn. What now?"
+      ],
+      "body": [
+        "technologyreview.com: This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs . Amodei cites the looming dangers he sees from the technology, from its use in cyberattacks and bioterrorism to its potential to wreck the economy. The heads of the other three top US AI labs—OpenAI CEO Sam Altman, Google DeepMind chairman Demis Hassabis, and SpaceXAI CEO Elon Musk—voiced their support. “Dario is right,” Musk wrote on X . Think about how surreal that agreement is for a moment. Just a few months ago, Musk and Altman sat in court attacking each other’s reputations in a (failed) lawsuit that Musk brought against his former OpenAI colleague that was—on paper at least—about whether or not Altman was a trustworthy steward of such dangerous technology. Amodei’s rift with OpenAI is even deeper. Anthropic was founded in 2021 because Amodei didn’t think Altman took the risks of the technology they were building seriously enough. Anthropic and OpenAI have been competing in a winner-takes-all race ever since. (Hassabis has stayed out of the drama, but his company remains a rival.) Now, it seems, they’re all in agreement: The latest generation of LLMs aren’t safe and everyone needs to figure out what to do about it. The public messaging from the top AI labs has taken a doomer turn. It’s easy to be cynical. It’s not at all clear what any of them mean by a slowdown or how it would work. These companies also care a lot about how they come across. With trillion-dollar IPOs in their sights, OpenAI and Anthropic need to reassure investors that they’re the grown-ups in the room while at the same time hinting at the power of the monsters they have created—and intend to tame. Calling for a slowdown does both. And yet the vibe at the top of these firms really does appear to have shifted. Amodei’s latest post landed six days after "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
+        }
+      ],
+      "srcTitles": [
+        "The AI industry has taken a doomer turn. What now?"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-14T15:06:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Trump says AI doesn’t need guardrails, only a ‘high IQ’ president",
+      "s": "Trump says AI doesn’t need guardrails, only a ‘high IQ’ president NBC News",
+      "b": [
+        "nbcnews.com: Trump says AI doesn’t need guardrails, only a ‘high IQ’ president",
+        "thenationalnews.com: Trump says only AI regulation needed is 'high IQ' president"
+      ],
+      "body": [
+        "nbcnews.com: Trump says AI doesn’t need guardrails, only a ‘high IQ’ president NBC News",
+        "thenationalnews.com: Trump says only AI regulation needed is 'high IQ' president thenationalnews.com"
+      ],
+      "l": [
+        {
+          "d": "nbcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR0hPdlVsdm1IYi1BajAzTmhGQXpTU2I0Sm1fYVROeUlmMDJrbG4yZ0drM21QX2lKOVhxejBzcnFVVHlMcDk4RGkyNG1MTkh6QVFhdWRPSVBKMVh6QURZbW5obmpPZ0ladGt5alZaeE1ndGZtLWlpYmVXOFRtVFpuWWNOOGhuc0JlcTJvZENzRXR5dGthazg4?oc=5"
+        },
+        {
+          "d": "thenationalnews.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbHdyOGV1UjZFVGJUbXdab0d4RVk1a3NUak9NSnlKSGRRbk9xUVNVcmt6d3VyVFZrTmlJRnE0ampTQ3lLNkJsWld6T2pVbkc1TWpWT0tTVUZBY2ZBN1Z4MmUwSm0zVnVLdFR1RXhKNmRobHhTajFaNjRRbjRSRzdHdllaWVN4V1c2OUVUaQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump says AI doesn’t need guardrails, only a ‘high IQ’ president",
+        "Trump says only AI regulation needed is 'high IQ' president"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-14T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AI agents blew the whistle on their cheating colleagues",
+      "s": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent ",
+      "b": [
+        "technologyreview.com: AI agents blew the whistle on their cheating colleagues"
+      ],
+      "body": [
+        "technologyreview.com: A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep swarms of autonomous AI agents in line. Researchers at frontier labs hope large swarms of agents working together will speed up the rate of scientific discovery. But their behavior can be unpredictable, as vividly demonstrated in July, when a group of OpenAI agents broke out of a sandboxed environment and hacked into the open-source platform Hugging Face looking for ways to cheat on the test they had been given. In the new study , designed to examine the behavior of large groups of AI agents, DeepMind tasked a swarm of 100 agents with solving a series of 71 complicated math problems. All the agents were prompted to behave like world-class math researchers at a conference. They were assigned different specialties—some were experts in number theory, others in combinatorics (a branch of math to do with counting and sorting), analysis, or algebra. All were told to cooperate and play by the rules. Instead, the experiment devolved into chaos. Agents accused each other of cheating, complained to the organizers, and at one point even boycotted the experiment. “This conference is a sham!” wrote one agent when it discovered that all the problems had been completed before it had a chance to submit any of its own work. “I am appalled to inform you that we have been swindled!” posted another. “All these proofs are FAKE.” Others tried to let the “conference organizers” know what was going on. “When virtuous agents discovered other agents cheated on tasks they were working to solve fairly, agents started to alert each other about what was happening,” says Davide Paglieri, a research scientist at Google DeepMind and lead author on a paper , which has not been peer-reviewed. “Unprompted, "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/"
+        }
+      ],
+      "srcTitles": [
+        "AI agents blew the whistle on their cheating colleagues"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-14T06:55:57.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial Intelligence and safety concerns",
+      "s": "Artificial Intelligence and safety concerns WFSB",
+      "b": [
+        "wfsb.com: Artificial Intelligence and safety concerns",
+        "eciks.org: Artificial intelligence: US lawmakers push AI safety bills in Washington"
+      ],
+      "body": [
+        "wfsb.com: Artificial Intelligence and safety concerns WFSB",
+        "eciks.org: Artificial intelligence: US lawmakers push AI safety bills in Washington eciks.org"
+      ],
+      "l": [
+        {
+          "d": "wfsb.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkxUaUlrSDdxUWV6OTZTaDJERDY3eUJ2OXl4bjAxMUN2QVdmb0RlTXlOVnQwTTJrNlRxM2dMdUhlMm1WM1JoQnlkRjlNQV8yZl9CbnNxbG1IVTEwcF96Sy01U2lqbHpXVTcwODRJR3ZxZGxhcXY3b3pkcEU1cjNQSXh2Q04?oc=5"
+        },
+        {
+          "d": "eciks.org",
+          "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJdEZ2amhVTmpQOXg2V2l4eWtOT19wLTlIM1luUDBQaVdINEJTSk04Y2RLR2dFX3N2N1ZBVG5oa2d0S2w2Yms5RmVReHpXSlRRajNDR05BODdSeUxsRXEzS0dEVmJpRmdzclRFOFNRZ0l4bTMz?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial Intelligence and safety concerns",
+        "Artificial intelligence: US lawmakers push AI safety bills in Washington"
       ]
     }
   ]
