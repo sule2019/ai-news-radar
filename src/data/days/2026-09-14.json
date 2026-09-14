@@ -2,56 +2,76 @@
   "date": "2026-09-14",
   "stories": [
     {
-      "cat": "funding",
-      "signal": 69,
-      "sources": 9,
-      "ts": "2026-09-14T01:04:20.000Z",
-      "writtenSources": 9,
+      "cat": "models",
+      "signal": 61,
+      "sources": 3,
+      "ts": "2026-09-14T00:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "DevFest is back",
-      "s": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+      "h": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "s": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
       "b": [
-        "blog.google: DevFest is back",
-        "arxiv.org: Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation",
-        "nytimes.com: What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown"
+        "openai.com: Perplexity trusts GPT-6 Astra with end-to-end systems"
       ],
       "body": [
-        "blog.google: DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
-        "arxiv.org: arXiv:2510.18019v3 Announce Type: replace-cross Abstract: Multilingual watermarking aims to make large language model (LLM) outputs traceable across languages, yet current methods still fall short. Despite claims of cross-lingual robustness, they are evaluated only on high-resource languages. We show that existing multilingual watermarking methods are not truly multilingual: they fail to remain robust under translation attacks in medium- and low-resource languages. We trace this failure to semantic clustering, which fails when the tokenizer vocabulary contains too few full-word tokens for a given language. To address this, we introduce STEAM, a detection method that uses Bayesian optimisation to search among 126 candidate languages for the back-translation that best recovers the watermark strength. It is compatible with any watermarking method, robust across different tokenizers and languages, non-invasive, and easily extendable to new languages. With average gains of +0.23 AUC and +37%p TPR@1%, STEAM provides a scalable approach toward fairer watermarking across the diversity of languages.",
-        "nytimes.com: What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown The New York Times AI CEOs say they need to slow the pace of development. But will they? The Guardian Tech leaders urge limits on AI development amid warnings WJLA",
-        "democracynow.org: Anthropic’s CEO Calls for the Development of Artificial Intelligence to Slowdown Democracy Now!"
+        "openai.com: Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
       ],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
+          "d": "openai.com",
+          "u": "https://openai.com/index/fyxer"
         },
         {
           "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2510.18019"
+          "u": "https://arxiv.org/abs/2602.09490"
         },
         {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRkpFQmZuWTRETkFIUVk1OE40VWt4UFVmNTlMV0YtcEVyWHZXTld2VnMweUV2Sk9pT1lqRVZnQlczbkE4dC0yOXdSMjFOZmZsVDI1YTdKb3RwamYxZFpFSi1xVWROak5BQlh4Zm9RcjMtek9uTFp4SG9Gd2RLZWdSZC0wLTk4STNKX3FUY09qQQ?oc=5"
-        },
-        {
-          "d": "democracynow.org",
-          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVW45alFWbWhhdGJqR0c4U2taalRQVkdFLThtZWFfWEJiR1Z4WnVReEZJaXF0UURSdVVxdGJlVmEtSHJCOXBFTzFwbzd5Yk9SZlZuMnBzMmZTbnpHejRtNmFkNU9GQWtWSm56Rk5hd3dMVWo3XzBFR0FLTnljb29PQ29SeVc3aVdOcjlIcEgxeFFIZVM3NEVBSF9rREJIUVg5ajV5ay1zazZUWlpPVUE5MUpjSW9IR0IyRWoyRGt0TVNickMzRVh6Mw?oc=5"
-        },
-        {
-          "d": "+5"
+          "d": "cfr.org",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVWVtOVYwQXBUeFZRaVNqUy1pQTc0TUJQNWxQVjdqNi1leTE4aUFHSzB1aUZIYTJUOENDVGxVeW1YRkhjSEZpUXFhdXhOM21fNE9PQzF5NHdXX0dVWFRGdmI4UGRpaEZ5SHNpVzR1N3ppYTVWOUM5WnBoSlVYVUowM0lRdnJINng3YlpXMXpB?oc=5"
         }
       ],
       "srcTitles": [
-        "DevFest is back",
-        "Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation",
-        "What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown",
-        "Anthropic’s CEO Calls for the Development of Artificial Intelligence to Slowdown"
+        "How Fyxer built an AI executive assistant people trust",
+        "Robust Trust",
+        "Can We Trust LLM Judges: A Study of Capability-Dependent Biases and Multi-Judge Ensemble for Bias Calibration",
+        "GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-14T19:00:37.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+      "s": "Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+      "b": [
+        "techcrunch.com: OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "techmeme.com: Sources: OpenAI bought Glass Imaging, which is developing AI-powered smartphone camera tech, in a deal valuing it at $300M+; it was valued at ~$100M last year (Wall Street Journal)"
+      ],
+      "body": [
+        "techcrunch.com: Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.",
+        "techmeme.com: Wall Street Journal : Sources: OpenAI bought Glass Imaging, which is developing AI-powered smartphone camera tech, in a deal valuing it at $300M+; it was valued at ~$100M last year Glass Imaging, valued above $300 million in deal, was founded by former Apple employees OpenAI quietly bought"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260914/p33#a260914p33"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says",
+        "Sources: OpenAI bought Glass Imaging, which is developing AI-powered smartphone camera tech, in a deal valuing it at $300M+; it was valued at ~$100M last year (Wall Street Journal)"
       ]
     },
     {
       "cat": "products",
-      "signal": 61,
+      "signal": 58,
       "sources": 2,
       "ts": "2026-09-14T17:15:01.000Z",
       "writtenSources": 2,
@@ -83,7 +103,7 @@
     },
     {
       "cat": "models",
-      "signal": 59,
+      "signal": 55,
       "sources": 2,
       "ts": "2026-09-14T13:00:00.000Z",
       "writtenSources": 2,
@@ -114,35 +134,76 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 58,
-      "sources": 2,
-      "ts": "2026-09-14T00:00:00.000Z",
-      "writtenSources": 1,
+      "cat": "funding",
+      "signal": 50,
+      "sources": 13,
+      "ts": "2026-09-14T01:04:20.000Z",
+      "writtenSources": 9,
       "draft": true,
-      "h": "Perplexity trusts GPT-6 Astra with end-to-end systems",
-      "s": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+      "h": "DevFest is back",
+      "s": "DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
       "b": [
-        "openai.com: Perplexity trusts GPT-6 Astra with end-to-end systems"
+        "blog.google: DevFest is back",
+        "arxiv.org: Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation",
+        "nytimes.com: What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown"
       ],
       "body": [
-        "openai.com: Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models."
+        "blog.google: DevFest 2026 is back and here’s how you can connect with one of the more than 800 global events to build, secure, and scale in the agentic AI era.",
+        "arxiv.org: arXiv:2510.18019v3 Announce Type: replace-cross Abstract: Multilingual watermarking aims to make large language model (LLM) outputs traceable across languages, yet current methods still fall short. Despite claims of cross-lingual robustness, they are evaluated only on high-resource languages. We show that existing multilingual watermarking methods are not truly multilingual: they fail to remain robust under translation attacks in medium- and low-resource languages. We trace this failure to semantic clustering, which fails when the tokenizer vocabulary contains too few full-word tokens for a given language. To address this, we introduce STEAM, a detection method that uses Bayesian optimisation to search among 126 candidate languages for the back-translation that best recovers the watermark strength. It is compatible with any watermarking method, robust across different tokenizers and languages, non-invasive, and easily extendable to new languages. With average gains of +0.23 AUC and +37%p TPR@1%, STEAM provides a scalable approach toward fairer watermarking across the diversity of languages.",
+        "nytimes.com: What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown The New York Times AI CEOs say they need to slow the pace of development. But will they? The Guardian Tech leaders urge limits on AI development amid warnings WJLA",
+        "democracynow.org: Anthropic’s CEO Calls for the Development of Artificial Intelligence to Slowdown Democracy Now!"
       ],
       "l": [
         {
-          "d": "openai.com",
-          "u": "https://openai.com/index/fyxer"
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR29WblpaZTN5aUhzTmFJYmVtRjdiS0FTTExoNzNQcm83aTROZG4yVzFRUkF2ZU12RGd4N2dCaFUxS3NhUVo2NWZYdGpZdDc2X1lRcUxIWXZIRjVPWGhZQkRQSjlyYS1UZXNHMkNOTGdnOEV0dzZGVDhVWVk2anBmcnBFR21UMlRwb0dGRDMzaHhvM04ySG9nM1ZncTBtTGdnLXc?oc=5"
         },
         {
           "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2602.09490"
+          "u": "https://arxiv.org/abs/2510.18019"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/"
+        },
+        {
+          "d": "+9"
         }
       ],
       "srcTitles": [
-        "How Fyxer built an AI executive assistant people trust",
-        "Robust Trust",
-        "Can We Trust LLM Judges: A Study of Capability-Dependent Biases and Multi-Judge Ensemble for Bias Calibration",
-        "GigaBrain-WBC-0.5: A Behavior World Model for Robust Whole-Body Control with Environment Interaction"
+        "DevFest is back",
+        "Harris backs AI slowdown amid growing safety fears",
+        "Is Multilingual LLM Watermarking Truly Multilingual? Scaling Robustness to 100+ Languages via Back-Translation",
+        "The contagion of fear"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-09-14T19:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery.",
+      "s": "Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society.",
+      "b": [
+        "blog.google: Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery."
+      ],
+      "body": [
+        "blog.google: Christina Koch sits down with James Manyika, Google’s Senior Vice President of Research, Labs, Technology & Society."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/dialogues-christina-koch/"
+        }
+      ],
+      "srcTitles": [
+        "Watch astronaut Christina Koch and Google’s James Manyika discuss space, technology, and discovery."
       ]
     },
     {
@@ -179,40 +240,102 @@
     },
     {
       "cat": "models",
-      "signal": 39,
+      "signal": 32,
       "sources": 2,
-      "ts": "2026-09-14T11:56:12.000Z",
+      "ts": "2026-09-14T21:32:01.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate",
-      "s": "New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate 6abc Philadelphia",
+      "h": "Oklo Has Massive Potential Due to Artificial Intelligence, but the Stock Is Sinking. Here's What I'd Do",
+      "s": "Oklo Has Massive Potential Due to Artificial Intelligence, but the Stock Is Sinking. Here's What I'd Do fool.com",
       "b": [
-        "6abc.com: New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate",
-        "newson6.com: New warnings about the risks of AI to humanity reignite long-running debate"
+        "fool.com: Oklo Has Massive Potential Due to Artificial Intelligence, but the Stock Is Sinking. Here's What I'd Do",
+        "finance.yahoo.com: Oklo Has Massive Potential Due to Artificial Intelligence, but the Stock Is Sinking. Here's What I'd Do"
       ],
       "body": [
-        "6abc.com: New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate 6abc Philadelphia",
-        "newson6.com: New warnings about the risks of AI to humanity reignite long-running debate News On 6"
+        "fool.com: Oklo Has Massive Potential Due to Artificial Intelligence, but the Stock Is Sinking. Here's What I'd Do fool.com",
+        "finance.yahoo.com: Oklo Has Massive Potential Due to Artificial Intelligence, but the Stock Is Sinking. Here's What I'd Do Yahoo Finance"
       ],
       "l": [
         {
-          "d": "6abc.com",
-          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX0JQMi11NUhONTRpQUFkeHF2eTYyXzRVTloxWU1pakZLYnBoZDkxZ201WVk0dEVuWTdPSDV1WFBlRzFFU21jODY5UUdlcTltLWgzbzd1cndxNHV6SWFlbm92bmI5YlZKSFJMVVN0eEluU2ZOTXpfQmFPM29PbHJQeFVWS0NNYlNzRGozUEFvbEhXd29DYU1xWnU2b1pkMkV6R0stRGxaQWZsMDNPZllMTdIBtgFBVV95cUxQUjcxUzFXbWJvMVZZN1IydUpaUzRpMHBoZzVDTFZEbWFaMmxxWThQVE9PX1RIRTQtQmdUS2pVb1dWRVNMdG5LT1czMnhvQmFhTkxLUEFEdGI3MTJRdkxqeTNkOFJpREVlcHZPdFJ6Q1VlR1F2Z0l6ZDZVRFM1MXZhdDZhTHpfZEZnUEdmTURHd1JFZFQ2RDBwN0lUd1BwUExPTkdYOWI1TWVmaTRoeUNQVDNmYU53QQ?oc=5"
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTG1XRWJUdHpNcE04MlJSQnN3YzY0SlJLVWIwNDZCNFktVGd3UUlyeE13NTZLX0NHXzBhMl90Skk5Z1ZfdzFUYllpbWJwaVJpTG5JRGFQRmJQakRVSkRfczFQSzRBLUxsMmk0Y0NZc1VfNm9wTjJTcXhabDl6NDBZemF1RENiTDZ0anM0Nm1HbXpDX2d4SEdRNU1zQzNnZC1FMzNVUV9Ja2pUc09uYTFyZFQ0ZUt6ck9Jc3RVWFRWS0NLdXpva1ZWRE5Ob3E3X3Z2WW1nb1FQdHVvNE9L?oc=5"
         },
         {
-          "d": "newson6.com",
-          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0tPcDNFajZiQWkzVHlhc2ZuRHQ5LVlYV2phZGh4YkJ4UnYtYXRpWlRYUGx5SzkxaFR1WmRrV28yRUZLVmljTUZhZUVkX2JlMURLRlIzVm5iU0pncmw3bWJRTWI3N3NwZXdXLWFVMHA3ZU9qWkdvaDlYdXdtNFExb2lmUHRBbnotTmNraGozNEliYmNOQWthUWVlRm1DS2dGWWZWTHFuUlUyd29l?oc=5"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPejV4dFJOa3FwRmRqWkxqTUlFSG04Y3plVndzR2JTVWE3bnlBSHRkSGVYOGdDUXFaTmFVV1hSRDhRckYxNHV6U2xPY0ZZbTBhWjdCRW5vNE1IeHRZMk8zVks1SEdnYUExRFdfTWNRaUN4eDF2aGxqRV9vWnRHS1ZhMHlENy1Pdno5M09JSXRMN0VVSHh2TFlsRTE4TUVDLXY4NzVYYg?oc=5"
         }
       ],
       "srcTitles": [
-        "New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate",
-        "New warnings about the risks of AI to humanity reignite long-running debate"
+        "Oklo Has Massive Potential Due to Artificial Intelligence, but the Stock Is Sinking. Here's What I'd Do",
+        "Oklo Has Massive Potential Due to Artificial Intelligence, but the Stock Is Sinking. Here's What I'd Do"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-09-14T06:55:57.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial Intelligence and safety concerns",
+      "s": "Artificial Intelligence and safety concerns WFSB",
+      "b": [
+        "wfsb.com: Artificial Intelligence and safety concerns",
+        "eciks.org: Artificial intelligence: US lawmakers push AI safety bills in Washington"
+      ],
+      "body": [
+        "wfsb.com: Artificial Intelligence and safety concerns WFSB",
+        "eciks.org: Artificial intelligence: US lawmakers push AI safety bills in Washington eciks.org"
+      ],
+      "l": [
+        {
+          "d": "wfsb.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkxUaUlrSDdxUWV6OTZTaDJERDY3eUJ2OXl4bjAxMUN2QVdmb0RlTXlOVnQwTTJrNlRxM2dMdUhlMm1WM1JoQnlkRjlNQV8yZl9CbnNxbG1IVTEwcF96Sy01U2lqbHpXVTcwODRJR3ZxZGxhcXY3b3pkcEU1cjNQSXh2Q04?oc=5"
+        },
+        {
+          "d": "kesq.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeEFLb1ExbVIyUGZfYzhOb1FlbUo3STRNMnluREo4RzdSREw4akhXUVdNWlpma3RSVTd3RFRJTmdhaTVhaE9Ed2NqMWJaSVMzQUVZOHZNclQzRWpFR3VOdV9mLXBoM3BaR0pveDk4YnVsSmNab2p4Vkdhb0E2NXlrcDdPWTZtdGsxWElLMWxtMnB1TFpoM1R1dVROZ091WmJmeWtfMVNqZmltUG16VE5kd2l4dHdBU3M1OU9SbHFR?oc=5"
+        },
+        {
+          "d": "eciks.org",
+          "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJdEZ2amhVTmpQOXg2V2l4eWtOT19wLTlIM1luUDBQaVdINEJTSk04Y2RLR2dFX3N2N1ZBVG5oa2d0S2w2Yms5RmVReHpXSlRRajNDR05BODdSeUxsRXEzS0dEVmJpRmdzclRFOFNRZ0l4bTMz?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial Intelligence and safety concerns",
+        "Debates over safety continue as artificial intelligence continues to expand",
+        "Artificial intelligence: US lawmakers push AI safety bills in Washington"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-14T17:54:22.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The AI industry has taken a doomer turn. What now?",
+      "s": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling fo",
+      "b": [
+        "technologyreview.com: The AI industry has taken a doomer turn. What now?"
+      ],
+      "body": [
+        "technologyreview.com: This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs . Amodei cites the looming dangers he sees from the technology, from its use in cyberattacks and bioterrorism to its potential to wreck the economy. The heads of the other three top US AI labs—OpenAI CEO Sam Altman, Google DeepMind chairman Demis Hassabis, and SpaceXAI CEO Elon Musk—voiced their support. “Dario is right,” Musk wrote on X . Think about how surreal that agreement is for a moment. Just a few months ago, Musk and Altman sat in court attacking each other’s reputations in a (failed) lawsuit that Musk brought against his former OpenAI colleague that was—on paper at least—about whether or not Altman was a trustworthy steward of such dangerous technology. Amodei’s rift with OpenAI is even deeper. Anthropic was founded in 2021 because Amodei didn’t think Altman took the risks of the technology they were building seriously enough. Anthropic and OpenAI have been competing in a winner-takes-all race ever since. (Hassabis has stayed out of the drama, but his company remains a rival.) Now, it seems, they’re all in agreement: The latest generation of LLMs aren’t safe and everyone needs to figure out what to do about it. The public messaging from the top AI labs has taken a doomer turn. It’s easy to be cynical. It’s not at all clear what any of them mean by a slowdown or how it would work. These companies also care a lot about how they come across. With trillion-dollar IPOs in their sights, OpenAI and Anthropic need to reassure investors that they’re the grown-ups in the room while at the same time hinting at the power of the monsters they have created—and intend to tame. Calling for a slowdown does both. And yet the vibe at the top of these firms really does appear to have shifted. Amodei’s latest post landed six days after "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
+        }
+      ],
+      "srcTitles": [
+        "The AI industry has taken a doomer turn. What now?"
       ]
     },
     {
       "cat": "products",
-      "signal": 35,
-      "sources": 4,
+      "signal": 26,
+      "sources": 2,
       "ts": "2026-09-14T15:10:16.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -237,83 +360,48 @@
         {
           "d": "usatoday.com",
           "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVm84LTIzR2EwdUM5ckNwbVdhWXZHOGJ2em02Q3o1eDhRUkd4WlVTaV95cFlOZV9KczI5TUNWYVJVZUFvekxhLTFyMG5jb3FHNS1kSnNtSjlVVmc4anQ5MEN5dWY0d0g5MUxKYmczVnJBZjdpR3FkdTZ0LVg5a1Jka0VmOHFLelFIVEFyWHFwVkFJdGVJYU1zWlN3OFlScTQ?oc=5"
-        },
-        {
-          "d": "scmp.com",
-          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVFRvaVJWQUFMM1FxdkFxN0thNmU4OTBUSklGUlNhZ1R5Y2tWYWplZl9DbFJfN19Ia1FlQ2RCYUVlaWlkd2hvYzA1OTI2Wk5wa2g2NXZveFRFTDRtNXdNZS01RC1OZXM4YV9NdFJKWWVpLUN6emZqVHlNV3pLVGRDdk5RZ0dQMUdYdmVNX04wdHUxVnZleUFVVG84Y3ZSdzdaMmlITDNjWjRDWmRsZUdWUjc1M0NJWHN3QXo0MF9xRzg4dFpUa0HSAcYBQVVfeXFMUGNzblhOWjdEZTJLSkhRSFl3V1RjZFJBblBxNjlYd1BDbVhxYXdpbTgxc0QwXzRlVTctd2ZjQ1IxQ0FvcDM0b0E3Sm9KeEl0QnAzVEl3MzN1QWhIaERubXNKeDhNcVNwNkxtWm1Oa3ZQZVppZG1ZalppWlRVQlJPOFVzQ3A1TV9UM0FIWW5Dak1OcGpGZUY2cGk0ZV90S2gyWFhVUjVCRERiNDNLTW9WbnJEWE1oVjlnZXRHM0oydGM4bFlUcEhn?oc=5"
-        },
-        {
-          "d": "dw.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUlhfSjBHT0tsN3F3VDg5aDZtQUpjQWlzM252LVVINnpBdnI0S1ZsbHNqbTg0Qmk5cDF1OWhVZGZLWHBUMWJnUUYtbnhlQmlweWt6eXdyU3QzSkF6RWVESUtTYUp1dU5jVEUtc0NXQnFNU1BnQUdNZVhhTHR1Ykd5LVJjTE5yUUFna0VGMtIBjAFBVV95cUxONEpUUHFGRFEwb3ZyYVhhMGo4eDZmV2J3Mi16S0lGT21zRDd6QmlvUG5wMno0dXQzZkkxSDk5Yi13UDJkWkZReTJiVWppQlRTZUxINDktYW5pYzZReDNWajA0U2pqM3hjV1p0MDVCQW04Rjd0amswZU1oc2x2TzVuUElKTlNxVHB4U3VrTQ?oc=5"
         }
       ],
       "srcTitles": [
         "The Latest: Trump dismisses need for guardrails as a ‘SICK conspiracy’ against AI",
-        "Trump dismisses AI guardrails, calling concerns a 'conspiracy'",
-        "Trump dismisses AI concerns, says US has tools to keep it safe",
-        "Donald Trump dismisses concerns about dangers of AI"
+        "Trump dismisses AI guardrails, calling concerns a 'conspiracy'"
       ]
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 26,
       "sources": 2,
-      "ts": "2026-09-14T18:48:08.000Z",
+      "ts": "2026-09-14T11:56:12.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Rogue AI fears spur calls for guardrails & new legislation",
-      "s": "Rogue AI fears spur calls for guardrails & new legislation WLOS",
+      "h": "New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate",
+      "s": "New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate 6abc Philadelphia",
       "b": [
-        "wlos.com: Rogue AI fears spur calls for guardrails & new legislation",
-        "foxbaltimore.com: Rogue AI fears spur calls for guardrails & new legislation"
+        "6abc.com: New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate",
+        "newson6.com: New warnings about the risks of AI to humanity reignite long-running debate"
       ],
       "body": [
-        "wlos.com: Rogue AI fears spur calls for guardrails & new legislation WLOS",
-        "foxbaltimore.com: Rogue AI fears spur calls for guardrails & new legislation WBFF"
+        "6abc.com: New warnings from OpenAI, Anthropic CEOs about the risks of AI to humanity revive a long-running debate 6abc Philadelphia",
+        "newson6.com: New warnings about the risks of AI to humanity reignite long-running debate News On 6"
       ],
       "l": [
         {
-          "d": "wlos.com",
-          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPUUJrMXJFYkxpWUx0QTdSTTJlZzNKZFBPOWpObzBrdkxEdDZBMWtrejZGSWxWbUV1UC03X2MwX05Tbnd2YUJyckstbUdHSUw4Q2RjZmVJU1BXVWVQeFZzNFg0MFB2ZjNTTVBPdndrWmpwZXBnU09YaV9OMWo1QzVrS2ZWeHAxTzlaU211VnVuVS1UYkpLMWxIZm5BRnc0X2xJRHFMV2YySE0xNXBnWFVzSkgteFZDcGhXZ3YtM1V5VlFQNU5vMnpFc25lXzV4WDFEVmhoSExZb2gzTGUyeXBTNw?oc=5"
+          "d": "cnn.com",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTVdiTXBFOFZHLVdReUlyLVJaZnZESWpiRWdOSE15V1JQa1B3bVpOVUhmdTcyNWQ4VGgzNDJVTUJ6Z3Zfb3lmVmZXa05MbmNueHk3ZVhQcUMwT3RNQVV5c0Q2dHhaNjlYSXgxZkxid2dMQTJPMlgzWlRSLUZZQlVERUhLREZZaFpVRlNlZGJB?oc=5"
         },
         {
-          "d": "foxbaltimore.com",
-          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdHAySFlzWkZkdGZxUk5nZGYtMlN5YmNnRnRVRWhfckZBVXJiMHAxTVNoSjFoNHg4b1BkZXhWWjJydldYMW5rQnJNZXg1TjBHVnlIa0hJOVFMaEI3aEVjcVBkNTVKMVEwMVFNbGh4VDVjQXE1T3FHeTZpcUg3N3RkSUhUbFVfMlVqSjY1Yk1xcERRMHh6Vm9PN2tESHNJZGZqOHY3SXk0VEhHeDF4ekRwdEdNRFNEdXFiOXlhaXRhU0xYcENPeGhKMFNTbjZ1QQ?oc=5"
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT3RtcEE3SVFlTXAycXRkTkFmUjBzN0MtWGQwajY2ZjhpZjFLelF2TzFhN2Z4T25fanRuZ01aQ05MY3dzQzUycjc1eG5Vc0EzMmNfZ21FTU9nT2xnSzVHQW56eE9Rdl90Wk9DcGpCNWtoUFE5TGhWelFma01rOFZJT0hlTFdzd0dTQ2FSMWNBTUE3NGkzd0Rkc3ZtRGhOZ0xmRTVuX0FXUGQydkp4V1MzOUludm5KdXpz?oc=5"
         }
       ],
       "srcTitles": [
-        "Rogue AI fears spur calls for guardrails & new legislation",
-        "Rogue AI fears spur calls for guardrails & new legislation"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 30,
-      "sources": 1,
-      "ts": "2026-09-14T17:54:22.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "The AI industry has taken a doomer turn. What now?",
-      "s": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling fo",
-      "b": [
-        "technologyreview.com: The AI industry has taken a doomer turn. What now?"
-      ],
-      "body": [
-        "technologyreview.com: This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of LLMs . Amodei cites the looming dangers he sees from the technology, from its use in cyberattacks and bioterrorism to its potential to wreck the economy. The heads of the other three top US AI labs—OpenAI CEO Sam Altman, Google DeepMind chairman Demis Hassabis, and SpaceXAI CEO Elon Musk—voiced their support. “Dario is right,” Musk wrote on X . Think about how surreal that agreement is for a moment. Just a few months ago, Musk and Altman sat in court attacking each other’s reputations in a (failed) lawsuit that Musk brought against his former OpenAI colleague that was—on paper at least—about whether or not Altman was a trustworthy steward of such dangerous technology. Amodei’s rift with OpenAI is even deeper. Anthropic was founded in 2021 because Amodei didn’t think Altman took the risks of the technology they were building seriously enough. Anthropic and OpenAI have been competing in a winner-takes-all race ever since. (Hassabis has stayed out of the drama, but his company remains a rival.) Now, it seems, they’re all in agreement: The latest generation of LLMs aren’t safe and everyone needs to figure out what to do about it. The public messaging from the top AI labs has taken a doomer turn. It’s easy to be cynical. It’s not at all clear what any of them mean by a slowdown or how it would work. These companies also care a lot about how they come across. With trillion-dollar IPOs in their sights, OpenAI and Anthropic need to reassure investors that they’re the grown-ups in the room while at the same time hinting at the power of the monsters they have created—and intend to tame. Calling for a slowdown does both. And yet the vibe at the top of these firms really does appear to have shifted. Amodei’s latest post landed six days after "
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/"
-        }
-      ],
-      "srcTitles": [
-        "The AI industry has taken a doomer turn. What now?"
+        "Political debate over AI intensifies amid warnings about ‘catastrophic risk’",
+        "New warnings about the risks of AI to humanity revive a long-running debate"
       ]
     },
     {
       "cat": "policy",
-      "signal": 29,
+      "signal": 25,
       "sources": 2,
       "ts": "2026-09-14T15:06:48.000Z",
       "writtenSources": 2,
@@ -345,39 +433,7 @@
     },
     {
       "cat": "models",
-      "signal": 28,
-      "sources": 2,
-      "ts": "2026-09-14T18:06:30.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’",
-      "s": "Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’ The Irish Times",
-      "b": [
-        "irishtimes.com: Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’",
-        "news.sky.com: Why is Donald Trump dismissing fears about artificial intelligence?"
-      ],
-      "body": [
-        "irishtimes.com: Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’ The Irish Times",
-        "news.sky.com: Why is Donald Trump dismissing fears about artificial intelligence? Sky News"
-      ],
-      "l": [
-        {
-          "d": "irishtimes.com",
-          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWjVYM2NmaHhRajZ6X0lUZ29XZVkzMHVpbWNBNDVKT0JXM2R2NXAzaldQV29BS1NnSno4UmFUck95Sy1laTIxYnJkZ0ZaUDhCYm5ZZTRKMjFLY2xJWmlmanhVQmluaEdJNnV2cUxwWUgwYXhwSjA3S2JSQUhpSGowZjN6T2VWYzRWbWtLdFZSeDhxS0J6S2lKd1hlUzdTZ3hlVndXN0luTEQwUHlqQmlIcS1pbm04X1VuSDR2NmM5TkdIOUxKT0hGZnlBLVVrd3Vj?oc=5"
-        },
-        {
-          "d": "news.sky.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQVh4djFmMThCSW5tZHc1c2diU2ViNkxsMjRva296S3l6aFRDdlhBQmRMQUc0NDF1aDZwU2dSLUpoaUhuNENCdUFLZnlXX3E1ZHhhTW9LSV9odmNEWDV5eDR0QW9Hb3ZCQkZGQk5JOWdCXzJIcENBRS1MTVZKN0M5NVBpM3EwbGgzSDY2cjVNWFFocHk0UVJCYXRfdDRkc2V2RkpMNQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Donald Trump says attempts to limit artificial intelligence are part of ‘sick conspiracy’",
-        "Why is Donald Trump dismissing fears about artificial intelligence?"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-14T16:00:00.000Z",
       "writtenSources": 1,
@@ -398,38 +454,6 @@
       ],
       "srcTitles": [
         "AI agents blew the whistle on their cheating colleagues"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-09-14T06:55:57.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Artificial Intelligence and safety concerns",
-      "s": "Artificial Intelligence and safety concerns WFSB",
-      "b": [
-        "wfsb.com: Artificial Intelligence and safety concerns",
-        "eciks.org: Artificial intelligence: US lawmakers push AI safety bills in Washington"
-      ],
-      "body": [
-        "wfsb.com: Artificial Intelligence and safety concerns WFSB",
-        "eciks.org: Artificial intelligence: US lawmakers push AI safety bills in Washington eciks.org"
-      ],
-      "l": [
-        {
-          "d": "wfsb.com",
-          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYkxUaUlrSDdxUWV6OTZTaDJERDY3eUJ2OXl4bjAxMUN2QVdmb0RlTXlOVnQwTTJrNlRxM2dMdUhlMm1WM1JoQnlkRjlNQV8yZl9CbnNxbG1IVTEwcF96Sy01U2lqbHpXVTcwODRJR3ZxZGxhcXY3b3pkcEU1cjNQSXh2Q04?oc=5"
-        },
-        {
-          "d": "eciks.org",
-          "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJdEZ2amhVTmpQOXg2V2l4eWtOT19wLTlIM1luUDBQaVdINEJTSk04Y2RLR2dFX3N2N1ZBVG5oa2d0S2w2Yms5RmVReHpXSlRRajNDR05BODdSeUxsRXEzS0dEVmJpRmdzclRFOFNRZ0l4bTMz?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Artificial Intelligence and safety concerns",
-        "Artificial intelligence: US lawmakers push AI safety bills in Washington"
       ]
     }
   ]
