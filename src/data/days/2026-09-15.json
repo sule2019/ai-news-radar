@@ -3,7 +3,101 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 70,
+      "sources": 3,
+      "ts": "2026-09-15T15:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Meta expands subscription push with new AI-focused plans",
+      "s": "Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp.",
+      "b": [
+        "techcrunch.com: Meta expands subscription push with new AI-focused plans",
+        "techmeme.com: Meta rolls out its Meta One subscription bundle globally, with expanded Meta AI capabilities powered by Muse, and $7.99/month and $19.99/month individual plans (Stevie Bonifield/The Verge)",
+        "theverge.com: Meta s new One subscriptions put a price on social media and AI"
+      ],
+      "body": [
+        "techcrunch.com: Meta One bundles expanded access to the company’s AI tools with premium features across Facebook, Instagram and WhatsApp.",
+        "techmeme.com: Stevie Bonifield / The Verge : Meta rolls out its Meta One subscription bundle globally, with expanded Meta AI capabilities powered by Muse, and $7.99/month and $19.99/month individual plans Meta One bundles start at $7.99 per month with perks like 48-hour Instagram stories and a bold follow button.",
+        "theverge.com: Shortly after launching its new do-everything AI assistant Muse, Meta's launching subscription bundles that pair its standalone app subscriptions with extra AI usage. Some of the new Meta One bundles were in testing earlier this year, but are now available globally starting today, with several tiers for individual users, creators, and businesses. Meta says the [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/15/meta-expands-subscription-push-with-new-ai-focused-plans/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260915/p30#a260915p30"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/995453/meta-one-subscriptions-ai"
+        }
+      ],
+      "srcTitles": [
+        "Meta expands subscription push with new AI-focused plans",
+        "Meta rolls out its Meta One subscription bundle globally, with expanded Meta AI capabilities powered by Muse, and $7.99/month and $19.99/month individual plans (Stevie Bonifield/The Verge)",
+        "Meta s new One subscriptions put a price on social media and AI"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-15T14:40:09.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "s": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "b": [
+        "techcrunch.com: OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+        "techmeme.com: OpenAI says it has been working with Anthropic and Google for several weeks on AI safety, and it does not need an antitrust waiver to coordinate on safety (Maggie Eastland/Bloomberg Law)"
+      ],
+      "body": [
+        "techcrunch.com: OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+        "techmeme.com: Maggie Eastland / Bloomberg Law : OpenAI says it has been working with Anthropic and Google for several weeks on AI safety, and it does not need an antitrust waiver to coordinate on safety OpenAI is working on steps to address artificial intelligence safety issues with its top competitors Anthropic PBC and Google DeepMind"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260915/p27#a260915p27"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+        "OpenAI says it has been working with Anthropic and Google for several weeks on AI safety, and it does not need an antitrust waiver to coordinate on safety (Maggie Eastland/Bloomberg Law)"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 52,
+      "sources": 1,
+      "ts": "2026-09-15T17:05:57.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "s": "Covered by 1 outlet.",
+      "b": [
+        "blog.google: Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
+      ],
+      "body": [],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+        }
+      ],
+      "srcTitles": [
+        "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 49,
       "sources": 1,
       "ts": "2026-09-15T13:00:00.000Z",
       "writtenSources": 1,
@@ -27,53 +121,72 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 41,
-      "sources": 5,
-      "ts": "2026-09-15T07:02:00.000Z",
+      "cat": "models",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-09-15T15:02:58.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Gates Foundation launches $1B AI initiative",
-      "s": "Gates Foundation launches $1B AI initiative KUOW",
+      "h": "Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
+      "s": "Annie Palmer / CNBC : Elon Musk says top US AI labs and three or four of the leading Chinese companies should let rivals run a test harness on their models to evaluate safety Elon Musk called for the ",
       "b": [
-        "kuow.org: Gates Foundation launches $1B AI initiative",
-        "abcnews.com: Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access - ABC News"
+        "techmeme.com: Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
+        "cnbc.com: Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown"
       ],
       "body": [
-        "kuow.org: Gates Foundation launches $1B AI initiative KUOW",
-        "abcnews.com: Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access ABC News - Breaking News, Latest News and Videos"
+        "techmeme.com: Annie Palmer / CNBC : Elon Musk says top US AI labs and three or four of the leading Chinese companies should let rivals run a test harness on their models to evaluate safety Elon Musk called for the top artificial intelligence companies to work together and test each other's models",
+        "cnbc.com: Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown CNBC"
       ],
       "l": [
         {
           "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260915/p20#a260915p20"
+          "u": "https://www.techmeme.com/260915/p31#a260915p31"
         },
         {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjQ4VktTOFQ2dF9CNFl3cVlZQkZHeVZKeXJJa0dJQ1JYZFlmaWtFR1pfV3R0cFMtMUkwTmswQ25Jal9aM2Z1aVdfYjhiMVhzdnJUX1JMelF3Vzl3SDF5cTByazNGUTBaRG1lUnk5dWRtSmkxTEMtamlGenVxZmJvSmVmTUtjbUxORUNsV2RBWTRLTFE4YjFKRWZ4MXNmYnNSenJ0ZnNpVV9Qa1BmeWlkaG930gG3AUFVX3lxTE4zWEs5Zk40X0hFQ1RJdktXcjVuUFZZTldaN2NWRVVLY0RYOWZSdmdVbDQyU19qSmRyalVxeTJ4cEJmLTdsQnZtOTIwVFNIdU11OVpaLVJMXzBDS2hWSkZ1amRYa19SOHlGQ0RvdEVRcDlqZTVBUGtpWFBxNmt2akVWdEI2LUdMRkxEUVkzRm0zREFldGVxenRSQmhIdXFXVnBmYXlqemMyb0hEbUpfd0hzZTBaNTQySQ?oc=5"
-        },
-        {
-          "d": "10tv.com",
-          "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ0hvd2hVajF6V2h6c1k2RGx4X1o4SDhqaWtMaVdSVGJjbjJNbkRQeWZhd2R3SnpDSmg0emtxMHdBdERvZjh0MzlwOGJqakRUTDJUQW0wTWU5ZnlLd3lXZzRaOFpQcjAwRlFBcFRKQzhuTmVZMWs2cnVLUDl6QjlRRVgxVGNHa0QxcFBjSG9qWlRQOEdiWkJraThDakFHZmYyNjc1VHN5eFVQNkcwWWF3X0U4bjdId0tTeWRqdURuZi1mN3FXN2VROFN0WmtzMGdyRmF4OGduVHNaX25pU1E1cV9KOXJzeHZD?oc=5"
-        },
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHZPVWtSUnBCdi1wLURMamR6S1VfM1NrWVBHTk5SS2dYM1lFd1ZkZ09VekYzRWFPem9Vd2lZMDhwSjFxbnlCUTZzT3BHVVRPQ21SUzJGV0ZudTYyTldSQlREUWNya2VUcm1NRURvc1NMMERnbVNJMHdYNHh2bURZOXZrbmNlRF9MbHpr?oc=5"
-        },
-        {
-          "d": "+1"
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9keDdSVmlFNGR6UkprRmZ3U2tLQk5zWXJBcnY1aGVVY0xPdmRxX2lLREtoSy1DU1JUOFlTcG5McldLUGt6RGZIckNRaU94Q1NVVGdUZ19NOVdfNjZqSldyV19CZml0SFA4OGZqNkQwTllPUQ?oc=5"
         }
       ],
       "srcTitles": [
-        "The Gates Foundation pledges $1B+ over two years to expand global access to AI and use it to tackle social inequalities; Gates says \"we can harness AI for good\" (Claire Moses/New York Times)",
-        "Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access - ABC News",
-        "Gates Foundation pledges $1 billion to try and make AI more equitable",
-        "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality"
+        "Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
+        "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-09-15T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI for Societal Impact",
+      "s": "Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+      "b": [
+        "blog.google: AI for Societal Impact",
+        "arxiv.org: Investigating the Impacts of Generative AI on Information Seeking"
+      ],
+      "body": [
+        "blog.google: Explore this collection to see how experts and local leaders are using AI breakthroughs to ensure everyone can share the opportunity of AI.",
+        "arxiv.org: arXiv:2609.14638v1 Announce Type: cross Abstract: This paper is an encore submission of our 2026 journal article \"Expertise and Information Seeking in the Age of Generative AI: New Procedures, New Problematics\" with an extended discussion for the CSCW 2026 \"Broader Impacts of GenAI in Communication\" Workshop on October 10, 2026. In the original article, we employ procedural rhetoric to analyze how generative AI chatbots leverage natural language signifiers of expertise and intelligence to influence users' perception of their trustworthiness. In this submission, we extend our conversation in the CSCW community with the goal of cultivating a cross-disciplinary vocabulary for describing, analyzing, and mitigating the risks posed by the integration of generative AI into human communication practices. It is important to develop an understanding of how the procedures surrounding information-seeking practices are informed by users' values, experiences, and expectations - and how these procedures might in future be altered by the emerging turn toward AI \"experts\" and authority."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.14638"
+        }
+      ],
+      "srcTitles": [
+        "AI for Societal Impact",
+        "Investigating the Impacts of Generative AI on Information Seeking"
       ]
     },
     {
       "cat": "policy",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-09-15T02:50:36.000Z",
       "writtenSources": 2,
@@ -104,8 +217,95 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-09-15T07:02:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Gates Foundation launches $1B AI initiative",
+      "s": "Gates Foundation launches $1B AI initiative KUOW",
+      "b": [
+        "kuow.org: Gates Foundation launches $1B AI initiative",
+        "abcnews.com: Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access - ABC News"
+      ],
+      "body": [
+        "kuow.org: Gates Foundation launches $1B AI initiative KUOW",
+        "abcnews.com: Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access ABC News - Breaking News, Latest News and Videos"
+      ],
+      "l": [
+        {
+          "d": "13wmaz.com",
+          "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWEVnZU1ZUWxmR3JnMGVMdFkzYmxRcnQzRXkyMUhVTXl2QTJmUW9OUncxMDllQXQtYUQyRlpCTURtQTFUajNOZ01tVDdldmZzcE5FMzBNU0xERjRndk5XUzVOTWl4ZHFXLUREQTJXVHdjR2Zick54OE9CZ3F4QlBiSVdjRm1GRkFJajI5OTR2M2g3TjFNUjFTeTVlR2dtenlvMlBNLVJsT2NKNDRPd09yZFlRUVptNFZ5RXZqajE5eGJMWmVlV19uQzRqSG43RjROSm5aLW0tcV9uNV9RaEIxbXI3RXZFcGU1aTd3?oc=5"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHZPVWtSUnBCdi1wLURMamR6S1VfM1NrWVBHTk5SS2dYM1lFd1ZkZ09VekYzRWFPem9Vd2lZMDhwSjFxbnlCUTZzT3BHVVRPQ21SUzJGV0ZudTYyTldSQlREUWNya2VUcm1NRURvc1NMMERnbVNJMHdYNHh2bURZOXZrbmNlRF9MbHpr?oc=5"
+        },
+        {
+          "d": "inc.com",
+          "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcVRZVF9GTnM1cUw4UXU3OTNncDdkamtadllPWTBuT0w4M0hYZ3pHc1JCWTdWOE54c001TVBHYzRwSnk2YVhtV21lLUFFd2xjNGsyM0MzRS1MUmYtNHp1R0lUZndJcVBYS0FWZThaSzZhWVNveUpmYTIwcGJpZVY0dUs1X3h0RnVlVV9QOEk2ak5WN3NMaHc4elROUlVxcjVoNG50cUh3QWhYME85MEI3emhxdExFTm5EYWVXdHJDc2djMlZnYlN3cGFUYlZxaHBPMDdaRw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Gates Foundation pledges $1 billion to try and make AI more equitable",
+        "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
+        "Bill Gates Warns Future Technology Will Favor Those Who Can Pay. His Foundation Is Pledging $1 Billion to Fight It"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 32,
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-09-15T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Building AI to accelerate science and improve lives",
+      "s": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "b": [
+        "blog.google: Building AI to accelerate science and improve lives"
+      ],
+      "body": [
+        "blog.google: The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
+        }
+      ],
+      "srcTitles": [
+        "Building AI to accelerate science and improve lives"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-09-15T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AI for everyone in every language",
+      "s": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "b": [
+        "blog.google: AI for everyone in every language"
+      ],
+      "body": [
+        "blog.google: We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
+        }
+      ],
+      "srcTitles": [
+        "AI for everyone in every language"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 28,
       "sources": 2,
       "ts": "2026-09-15T12:56:00.000Z",
       "writtenSources": 2,
@@ -137,7 +337,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-15T10:00:00.000Z",
       "writtenSources": 1,
