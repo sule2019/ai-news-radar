@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 98,
-      "sources": 10,
+      "signal": 78,
+      "sources": 11,
       "ts": "2026-09-15T02:50:36.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -24,10 +24,6 @@
           "u": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
         },
         {
-          "d": "politico.com",
-          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWtzLXBobVZlbEl3NjhNWmoyeXZsMnZRbk80Yi1iWTNFNUdFR1Y3SlkwSktxWlNFcGFUNmN1WWdvOVJuaW9Kcmt0dkN5Vm42OXR6OW5XSk04QTE2TXZCajBlMEp1UVNhZjRxOXNfYUJ4ZTI2YWpsbmM0T0lDeHpPdkNYemlaWHN4UmpKcHRCeFd5SEVERlFlQTV1LWI4Mk5Leng0RXhn?oc=5"
-        },
-        {
           "d": "arxiv.org",
           "u": "https://arxiv.org/abs/2609.14767"
         },
@@ -36,19 +32,23 @@
           "u": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
         },
         {
-          "d": "+6"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260915/p41#a260915p41"
+        },
+        {
+          "d": "+7"
         }
       ],
       "srcTitles": [
         "DevFest is back",
-        "OpenAI backs bipartisan push to address AI biothreats",
         "Loop-Back Authority in LLM Agent Teams: A Paired Experiment on Flat and Hierarchical Coordination",
-        "Auditable Agents"
+        "Auditable Agents",
+        "Multi-Agent Empowerment and Emergence of Complex Behavior in Groups"
       ]
     },
     {
       "cat": "models",
-      "signal": 63,
+      "signal": 59,
       "sources": 3,
       "ts": "2026-09-15T15:00:00.000Z",
       "writtenSources": 3,
@@ -87,7 +87,7 @@
     },
     {
       "cat": "policy",
-      "signal": 53,
+      "signal": 49,
       "sources": 2,
       "ts": "2026-09-15T14:40:09.000Z",
       "writtenSources": 2,
@@ -143,8 +143,53 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 42,
+      "sources": 4,
+      "ts": "2026-09-15T20:35:39.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "At the Future of Life Institute's Pro-Human Assembly, Bernie Sanders, Steve Bannon, and others called for tighter restrictions on AI and denounced tech CEOs (New York Times)",
+      "s": "New York Times : At the Future of Life Institute's Pro-Human Assembly, Bernie Sanders, Steve Bannon, and others called for tighter restrictions on AI and denounced tech CEOs At an event in Washington,",
+      "b": [
+        "techmeme.com: At the Future of Life Institute's Pro-Human Assembly, Bernie Sanders, Steve Bannon, and others called for tighter restrictions on AI and denounced tech CEOs (New York Times)",
+        "theguardian.com: Bernie Sanders and Steve Bannon call for curbs on AI at ‘pro-human’ summit",
+        "nytimes.com: Steve Bannon and Bernie Sanders Demand Tighter Controls on A.I."
+      ],
+      "body": [
+        "techmeme.com: New York Times : At the Future of Life Institute's Pro-Human Assembly, Bernie Sanders, Steve Bannon, and others called for tighter restrictions on AI and denounced tech CEOs At an event in Washington, partisanship took a back seat as elected officials, religious leaders, parents and artists called for reining in artificial intelligence.",
+        "theguardian.com: Bernie Sanders and Steve Bannon call for curbs on AI at ‘pro-human’ summit The Guardian",
+        "nytimes.com: Steve Bannon and Bernie Sanders Demand Tighter Controls on A.I. The New York Times",
+        "scrippsnews.com: Bernie Sanders and Steve Bannon find rare common ground: AI needs the brakes pulled Scripps News"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260915/p46#a260915p46"
+        },
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQW1KVnJzR0JDZG5rRE5VeUVpeGNKckZoVGlxMVVwYWxlTzJhVDE1SVh5Y1Jwd0o3R2dZZnZKNEFueDR1a2MyS2wzOXNZZG5GYjBfSXF6UUExWkxsdHFjRm11a1htRkpYa05SdVdHaExGbEtSMGwzNEF4azhyMk40Nm5tLVh3Q09GX1FTWlh3?oc=5"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1oRFFsUUQ5YkZTeVJCWTNfUzVzTWRKcGx6MlprWUk0dUV6R2JvZHZDNlRxbHBNQ2hvSHliUU9JNzd2Rmo2b3hHekJyVXpzQ2M2cVlIZm9pTFRVODItVlR2dno0NUVsdzllRHAxNlctby1GbXhKbnZHeEwwdWJuZw?oc=5"
+        },
+        {
+          "d": "scrippsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM1cxSl9GMXBaUGp6a2JLRXBfamZmTkNRU2ZudGNyN1JmT3RtQzRCdEtSSnBTdnoyZmFWYU1yeWdEM2E0RXUxaS1meXpsRXlhMFBkUl81VTFJbGZhTVlnRGFnY20wSVoxRHJDRjhkQmpTbTlDZnR0RUZCSlAxTEV0cGxyWkxFeTJadzZqazVBZUQ1MU5sanMzRVl4ekJfZERDMDJXUjJMM2NjMjl2M3ptY0JEOWtrLW9MeEtnRzBOWjF1WWlGeWs3a0xMZFJkckFDNTJFT2pfSGI4bFdLb2NmeHotemF0Zw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "At the Future of Life Institute's Pro-Human Assembly, Bernie Sanders, Steve Bannon, and others called for tighter restrictions on AI and denounced tech CEOs (New York Times)",
+        "Bernie Sanders and Steve Bannon call for curbs on AI at ‘pro-human’ summit",
+        "Steve Bannon and Bernie Sanders Demand Tighter Controls on A.I.",
+        "Bernie Sanders and Steve Bannon find rare common ground: AI needs the brakes pulled"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 44,
+      "signal": 40,
       "sources": 1,
       "ts": "2026-09-15T17:05:57.000Z",
       "writtenSources": 1,
@@ -198,8 +243,72 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-15T07:02:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Gates Foundation launches $1B AI initiative",
+      "s": "Gates Foundation launches $1B AI initiative KUOW",
+      "b": [
+        "kuow.org: Gates Foundation launches $1B AI initiative",
+        "abcnews.com: Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access - ABC News"
+      ],
+      "body": [
+        "kuow.org: Gates Foundation launches $1B AI initiative KUOW",
+        "abcnews.com: Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access ABC News - Breaking News, Latest News and Videos"
+      ],
+      "l": [
+        {
+          "d": "wset.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQkdmUzViWVBLWXNfM2pWdE5OSXA4aTFNdHA5VndJS0prekZyM3UxWDluM1pMUVlBZDU5OVg2SGZiTmp3OEtzTDF5VXRrLUoyNnhoWkpING13WWFpMTNzMXhUNk5MWnppNWZoS0R5WkJjSENPeTJxekVaUWZuMEVyZUJ2OThWZDZGR0xrQ3ZXOHhVTm5fT2liNjIzdVdTcG1uNV9OT2VZeFhCdw?oc=5"
+        },
+        {
+          "d": "abcstlouis.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNktsQ2RpOHR5bGpOQmszV2EwcXppUzc4aGlIT2ZMMU1RWlQ5U0VPa0JlMmhBY3YwcnBwd3VYempNd2h5T2JuNDRUYmNkOFNmbEV5Uk91Xzl5dHRUMGEyNHVFdWxwajR2R216WTB4M2RBWnhoSklvblNhZmFYeXNScUZnc04zdnJuSHF0UFI0RWpoX2ljMnVrbXZtZW9aSXkzcjkyWkJNTkRQQUw4U3FkelBB?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Gates Foundation pledges $1B investment in AI access as industry faces scrutiny",
+        "Gates Foundation pledges $1B investment in AI access as industry faces scrutiny"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-15T19:46:10.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI backlash raises political costs of Washington’s hands-off approach",
+      "s": "AI backlash raises political costs of Washington’s hands-off approach WSET",
+      "b": [
+        "wset.com: AI backlash raises political costs of Washington’s hands-off approach",
+        "nbcmontana.com: AI backlash raises political costs of Washington’s hands-off approach"
+      ],
+      "body": [
+        "wset.com: AI backlash raises political costs of Washington’s hands-off approach WSET",
+        "nbcmontana.com: AI backlash raises political costs of Washington’s hands-off approach NBC Montana"
+      ],
+      "l": [
+        {
+          "d": "wset.com",
+          "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPa1ozRVpVRW4zYUl5WlY2NVRQcTNFWGIwdEd6Y3hXMDlCV3M0SkdyeVBFd3FqMXRubndHWEJ4eE01aHpDNlR3dERTc0ZCal9fdVFkNlRvNS1qWkFRRXl0aFpaTDhBaTBhMkJEX09ISUR4YVExZV9iaHVLMm96ZVpYWmNULUVzRFlWU1RyNEV1WHc1SXRpVlBEcTRWVVpGNG9GaUdIQ3JfTnBlbUZOQ3pfY3dKclFlWjg2SXBfOTByamN3c1NkdTRSa3VER01LYTBKcmktMHVmNzFtdlBDUkppUks1N29sM29KUTRHX2p3amxKUQ?oc=5"
+        },
+        {
+          "d": "nbcmontana.com",
+          "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNTmo1NFVQQ09jenZva1d6WXJiaG5UX0QyUS1ka3l0d084R2VMT1c1amk2czNtOXV6bHdpU05xUDFTSGdYd05NNFh1ODZKTklhS2VhVWQ5bURhR2hrd2ZObGlUa016ZHVUZU5DVnV3NkV6TlB2ZGY1bUF3OGRSVHVKVFZ3QjZYeXdoelFjaWZwSnVGX0VfeGNpdW5rNzBiMk9oQWVScExaSVpPSlVOb3p4ZW1JeFA3UDBxZ0t6UDJrRjNBOHdkWVlEMFRNc25ORWdfZTRMbTJHMk1RVGN3bHJ6cnRrZVpoU1U4NGxhb09ZZk9Mc2dBVnJOeXh3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI backlash raises political costs of Washington’s hands-off approach",
+        "AI backlash raises political costs of Washington’s hands-off approach"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-15T17:47:51.000Z",
       "writtenSources": 1,
@@ -220,70 +329,6 @@
       ],
       "srcTitles": [
         "Roundtables: Could AI really kill us all?"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 25,
-      "sources": 2,
-      "ts": "2026-09-15T15:02:58.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
-      "s": "Annie Palmer / CNBC : Elon Musk says top US AI labs and three or four of the leading Chinese companies should let rivals run a test harness on their models to evaluate safety Elon Musk called for the ",
-      "b": [
-        "techmeme.com: Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
-        "cnbc.com: Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown"
-      ],
-      "body": [
-        "techmeme.com: Annie Palmer / CNBC : Elon Musk says top US AI labs and three or four of the leading Chinese companies should let rivals run a test harness on their models to evaluate safety Elon Musk called for the top artificial intelligence companies to work together and test each other's models",
-        "cnbc.com: Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown CNBC"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260915/p31#a260915p31"
-        },
-        {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9keDdSVmlFNGR6UkprRmZ3U2tLQk5zWXJBcnY1aGVVY0xPdmRxX2lLREtoSy1DU1JUOFlTcG5McldLUGt6RGZIckNRaU94Q1NVVGdUZ19NOVdfNjZqSldyV19CZml0SFA4OGZqNkQwTllPUQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
-        "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 2,
-      "ts": "2026-09-15T16:25:43.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Johnson echoes Trump 'hoax' claim over catastrophic AI warnings",
-      "s": "Johnson echoes Trump 'hoax' claim over catastrophic AI warnings Courthouse News",
-      "b": [
-        "courthousenews.com: Johnson echoes Trump 'hoax' claim over catastrophic AI warnings",
-        "washingtontimes.com: Trump calls AI warnings a hoax as China closes the tech gap"
-      ],
-      "body": [
-        "courthousenews.com: Johnson echoes Trump 'hoax' claim over catastrophic AI warnings Courthouse News",
-        "washingtontimes.com: Trump calls AI warnings a hoax as China closes the tech gap Washington Times"
-      ],
-      "l": [
-        {
-          "d": "courthousenews.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUk03RWRoeGF1cXp3aEZwbVpjNzF5NW1hV0pkQnhlVl9HT2pJeUYwMDdtYVRDbm00Znp6S1JENm5ZUUhoVmNyOHNjaEgwa2dUWHZTNFFrVTlxd3pHSkp4NEg4c3dOb1NuT2FmT3hkVzBJNFNvd0tIYkxwZlRvaDljUmdERVRRQjAzU0tXbXV6SzdpcmVxY0JpNA?oc=5"
-        },
-        {
-          "d": "washingtontimes.com",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXNabkQ4VWdBX2htM194bFFKVFp4eVc1UUt1cW1HV0lpVVpzS2ZIQ0lTVGxrak41UW9fWkdqS0E0bmN1NjFiMHdscWFJaDFEYy1SWEtjcFZNYTZwMTc2ekdjT3ExM2U2Q2ctVGFpaDF6VHNzam1pSnlmZlVmckItTVFKY1JCd2FhMUNzZTRmLThmOUI3VnpJWThFaHBHOFVuU2c?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Johnson echoes Trump 'hoax' claim over catastrophic AI warnings",
-        "Trump calls AI warnings a hoax as China closes the tech gap"
       ]
     },
     {
@@ -362,45 +407,72 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 18,
-      "sources": 3,
-      "ts": "2026-09-15T07:02:00.000Z",
+      "cat": "models",
+      "signal": 21,
+      "sources": 2,
+      "ts": "2026-09-15T15:02:58.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Gates Foundation launches $1B AI initiative",
-      "s": "Gates Foundation launches $1B AI initiative KUOW",
+      "h": "Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
+      "s": "Annie Palmer / CNBC : Elon Musk says top US AI labs and three or four of the leading Chinese companies should let rivals run a test harness on their models to evaluate safety Elon Musk called for the ",
       "b": [
-        "kuow.org: Gates Foundation launches $1B AI initiative",
-        "abcnews.com: Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access - ABC News"
+        "techmeme.com: Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
+        "cnbc.com: Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown"
       ],
       "body": [
-        "kuow.org: Gates Foundation launches $1B AI initiative KUOW",
-        "abcnews.com: Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access ABC News - Breaking News, Latest News and Videos"
+        "techmeme.com: Annie Palmer / CNBC : Elon Musk says top US AI labs and three or four of the leading Chinese companies should let rivals run a test harness on their models to evaluate safety Elon Musk called for the top artificial intelligence companies to work together and test each other's models",
+        "cnbc.com: Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown CNBC"
       ],
       "l": [
         {
-          "d": "13wmaz.com",
-          "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOWEVnZU1ZUWxmR3JnMGVMdFkzYmxRcnQzRXkyMUhVTXl2QTJmUW9OUncxMDllQXQtYUQyRlpCTURtQTFUajNOZ01tVDdldmZzcE5FMzBNU0xERjRndk5XUzVOTWl4ZHFXLUREQTJXVHdjR2Zick54OE9CZ3F4QlBiSVdjRm1GRkFJajI5OTR2M2g3TjFNUjFTeTVlR2dtenlvMlBNLVJsT2NKNDRPd09yZFlRUVptNFZ5RXZqajE5eGJMWmVlV19uQzRqSG43RjROSm5aLW0tcV9uNV9RaEIxbXI3RXZFcGU1aTd3?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260915/p31#a260915p31"
         },
         {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHZPVWtSUnBCdi1wLURMamR6S1VfM1NrWVBHTk5SS2dYM1lFd1ZkZ09VekYzRWFPem9Vd2lZMDhwSjFxbnlCUTZzT3BHVVRPQ21SUzJGV0ZudTYyTldSQlREUWNya2VUcm1NRURvc1NMMERnbVNJMHdYNHh2bURZOXZrbmNlRF9MbHpr?oc=5"
-        },
-        {
-          "d": "inc.com",
-          "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcVRZVF9GTnM1cUw4UXU3OTNncDdkamtadllPWTBuT0w4M0hYZ3pHc1JCWTdWOE54c001TVBHYzRwSnk2YVhtV21lLUFFd2xjNGsyM0MzRS1MUmYtNHp1R0lUZndJcVBYS0FWZThaSzZhWVNveUpmYTIwcGJpZVY0dUs1X3h0RnVlVV9QOEk2ak5WN3NMaHc4elROUlVxcjVoNG50cUh3QWhYME85MEI3emhxdExFTm5EYWVXdHJDc2djMlZnYlN3cGFUYlZxaHBPMDdaRw?oc=5"
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9keDdSVmlFNGR6UkprRmZ3U2tLQk5zWXJBcnY1aGVVY0xPdmRxX2lLREtoSy1DU1JUOFlTcG5McldLUGt6RGZIckNRaU94Q1NVVGdUZ19NOVdfNjZqSldyV19CZml0SFA4OGZqNkQwTllPUQ?oc=5"
         }
       ],
       "srcTitles": [
-        "Gates Foundation pledges $1 billion to try and make AI more equitable",
-        "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality",
-        "Bill Gates Warns Future Technology Will Favor Those Who Can Pay. His Foundation Is Pledging $1 Billion to Fight It"
+        "Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
+        "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown"
       ]
     },
     {
       "cat": "models",
-      "signal": 16,
+      "signal": 20,
+      "sources": 2,
+      "ts": "2026-09-15T16:25:43.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Johnson echoes Trump 'hoax' claim over catastrophic AI warnings",
+      "s": "Johnson echoes Trump 'hoax' claim over catastrophic AI warnings Courthouse News",
+      "b": [
+        "courthousenews.com: Johnson echoes Trump 'hoax' claim over catastrophic AI warnings",
+        "washingtontimes.com: Trump calls AI warnings a hoax as China closes the tech gap"
+      ],
+      "body": [
+        "courthousenews.com: Johnson echoes Trump 'hoax' claim over catastrophic AI warnings Courthouse News",
+        "washingtontimes.com: Trump calls AI warnings a hoax as China closes the tech gap Washington Times"
+      ],
+      "l": [
+        {
+          "d": "courthousenews.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUk03RWRoeGF1cXp3aEZwbVpjNzF5NW1hV0pkQnhlVl9HT2pJeUYwMDdtYVRDbm00Znp6S1JENm5ZUUhoVmNyOHNjaEgwa2dUWHZTNFFrVTlxd3pHSkp4NEg4c3dOb1NuT2FmT3hkVzBJNFNvd0tIYkxwZlRvaDljUmdERVRRQjAzU0tXbXV6SzdpcmVxY0JpNA?oc=5"
+        },
+        {
+          "d": "washingtontimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXNabkQ4VWdBX2htM194bFFKVFp4eVc1UUt1cW1HV0lpVVpzS2ZIQ0lTVGxrak41UW9fWkdqS0E0bmN1NjFiMHdscWFJaDFEYy1SWEtjcFZNYTZwMTc2ekdjT3ExM2U2Q2ctVGFpaDF6VHNzam1pSnlmZlVmckItTVFKY1JCd2FhMUNzZTRmLThmOUI3VnpJWThFaHBHOFVuU2c?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Johnson echoes Trump 'hoax' claim over catastrophic AI warnings",
+        "Trump calls AI warnings a hoax as China closes the tech gap"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 15,
       "sources": 2,
       "ts": "2026-09-15T12:56:00.000Z",
       "writtenSources": 2,
