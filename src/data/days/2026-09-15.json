@@ -42,6 +42,48 @@
     },
     {
       "cat": "policy",
+      "signal": 63,
+      "sources": 4,
+      "ts": "2026-09-15T02:50:36.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI regulation faces deadlock as calls grow for Congress to act",
+      "s": "AI regulation faces deadlock as calls grow for Congress to act BBC",
+      "b": [
+        "bbc.com: AI regulation faces deadlock as calls grow for Congress to act",
+        "abcnews.com: Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - ABC News"
+      ],
+      "body": [
+        "bbc.com: AI regulation faces deadlock as calls grow for Congress to act BBC",
+        "abcnews.com: Tech CEOs call for AI regulation. Trump and Congress are not rushing to act ABC News - Breaking News, Latest News and Videos"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
+        },
+        {
+          "d": "baltimoresun.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSThvU0pDMVlEWkhHS1J5cUlMaDQ5em93dTNsWUZ6Zl9yOEZIeGNxaGlBWHcyM0ZiLXdRUUdaMjBRQkRjT2h2M2h6TG1rZ2lPanlyMkt3UVZtRjNWZmh1M0RaTGM2aURDZFFoNFk4Q3pkU0NuX1YtZmRubnBfZG9PUlZJSUh1WENDYk9CbUtibG5GaWx6UlRVYWhxcnNWbW9EQzZ3ckQ1Ul9Bc3BORHlsQ1dLb3dNMTBCaEhF?oc=5"
+        },
+        {
+          "d": "npr.org",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzlDMS14ekNidjBCaUU2WVdmMTFnWnJoN3BYWDlKY0lPN2FqNVBMcDJlckVmMnM4ajFmZFF1Rk4zdTVJcFBiemgwQVhnUUliZEt0d3RaamNYbW1ldXNOX2I4RC1wVWpuTUJvMkpxamxUYk9adGk2NGs0bzZTQ2xxdA?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.14767"
+        }
+      ],
+      "srcTitles": [
+        "DevFest is back",
+        "Congress warms to AI regulation after industry leaders back call for restraint",
+        "Beijing hits back at Anthropic CEO's call to curb China's AI development",
+        "Loop-Back Authority in LLM Agent Teams: A Paired Experiment on Flat and Hierarchical Coordination"
+      ]
+    },
+    {
+      "cat": "policy",
       "signal": 61,
       "sources": 2,
       "ts": "2026-09-15T14:40:09.000Z",
@@ -87,8 +129,8 @@
       "body": [],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
         }
       ],
       "srcTitles": [
@@ -97,7 +139,7 @@
     },
     {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-09-15T13:00:00.000Z",
       "writtenSources": 1,
@@ -118,38 +160,6 @@
       ],
       "srcTitles": [
         "New insights from Google’s AI & Economy ATLAS"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 37,
-      "sources": 2,
-      "ts": "2026-09-15T15:02:58.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
-      "s": "Annie Palmer / CNBC : Elon Musk says top US AI labs and three or four of the leading Chinese companies should let rivals run a test harness on their models to evaluate safety Elon Musk called for the ",
-      "b": [
-        "techmeme.com: Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
-        "cnbc.com: Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown"
-      ],
-      "body": [
-        "techmeme.com: Annie Palmer / CNBC : Elon Musk says top US AI labs and three or four of the leading Chinese companies should let rivals run a test harness on their models to evaluate safety Elon Musk called for the top artificial intelligence companies to work together and test each other's models",
-        "cnbc.com: Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown CNBC"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260915/p31#a260915p31"
-        },
-        {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9keDdSVmlFNGR6UkprRmZ3U2tLQk5zWXJBcnY1aGVVY0xPdmRxX2lLREtoSy1DU1JUOFlTcG5McldLUGt6RGZIckNRaU94Q1NVVGdUZ19NOVdfNjZqSldyV19CZml0SFA4OGZqNkQwTllPUQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
-        "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown"
       ]
     },
     {
@@ -185,40 +195,147 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 36,
+      "cat": "models",
+      "signal": 33,
       "sources": 2,
-      "ts": "2026-09-15T02:50:36.000Z",
+      "ts": "2026-09-15T15:02:58.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "AI regulation faces deadlock as calls grow for Congress to act",
-      "s": "AI regulation faces deadlock as calls grow for Congress to act BBC",
+      "h": "Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
+      "s": "Annie Palmer / CNBC : Elon Musk says top US AI labs and three or four of the leading Chinese companies should let rivals run a test harness on their models to evaluate safety Elon Musk called for the ",
       "b": [
-        "bbc.com: AI regulation faces deadlock as calls grow for Congress to act",
-        "abcnews.com: Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - ABC News"
+        "techmeme.com: Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
+        "cnbc.com: Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown"
       ],
       "body": [
-        "bbc.com: AI regulation faces deadlock as calls grow for Congress to act BBC",
-        "abcnews.com: Tech CEOs call for AI regulation. Trump and Congress are not rushing to act ABC News - Breaking News, Latest News and Videos"
+        "techmeme.com: Annie Palmer / CNBC : Elon Musk says top US AI labs and three or four of the leading Chinese companies should let rivals run a test harness on their models to evaluate safety Elon Musk called for the top artificial intelligence companies to work together and test each other's models",
+        "cnbc.com: Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown CNBC"
       ],
       "l": [
         {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04MUFqcTlBMVdpaHpuYVRMNEFuWTdvLUgyNFgxVmFkNEdhYU9YelNVa1lpWFRoMWVLb0V5ZHNOSkhvdGhpdk1fNnp0VkpKX2FoeVhadnp5eDdZUkE?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260915/p31#a260915p31"
         },
         {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVA2U2xMc2dhVGYzZUlhcmJWdGk1ZEVNQjQwR2I0WFJOSkN0T3FaQXFkTHpMUktNczV4Q0FnTGNTMnBtWFI1V2xtVTJsektpYTlwSjZsWFZYZmF0bU1ZZWduVFUwdlczVDloZUphcjlsbmFqQ2VRVEFrVklhaTJ4WGdJUTdELUplSGwtUU1EV0RMU0NULURacDBncVFzMFVrLUHSAacBQVVfeXFMUC05aHFtTU40TVppV0Qyd1p2VGFaQkxwSUVySlMtbGxBS1lkTzNXZE56QVNUUzhTeU5uci1NX0JRc0l0Rjh0ay1oUTl2QUVpbTNmY0FfQ1k2Z3o4eVdTcU5rMS1Ja1VKNTl2RzN6MHB6OE9Gbkp4RTU5ZE10YzlPNVp4WkZ5OFRfbHpURVlOZlo5bjIyS0Vac0pBdlNUbkl6SzFMekFjVnM?oc=5"
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE9keDdSVmlFNGR6UkprRmZ3U2tLQk5zWXJBcnY1aGVVY0xPdmRxX2lLREtoSy1DU1JUOFlTcG5McldLUGt6RGZIckNRaU94Q1NVVGdUZ19NOVdfNjZqSldyV19CZml0SFA4OGZqNkQwTllPUQ?oc=5"
         }
       ],
       "srcTitles": [
-        "AI regulation faces deadlock as calls grow for Congress to act",
-        "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - ABC News"
+        "Elon Musk says top US AI labs and \"three or four of the leading Chinese companies\" should let rivals run a \"test harness\" on their models to evaluate safety (Annie Palmer/CNBC)",
+        "Musk urges top AI labs, Chinese companies to test each other's models amid calls for slowdown"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-15T16:25:43.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Johnson echoes Trump 'hoax' claim over catastrophic AI warnings",
+      "s": "Johnson echoes Trump 'hoax' claim over catastrophic AI warnings Courthouse News",
+      "b": [
+        "courthousenews.com: Johnson echoes Trump 'hoax' claim over catastrophic AI warnings",
+        "washingtontimes.com: Trump calls AI warnings a hoax as China closes the tech gap"
+      ],
+      "body": [
+        "courthousenews.com: Johnson echoes Trump 'hoax' claim over catastrophic AI warnings Courthouse News",
+        "washingtontimes.com: Trump calls AI warnings a hoax as China closes the tech gap Washington Times"
+      ],
+      "l": [
+        {
+          "d": "courthousenews.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUk03RWRoeGF1cXp3aEZwbVpjNzF5NW1hV0pkQnhlVl9HT2pJeUYwMDdtYVRDbm00Znp6S1JENm5ZUUhoVmNyOHNjaEgwa2dUWHZTNFFrVTlxd3pHSkp4NEg4c3dOb1NuT2FmT3hkVzBJNFNvd0tIYkxwZlRvaDljUmdERVRRQjAzU0tXbXV6SzdpcmVxY0JpNA?oc=5"
+        },
+        {
+          "d": "washingtontimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWXNabkQ4VWdBX2htM194bFFKVFp4eVc1UUt1cW1HV0lpVVpzS2ZIQ0lTVGxrak41UW9fWkdqS0E0bmN1NjFiMHdscWFJaDFEYy1SWEtjcFZNYTZwMTc2ekdjT3ExM2U2Q2ctVGFpaDF6VHNzam1pSnlmZlVmckItTVFKY1JCd2FhMUNzZTRmLThmOUI3VnpJWThFaHBHOFVuU2c?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Johnson echoes Trump 'hoax' claim over catastrophic AI warnings",
+        "Trump calls AI warnings a hoax as China closes the tech gap"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-09-15T17:47:51.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Roundtables: Could AI really kill us all?",
+      "s": "Listen to the session or watch below Employees at the world s leading AI labs are saying there s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremonger",
+      "b": [
+        "technologyreview.com: Roundtables: Could AI really kill us all?"
+      ],
+      "body": [
+        "technologyreview.com: Listen to the session or watch below Employees at the world s leading AI labs are saying there s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so, what we should do. Recorded on September 15, 2026 Speakers : Niall Firth , Executive Editor, Will Douglas Heaven , Senior AI editor, and Grace Huckins , AI reporter Related Stories Here’s why AI agents lie and cheat to reach their goals AI’s recursive self-improvement might not come so quickly after all Bill Gates says we’ve passed AI’s danger thresholds. Now what? The inside story on why OpenAI agents hacked Hugging Face"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
+        }
+      ],
+      "srcTitles": [
+        "Roundtables: Could AI really kill us all?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-15T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Building AI to accelerate science and improve lives",
+      "s": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
+      "b": [
+        "blog.google: Building AI to accelerate science and improve lives"
+      ],
+      "body": [
+        "blog.google: The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
+        }
+      ],
+      "srcTitles": [
+        "Building AI to accelerate science and improve lives"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-15T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AI for everyone in every language",
+      "s": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
+      "b": [
+        "blog.google: AI for everyone in every language"
+      ],
+      "body": [
+        "blog.google: We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
+        }
+      ],
+      "srcTitles": [
+        "AI for everyone in every language"
       ]
     },
     {
       "cat": "products",
-      "signal": 30,
+      "signal": 26,
       "sources": 3,
       "ts": "2026-09-15T07:02:00.000Z",
       "writtenSources": 2,
@@ -255,57 +372,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
-      "sources": 1,
-      "ts": "2026-09-15T16:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Building AI to accelerate science and improve lives",
-      "s": "The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …",
-      "b": [
-        "blog.google: Building AI to accelerate science and improve lives"
-      ],
-      "body": [
-        "blog.google: The true measure of AI is who it helps. Here’s how it’s impacting lives today. We're focused on key areas where advanced technology can help make extraordinary progress …"
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people/"
-        }
-      ],
-      "srcTitles": [
-        "Building AI to accelerate science and improve lives"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 30,
-      "sources": 1,
-      "ts": "2026-09-15T16:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "AI for everyone in every language",
-      "s": "We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed.",
-      "b": [
-        "blog.google: AI for everyone in every language"
-      ],
-      "body": [
-        "blog.google: We’re moving beyond traditional text translation to build models that understand the world’s rich, living languages exactly as they are expressed."
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language/"
-        }
-      ],
-      "srcTitles": [
-        "AI for everyone in every language"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 28,
+      "signal": 24,
       "sources": 2,
       "ts": "2026-09-15T12:56:00.000Z",
       "writtenSources": 2,
