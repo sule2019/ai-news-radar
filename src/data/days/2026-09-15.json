@@ -2,8 +2,53 @@
   "date": "2026-09-15",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 98,
+      "sources": 11,
+      "ts": "2026-09-15T02:50:36.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI regulation faces deadlock as calls grow for Congress to act",
+      "s": "AI regulation faces deadlock as calls grow for Congress to act BBC",
+      "b": [
+        "bbc.com: AI regulation faces deadlock as calls grow for Congress to act",
+        "abcnews.com: Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - ABC News"
+      ],
+      "body": [
+        "bbc.com: AI regulation faces deadlock as calls grow for Congress to act BBC",
+        "abcnews.com: Tech CEOs call for AI regulation. Trump and Congress are not rushing to act ABC News - Breaking News, Latest News and Videos"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWtzLXBobVZlbEl3NjhNWmoyeXZsMnZRbk80Yi1iWTNFNUdFR1Y3SlkwSktxWlNFcGFUNmN1WWdvOVJuaW9Kcmt0dkN5Vm42OXR6OW5XSk04QTE2TXZCajBlMEp1UVNhZjRxOXNfYUJ4ZTI2YWpsbmM0T0lDeHpPdkNYemlaWHN4UmpKcHRCeFd5SEVERlFlQTV1LWI4Mk5Leng0RXhn?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.14767"
+        },
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+        },
+        {
+          "d": "+7"
+        }
+      ],
+      "srcTitles": [
+        "DevFest is back",
+        "OpenAI backs bipartisan push to address AI biothreats",
+        "Loop-Back Authority in LLM Agent Teams: A Paired Experiment on Flat and Hierarchical Coordination",
+        "Auditable Agents"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 70,
+      "signal": 67,
       "sources": 3,
       "ts": "2026-09-15T15:00:00.000Z",
       "writtenSources": 3,
@@ -42,49 +87,7 @@
     },
     {
       "cat": "policy",
-      "signal": 63,
-      "sources": 4,
-      "ts": "2026-09-15T02:50:36.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "AI regulation faces deadlock as calls grow for Congress to act",
-      "s": "AI regulation faces deadlock as calls grow for Congress to act BBC",
-      "b": [
-        "bbc.com: AI regulation faces deadlock as calls grow for Congress to act",
-        "abcnews.com: Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - ABC News"
-      ],
-      "body": [
-        "bbc.com: AI regulation faces deadlock as calls grow for Congress to act BBC",
-        "abcnews.com: Tech CEOs call for AI regulation. Trump and Congress are not rushing to act ABC News - Breaking News, Latest News and Videos"
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026/"
-        },
-        {
-          "d": "baltimoresun.com",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSThvU0pDMVlEWkhHS1J5cUlMaDQ5em93dTNsWUZ6Zl9yOEZIeGNxaGlBWHcyM0ZiLXdRUUdaMjBRQkRjT2h2M2h6TG1rZ2lPanlyMkt3UVZtRjNWZmh1M0RaTGM2aURDZFFoNFk4Q3pkU0NuX1YtZmRubnBfZG9PUlZJSUh1WENDYk9CbUtibG5GaWx6UlRVYWhxcnNWbW9EQzZ3ckQ1Ul9Bc3BORHlsQ1dLb3dNMTBCaEhF?oc=5"
-        },
-        {
-          "d": "npr.org",
-          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUzlDMS14ekNidjBCaUU2WVdmMTFnWnJoN3BYWDlKY0lPN2FqNVBMcDJlckVmMnM4ajFmZFF1Rk4zdTVJcFBiemgwQVhnUUliZEt0d3RaamNYbW1ldXNOX2I4RC1wVWpuTUJvMkpxamxUYk9adGk2NGs0bzZTQ2xxdA?oc=5"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2609.14767"
-        }
-      ],
-      "srcTitles": [
-        "DevFest is back",
-        "Congress warms to AI regulation after industry leaders back call for restraint",
-        "Beijing hits back at Anthropic CEO's call to curb China's AI development",
-        "Loop-Back Authority in LLM Agent Teams: A Paired Experiment on Flat and Hierarchical Coordination"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 61,
+      "signal": 57,
       "sources": 2,
       "ts": "2026-09-15T14:40:09.000Z",
       "writtenSources": 2,
@@ -116,7 +119,7 @@
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 48,
       "sources": 1,
       "ts": "2026-09-15T17:05:57.000Z",
       "writtenSources": 1,
@@ -196,7 +199,7 @@
     },
     {
       "cat": "models",
-      "signal": 33,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-09-15T15:02:58.000Z",
       "writtenSources": 2,
@@ -228,7 +231,7 @@
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-09-15T16:25:43.000Z",
       "writtenSources": 2,
@@ -260,7 +263,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-09-15T17:47:51.000Z",
       "writtenSources": 1,
@@ -334,8 +337,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-15T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "What s at stake in AI’s trillion-dollar gamble",
+      "s": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and",
+      "b": [
+        "technologyreview.com: What s at stake in AI’s trillion-dollar gamble"
+      ],
+      "body": [
+        "technologyreview.com: When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called hyperscalers are investing huge amounts of money to build AI data centers. Instead of trying to predict how useful and widely deployed AI models will be, she simply asked how fast the hyperscalers’ earnings will need to grow to justify their spending through 2027, when—she and her collaborator estimate—expenditures will reach nearly $1.1 trillion. It s a no-nonsense accounting approach to making sense of today’s historical AI buildout. The results are eye-opening : The AI companies will need to increase their own productivity by a factor of 2.7 to break even by 2030, accounting for the cost of capital and a 15% return, and depreciation of the assets. Not impossible, says Wachter. The result would lead to the kind of economic growth that we saw during the US IT boom over a period of about 10 years starting in the mid-1990s. But, she says, for it to happen by 2030 “that’s a lot of growth compressed into a few years.” And if the hyperscalers cannot meet such profit goals? “Then they will fall behind on their interest payments, and that risks bankruptcy,” says Wachter, who was previously the SEC’s chief economist and director of its division of economic and risk analysis. If a productivity boom “fails to materialize,” she and her coauthor conclude in their research paper, “the current buildout will be the largest misallocation of capital in history.” It doesn’t take superintelligence to realize that today’s large investments in the infrastructure for artificial intelligence come with huge risks. The hyperscalers will spend about $750 billion this year, building massive data centers scattered across the country. And the spending spree shows no sign"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
+        }
+      ],
+      "srcTitles": [
+        "What s at stake in AI’s trillion-dollar gamble"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 26,
+      "signal": 22,
       "sources": 3,
       "ts": "2026-09-15T07:02:00.000Z",
       "writtenSources": 2,
@@ -372,7 +400,7 @@
     },
     {
       "cat": "models",
-      "signal": 24,
+      "signal": 20,
       "sources": 2,
       "ts": "2026-09-15T12:56:00.000Z",
       "writtenSources": 2,
@@ -400,31 +428,6 @@
       "srcTitles": [
         "Limit AI Now or Humanity Will Lose Its Agency, Says Nobel Laureate Ressa",
         "Limit AI now or humanity will lose its agency, says Nobel laureate Ressa"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-09-15T10:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "What s at stake in AI’s trillion-dollar gamble",
-      "s": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and",
-      "b": [
-        "technologyreview.com: What s at stake in AI’s trillion-dollar gamble"
-      ],
-      "body": [
-        "technologyreview.com: When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called hyperscalers are investing huge amounts of money to build AI data centers. Instead of trying to predict how useful and widely deployed AI models will be, she simply asked how fast the hyperscalers’ earnings will need to grow to justify their spending through 2027, when—she and her collaborator estimate—expenditures will reach nearly $1.1 trillion. It s a no-nonsense accounting approach to making sense of today’s historical AI buildout. The results are eye-opening : The AI companies will need to increase their own productivity by a factor of 2.7 to break even by 2030, accounting for the cost of capital and a 15% return, and depreciation of the assets. Not impossible, says Wachter. The result would lead to the kind of economic growth that we saw during the US IT boom over a period of about 10 years starting in the mid-1990s. But, she says, for it to happen by 2030 “that’s a lot of growth compressed into a few years.” And if the hyperscalers cannot meet such profit goals? “Then they will fall behind on their interest payments, and that risks bankruptcy,” says Wachter, who was previously the SEC’s chief economist and director of its division of economic and risk analysis. If a productivity boom “fails to materialize,” she and her coauthor conclude in their research paper, “the current buildout will be the largest misallocation of capital in history.” It doesn’t take superintelligence to realize that today’s large investments in the infrastructure for artificial intelligence come with huge risks. The hyperscalers will spend about $750 billion this year, building massive data centers scattered across the country. And the spending spree shows no sign"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
-        }
-      ],
-      "srcTitles": [
-        "What s at stake in AI’s trillion-dollar gamble"
       ]
     }
   ]
