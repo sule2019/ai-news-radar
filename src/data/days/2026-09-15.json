@@ -2,8 +2,78 @@
   "date": "2026-09-15",
   "stories": [
     {
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-09-15T13:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "New insights from Google’s AI & Economy ATLAS",
+      "s": "We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience.",
+      "b": [
+        "blog.google: New insights from Google’s AI & Economy ATLAS"
+      ],
+      "body": [
+        "blog.google: We’ve translated ATLAS’s millions of global data points into an interactive, open-access experience."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026/"
+        }
+      ],
+      "srcTitles": [
+        "New insights from Google’s AI & Economy ATLAS"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 41,
+      "sources": 5,
+      "ts": "2026-09-15T07:02:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Gates Foundation launches $1B AI initiative",
+      "s": "Gates Foundation launches $1B AI initiative KUOW",
+      "b": [
+        "kuow.org: Gates Foundation launches $1B AI initiative",
+        "abcnews.com: Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access - ABC News"
+      ],
+      "body": [
+        "kuow.org: Gates Foundation launches $1B AI initiative KUOW",
+        "abcnews.com: Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access ABC News - Breaking News, Latest News and Videos"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260915/p20#a260915p20"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjQ4VktTOFQ2dF9CNFl3cVlZQkZHeVZKeXJJa0dJQ1JYZFlmaWtFR1pfV3R0cFMtMUkwTmswQ25Jal9aM2Z1aVdfYjhiMVhzdnJUX1JMelF3Vzl3SDF5cTByazNGUTBaRG1lUnk5dWRtSmkxTEMtamlGenVxZmJvSmVmTUtjbUxORUNsV2RBWTRLTFE4YjFKRWZ4MXNmYnNSenJ0ZnNpVV9Qa1BmeWlkaG930gG3AUFVX3lxTE4zWEs5Zk40X0hFQ1RJdktXcjVuUFZZTldaN2NWRVVLY0RYOWZSdmdVbDQyU19qSmRyalVxeTJ4cEJmLTdsQnZtOTIwVFNIdU11OVpaLVJMXzBDS2hWSkZ1amRYa19SOHlGQ0RvdEVRcDlqZTVBUGtpWFBxNmt2akVWdEI2LUdMRkxEUVkzRm0zREFldGVxenRSQmhIdXFXVnBmYXlqemMyb0hEbUpfd0hzZTBaNTQySQ?oc=5"
+        },
+        {
+          "d": "10tv.com",
+          "u": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQ0hvd2hVajF6V2h6c1k2RGx4X1o4SDhqaWtMaVdSVGJjbjJNbkRQeWZhd2R3SnpDSmg0emtxMHdBdERvZjh0MzlwOGJqakRUTDJUQW0wTWU5ZnlLd3lXZzRaOFpQcjAwRlFBcFRKQzhuTmVZMWs2cnVLUDl6QjlRRVgxVGNHa0QxcFBjSG9qWlRQOEdiWkJraThDakFHZmYyNjc1VHN5eFVQNkcwWWF3X0U4bjdId0tTeWRqdURuZi1mN3FXN2VROFN0WmtzMGdyRmF4OGduVHNaX25pU1E1cV9KOXJzeHZD?oc=5"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUHZPVWtSUnBCdi1wLURMamR6S1VfM1NrWVBHTk5SS2dYM1lFd1ZkZ09VekYzRWFPem9Vd2lZMDhwSjFxbnlCUTZzT3BHVVRPQ21SUzJGV0ZudTYyTldSQlREUWNya2VUcm1NRURvc1NMMERnbVNJMHdYNHh2bURZOXZrbmNlRF9MbHpr?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "The Gates Foundation pledges $1B+ over two years to expand global access to AI and use it to tackle social inequalities; Gates says \"we can harness AI for good\" (Claire Moses/New York Times)",
+        "Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access - ABC News",
+        "Gates Foundation pledges $1 billion to try and make AI more equitable",
+        "Gates Foundation Pledges $1 Billion to Combat A.I. Inequality"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-09-15T02:50:36.000Z",
       "writtenSources": 2,
@@ -34,35 +104,35 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 28,
+      "cat": "models",
+      "signal": 32,
       "sources": 2,
-      "ts": "2026-09-15T07:02:00.000Z",
+      "ts": "2026-09-15T12:56:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Gates Foundation launches $1B AI initiative",
-      "s": "Gates Foundation launches $1B AI initiative KUOW",
+      "h": "Limit AI Now or Humanity Will Lose Its Agency, Says Nobel Laureate Ressa",
+      "s": "Limit AI Now or Humanity Will Lose Its Agency, Says Nobel Laureate Ressa U.S. News & World Report",
       "b": [
-        "kuow.org: Gates Foundation launches $1B AI initiative",
-        "abcnews.com: Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access - ABC News"
+        "usnews.com: Limit AI Now or Humanity Will Lose Its Agency, Says Nobel Laureate Ressa",
+        "yahoo.com: Limit AI now or humanity will lose its agency, says Nobel laureate Ressa"
       ],
       "body": [
-        "kuow.org: Gates Foundation launches $1B AI initiative KUOW",
-        "abcnews.com: Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access ABC News - Breaking News, Latest News and Videos"
+        "usnews.com: Limit AI Now or Humanity Will Lose Its Agency, Says Nobel Laureate Ressa U.S. News & World Report",
+        "yahoo.com: Limit AI now or humanity will lose its agency, says Nobel laureate Ressa Yahoo"
       ],
       "l": [
         {
-          "d": "kuow.org",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcG1yMjFCb1B3M2NoMjdNMmlPUU9KYUU2dkJSNkVaQjFrWWZHRlFheUdJd0pfUHNWU2plTmJndUdrWTZsTEJyVEhnNm9hTTJVUlJEN1NTVnViU2laN2dkemtncUZfUTZMaWtjOURHRVlWYm9KbG1GTHJKU1ZTR1JtSEx5YmNGYXNQamZlWU16VzJOM2FXMTZaZTNuTWdyZzdCYUFEa3cxTjV3X0wtOWU4Vm11Q3lISzVKRjgxYmZB?oc=5"
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWHUxdHhYTV9QTDNWZ081R2ZXczZONXUxdm5KeTdWamtVc0F5d1RPQ3NnVlFlWjZHaEhseEVfUlNuMkZWNDhLR2NIX0QtemtCVzRIS0I1UHBlWnYwczIwdkNPRTRLTGV0M0V3eHUzYUptZHJnSXp0eVJERmludGNHbUFGYnF4WUdRUGhzaFE4QUx5TFBwVjFlamlURzRuZC1XOGZQZHdNMXlJODVLcV8tMFFqRDZ4Ri15djFMSWJkbEJoS3M?oc=5"
         },
         {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjQ4VktTOFQ2dF9CNFl3cVlZQkZHeVZKeXJJa0dJQ1JYZFlmaWtFR1pfV3R0cFMtMUkwTmswQ25Jal9aM2Z1aVdfYjhiMVhzdnJUX1JMelF3Vzl3SDF5cTByazNGUTBaRG1lUnk5dWRtSmkxTEMtamlGenVxZmJvSmVmTUtjbUxORUNsV2RBWTRLTFE4YjFKRWZ4MXNmYnNSenJ0ZnNpVV9Qa1BmeWlkaG930gG3AUFVX3lxTE4zWEs5Zk40X0hFQ1RJdktXcjVuUFZZTldaN2NWRVVLY0RYOWZSdmdVbDQyU19qSmRyalVxeTJ4cEJmLTdsQnZtOTIwVFNIdU11OVpaLVJMXzBDS2hWSkZ1amRYa19SOHlGQ0RvdEVRcDlqZTVBUGtpWFBxNmt2akVWdEI2LUdMRkxEUVkzRm0zREFldGVxenRSQmhIdXFXVnBmYXlqemMyb0hEbUpfd0hzZTBaNTQySQ?oc=5"
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRk1wc2JXS2RLc0ZvUlhzNXZfcG1Nc1AzTmdaeDZiWGNLS0xXd05tQjE4MlhpcGlZTzdRbVY0bjlrTk5NdDFNQzI5bXVjSmE3UTNHQTBSOS1Fd2RkOTBZU2ZNOTNaNFpJLUM0SkxBeEdEazhGUTd2WWY1N3hzSHBoT2JNYVdDdXhOX0Z3TkdVZw?oc=5"
         }
       ],
       "srcTitles": [
-        "Gates Foundation launches $1B AI initiative",
-        "Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access - ABC News"
+        "Limit AI Now or Humanity Will Lose Its Agency, Says Nobel Laureate Ressa",
+        "Limit AI now or humanity will lose its agency, says Nobel laureate Ressa"
       ]
     },
     {
