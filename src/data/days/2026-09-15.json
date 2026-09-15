@@ -1,4 +1,69 @@
 {
   "date": "2026-09-15",
-  "stories": []
+  "stories": [
+    {
+      "cat": "policy",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-09-15T02:50:36.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI regulation faces deadlock as calls grow for Congress to act",
+      "s": "AI regulation faces deadlock as calls grow for Congress to act BBC",
+      "b": [
+        "bbc.com: AI regulation faces deadlock as calls grow for Congress to act",
+        "abcnews.com: Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - ABC News"
+      ],
+      "body": [
+        "bbc.com: AI regulation faces deadlock as calls grow for Congress to act BBC",
+        "abcnews.com: Tech CEOs call for AI regulation. Trump and Congress are not rushing to act ABC News - Breaking News, Latest News and Videos"
+      ],
+      "l": [
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE04MUFqcTlBMVdpaHpuYVRMNEFuWTdvLUgyNFgxVmFkNEdhYU9YelNVa1lpWFRoMWVLb0V5ZHNOSkhvdGhpdk1fNnp0VkpKX2FoeVhadnp5eDdZUkE?oc=5"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOWVA2U2xMc2dhVGYzZUlhcmJWdGk1ZEVNQjQwR2I0WFJOSkN0T3FaQXFkTHpMUktNczV4Q0FnTGNTMnBtWFI1V2xtVTJsektpYTlwSjZsWFZYZmF0bU1ZZWduVFUwdlczVDloZUphcjlsbmFqQ2VRVEFrVklhaTJ4WGdJUTdELUplSGwtUU1EV0RMU0NULURacDBncVFzMFVrLUHSAacBQVVfeXFMUC05aHFtTU40TVppV0Qyd1p2VGFaQkxwSUVySlMtbGxBS1lkTzNXZE56QVNUUzhTeU5uci1NX0JRc0l0Rjh0ay1oUTl2QUVpbTNmY0FfQ1k2Z3o4eVdTcU5rMS1Ja1VKNTl2RzN6MHB6OE9Gbkp4RTU5ZE10YzlPNVp4WkZ5OFRfbHpURVlOZlo5bjIyS0Vac0pBdlNUbkl6SzFMekFjVnM?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI regulation faces deadlock as calls grow for Congress to act",
+        "Tech CEOs call for AI regulation. Trump and Congress are not rushing to act - ABC News"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-15T07:02:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Gates Foundation launches $1B AI initiative",
+      "s": "Gates Foundation launches $1B AI initiative KUOW",
+      "b": [
+        "kuow.org: Gates Foundation launches $1B AI initiative",
+        "abcnews.com: Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access - ABC News"
+      ],
+      "body": [
+        "kuow.org: Gates Foundation launches $1B AI initiative KUOW",
+        "abcnews.com: Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access ABC News - Breaking News, Latest News and Videos"
+      ],
+      "l": [
+        {
+          "d": "kuow.org",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQcG1yMjFCb1B3M2NoMjdNMmlPUU9KYUU2dkJSNkVaQjFrWWZHRlFheUdJd0pfUHNWU2plTmJndUdrWTZsTEJyVEhnNm9hTTJVUlJEN1NTVnViU2laN2dkemtncUZfUTZMaWtjOURHRVlWYm9KbG1GTHJKU1ZTR1JtSEx5YmNGYXNQamZlWU16VzJOM2FXMTZaZTNuTWdyZzdCYUFEa3cxTjV3X0wtOWU4Vm11Q3lISzVKRjgxYmZB?oc=5"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRjQ4VktTOFQ2dF9CNFl3cVlZQkZHeVZKeXJJa0dJQ1JYZFlmaWtFR1pfV3R0cFMtMUkwTmswQ25Jal9aM2Z1aVdfYjhiMVhzdnJUX1JMelF3Vzl3SDF5cTByazNGUTBaRG1lUnk5dWRtSmkxTEMtamlGenVxZmJvSmVmTUtjbUxORUNsV2RBWTRLTFE4YjFKRWZ4MXNmYnNSenJ0ZnNpVV9Qa1BmeWlkaG930gG3AUFVX3lxTE4zWEs5Zk40X0hFQ1RJdktXcjVuUFZZTldaN2NWRVVLY0RYOWZSdmdVbDQyU19qSmRyalVxeTJ4cEJmLTdsQnZtOTIwVFNIdU11OVpaLVJMXzBDS2hWSkZ1amRYa19SOHlGQ0RvdEVRcDlqZTVBUGtpWFBxNmt2akVWdEI2LUdMRkxEUVkzRm0zREFldGVxenRSQmhIdXFXVnBmYXlqemMyb0hEbUpfd0hzZTBaNTQySQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Gates Foundation launches $1B AI initiative",
+        "Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access - ABC News"
+      ]
+    }
+  ]
 }
