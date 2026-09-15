@@ -4,7 +4,7 @@
     {
       "cat": "policy",
       "signal": 98,
-      "sources": 11,
+      "sources": 10,
       "ts": "2026-09-15T02:50:36.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -36,7 +36,7 @@
           "u": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
         },
         {
-          "d": "+7"
+          "d": "+6"
         }
       ],
       "srcTitles": [
@@ -48,7 +48,7 @@
     },
     {
       "cat": "models",
-      "signal": 67,
+      "signal": 63,
       "sources": 3,
       "ts": "2026-09-15T15:00:00.000Z",
       "writtenSources": 3,
@@ -87,7 +87,7 @@
     },
     {
       "cat": "policy",
-      "signal": 57,
+      "signal": 53,
       "sources": 2,
       "ts": "2026-09-15T14:40:09.000Z",
       "writtenSources": 2,
@@ -119,29 +119,6 @@
     },
     {
       "cat": "models",
-      "signal": 48,
-      "sources": 1,
-      "ts": "2026-09-15T17:05:57.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "s": "Covered by 1 outlet.",
-      "b": [
-        "blog.google: Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
-      ],
-      "body": [],
-      "l": [
-        {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
-        }
-      ],
-      "srcTitles": [
-        "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
-      ]
-    },
-    {
-      "cat": "models",
       "signal": 46,
       "sources": 1,
       "ts": "2026-09-15T13:00:00.000Z",
@@ -163,6 +140,29 @@
       ],
       "srcTitles": [
         "New insights from Google’s AI & Economy ATLAS"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 44,
+      "sources": 1,
+      "ts": "2026-09-15T17:05:57.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "s": "Covered by 1 outlet.",
+      "b": [
+        "blog.google: Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
+      ],
+      "body": [],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/"
+        }
+      ],
+      "srcTitles": [
+        "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking"
       ]
     },
     {
@@ -199,7 +199,32 @@
     },
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-15T17:47:51.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Roundtables: Could AI really kill us all?",
+      "s": "Listen to the session or watch below Employees at the world s leading AI labs are saying there s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremonger",
+      "b": [
+        "technologyreview.com: Roundtables: Could AI really kill us all?"
+      ],
+      "body": [
+        "technologyreview.com: Listen to the session or watch below Employees at the world s leading AI labs are saying there s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so, what we should do. Recorded on September 15, 2026 Speakers : Niall Firth , Executive Editor, Will Douglas Heaven , Senior AI editor, and Grace Huckins , AI reporter Related Stories Here’s why AI agents lie and cheat to reach their goals AI’s recursive self-improvement might not come so quickly after all Bill Gates says we’ve passed AI’s danger thresholds. Now what? The inside story on why OpenAI agents hacked Hugging Face"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
+        }
+      ],
+      "srcTitles": [
+        "Roundtables: Could AI really kill us all?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 25,
       "sources": 2,
       "ts": "2026-09-15T15:02:58.000Z",
       "writtenSources": 2,
@@ -231,7 +256,7 @@
     },
     {
       "cat": "models",
-      "signal": 28,
+      "signal": 24,
       "sources": 2,
       "ts": "2026-09-15T16:25:43.000Z",
       "writtenSources": 2,
@@ -263,32 +288,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-09-15T17:47:51.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Roundtables: Could AI really kill us all?",
-      "s": "Listen to the session or watch below Employees at the world s leading AI labs are saying there s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremonger",
-      "b": [
-        "technologyreview.com: Roundtables: Could AI really kill us all?"
-      ],
-      "body": [
-        "technologyreview.com: Listen to the session or watch below Employees at the world s leading AI labs are saying there s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation unpacking AI extinction fears: where they come from, whether they hold any water, and, if so, what we should do. Recorded on September 15, 2026 Speakers : Niall Firth , Executive Editor, Will Douglas Heaven , Senior AI editor, and Grace Huckins , AI reporter Related Stories Here’s why AI agents lie and cheat to reach their goals AI’s recursive self-improvement might not come so quickly after all Bill Gates says we’ve passed AI’s danger thresholds. Now what? The inside story on why OpenAI agents hacked Hugging Face"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/"
-        }
-      ],
-      "srcTitles": [
-        "Roundtables: Could AI really kill us all?"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-15T16:00:00.000Z",
       "writtenSources": 1,
@@ -313,7 +313,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-15T16:00:00.000Z",
       "writtenSources": 1,
@@ -363,7 +363,7 @@
     },
     {
       "cat": "products",
-      "signal": 22,
+      "signal": 18,
       "sources": 3,
       "ts": "2026-09-15T07:02:00.000Z",
       "writtenSources": 2,
@@ -400,7 +400,7 @@
     },
     {
       "cat": "models",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-09-15T12:56:00.000Z",
       "writtenSources": 2,
