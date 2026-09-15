@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-09-15T02:50:36.000Z",
       "writtenSources": 2,
@@ -35,7 +35,7 @@
     },
     {
       "cat": "products",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-09-15T07:02:00.000Z",
       "writtenSources": 2,
@@ -63,6 +63,31 @@
       "srcTitles": [
         "Gates Foundation launches $1B AI initiative",
         "Gates Foundation warns AI could widen inequality as foundation pledges $1B to expand access - ABC News"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-15T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "What s at stake in AI’s trillion-dollar gamble",
+      "s": "When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and",
+      "b": [
+        "technologyreview.com: What s at stake in AI’s trillion-dollar gamble"
+      ],
+      "body": [
+        "technologyreview.com: When Jessica Wachter, a finance professor at the University of Pennsylvania’s Wharton School, wanted to assess AI’s impact on the economy over the next few years, she faced a long list of business and technical uncertainties. So she started with what she calls a “remarkable fact” that is not in question: A handful of so-called hyperscalers are investing huge amounts of money to build AI data centers. Instead of trying to predict how useful and widely deployed AI models will be, she simply asked how fast the hyperscalers’ earnings will need to grow to justify their spending through 2027, when—she and her collaborator estimate—expenditures will reach nearly $1.1 trillion. It s a no-nonsense accounting approach to making sense of today’s historical AI buildout. The results are eye-opening : The AI companies will need to increase their own productivity by a factor of 2.7 to break even by 2030, accounting for the cost of capital and a 15% return, and depreciation of the assets. Not impossible, says Wachter. The result would lead to the kind of economic growth that we saw during the US IT boom over a period of about 10 years starting in the mid-1990s. But, she says, for it to happen by 2030 “that’s a lot of growth compressed into a few years.” And if the hyperscalers cannot meet such profit goals? “Then they will fall behind on their interest payments, and that risks bankruptcy,” says Wachter, who was previously the SEC’s chief economist and director of its division of economic and risk analysis. If a productivity boom “fails to materialize,” she and her coauthor conclude in their research paper, “the current buildout will be the largest misallocation of capital in history.” It doesn’t take superintelligence to realize that today’s large investments in the infrastructure for artificial intelligence come with huge risks. The hyperscalers will spend about $750 billion this year, building massive data centers scattered across the country. And the spending spree shows no sign"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/"
+        }
+      ],
+      "srcTitles": [
+        "What s at stake in AI’s trillion-dollar gamble"
       ]
     }
   ]
