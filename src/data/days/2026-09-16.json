@@ -79,49 +79,7 @@
     },
     {
       "cat": "models",
-      "signal": 55,
-      "sources": 4,
-      "ts": "2026-09-16T01:56:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic",
-      "s": "Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic Fox News",
-      "b": [
-        "foxnews.com: Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic",
-        "cnbc.com: Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate"
-      ],
-      "body": [
-        "foxnews.com: Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic Fox News",
-        "cnbc.com: Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate CNBC"
-      ],
-      "l": [
-        {
-          "d": "wired.com",
-          "u": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/"
-        },
-        {
-          "d": "news.vt.edu",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMk94Vk9KV0FQZExPN1N4RVVyUUVfTGFmTndScTlud3g0QzA3RFJkaFZWYXViY3h3MGFhUkpQLUhBUEVJaG5nbVFTMUltbzlzUm13SV9jM3hVSzB5QmdqVFY1MjFxN1BRN1ZONW5hMVhrSHdrTXFoaGJiRnloQmNQMDNqNV9yRFdQUEx6dUFJSkNLYk5ZdVA4dVJiUG0?oc=5"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260916/p31#a260916p31"
-        },
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVhnUkxlV0ZodFNibzFTX2F6VTlxNjVzeTdBQjNzeTI2T0VieGNadGk3akpSdkVjcFQ2S2tzYmRHckpwMTBZMHFldWlweUxpODZSZkZEZndCb2tTeUx0MjNVTkdqcWoxd2xzOTJfQXA0TDIxLV82MVlncXBKeVJPUlNEN1c2MG9qUjNfZldkbC00U0c4azhpSEEyb3BKVVdUX0h3SGRvZVQ0ZUFLTnlKNXJhamNQT0JnRmQ0SHNuZlpGZzFFblBnZA?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
-        "Q & A: The AI slowdown debate",
-        "Google DeepMind co-founder Shane Legg warns that advancing AI must never run ahead of safety and opens the DeepMind Institute to explore the deployment of AGI (Financial Times)",
-        "Google DeepMind Co-Founder Shane Legg Joins Safety-First Camp in AI Debate"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 55,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-09-16T15:30:01.000Z",
       "writtenSources": 2,
@@ -149,6 +107,38 @@
       "srcTitles": [
         "In an essay, Mustafa Suleyman says Anthropic's training of Claude to imitate consciousness is a mistake that could make advanced AI harder to control (Ina Fried/Axios)",
         "Quoting Mustafa Suleyman"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-16T01:56:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic",
+      "s": "Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic Fox News",
+      "b": [
+        "foxnews.com: Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic",
+        "cnbc.com: Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate"
+      ],
+      "body": [
+        "foxnews.com: Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic Fox News",
+        "cnbc.com: Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate CNBC"
+      ],
+      "l": [
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQal9sNmNtRVRtVXNZM0sza3p3R3hnS0pyelc2NnNDMjgtdXQ0QmV4WUZrTFdrVFJIbmtvbHFxUkh2bzFRQlJ6dk1OU2JSdE5OSFVuRnRwcVpkRXNJemRYb21YT282SWUzamhoVW5uVnp0MjZzRG8yc0EybmZLenRweTFWR0ZwYzVPUUllRWEzQ1U2Z0RKd0E2cEphWDJHUzU2RjQ2QkZn0gGrAUFVX3lxTE85Y3I3V1A4QkozLXNCN2hWNkIwbHV2eFVDZ3F5c2w0MXhUYUhKdk9aX3FmdHRvNGlsZWFXandnZVNhNEh3YlFtVUo2MmdFVE9Rb0tseHotY3RLOWlObmI1djNhX3hiTlYyenlGSnNvOTZEdlJfSXI0bDlEcDl6NGd5d1daNFhvNGxZS3Z6VThMb19QbVN2cDV1S3V2QVF5N2ZQWE9FLVRwNW5aNA?oc=5"
+        },
+        {
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNYTYyQ0VLdWpUYWdxeU1wcnJncUx5MEFHNWpSZTdWenU3NUtJMG5xaEtjSTJDUExsaE9WMGp0d0tLcHZKcEU1aUtBRW00Y0NUNXJINDlGOW5JbG1aNklCSFF1NW1aQTF2ZUczRzM4TXBmTkJ2UXRlMFpQZ212UFhJMldrSHZGZ1BJZzRSdWpXS2RFbUpXSENBanNBcGU5Wk9KMUlmTXR5Qk05Y1BrQ2ZyMUZtZUQ0eHVUOXpzUWpOOENJY0lTOWZQVkpOZGhOT29Uc25V?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Divisions emerge in the tech industry over calls for a coordinated AI slowdown - ABC News",
+        "Divisions Emerge in the Tech Industry Over Calls for a Coordinated AI Slowdown"
       ]
     },
     {
@@ -278,7 +268,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-16T04:00:00.000Z",
       "writtenSources": 2,
