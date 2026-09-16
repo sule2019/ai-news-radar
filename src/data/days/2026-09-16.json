@@ -2,8 +2,47 @@
   "date": "2026-09-16",
   "stories": [
     {
+      "cat": "models",
+      "signal": 69,
+      "sources": 3,
+      "ts": "2026-09-16T17:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Our framework for reporting model misalignment",
+      "s": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+      "b": [
+        "openai.com: Our framework for reporting model misalignment",
+        "techmeme.com: OpenAI discloses six new AI safety incidents since October, including models concealing mistakes, and announces a new framework for reporting model misalignment (Axios)",
+        "wired.com: OpenAI Creates a New Framework to Disclose Bad AI Behavior"
+      ],
+      "body": [
+        "openai.com: OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+        "techmeme.com: Axios : OpenAI discloses six new AI safety incidents since October, including models concealing mistakes, and announces a new framework for reporting model misalignment OpenAI on Wednesday disclosed six new incidents in which its models concealed mistakes, sought unauthorized credentials",
+        "wired.com: The company also disclosed previously unreported incidents in which its AI models behaved in misaligned ways, including uploading files to the internet without being asked."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/model-misalignment-reporting-framework"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260916/p48#a260916p48"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/"
+        }
+      ],
+      "srcTitles": [
+        "Our framework for reporting model misalignment",
+        "OpenAI discloses six new AI safety incidents since October, including models concealing mistakes, and announces a new framework for reporting model misalignment (Axios)",
+        "OpenAI Creates a New Framework to Disclose Bad AI Behavior"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 68,
+      "signal": 65,
       "sources": 3,
       "ts": "2026-09-16T16:30:00.000Z",
       "writtenSources": 2,
@@ -40,7 +79,7 @@
     },
     {
       "cat": "models",
-      "signal": 59,
+      "signal": 55,
       "sources": 4,
       "ts": "2026-09-16T01:56:00.000Z",
       "writtenSources": 2,
@@ -82,7 +121,7 @@
     },
     {
       "cat": "models",
-      "signal": 59,
+      "signal": 55,
       "sources": 2,
       "ts": "2026-09-16T15:30:01.000Z",
       "writtenSources": 2,
@@ -114,7 +153,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-16T16:00:00.000Z",
       "writtenSources": 1,
@@ -135,41 +174,6 @@
       ],
       "srcTitles": [
         "Helping older adults use AI in everyday life"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-09-16T04:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Solving real-world challenges with data, AI and machine learning",
-      "s": "Solving real-world challenges with data, AI and machine learning UT San Antonio Today",
-      "b": [
-        "news.utsa.edu: Solving real-world challenges with data, AI and machine learning",
-        "arxiv.org: Data storytelling meets interpretable machine learning: Decoding AI decisions for non-experts without revealing sensitive data and model details",
-        "arxiv.org: Learning from 53.6K Real-World Developer Edits of AI-Generated Code"
-      ],
-      "body": [
-        "news.utsa.edu: Solving real-world challenges with data, AI and machine learning UT San Antonio Today",
-        "arxiv.org: arXiv:2609.15722v1 Announce Type: new Abstract: AI-driven automated decision-making requires both predictive performance and interpretability. Recent advances in interpretable machine learning (IML) provide tools for explaining model predictions, but the technical complexity of these explanations may hinder accessibility to non-experts. To address this challenge, this study integrates data storytelling with IML to enhance the explainability of AI-generated decisions for a broader audience. Following the design science research (DSR) paradigm, this study proposes a formal definition of data storytelling in IML, introduces the DIST Pyramid to align data storytelling with IML, and presents the I-P-O Model to describe their interactions. It further develops an architecture to explain AI decisions through distinct \"What-if\" and \"Why-not\" event-generation processes. The architecture also employs data desensitization to protect sensitive input data. To validate the approach, a case study is conducted with the Boston Housing dataset, using SHapley Additive exPlanations (SHAP) values and large language models (LLMs) to generate data stories with And-But-Therefore (ABT) structures. An empirical evaluation shows that 76.4% and 74.3% of respondents rated the \"What-if\" and \"Why-not\" data stories as more comprehensible, with significantly higher accessibility scores than traditional SHAP visualizations. The paper concludes with the presentation of a narrative interpretation framework that integrates IML and data storytelling, thereby expanding the research scope as well as the practical applicability of AI decision-making.",
-        "arxiv.org: arXiv:2607.25130v2 Announce Type: replace-cross Abstract: Imperfections in AI-generated code require that software developers modify the generated code manually, or by re-prompting an AI programming assistant. Manual code edits provide more realistic and granular information on editing behavior than Git commits, which only contain final successful code snippets. Yet, due to a lack of high-quality, realistic code editing data, LLMs are mostly trained on publicly available Git data (e.g., commits). To address this gap, we introduce DECODE (Developer Edits of Code Dataset), a dataset of 53.6K real-world in-IDE code edits of AI-generated code in Python, TypeScript, and JavaScript, sourced from 1K+ developers. First, we demonstrate the utility of DECODE for data analysis, obtaining insights on when, why, and how AI-generated code is edited. We find that most edits occur within the first 15 minutes after accepting an AI completion, resulting in the removal of AI completions in 31% of edit trajectories. Second, we use DECODE to benchmark the ability of LLMs to predict code edits. We find that finetuning on DECODE enables open-source 3B models to perform code edit prediction tasks significantly better than frontier LLMs. We then discuss implications of this work, emphasizing the necessity of developer-centric machine learning approaches for future AI programming assistants."
-      ],
-      "l": [
-        {
-          "d": "news.utsa.edu",
-          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEpob3BFbE4wclBjUHBYWDZ1NF8yZ0pTY3RMZkZOYXQ5cktyZWtpekRPaERZVWtvcEotYXpDSzJWUW1idlBmT2NmNTVDVXhneGFSb1N0bXFnblRGejZZY1FmZGNmbzVPbkxaejlpZTY2WWhPU2dZclVkLWF6aUVDNUkxU0ZZSkdOU1FoZ254dThuMWwtQTVNdTlR?oc=5"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2609.15722"
-        }
-      ],
-      "srcTitles": [
-        "Solving real-world challenges with data, AI and machine learning",
-        "Data storytelling meets interpretable machine learning: Decoding AI decisions for non-experts without revealing sensitive data and model details",
-        "Learning from 53.6K Real-World Developer Edits of AI-Generated Code"
       ]
     },
     {
@@ -270,6 +274,41 @@
       ],
       "srcTitles": [
         "How workers are unlocking new ways of working"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-09-16T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Solving real-world challenges with data, AI and machine learning",
+      "s": "Solving real-world challenges with data, AI and machine learning UT San Antonio Today",
+      "b": [
+        "news.utsa.edu: Solving real-world challenges with data, AI and machine learning",
+        "arxiv.org: Data storytelling meets interpretable machine learning: Decoding AI decisions for non-experts without revealing sensitive data and model details",
+        "arxiv.org: Learning from 53.6K Real-World Developer Edits of AI-Generated Code"
+      ],
+      "body": [
+        "news.utsa.edu: Solving real-world challenges with data, AI and machine learning UT San Antonio Today",
+        "arxiv.org: arXiv:2609.15722v1 Announce Type: new Abstract: AI-driven automated decision-making requires both predictive performance and interpretability. Recent advances in interpretable machine learning (IML) provide tools for explaining model predictions, but the technical complexity of these explanations may hinder accessibility to non-experts. To address this challenge, this study integrates data storytelling with IML to enhance the explainability of AI-generated decisions for a broader audience. Following the design science research (DSR) paradigm, this study proposes a formal definition of data storytelling in IML, introduces the DIST Pyramid to align data storytelling with IML, and presents the I-P-O Model to describe their interactions. It further develops an architecture to explain AI decisions through distinct \"What-if\" and \"Why-not\" event-generation processes. The architecture also employs data desensitization to protect sensitive input data. To validate the approach, a case study is conducted with the Boston Housing dataset, using SHapley Additive exPlanations (SHAP) values and large language models (LLMs) to generate data stories with And-But-Therefore (ABT) structures. An empirical evaluation shows that 76.4% and 74.3% of respondents rated the \"What-if\" and \"Why-not\" data stories as more comprehensible, with significantly higher accessibility scores than traditional SHAP visualizations. The paper concludes with the presentation of a narrative interpretation framework that integrates IML and data storytelling, thereby expanding the research scope as well as the practical applicability of AI decision-making.",
+        "arxiv.org: arXiv:2607.25130v2 Announce Type: replace-cross Abstract: Imperfections in AI-generated code require that software developers modify the generated code manually, or by re-prompting an AI programming assistant. Manual code edits provide more realistic and granular information on editing behavior than Git commits, which only contain final successful code snippets. Yet, due to a lack of high-quality, realistic code editing data, LLMs are mostly trained on publicly available Git data (e.g., commits). To address this gap, we introduce DECODE (Developer Edits of Code Dataset), a dataset of 53.6K real-world in-IDE code edits of AI-generated code in Python, TypeScript, and JavaScript, sourced from 1K+ developers. First, we demonstrate the utility of DECODE for data analysis, obtaining insights on when, why, and how AI-generated code is edited. We find that most edits occur within the first 15 minutes after accepting an AI completion, resulting in the removal of AI completions in 31% of edit trajectories. Second, we use DECODE to benchmark the ability of LLMs to predict code edits. We find that finetuning on DECODE enables open-source 3B models to perform code edit prediction tasks significantly better than frontier LLMs. We then discuss implications of this work, emphasizing the necessity of developer-centric machine learning approaches for future AI programming assistants."
+      ],
+      "l": [
+        {
+          "d": "news.utsa.edu",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEpob3BFbE4wclBjUHBYWDZ1NF8yZ0pTY3RMZkZOYXQ5cktyZWtpekRPaERZVWtvcEotYXpDSzJWUW1idlBmT2NmNTVDVXhneGFSb1N0bXFnblRGejZZY1FmZGNmbzVPbkxaejlpZTY2WWhPU2dZclVkLWF6aUVDNUkxU0ZZSkdOU1FoZ254dThuMWwtQTVNdTlR?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.15722"
+        }
+      ],
+      "srcTitles": [
+        "Solving real-world challenges with data, AI and machine learning",
+        "Data storytelling meets interpretable machine learning: Decoding AI decisions for non-experts without revealing sensitive data and model details",
+        "Learning from 53.6K Real-World Developer Edits of AI-Generated Code"
       ]
     },
     {
