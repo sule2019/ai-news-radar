@@ -183,45 +183,6 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 26,
-      "sources": 3,
-      "ts": "2026-09-15T22:57:04.000Z",
-      "writtenSources": 3,
-      "draft": true,
-      "h": "Poll: Americans say there’s a serious risk of AI destroying humanity",
-      "s": "Poll: Americans say there’s a serious risk of AI destroying humanity Politico",
-      "b": [
-        "politico.com: Poll: Americans say there’s a serious risk of AI destroying humanity",
-        "nationalreview.com: There’s an A and an I in Hysteria",
-        "newrepublic.com: There’s a Right Way to Regulate AI—and a Very Wrong Way"
-      ],
-      "body": [
-        "politico.com: Poll: Americans say there’s a serious risk of AI destroying humanity Politico",
-        "nationalreview.com: There’s an A and an I in Hysteria National Review",
-        "newrepublic.com: There’s a Right Way to Regulate AI—and a Very Wrong Way The New Republic"
-      ],
-      "l": [
-        {
-          "d": "politico.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUc0MTYzZ2FSRUQ0c0doT3lBUl9yV3FzVG5VVFhFSFNLaFdOMjdsdmM5d1hYWEVkWkE1MU1ZRFpWSEU0Q2VkZmR5NnZwVVBCMFQwd1k2dGhXT1V0R1Z2NmxLRm5pRHcwdEpPdk1yUW5ObTZNcnJYNzZ4aGJFWGJkTktBSUticDhpemtnUjR4cGhjemtmN0J4ajZnclU?oc=5"
-        },
-        {
-          "d": "nationalreview.com",
-          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmMHduUGVESnJtMmQ2UzRVMVVUbmlnRWc3bzUwR2htR3lkTmRoeFpDSktJWV9SWEQtVHFZT05UanFNUXFWVG9fTTd2OGNFZm5BMW1jeG5fajhFWDUwX1FnVlNfekxyeTZleFNIUWo2NnJNbFgwWWFUWG43VdIBgAFBVV95cUxOSkkwZDdqQ3hvY3ZGNnF0SEgxQjV2MTFVVXY5TkpMcC1xUy0wWVJhM1VUMVk4aFdRMGhPZ3RUY1dGUkRwMDBKdXh2TnpFUF8zemtBZE1UZG9mX2tDZkJBRkhRS0xXR29pTVI3dVkzRDZuYmctZ1NxckJNakp2VWliRg?oc=5"
-        },
-        {
-          "d": "newrepublic.com",
-          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHJaZGR4NnFDbEY3emVXZkNLbG9WUUlsX3lHZ0xUNGdfcHpYUjZ4Mm5mcl9YdkRSQmliaGJsd1hCV0lzLV95MnNKTS1LOF92Y3Y5MDZGdktRVW5vdmxVVnhNZm5xM1BTZ1kyRnhiNDNoTWZNc1JjUTF1UGJwMjBBVWo4aHRobnVNYWJrSlp3?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Poll: Americans say there’s a serious risk of AI destroying humanity",
-        "There’s an A and an I in Hysteria",
-        "There’s a Right Way to Regulate AI—and a Very Wrong Way"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 26,
       "sources": 2,
@@ -279,6 +240,45 @@
       ],
       "srcTitles": [
         "How workers are unlocking new ways of working"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 22,
+      "sources": 3,
+      "ts": "2026-09-15T22:57:04.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Poll: Americans say there’s a serious risk of AI destroying humanity",
+      "s": "Poll: Americans say there’s a serious risk of AI destroying humanity Politico",
+      "b": [
+        "politico.com: Poll: Americans say there’s a serious risk of AI destroying humanity",
+        "nationalreview.com: There’s an A and an I in Hysteria",
+        "newrepublic.com: There’s a Right Way to Regulate AI—and a Very Wrong Way"
+      ],
+      "body": [
+        "politico.com: Poll: Americans say there’s a serious risk of AI destroying humanity Politico",
+        "nationalreview.com: There’s an A and an I in Hysteria National Review",
+        "newrepublic.com: There’s a Right Way to Regulate AI—and a Very Wrong Way The New Republic"
+      ],
+      "l": [
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNUc0MTYzZ2FSRUQ0c0doT3lBUl9yV3FzVG5VVFhFSFNLaFdOMjdsdmM5d1hYWEVkWkE1MU1ZRFpWSEU0Q2VkZmR5NnZwVVBCMFQwd1k2dGhXT1V0R1Z2NmxLRm5pRHcwdEpPdk1yUW5ObTZNcnJYNzZ4aGJFWGJkTktBSUticDhpemtnUjR4cGhjemtmN0J4ajZnclU?oc=5"
+        },
+        {
+          "d": "nationalreview.com",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmMHduUGVESnJtMmQ2UzRVMVVUbmlnRWc3bzUwR2htR3lkTmRoeFpDSktJWV9SWEQtVHFZT05UanFNUXFWVG9fTTd2OGNFZm5BMW1jeG5fajhFWDUwX1FnVlNfekxyeTZleFNIUWo2NnJNbFgwWWFUWG43VdIBgAFBVV95cUxOSkkwZDdqQ3hvY3ZGNnF0SEgxQjV2MTFVVXY5TkpMcC1xUy0wWVJhM1VUMVk4aFdRMGhPZ3RUY1dGUkRwMDBKdXh2TnpFUF8zemtBZE1UZG9mX2tDZkJBRkhRS0xXR29pTVI3dVkzRDZuYmctZ1NxckJNakp2VWliRg?oc=5"
+        },
+        {
+          "d": "newrepublic.com",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbHJaZGR4NnFDbEY3emVXZkNLbG9WUUlsX3lHZ0xUNGdfcHpYUjZ4Mm5mcl9YdkRSQmliaGJsd1hCV0lzLV95MnNKTS1LOF92Y3Y5MDZGdktRVW5vdmxVVnhNZm5xM1BTZ1kyRnhiNDNoTWZNc1JjUTF1UGJwMjBBVWo4aHRobnVNYWJrSlp3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Poll: Americans say there’s a serious risk of AI destroying humanity",
+        "There’s an A and an I in Hysteria",
+        "There’s a Right Way to Regulate AI—and a Very Wrong Way"
       ]
     }
   ]
