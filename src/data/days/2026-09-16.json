@@ -2,8 +2,45 @@
   "date": "2026-09-16",
   "stories": [
     {
+      "cat": "products",
+      "signal": 68,
+      "sources": 3,
+      "ts": "2026-09-16T16:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic merges Claude chat and Cowork in one interface",
+      "s": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "b": [
+        "techcrunch.com: Anthropic merges Claude chat and Cowork in one interface",
+        "techmeme.com: Anthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first (Ivan Mehta/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+        "techmeme.com: Ivan Mehta / TechCrunch : Anthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first Anthropic is merging its front-end for Claude chat and Cowork, making it less confusing for people to decide which tab to use for different tasks."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260916/p39#a260916p39"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Sep/16/one-claude/"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic merges Claude chat and Cowork in one interface",
+        "Anthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first (Ivan Mehta/TechCrunch)",
+        "Claude Cowork and chat are now one Claude"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 67,
+      "signal": 63,
       "sources": 4,
       "ts": "2026-09-16T01:56:00.000Z",
       "writtenSources": 2,
@@ -44,40 +81,8 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 64,
-      "sources": 2,
-      "ts": "2026-09-16T16:30:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Anthropic merges Claude chat and Cowork in one interface",
-      "s": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-      "b": [
-        "techcrunch.com: Anthropic merges Claude chat and Cowork in one interface",
-        "techmeme.com: Anthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first (Ivan Mehta/TechCrunch)"
-      ],
-      "body": [
-        "techcrunch.com: Anthropic is initially releasing these features to Pro and Max plan subscribers.",
-        "techmeme.com: Ivan Mehta / TechCrunch : Anthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first Anthropic is merging its front-end for Claude chat and Cowork, making it less confusing for people to decide which tab to use for different tasks."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260916/p39#a260916p39"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic merges Claude chat and Cowork in one interface",
-        "Anthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first (Ivan Mehta/TechCrunch)"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 62,
+      "signal": 59,
       "sources": 2,
       "ts": "2026-09-16T15:30:01.000Z",
       "writtenSources": 2,
@@ -109,7 +114,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-09-16T16:00:00.000Z",
       "writtenSources": 1,
@@ -130,56 +135,6 @@
       ],
       "srcTitles": [
         "Helping older adults use AI in everyday life"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-09-16T13:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Reimagining advertising with AI",
-      "s": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
-      "b": [
-        "openai.com: Reimagining advertising with AI"
-      ],
-      "body": [
-        "openai.com: Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/reimagining-advertising-with-ai"
-        }
-      ],
-      "srcTitles": [
-        "Reimagining advertising with AI"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-09-16T12:47:34.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Building the materials foundation for AI",
-      "s": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon",
-      "b": [
-        "technologyreview.com: Building the materials foundation for AI"
-      ],
-      "body": [
-        "technologyreview.com: The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do more at once. At the same time, AI is giving materials scientists new ways to search the enormous universe of possible molecules and accelerate the development of solutions. For Mike Finelli, chief technology and innovation officer and chief North America officer at Syensqo, that convergence is transforming what advanced materials can enable. “AI is now, from a material standpoint, really pushing semiconductors and the data centers to their physical limits,” he says. As requirements accumulate, including high temperature, purity, electrical performance, chemical resistance, plasma resistance, and long-term stability, materials move toward what Finelli calls the “top of the pyramid.” Beyond supporting AI innovation, he contends that advanced materials are “actually increasingly defining what s going to be possible.” That challenge is playing out across the infrastructure powering the AI surge. Syensqo is developing materials for high-voltage data center architectures, advanced sealing materials for semiconductor manufacturing, and thermal-management solutions including fluids for direct immersion cooling. Some of those innovations can also cross industry boundaries. Materials developed for electric vehicles, for example, can help address the higher voltage and energy-density demands that are emerging in data centers. The definition of performance is also changing. More customers are expecting materials to meet technical requirements while reducing environmental impact. “Our goal is to remove the trade-off between performance and sustainability,” Finelli says. That means considering sustaina"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
-        }
-      ],
-      "srcTitles": [
-        "Building the materials foundation for AI"
       ]
     },
     {
@@ -221,6 +176,81 @@
       "cat": "models",
       "signal": 24,
       "sources": 1,
+      "ts": "2026-09-16T13:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Reimagining advertising with AI",
+      "s": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "b": [
+        "openai.com: Reimagining advertising with AI"
+      ],
+      "body": [
+        "openai.com: Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/reimagining-advertising-with-ai"
+        }
+      ],
+      "srcTitles": [
+        "Reimagining advertising with AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-16T12:47:34.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Building the materials foundation for AI",
+      "s": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon",
+      "b": [
+        "technologyreview.com: Building the materials foundation for AI"
+      ],
+      "body": [
+        "technologyreview.com: The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do more at once. At the same time, AI is giving materials scientists new ways to search the enormous universe of possible molecules and accelerate the development of solutions. For Mike Finelli, chief technology and innovation officer and chief North America officer at Syensqo, that convergence is transforming what advanced materials can enable. “AI is now, from a material standpoint, really pushing semiconductors and the data centers to their physical limits,” he says. As requirements accumulate, including high temperature, purity, electrical performance, chemical resistance, plasma resistance, and long-term stability, materials move toward what Finelli calls the “top of the pyramid.” Beyond supporting AI innovation, he contends that advanced materials are “actually increasingly defining what s going to be possible.” That challenge is playing out across the infrastructure powering the AI surge. Syensqo is developing materials for high-voltage data center architectures, advanced sealing materials for semiconductor manufacturing, and thermal-management solutions including fluids for direct immersion cooling. Some of those innovations can also cross industry boundaries. Materials developed for electric vehicles, for example, can help address the higher voltage and energy-density demands that are emerging in data centers. The definition of performance is also changing. More customers are expecting materials to meet technical requirements while reducing environmental impact. “Our goal is to remove the trade-off between performance and sustainability,” Finelli says. That means considering sustaina"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
+        }
+      ],
+      "srcTitles": [
+        "Building the materials foundation for AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-16T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How to connect AI usage to business value",
+      "s": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+      "b": [
+        "openai.com: How to connect AI usage to business value"
+      ],
+      "body": [
+        "openai.com: Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/how-to-connect-ai-usage-to-business-value"
+        }
+      ],
+      "srcTitles": [
+        "How to connect AI usage to business value"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
       "ts": "2026-09-16T09:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
@@ -244,7 +274,7 @@
     },
     {
       "cat": "policy",
-      "signal": 22,
+      "signal": 18,
       "sources": 3,
       "ts": "2026-09-15T22:57:04.000Z",
       "writtenSources": 3,
