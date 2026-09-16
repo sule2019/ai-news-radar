@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 44,
-      "sources": 2,
+      "signal": 67,
+      "sources": 4,
       "ts": "2026-09-16T01:56:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,22 +20,171 @@
       ],
       "l": [
         {
-          "d": "foxnews.com",
-          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOam0xX19Ja3JjQjFBX0E3YmpFNkFhOGRSdkNVdHdQRWhvNUFITGFqVm1peGVHRzVrSjMzYUF2QWVIZ2tETmJfekVORXRjN2hfcEtTZk5KeFRIZGRzNU9BRll2d2RGWHVEckNkWVBDc1ZUV2lhczUwZzRhbmVCVU9MSFpUVVRXUVNkNVRaY1RMNGZhWnc?oc=5"
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/china-isnt-buying-silicon-valley-call-for-ai-slowdown/"
         },
         {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamJwVnJmQjRaczZCX3ZrNkktNHJ2cWtsZk13cGZsZWwwaVJPMHRhVmtiZjY1OXNkclU4RmN1OElzRFdRSm9DeWF3dHFtSjE3Q3BIMG8yX25vdkhJdXJJQUI5OTRma2pFRjViVnlfekZMMXl5X2RnRVd5VmxEY2FNbWdUaHJJMTRwTk5pSTFMOF80SjRQVVp2SG5n0gGfAUFVX3lxTE9BaENab2dUdmlkWGJ2TzJVT0V2eDRLakRpdFh0c05zb1lkQ29hMW5XcWw1VU1vdmJMSmtVcFp1Y1JjSXh6SWZkOEF4YXpZMWlCR3c4b0VnbW9aX1c4NG9OWjYwVkE4NHh1UENkVVdRdlBIbGVJYl96TEFNdC1zS05Lbkw3NGIxTnF3QmZhWlVhenU4am9zak16QUM3bDJMNA?oc=5"
+          "d": "news.vt.edu",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQMk94Vk9KV0FQZExPN1N4RVVyUUVfTGFmTndScTlud3g0QzA3RFJkaFZWYXViY3h3MGFhUkpQLUhBUEVJaG5nbVFTMUltbzlzUm13SV9jM3hVSzB5QmdqVFY1MjFxN1BRN1ZONW5hMVhrSHdrTXFoaGJiRnloQmNQMDNqNV9yRFdQUEx6dUFJSkNLYk5ZdVA4dVJiUG0?oc=5"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260916/p31#a260916p31"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdVhnUkxlV0ZodFNibzFTX2F6VTlxNjVzeTdBQjNzeTI2T0VieGNadGk3akpSdkVjcFQ2S2tzYmRHckpwMTBZMHFldWlweUxpODZSZkZEZndCb2tTeUx0MjNVTkdqcWoxd2xzOTJfQXA0TDIxLV82MVlncXBKeVJPUlNEN1c2MG9qUjNfZldkbC00U0c4azhpSEEyb3BKVVdUX0h3SGRvZVQ0ZUFLTnlKNXJhamNQT0JnRmQ0SHNuZlpGZzFFblBnZA?oc=5"
         }
       ],
       "srcTitles": [
-        "Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic",
-        "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate"
+        "China Isn’t Buying Silicon Valley’s Call for an AI Slowdown",
+        "Q & A: The AI slowdown debate",
+        "Google DeepMind co-founder Shane Legg warns that advancing AI must never run ahead of safety and opens the DeepMind Institute to explore the deployment of AGI (Financial Times)",
+        "Google DeepMind Co-Founder Shane Legg Joins Safety-First Camp in AI Debate"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-09-16T16:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic merges Claude chat and Cowork in one interface",
+      "s": "Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+      "b": [
+        "techcrunch.com: Anthropic merges Claude chat and Cowork in one interface",
+        "techmeme.com: Anthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first (Ivan Mehta/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Anthropic is initially releasing these features to Pro and Max plan subscribers.",
+        "techmeme.com: Ivan Mehta / TechCrunch : Anthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first Anthropic is merging its front-end for Claude chat and Cowork, making it less confusing for people to decide which tab to use for different tasks."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/16/anthropic-merges-claude-chat-and-cowork-in-one-interface/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260916/p39#a260916p39"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic merges Claude chat and Cowork in one interface",
+        "Anthropic merges Claude chat and Cowork, and adds a feature for making presentations and documents, rolling out to Pro and Max plans first (Ivan Mehta/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-09-16T15:30:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "In an essay, Mustafa Suleyman says Anthropic's training of Claude to imitate consciousness is a mistake that could make advanced AI harder to control (Ina Fried/Axios)",
+      "s": "Ina Fried / Axios : In an essay, Mustafa Suleyman says Anthropic's training of Claude to imitate consciousness is a mistake that could make advanced AI harder to control Microsoft AI chief Mustafa Sul",
+      "b": [
+        "techmeme.com: In an essay, Mustafa Suleyman says Anthropic's training of Claude to imitate consciousness is a mistake that could make advanced AI harder to control (Ina Fried/Axios)",
+        "simonwillison.net: Quoting Mustafa Suleyman"
+      ],
+      "body": [
+        "techmeme.com: Ina Fried / Axios : In an essay, Mustafa Suleyman says Anthropic's training of Claude to imitate consciousness is a mistake that could make advanced AI harder to control Microsoft AI chief Mustafa Suleyman warns in a new essay shared first with Axios that Anthropic's training of Claude to imitate consciousness",
+        "simonwillison.net: We should not treat models as though they have feelings, preferences, rights, or any entitlement to our welfare. Consciousness is the foundation of our ethical, legal, and political systems. To invite another entity to share any flavor of these rights isn’t justified by the evidence and will make the AI containment and alignment challenge even harder. Mustafa Suleyman , A warning about ‘model welfare’ Tags: ai-ethics , generative-ai , ai , microsoft , llms"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260916/p33#a260916p33"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Sep/16/mustafa-suleyman/"
+        }
+      ],
+      "srcTitles": [
+        "In an essay, Mustafa Suleyman says Anthropic's training of Claude to imitate consciousness is a mistake that could make advanced AI harder to control (Ina Fried/Axios)",
+        "Quoting Mustafa Suleyman"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-09-16T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Helping older adults use AI in everyday life",
+      "s": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely.",
+      "b": [
+        "openai.com: Helping older adults use AI in everyday life"
+      ],
+      "body": [
+        "openai.com: OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U.S. cities to build practical AI skills safely."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life"
+        }
+      ],
+      "srcTitles": [
+        "Helping older adults use AI in everyday life"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-16T13:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Reimagining advertising with AI",
+      "s": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify.",
+      "b": [
+        "openai.com: Reimagining advertising with AI"
+      ],
+      "body": [
+        "openai.com: Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/reimagining-advertising-with-ai"
+        }
+      ],
+      "srcTitles": [
+        "Reimagining advertising with AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-16T12:47:34.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Building the materials foundation for AI",
+      "s": "The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semicon",
+      "b": [
+        "technologyreview.com: Building the materials foundation for AI"
+      ],
+      "body": [
+        "technologyreview.com: The AI boom is becoming a materials challenge. As AI pushes computing into new territory, the materials behind that infrastructure are becoming just as crucial as the algorithms running on it. Semiconductors and data centers are approaching physical limits around performance, thermal management, electrical efficiency, and reliability, creating new demands for materials that can do more at once. At the same time, AI is giving materials scientists new ways to search the enormous universe of possible molecules and accelerate the development of solutions. For Mike Finelli, chief technology and innovation officer and chief North America officer at Syensqo, that convergence is transforming what advanced materials can enable. “AI is now, from a material standpoint, really pushing semiconductors and the data centers to their physical limits,” he says. As requirements accumulate, including high temperature, purity, electrical performance, chemical resistance, plasma resistance, and long-term stability, materials move toward what Finelli calls the “top of the pyramid.” Beyond supporting AI innovation, he contends that advanced materials are “actually increasingly defining what s going to be possible.” That challenge is playing out across the infrastructure powering the AI surge. Syensqo is developing materials for high-voltage data center architectures, advanced sealing materials for semiconductor manufacturing, and thermal-management solutions including fluids for direct immersion cooling. Some of those innovations can also cross industry boundaries. Materials developed for electric vehicles, for example, can help address the higher voltage and energy-density demands that are emerging in data centers. The definition of performance is also changing. More customers are expecting materials to meet technical requirements while reducing environmental impact. “Our goal is to remove the trade-off between performance and sustainability,” Finelli says. That means considering sustaina"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/"
+        }
+      ],
+      "srcTitles": [
+        "Building the materials foundation for AI"
       ]
     },
     {
       "cat": "policy",
-      "signal": 30,
+      "signal": 26,
       "sources": 3,
       "ts": "2026-09-15T22:57:04.000Z",
       "writtenSources": 3,
@@ -105,6 +254,31 @@
         "Solving real-world challenges with data, AI and machine learning",
         "Data storytelling meets interpretable machine learning: Decoding AI decisions for non-experts without revealing sensitive data and model details",
         "Learning from 53.6K Real-World Developer Edits of AI-Generated Code"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-16T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How workers are unlocking new ways of working",
+      "s": "New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work.",
+      "b": [
+        "openai.com: How workers are unlocking new ways of working"
+      ],
+      "body": [
+        "openai.com: New OpenAI Economic Research shows how workers use AI beyond traditional roles and which new activities become recurring parts of their work."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/unlocking-new-ways-of-working"
+        }
+      ],
+      "srcTitles": [
+        "How workers are unlocking new ways of working"
       ]
     }
   ]
