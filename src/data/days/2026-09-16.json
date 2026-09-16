@@ -1,4 +1,72 @@
 {
   "date": "2026-09-16",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-09-16T01:56:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic",
+      "s": "Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic Fox News",
+      "b": [
+        "foxnews.com: Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic",
+        "cnbc.com: Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate"
+      ],
+      "body": [
+        "foxnews.com: Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic Fox News",
+        "cnbc.com: Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate CNBC"
+      ],
+      "l": [
+        {
+          "d": "foxnews.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOam0xX19Ja3JjQjFBX0E3YmpFNkFhOGRSdkNVdHdQRWhvNUFITGFqVm1peGVHRzVrSjMzYUF2QWVIZ2tETmJfekVORXRjN2hfcEtTZk5KeFRIZGRzNU9BRll2d2RGWHVEckNkWVBDc1ZUV2lhczUwZzRhbmVCVU9MSFpUVVRXUVNkNVRaY1RMNGZhWnc?oc=5"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQamJwVnJmQjRaczZCX3ZrNkktNHJ2cWtsZk13cGZsZWwwaVJPMHRhVmtiZjY1OXNkclU4RmN1OElzRFdRSm9DeWF3dHFtSjE3Q3BIMG8yX25vdkhJdXJJQUI5OTRma2pFRjViVnlfekZMMXl5X2RnRVd5VmxEY2FNbWdUaHJJMTRwTk5pSTFMOF80SjRQVVp2SG5n0gGfAUFVX3lxTE9BaENab2dUdmlkWGJ2TzJVT0V2eDRLakRpdFh0c05zb1lkQ29hMW5XcWw1VU1vdmJMSmtVcFp1Y1JjSXh6SWZkOEF4YXpZMWlCR3c4b0VnbW9aX1c4NG9OWjYwVkE4NHh1UENkVVdRdlBIbGVJYl96TEFNdC1zS05Lbkw3NGIxTnF3QmZhWlVhenU4am9zak16QUM3bDJMNA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Mark Zuckerberg weighs in on AI slowdown debate with OpenAI, Anthropic",
+        "Meta CEO Mark Zuckerberg sides with Nvidia's Huang on AI safety and slowdown debate"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-16T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Solving real-world challenges with data, AI and machine learning",
+      "s": "Solving real-world challenges with data, AI and machine learning UT San Antonio Today",
+      "b": [
+        "news.utsa.edu: Solving real-world challenges with data, AI and machine learning",
+        "arxiv.org: Data storytelling meets interpretable machine learning: Decoding AI decisions for non-experts without revealing sensitive data and model details",
+        "arxiv.org: Learning from 53.6K Real-World Developer Edits of AI-Generated Code"
+      ],
+      "body": [
+        "news.utsa.edu: Solving real-world challenges with data, AI and machine learning UT San Antonio Today",
+        "arxiv.org: arXiv:2609.15722v1 Announce Type: new Abstract: AI-driven automated decision-making requires both predictive performance and interpretability. Recent advances in interpretable machine learning (IML) provide tools for explaining model predictions, but the technical complexity of these explanations may hinder accessibility to non-experts. To address this challenge, this study integrates data storytelling with IML to enhance the explainability of AI-generated decisions for a broader audience. Following the design science research (DSR) paradigm, this study proposes a formal definition of data storytelling in IML, introduces the DIST Pyramid to align data storytelling with IML, and presents the I-P-O Model to describe their interactions. It further develops an architecture to explain AI decisions through distinct \"What-if\" and \"Why-not\" event-generation processes. The architecture also employs data desensitization to protect sensitive input data. To validate the approach, a case study is conducted with the Boston Housing dataset, using SHapley Additive exPlanations (SHAP) values and large language models (LLMs) to generate data stories with And-But-Therefore (ABT) structures. An empirical evaluation shows that 76.4% and 74.3% of respondents rated the \"What-if\" and \"Why-not\" data stories as more comprehensible, with significantly higher accessibility scores than traditional SHAP visualizations. The paper concludes with the presentation of a narrative interpretation framework that integrates IML and data storytelling, thereby expanding the research scope as well as the practical applicability of AI decision-making.",
+        "arxiv.org: arXiv:2607.25130v2 Announce Type: replace-cross Abstract: Imperfections in AI-generated code require that software developers modify the generated code manually, or by re-prompting an AI programming assistant. Manual code edits provide more realistic and granular information on editing behavior than Git commits, which only contain final successful code snippets. Yet, due to a lack of high-quality, realistic code editing data, LLMs are mostly trained on publicly available Git data (e.g., commits). To address this gap, we introduce DECODE (Developer Edits of Code Dataset), a dataset of 53.6K real-world in-IDE code edits of AI-generated code in Python, TypeScript, and JavaScript, sourced from 1K+ developers. First, we demonstrate the utility of DECODE for data analysis, obtaining insights on when, why, and how AI-generated code is edited. We find that most edits occur within the first 15 minutes after accepting an AI completion, resulting in the removal of AI completions in 31% of edit trajectories. Second, we use DECODE to benchmark the ability of LLMs to predict code edits. We find that finetuning on DECODE enables open-source 3B models to perform code edit prediction tasks significantly better than frontier LLMs. We then discuss implications of this work, emphasizing the necessity of developer-centric machine learning approaches for future AI programming assistants."
+      ],
+      "l": [
+        {
+          "d": "news.utsa.edu",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQOEpob3BFbE4wclBjUHBYWDZ1NF8yZ0pTY3RMZkZOYXQ5cktyZWtpekRPaERZVWtvcEotYXpDSzJWUW1idlBmT2NmNTVDVXhneGFSb1N0bXFnblRGejZZY1FmZGNmbzVPbkxaejlpZTY2WWhPU2dZclVkLWF6aUVDNUkxU0ZZSkdOU1FoZ254dThuMWwtQTVNdTlR?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.15722"
+        }
+      ],
+      "srcTitles": [
+        "Solving real-world challenges with data, AI and machine learning",
+        "Data storytelling meets interpretable machine learning: Decoding AI decisions for non-experts without revealing sensitive data and model details",
+        "Learning from 53.6K Real-World Developer Edits of AI-Generated Code"
+      ]
+    }
+  ]
 }
