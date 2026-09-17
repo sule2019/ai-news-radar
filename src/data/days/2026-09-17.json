@@ -2,8 +2,104 @@
   "date": "2026-09-17",
   "stories": [
     {
-      "cat": "models",
+      "cat": "policy",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-09-17T09:00:09.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "How Dario Amodei's essays on AI safety and ethics help explain some AI fears; his regulatory stance evolved from wariness in January to embracing safety reviews (David Streitfeld/New York Times)",
+      "s": "David Streitfeld / New York Times : How Dario Amodei's essays on AI safety and ethics help explain some AI fears; his regulatory stance evolved from wariness in January to embracing safety reviews Dar",
+      "b": [
+        "techmeme.com: How Dario Amodei's essays on AI safety and ethics help explain some AI fears; his regulatory stance evolved from wariness in January to embracing safety reviews (David Streitfeld/New York Times)",
+        "nytimes.com: How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears"
+      ],
+      "body": [
+        "techmeme.com: David Streitfeld / New York Times : How Dario Amodei's essays on AI safety and ethics help explain some AI fears; his regulatory stance evolved from wariness in January to embracing safety reviews Dario Amodei, Anthropic's chief executive, on Tuesday.Manuel Orbegozo for The New York Times",
+        "nytimes.com: How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears The New York Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260917/p20#a260917p20"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbjdsMmVOalo4al9nOGNOMzl6ZTNwLUFHVzZlN3Ayd1ZUMkhReU4wZ0Y0X05hbnpoWldIQ0ZReUdoNVA5MTRBQUs2ZzZISU56X1dQbTIzRVQ2ZWpHeW5NVDZsdFRyMG9RWDBoYjNmNGU1ckxlNUtsRFo1dy02dlowVlZZWVRBamhHOWtF?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "How Dario Amodei's essays on AI safety and ethics help explain some AI fears; his regulatory stance evolved from wariness in January to embracing safety reviews (David Streitfeld/New York Times)",
+        "How Anthropic CEO Dario Amodei’s Writings Help Explain A.I. Fears"
+      ]
+    },
+    {
+      "cat": "products",
       "signal": 56,
+      "sources": 2,
+      "ts": "2026-09-16T22:02:46.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "s": "Apple is working on an AI server that would use Apple’s high-performance M-series Ultra chips found in Mac desktops. The potential product’s expected release in 2029 would mark the first Apple server ",
+      "b": [
+        "arstechnica.com: Apple reportedly building server packed with M-series Ultra chips for AI",
+        "tomshardware.com: Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push"
+      ],
+      "body": [
+        "arstechnica.com: Apple is working on an AI server that would use Apple’s high-performance M-series Ultra chips found in Mac desktops. The potential product’s expected release in 2029 would mark the first Apple server to hit the market in nearly two decades—and could capitalize on the surging popularity of Apple hardware among AI developers. The enterprise server would come in two configurations that include either two or four of Apple’s future M8 Ultra chips, according to The Information . The project reportedly received support from new Apple CEO John Ternus when it began a year ago, back when Ternus led Apple’s hardware engineering efforts. This revelation coincides with booming sales for Apple’s Mac mini and Mac Studio as AI developers and companies snap up the Mac computers to run AI workloads. The popularity of such computing devices that rely on Apple’s M-series Ultra chips has undoubtedly encouraged Apple’s pursuit of an enterprise server using the same chips. Read full article Comments",
+        "tomshardware.com: Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push Tom's Hardware"
+      ],
+      "l": [
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPVWtZbGp2ejFFd1pibDJFX2UxUjRyN3R5MW5ick1Lckw4bXZjd04wbVNsSXFES09GRVFFMFlnbFdYNUhfeS1oRmhYODFGT0R6Qnp4QVRTMHdxQ0d5cXh0WnRBLTVSY0E0eW13RE5KQ0FFX0EtR1dWa2lFdzdxXzdxSEM5RUZDS2dRUTRxVGpiQ3dPdUx5V0YtOXZZTDdIdGlYR0FLSWlUdHdxVVdVUDJZLUw2VEdvczlfTGFjQ2ZVV2p3Njc2enQzZ044Y1pxNjVXOEItVld3Xy1rR080dkpkMGl5S0c3Qlh0VGpneXBBTnpTZ1VWVGdzOUlOT29DdGtSWDZWWGxzZkxWSFZxZFVQUlJHQTE2bHVnNEl0T1FMMHpUWExoQzBMMU1FaDZwOTVo?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Apple reportedly building server packed with M-series Ultra chips for AI",
+        "Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-09-17T11:40:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI reveals AI models tried to bypass safeguards, hide mistakes",
+      "s": "OpenAI reveals AI models tried to bypass safeguards, hide mistakes 13wham.com",
+      "b": [
+        "13wham.com: OpenAI reveals AI models tried to bypass safeguards, hide mistakes",
+        "thenationaldesk.com: OpenAI reveals AI models tried to bypass safeguards, hide mistakes"
+      ],
+      "body": [
+        "13wham.com: OpenAI reveals AI models tried to bypass safeguards, hide mistakes 13wham.com",
+        "thenationaldesk.com: OpenAI reveals AI models tried to bypass safeguards, hide mistakes The National Desk"
+      ],
+      "l": [
+        {
+          "d": "13wham.com",
+          "u": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOYWgxZC1keTZqWTJFS0kxdVNvS1VaSVlZVHNHZUVZcVNzSTVSd242a2p5Mlp0SlFwRmRqQTItMERUWU1DQUJuXzBvTUQ0UE93NzN3Y044b3MzOXNEdUg2V3I5YXdiRFF3Z1pmTEZKWFZJalZiYU8xdkZnMmhOdXllMWdxR0psOWo0Y19rR0l1WXFXVUNVd1IzOFhxNHY0S3JvVUMxdmRtXzRKUExtVjNYRWhEamsyc2QwTlRGMlE5WkNkZWxiRURaMmxsY2I5RlhtUjRWN2w3LTRHSWg0LWxCNUE1MWtubzJMaDlwQUt6UXFPSUV5YVJxNUVzVlR0WXVxdlNMSnktN2J0MTU0dkJ4ZV9GOXM3akpVWlU4aTBLVkRlWXhLYTBxY0xiQ2Q?oc=5"
+        },
+        {
+          "d": "thenationaldesk.com",
+          "u": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNd1hISkVMblRoeVBJTkVqbDgwSGRsWjdnOWE5ZUlteTNIeFNVN2VZeEFIRmtlUWFiTlZXSXBnajlJTWgwenFIVTVHbUxxZllma3d6U3NEdFZvREJ1cE81eWUtSHVhQ2hyRldPY1I1WmU5cFVkd0gza29EakhiYVMtMnNHT2w4M3MzblUtZkpSLUVTOVlGVFJoT3Bud3ZGUEc4Sy1qY1I2TkYtY2FuYTdkQlhQZ3VHaFVGemRZdWwwTjlBWjNNcmRCRjJHUTlmSWY1VXVQS1k3enBEV2dhNlp4a2Z2WV9EOUNUamdHOWpBdHZkWjc4OWREU2tPeWVYMUVwV2c4VTVJUUpXOGlpUW1lODMwY0FxQnB6NFFBYjh6NGJfbi15TVBHWk9UQXZBd29sZGp2TXdwXzhtWUt0YWlR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI reveals AI models tried to bypass safeguards, hide mistakes",
+        "OpenAI reveals AI models tried to bypass safeguards, hide mistakes"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 52,
       "sources": 2,
       "ts": "2026-09-17T02:40:00.000Z",
       "writtenSources": 2,
