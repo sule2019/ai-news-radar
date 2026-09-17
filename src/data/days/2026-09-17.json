@@ -2,8 +2,45 @@
   "date": "2026-09-17",
   "stories": [
     {
+      "cat": "products",
+      "signal": 65,
+      "sources": 3,
+      "ts": "2026-09-16T22:02:46.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Apple reportedly building server packed with M-series Ultra chips for AI",
+      "s": "Apple is working on an AI server that would use Apple’s high-performance M-series Ultra chips found in Mac desktops. The potential product’s expected release in 2029 would mark the first Apple server ",
+      "b": [
+        "arstechnica.com: Apple reportedly building server packed with M-series Ultra chips for AI",
+        "tomshardware.com: Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push"
+      ],
+      "body": [
+        "arstechnica.com: Apple is working on an AI server that would use Apple’s high-performance M-series Ultra chips found in Mac desktops. The potential product’s expected release in 2029 would mark the first Apple server to hit the market in nearly two decades—and could capitalize on the surging popularity of Apple hardware among AI developers. The enterprise server would come in two configurations that include either two or four of Apple’s future M8 Ultra chips, according to The Information . The project reportedly received support from new Apple CEO John Ternus when it began a year ago, back when Ternus led Apple’s hardware engineering efforts. This revelation coincides with booming sales for Apple’s Mac mini and Mac Studio as AI developers and companies snap up the Mac computers to run AI workloads. The popularity of such computing devices that rely on Apple’s M-series Ultra chips has undoubtedly encouraged Apple’s pursuit of an enterprise server using the same chips. Read full article Comments",
+        "tomshardware.com: Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push Tom's Hardware"
+      ],
+      "l": [
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260917/p23#a260917p23"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPVWtZbGp2ejFFd1pibDJFX2UxUjRyN3R5MW5ick1Lckw4bXZjd04wbVNsSXFES09GRVFFMFlnbFdYNUhfeS1oRmhYODFGT0R6Qnp4QVRTMHdxQ0d5cXh0WnRBLTVSY0E0eW13RE5KQ0FFX0EtR1dWa2lFdzdxXzdxSEM5RUZDS2dRUTRxVGpiQ3dPdUx5V0YtOXZZTDdIdGlYR0FLSWlUdHdxVVdVUDJZLUw2VEdvczlfTGFjQ2ZVV2p3Njc2enQzZ044Y1pxNjVXOEItVld3Xy1rR080dkpkMGl5S0c3Qlh0VGpneXBBTnpTZ1VWVGdzOUlOT29DdGtSWDZWWGxzZkxWSFZxZFVQUlJHQTE2bHVnNEl0T1FMMHpUWExoQzBMMU1FaDZwOTVo?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Apple reportedly building server packed with M-series Ultra chips for AI",
+        "Apple Watch Series 12 and Ultra 4 review: new colors and materials, revamped Health Sensing System, an S11 chip, and future AI features, but few design changes (Chance Miller/9to5Mac)",
+        "Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 59,
+      "signal": 55,
       "sources": 2,
       "ts": "2026-09-17T09:00:09.000Z",
       "writtenSources": 2,
@@ -34,40 +71,8 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 58,
-      "sources": 2,
-      "ts": "2026-09-16T22:02:46.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Apple reportedly building server packed with M-series Ultra chips for AI",
-      "s": "Apple is working on an AI server that would use Apple’s high-performance M-series Ultra chips found in Mac desktops. The potential product’s expected release in 2029 would mark the first Apple server ",
-      "b": [
-        "arstechnica.com: Apple reportedly building server packed with M-series Ultra chips for AI",
-        "tomshardware.com: Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push"
-      ],
-      "body": [
-        "arstechnica.com: Apple is working on an AI server that would use Apple’s high-performance M-series Ultra chips found in Mac desktops. The potential product’s expected release in 2029 would mark the first Apple server to hit the market in nearly two decades—and could capitalize on the surging popularity of Apple hardware among AI developers. The enterprise server would come in two configurations that include either two or four of Apple’s future M8 Ultra chips, according to The Information . The project reportedly received support from new Apple CEO John Ternus when it began a year ago, back when Ternus led Apple’s hardware engineering efforts. This revelation coincides with booming sales for Apple’s Mac mini and Mac Studio as AI developers and companies snap up the Mac computers to run AI workloads. The popularity of such computing devices that rely on Apple’s M-series Ultra chips has undoubtedly encouraged Apple’s pursuit of an enterprise server using the same chips. Read full article Comments",
-        "tomshardware.com: Apple eyes Nvidia NVLink to power its new custom M8 Ultra AI servers — historically bitter rivals reportedly team up for 2029 data center push Tom's Hardware"
-      ],
-      "l": [
-        {
-          "d": "arstechnica.com",
-          "u": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260917/p23#a260917p23"
-        }
-      ],
-      "srcTitles": [
-        "Apple reportedly building server packed with M-series Ultra chips for AI",
-        "Apple Watch Series 12 and Ultra 4 review: new colors and materials, revamped Health Sensing System, an S11 chip, and future AI features, but few design changes (Chance Miller/9to5Mac)"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 50,
+      "signal": 46,
       "sources": 2,
       "ts": "2026-09-17T11:40:02.000Z",
       "writtenSources": 2,
@@ -99,7 +104,7 @@
     },
     {
       "cat": "models",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-09-17T02:40:00.000Z",
       "writtenSources": 2,
@@ -127,6 +132,70 @@
       "srcTitles": [
         "Huawei plans to launch the Ascend 960DT AI chip in Q1 2027 and the 960PR in Q3 2027, and says its UnifiedBus tech is key to its next-generation large AI systems (Reuters)",
         "China's Huawei sets 2027 launch for new AI chips as it targets Nvidia"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-09-17T10:50:36.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Huawei Chair Eric Xu says Chinese AI researchers need to \"increase the speed of development\" to \"see the dangers\" of AI, contrasting with US slowdown calls (Eleanor Olcott/Financial Times)",
+      "s": "Eleanor Olcott / Financial Times : Huawei Chair Eric Xu says Chinese AI researchers need to increase the speed of development to see the dangers of AI, contrasting with US slowdown calls Chinese tech ",
+      "b": [
+        "techmeme.com: Huawei Chair Eric Xu says Chinese AI researchers need to \"increase the speed of development\" to \"see the dangers\" of AI, contrasting with US slowdown calls (Eleanor Olcott/Financial Times)",
+        "ft.com: China’s AI labs must accelerate development, says Huawei chair"
+      ],
+      "body": [
+        "techmeme.com: Eleanor Olcott / Financial Times : Huawei Chair Eric Xu says Chinese AI researchers need to increase the speed of development to see the dangers of AI, contrasting with US slowdown calls Chinese tech executive's comments contrast with Silicon Valley calls for slowdown amid rising concerns about technology's existential risks",
+        "ft.com: China’s AI labs must accelerate development, says Huawei chair ft.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260917/p21#a260917p21"
+        },
+        {
+          "d": "ft.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmFQWW4xZ2R2RGxnUUJVdXBHdy15dEVZaWlmaXVoOWxWUk5VNDBBMHBtU2hwZVNsek55cHRoZUFzN3FFdG9uOTZCWm8yQjZ3UkF1WjFQUDkwaHJYeTd4dzB4TVBKeXNwR0hmQm5UWXRJSVlwNXBpYUk5alFOQXdycWdEdzc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Huawei Chair Eric Xu says Chinese AI researchers need to \"increase the speed of development\" to \"see the dangers\" of AI, contrasting with US slowdown calls (Eleanor Olcott/Financial Times)",
+        "China’s AI labs must accelerate development, says Huawei chair"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-17T08:00:21.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "“Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence",
+      "s": "“Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence Clemson News",
+      "b": [
+        "news.clemson.edu: “Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence",
+        "cdapress.com: MY TURN: Looking Inside Artificial Intelligence (AI)"
+      ],
+      "body": [
+        "news.clemson.edu: “Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence Clemson News",
+        "cdapress.com: MY TURN: Looking Inside Artificial Intelligence (AI) Coeur d'Alene Press"
+      ],
+      "l": [
+        {
+          "d": "news.clemson.edu",
+          "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb3RjbjZHQVlrcDJMTGF4VnBjeVlQTERqTndlNV9SM21BbzlvVEZid2dDSmV0N2tMZlpRQnJHWTQ1TmtJT2pwOVBXWjd5RENlM3FhTm1xb3dCQkFXekhqc3VkWURaT1NFdXpkcFU1TlpQY1NpU3p4ZU55MDRHM1RsZnNmZmNibVJ1RE5jZVYycFpPUEZPYTZwNnA5SDZLcWFMVkVsalpFS2tGRFhTRjI4c1NFS3lmRmRaQ2RsUUFYbmVZM2s4OEpUcWFEMU1iRHh2cl85Yg?oc=5"
+        },
+        {
+          "d": "cdapress.com",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmtwYzRHN3FHLTgxdElDX2VtQ2lkVWR1YlRtZXRqa2JrZkdpbXFBUE5Xbjd6X01oZGg2YlpIN01KZGxwMC14YXhQendDN1FzTkhSTi1QSURYMF9qOXpDbnF1WGdxUVdaMjRFMUJ5T2Frd2dLXzRUcDVCaXlCYldTdW80NVdmUXJqcTIzSndhekp0UQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "“Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence",
+        "MY TURN: Looking Inside Artificial Intelligence (AI)"
       ]
     }
   ]
