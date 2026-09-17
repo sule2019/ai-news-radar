@@ -2,9 +2,57 @@
   "date": "2026-09-17",
   "stories": [
     {
-      "cat": "models",
+      "cat": "policy",
       "signal": 75,
-      "sources": 26,
+      "sources": 46,
+      "ts": "2026-09-16T22:14:00.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "South Carolina Senate Committee begins studying artificial intelligence",
+      "s": "South Carolina Senate Committee begins studying artificial intelligence WIS News 10",
+      "b": [
+        "wistv.com: South Carolina Senate Committee begins studying artificial intelligence",
+        "live5news.com: South Carolina Senate Committee begins studying artificial intelligence",
+        "wtoc.com: VIDEO: South Carolina Senate Committee begins studying artificial intelligence"
+      ],
+      "body": [
+        "wistv.com: South Carolina Senate Committee begins studying artificial intelligence WIS News 10",
+        "live5news.com: South Carolina Senate Committee begins studying artificial intelligence Live 5 News",
+        "wtoc.com: VIDEO: South Carolina Senate Committee begins studying artificial intelligence WTOC",
+        "abccolumbia.com: Senate committee holds 1st of many meetings on artificial intelligence abccolumbia.com"
+      ],
+      "l": [
+        {
+          "d": "economist.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVE2WlNjSlVyUjdJZzRYT1ZTSlI1cWFHdHJYcHhMNnREaXYzRzhINE8xWHZIZmh2TTFaOGllS0lTVU5sNDctUzhuOXpNQi1BbjBwalduUkE3SllUbEp3ZTFveEVZajZwOGRSVXhDaS02bnVCMkM3OWdBZTd5STl4a2dBbjNidGhpSlQ1OXlCanZRaXpoay02TU45cXk5b2c5dndkQnRCVHdCbUxvV1ljTkNtMmY4aDFnUEFHNm5iMGdhWjB4SHNR?oc=5"
+        },
+        {
+          "d": "rand.org",
+          "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGM2VWeUxRTGJWLV9IU2lFRXlNZkR5ZlhCMzRHRFAxZlg1TklBM0RpeEtEaUs5aVI0ZUhOZWxqX0QxT1FNcW1DSTh0NFNQbkEwZUE2djg2TmVWMWdIc3FYakNkYndlY1h6?oc=5"
+        },
+        {
+          "d": "miamistudent.net",
+          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaTJmY25nelJ5cEZ3UVZVakFBc01TOERvdlNuZ1ZUSXVSX2gwZnVVNFg2a1p0elFVT3FxTmpBN2I1N1hWMV93U2ljS1FVYnl3NHNNcjhtU2g1LU5YcFBRbDdDelFOc2JFQkphTnNKT2lWNmMzYW1UaVJsamFUTlRBajRlSWd6U1I2b3VjUkdlWXlkOV9aY0Z1b3VKYTBBM0g1T0tUQU1hc2Y3NTB4dDlhUUJkX2dtWEV5OGNyUzZQMUNDRndrWE4yZF90MmJNZ3UyQkR2bm1HcUZMQ05IeFZZSw?oc=5"
+        },
+        {
+          "d": "sitepoint.com",
+          "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRFd6VUktbXoxcE44TUZGRFBERE5tSUl4ZElBb2xDalY3SDFFUGE1QXVuQXNzdnNDVWJUeUU5RVFNeEFCb2dSN3FvaENvN3pnT2JmY0UzYXU1Y28yb2s1RFNPYXM3bmdFaDlnbl8tZTd5MEIxV29uX0tvMXowcVl0LWNIWTJmc1phVWVEYkZNTkV0RXhwUXFwN3Ywa0lEMEYtRGpMRWVtZkdJT3JYVkVEQlVRQTB1aW0yWkFZX2NYQUhNTjNEc05NclRtNUp5ejNsQTQwRk1CYlFWRGVlWk1hZHZ5N09EMWE3ZzdrUQ?oc=5"
+        },
+        {
+          "d": "+42"
+        }
+      ],
+      "srcTitles": [
+        "Artificial intelligence now beats some of the best human forecasters",
+        "How Is Artificial Intelligence Insured?",
+        "University Senate debates Center for Artificial Intelligence at Miami",
+        "The Future of Everything: How Artificial Intelligence is Revolutionizing Education, Traffic Management, Healthcare, and Modern Coding"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 74,
+      "sources": 21,
       "ts": "2026-09-17T08:55:57.000Z",
       "writtenSources": 17,
       "draft": true,
@@ -31,22 +79,22 @@
           "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdFdPV3JrbjNYMUd3RXlUY3NwOU5RMTVheVM2eHRUQ2VFWnBVU2w2SnFqR05iaHBiZzE5MHlyc1ZhX1NSeWxHMmNLMEx4YkxBQjVZY1A4MllpU19lM0c5RHhnV3JTRkQzWGlDME1Cam9WdlVzTTVNclhxZm90akpuUHFkeW9INXdGbmdiUTBTNHBnZEVSNmxtRDNLUWNPQTh4N05qVmh4c01JUWM?oc=5"
         },
         {
-          "d": "apnews.com",
-          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1pxWVhPQ09jRmt4Zjg5VFV6Yko5MEFRU1ZJUnhCdnVwRG1GOFFFQ3NuR1hLTEQ2N1FEZnJ1Q3hHQ2pUTl9xQlJyZmZFTS00RTRuQ05FLTltZ3pGdUFmQWJ4TUt4SHJzbnFXMGlJV3FZWmI1UEhTZGkzekxZcFVKZnhVZDRWem5oS3ZPdnhDMkNkU20t?oc=5"
+          "d": "aljazeera.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWpEVWFyNGxRVzVfcmNfbzl2cV9YVWxJZWxYcm9saTJhbmFyYWJKVklUZEV0NDRHQVBpWUhjOVVfV2hqR2UxSnlYSV9UMWJ4THM4a3hpcVNoQWdad0pCZVY1T21VSURXZWNzbW9zWlBpVzYwLUZjWll3TFo0d0M3cGxxeG8zRE54ajZuQjZ2TzYtbTBTT2VXLUp6OUR0WU5BT0Q40gGoAUFVX3lxTE1mczNIXzVOQzFvS1pOSHJ2NnBYRVM0X2JHQWt2Z0JpTXFEOWxfY051aFQ1cjJ5NldwR2EzMklPaGJLRkpkN1JkVjJZOXpLSjlvLUIwdXhhM3Uza3dDNEFIU3J6eFNvV3hYbmJzOEZwZVd4RlBkdHUzdjI0RG12WExWdTEzRkhmcDJqQWdWTGlRaWhMb0FYN0RJN0RzTTJib2Qwb1NCd1hhbQ?oc=5"
         },
         {
-          "d": "nbcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTTFLS1VfdTJydzhHdExhS1pyRXVrX1hHTlUxUlJLa2tnYnd5aThBSTNRbE1IdTRacVM4Z1dad3Rya1RaRWxCRXpHMkIycHE3VUZsaW1sZ2xjZ1JUM0tHLU5aTW1RVmtTRVNDeGVnVW5IcEE5QlBhbWpnbHkzdTRUZUhtSFZwQmh2QUdDUHFFM3FfYVR5UlRBT1VwcGZneUpJUFJQa3k1R0tfNjYtV1N5eGZ4TFdNZ1k?oc=5"
+          "d": "nypost.com",
+          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVGtNOERYQnU3bFdmZDk0M09WMG13VW91YjFlUm50d2ZDNWhjNVBLejhfVFNJWjFBbjRFaVYySUZWQXFwMmRNQThTY3ZVOVRZVWVUWHY2VDh1MFdDNWVvaFFKVTRmU3ZfQnZpLTRxdnpUejJUQ1lmNW16REtOeThJT0xhVFozS3ZOYTh1SkhNOVlCcDBnQU45T0RBN2ZEclNMQ0QtaWFxa0F5QjVwcmFfWGNteFVnbzlwdU02OE5iTFVndEI4M2tEcVVzcDdBLS1u?oc=5"
         },
         {
-          "d": "+22"
+          "d": "+17"
         }
       ],
       "srcTitles": [
         "King Charles hosts tech leaders, such as Jensen Huang, Demis Hassabis, and OpenAI CFO Sarah Friar, in Scotland to discuss AI risks; Huang calls for safety tests (Bloomberg)",
         "King Charles warns tech leaders of 'existential dangers' from AI",
-        "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl",
-        "King Charles meets with artificial intelligence leaders over safety risks"
+        "The UK’s King Charles warns AI leaders of ‘existential dangers’",
+        "King Charles warns top AI leaders of 'existential dangers,' offers proposals to rein in technology"
       ]
     },
     {
@@ -83,52 +131,75 @@
     },
     {
       "cat": "policy",
-      "signal": 54,
-      "sources": 4,
-      "ts": "2026-09-16T22:14:00.000Z",
-      "writtenSources": 4,
+      "signal": 60,
+      "sources": 2,
+      "ts": "2026-09-17T00:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "South Carolina Senate Committee begins studying artificial intelligence",
-      "s": "South Carolina Senate Committee begins studying artificial intelligence WIS News 10",
+      "h": "Introducing Astra for Law",
+      "s": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
       "b": [
-        "wistv.com: South Carolina Senate Committee begins studying artificial intelligence",
-        "live5news.com: South Carolina Senate Committee begins studying artificial intelligence",
-        "wtoc.com: VIDEO: South Carolina Senate Committee begins studying artificial intelligence"
+        "openai.com: Introducing Astra for Law"
       ],
       "body": [
-        "wistv.com: South Carolina Senate Committee begins studying artificial intelligence WIS News 10",
-        "live5news.com: South Carolina Senate Committee begins studying artificial intelligence Live 5 News",
-        "wtoc.com: VIDEO: South Carolina Senate Committee begins studying artificial intelligence WTOC",
-        "abccolumbia.com: Senate committee holds 1st of many meetings on artificial intelligence abccolumbia.com"
+        "openai.com: OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
       ],
       "l": [
         {
-          "d": "wistv.com",
-          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGQySmdmMktGdm1wNDVBVWtjU2tCd25zZm0ydzE3VnNTTGZqTlN3b1dhNTY3Wk5kY0s5REFoUU1PWS1jU3BsaHViVmJOb3VmX1MyYXZMT1UzLUk3elVyeXhiTmJ5alhOVzBHOFJTdFpIRE1DYlVjdzlBdC1qcUFsNF9rVENrRGZiZUQyOFc4d2VFbHpXVUt1cTl1Vm1zX0gtNWNTSzYxREZoaU56ZTBpQQ?oc=5"
+          "d": "openai.com",
+          "u": "https://openai.com/index/astra-for-law"
         },
         {
-          "d": "live5news.com",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRDh3dlBpRW9rSE9kUU5NUjhnSU53SXkwX3A0UEY3ZzhLVWt6UmFteXhyMWpsYm9OY2k3Nnp4Mk95bC1SakVMOHZHbWJZNmVpLWZQR3NMbEFCR0NnTmdIR2NXWVJHVEtzU2hjR21ibUJYUVo4cjMtNmw5QVJ6RFpHZmlwak9QZXIwMGJuN254NVpyQkQ5dlBuZUlQVURSZHVXS0lIdm9JLXFaY1JzMXfSAcIBQVVfeXFMUExELU53M19lVkoxWkh3NnBGVjVJQkpWN2xhUk5wejdvVE5oRWFGc25XS3RHRWxIM2pNb3JGUmh5TzFxdmxYT1VlWXlYLTVmLVp5c1c1dUZ5eTV5MGd5M1duM2R6SDl0a1pPR0owWWdEalRaeGpFMEM2X0c0dXdZU0QxUXhLMnZJOFpkY2x4c0VXTkprUHB5WUhibTRuUHdhcmR4MkpUak5saWQ4UEZWT1V2d2hEd3YzMmczRzVEbllpWEE?oc=5"
-        },
-        {
-          "d": "wtoc.com",
-          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMjdzNUlaazEyUmVNVUdrOFNpNmEySlRWQUlUOWlucmtzajdjQ2pkNlZGdkNzQVNaUkFKMXh5MzU4eEdkeERQaE1EamFMUUxkcWk0QkM5aXZkUWNyTGEtYXF6VXFYbHd3WnJkbTByS2YxZ0ZyMVFpUGdROHNoWnpSdkVkVEZoS2lpcmRwT1pVdVpkdnd0X2xyQm9HWkJQN1RlUUdkNG4zVGNIbWxWdG5UcXJ5NVd1dHY0SXc?oc=5"
-        },
-        {
-          "d": "abccolumbia.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVEZkb3p1djduVFBOUmNvbGw3UVFNdDJmcnloQVNzMklGQ0RuLV9wWnVQTm9RS1pCbmxfNUYwR2tZQ3VjQzhZZW1SaF84ZkxyWm5YdG9aenNRZDJ6dmczSWlGZWdqS0dWczd3U3BaVTFfLXFNLUM0MHZNN2N2c2E0dmJtaWxtNEh0TVVOOG92X3JGT0RvN0Jwb3pMMmlfeEJjN1hEZXVwZ3JReWRZd3pR?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260917/p39#a260917p39"
         }
       ],
       "srcTitles": [
-        "South Carolina Senate Committee begins studying artificial intelligence",
-        "South Carolina Senate Committee begins studying artificial intelligence",
-        "VIDEO: South Carolina Senate Committee begins studying artificial intelligence",
-        "Senate committee holds 1st of many meetings on artificial intelligence"
+        "Introducing Astra for Law",
+        "OpenAI launches Astra for Law, combining GPT-6 Astra with a legal search index and instructions for legal analysis and writing, initially for select law firms (OpenAI)"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 56,
+      "sources": 3,
+      "ts": "2026-09-17T10:50:36.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Huawei Chair Eric Xu says Chinese AI researchers need to \"increase the speed of development\" to \"see the dangers\" of AI, contrasting with US slowdown calls (Eleanor Olcott/Financial Times)",
+      "s": "Eleanor Olcott / Financial Times : Huawei Chair Eric Xu says Chinese AI researchers need to increase the speed of development to see the dangers of AI, contrasting with US slowdown calls Chinese tech ",
+      "b": [
+        "techmeme.com: Huawei Chair Eric Xu says Chinese AI researchers need to \"increase the speed of development\" to \"see the dangers\" of AI, contrasting with US slowdown calls (Eleanor Olcott/Financial Times)",
+        "ft.com: China’s AI labs must accelerate development, says Huawei chair"
+      ],
+      "body": [
+        "techmeme.com: Eleanor Olcott / Financial Times : Huawei Chair Eric Xu says Chinese AI researchers need to increase the speed of development to see the dangers of AI, contrasting with US slowdown calls Chinese tech executive's comments contrast with Silicon Valley calls for slowdown amid rising concerns about technology's existential risks",
+        "ft.com: China’s AI labs must accelerate development, says Huawei chair ft.com"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORVVvOVIyNGhnd21XUFNoWmI5ZTRHUXFZcFlRcGxVNDEyRG9HTklXUFQ1bHk4S1Rfbi1jNXNDV095dS1ienhxeTRJZHJrWUlKZWdqenlhajREVTBnVFhScktZclFnZ3RicmJKalhBSmExRDZDN0ItX2xZcWduRDkxczNhUF9XVnhDOW10bGxBLUFZSjFwNTVJc3k1c1Z4MW5iMTRPRVI0aVBzZE5YOXc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The AI Superintelligence Slowdown",
+        "The AI ‘Slowdown’ Is an Antitrust Mess",
+        "The AI Slowdown Debate Crashed Salesforce’s Party",
+        "Experts Say Frontier AI Slowdown Won’t Slow Adoption"
       ]
     },
     {
       "cat": "policy",
-      "signal": 52,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-09-17T09:00:09.000Z",
       "writtenSources": 2,
@@ -160,7 +231,7 @@
     },
     {
       "cat": "products",
-      "signal": 52,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-09-16T22:02:46.000Z",
       "writtenSources": 2,
@@ -192,7 +263,7 @@
     },
     {
       "cat": "models",
-      "signal": 38,
+      "signal": 34,
       "sources": 2,
       "ts": "2026-09-17T11:40:02.000Z",
       "writtenSources": 2,
@@ -224,7 +295,7 @@
     },
     {
       "cat": "models",
-      "signal": 36,
+      "signal": 32,
       "sources": 2,
       "ts": "2026-09-17T02:40:00.000Z",
       "writtenSources": 2,
@@ -255,38 +326,6 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 32,
-      "sources": 2,
-      "ts": "2026-09-17T20:04:47.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Kansas Board of Regents to focus on crafting artificial intelligence policy standards",
-      "s": "Kansas Board of Regents to focus on crafting artificial intelligence policy standards Kansas Reflector",
-      "b": [
-        "kansasreflector.com: Kansas Board of Regents to focus on crafting artificial intelligence policy standards",
-        "newsfromthestates.com: Kansas Board of Regents to focus on crafting artificial intelligence policy standards"
-      ],
-      "body": [
-        "kansasreflector.com: Kansas Board of Regents to focus on crafting artificial intelligence policy standards Kansas Reflector",
-        "newsfromthestates.com: Kansas Board of Regents to focus on crafting artificial intelligence policy standards News From The States"
-      ],
-      "l": [
-        {
-          "d": "kansasreflector.com",
-          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmdEOVBVSFU5ZVVXNzNqcEJwc1JxYks4U29VZDh2SVdhS1g3bEZVdlhTZ1ZJSjloMFE3OVF0TzdiNDZLYkhsbG5MdDBYV2k2V0Q1dmYxeGljN0pvMXduUlFuR2tHZ2xPaG1URlYteHJkbkptRkRVNGV4a2g4eGFhcm5KWjZJVF9hY2hIVmN5aVVlUGR5N1lESzh2bU56cGpzczZTY0NpVGMtS0lDbmFZUXFWX1N2YjE5TVhROUxLb205YzA?oc=5"
-        },
-        {
-          "d": "newsfromthestates.com",
-          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRlhxQXg1VGszOHZFdXM4Z05NUU1qLVlvWXA3N0ppeWhfWlMwMnhKZVhKcTdzZVcya21ZSEZEdlFSLXNpU1Q1TC1TMW5XRWZFVENtM0xCZUhYcFlmT3NxTlVocVFvSXZEZlppOUFSbGVSelBKck9iRk5wMk9URU9ScW9LM1lmcEJrYUpoRzZRNXdpb0ZIWV9iUmVDM2ozYk45aTZsUkNSd21wSjM2SGV2cWh4eGRCcmttTVE?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Kansas Board of Regents to focus on crafting artificial intelligence policy standards",
-        "Kansas Board of Regents to focus on crafting artificial intelligence policy standards"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 30,
       "sources": 1,
@@ -309,127 +348,6 @@
       ],
       "srcTitles": [
         "Making global data easier to explore"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 29,
-      "sources": 2,
-      "ts": "2026-09-17T17:59:21.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Prediction: 2 Super Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade",
-      "s": "Prediction: 2 Super Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade The Motley Fool",
-      "b": [
-        "fool.com: Prediction: 2 Super Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade",
-        "currently.att.yahoo.com: Prediction: 2 Super Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade"
-      ],
-      "body": [
-        "fool.com: Prediction: 2 Super Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade The Motley Fool",
-        "currently.att.yahoo.com: Prediction: 2 Super Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade Currently.com"
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUHAydkFDY1JuT1BTX01aNUZ4QnlfTEV4ZGJnOFpzQlZ3c3dta3o4bXJuMUR0TTFteEVBVmNDUy1OQWpFMDVmR19XblA2NmEySG9RWnk3cFIyOEcyUUJsLTd0RXRLaWo5NjdEZ1lMa2Y1Q1djOFdLWDVXTmRvcEthVUJNY3hHR0d5QXZhcUVuZ2JnMXpkdnRn?oc=5"
-        },
-        {
-          "d": "currently.att.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeGp0ZHJLNmw1b2g4eFlIem0xYXZFblNtZk53SW9xYUdPTDVSekJwcmR0VmpscjVCN044NDJZb0NlZTR5OHZsNGxtRGF3NXF1SGlvZHlnVklSZDN2ODlSQjJTcTRyeHYxUktoVjV1c1Jnb21fLUNfTnlNeFJTaXVMcS1XSG9XekpfODB5UUxpNlBoYzREbkZBRQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Prediction: 2 Super Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade",
-        "Prediction: 2 Super Artificial Intelligence (AI) Stocks to Buy and Hold for the Next Decade"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-09-17T10:50:36.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Huawei Chair Eric Xu says Chinese AI researchers need to \"increase the speed of development\" to \"see the dangers\" of AI, contrasting with US slowdown calls (Eleanor Olcott/Financial Times)",
-      "s": "Eleanor Olcott / Financial Times : Huawei Chair Eric Xu says Chinese AI researchers need to increase the speed of development to see the dangers of AI, contrasting with US slowdown calls Chinese tech ",
-      "b": [
-        "techmeme.com: Huawei Chair Eric Xu says Chinese AI researchers need to \"increase the speed of development\" to \"see the dangers\" of AI, contrasting with US slowdown calls (Eleanor Olcott/Financial Times)",
-        "ft.com: China’s AI labs must accelerate development, says Huawei chair"
-      ],
-      "body": [
-        "techmeme.com: Eleanor Olcott / Financial Times : Huawei Chair Eric Xu says Chinese AI researchers need to increase the speed of development to see the dangers of AI, contrasting with US slowdown calls Chinese tech executive's comments contrast with Silicon Valley calls for slowdown amid rising concerns about technology's existential risks",
-        "ft.com: China’s AI labs must accelerate development, says Huawei chair ft.com"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260917/p21#a260917p21"
-        },
-        {
-          "d": "ft.com",
-          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSmFQWW4xZ2R2RGxnUUJVdXBHdy15dEVZaWlmaXVoOWxWUk5VNDBBMHBtU2hwZVNsek55cHRoZUFzN3FFdG9uOTZCWm8yQjZ3UkF1WjFQUDkwaHJYeTd4dzB4TVBKeXNwR0hmQm5UWXRJSVlwNXBpYUk5alFOQXdycWdEdzc?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Huawei Chair Eric Xu says Chinese AI researchers need to \"increase the speed of development\" to \"see the dangers\" of AI, contrasting with US slowdown calls (Eleanor Olcott/Financial Times)",
-        "China’s AI labs must accelerate development, says Huawei chair"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-09-17T08:00:21.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "“Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence",
-      "s": "“Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence Clemson News",
-      "b": [
-        "news.clemson.edu: “Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence",
-        "cdapress.com: MY TURN: Looking Inside Artificial Intelligence (AI)"
-      ],
-      "body": [
-        "news.clemson.edu: “Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence Clemson News",
-        "cdapress.com: MY TURN: Looking Inside Artificial Intelligence (AI) Coeur d'Alene Press"
-      ],
-      "l": [
-        {
-          "d": "news.clemson.edu",
-          "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb3RjbjZHQVlrcDJMTGF4VnBjeVlQTERqTndlNV9SM21BbzlvVEZid2dDSmV0N2tMZlpRQnJHWTQ1TmtJT2pwOVBXWjd5RENlM3FhTm1xb3dCQkFXekhqc3VkWURaT1NFdXpkcFU1TlpQY1NpU3p4ZU55MDRHM1RsZnNmZmNibVJ1RE5jZVYycFpPUEZPYTZwNnA5SDZLcWFMVkVsalpFS2tGRFhTRjI4c1NFS3lmRmRaQ2RsUUFYbmVZM2s4OEpUcWFEMU1iRHh2cl85Yg?oc=5"
-        },
-        {
-          "d": "cdapress.com",
-          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmtwYzRHN3FHLTgxdElDX2VtQ2lkVWR1YlRtZXRqa2JrZkdpbXFBUE5Xbjd6X01oZGg2YlpIN01KZGxwMC14YXhQendDN1FzTkhSTi1QSURYMF9qOXpDbnF1WGdxUVdaMjRFMUJ5T2Frd2dLXzRUcDVCaXlCYldTdW80NVdmUXJqcTIzSndhekp0UQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "“Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence",
-        "MY TURN: Looking Inside Artificial Intelligence (AI)"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-09-17T00:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Introducing Astra for Law",
-      "s": "OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work.",
-      "b": [
-        "openai.com: Introducing Astra for Law"
-      ],
-      "body": [
-        "openai.com: OpenAI for Law brings frontier intelligence for law, custom firm workflows, connected legal data sources, and legal-grade controls for confidential client work."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/astra-for-law"
-        }
-      ],
-      "srcTitles": [
-        "Introducing Astra for Law"
       ]
     }
   ]
