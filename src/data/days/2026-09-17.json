@@ -2,57 +2,9 @@
   "date": "2026-09-17",
   "stories": [
     {
-      "cat": "policy",
-      "signal": 75,
-      "sources": 46,
-      "ts": "2026-09-16T22:14:00.000Z",
-      "writtenSources": 4,
-      "draft": true,
-      "h": "South Carolina Senate Committee begins studying artificial intelligence",
-      "s": "South Carolina Senate Committee begins studying artificial intelligence WIS News 10",
-      "b": [
-        "wistv.com: South Carolina Senate Committee begins studying artificial intelligence",
-        "live5news.com: South Carolina Senate Committee begins studying artificial intelligence",
-        "wtoc.com: VIDEO: South Carolina Senate Committee begins studying artificial intelligence"
-      ],
-      "body": [
-        "wistv.com: South Carolina Senate Committee begins studying artificial intelligence WIS News 10",
-        "live5news.com: South Carolina Senate Committee begins studying artificial intelligence Live 5 News",
-        "wtoc.com: VIDEO: South Carolina Senate Committee begins studying artificial intelligence WTOC",
-        "abccolumbia.com: Senate committee holds 1st of many meetings on artificial intelligence abccolumbia.com"
-      ],
-      "l": [
-        {
-          "d": "economist.com",
-          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOVE2WlNjSlVyUjdJZzRYT1ZTSlI1cWFHdHJYcHhMNnREaXYzRzhINE8xWHZIZmh2TTFaOGllS0lTVU5sNDctUzhuOXpNQi1BbjBwalduUkE3SllUbEp3ZTFveEVZajZwOGRSVXhDaS02bnVCMkM3OWdBZTd5STl4a2dBbjNidGhpSlQ1OXlCanZRaXpoay02TU45cXk5b2c5dndkQnRCVHdCbUxvV1ljTkNtMmY4aDFnUEFHNm5iMGdhWjB4SHNR?oc=5"
-        },
-        {
-          "d": "rand.org",
-          "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGM2VWeUxRTGJWLV9IU2lFRXlNZkR5ZlhCMzRHRFAxZlg1TklBM0RpeEtEaUs5aVI0ZUhOZWxqX0QxT1FNcW1DSTh0NFNQbkEwZUE2djg2TmVWMWdIc3FYakNkYndlY1h6?oc=5"
-        },
-        {
-          "d": "miamistudent.net",
-          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaTJmY25nelJ5cEZ3UVZVakFBc01TOERvdlNuZ1ZUSXVSX2gwZnVVNFg2a1p0elFVT3FxTmpBN2I1N1hWMV93U2ljS1FVYnl3NHNNcjhtU2g1LU5YcFBRbDdDelFOc2JFQkphTnNKT2lWNmMzYW1UaVJsamFUTlRBajRlSWd6U1I2b3VjUkdlWXlkOV9aY0Z1b3VKYTBBM0g1T0tUQU1hc2Y3NTB4dDlhUUJkX2dtWEV5OGNyUzZQMUNDRndrWE4yZF90MmJNZ3UyQkR2bm1HcUZMQ05IeFZZSw?oc=5"
-        },
-        {
-          "d": "sitepoint.com",
-          "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRFd6VUktbXoxcE44TUZGRFBERE5tSUl4ZElBb2xDalY3SDFFUGE1QXVuQXNzdnNDVWJUeUU5RVFNeEFCb2dSN3FvaENvN3pnT2JmY0UzYXU1Y28yb2s1RFNPYXM3bmdFaDlnbl8tZTd5MEIxV29uX0tvMXowcVl0LWNIWTJmc1phVWVEYkZNTkV0RXhwUXFwN3Ywa0lEMEYtRGpMRWVtZkdJT3JYVkVEQlVRQTB1aW0yWkFZX2NYQUhNTjNEc05NclRtNUp5ejNsQTQwRk1CYlFWRGVlWk1hZHZ5N09EMWE3ZzdrUQ?oc=5"
-        },
-        {
-          "d": "+42"
-        }
-      ],
-      "srcTitles": [
-        "Artificial intelligence now beats some of the best human forecasters",
-        "How Is Artificial Intelligence Insured?",
-        "University Senate debates Center for Artificial Intelligence at Miami",
-        "The Future of Everything: How Artificial Intelligence is Revolutionizing Education, Traffic Management, Healthcare, and Modern Coding"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 74,
-      "sources": 21,
+      "signal": 77,
+      "sources": 32,
       "ts": "2026-09-17T08:55:57.000Z",
       "writtenSources": 17,
       "draft": true,
@@ -83,23 +35,23 @@
           "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWpEVWFyNGxRVzVfcmNfbzl2cV9YVWxJZWxYcm9saTJhbmFyYWJKVklUZEV0NDRHQVBpWUhjOVVfV2hqR2UxSnlYSV9UMWJ4THM4a3hpcVNoQWdad0pCZVY1T21VSURXZWNzbW9zWlBpVzYwLUZjWll3TFo0d0M3cGxxeG8zRE54ajZuQjZ2TzYtbTBTT2VXLUp6OUR0WU5BT0Q40gGoAUFVX3lxTE1mczNIXzVOQzFvS1pOSHJ2NnBYRVM0X2JHQWt2Z0JpTXFEOWxfY051aFQ1cjJ5NldwR2EzMklPaGJLRkpkN1JkVjJZOXpLSjlvLUIwdXhhM3Uza3dDNEFIU3J6eFNvV3hYbmJzOEZwZVd4RlBkdHUzdjI0RG12WExWdTEzRkhmcDJqQWdWTGlRaWhMb0FYN0RJN0RzTTJib2Qwb1NCd1hhbQ?oc=5"
         },
         {
-          "d": "nypost.com",
-          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVGtNOERYQnU3bFdmZDk0M09WMG13VW91YjFlUm50d2ZDNWhjNVBLejhfVFNJWjFBbjRFaVYySUZWQXFwMmRNQThTY3ZVOVRZVWVUWHY2VDh1MFdDNWVvaFFKVTRmU3ZfQnZpLTRxdnpUejJUQ1lmNW16REtOeThJT0xhVFozS3ZOYTh1SkhNOVlCcDBnQU45T0RBN2ZEclNMQ0QtaWFxa0F5QjVwcmFfWGNteFVnbzlwdU02OE5iTFVndEI4M2tEcVVzcDdBLS1u?oc=5"
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPa1pxWVhPQ09jRmt4Zjg5VFV6Yko5MEFRU1ZJUnhCdnVwRG1GOFFFQ3NuR1hLTEQ2N1FEZnJ1Q3hHQ2pUTl9xQlJyZmZFTS00RTRuQ05FLTltZ3pGdUFmQWJ4TUt4SHJzbnFXMGlJV3FZWmI1UEhTZGkzekxZcFVKZnhVZDRWem5oS3ZPdnhDMkNkU20t?oc=5"
         },
         {
-          "d": "+17"
+          "d": "+28"
         }
       ],
       "srcTitles": [
         "King Charles hosts tech leaders, such as Jensen Huang, Demis Hassabis, and OpenAI CFO Sarah Friar, in Scotland to discuss AI risks; Huang calls for safety tests (Bloomberg)",
         "King Charles warns tech leaders of 'existential dangers' from AI",
         "The UK’s King Charles warns AI leaders of ‘existential dangers’",
-        "King Charles warns top AI leaders of 'existential dangers,' offers proposals to rein in technology"
+        "The king and AI: UK monarch Charles meets artificial intelligence leaders as safety concerns swirl"
       ]
     },
     {
       "cat": "models",
-      "signal": 64,
+      "signal": 61,
       "sources": 2,
       "ts": "2026-09-17T19:46:08.000Z",
       "writtenSources": 2,
@@ -160,9 +112,84 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 56,
+      "cat": "policy",
+      "signal": 52,
       "sources": 3,
+      "ts": "2026-09-16T22:14:00.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "South Carolina Senate Committee begins studying artificial intelligence",
+      "s": "South Carolina Senate Committee begins studying artificial intelligence WIS News 10",
+      "b": [
+        "wistv.com: South Carolina Senate Committee begins studying artificial intelligence",
+        "live5news.com: South Carolina Senate Committee begins studying artificial intelligence",
+        "wtoc.com: VIDEO: South Carolina Senate Committee begins studying artificial intelligence"
+      ],
+      "body": [
+        "wistv.com: South Carolina Senate Committee begins studying artificial intelligence WIS News 10",
+        "live5news.com: South Carolina Senate Committee begins studying artificial intelligence Live 5 News",
+        "wtoc.com: VIDEO: South Carolina Senate Committee begins studying artificial intelligence WTOC",
+        "abccolumbia.com: Senate committee holds 1st of many meetings on artificial intelligence abccolumbia.com"
+      ],
+      "l": [
+        {
+          "d": "wistv.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVGQySmdmMktGdm1wNDVBVWtjU2tCd25zZm0ydzE3VnNTTGZqTlN3b1dhNTY3Wk5kY0s5REFoUU1PWS1jU3BsaHViVmJOb3VmX1MyYXZMT1UzLUk3elVyeXhiTmJ5alhOVzBHOFJTdFpIRE1DYlVjdzlBdC1qcUFsNF9rVENrRGZiZUQyOFc4d2VFbHpXVUt1cTl1Vm1zX0gtNWNTSzYxREZoaU56ZTBpQQ?oc=5"
+        },
+        {
+          "d": "wtoc.com",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMjdzNUlaazEyUmVNVUdrOFNpNmEySlRWQUlUOWlucmtzajdjQ2pkNlZGdkNzQVNaUkFKMXh5MzU4eEdkeERQaE1EamFMUUxkcWk0QkM5aXZkUWNyTGEtYXF6VXFYbHd3WnJkbTByS2YxZ0ZyMVFpUGdROHNoWnpSdkVkVEZoS2lpcmRwT1pVdVpkdnd0X2xyQm9HWkJQN1RlUUdkNG4zVGNIbWxWdG5UcXJ5NVd1dHY0SXc?oc=5"
+        },
+        {
+          "d": "live5news.com",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUEt5Z083QkFGcUlyM3VIdEJlaVdEQk1reDluUm1vSDQ4RERLRndXV090UV9oX3ROb3VxRk1rOHk2WUNrT3NTSlRUNXRESWV3VXFJY3NjTURHdzB6YlVLSVNsMk1TLVhvR21ad0RQVWZUZ2QwTTc2M0N5VVZjX2RTR1BudWZxeFM1YW1ITDY5RkdaMmRsVl9pLTRYLXhBTmQ3cjVoUGotWGtVRWFJSmhNV0Z1cjBITll6eHNPLXF5TXM?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "South Carolina Senate Committee begins studying artificial intelligence",
+        "VIDEO: South Carolina Senate Committee begins studying artificial intelligence",
+        "VIDEO: South Carolina Senate Committee begins studying artificial intelligence"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-09-17T20:58:56.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Booker Calls for Special Session of Congress on Artificial Intelligence on Senate Floor",
+      "s": "Booker Calls for Special Session of Congress on Artificial Intelligence on Senate Floor US Senator Cory Booker (.gov)",
+      "b": [
+        "booker.senate.gov: Booker Calls for Special Session of Congress on Artificial Intelligence on Senate Floor",
+        "booker.senate.gov: I'm calling on President Trump to call a special session of Congress on Artificial Intelligence",
+        "wesanews.org: Shapiro calls on Trump to regulate artificial intelligence development"
+      ],
+      "body": [
+        "booker.senate.gov: Booker Calls for Special Session of Congress on Artificial Intelligence on Senate Floor US Senator Cory Booker (.gov)",
+        "booker.senate.gov: I'm calling on President Trump to call a special session of Congress on Artificial Intelligence US Senator Cory Booker (.gov)",
+        "wesanews.org: Shapiro calls on Trump to regulate artificial intelligence development 90.5 WESA"
+      ],
+      "l": [
+        {
+          "d": "booker.senate.gov",
+          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbFBaV1pjUk5zaWs5U0xwVWxwR1JjbE1hSnBUNWRlbEF6VFRIU1dWdHdLTUJlNVVFY1N1bko4dHU0STVJXzRZbmVHQXNWNDYzWUlTVmlmQUNWd0p6cFpXSi0wbFlQTmJBdHFsOUhGQjZ3ZUdNSzBEcG1kOTk4TjI4RlY0N184Q1pGbllhWG10cjlCQnRxdU4zODFoZzJkbWdZZWR0ZlcydHg3UUlVOWtveHBkc3ZfUzFKV0NTNFR1bkZnbGpnbkJhUE1YYmJDeHhB?oc=5"
+        },
+        {
+          "d": "wesanews.org",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQcnZ0TzRNYW9EdTFzeTZtLXRqbWMtZFNUbTktYU5TT1NqU2Nyc3VJM2lzRHZoZm5BNmtuLUJ1QXBEU2txTXRWSVNkalQxdXNZZ2FRSUk3ZkVUa2xFeEM5TWRMdXphNExWYTRETDhlSmRNd0FlUDZldktZbkdMUmEyeWNZNXpQZ1dpb0FvLXp2X19wTV9nSWw2ejlubEloM3BkQy12LTBOZFR2RUc4RHNmT2U0Z2cyTnhkWmRfQjg1bGdEQU1I?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Booker Calls for Special Session of Congress on Artificial Intelligence on Senate Floor",
+        "I'm calling on President Trump to call a special session of Congress on Artificial Intelligence",
+        "Shapiro calls on Trump to regulate artificial intelligence development"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 49,
+      "sources": 2,
       "ts": "2026-09-17T10:50:36.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -184,22 +211,17 @@
         {
           "d": "wired.com",
           "u": "https://www.wired.com/story/the-ai-slowdown-is-an-antitrust-mess/"
-        },
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORVVvOVIyNGhnd21XUFNoWmI5ZTRHUXFZcFlRcGxVNDEyRG9HTklXUFQ1bHk4S1Rfbi1jNXNDV095dS1ienhxeTRJZHJrWUlKZWdqenlhajREVTBnVFhScktZclFnZ3RicmJKalhBSmExRDZDN0ItX2xZcWduRDkxczNhUF9XVnhDOW10bGxBLUFZSjFwNTVJc3k1c1Z4MW5iMTRPRVI0aVBzZE5YOXc?oc=5"
         }
       ],
       "srcTitles": [
         "The AI Superintelligence Slowdown",
         "The AI ‘Slowdown’ Is an Antitrust Mess",
-        "The AI Slowdown Debate Crashed Salesforce’s Party",
-        "Experts Say Frontier AI Slowdown Won’t Slow Adoption"
+        "The AI Slowdown Debate Crashed Salesforce’s Party"
       ]
     },
     {
       "cat": "policy",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-09-17T09:00:09.000Z",
       "writtenSources": 2,
@@ -231,7 +253,7 @@
     },
     {
       "cat": "products",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-09-16T22:02:46.000Z",
       "writtenSources": 2,
@@ -263,7 +285,39 @@
     },
     {
       "cat": "models",
-      "signal": 34,
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-17T21:34:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "What AI Bubble? Jensen Huang Just Delivered Great News for Artificial Intelligence Stocks.",
+      "s": "What AI Bubble? Jensen Huang Just Delivered Great News for Artificial Intelligence Stocks. fool.com",
+      "b": [
+        "fool.com: What AI Bubble? Jensen Huang Just Delivered Great News for Artificial Intelligence Stocks.",
+        "finance.yahoo.com: What AI Bubble? Jensen Huang Just Delivered Great News for Artificial Intelligence Stocks."
+      ],
+      "body": [
+        "fool.com: What AI Bubble? Jensen Huang Just Delivered Great News for Artificial Intelligence Stocks. fool.com",
+        "finance.yahoo.com: What AI Bubble? Jensen Huang Just Delivered Great News for Artificial Intelligence Stocks. Yahoo Finance"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNmJDYkhzYnVfVUIyU2tfQnM2ODRhcFFJdjZIZnpiakxpZ3R5dXB0ekdxbFdsRmlxWFhEMi02ZEd5a2tmNlRqQjhKYmE2QUZtV1BHclVJR2FDRTJGdlFiOTVGbUR6Qzd1MTJfR2JjUkc2ZHVjdTUzaGZLQkhWOXl3cXFHRXJ5Z3J2MnhmdnoyMUV6SUd2WEtfRw?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTG9KREpJY3ZGUG51QXdINmM2ekZWcDFaNVIzRThjUHRQQmV5V3ROSENGUHhidVFkUmU5dm00VFIwcDJaQVkwWHBzYlN2NnBsQk1DVW5CNnJvU2x4SjBaQ3E5TlZvdnpZTVZmUURPRlFGY2s2T200ckRram5tS3NZeGJIbHpEVWNKS0tTcmJfdlE4dkFVS2c?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "What AI Bubble? Jensen Huang Just Delivered Great News for Artificial Intelligence Stocks.",
+        "What AI Bubble? Jensen Huang Just Delivered Great News for Artificial Intelligence Stocks."
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
       "sources": 2,
       "ts": "2026-09-17T11:40:02.000Z",
       "writtenSources": 2,
@@ -294,8 +348,40 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-17T20:04:47.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Kansas Board of Regents to focus on crafting artificial intelligence policy standards",
+      "s": "Kansas Board of Regents to focus on crafting artificial intelligence policy standards Kansas Reflector",
+      "b": [
+        "kansasreflector.com: Kansas Board of Regents to focus on crafting artificial intelligence policy standards",
+        "newsfromthestates.com: Kansas Board of Regents to focus on crafting artificial intelligence policy standards"
+      ],
+      "body": [
+        "kansasreflector.com: Kansas Board of Regents to focus on crafting artificial intelligence policy standards Kansas Reflector",
+        "newsfromthestates.com: Kansas Board of Regents to focus on crafting artificial intelligence policy standards News From The States"
+      ],
+      "l": [
+        {
+          "d": "kansasreflector.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTmdEOVBVSFU5ZVVXNzNqcEJwc1JxYks4U29VZDh2SVdhS1g3bEZVdlhTZ1ZJSjloMFE3OVF0TzdiNDZLYkhsbG5MdDBYV2k2V0Q1dmYxeGljN0pvMXduUlFuR2tHZ2xPaG1URlYteHJkbkptRkRVNGV4a2g4eGFhcm5KWjZJVF9hY2hIVmN5aVVlUGR5N1lESzh2bU56cGpzczZTY0NpVGMtS0lDbmFZUXFWX1N2YjE5TVhROUxLb205YzA?oc=5"
+        },
+        {
+          "d": "newsfromthestates.com",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRlhxQXg1VGszOHZFdXM4Z05NUU1qLVlvWXA3N0ppeWhfWlMwMnhKZVhKcTdzZVcya21ZSEZEdlFSLXNpU1Q1TC1TMW5XRWZFVENtM0xCZUhYcFlmT3NxTlVocVFvSXZEZlppOUFSbGVSelBKck9iRk5wMk9URU9ScW9LM1lmcEJrYUpoRzZRNXdpb0ZIWV9iUmVDM2ozYk45aTZsUkNSd21wSjM2SGV2cWh4eGRCcmttTVE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Kansas Board of Regents to focus on crafting artificial intelligence policy standards",
+        "Kansas Board of Regents to focus on crafting artificial intelligence policy standards"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-09-17T02:40:00.000Z",
       "writtenSources": 2,
@@ -327,7 +413,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-09-17T20:00:00.000Z",
       "writtenSources": 1,
@@ -348,6 +434,70 @@
       ],
       "srcTitles": [
         "Making global data easier to explore"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-17T08:00:21.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "“Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence",
+      "s": "“Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence Clemson News",
+      "b": [
+        "news.clemson.edu: “Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence",
+        "cdapress.com: MY TURN: Looking Inside Artificial Intelligence (AI)"
+      ],
+      "body": [
+        "news.clemson.edu: “Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence Clemson News",
+        "cdapress.com: MY TURN: Looking Inside Artificial Intelligence (AI) Coeur d'Alene Press"
+      ],
+      "l": [
+        {
+          "d": "news.clemson.edu",
+          "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNb3RjbjZHQVlrcDJMTGF4VnBjeVlQTERqTndlNV9SM21BbzlvVEZid2dDSmV0N2tMZlpRQnJHWTQ1TmtJT2pwOVBXWjd5RENlM3FhTm1xb3dCQkFXekhqc3VkWURaT1NFdXpkcFU1TlpQY1NpU3p4ZU55MDRHM1RsZnNmZmNibVJ1RE5jZVYycFpPUEZPYTZwNnA5SDZLcWFMVkVsalpFS2tGRFhTRjI4c1NFS3lmRmRaQ2RsUUFYbmVZM2s4OEpUcWFEMU1iRHh2cl85Yg?oc=5"
+        },
+        {
+          "d": "cdapress.com",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSmtwYzRHN3FHLTgxdElDX2VtQ2lkVWR1YlRtZXRqa2JrZkdpbXFBUE5Xbjd6X01oZGg2YlpIN01KZGxwMC14YXhQendDN1FzTkhSTi1QSURYMF9qOXpDbnF1WGdxUVdaMjRFMUJ5T2Frd2dLXzRUcDVCaXlCYldTdW80NVdmUXJqcTIzSndhekp0UQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "“Who owns my creative work in the age of AI?” Symposium explores the ethics and legality of artificial intelligence",
+        "MY TURN: Looking Inside Artificial Intelligence (AI)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-17T03:24:06.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "For new and emerging restaurants, artificial intelligence can be a boon",
+      "s": "For new and emerging restaurants, artificial intelligence can be a boon Yale Daily News",
+      "b": [
+        "yaledailynews.com: For new and emerging restaurants, artificial intelligence can be a boon",
+        "turnto10.com: Artificial intelligence, can it be reined in?"
+      ],
+      "body": [
+        "yaledailynews.com: For new and emerging restaurants, artificial intelligence can be a boon Yale Daily News",
+        "turnto10.com: Artificial intelligence, can it be reined in? WJAR"
+      ],
+      "l": [
+        {
+          "d": "yaledailynews.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1ZROVdCcGhlMkYzUktFU0xMV0NraFJyTU1keVBBaVgtNFZYS2RhdXdwdDJBempoY1JlNjhTbWxabHF1X1ZOTGtyQjNZTjNuS2I1TzBDa3BiSzZmb0NkZVk2VzNuRHFEelFOQWd0S09xS2dhekUyUXZDNmVWcFM1NWxycEo3Vkh2RUZjT2l0WVBjeElYOVgtNXZyUGRJUVM1ZlkxME1nOFI?oc=5"
+        },
+        {
+          "d": "turnto10.com",
+          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMm5Eajk5VjBKWkJFb000clEyOURadHIzT1VTSDQ3WWNPalJ6ZGJxdk1wM1R6VFduT25PajJfS29tNnV3QU1qZnBDVDd2eHhmelplY0pDQlZOcUtxMlFmWDVQa0NFRXpaUWwxdkloUFlXZVhzRlllQlREOTRPa1NQUDBQVnlQRzZqb2p1OUw0SVBMS1JoaFBWOFJENV9rdW5RT2oydTE1aF8xV05ndEV1NDNoNlpsQzJEam9RZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "For new and emerging restaurants, artificial intelligence can be a boon",
+        "Artificial intelligence, can it be reined in?"
       ]
     }
   ]
