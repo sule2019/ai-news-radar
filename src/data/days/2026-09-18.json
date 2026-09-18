@@ -39,8 +39,53 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 58,
+      "sources": 4,
+      "ts": "2026-09-18T15:45:50.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "Gavin Newsom is pushing for an AI kill switch",
+      "s": "California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Fr",
+      "b": [
+        "theverge.com: Gavin Newsom is pushing for an AI kill switch",
+        "washingtonpost.com: California governor signs order pushing for an AI ‘kill switch’",
+        "foxnews.com: Newsom targets AI companies with new executive order, calls for 'kill switch'"
+      ],
+      "body": [
+        "theverge.com: California Gov. Gavin Newsom (D) is positioning the state to take the lead on AI oversight, including the potential to mandate a \"kill switch\" for frontier models, with a new executive order issued Friday. Newsom's order directs the state to convene a group of experts that will deliver recommendations within two months on how to [ ]",
+        "washingtonpost.com: California governor signs order pushing for an AI ‘kill switch’ The Washington Post",
+        "foxnews.com: Newsom targets AI companies with new executive order, calls for 'kill switch' Fox News",
+        "techmeme.com: Bloomberg : Governor Gavin Newsom signs an EO directing a working group to provide a guide in two months with measures to boost California's AI safety and security laws California Governor Gavin Newsom issued an executive order on Friday pushing to implement guardrails on artificial intelligence"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch"
+        },
+        {
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWZNV1JIVWlrODNDQlBaNnJ2ZldsTW5tNUFrZXZLMGM0a3FGbFpnQm1qUGR0ZUk0S3lHRkJNS0RBV0VkX3NMRXphcG1BbWxoclBUSWhLMEFvOFl3bmtzanhlZXVyc00wTTFEUWZUX2tFa19VV0ZKOEtidi10dkZEWTlIUjh1WnNoQVpOTWtSS1R6akgxcThTRDJRMlZSdFBqYlJlUDBvaw?oc=5"
+        },
+        {
+          "d": "foxnews.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOODF6a3NySlluY0RDOW15cDktZ2lpX3FPVzNTRmh2Sm9UUXpzT2o4QVlESzFHN2xkWU1yREw4aC1yUnBYSlZncy15c1o5ZjhjODVHWXhhenRFQzZNZXlpU2ZoeTVUMk1ZQ1ZWOWcyZlRRVjNUSUdiVzdlOTBpcUlvZnJ5Nkt2WlQzSk40TlE4bktyS3o0blFsZi15ZmFGZXJBTm5vemlFMlBqR2x1d1BrbQ?oc=5"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260918/p17#a260918p17"
+        }
+      ],
+      "srcTitles": [
+        "Gavin Newsom is pushing for an AI kill switch",
+        "California governor signs order pushing for an AI ‘kill switch’",
+        "Newsom targets AI companies with new executive order, calls for 'kill switch'",
+        "Governor Gavin Newsom signs an EO directing a working group to provide a guide in two months with measures to boost California's AI safety and security laws (Bloomberg)"
+      ]
+    },
+    {
       "cat": "research",
-      "signal": 52,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-09-18T10:35:01.000Z",
       "writtenSources": 2,
@@ -71,40 +116,40 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 48,
+      "cat": "products",
+      "signal": 46,
       "sources": 3,
-      "ts": "2026-09-18T01:10:00.000Z",
+      "ts": "2026-09-18T18:29:17.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "How should AI be regulated?",
-      "s": "How should AI be regulated? hub.jhu.edu",
+      "h": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "s": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that",
       "b": [
-        "hub.jhu.edu: How should AI be regulated?",
-        "arxiv.org: AI Should Facilitate Democratic Deliberation at Scale"
+        "theverge.com: Virginia governor creates an AI task force and moves to restrain data centers",
+        "techmeme.com: Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)"
       ],
       "body": [
-        "hub.jhu.edu: How should AI be regulated? hub.jhu.edu",
-        "arxiv.org: arXiv:2609.20059v1 Announce Type: cross Abstract: AI systems can strengthen democracy by supporting deliberation at scale by addressing cognitive, social, platform-design, and market-driven frictions, while preserving human agency. Unlike proposals such as liquid democracy that restructure representation through vote delegation, in this position paper, we argue that AI-assisted deliberation offers a more promising path by lowering barriers to meaningful engagement without substituting machine judgment for human choice. Drawing on evidence from online deliberation platforms and experimental research, we identify four guiding principles: preserving agency and autonomy, encouraging mutual respect, promoting equality and inclusiveness, and augmenting rather than substituting active citizenship. We also address critical challenges, including alignment, sycophancy, training bias, and over-reliance on AI systems. We call on the machine learning community to develop deliberation-focused AI systems evaluated not on engagement metrics but on their capacity to facilitate informed, representative, and friction-robust discourse."
+        "theverge.com: Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements [ ]",
+        "techmeme.com: Lauren Feiner / The Verge : Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more Gov. Abigail Spanberger (D) signed an executive order addressing data canters and AI risks. Virginia Gov. Abigail Spanberger (D)"
       ],
       "l": [
         {
-          "d": "hub.jhu.edu",
-          "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQzc0ZVE3NW5MS09WUHFFQThLVTJtV1pTdXBab1pNRnU3WU9ubkpCeF9OM0xrc2d5ZUs0anNiU1B0bTh1ZG11ZXB0UlBFUlduNVY4TGFfbElCSXVxeWNVdUVQRGlxamhYR0JWWlhTdlo?oc=5"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"
         },
         {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3YkJaYWNRNWFtSk1OdmpfeHRHSnlQQ2xxWkVrNG1odGxGM0pJY0RjY3VtbkYzT0xPRkgtVl9wUmRqa1dqWlR0UjlTbkIxSmVPZEtYOXhRd1dTaU5kaXNlYjNkNWpGS0xpYUhYT05GZ2lTZy020gF6QVVfeXFMTVdfZnl4UEkwaVlwR2JJcVRQTkgzeWE5a0ROMXpQbU4yTU1EbFh1emcwZ1lLLUpoaGl2NFMyb1RwbWFReHZLVzhiT0x4M0NrajhQcmtnRzdWNlF6azZjTkJMM3lWS1pqb3dJc2NFTGstZ01yUnkyejIzeFE?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260918/p23#a260918p23"
         },
         {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2609.20059"
+          "d": "wset.com",
+          "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTlRTM2g0VHFVUGFnNTMyRnVLRjg3Qk9kU2h2RnptVkVXZk5GT0ZVeVlnWGJJT0pDQTh5S0RGYlpxZ3lXa3ZsU1BtQ3NraHJuVENzWGFaNnJDUWgyV1ZCUFdDaDY4TmlRcmpsZEo2VEhwVnd4bTgtWGU5WXFxQ2RNeUE2bDl2SzRrMUZKR2k3T3FqcGpQNUJGUTlsQmtOTXFfZDB6aG9BamNmc0lDZmgzYVdmV0pqaGpKVnAzaGxwcEZoY2p5N25janVRNV8wbEtsTHVrNWN4d1oyMU82RG81NVRLNA?oc=5"
         }
       ],
       "srcTitles": [
-        "How should AI be regulated?",
-        "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
-        "AI Should Facilitate Democratic Deliberation at Scale"
+        "Virginia governor creates an AI task force and moves to restrain data centers",
+        "Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)",
+        "Gov. Spanberger unveils accountability framework for data centers, launches AI taskforce"
       ]
     },
     {
@@ -158,40 +203,109 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 42,
-      "sources": 2,
-      "ts": "2026-09-18T18:29:17.000Z",
+      "cat": "policy",
+      "signal": 44,
+      "sources": 3,
+      "ts": "2026-09-18T01:10:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Virginia governor creates an AI task force and moves to restrain data centers",
-      "s": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that",
+      "h": "How should AI be regulated?",
+      "s": "How should AI be regulated? hub.jhu.edu",
       "b": [
-        "theverge.com: Virginia governor creates an AI task force and moves to restrain data centers",
-        "techmeme.com: Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)"
+        "hub.jhu.edu: How should AI be regulated?",
+        "arxiv.org: AI Should Facilitate Democratic Deliberation at Scale"
       ],
       "body": [
-        "theverge.com: Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements [ ]",
-        "techmeme.com: Lauren Feiner / The Verge : Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more Gov. Abigail Spanberger (D) signed an executive order addressing data canters and AI risks. Virginia Gov. Abigail Spanberger (D)"
+        "hub.jhu.edu: How should AI be regulated? hub.jhu.edu",
+        "arxiv.org: arXiv:2609.20059v1 Announce Type: cross Abstract: AI systems can strengthen democracy by supporting deliberation at scale by addressing cognitive, social, platform-design, and market-driven frictions, while preserving human agency. Unlike proposals such as liquid democracy that restructure representation through vote delegation, in this position paper, we argue that AI-assisted deliberation offers a more promising path by lowering barriers to meaningful engagement without substituting machine judgment for human choice. Drawing on evidence from online deliberation platforms and experimental research, we identify four guiding principles: preserving agency and autonomy, encouraging mutual respect, promoting equality and inclusiveness, and augmenting rather than substituting active citizenship. We also address critical challenges, including alignment, sycophancy, training bias, and over-reliance on AI systems. We call on the machine learning community to develop deliberation-focused AI systems evaluated not on engagement metrics but on their capacity to facilitate informed, representative, and friction-robust discourse."
       ],
       "l": [
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"
+          "d": "hub.jhu.edu",
+          "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQzc0ZVE3NW5MS09WUHFFQThLVTJtV1pTdXBab1pNRnU3WU9ubkpCeF9OM0xrc2d5ZUs0anNiU1B0bTh1ZG11ZXB0UlBFUlduNVY4TGFfbElCSXVxeWNVdUVQRGlxamhYR0JWWlhTdlo?oc=5"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260918/p23#a260918p23"
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3YkJaYWNRNWFtSk1OdmpfeHRHSnlQQ2xxWkVrNG1odGxGM0pJY0RjY3VtbkYzT0xPRkgtVl9wUmRqa1dqWlR0UjlTbkIxSmVPZEtYOXhRd1dTaU5kaXNlYjNkNWpGS0xpYUhYT05GZ2lTZy020gF6QVVfeXFMTVdfZnl4UEkwaVlwR2JJcVRQTkgzeWE5a0ROMXpQbU4yTU1EbFh1emcwZ1lLLUpoaGl2NFMyb1RwbWFReHZLVzhiT0x4M0NrajhQcmtnRzdWNlF6azZjTkJMM3lWS1pqb3dJc2NFTGstZ01yUnkyejIzeFE?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.20059"
         }
       ],
       "srcTitles": [
-        "Virginia governor creates an AI task force and moves to restrain data centers",
-        "Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)"
+        "How should AI be regulated?",
+        "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
+        "AI Should Facilitate Democratic Deliberation at Scale"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-09-17T22:14:59.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The FAA s plan to fix air traffic? $875M worth of AI",
+      "s": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+      "b": [
+        "techcrunch.com: The FAA s plan to fix air traffic? $875M worth of AI",
+        "arstechnica.com: FAA tees up $875M AI tool to help manage air traffic congestion"
+      ],
+      "body": [
+        "techcrunch.com: A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
+        "arstechnica.com: An AI tool is set to start advising air traffic controllers on managing air traffic in the congested airspace above the Washington, DC, area. The expected launch would be the first step toward a planned nationwide rollout covering the 29 million square miles of US national airspace overseen by the Federal Aviation Administration. The FAA describes the SMART system as using AI models to predict air traffic flows and identify potential conflicts based on operational factors like airline schedules, weather, airport capacity, and airspace conditions. US government and industry officials told The Wall Street Journal that SMART could debut for the three major airports in the Washington, DC, area as soon as Monday, September 21. The decision to launch SMART in limited scope before going nationwide is the “right call,” said Philip Mann, principal consultant at Vector Strategic Consulting LLC, where he advises on aviation safety and AI governance. Mann previously worked at the FAA in multiple roles for 17 years. Read full article Comments"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/17/the-faas-plan-to-fix-air-traffic-875-million-worth-of-ai/"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/"
+        }
+      ],
+      "srcTitles": [
+        "The FAA s plan to fix air traffic? $875M worth of AI",
+        "FAA tees up $875M AI tool to help manage air traffic congestion"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-09-17T22:00:52.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
+      "s": "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction wpr.org",
+      "b": [
+        "wpr.org: Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
+        "floridapolitics.com: Patrick Murphy: Could AI kill us all? Washington needs to act"
+      ],
+      "body": [
+        "wpr.org: Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction wpr.org",
+        "floridapolitics.com: Patrick Murphy: Could AI kill us all? Washington needs to act Florida Politics"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
+        },
+        {
+          "d": "bostonglobe.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcVRsMjBWeUdHb0VpMFpEMTcxN0p3cERweXQydWJqUDZKdGFIZGxhWWd0RjdrY1dhdDRZeVRLZktMd001OG80c04tWE5sVkNVWU1aT1VnNUNhWUNXcnJ5ZWY1Z3JQVjVuNHFyU2h1UEt5OWFJNjRNTUg3MVR3aXRJSEJ1QQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Could AI really kill us all? Your questions, answered.",
+        "Opinion | This is how AI kills us all"
       ]
     },
     {
       "cat": "models",
-      "signal": 34,
+      "signal": 30,
       "sources": 3,
       "ts": "2026-09-17T22:17:21.000Z",
       "writtenSources": 3,
@@ -229,30 +343,35 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-09-17T22:00:52.000Z",
+      "cat": "products",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-18T16:47:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
-      "s": "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction wpr.org",
+      "h": "Disney Names AI Executive as First-Ever Chief Technology Officer",
+      "s": "Disney Names AI Executive as First-Ever Chief Technology Officer Bloomberg Law News",
       "b": [
-        "wpr.org: Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
-        "floridapolitics.com: Patrick Murphy: Could AI kill us all? Washington needs to act"
+        "news.bloomberglaw.com: Disney Names AI Executive as First-Ever Chief Technology Officer",
+        "cartoonbrew.com: Disney Appoints AI Evangelist Karandeep Anand As Its First Chief Technology Officer"
       ],
       "body": [
-        "wpr.org: Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction wpr.org",
-        "floridapolitics.com: Patrick Murphy: Could AI kill us all? Washington needs to act Florida Politics"
+        "news.bloomberglaw.com: Disney Names AI Executive as First-Ever Chief Technology Officer Bloomberg Law News",
+        "cartoonbrew.com: Disney Appoints AI Evangelist Karandeep Anand As Its First Chief Technology Officer Cartoon Brew"
       ],
       "l": [
         {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
+          "d": "news.bloomberglaw.com",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNQUdnUGxHSnpyLURnMWZ3TGlvY3BnSTZwOGFwSXR4bzRLWF8yY0UtUHdyWU84NTZYWXhIRkJjVlJVWGh5amhSZ0hrZFBBRnIweVMzZUFwOFlBWDZ3ejdzOHNQdHZrVDlhTnZUaHlHaTZpQm8zdkF1bG9FUWlkVjVwZGZHdndzMVFMUzNUck91TXR1aWNPRG16QmQxUzF2ampXblRKbVRoVnFFeWpNWE9NSmZkTng3Uy1STVE?oc=5"
+        },
+        {
+          "d": "cartoonbrew.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQjQ1b1ZpQ2NsdFNhM2NROEhsSXhzT3Zfc0RYZm1yVTdRR0NHNk54Nl9jNDlmM25iSU96TmRIQWtDWmFfYWtfZnJGeFUzVE5uTHZTS3R1SUZLTm11OUd4cXJGVUU3Qzl0THRoQm1MVllRWV9GeFBtM0RrQkNBMTBwazY0amQ5bnFydFNDLUZqcHpVTV9TQnhhZTdfdzROa0xCQXYyV0V6R2Y5b3FGV2hHaQ?oc=5"
         }
       ],
       "srcTitles": [
-        "Could AI really kill us all? Your questions, answered."
+        "Disney Names AI Executive as First-Ever Chief Technology Officer",
+        "Disney Appoints AI Evangelist Karandeep Anand As Its First Chief Technology Officer"
       ]
     }
   ]
