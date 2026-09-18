@@ -39,9 +39,41 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-09-18T21:01:04.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic s first embedded evaluator is Accenture?",
+      "s": "Accenture is about to take on its most high-risk consulting engagement ever.",
+      "b": [
+        "techcrunch.com: Anthropic s first embedded evaluator is Accenture?",
+        "techmeme.com: Anthropic partners with Accenture to embed evaluators within Anthropic, including red teaming models and conducting alignment assessments (Anthropic)"
+      ],
+      "body": [
+        "techcrunch.com: Accenture is about to take on its most high-risk consulting engagement ever.",
+        "techmeme.com: Anthropic : Anthropic partners with Accenture to embed evaluators within Anthropic, including red teaming models and conducting alignment assessments We're partnering with Accenture on independent evaluation of frontier AI. This is an important step toward the commitment, made in our CEO's essay"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260918/p28#a260918p28"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic s first embedded evaluator is Accenture?",
+        "Anthropic partners with Accenture to embed evaluators within Anthropic, including red teaming models and conducting alignment assessments (Anthropic)"
+      ]
+    },
+    {
       "cat": "policy",
       "signal": 58,
-      "sources": 4,
+      "sources": 6,
       "ts": "2026-09-18T15:45:50.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -64,55 +96,26 @@
           "u": "https://www.theverge.com/policy/997516/california-governor-newsom-ai-kill-switch"
         },
         {
-          "d": "washingtonpost.com",
-          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWZNV1JIVWlrODNDQlBaNnJ2ZldsTW5tNUFrZXZLMGM0a3FGbFpnQm1qUGR0ZUk0S3lHRkJNS0RBV0VkX3NMRXphcG1BbWxoclBUSWhLMEFvOFl3bmtzanhlZXVyc00wTTFEUWZUX2tFa19VV0ZKOEtidi10dkZEWTlIUjh1WnNoQVpOTWtSS1R6akgxcThTRDJRMlZSdFBqYlJlUDBvaw?oc=5"
-        },
-        {
           "d": "foxnews.com",
           "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOODF6a3NySlluY0RDOW15cDktZ2lpX3FPVzNTRmh2Sm9UUXpzT2o4QVlESzFHN2xkWU1yREw4aC1yUnBYSlZncy15c1o5ZjhjODVHWXhhenRFQzZNZXlpU2ZoeTVUMk1ZQ1ZWOWcyZlRRVjNUSUdiVzdlOTBpcUlvZnJ5Nkt2WlQzSk40TlE4bktyS3o0blFsZi15ZmFGZXJBTm5vemlFMlBqR2x1d1BrbQ?oc=5"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260918/p17#a260918p17"
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWWZNV1JIVWlrODNDQlBaNnJ2ZldsTW5tNUFrZXZLMGM0a3FGbFpnQm1qUGR0ZUk0S3lHRkJNS0RBV0VkX3NMRXphcG1BbWxoclBUSWhLMEFvOFl3bmtzanhlZXVyc00wTTFEUWZUX2tFa19VV0ZKOEtidi10dkZEWTlIUjh1WnNoQVpOTWtSS1R6akgxcThTRDJRMlZSdFBqYlJlUDBvaw?oc=5"
+        },
+        {
+          "d": "abc7news.com",
+          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdmE3UTZFcGhHU3hHSFY5YzhTMzV6V25HTnR1Tm1YaXhSRmdtWGlzcmtQVThrNk9iM3NaREcza3Nocm1YZjZCVjh2ZTVOVmFsZXRzMnIxeUxZSERRMW9DS09nQ2xiVENna1hObWxfN3ZOUUM0ZlFCWHRlLWR6bUFIZEsxd3RhY0pxakQ5N0FLZ083Zkg5NENKQUEzRmVLU0FjRWRjQTg5a21aSk1aV09BQ0ZfVzIxT3pOX3p3elE4SlUzcFRnb3o4ZmpTWjF5dklMRXRWNVFR0gHbAUFVX3lxTFBEUm4zVFJlNmRfV2Fac1EteDZ1RmJqeERsYnIxZ2N4bjJYbWJ6ZnR6YUNPbGFfamc3OW5WMnJsRHNUODRUbXJ1TDlJdlhxMjcyeW1HXy1adWhtSmFzYkVkQUZwNDljRGtTV0NkN29RLUxDOHhLTHZ5Y2VGSmM0UWJtMTJVYnd6RVZ5aF9ubEdiUmxkQ0ZRZDB5VXVRNzFrZVVRTm1SZjN6QmlpOTFNRHJoTVRaT29YRE8tbE00ckRjLXJKMFJDUE5QVHAzUXA4bjgxdnBsNE5hYzQzdw?oc=5"
+        },
+        {
+          "d": "+2"
         }
       ],
       "srcTitles": [
         "Gavin Newsom is pushing for an AI kill switch",
+        "Newsom calls for AI 'kill switch,' urges federal adoption of California regulations",
         "California governor signs order pushing for an AI ‘kill switch’",
-        "Newsom targets AI companies with new executive order, calls for 'kill switch'",
-        "Governor Gavin Newsom signs an EO directing a working group to provide a guide in two months with measures to boost California's AI safety and security laws (Bloomberg)"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 48,
-      "sources": 2,
-      "ts": "2026-09-18T10:35:01.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research (Reuters)",
-      "s": "Reuters : Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research Anthropic has quietly set up ",
-      "b": [
-        "techmeme.com: Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research (Reuters)",
-        "reuters.com: EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program"
-      ],
-      "body": [
-        "techmeme.com: Reuters : Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research Anthropic has quietly set up a laboratory to do physical biology work as it pushes its artificial-intelligence ambitions into the world of drug science.",
-        "reuters.com: EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program Reuters"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260918/p9#a260918p9"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI startup set up a Bay Area wet lab for physical biology work, as it pushes into disease treatment (Reuters)",
-        "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program"
+        "California Gov. Gavin Newsom signs executive order to consider AI regulation, including proposal for 'kill switch'"
       ]
     },
     {
@@ -203,8 +206,40 @@
       ]
     },
     {
-      "cat": "policy",
+      "cat": "research",
       "signal": 44,
+      "sources": 2,
+      "ts": "2026-09-18T10:35:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research (Reuters)",
+      "s": "Reuters : Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research Anthropic has quietly set up ",
+      "b": [
+        "techmeme.com: Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research (Reuters)",
+        "reuters.com: EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program"
+      ],
+      "body": [
+        "techmeme.com: Reuters : Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research Anthropic has quietly set up a laboratory to do physical biology work as it pushes its artificial-intelligence ambitions into the world of drug science.",
+        "reuters.com: EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program Reuters"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260918/p9#a260918p9"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI startup set up a Bay Area wet lab for physical biology work, as it pushes into disease treatment (Reuters)",
+        "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 40,
       "sources": 3,
       "ts": "2026-09-18T01:10:00.000Z",
       "writtenSources": 2,
@@ -240,6 +275,38 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-09-18T18:00:35.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI hallucination of Chinese nuclear components almost led to US military attack",
+      "s": "The US narrowly avoided boarding a Chinese ship based on an \"entirely false\" US intelligence report generated with the help of AI tools, according to a CNN report . That erroneous intelligence, submit",
+      "b": [
+        "arstechnica.com: AI hallucination of Chinese nuclear components almost led to US military attack",
+        "techmeme.com: Sources: the US \"almost started a war\" after an AI-assisted report hallucinated that a Chinese ship in the Middle East was carrying nuclear weapons components (CNN)"
+      ],
+      "body": [
+        "arstechnica.com: The US narrowly avoided boarding a Chinese ship based on an \"entirely false\" US intelligence report generated with the help of AI tools, according to a CNN report . That erroneous intelligence, submitted by a US Special Operations Command analyst, suggested the Chinese ship was transporting nuclear arms program components through the Middle East, according to \"four sources familiar with the episode\" cited by CNN. The US military was preparing to intercept and board the ship, with air support, before officials discovered a chatbot used in generating the report had \"inaccurately identified the material the ship was carrying.\" One source told CNN the AI-powered fiasco \"almost started a war.\" Read full article Comments",
+        "techmeme.com: CNN : Sources: the US almost started a war after an AI-assisted report hallucinated that a Chinese ship in the Middle East was carrying nuclear weapons components The intelligence report, circulated across the US military this spring in the midst of the war with Iran"
+      ],
+      "l": [
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260918/p22#a260918p22"
+        }
+      ],
+      "srcTitles": [
+        "AI hallucination of Chinese nuclear components almost led to US military attack",
+        "Sources: the US \"almost started a war\" after an AI-assisted report hallucinated that a Chinese ship in the Middle East was carrying nuclear weapons components (CNN)"
+      ]
+    },
+    {
       "cat": "products",
       "signal": 36,
       "sources": 2,
@@ -272,40 +339,40 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 36,
+      "cat": "models",
+      "signal": 32,
       "sources": 2,
-      "ts": "2026-09-17T22:00:52.000Z",
+      "ts": "2026-09-18T21:13:37.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
-      "s": "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction wpr.org",
+      "h": "DeSantis, Florida education chief draw line on AI in schools: 'Not a substitute' for teach - WEAR-TV",
+      "s": "DeSantis, Florida education chief draw line on AI in schools: 'Not a substitute' for teach WEAR-TV",
       "b": [
-        "wpr.org: Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
-        "floridapolitics.com: Patrick Murphy: Could AI kill us all? Washington needs to act"
+        "weartv.com: DeSantis, Florida education chief draw line on AI in schools: 'Not a substitute' for teach - WEAR-TV",
+        "fox49.tv: DeSantis, Florida education chief draw line on AI in schools: 'Not a substitute' for teach"
       ],
       "body": [
-        "wpr.org: Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction wpr.org",
-        "floridapolitics.com: Patrick Murphy: Could AI kill us all? Washington needs to act Florida Politics"
+        "weartv.com: DeSantis, Florida education chief draw line on AI in schools: 'Not a substitute' for teach WEAR-TV",
+        "fox49.tv: DeSantis, Florida education chief draw line on AI in schools: 'Not a substitute' for teach wtwcfox"
       ],
       "l": [
         {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
+          "d": "weartv.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMmliQTNEU0pzSEhKZ1U3NWdiSTJ6Y2J5UzlZQk9pS3BabjdlbHNQWEF0Rjk5Sko5LTNwYUNBLVJFMmFKZ3Z1bmZzZFZLc3lVdFhKMUVuc1I0XzJPSDNGWFJrV0YyMXR3M2V0cF9pYlZxWTdLNFRFa1VQWnpObmNTREFsdkRDalF4UmZqSC13WTZUNjNyVVZMUC1NMWhORGVpanZ2QXRXbG1oLVdJOFZCWDNlMTR3ZlU?oc=5"
         },
         {
-          "d": "bostonglobe.com",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcVRsMjBWeUdHb0VpMFpEMTcxN0p3cERweXQydWJqUDZKdGFIZGxhWWd0RjdrY1dhdDRZeVRLZktMd001OG80c04tWE5sVkNVWU1aT1VnNUNhWUNXcnJ5ZWY1Z3JQVjVuNHFyU2h1UEt5OWFJNjRNTUg3MVR3aXRJSEJ1QQ?oc=5"
+          "d": "fox49.tv",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcjNkdnR1RmVGNGU1Mjk4UlB0QkduSmRPUjVwSU0wbjc4TzQweHRnWF9iWDh5RDE5dDJyWjJ2bFpMTW9LdzI0YnNhdldWNnBycW1EUXNBc1RxaFRmN3RnNFBLbGw0Y2EyZXVFbE5RZC01X213TW84UmxCcjl5cWNYc1lXV3c1NkpaNnZPVTQwS3IxU0RWbXBVZy14WFlyMFNGc3BHMWZPelBzaGRVMllVRUZOajQ?oc=5"
         }
       ],
       "srcTitles": [
-        "Could AI really kill us all? Your questions, answered.",
-        "Opinion | This is how AI kills us all"
+        "DeSantis, Florida education chief draw line on AI in schools: 'Not a substitute' for teach - WEAR-TV",
+        "DeSantis, Florida education chief draw line on AI in schools: 'Not a substitute' for teach"
       ]
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 26,
       "sources": 3,
       "ts": "2026-09-17T22:17:21.000Z",
       "writtenSources": 3,
@@ -344,7 +411,7 @@
     },
     {
       "cat": "products",
-      "signal": 29,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-09-18T16:47:00.000Z",
       "writtenSources": 2,
@@ -372,6 +439,33 @@
       "srcTitles": [
         "Disney Names AI Executive as First-Ever Chief Technology Officer",
         "Disney Appoints AI Evangelist Karandeep Anand As Its First Chief Technology Officer"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-17T22:00:52.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
+      "s": "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction wpr.org",
+      "b": [
+        "wpr.org: Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
+        "floridapolitics.com: Patrick Murphy: Could AI kill us all? Washington needs to act"
+      ],
+      "body": [
+        "wpr.org: Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction wpr.org",
+        "floridapolitics.com: Patrick Murphy: Could AI kill us all? Washington needs to act Florida Politics"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
+        }
+      ],
+      "srcTitles": [
+        "Could AI really kill us all? Your questions, answered."
       ]
     }
   ]
