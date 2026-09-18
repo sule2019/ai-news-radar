@@ -3,7 +3,39 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 62,
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-18T13:30:12.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Researchers used Anthropic s Claude to hack into OpenAI",
+      "s": "Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+      "b": [
+        "techcrunch.com: Researchers used Anthropic s Claude to hack into OpenAI",
+        "arstechnica.com: Researchers used Claude to hack OpenAI"
+      ],
+      "body": [
+        "techcrunch.com: Security researchers used Anthropic’s Claude to exploit vulnerabilities in OpenAI’s systems, taking over employee accounts and gaining access to an internal code repository before reporting the flaws.",
+        "arstechnica.com: Cyber researchers broke into OpenAI using its key rival Anthropic’s software, highlighting vulnerabilities in the ChatGPT maker’s security as leading AI companies face mounting scrutiny over safety. A small cyber security group gained access to an OpenAI employee’s ChatGPT account, which permitted them to read private software information and suggest changes. The researchers had been given access to an Anthropic tool specifically designed for security professionals, and were paid for the work as part of a program to find vulnerabilities before they could be exploited by bad actors. Read full article Comments"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/"
+        }
+      ],
+      "srcTitles": [
+        "Researchers used Anthropic s Claude to hack into OpenAI",
+        "Researchers used Claude to hack OpenAI"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 56,
       "sources": 2,
       "ts": "2026-09-18T10:35:01.000Z",
       "writtenSources": 2,
@@ -29,13 +61,100 @@
         }
       ],
       "srcTitles": [
-        "Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research (Reuters)",
+        "Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI startup set up a Bay Area wet lab for physical biology work, as it pushes into disease treatment (Reuters)",
         "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program"
       ]
     },
     {
+      "cat": "policy",
+      "signal": 52,
+      "sources": 3,
+      "ts": "2026-09-18T01:10:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "How should AI be regulated?",
+      "s": "How should AI be regulated? hub.jhu.edu",
+      "b": [
+        "hub.jhu.edu: How should AI be regulated?",
+        "arxiv.org: AI Should Facilitate Democratic Deliberation at Scale"
+      ],
+      "body": [
+        "hub.jhu.edu: How should AI be regulated? hub.jhu.edu",
+        "arxiv.org: arXiv:2609.20059v1 Announce Type: cross Abstract: AI systems can strengthen democracy by supporting deliberation at scale by addressing cognitive, social, platform-design, and market-driven frictions, while preserving human agency. Unlike proposals such as liquid democracy that restructure representation through vote delegation, in this position paper, we argue that AI-assisted deliberation offers a more promising path by lowering barriers to meaningful engagement without substituting machine judgment for human choice. Drawing on evidence from online deliberation platforms and experimental research, we identify four guiding principles: preserving agency and autonomy, encouraging mutual respect, promoting equality and inclusiveness, and augmenting rather than substituting active citizenship. We also address critical challenges, including alignment, sycophancy, training bias, and over-reliance on AI systems. We call on the machine learning community to develop deliberation-focused AI systems evaluated not on engagement metrics but on their capacity to facilitate informed, representative, and friction-robust discourse."
+      ],
+      "l": [
+        {
+          "d": "hub.jhu.edu",
+          "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQzc0ZVE3NW5MS09WUHFFQThLVTJtV1pTdXBab1pNRnU3WU9ubkpCeF9OM0xrc2d5ZUs0anNiU1B0bTh1ZG11ZXB0UlBFUlduNVY4TGFfbElCSXVxeWNVdUVQRGlxamhYR0JWWlhTdlo?oc=5"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3YkJaYWNRNWFtSk1OdmpfeHRHSnlQQ2xxWkVrNG1odGxGM0pJY0RjY3VtbkYzT0xPRkgtVl9wUmRqa1dqWlR0UjlTbkIxSmVPZEtYOXhRd1dTaU5kaXNlYjNkNWpGS0xpYUhYT05GZ2lTZy020gF6QVVfeXFMTVdfZnl4UEkwaVlwR2JJcVRQTkgzeWE5a0ROMXpQbU4yTU1EbFh1emcwZ1lLLUpoaGl2NFMyb1RwbWFReHZLVzhiT0x4M0NrajhQcmtnRzdWNlF6azZjTkJMM3lWS1pqb3dJc2NFTGstZ01yUnkyejIzeFE?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.20059"
+        }
+      ],
+      "srcTitles": [
+        "How should AI be regulated?",
+        "Rep. Chip Roy doesn't want to regulate AI, but says Congress should have an oversight role",
+        "AI Should Facilitate Democratic Deliberation at Scale"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 46,
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-09-18T14:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "New experts join Google’s AI & Economy team",
+      "s": "We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers.",
+      "b": [
+        "blog.google: New experts join Google’s AI & Economy team"
+      ],
+      "body": [
+        "blog.google: We are expanding our AI & Economy team with world-class academic advisors, fellows, and core internal researchers."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench/"
+        }
+      ],
+      "srcTitles": [
+        "New experts join Google’s AI & Economy team"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-09-18T13:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Co-creating the future of fashion with Google",
+      "s": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+      "b": [
+        "blog.google: Co-creating the future of fashion with Google"
+      ],
+      "body": [
+        "blog.google: Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/"
+        }
+      ],
+      "srcTitles": [
+        "Co-creating the future of fashion with Google"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 42,
       "sources": 3,
       "ts": "2026-09-17T22:17:21.000Z",
       "writtenSources": 3,
@@ -74,8 +193,8 @@
     },
     {
       "cat": "policy",
-      "signal": 42,
-      "sources": 3,
+      "signal": 36,
+      "sources": 2,
       "ts": "2026-09-17T22:00:52.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -95,50 +214,13 @@
           "u": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
         },
         {
-          "d": "bostonglobe.com",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcVRsMjBWeUdHb0VpMFpEMTcxN0p3cERweXQydWJqUDZKdGFIZGxhWWd0RjdrY1dhdDRZeVRLZktMd001OG80c04tWE5sVkNVWU1aT1VnNUNhWUNXcnJ5ZWY1Z3JQVjVuNHFyU2h1UEt5OWFJNjRNTUg3MVR3aXRJSEJ1QQ?oc=5"
-        },
-        {
-          "d": "washingtonpost.com",
-          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM0hvMTVsY0RBc2ZBZUZmZ1M0emRuLUtPNTZEdTQxQ0hWb25kODJsbXF6ZXRpRmJBQWRsUk85bGstcE56NWhqcmgzTnpvcGE0SHR4UGQzdEZVZEViUk0wVmZONnJTOHB2bTdvNkJpSV9rQ24yZUhnZFVNOWtaU2xfa05KaGdSSTZoZTN0Z1BWbzBMLUI5NF8yanlQeVpLZw?oc=5"
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcnhoLVZqYkV1MkZPYi13bU1TRTZLNnRvZEhmLW5BaVU5T2V4cmkwakE3R0Utc0VwSWU0ejdlbEJrbFZtWVZKZ2x6ZTlwa3l5OWdxZVdiUzZZYlo3YXlxSHNfVk1tZXV2OWZSN2hFemdpQ2N6Z0U4dER4OS1pQXVGbXpfenZxdw?oc=5"
         }
       ],
       "srcTitles": [
         "Could AI really kill us all? Your questions, answered.",
-        "Opinion | This is how AI kills us all",
-        "Opinion | AI leaders need a course in parenthood. It could save us all."
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 18,
-      "sources": 2,
-      "ts": "2026-09-18T01:10:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "How should AI be regulated?",
-      "s": "How should AI be regulated? hub.jhu.edu",
-      "b": [
-        "hub.jhu.edu: How should AI be regulated?",
-        "arxiv.org: AI Should Facilitate Democratic Deliberation at Scale"
-      ],
-      "body": [
-        "hub.jhu.edu: How should AI be regulated? hub.jhu.edu",
-        "arxiv.org: arXiv:2609.20059v1 Announce Type: cross Abstract: AI systems can strengthen democracy by supporting deliberation at scale by addressing cognitive, social, platform-design, and market-driven frictions, while preserving human agency. Unlike proposals such as liquid democracy that restructure representation through vote delegation, in this position paper, we argue that AI-assisted deliberation offers a more promising path by lowering barriers to meaningful engagement without substituting machine judgment for human choice. Drawing on evidence from online deliberation platforms and experimental research, we identify four guiding principles: preserving agency and autonomy, encouraging mutual respect, promoting equality and inclusiveness, and augmenting rather than substituting active citizenship. We also address critical challenges, including alignment, sycophancy, training bias, and over-reliance on AI systems. We call on the machine learning community to develop deliberation-focused AI systems evaluated not on engagement metrics but on their capacity to facilitate informed, representative, and friction-robust discourse."
-      ],
-      "l": [
-        {
-          "d": "hub.jhu.edu",
-          "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQzc0ZVE3NW5MS09WUHFFQThLVTJtV1pTdXBab1pNRnU3WU9ubkpCeF9OM0xrc2d5ZUs0anNiU1B0bTh1ZG11ZXB0UlBFUlduNVY4TGFfbElCSXVxeWNVdUVQRGlxamhYR0JWWlhTdlo?oc=5"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2609.20059"
-        }
-      ],
-      "srcTitles": [
-        "How should AI be regulated?",
-        "AI Should Facilitate Democratic Deliberation at Scale"
+        "Will A.I. Kill Us? Can It Hack My Bank Account? Your A.I. Questions Answered"
       ]
     }
   ]
