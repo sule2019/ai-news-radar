@@ -154,7 +154,7 @@
     },
     {
       "cat": "models",
-      "signal": 42,
+      "signal": 38,
       "sources": 3,
       "ts": "2026-09-17T22:17:21.000Z",
       "writtenSources": 3,
@@ -193,8 +193,8 @@
     },
     {
       "cat": "policy",
-      "signal": 36,
-      "sources": 2,
+      "signal": 24,
+      "sources": 1,
       "ts": "2026-09-17T22:00:52.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -212,15 +212,10 @@
         {
           "d": "technologyreview.com",
           "u": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
-        },
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcnhoLVZqYkV1MkZPYi13bU1TRTZLNnRvZEhmLW5BaVU5T2V4cmkwakE3R0Utc0VwSWU0ejdlbEJrbFZtWVZKZ2x6ZTlwa3l5OWdxZVdiUzZZYlo3YXlxSHNfVk1tZXV2OWZSN2hFemdpQ2N6Z0U4dER4OS1pQXVGbXpfenZxdw?oc=5"
         }
       ],
       "srcTitles": [
-        "Could AI really kill us all? Your questions, answered.",
-        "Will A.I. Kill Us? Can It Hack My Bank Account? Your A.I. Questions Answered"
+        "Could AI really kill us all? Your questions, answered."
       ]
     }
   ]
