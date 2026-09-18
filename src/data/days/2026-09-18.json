@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 62,
+      "signal": 58,
       "sources": 3,
       "ts": "2026-09-17T22:17:21.000Z",
       "writtenSources": 3,
@@ -38,6 +38,70 @@
         "Anthropic says Claude \"leads\" 26% of its AI R&D work, up from 1% in March, and \"collaborates\" on 90%+, doing large chunks of work under close human direction (Shirin Ghaffary/Bloomberg)",
         "Anthropic says Claude now leads a quarter of work building its next AI models",
         "Anthropic says its chatbot Claude is taking over the work of building its own successor"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-18T01:10:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "How should AI be regulated?",
+      "s": "How should AI be regulated? hub.jhu.edu",
+      "b": [
+        "hub.jhu.edu: How should AI be regulated?",
+        "arxiv.org: AI Should Facilitate Democratic Deliberation at Scale"
+      ],
+      "body": [
+        "hub.jhu.edu: How should AI be regulated? hub.jhu.edu",
+        "arxiv.org: arXiv:2609.20059v1 Announce Type: cross Abstract: AI systems can strengthen democracy by supporting deliberation at scale by addressing cognitive, social, platform-design, and market-driven frictions, while preserving human agency. Unlike proposals such as liquid democracy that restructure representation through vote delegation, in this position paper, we argue that AI-assisted deliberation offers a more promising path by lowering barriers to meaningful engagement without substituting machine judgment for human choice. Drawing on evidence from online deliberation platforms and experimental research, we identify four guiding principles: preserving agency and autonomy, encouraging mutual respect, promoting equality and inclusiveness, and augmenting rather than substituting active citizenship. We also address critical challenges, including alignment, sycophancy, training bias, and over-reliance on AI systems. We call on the machine learning community to develop deliberation-focused AI systems evaluated not on engagement metrics but on their capacity to facilitate informed, representative, and friction-robust discourse."
+      ],
+      "l": [
+        {
+          "d": "hub.jhu.edu",
+          "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hQzc0ZVE3NW5MS09WUHFFQThLVTJtV1pTdXBab1pNRnU3WU9ubkpCeF9OM0xrc2d5ZUs0anNiU1B0bTh1ZG11ZXB0UlBFUlduNVY4TGFfbElCSXVxeWNVdUVQRGlxamhYR0JWWlhTdlo?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.20059"
+        }
+      ],
+      "srcTitles": [
+        "How should AI be regulated?",
+        "AI Should Facilitate Democratic Deliberation at Scale"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-17T22:00:52.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
+      "s": "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction wpr.org",
+      "b": [
+        "wpr.org: Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
+        "floridapolitics.com: Patrick Murphy: Could AI kill us all? Washington needs to act"
+      ],
+      "body": [
+        "wpr.org: Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction wpr.org",
+        "floridapolitics.com: Patrick Murphy: Could AI kill us all? Washington needs to act Florida Politics"
+      ],
+      "l": [
+        {
+          "d": "wpr.org",
+          "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE03WlFydmZrQ3ZleGNEeDJBbExxTlkzUC1qa2dyWkZ6ZFN5dU1JMjdQMUZTZ2N6cnhta1prcXFOdkhQaFR4QkxxY3NvNlFlemlFTFp1WkhmWUFqWkV0elZvUkY4ZXJxQ1dCQkpUMGJIejVNZw?oc=5"
+        },
+        {
+          "d": "floridapolitics.com",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRTV5MTBSd1NwbXBtRHN5MFVsYnI2cThGUHpyR2Rac0hQZkE5alhPU1F0Wkd4aERjQTBDZEFDSDllMkU5cTR1NE1RRlljT1lQODRCcjNVWUpOWEtUQXJQQ0dOOEZYb2xpd1BkVG9RcVJGWTJPWThnWGphUnE3QVBWVFdFZ2tFbnVNcU5oOEt0a2FYMzk1eEhuSGhxdi1uQUJNNnJPWER6aw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
+        "Patrick Murphy: Could AI kill us all? Washington needs to act"
       ]
     }
   ]
