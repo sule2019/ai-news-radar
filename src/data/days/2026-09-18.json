@@ -2,8 +2,40 @@
   "date": "2026-09-18",
   "stories": [
     {
+      "cat": "research",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-09-18T10:35:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research (Reuters)",
+      "s": "Reuters : Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research Anthropic has quietly set up ",
+      "b": [
+        "techmeme.com: Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research (Reuters)",
+        "reuters.com: EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program"
+      ],
+      "body": [
+        "techmeme.com: Reuters : Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research Anthropic has quietly set up a laboratory to do physical biology work as it pushes its artificial-intelligence ambitions into the world of drug science.",
+        "reuters.com: EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program Reuters"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260918/p9#a260918p9"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMnNocmF2MC1saXA1bW95QU5PcXUyNHZrZUdaZUFKNXVnYk1Yejg4UTlqa242RmJGMnBlZ1pkeC1KdERaazR1TGtSTHkwMFFLNTZQa3VBdHJzcWlWR0hldTYtVm5RQ3hQZDE2LXFfZ3gzeHVqQ3pNR1pEUmpHbnpUMlB1UkYtTHpfeURTVU9Kb082R3ZrbnA1VVZmcEJlcnZBUlEySmtkUQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic Life Sciences Head Eric Kauderer-Abrams says the AI company set up a Bay Area wet lab for physical biology work, as it pushes into AI disease research (Reuters)",
+        "EXCLUSIVE: Anthropic quietly sets up biology lab as it ramps AI drug program"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 50,
+      "signal": 46,
       "sources": 3,
       "ts": "2026-09-17T22:17:21.000Z",
       "writtenSources": 3,
@@ -42,7 +74,44 @@
     },
     {
       "cat": "policy",
-      "signal": 22,
+      "signal": 42,
+      "sources": 3,
+      "ts": "2026-09-17T22:00:52.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
+      "s": "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction wpr.org",
+      "b": [
+        "wpr.org: Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
+        "floridapolitics.com: Patrick Murphy: Could AI kill us all? Washington needs to act"
+      ],
+      "body": [
+        "wpr.org: Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction wpr.org",
+        "floridapolitics.com: Patrick Murphy: Could AI kill us all? Washington needs to act Florida Politics"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/"
+        },
+        {
+          "d": "bostonglobe.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOcVRsMjBWeUdHb0VpMFpEMTcxN0p3cERweXQydWJqUDZKdGFIZGxhWWd0RjdrY1dhdDRZeVRLZktMd001OG80c04tWE5sVkNVWU1aT1VnNUNhWUNXcnJ5ZWY1Z3JQVjVuNHFyU2h1UEt5OWFJNjRNTUg3MVR3aXRJSEJ1QQ?oc=5"
+        },
+        {
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM0hvMTVsY0RBc2ZBZUZmZ1M0emRuLUtPNTZEdTQxQ0hWb25kODJsbXF6ZXRpRmJBQWRsUk85bGstcE56NWhqcmgzTnpvcGE0SHR4UGQzdEZVZEViUk0wVmZONnJTOHB2bTdvNkJpSV9rQ24yZUhnZFVNOWtaU2xfa05KaGdSSTZoZTN0Z1BWbzBMLUI5NF8yanlQeVpLZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Could AI really kill us all? Your questions, answered.",
+        "Opinion | This is how AI kills us all",
+        "Opinion | AI leaders need a course in parenthood. It could save us all."
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-18T01:10:00.000Z",
       "writtenSources": 2,
@@ -70,38 +139,6 @@
       "srcTitles": [
         "How should AI be regulated?",
         "AI Should Facilitate Democratic Deliberation at Scale"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 22,
-      "sources": 2,
-      "ts": "2026-09-17T22:00:52.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
-      "s": "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction wpr.org",
-      "b": [
-        "wpr.org: Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
-        "floridapolitics.com: Patrick Murphy: Could AI kill us all? Washington needs to act"
-      ],
-      "body": [
-        "wpr.org: Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction wpr.org",
-        "floridapolitics.com: Patrick Murphy: Could AI kill us all? Washington needs to act Florida Politics"
-      ],
-      "l": [
-        {
-          "d": "wpr.org",
-          "u": "https://news.google.com/rss/articles/CBMickFVX3lxTE03WlFydmZrQ3ZleGNEeDJBbExxTlkzUC1qa2dyWkZ6ZFN5dU1JMjdQMUZTZ2N6cnhta1prcXFOdkhQaFR4QkxxY3NvNlFlemlFTFp1WkhmWUFqWkV0elZvUkY4ZXJxQ1dCQkpUMGJIejVNZw?oc=5"
-        },
-        {
-          "d": "floridapolitics.com",
-          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRTV5MTBSd1NwbXBtRHN5MFVsYnI2cThGUHpyR2Rac0hQZkE5alhPU1F0Wkd4aERjQTBDZEFDSDllMkU5cTR1NE1RRlljT1lQODRCcjNVWUpOWEtUQXJQQ0dOOEZYb2xpd1BkVG9RcVJGWTJPWThnWGphUnE3QVBWVFdFZ2tFbnVNcU5oOEt0a2FYMzk1eEhuSGhxdi1uQUJNNnJPWER6aw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Could AI go rogue and ‘kill us all’? Two Wisconsin experts sort fact from science fiction",
-        "Patrick Murphy: Could AI kill us all? Washington needs to act"
       ]
     }
   ]
