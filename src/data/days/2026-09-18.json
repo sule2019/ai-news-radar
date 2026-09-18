@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 61,
-      "sources": 2,
+      "signal": 67,
+      "sources": 3,
       "ts": "2026-09-18T13:30:12.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -24,18 +24,23 @@
           "u": "https://techcrunch.com/2026/09/18/researchers-used-anthropics-claude-to-hack-into-openai/"
         },
         {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist"
+        },
+        {
           "d": "arstechnica.com",
           "u": "https://arstechnica.com/ai/2026/09/researchers-used-claude-to-hack-openai/"
         }
       ],
       "srcTitles": [
         "Researchers used Anthropic s Claude to hack into OpenAI",
+        "Security researchers used Claude to help them hack into OpenAI",
         "Researchers used Claude to hack OpenAI"
       ]
     },
     {
       "cat": "research",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-09-18T10:35:01.000Z",
       "writtenSources": 2,
@@ -67,7 +72,7 @@
     },
     {
       "cat": "policy",
-      "signal": 52,
+      "signal": 48,
       "sources": 3,
       "ts": "2026-09-18T01:10:00.000Z",
       "writtenSources": 2,
@@ -104,7 +109,7 @@
     },
     {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-09-18T14:00:00.000Z",
       "writtenSources": 1,
@@ -129,7 +134,7 @@
     },
     {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-09-18T13:00:00.000Z",
       "writtenSources": 1,
@@ -153,8 +158,40 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 42,
+      "sources": 2,
+      "ts": "2026-09-18T18:29:17.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Virginia governor creates an AI task force and moves to restrain data centers",
+      "s": "Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that",
+      "b": [
+        "theverge.com: Virginia governor creates an AI task force and moves to restrain data centers",
+        "techmeme.com: Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)"
+      ],
+      "body": [
+        "theverge.com: Virginia Gov. Abigail Spanberger ordered the state government to take steps that could empower local communities to have a larger say in data center development and slow down approvals in a state that is already home to the data center capital of the world. Executive Order 22 bans executive branch officials from signing nondisclosure agreements [ ]",
+        "techmeme.com: Lauren Feiner / The Verge : Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more Gov. Abigail Spanberger (D) signed an executive order addressing data canters and AI risks. Virginia Gov. Abigail Spanberger (D)"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/997573/virginia-governor-spanberger-data-center-ai-task-force"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260918/p23#a260918p23"
+        }
+      ],
+      "srcTitles": [
+        "Virginia governor creates an AI task force and moves to restrain data centers",
+        "Virginia Gov. Abigail Spanberger signs an EO to slow down data center approvals, create an AI task force to evaluate workforce displacement, and more (Lauren Feiner/The Verge)"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 38,
+      "signal": 34,
       "sources": 3,
       "ts": "2026-09-17T22:17:21.000Z",
       "writtenSources": 3,
