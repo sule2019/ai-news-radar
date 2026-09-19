@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 58,
-      "sources": 6,
+      "signal": 59,
+      "sources": 7,
       "ts": "2026-09-18T22:10:00.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -31,22 +31,22 @@
           "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5"
         },
         {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5"
+        },
+        {
           "d": "bbc.com",
           "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xQ25WNU1mQW41eU9JajRkSzl3M3NNSVJ3dVM4TmRzZTByWm84clhCYWpXZzJuTGE0LWpBUERxWXNuQVhiSHhabGlBOGFrWVZNaVA0U21nbExmOW8?oc=5"
         },
         {
-          "d": "thehackernews.com",
-          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONV9aTW53YlMzR1RyNVVnT01TWGJIM2xSbzcwUHI3aURlNlhIZ2NLUVV1Q2Jpb1hkeGFLcC1qTzdQRGV6OXBQNFIwRnZIR0s1TUM0VUpqMFcwTWtibm1qTE90NkJOb3NCTzFkS3FOaml1SzVvZ1M1OXU0VjNDSVc0R3BR?oc=5"
-        },
-        {
-          "d": "+2"
+          "d": "+3"
         }
       ],
       "srcTitles": [
         "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-        "Google Says Its A.I. Hacked Three Companies in Testing Breakout",
-        "Google's Gemini AI hacked three companies in security test",
-        "Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up"
+        "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+        "Gemini hacked three companies in first known breakout by Google's AI",
+        "Google's Gemini AI hacked three companies in security test"
       ]
     },
     {
@@ -114,6 +114,38 @@
       "srcTitles": [
         "A startup that builds other startups raised $100M and is all-in on physical AI",
         "Vantora, formerly UP.Labs, which builds AI-native startups designed to solve problems for corporate customers, raised $100M+ from Silversmith Capital Partners (Kirsten Korosec/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-19T02:36:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Better Artificial Intelligence Stock: Aehr Test Systems vs. Super Micro Computer",
+      "s": "Better Artificial Intelligence Stock: Aehr Test Systems vs. Super Micro Computer Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Better Artificial Intelligence Stock: Aehr Test Systems vs. Super Micro Computer",
+        "fool.com: Better Artificial Intelligence Stock: Aehr Test Systems vs. Super Micro Computer"
+      ],
+      "body": [
+        "finance.yahoo.com: Better Artificial Intelligence Stock: Aehr Test Systems vs. Super Micro Computer Yahoo Finance",
+        "fool.com: Better Artificial Intelligence Stock: Aehr Test Systems vs. Super Micro Computer The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNHBGdGNQTHRSb2VWX0pTRXRoSU1NLWdEbFVJR2dMMGJpaW1lbUx0bGR3QUN3aGRzcm1SRE5wZ182M3FJVnRXU284UWJCWk5SOV93MUNHU2hfRkg3bWtqak9kRzZoaWpCdHJMMm0tZ0NLSmY0ajJIZVFtNkM5MFlDSTRwUk1BRmRXWFJrSFFwNWl3WC1wR2Y1dHktSnFhbkVyb3YxUDF0RnNPdw?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdHZTYmduMmowNnpSVVdtbWUzWTFBcW1felBwSUVCWGhuODVGZHpJNjVaR3FvREltUThIRS15SkRteHJGQlNhQ2tPY01EUHBtV3EzdGoyRUloR2JvTmItWGNsTGxmdHYxa2U1aWh4RjI0STBtb09nUlpKNmszc2tab21uV1MtQ19MMy1tN1pTeXBPdU9NZmRQNTJmVGYtMkxKeTR2eXZCdk45NVkwZjBCTkd0SG94NlEyR2tyNGJ4VFFQNGk4MHgtVWU3bw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Better Artificial Intelligence Stock: Aehr Test Systems vs. Super Micro Computer",
+        "Better Artificial Intelligence Stock: Aehr Test Systems vs. Super Micro Computer"
       ]
     }
   ]
