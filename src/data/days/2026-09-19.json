@@ -50,9 +50,57 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 56,
+      "sources": 13,
+      "ts": "2026-09-19T18:08:43.000Z",
+      "writtenSources": 13,
+      "draft": true,
+      "h": "Trump says it s time to rebrand AI with a new name — and he s also creating an AI Force",
+      "s": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+      "b": [
+        "techcrunch.com: Trump says it s time to rebrand AI with a new name — and he s also creating an AI Force",
+        "wgme.com: Trump announces he is forming 'AI Force,' will name 'AI czar' soon",
+        "dw.com: Trump announces new 'AI force' amid mounting pressure"
+      ],
+      "body": [
+        "techcrunch.com: Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+        "wgme.com: Trump announces he is forming 'AI Force,' will name 'AI czar' soon wgme.com",
+        "dw.com: Trump announces new 'AI force' amid mounting pressure DW.com",
+        "coastalabc.com: Trump announces he is forming 'AI Force,' will name 'AI czar' soon coastalabc.com"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
+        },
+        {
+          "d": "wgme.com",
+          "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdnVkZ2FIX0tQMENrRjRmYzVvY0VYUkswcUZMV2NDbFRFQWtGVmVxc2NPQ1hydFBvalhQQnFPMG9ndmJNVmZTUTdnWk45OG9LXzlnSFhLVzdkMGRxWjUwNkxHMmNoZENqTHg1QnZIVTF3RWtuOFpxTHM5cnp4aVBtYVFNajBvWTJpaEd2d0N2X3RaRWF6bVk2QlZoX2RXVjdDMmRIZS1Ub0J5Zm55anU1dWdPbEtBWHo2NjhsM2wzSzFGWkNzdEMxMklvelVQbWhycWw0RTNYZ3FCTjhQYl9uYXBGMEMzN0NrRnc?oc=5"
+        },
+        {
+          "d": "dw.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LcWdsWGF6emZpT2d1ajc1SDRLalNnNmN2WGFDekF2WnBpWUJ3NjduWVhsdGoxc2psdVRkTU5vakhTdHNENkowclBadlA0dV9sTFdmVkVfWGtuQjTSAVtBVV95cUxNYk9GUG9yX3VfQVFBVENnWGkyWjZ4UHJJYXFuWVRrdV9yU2dRV19sNU45b1dpeWc4NnE2cnFPYUt0MDZOLVBtT1l0aE02bk9HS1U4cjJtYWhlRWUw?oc=5"
+        },
+        {
+          "d": "coastalabc.com",
+          "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeEJIZTA4ZEI3WmROYVFhejVySXhjamc4WDBvY21YTGtoLTJKMXV5NlgtdXdRWVRWRnZXUmUzZU12Rlc4TW1reFIwdHp6RHFIdEtzZVE2dnBRUTR2TGhOR180YlRHSU5LakNhTDdhejBRVUxld1RGYWhuaC1rYjRIcko0MmtXVGw2VFVGMWpodUEtRzN4V0JOSEtMbmxZSExhZkQ2OWZLbWpoVjgwR0NwMFhWbXRoODhRZmoxRFdhOVMzdDVXNVZZY3BndUxpVDVqTVV6cHBVRUxuZWVSZkRuM04xRU14bDJfUHFsZUtGdDlmUQ?oc=5"
+        },
+        {
+          "d": "+9"
+        }
+      ],
+      "srcTitles": [
+        "Trump says it s time to rebrand AI with a new name — and he s also creating an AI Force",
+        "Trump announces he is forming 'AI Force,' will name 'AI czar' soon",
+        "Trump announces new 'AI force' amid mounting pressure",
+        "Trump announces he is forming 'AI Force,' will name 'AI czar' soon"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 57,
-      "sources": 4,
+      "signal": 52,
+      "sources": 3,
       "ts": "2026-09-19T15:50:00.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -75,76 +123,23 @@
           "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdERuNTZTSXlGeGROV01qLU9pbWM1QmxUdlFRRDdNLWlHZUdSdmY1SXJGd1JkbEdSLTFtelU2UlhBMzFOQTRUeFhrLVVGQVotVm9qVTZ1ODJOWnZxZl9lMkk1aGw1T0luTXB5VktQdEVUMFZ4YWRURW5Ldkh3MmN5bXJ3NG9XaC1ZR1NpVW1oOVM0dWFtOS0xV1c1OUNRTVRRb0NYWFV5QQ?oc=5"
         },
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWd3S1lrV0JMc3hBcXpOSXdFSjU2QzhRYkdkQ01uTEpWdTRRYlZaZFNGdzRtNFNkUWZ5UHFHYUM5TW4tb3JPMGM1aFE3N0F6RVNTUncxeUh0bWtsLVRmUWtqeXIzQV9zYmR5Q0E5UEItQm5XSUM2WFdScjlMbHdSSDYyMjM5NFZQQl9HaTRSc0cxbDNlSWFldA?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUzhDaFZ0RlA4SWFaWFE0R2dQQWNyT0pEREVPZ2hmdWw1ZXU3Vzl2V3Vvb3BfaFlGMjM2WEgyV0tZMXBwemZVTC1hSVhid2Jya0c4UzlZRWdzTUJpdFU4RWkzUmRtc2NYMHFsbzF3MnI0Yl9NUnhUREM4aFA1NjRKd3JaOElQZWVOMzl2RXZ6RmxDYm1aUXJWdDZIU0xwQVJfakVwTnNhbDBmYmw3MWM4d1pNMFdZTWdjS1RsNXRDWVQySlZ6aThVVHJJY21TRjlnUmZnb2xzeVhBeHdna1R0MmRsQk9qLVRVeGU5VXdkVGdhaWZqLUd6VA?oc=5"
-        },
-        {
           "d": "currently.att.yahoo.com",
           "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWk1Zc3lRUjZOWlhpZktxdUlIemZsZzd2Z05fWGpWSmlnTnZ1N3gwek04MHF1NndJU3d4cDZfSWV0dElpRjBHMGRSWEFOV29HY0wzdWxMSlVJcVJkUldXemxjVFAzeFpFM1FlRWdTQzAxazlWM1A1LWxDaEs5RVJMaTZIQXlldGp1c1ZCdjVxV3llZXNHcTZVSmtZdlZVYkg3?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWd3S1lrV0JMc3hBcXpOSXdFSjU2QzhRYkdkQ01uTEpWdTRRYlZaZFNGdzRtNFNkUWZ5UHFHYUM5TW4tb3JPMGM1aFE3N0F6RVNTUncxeUh0bWtsLVRmUWtqeXIzQV9zYmR5Q0E5UEItQm5XSUM2WFdScjlMbHdSSDYyMjM5NFZQQl9HaTRSc0cxbDNlSWFldA?oc=5"
         }
       ],
       "srcTitles": [
         "Better Artificial Intelligence (AI) Stock Pick for 2027: Nvidia versus Micron",
         "Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033",
-        "Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033",
         "Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033"
       ]
     },
     {
-      "cat": "policy",
-      "signal": 56,
-      "sources": 12,
-      "ts": "2026-09-19T17:52:06.000Z",
-      "writtenSources": 6,
-      "draft": true,
-      "h": "Trump says he will appoint an AI czar and form an \"AI Force\", in a Truth Social post that rejects AI safety concerns as a \"hoax\" (María Paula Mijares Torres/Bloomberg)",
-      "s": "Mar a Paula Mijares Torres / Bloomberg : Trump says he will appoint an AI czar and form an AI Force , in a Truth Social post that rejects AI safety concerns as a hoax President Donald Trump said he wo",
-      "b": [
-        "techmeme.com: Trump says he will appoint an AI czar and form an \"AI Force\", in a Truth Social post that rejects AI safety concerns as a \"hoax\" (María Paula Mijares Torres/Bloomberg)",
-        "axios.com: Trump wants a new AI czar and an \"AI Force\" modeled on Space Force",
-        "cnn.com: Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development"
-      ],
-      "body": [
-        "techmeme.com: Mar a Paula Mijares Torres / Bloomberg : Trump says he will appoint an AI czar and form an AI Force , in a Truth Social post that rejects AI safety concerns as a hoax President Donald Trump said he would name an artificial intelligence czar as he continued to push tech companies to race ahead with development despite growing fears safety.",
-        "axios.com: Trump wants a new AI czar and an \"AI Force\" modeled on Space Force Axios",
-        "cnn.com: Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development CNN",
-        "sg.news.yahoo.com: Trump Announces 'AI Force' to Regulate Artificial Intelligence, Plans to Name AI Czar Yahoo News Singapore"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/"
-        },
-        {
-          "d": "nbcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWpMdlgxOFkzTjJRSld4OE1Xb2JZY1ZDdjFGSC1vUFctZTR2cUtSdDJEWU53YVcyeE1abkNIWndBcHJVaVB2VjhVY09KanpZUm1TUjVZeV9mSHNvWFJFakhCZ3RQQl9FNWNQUmtpN1FXMWNFSTZxNWxMXzBmaTZyV1FSN3BucTh6eE5Dd1VxRllMX05WQlZiaWZHeVp1TGZyQzRMaUQyRGVQZU1LeHhKSnpB?oc=5"
-        },
-        {
-          "d": "politico.com",
-          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGNzdFlzMzc1dUViY1JfQnFkd3F3LWVaREtBNVdjajNVQmR1bENPNFhWaDE2cXctSHVldXhmMFZ1RjkyZmFjRnBZaENGUnRWNFVtd0JfSkRZeEF0RVZacFktZld4RmVNNm5taTBWMzdjTlREdm4yQ0lQWFU2YVF3NWNxTVFjOC1NRTdLMzdtNW5ReTZ5cnNj?oc=5"
-        },
-        {
-          "d": "axios.com",
-          "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EVFBEUV9SLUJsSWpTWENyQ2NEbzEwYTZLM3ZvODktUnpMZ0Z1d1p2a1Yxdjh0d0dUOUpmb1Y4NzA2RUJOYUxTa2UzWjYwWWVETTZRakM4Rk1yN0F4emE3T3E1Q3BzUV9sS050MGo5VXU2d1E?oc=5"
-        },
-        {
-          "d": "+8"
-        }
-      ],
-      "srcTitles": [
-        "Trump suggests rebranding AI with a new name, says he’s also creating an AI Force",
-        "Trump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech",
-        "Tech industry scratches its head over Trump 'AI Force' proposal",
-        "Trump wants a new AI czar and an \"AI Force\" modeled on Space Force"
-      ]
-    },
-    {
       "cat": "products",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-09-19T05:16:54.000Z",
       "writtenSources": 2,
@@ -211,7 +206,7 @@
     },
     {
       "cat": "models",
-      "signal": 33,
+      "signal": 30,
       "sources": 3,
       "ts": "2026-09-19T16:35:00.000Z",
       "writtenSources": 2,
@@ -247,8 +242,44 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-19T17:52:06.000Z",
+      "writtenSources": 6,
+      "draft": true,
+      "h": "Trump says he will appoint an AI czar and form an \"AI Force\", in a Truth Social post that rejects AI safety concerns as a \"hoax\" (María Paula Mijares Torres/Bloomberg)",
+      "s": "Mar a Paula Mijares Torres / Bloomberg : Trump says he will appoint an AI czar and form an AI Force , in a Truth Social post that rejects AI safety concerns as a hoax President Donald Trump said he wo",
+      "b": [
+        "techmeme.com: Trump says he will appoint an AI czar and form an \"AI Force\", in a Truth Social post that rejects AI safety concerns as a \"hoax\" (María Paula Mijares Torres/Bloomberg)",
+        "axios.com: Trump wants a new AI czar and an \"AI Force\" modeled on Space Force",
+        "cnn.com: Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development"
+      ],
+      "body": [
+        "techmeme.com: Mar a Paula Mijares Torres / Bloomberg : Trump says he will appoint an AI czar and form an AI Force , in a Truth Social post that rejects AI safety concerns as a hoax President Donald Trump said he would name an artificial intelligence czar as he continued to push tech companies to race ahead with development despite growing fears safety.",
+        "axios.com: Trump wants a new AI czar and an \"AI Force\" modeled on Space Force Axios",
+        "cnn.com: Trump vows to create ‘AI Force’ and appoint czar amid calls to regulate technology’s development CNN",
+        "sg.news.yahoo.com: Trump Announces 'AI Force' to Regulate Artificial Intelligence, Plans to Name AI Czar Yahoo News Singapore"
+      ],
+      "l": [
+        {
+          "d": "nbcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOLWpMdlgxOFkzTjJRSld4OE1Xb2JZY1ZDdjFGSC1vUFctZTR2cUtSdDJEWU53YVcyeE1abkNIWndBcHJVaVB2VjhVY09KanpZUm1TUjVZeV9mSHNvWFJFakhCZ3RQQl9FNWNQUmtpN1FXMWNFSTZxNWxMXzBmaTZyV1FSN3BucTh6eE5Dd1VxRllMX05WQlZiaWZHeVp1TGZyQzRMaUQyRGVQZU1LeHhKSnpB?oc=5"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcGNzdFlzMzc1dUViY1JfQnFkd3F3LWVaREtBNVdjajNVQmR1bENPNFhWaDE2cXctSHVldXhmMFZ1RjkyZmFjRnBZaENGUnRWNFVtd0JfSkRZeEF0RVZacFktZld4RmVNNm5taTBWMzdjTlREdm4yQ0lQWFU2YVF3NWNxTVFjOC1NRTdLMzdtNW5ReTZ5cnNj?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump says he’s creating an AI force and appointing a czar amid concerns over the rapidly developing tech",
+        "Tech industry scratches its head over Trump 'AI Force' proposal",
+        "Trump seemingly concedes there’s some ‘BAD’ in the industry with announcement of ‘AI Force’"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-09-19T02:36:00.000Z",
       "writtenSources": 2,
