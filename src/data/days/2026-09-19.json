@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 64,
-      "sources": 6,
+      "signal": 77,
+      "sources": 8,
       "ts": "2026-09-18T22:10:00.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -23,36 +23,81 @@
       ],
       "l": [
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/"
+        },
+        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260919/p9#a260919p9"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack"
         },
         {
           "d": "wsj.com",
           "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5"
         },
         {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcGpXTktURm1aS1ZPRmR2WjVjZlNhUlREcnU0dEVDRlFVckw0Y1g5OTVtZE5YMHVFRi1GSi1Dbmd6YWpDX2stbkQyeVJFcUJsbzJZVmFUREtFLTlBWWVjcUpoWS1RTG1iTGtFNldWWE1EN2tQTHJEUzkxWFBkQXVqX0hETlRTc1ZmMFpCcnpXOA?oc=5"
-        },
-        {
-          "d": "+2"
+          "d": "+4"
         }
       ],
       "srcTitles": [
+        "Google’s Gemini is the latest AI model to hack other companies",
         "Google says it didn't consider Gemini's hacks worthy of disclosure because Gemini acted \"appropriately\" and stopped after determining it hacked real companies (Terrence O'Brien/The Verge)",
-        "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-        "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
-        "Gemini went rogue, hacked three companies, and Google hid it"
+        "Gemini went rogue, hacked three companies, and Google hid it",
+        "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 57,
+      "sources": 4,
+      "ts": "2026-09-19T15:50:00.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "Better Artificial Intelligence (AI) Stock Pick for 2027: Nvidia versus Micron",
+      "s": "Better Artificial Intelligence (AI) Stock Pick for 2027: Nvidia versus Micron finance.yahoo.com",
+      "b": [
+        "finance.yahoo.com: Better Artificial Intelligence (AI) Stock Pick for 2027: Nvidia versus Micron",
+        "fool.com: Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033",
+        "theglobeandmail.com: Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033"
+      ],
+      "body": [
+        "finance.yahoo.com: Better Artificial Intelligence (AI) Stock Pick for 2027: Nvidia versus Micron finance.yahoo.com",
+        "fool.com: Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033 The Motley Fool",
+        "theglobeandmail.com: Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033 The Globe and Mail",
+        "currently.att.yahoo.com: Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033 Currently.com"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdERuNTZTSXlGeGROV01qLU9pbWM1QmxUdlFRRDdNLWlHZUdSdmY1SXJGd1JkbEdSLTFtelU2UlhBMzFOQTRUeFhrLVVGQVotVm9qVTZ1ODJOWnZxZl9lMkk1aGw1T0luTXB5VktQdEVUMFZ4YWRURW5Ldkh3MmN5bXJ3NG9XaC1ZR1NpVW1oOVM0dWFtOS0xV1c1OUNRTVRRb0NYWFV5QQ?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUWd3S1lrV0JMc3hBcXpOSXdFSjU2QzhRYkdkQ01uTEpWdTRRYlZaZFNGdzRtNFNkUWZ5UHFHYUM5TW4tb3JPMGM1aFE3N0F6RVNTUncxeUh0bWtsLVRmUWtqeXIzQV9zYmR5Q0E5UEItQm5XSUM2WFdScjlMbHdSSDYyMjM5NFZQQl9HaTRSc0cxbDNlSWFldA?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUzhDaFZ0RlA4SWFaWFE0R2dQQWNyT0pEREVPZ2hmdWw1ZXU3Vzl2V3Vvb3BfaFlGMjM2WEgyV0tZMXBwemZVTC1hSVhid2Jya0c4UzlZRWdzTUJpdFU4RWkzUmRtc2NYMHFsbzF3MnI0Yl9NUnhUREM4aFA1NjRKd3JaOElQZWVOMzl2RXZ6RmxDYm1aUXJWdDZIU0xwQVJfakVwTnNhbDBmYmw3MWM4d1pNMFdZTWdjS1RsNXRDWVQySlZ6aThVVHJJY21TRjlnUmZnb2xzeVhBeHdna1R0MmRsQk9qLVRVeGU5VXdkVGdhaWZqLUd6VA?oc=5"
+        },
+        {
+          "d": "currently.att.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWk1Zc3lRUjZOWlhpZktxdUlIemZsZzd2Z05fWGpWSmlnTnZ1N3gwek04MHF1NndJU3d4cDZfSWV0dElpRjBHMGRSWEFOV29HY0wzdWxMSlVJcVJkUldXemxjVFAzeFpFM1FlRWdTQzAxazlWM1A1LWxDaEs5RVJMaTZIQXlldGp1c1ZCdjVxV3llZXNHcTZVSmtZdlZVYkg3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Better Artificial Intelligence (AI) Stock Pick for 2027: Nvidia versus Micron",
+        "Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033",
+        "Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033",
+        "Prediction: This Nvidia-Backed Artificial Intelligence (AI) Stock Could 10X by 2033"
       ]
     },
     {
       "cat": "products",
-      "signal": 52,
-      "sources": 3,
+      "signal": 48,
+      "sources": 2,
       "ts": "2026-09-19T05:16:54.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -70,12 +115,8 @@
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR204azdfNFhQWVJJZEl5c3BoUWd4NkRIOE0xWGdNdGNrRTd1amJrbk1QRmlidmhVZER2X0tEWFNXcG5wZEpieVJjb0hwcWdzWktBZTV3cWlUM3hjQldFblA0Z3duVjJWUGhKci1ieVdXT3lSelJQUWNWU0l0bDdxRnNYcmxqQVVGNGZ5Tmh1MnBkMWxycDU1cTBFMWl4dlZEak1F?oc=5"
-        },
-        {
           "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUnBsd1lKWTVkZWo0VFFYLTRaelZURDNYR2p5XzE0eWNmd2NDYlVJYlVMYm1SQV9GOXJZTDdzSkUyeWI2Ny1iTDk5TldTQ3BzU2R1MWFndFh2X01Db2pfbjBLOGZWUEJTMVJid3BSSTI1WG5ESzFnSW1mYU9aZGt1TVd4TkJabGswTTZxbDNUNFM5Ymc4Mk5UQy1zSHZCdEgtRkdweTMyZG9UeFFSN205QTA0WjBDbVJZUE1QbjlQaFotV0VqdkxMZm1mTXZCRVVvdldUMDN1b2d3VmZDSDVRLTNmd3daMUhUMGZWbGZtaw?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOY0lTRm5ZR1NhV2MxMXptSjRuaTExdTgtZFZqZExjcEFaYlh4TXBpOHZ5SU1FeG1IekcxYUdPNzNjVWo2SlRRSHQtQlBfdUxTUTNVSU10R1J5d3YwbW85OTF4U1Y4ZlliTFpQNzBNWXlJMkVKQk5lUjd2b1pzdlZkcHNSUlJmQXo2Y1dHd2VkLW15Vk42X2FKN255bU4yZ3RRZXQ5UHRKQWI1YU5IOU4tSkk1T2JUWjVScDFMMlUtOFJEUUp1TGFiMHl0QXRvU2VvR2lOOC11ZmdWSWVFMmFDdFAzWWR1OWoyMjBuNQ?oc=5"
         },
         {
           "d": "theglobeandmail.com",
@@ -139,8 +180,8 @@
       ],
       "l": [
         {
-          "d": "aa.com.tr",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNODM0cnZYWmhUV3ZURkZYNWpER3dfT3ZTRy0tMEZ0Q096dlBvQklGMjNjdDFobWs1N1VZRHpyNWU2S3lBeDI5YjJ0ZWJKR0RBckYtT3dCcUNMV1dvbnBHMkI1QzVrVVByaDlrZTdfb25SNWRqS1YyQkVoZ2Y0eVJad19RWERRV0hrSm1rOW5rdnJnREcxb043d3hqbERveU9YazZv?oc=5"
+          "d": "anews.com.tr",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQWlBdXJibTlxRjVaVXFfV2lDSlNqckJtOWJyYjFRRDl5bzVKenBlTmJyTXBVRzVYcEc4R25KUUd5QlpTZjI2STBoeFhBYVZCOEJjcU1pZU9MRnBlWUM1amVDZWlJSmIwS2JON3p1ZU9uSTI2V2xwZGQyckNzaFRrUkYyUXc4dG9wOUFtV1k1cFg0T0VDbVpxT3I0c2lONl9IQzE40gGoAUFVX3lxTE5yWUFsV2pFZmQ0ZzQ2T0FrWEFKZzg1REJ5S2dfcl92M21OazhqVDdhTjJROVBRTG1LTk9teXNhdTBvN1d2WjhnODhnQTJ3YkhPc3JidzZTMGxxcUdKVXA1enRzVTFoUXBranJ1QXQzVE5maDQtdmNOUmktdXl3T0tvMUxxWmFUZTN3RXpMaXdhSklsMmM1aV9IWWZTd0hMMFFjZzFBTG1hUg?oc=5"
         },
         {
           "d": "thenews.com.pk",
@@ -176,11 +217,10 @@
         },
         {
           "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcG9zNm5takkzVmlwVG1KemN1WUtfcUR1SFFnNW03Y2hZazlYY1U1SURJeEl1aUlFcGcxcTg4RjdGek9vX2JqNnJZakQxT0NLbFFZZFdwY2NBeUhHQTBSbU5HbVIya3c2LWVOYksxYWJIRk9xWjZrQW03Qm1iSHlSTzBMaHZfUU9SZ1ZTcDNzaDMtWGo3LXZFdEVXck5KX1d0SW9BNlR4YjZ4bFpNeWZJdks4WFBaT0sydlhLUE9nY2w5Sm5T?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdHZTYmduMmowNnpSVVdtbWUzWTFBcW1felBwSUVCWGhuODVGZHpJNjVaR3FvREltUThIRS15SkRteHJGQlNhQ2tPY01EUHBtV3EzdGoyRUloR2JvTmItWGNsTGxmdHYxa2U1aWh4RjI0STBtb09nUlpKNmszc2tab21uV1MtQ19MMy1tN1pTeXBPdU9NZmRQNTJmVGYtMkxKeTR2eXZCdk45NVkwZjBCTkd0SG94NlEyR2tyNGJ4VFFQNGk4MHgtVWU3bw?oc=5"
         }
       ],
       "srcTitles": [
-        "Better Artificial Intelligence Stock: Aehr Test Systems vs. KLA Corporation",
         "Better Artificial Intelligence Stock: Aehr Test Systems vs. KLA Corporation",
         "Better Artificial Intelligence Stock: Aehr Test Systems vs. Super Micro Computer",
         "Better Artificial Intelligence Stock: Aehr Test Systems vs. Super Micro Computer"
