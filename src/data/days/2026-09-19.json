@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 59,
-      "sources": 7,
+      "signal": 64,
+      "sources": 6,
       "ts": "2026-09-18T22:10:00.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -23,6 +23,10 @@
       ],
       "l": [
         {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260919/p9#a260919p9"
+        },
+        {
           "d": "wsj.com",
           "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5"
         },
@@ -31,28 +35,24 @@
           "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5"
         },
         {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5"
+          "d": "theverge.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcGpXTktURm1aS1ZPRmR2WjVjZlNhUlREcnU0dEVDRlFVckw0Y1g5OTVtZE5YMHVFRi1GSi1Dbmd6YWpDX2stbkQyeVJFcUJsbzJZVmFUREtFLTlBWWVjcUpoWS1RTG1iTGtFNldWWE1EN2tQTHJEUzkxWFBkQXVqX0hETlRTc1ZmMFpCcnpXOA?oc=5"
         },
         {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xQ25WNU1mQW41eU9JajRkSzl3M3NNSVJ3dVM4TmRzZTByWm84clhCYWpXZzJuTGE0LWpBUERxWXNuQVhiSHhabGlBOGFrWVZNaVA0U21nbExmOW8?oc=5"
-        },
-        {
-          "d": "+3"
+          "d": "+2"
         }
       ],
       "srcTitles": [
+        "Google says it didn't consider Gemini's hacks worthy of disclosure because Gemini acted \"appropriately\" and stopped after determining it hacked real companies (Terrence O'Brien/The Verge)",
         "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
         "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
-        "Gemini hacked three companies in first known breakout by Google's AI",
-        "Google's Gemini AI hacked three companies in security test"
+        "Gemini went rogue, hacked three companies, and Google hid it"
       ]
     },
     {
       "cat": "products",
-      "signal": 48,
-      "sources": 2,
+      "signal": 52,
+      "sources": 3,
       "ts": "2026-09-19T05:16:54.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -70,6 +70,10 @@
       ],
       "l": [
         {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR204azdfNFhQWVJJZEl5c3BoUWd4NkRIOE0xWGdNdGNrRTd1amJrbk1QRmlidmhVZER2X0tEWFNXcG5wZEpieVJjb0hwcWdzWktBZTV3cWlUM3hjQldFblA0Z3duVjJWUGhKci1ieVdXT3lSelJQUWNWU0l0bDdxRnNYcmxqQVVGNGZ5Tmh1MnBkMWxycDU1cTBFMWl4dlZEak1F?oc=5"
+        },
+        {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUnBsd1lKWTVkZWo0VFFYLTRaelZURDNYR2p5XzE0eWNmd2NDYlVJYlVMYm1SQV9GOXJZTDdzSkUyeWI2Ny1iTDk5TldTQ3BzU2R1MWFndFh2X01Db2pfbjBLOGZWUEJTMVJid3BSSTI1WG5ESzFnSW1mYU9aZGt1TVd4TkJabGswTTZxbDNUNFM5Ymc4Mk5UQy1zSHZCdEgtRkdweTMyZG9UeFFSN205QTA0WjBDbVJZUE1QbjlQaFotV0VqdkxMZm1mTXZCRVVvdldUMDN1b2d3VmZDSDVRLTNmd3daMUhUMGZWbGZtaw?oc=5"
         },
@@ -79,8 +83,8 @@
         }
       ],
       "srcTitles": [
-        "Applied Materials vs. Broadcom: Comparing Sales Growth Trajectories for These Artificial Intelligence Companies",
         "Applied Materials vs. Intel: Examining Revenue Growth Trajectories of These Artificial Intelligence Companies",
+        "Applied Materials vs. Broadcom: Comparing Sales Growth Trajectories for These Artificial Intelligence Companies",
         "Applied Materials vs. Broadcom: Comparing Sales Growth Trajectories for These Artificial Intelligence Companies"
       ]
     },
@@ -118,6 +122,38 @@
     },
     {
       "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-19T16:35:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Trump opens poll proposing renaming artificial intelligence",
+      "s": "Trump opens poll proposing renaming artificial intelligence Anadolu Ajansı",
+      "b": [
+        "aa.com.tr: Trump opens poll proposing renaming artificial intelligence",
+        "thenews.com.pk: Trump opens poll on renaming Artificial Intelligence: What to know"
+      ],
+      "body": [
+        "aa.com.tr: Trump opens poll proposing renaming artificial intelligence Anadolu Ajansı",
+        "thenews.com.pk: Trump opens poll on renaming Artificial Intelligence: What to know thenews.com.pk"
+      ],
+      "l": [
+        {
+          "d": "aa.com.tr",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNODM0cnZYWmhUV3ZURkZYNWpER3dfT3ZTRy0tMEZ0Q096dlBvQklGMjNjdDFobWs1N1VZRHpyNWU2S3lBeDI5YjJ0ZWJKR0RBckYtT3dCcUNMV1dvbnBHMkI1QzVrVVByaDlrZTdfb25SNWRqS1YyQkVoZ2Y0eVJad19RWERRV0hrSm1rOW5rdnJnREcxb043d3hqbERveU9YazZv?oc=5"
+        },
+        {
+          "d": "thenews.com.pk",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzBKTkpUbGtMTUh4VlRJS2J0UDc3YVdRWnlYNER4VGZTeW53QkcxbkxPSjZfbHpkZTVzSkJxNjMtVzloN0dVQ2tHc1ljbkVzVk5zR3liT3JLM0M5b2JTelZYUnQ1d0NJX0RTQ1hTbHlUQ1dsMmtkRXFXXzlqdjlUSjFiQm5BU3d6WnEyaEhrVmVOUk84QXdUM05FWjgwakdkdENsbVZQc2RVS2vSAacBQVVfeXFMUFJad29vU2NXdzNwOUdhNER6S09XQ1puNlpQVjlvLUJyWjJOeDVRRWtOTEM2SktKd2VYSzZpVmdJYTQzLXFvVi1fWjJ1U1Z3VGxyQlVfYko1N1lIbUhCMjhuOXRZTWR5bDVIbkY4bjV3TEhwWlNqNTcyNzNYZGxkOHBRY2RaUkVMQk1heHQzblBNcVF1QUFtVmlFbXh3VU10SlNJdDdKc1E?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump opens poll proposing renaming artificial intelligence",
+        "Trump opens poll on renaming Artificial Intelligence: What to know"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 26,
       "sources": 2,
       "ts": "2026-09-19T02:36:00.000Z",
@@ -136,14 +172,16 @@
       "l": [
         {
           "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNHBGdGNQTHRSb2VWX0pTRXRoSU1NLWdEbFVJR2dMMGJpaW1lbUx0bGR3QUN3aGRzcm1SRE5wZ182M3FJVnRXU284UWJCWk5SOV93MUNHU2hfRkg3bWtqak9kRzZoaWpCdHJMMm0tZ0NLSmY0ajJIZVFtNkM5MFlDSTRwUk1BRmRXWFJrSFFwNWl3WC1wR2Y1dHktSnFhbkVyb3YxUDF0RnNPdw?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQM2l6bE51clNrcTJMSUE3c0RyX2J3SzdNemhmSWZxMXhPZ1l2eHRaOGNkdWFSMzRmZlpFTy1mMlZzTkd1dXNnTXNwVkhlbmFXUzMtbllZSzVTQkRUWmpMTnM3dWdocXAzUUY2YzAzUVExWkpRc2JsS1FLTXFkMkxmZk14S05xOUI1YkR6OThhX080MXNIdWR1UXNlN3E2Tnhyb0tWVzdieXNiZw?oc=5"
         },
         {
           "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdHZTYmduMmowNnpSVVdtbWUzWTFBcW1felBwSUVCWGhuODVGZHpJNjVaR3FvREltUThIRS15SkRteHJGQlNhQ2tPY01EUHBtV3EzdGoyRUloR2JvTmItWGNsTGxmdHYxa2U1aWh4RjI0STBtb09nUlpKNmszc2tab21uV1MtQ19MMy1tN1pTeXBPdU9NZmRQNTJmVGYtMkxKeTR2eXZCdk45NVkwZjBCTkd0SG94NlEyR2tyNGJ4VFFQNGk4MHgtVWU3bw?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcG9zNm5takkzVmlwVG1KemN1WUtfcUR1SFFnNW03Y2hZazlYY1U1SURJeEl1aUlFcGcxcTg4RjdGek9vX2JqNnJZakQxT0NLbFFZZFdwY2NBeUhHQTBSbU5HbVIya3c2LWVOYksxYWJIRk9xWjZrQW03Qm1iSHlSTzBMaHZfUU9SZ1ZTcDNzaDMtWGo3LXZFdEVXck5KX1d0SW9BNlR4YjZ4bFpNeWZJdks4WFBaT0sydlhLUE9nY2w5Sm5T?oc=5"
         }
       ],
       "srcTitles": [
+        "Better Artificial Intelligence Stock: Aehr Test Systems vs. KLA Corporation",
+        "Better Artificial Intelligence Stock: Aehr Test Systems vs. KLA Corporation",
         "Better Artificial Intelligence Stock: Aehr Test Systems vs. Super Micro Computer",
         "Better Artificial Intelligence Stock: Aehr Test Systems vs. Super Micro Computer"
       ]
