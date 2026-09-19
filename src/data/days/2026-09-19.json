@@ -27,12 +27,12 @@
           "u": "https://www.techmeme.com/260918/p31#a260918p31"
         },
         {
-          "d": "wsj.com",
-          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5"
-        },
-        {
           "d": "reuters.com",
           "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5"
         },
         {
           "d": "bbc.com",
@@ -44,9 +44,41 @@
       ],
       "srcTitles": [
         "Gemini hacked three companies in May during a test by Irregular; Google says the model stopped after determining it had accessed real companies' systems (Wall Street Journal)",
-        "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
         "Gemini hacked three companies in first known breakout by Google's AI",
+        "Google Says Its A.I. Hacked Three Companies in Testing Breakout",
         "Google's Gemini AI hacked three companies in security test"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-09-18T23:25:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "A startup that builds other startups raised $100M and is all-in on physical AI",
+      "s": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+      "b": [
+        "techcrunch.com: A startup that builds other startups raised $100M and is all-in on physical AI",
+        "techmeme.com: Vantora, formerly UP.Labs, which builds AI-native startups designed to solve problems for corporate customers, raised $100M+ from Silversmith Capital Partners (Kirsten Korosec/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
+        "techmeme.com: Kirsten Korosec / TechCrunch : Vantora, formerly UP.Labs, which builds AI-native startups designed to solve problems for corporate customers, raised $100M+ from Silversmith Capital Partners Four years ago, a startup lab launched that wasn't quite an incubator, accelerator program, or venture firm."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260919/p3#a260919p3"
+        }
+      ],
+      "srcTitles": [
+        "A startup that builds other startups raised $100M and is all-in on physical AI",
+        "Vantora, formerly UP.Labs, which builds AI-native startups designed to solve problems for corporate customers, raised $100M+ from Silversmith Capital Partners (Kirsten Korosec/TechCrunch)"
       ]
     }
   ]
