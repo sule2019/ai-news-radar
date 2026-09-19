@@ -1,0 +1,53 @@
+{
+  "date": "2026-09-19",
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 66,
+      "sources": 5,
+      "ts": "2026-09-18T22:10:00.000Z",
+      "writtenSources": 5,
+      "draft": true,
+      "h": "Gemini hacked three companies in May during a test by Irregular; Google says the model stopped after determining it had accessed real companies' systems (Wall Street Journal)",
+      "s": "Wall Street Journal : Gemini hacked three companies in May during a test by Irregular; Google says the model stopped after determining it had accessed real companies' systems The episode resembled sim",
+      "b": [
+        "techmeme.com: Gemini hacked three companies in May during a test by Irregular; Google says the model stopped after determining it had accessed real companies' systems (Wall Street Journal)",
+        "nytimes.com: Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+        "washingtonpost.com: Google’s Gemini AI hacked into other companies, adding to ‘rogue’ AI incidents"
+      ],
+      "body": [
+        "techmeme.com: Wall Street Journal : Gemini hacked three companies in May during a test by Irregular; Google says the model stopped after determining it had accessed real companies' systems The episode resembled similar hacks by other AI models, but Google said it didn't consider it an instance of model misalignment",
+        "nytimes.com: Gemini AI Hacked Three Companies in a Testing Breakout, Google Says The New York Times",
+        "washingtonpost.com: Google’s Gemini AI hacked into other companies, adding to ‘rogue’ AI incidents The Washington Post",
+        "wsj.com: Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI WSJ"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260918/p31#a260918p31"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5"
+        },
+        {
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObDczME9pUnhHR24xcnk3RFM4VnpQcENlT0FPWHlsdElISG1wNWU2R3JYZHU0anN0b0YtNUFzazBfWmVRNXlST0txdTRwbnB0RXNpdE5HUU9PUU5tNnFnVVdIRy1RaUNObnROU281al9hM3IwOUpVVTU5MHZJTzFheWNsM003cHZ2SzhpWmlWN18wSl9yNVR3OHNHWlFHZTJzbHFocXdEXzdQMG5tdmtpUWlpamlrOGFBS3pId1pkSQ?oc=5"
+        },
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWjdUWU9tYzBhcjAwR1AzWkhVczUyUG9SUThfTFNuWEl0VFdHVUFzR1pDb3l3amRZWktfRUtvOFp3a0xZellIODVSTGdJOGd0dnQ2NlNoeVE5OHNEY0swRXJPcDhxSDI5bmJlV29icV91dXYxZGNRdDA2LTV3OTlnQUp6RldkYTJKT1IydVgtTnk5QXRUVkFGdEl3WFp1OVlOMWVaeHpEcw?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "Gemini hacked three companies in May during a test by Irregular; Google says the model stopped after determining it had accessed real companies' systems (Wall Street Journal)",
+        "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says",
+        "Google’s Gemini AI hacked into other companies, adding to ‘rogue’ AI incidents",
+        "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI"
+      ]
+    }
+  ]
+}
