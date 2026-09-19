@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 58,
-      "sources": 6,
+      "signal": 59,
+      "sources": 7,
       "ts": "2026-09-18T22:10:00.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -31,27 +31,27 @@
           "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYjRxWW5lRUMxeVNSMGFTaFl3Um9XLXBNZzhENWpxTlBFOEYxbTJrd25DMURFaGg2ZmtWRXZhWVpMSDA0SndYOC1qY0FiQnpPeEYzOHZZblFCU1NmbFN4Vno1WlRQaEpmVV9aandkTkZvSzR3SExfMDRPNnpyd0pGN1VYVFVzMmlZd1ZBNjMtblJuRFZ5VUxOemxLRWJ2Zkkyd1ZJMXQzZ2pYWkRzdmt5bU5QUDQ0YVBDZFZOag?oc=5"
         },
         {
-          "d": "news.sky.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNUNtRzVMekhGRUNEeEpJTkE3bkhiVU1Oa3hDdzY2bG92Z19MdWZ3bC1RZ1lMYjVIWmJfYlRRU0hQV3JJZml4MklVNDhNV1NqdzhUTUx1dnZmQUxvWU9GV0JQQjh2REtfNUUyclg4WVZuQnJac0JRb2lCaFNUSzg5eGcwVWhGdHRCTldESFRtd3RHTkprVi1WR1NDS3lwNmNyZzVRbA?oc=5"
-        },
-        {
           "d": "nytimes.com",
           "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oVmRjQVgxMHR6VnBZbUIxamFSQ1lXanpuU080VEhkWFVDNHlXbDJhMHBNNWo0MFBsd2lMSTMwcjJpREJTZUozVzVQLWUzUkdUUG9RbDJtY3hjSVhnR2ZFTFlEOFc1aVNNeTFOZHdTTzNDWHFCNlE?oc=5"
         },
         {
-          "d": "+2"
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9xQ25WNU1mQW41eU9JajRkSzl3M3NNSVJ3dVM4TmRzZTByWm84clhCYWpXZzJuTGE0LWpBUERxWXNuQVhiSHhabGlBOGFrWVZNaVA0U21nbExmOW8?oc=5"
+        },
+        {
+          "d": "+3"
         }
       ],
       "srcTitles": [
         "Exclusive | Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
         "Gemini hacked three companies in first known breakout by Google's AI",
-        "Google's Gemini AI hacks three other companies during security test",
-        "Gemini AI Hacked Three Companies in a Testing Breakout, Google Says"
+        "Google Says Its A.I. Hacked Three Companies in Testing Breakout",
+        "Google's Gemini AI hacked three companies in security test"
       ]
     },
     {
       "cat": "products",
-      "signal": 51,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-09-19T05:16:54.000Z",
       "writtenSources": 2,
