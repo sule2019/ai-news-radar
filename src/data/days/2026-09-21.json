@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 53,
-      "sources": 2,
+      "signal": 65,
+      "sources": 3,
       "ts": "2026-09-21T08:20:51.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,23 +20,28 @@
       ],
       "l": [
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/"
+        },
+        {
           "d": "theverge.com",
           "u": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260921/p9#a260921p9"
+          "d": "forbes.com",
+          "u": "https://www.forbes.com/sites/jonmarkman/2026/09/21/amazon-blocks-metas-new-muse-ai-agent-from-shopping-on-amazoncom/"
         }
       ],
       "srcTitles": [
-        "Amazon doesn’t trust Meta’s Muse AI agent",
-        "Amazon says it blocked Meta's Muse AI assistant from accessing Amazon.com to shop on users' behalf, citing ToS violations, security risks, and merchant consent (Todd Bishop/GeekWire)"
+        "Meta s AI agent has been blocked from using Amazon.com",
+        "Amazon blocks Meta’s Muse AI agent",
+        "Amazon blocks Meta’s new Muse AI agent from shopping on amazon.com"
       ]
     },
     {
       "cat": "policy",
-      "signal": 48,
-      "sources": 18,
+      "signal": 46,
+      "sources": 20,
       "ts": "2026-09-21T14:13:00.000Z",
       "writtenSources": 8,
       "draft": true,
@@ -55,23 +60,23 @@
       ],
       "l": [
         {
-          "d": "kotatv.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdUhLNnVYTVVfRWVoVS1zb0hWWlBRZ1RUYkszWUtYalAySGE3UzI2TTIzRTdXUEQ2M0dyUWhUcnJYSW1jY29kZklNaWJyVkJtYTgzWVl2TUcwV3RiaDVud1RWakJyOWRtSlczbUp5ei1kVzZiaFE5WXM0eVlYY1FDMVF1WllqMjM2bUlweNIBoAFBVV95cUxQN2dMelp5enBDbF91YlBnQklqS1p4VzA0d0stQTQ1ZGNJUFN4bTJfOHk5MTVhVE81OElTd0xOUmo2U3pSS0cwRlB6em82SThjZUZzRTJmVHpQUGprcXBsX3lNUDc4dEZ0cE9xRmlaaHh0em80VE1UZGVZUEtVVGItN2llNUVHTWxqdGVwejZkeXc1R0JjLTJUUVBZdUQtQjcw?oc=5"
+          "d": "kmvt.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMmY5VGo0WnNFZFh2N3dNRU1nQ0tnUXZWcTVOV3V5SGRQUU04ZWhvWXE3aGY3NnJmZC1QVU5PZVZGSFhlYUJqdC1ZX1BhNlc2N05sMzI4NzBZTHBzdmhxcFE4dFVKOVN4ZkUxZGJmREdvbHVLeFZoY0h1ZUtLQ0RLT0lmdlN0T0JjWFHSAZ4BQVVfeXFMTU9OZFhDM2ZadzhLcTF2TTZpWHJYZVVzWmVxS1RrRnIwcWlKdGwybENFYVRqQng1dUR3bTI0aW81N2YyRzFFS1UwazQ4WTN4ZHhvenNCM2tOU2FSLXVYU3RCamhLX2hoeHRrMEd0djh6cWJ5TWRMX2VydTBJSl9yM3hVSFFpaGltUXdGYzdZNTVhc3MyVE1MYWZ2bzl1Z0E?oc=5"
         },
         {
           "d": "fox10tv.com",
           "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVo1TDhadU1sNkZVN2VJazdpLWdkbWZLRUVNdjBUVmhZNU9hcTF5QzM3V2ROT0h6NjM3UnlHVDI2YTZGbWtOZGRpNGI0Nll1Qk91NDZTdjhETjZxM09aQm9NMFFKaXdZbXJoVzZmX3VFSG82bDRnbzFwRDBPY2tuYVVvMWkzb1RaVmw2VWZLaGlhX2ZJbVE?oc=5"
         },
         {
-          "d": "kwqc.com",
-          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSmJQbGNFRE1LSnF0Q1F5XzRDS3p0dU9ua201SWRpekd0bW42TnRZTnRndjhrX0RRMnN3cHFWYS04XzEwelhLcmozRGZZN2RQMXhIMFgyZzN1ZzVSbUpaalV2RXdrYUsyTDZEaG1ZVVJjMEdVTFlNMjQ3cFN5NVNSTnhRRzFDTG5pMFZOS3VudjNwdw?oc=5"
+          "d": "1011now.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb1dTaFd4bWNCNDBZMkJTQzZTenc3S3NIQlB6Y2Y2R2FscC1PMUlnRGFCc3I1WEdNeEcwemRVYWt2LWRQYVA1dVAxa1Voc3gtcGRUMHpIS2JQYmdpUklXR3B4V3RFblVOcW80MzdsSFIzNDVnUGctWVZXTVRIZWxWRDhuQlBwX2tmdEN6b3VuekJoSW5COVE?oc=5"
         },
         {
-          "d": "kjct8.com",
-          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWdKV1ppNGpQLXUxQmlXVnZ0WHN6TUk1eHJIaE9EbkZLTVRjc19yNUpmdmFONlozbkU4amFEd1ZQVGp3TG5UcWJyXzB0ZXFBZUpIU0Z1WG1WUjVoWmk4YzI1RWkwVDlSalVza3pKU0YzMVV1V1lSVWZQSDBiX0FldkVja2gzZXBYQWI5R2JUcFgyc0k?oc=5"
+          "d": "whsv.com",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWkRCRWJPV1hyb093THNkd3pFZEp1X1BPMHgwQnpqb0J1ZkZ1RVNDU29ra2o5TmYtMktKRHFUUTRvMmxqSkxLRl92NkhSaGRGbHVINzUzeG5jV2VxTFN5UlZyb0dzUXpGelJmT283b3laekFuWjhOcjFDbHhJSm81ZFlZeFJndE80cnFxcERUcGZVZw?oc=5"
         },
         {
-          "d": "+14"
+          "d": "+16"
         }
       ],
       "srcTitles": [
@@ -82,42 +87,63 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 30,
-      "sources": 3,
-      "ts": "2026-09-21T09:52:46.000Z",
-      "writtenSources": 3,
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-21T07:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows",
-      "s": "Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows 41NBC News",
+      "h": "Expanding OpenAI Academy with new learning paths",
+      "s": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
       "b": [
-        "41nbc.com: Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows",
-        "wspd.iheart.com: Trump Proposes Renaming Artificial Intelligence",
-        "citybiz.co: Trump Proposes ‘AI Force,’ Says Artificial Intelligence Could Reach 25% of U.S. GDP"
+        "openai.com: Expanding OpenAI Academy with new learning paths"
       ],
       "body": [
-        "41nbc.com: Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows 41NBC News",
-        "wspd.iheart.com: Trump Proposes Renaming Artificial Intelligence wspd.iheart.com",
-        "citybiz.co: Trump Proposes ‘AI Force,’ Says Artificial Intelligence Could Reach 25% of U.S. GDP citybiz"
+        "openai.com: Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
       ],
       "l": [
         {
-          "d": "41nbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMFNVbnBHNEVSazVSeW81RzBXU1hWN0lwbDZqLTBMYndwVmZGUkMxZGszNWpvWUdkV1ZMeEJVTXpBMGpBSmpvUGlPRVlOaXBKSngzRUkxLTMwNENoUlFNVUE0d1hDY0pWSnVEWm1lZjVaY1NjZEZUVldBejRyMlA1RXRXWTZETzZa?oc=5"
-        },
-        {
-          "d": "wspd.iheart.com",
-          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVk5QlhmczFMeEhOQ3FlN0hWakkxVW93TzVoNF9TS2Z3M0lWYm84VVVqeDU1X0M4VVdkdnpnZFZXdlVWT1RtcnJBZHNOZW1hNEdfTDNaa1RENlZBb1lrZURUNDdaNE1ha3VjNS03LWJ3Rm9iQXUtOXVDZUtOVU1qN0MxNkRqdW1mU1dOYWFYdTBCcG03Snc?oc=5"
-        },
-        {
-          "d": "citybiz.co",
-          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHAtaTJqYkRxLVNIaU1KS0FMU0ZVTmlHLXczbE8tb29kazFlYUM1dUFrTG1MY01ZY3ZnaHNoOXBXUzB2eHotY2R6MDB2ckZnMnJ2endJUzRrQklJUDFxWGdUeVozM1VKNENsbERWeWVXSm5Cc2VaZXNLcTBfOVFlMk9aTFAxek5MUEtWbTg0akJycElMYWNxSHJheVdXZ2hCZW1zWFVvOGpDOEQtYzdnempFZ2ItZEVC?oc=5"
+          "d": "openai.com",
+          "u": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths"
         }
       ],
       "srcTitles": [
-        "Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows",
-        "Trump Proposes Renaming Artificial Intelligence",
-        "Trump Proposes ‘AI Force,’ Says Artificial Intelligence Could Reach 25% of U.S. GDP"
+        "Expanding OpenAI Academy with new learning paths"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-09-21T00:15:00.000Z",
+      "writtenSources": 5,
+      "draft": true,
+      "h": "Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit (Demetri Sevastopulo/Financial Times)",
+      "s": "Demetri Sevastopulo / Financial Times : Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit T",
+      "b": [
+        "techmeme.com: Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit (Demetri Sevastopulo/Financial Times)",
+        "usnews.com: Bessent: US Proposes AI Incident Alert System in Talks With China",
+        "sg.finance.yahoo.com: Asia stocks rise on AI, US-China trade talks optimism"
+      ],
+      "body": [
+        "techmeme.com: Demetri Sevastopulo / Financial Times : Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit Treasury secretary says sides working towards shared vision after talks with Chinese counterpart",
+        "usnews.com: Bessent: US Proposes AI Incident Alert System in Talks With China U.S. News & World Report",
+        "sg.finance.yahoo.com: Asia stocks rise on AI, US-China trade talks optimism Yahoo Finance Singapore",
+        "mlex.com: China, US discuss AI during trade talks in New York MLex"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/ai-tariffs-rare-minerals-what-to-expect-from-trumps-upcoming-summit-with-xi-jinping/"
+        },
+        {
+          "d": "barrons.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkdXY0xfSHZUSWJxQUdJMW1Rc1VORi1WN05OSllueGFUTzhuTkxSbHZZODAzc1pQcnhkUU91LXBOTGJKbi1za2VoeEVwS2ljNUxHcGI3ZWt3ZzNtRmtfVUJqZlJvUG9CNHRFZVdnM3pqWk1RWXNEaWo4Q1hOSFFFdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI, Tariffs, Rare Minerals: What to Expect From Trump’s Upcoming Summit With Xi Jinping",
+        "The AI Race Looms Over Trump-Xi Summit. What to Expect."
       ]
     },
     {
@@ -182,6 +208,40 @@
       "srcTitles": [
         "US Coast Guard launches AI and machine learning center to advance operational readiness, workforce development",
         "Systems for Machine Learning[D]"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-21T09:52:46.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows",
+      "s": "Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows 41NBC News",
+      "b": [
+        "41nbc.com: Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows",
+        "wspd.iheart.com: Trump Proposes Renaming Artificial Intelligence",
+        "citybiz.co: Trump Proposes ‘AI Force,’ Says Artificial Intelligence Could Reach 25% of U.S. GDP"
+      ],
+      "body": [
+        "41nbc.com: Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows 41NBC News",
+        "wspd.iheart.com: Trump Proposes Renaming Artificial Intelligence wspd.iheart.com",
+        "citybiz.co: Trump Proposes ‘AI Force,’ Says Artificial Intelligence Could Reach 25% of U.S. GDP citybiz"
+      ],
+      "l": [
+        {
+          "d": "41nbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMFNVbnBHNEVSazVSeW81RzBXU1hWN0lwbDZqLTBMYndwVmZGUkMxZGszNWpvWUdkV1ZMeEJVTXpBMGpBSmpvUGlPRVlOaXBKSngzRUkxLTMwNENoUlFNVUE0d1hDY0pWSnVEWm1lZjVaY1NjZEZUVldBejRyMlA1RXRXWTZETzZa?oc=5"
+        },
+        {
+          "d": "citybiz.co",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHAtaTJqYkRxLVNIaU1KS0FMU0ZVTmlHLXczbE8tb29kazFlYUM1dUFrTG1MY01ZY3ZnaHNoOXBXUzB2eHotY2R6MDB2ckZnMnJ2endJUzRrQklJUDFxWGdUeVozM1VKNENsbERWeWVXSm5Cc2VaZXNLcTBfOVFlMk9aTFAxek5MUEtWbTg0akJycElMYWNxSHJheVdXZ2hCZW1zWFVvOGpDOEQtYzdnempFZ2ItZEVC?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows",
+        "Trump Proposes ‘AI Force,’ Says Artificial Intelligence Could Reach 25% of U.S. GDP"
       ]
     },
     {
@@ -266,6 +326,56 @@
       "cat": "models",
       "signal": 24,
       "sources": 1,
+      "ts": "2026-09-21T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Advisory Group on Mathematics and Artificial Intelligence",
+      "s": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+      "b": [
+        "openai.com: Advisory Group on Mathematics and Artificial Intelligence"
+      ],
+      "body": [
+        "openai.com: OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/advisory-group-on-mathematics-and-ai"
+        }
+      ],
+      "srcTitles": [
+        "Advisory Group on Mathematics and Artificial Intelligence"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-21T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Building standards for the next phase of AI",
+      "s": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+      "b": [
+        "openai.com: Building standards for the next phase of AI"
+      ],
+      "body": [
+        "openai.com: OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/building-standards-next-phase-ai"
+        }
+      ],
+      "srcTitles": [
+        "Building standards for the next phase of AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
       "ts": "2026-09-21T00:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
@@ -285,41 +395,6 @@
       ],
       "srcTitles": [
         "How V7 gives AI agents institutional memory"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 22,
-      "sources": 2,
-      "ts": "2026-09-21T00:15:00.000Z",
-      "writtenSources": 5,
-      "draft": true,
-      "h": "Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit (Demetri Sevastopulo/Financial Times)",
-      "s": "Demetri Sevastopulo / Financial Times : Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit T",
-      "b": [
-        "techmeme.com: Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit (Demetri Sevastopulo/Financial Times)",
-        "usnews.com: Bessent: US Proposes AI Incident Alert System in Talks With China",
-        "sg.finance.yahoo.com: Asia stocks rise on AI, US-China trade talks optimism"
-      ],
-      "body": [
-        "techmeme.com: Demetri Sevastopulo / Financial Times : Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit Treasury secretary says sides working towards shared vision after talks with Chinese counterpart",
-        "usnews.com: Bessent: US Proposes AI Incident Alert System in Talks With China U.S. News & World Report",
-        "sg.finance.yahoo.com: Asia stocks rise on AI, US-China trade talks optimism Yahoo Finance Singapore",
-        "mlex.com: China, US discuss AI during trade talks in New York MLex"
-      ],
-      "l": [
-        {
-          "d": "barrons.com",
-          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkdXY0xfSHZUSWJxQUdJMW1Rc1VORi1WN05OSllueGFUTzhuTkxSbHZZODAzc1pQcnhkUU91LXBOTGJKbi1za2VoeEVwS2ljNUxHcGI3ZWt3ZzNtRmtfVUJqZlJvUG9CNHRFZVdnM3pqWk1RWXNEaWo4Q1hOSFFFdw?oc=5"
-        },
-        {
-          "d": "scmp.com",
-          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObDJIdU5VejRreElMc012eDhBbzF3X2ZEQXc3QkVZY1F3ZGtqbXgtcjJDVllPQlhkaGt3WEdWOTZaei0tWUp3LXM4QUNkQVVFV1ZMY3l6X3FUaGRaZUc2N2lhZmZfcWltR2VyRlQxeXVVaXZSaVd5UUFyMGZpblhvU3FEZ3c5UkNHWnRJbEVzaUdFQU5vUlJWNDF6WS1XTWdoMnZWTmNyUWV4bTVPTDRzZXBkZFhrV21YN1VMclpnSUJNRjRzSUE4eFhiaDVlNkJY0gHQAUFVX3lxTFBQN1NkSVZqWlNkX2lmbnB1bnU3eDl2dDdVS3dJdS1qa2FKaHZ0enVIX05KVGZ2WllCVnJCN3VrWXIwVWs5dFA0dUFpcEtvdWRKWnNCeTdQY1NPWGJ5NTItSy02cDJVYWZHSWpJWkFrQ1RfS2lpMEVWRUM5aEE5N1BTQjdTMENncWpfWW5iV3NBQkszUlBEQTExS3Fab001ZVJZVDdtaldLemwyZU5JUkFUbm5FelVqVzRQYjZMYl9Md0xSY3ZKUk9EOV9EY3F4T0s?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "The AI Race Looms Over Trump-Xi Summit. What to Expect.",
-        "AI investors in Asia seen shifting focus to earnings ahead of Xi-Trump summit"
       ]
     }
   ]
