@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 61,
+      "signal": 57,
       "sources": 2,
       "ts": "2026-09-21T08:20:51.000Z",
       "writtenSources": 2,
@@ -34,9 +34,174 @@
       ]
     },
     {
-      "cat": "models",
+      "cat": "policy",
+      "signal": 44,
+      "sources": 8,
+      "ts": "2026-09-21T14:13:00.000Z",
+      "writtenSources": 8,
+      "draft": true,
+      "h": "Obama says the government should ‘act fast’ and regulate AI",
+      "s": "Obama says the government should ‘act fast’ and regulate AI wibw.com",
+      "b": [
+        "wibw.com: Obama says the government should ‘act fast’ and regulate AI",
+        "wwnytv.com: Obama says the government should ‘act fast’ and regulate AI",
+        "wbay.com: Obama says the government should ‘act fast’ and regulate AI"
+      ],
+      "body": [
+        "wibw.com: Obama says the government should ‘act fast’ and regulate AI wibw.com",
+        "wwnytv.com: Obama says the government should ‘act fast’ and regulate AI WWNY",
+        "wbay.com: Obama says the government should ‘act fast’ and regulate AI wbay.com",
+        "mysuncoast.com: Obama says the government should ‘act fast’ and regulate AI ABC7 WWSB"
+      ],
+      "l": [
+        {
+          "d": "wibw.com",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNW8wMy1QQVdILW9WRS0tcHA0MkgxWUc5Y0dSVWQwVUtmRllzSzJWZGRxczlwVjRvX2hXOGZyY2VodGktS2JRU0lBNmdram5CV0l3VW1MWFZ5R2VSaVQ0cktIWkhjV19ISm90MmMzWWRfeFMtQ2FwMGM5b3BsOG85MjFSMzhZc01nWXVJMThqNWZsZw?oc=5"
+        },
+        {
+          "d": "wwnytv.com",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2VoZkpnbFlLU3dUMWM0bHRFQldRNDlUMG5FSU1JQmwtTnFtSHV0dkVaQXVtSUc1YXdFNnAyNWYtcWVIaHprLU1ERGU0VzVXb2xXUEE5ODdDQ25UbTJZbGFNSEFGWElsZjJQR2JJZm1iUnVxSm1WUnY5OHpUZVM3bnp6VzRfVHgzNjBrUTZURlBfOXJP?oc=5"
+        },
+        {
+          "d": "wbay.com",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGhWaDQ1cVlxb3RHZGdsZmR1Vi0wbVNhd2pzb3V0SzJSSkk4LVkzSG5kZGxWblNrcW5ZSnJSMmZkNERNdzZfNElMY0RJbHgwZXc3ZEUxeWZtNlZlekViMmo2ZmtXWkNPa2hlbHlTWHdUUkp2NUN4a1lkZldjVzdYYXZBZW1sUDhjYVJlT2ZfODVkdw?oc=5"
+        },
+        {
+          "d": "mysuncoast.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZHlGb2lXLU9nZ3dvdVotei1xR1lQR2M5SUNrQUxxai1xTkxhVGJwajVXVWR5VW1CVEF5b0NTb1BHNzVXTWhWWDlVSy1uTUphRmpwTDNoZDRVTE9HTmRjbGlZZnBlbGJZU1BJaU5nZjFyaktmQTBwYTB2NWpuaUtqVnFEdXhwNC1MYlVxbjZuU3dEbWZyZnllRnd3?oc=5"
+        },
+        {
+          "d": "+4"
+        }
+      ],
+      "srcTitles": [
+        "Obama says the government should ‘act fast’ and regulate AI",
+        "Obama says the government should ‘act fast’ and regulate AI",
+        "Obama says the government should ‘act fast’ and regulate AI",
+        "Obama says the government should ‘act fast’ and regulate AI"
+      ]
+    },
+    {
+      "cat": "policy",
       "signal": 33,
       "sources": 3,
+      "ts": "2026-09-21T09:52:46.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows",
+      "s": "Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows 41NBC News",
+      "b": [
+        "41nbc.com: Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows",
+        "wspd.iheart.com: Trump Proposes Renaming Artificial Intelligence",
+        "citybiz.co: Trump Proposes ‘AI Force,’ Says Artificial Intelligence Could Reach 25% of U.S. GDP"
+      ],
+      "body": [
+        "41nbc.com: Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows 41NBC News",
+        "wspd.iheart.com: Trump Proposes Renaming Artificial Intelligence wspd.iheart.com",
+        "citybiz.co: Trump Proposes ‘AI Force,’ Says Artificial Intelligence Could Reach 25% of U.S. GDP citybiz"
+      ],
+      "l": [
+        {
+          "d": "41nbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMFNVbnBHNEVSazVSeW81RzBXU1hWN0lwbDZqLTBMYndwVmZGUkMxZGszNWpvWUdkV1ZMeEJVTXpBMGpBSmpvUGlPRVlOaXBKSngzRUkxLTMwNENoUlFNVUE0d1hDY0pWSnVEWm1lZjVaY1NjZEZUVldBejRyMlA1RXRXWTZETzZa?oc=5"
+        },
+        {
+          "d": "wspd.iheart.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVk5QlhmczFMeEhOQ3FlN0hWakkxVW93TzVoNF9TS2Z3M0lWYm84VVVqeDU1X0M4VVdkdnpnZFZXdlVWT1RtcnJBZHNOZW1hNEdfTDNaa1RENlZBb1lrZURUNDdaNE1ha3VjNS03LWJ3Rm9iQXUtOXVDZUtOVU1qN0MxNkRqdW1mU1dOYWFYdTBCcG03Snc?oc=5"
+        },
+        {
+          "d": "citybiz.co",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaHAtaTJqYkRxLVNIaU1KS0FMU0ZVTmlHLXczbE8tb29kazFlYUM1dUFrTG1MY01ZY3ZnaHNoOXBXUzB2eHotY2R6MDB2ckZnMnJ2endJUzRrQklJUDFxWGdUeVozM1VKNENsbERWeWVXSm5Cc2VaZXNLcTBfOVFlMk9aTFAxek5MUEtWbTg0akJycElMYWNxSHJheVdXZ2hCZW1zWFVvOGpDOEQtYzdnempFZ2ItZEVC?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump proposes ‘AI Force’ as debate over artificial intelligence regulation grows",
+        "Trump Proposes Renaming Artificial Intelligence",
+        "Trump Proposes ‘AI Force,’ Says Artificial Intelligence Could Reach 25% of U.S. GDP"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-21T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+      "s": "Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and a",
+      "b": [
+        "technologyreview.com: How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+        "technologyreview.com: 4 ways to address the failures we found along the US border’s “virtual wall”"
+      ],
+      "body": [
+        "technologyreview.com: Our 15-month investigation into death and surveillance along the US-Mexico border began with a simple question: Why did so many people die near government surveillance towers meant to help track and apprehend them? This story is part of Dying on Camera , a collaboration between MIT Technology Review and Times of San Diego . Journalists in both newsrooms spent the past year examining the failures of border surveillance technology and uncovering the stories of the people who die in the borderlands . To answer that question, we looked through thousands of pages of government documents, visited the border multiple times, and interviewed more than 45 people, including current and former White House advisors, presidential appointees, Border Patrol agents, medical examiners, sheriffs, humanitarian volunteers, and employees of tech companies. The result of our investigation is the first comprehensive map and analysis of deaths near border surveillance towers. Here’s how we built it, what decisions we made along the way, and what the data can and can’t tell us. Our data The investigation relied on knowing where migrants have died and where and when US Customs and Border Protection towers were installed. We analyzed cases dating back to 2015, allowing us to cover different border policies, presidential administrations, and tower technologies. Migrant deaths The US-Mexico border has been called the world’s deadliest land border, and Border Patrol estimates that more than 10,000 people have died during crossings since 2000—a figure that’s widely considered an undercount. But the amount of information available publicly on where and when these people died, and who they were, varies widely. Some remains are never discovered, and for those that are, there’s no national protocol for how the records are handled. We considered a case for further analysis if we could confirm three basic things: whether the person was believed to have been crossing the border, where the remains were fo",
+        "technologyreview.com: MIT Technology Review today published our investigation into how many people have died near the “virtual wall” of surveillance towers that the US government has installed along the US-Mexico border. We found cases of people who walked undetected through areas surveilled by advanced, AI-enabled towers and later died nearby, where their bodies remained unnoticed for weeks or months. These cases reflect systemic flaws in the virtual wall: broken towers, algorithms that failed to detect people, and agents who simply did not respond to alerts. This story is part of Dying on Camera , a collaboration between MIT Technology Review and Times of San Diego . Journalists in both newsrooms spent the past year examining the failures of border surveillance technology and uncovering the stories of the people who die in the borderlands . Each of these deaths should have raised alarms inside US Customs and Border Protection (CBP) about the flaws in the agency’s surveillance network. This is particularly true for cases near the latest towers built by the defense company Anduril, which continues to win major contracts and is poised to benefit from the windfall of federal money slated for border security. The US is set to spend $1 billion to triple the size of the virtual wall by 2034. Here are four ideas for what CBP should do next to address these failures. 1. Conduct a comprehensive audit of deaths near the virtual wall In this June 16, 2021, file photo, a family from Venezuela moves to a Border Patrol transport vehicle after they and other migrants crossed the U.S.-Mexico border and turned themselves in to agents in Del Rio, Texas. ERIC GAY/AP PHOTO “If I were the federal government, I would do an audit, because this feels like it’s not working.” That was New Mexico state representative Sarah Silva’s reaction when MIT Technology Review showed her that in 2024 alone, more than 18 people had died near surveillance towers in just one small stretch of desert near her district. An audit "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/"
+        }
+      ],
+      "srcTitles": [
+        "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
+        "4 ways to address the failures we found along the US border’s “virtual wall”"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-21T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
+      "s": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As ",
+      "b": [
+        "technologyreview.com: The US spent billions on border surveillance. Why can’t it catch people before they die?"
+      ],
+      "body": [
+        "technologyreview.com: When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses. As he walked through the desert in southern New Mexico that morning, he was within range of three surveillance towers. Newly installed by US Customs and Border Protection (CBP), they were built by the defense tech company Anduril and equipped with cameras and AI to automatically detect and track people. They transmit live video to nearby control rooms and can send alerts to the government-issued smartphones held by agents in the area, prompting the closest available to respond. This story is part of Dying on Camera , a collaboration between MIT Technology Review and Times of San Diego . Journalists in both newsrooms spent the past year examining the failures of border surveillance technology and uncovering the stories of the people who die in the borderlands . These AI-enabled towers are meant to give greater visibility across the 1,951-mile southern border, freeing up border agents from having to spend hours staring into video monitors. They were installed in this particular place to spot border crossers before they reached the nearby town of Sunland Park. If the system worked as intended, Morales should have been apprehended. If he needed medical help, agents were trained to provide it. The view from where José Morales Bernal’s body was found toward a Customs and Border Protection surveillance tower made by Anduril, along the southern US border in Sunland Park, New Mexico. CENGIZ YAR FOR MITTR That didn’t happen. Despite the nearby surveillance towers, it was employees of the local landfill, rather than Border Patrol, who first spotted Morales that morning. At 1 p.m. the workers saw him again, now lying in the sand. At 4 p.m. the landfill workers saw that he had not moved and called Border Patrol. Agents arrived 45 minutes later. He was dead. When an agent then called 91"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/"
+        }
+      ],
+      "srcTitles": [
+        "The US spent billions on border surveillance. Why can’t it catch people before they die?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-21T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "She died at the San Diego border. A surveillance camera was in plain sight",
+      "s": "She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tij",
+      "b": [
+        "technologyreview.com: She died at the San Diego border. A surveillance camera was in plain sight"
+      ],
+      "body": [
+        "technologyreview.com: She had only walked for a couple of hours, and already she was lost. It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she walked. This story is part of Dying on Camera , a collaboration between MIT Technology Review and Times of San Diego . Journalists in both newsrooms spent the past year examining the failures of border surveillance technology and uncovering the stories of the people who die in the borderlands . Gómez Hernández did not tell her family about her plan until the day before. Once she arrived in California, she hoped to work and send money back to her three children and her parents in southern Mexico. Her oldest son, age 11, had asked for a bicycle. She either climbed a ladder over the border wall or slipped through a section in steep terrain where fencing has yet to be built. Dozens of game trails cut through the dust on hillsides of sagebrush and manzanita. It was the first segment of a hike through the Otay Mountain Wilderness. The eastern edge of San Diego is just a mile away, but countless migrants hike 10 or 20 miles north through the mountains to evade the Border Patrol, emerging in smaller towns and on distant highways with fewer checkpoints. A border agent rides an ATV along the U.S.-Mexico border outside San Diego, September 2026. While the mountainous terrain makes some areas difficult to access, the area is blanketed with interconnected surveillance technology. ANNIE BARKER/TIMES OF SAN DIEGO/CATCHLIGHT LOCAL/REPORT FOR AMERICA Between 2 and 3 p.m., her sister said, Gómez Hernández sent a final message to her mother. “I can’t do it anymore,” she whispered into her phone. By the time a forensic crew came to collect her, two weeks later, most of her body had disappeared into the earth. She died on her own, but she was not, strictly speaking, alone. She was in one of the most heavil"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/"
+        }
+      ],
+      "srcTitles": [
+        "She died at the San Diego border. A surveillance camera was in plain sight"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
       "ts": "2026-09-21T00:15:00.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -55,54 +220,42 @@
       ],
       "l": [
         {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMlJsX1ZtMmpYb0cxVjFnRE1jUVJ4MlFKZTdxV3RMT3pwMDZQRGhHU1J2MVRoQnRQNnVtb1FlUXo5VFI3ZnhqYlh4WklkWm1iRWNsXzRCSVhfdy1nX1FzZ05nRXBaYjFNcHNhX0h5TWhDc2E5cnRENWkzbDQyVVVNMmhSZkI5djRRbWdxbk5HX1djSkxRWERuM0ZDV2tXcXZQSmZR0gGoAUFVX3lxTE9MVVlvSVRtQ2Z2T1NYLW0teDQzdmtQV3J2LUVacHAzLXF3RFhXQXAwNklyVVg2SWRpYm1UaGdJNjE3NXd5X1dURnpwUWVsVmZ4blVoTXQ3YXlnSVZSeXk0V2VqeThncnNRcm1IZ1ZTQjhHa0FtUEZDTm9UZk9iSDdfVE5uLU4xMmdVNW1pSjNQQ3lVRnN4MHAzdWNxZVdwOXA4b2NVN2lRVA?oc=5"
-        },
-        {
-          "d": "rivieraradio.mc",
-          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEFnWmVISUFFcXBOQ2dXVlpBUS1FYUhvY3Fwcm5XRm8zeVkxMll4Z1FkRy1YTzZlN2pQZ1BmYXZfZjhtRVRyQVVRNHVCbFpTbGJBT0Y0Q2EyTm1XcldvVW0ya2tsLXE4WVFnZnNud0RLelZ1VUk1MGR6UVlySXY0bmVUaEFINGE4Y0dpYjQ4ZTlLMmNWOExtRFV0bU5JUVh4TWVWQmZR?oc=5"
-        },
-        {
-          "d": "sg.finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NcHBuSXJpdnYzWXdMZ2syMDV4bW83R2RvWjhUam5wZVAxa0k4TlRMQlU0WURDaUNJX1lCQzV5Z1d5dm9NU2t1OUZGc0FTTllnOTFrTlI0TDFtRDJXT2FROXFZTGswak1OejEwTGtvUTNlZmZVYkpWRmJBSQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Bessent: US proposes AI incident alert system in talks with China - ABC News",
-        "US proposes AI incident alert system in talks with China",
-        "Asia stocks rise on AI, US-China trade talks optimism"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-09-21T05:50:56.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "The AI Race Looms Over Trump-Xi Summit. What to Expect.",
-      "s": "The AI Race Looms Over Trump-Xi Summit. What to Expect. Barron's",
-      "b": [
-        "barrons.com: The AI Race Looms Over Trump-Xi Summit. What to Expect.",
-        "bbc.com: US and China discuss AI safety plan ahead of Trump-Xi summit"
-      ],
-      "body": [
-        "barrons.com: The AI Race Looms Over Trump-Xi Summit. What to Expect. Barron's",
-        "bbc.com: US and China discuss AI safety plan ahead of Trump-Xi summit BBC"
-      ],
-      "l": [
-        {
           "d": "barrons.com",
           "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkdXY0xfSHZUSWJxQUdJMW1Rc1VORi1WN05OSllueGFUTzhuTkxSbHZZODAzc1pQcnhkUU91LXBOTGJKbi1za2VoeEVwS2ljNUxHcGI3ZWt3ZzNtRmtfVUJqZlJvUG9CNHRFZVdnM3pqWk1RWXNEaWo4Q1hOSFFFdw?oc=5"
         },
         {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pejItd2Z0NU0zRC1NT2ZMa21lWkhaTDh5OXJiT0NPSkxzTjI0VXdHYU4yWTVFY3g2RUk4V3YyMnJjbjV2NWEtSUxnMEtZUmcwbVpDek1PT0tJdFE?oc=5"
+          "d": "scmp.com",
+          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObDJIdU5VejRreElMc012eDhBbzF3X2ZEQXc3QkVZY1F3ZGtqbXgtcjJDVllPQlhkaGt3WEdWOTZaei0tWUp3LXM4QUNkQVVFV1ZMY3l6X3FUaGRaZUc2N2lhZmZfcWltR2VyRlQxeXVVaXZSaVd5UUFyMGZpblhvU3FEZ3c5UkNHWnRJbEVzaUdFQU5vUlJWNDF6WS1XTWdoMnZWTmNyUWV4bTVPTDRzZXBkZFhrV21YN1VMclpnSUJNRjRzSUE4eFhiaDVlNkJY0gHQAUFVX3lxTFBQN1NkSVZqWlNkX2lmbnB1bnU3eDl2dDdVS3dJdS1qa2FKaHZ0enVIX05KVGZ2WllCVnJCN3VrWXIwVWs5dFA0dUFpcEtvdWRKWnNCeTdQY1NPWGJ5NTItSy02cDJVYWZHSWpJWkFrQ1RfS2lpMEVWRUM5aEE5N1BTQjdTMENncWpfWW5iV3NBQkszUlBEQTExS3Fab001ZVJZVDdtaldLemwyZU5JUkFUbm5FelVqVzRQYjZMYl9Md0xSY3ZKUk9EOV9EY3F4T0s?oc=5"
         }
       ],
       "srcTitles": [
         "The AI Race Looms Over Trump-Xi Summit. What to Expect.",
-        "US and China discuss AI safety plan ahead of Trump-Xi summit"
+        "AI investors in Asia seen shifting focus to earnings ahead of Xi-Trump summit"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-21T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How V7 gives AI agents institutional memory",
+      "s": "Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work.",
+      "b": [
+        "openai.com: How V7 gives AI agents institutional memory"
+      ],
+      "body": [
+        "openai.com: Using GPT-5.6, V7 turns scattered company files into context agents can use to complete complex, source-linked work."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/v7"
+        }
+      ],
+      "srcTitles": [
+        "How V7 gives AI agents institutional memory"
       ]
     }
   ]
