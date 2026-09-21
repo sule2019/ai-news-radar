@@ -3,8 +3,40 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 44,
-      "sources": 5,
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-21T08:20:51.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Amazon doesn’t trust Meta’s Muse AI agent",
+      "s": "Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unau",
+      "b": [
+        "theverge.com: Amazon doesn’t trust Meta’s Muse AI agent",
+        "techmeme.com: Amazon says it blocked Meta's Muse AI assistant from accessing Amazon.com to shop on users' behalf, citing ToS violations, security risks, and merchant consent (Todd Bishop/GeekWire)"
+      ],
+      "body": [
+        "theverge.com: Meta's Muse AI agent has been blocked from shopping Amazon on behalf of its users, GeekWire reports. A popup message started appearing on Sunday for Muse users saying that \"continued access by an unauthorized AI agent violates Amazon's Conditions of Use, to which our customers have agreed.\" According to GeekWire, Meta didn't notify Amazon that [ ]",
+        "techmeme.com: Todd Bishop / GeekWire : Amazon says it blocked Meta's Muse AI assistant from accessing Amazon.com to shop on users' behalf, citing ToS violations, security risks, and merchant consent Amazon says it has cut off Meta's new Muse personal AI agent from shopping on Amazon.com on behalf of customers"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260921/p9#a260921p9"
+        }
+      ],
+      "srcTitles": [
+        "Amazon doesn’t trust Meta’s Muse AI agent",
+        "Amazon says it blocked Meta's Muse AI assistant from accessing Amazon.com to shop on users' behalf, citing ToS violations, security risks, and merchant consent (Todd Bishop/GeekWire)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 33,
+      "sources": 3,
       "ts": "2026-09-21T00:15:00.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -23,30 +55,54 @@
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260920/p17#a260920p17"
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMlJsX1ZtMmpYb0cxVjFnRE1jUVJ4MlFKZTdxV3RMT3pwMDZQRGhHU1J2MVRoQnRQNnVtb1FlUXo5VFI3ZnhqYlh4WklkWm1iRWNsXzRCSVhfdy1nX1FzZ05nRXBaYjFNcHNhX0h5TWhDc2E5cnRENWkzbDQyVVVNMmhSZkI5djRRbWdxbk5HX1djSkxRWERuM0ZDV2tXcXZQSmZR0gGoAUFVX3lxTE9MVVlvSVRtQ2Z2T1NYLW0teDQzdmtQV3J2LUVacHAzLXF3RFhXQXAwNklyVVg2SWRpYm1UaGdJNjE3NXd5X1dURnpwUWVsVmZ4blVoTXQ3YXlnSVZSeXk0V2VqeThncnNRcm1IZ1ZTQjhHa0FtUEZDTm9UZk9iSDdfVE5uLU4xMmdVNW1pSjNQQ3lVRnN4MHAzdWNxZVdwOXA4b2NVN2lRVA?oc=5"
         },
         {
-          "d": "usnews.com",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVkhPbC13M29VLWFPc3hoTnV6dmhuVDlaMDhPdldzYU9ybHR6OEwwRU53S0lfeGN1UmZscnFydzlZTzlweHhjX0xjOGdSWF9HM05qVk91VzlPTmpaa3YwVUZWcFZyTlVLZnYzRnpHd1BVa0dNWi1CZGxhN2JtVHVsbVNpcmZucXJkMGFNaFJqcklGYzdraEgyVkF6NVlNM3BvUHZ3YUk0bTJBcGhNeVQzQTBLVFJoMmVwem9ETXRB?oc=5"
-        },
-        {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pejItd2Z0NU0zRC1NT2ZMa21lWkhaTDh5OXJiT0NPSkxzTjI0VXdHYU4yWTVFY3g2RUk4V3YyMnJjbjV2NWEtSUxnMEtZUmcwbVpDek1PT0tJdFE?oc=5"
+          "d": "rivieraradio.mc",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNEFnWmVISUFFcXBOQ2dXVlpBUS1FYUhvY3Fwcm5XRm8zeVkxMll4Z1FkRy1YTzZlN2pQZ1BmYXZfZjhtRVRyQVVRNHVCbFpTbGJBT0Y0Q2EyTm1XcldvVW0ya2tsLXE4WVFnZnNud0RLelZ1VUk1MGR6UVlySXY0bmVUaEFINGE4Y0dpYjQ4ZTlLMmNWOExtRFV0bU5JUVh4TWVWQmZR?oc=5"
         },
         {
           "d": "sg.finance.yahoo.com",
           "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NcHBuSXJpdnYzWXdMZ2syMDV4bW83R2RvWjhUam5wZVAxa0k4TlRMQlU0WURDaUNJX1lCQzV5Z1d5dm9NU2t1OUZGc0FTTllnOTFrTlI0TDFtRDJXT2FROXFZTGswak1OejEwTGtvUTNlZmZVYkpWRmJBSQ?oc=5"
-        },
-        {
-          "d": "+1"
         }
       ],
       "srcTitles": [
-        "Scott Bessent says the US proposed an AI incident notification mechanism to China, and both sides agreed to set up an AI dialogue ahead of the Trump-Xi summit (Demetri Sevastopulo/Financial Times)",
-        "Bessent: US Proposes AI Incident Alert System in Talks With China",
-        "US and China discuss AI safety plan ahead of Trump-Xi summit",
+        "Bessent: US proposes AI incident alert system in talks with China - ABC News",
+        "US proposes AI incident alert system in talks with China",
         "Asia stocks rise on AI, US-China trade talks optimism"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-21T05:50:56.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The AI Race Looms Over Trump-Xi Summit. What to Expect.",
+      "s": "The AI Race Looms Over Trump-Xi Summit. What to Expect. Barron's",
+      "b": [
+        "barrons.com: The AI Race Looms Over Trump-Xi Summit. What to Expect.",
+        "bbc.com: US and China discuss AI safety plan ahead of Trump-Xi summit"
+      ],
+      "body": [
+        "barrons.com: The AI Race Looms Over Trump-Xi Summit. What to Expect. Barron's",
+        "bbc.com: US and China discuss AI safety plan ahead of Trump-Xi summit BBC"
+      ],
+      "l": [
+        {
+          "d": "barrons.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkdXY0xfSHZUSWJxQUdJMW1Rc1VORi1WN05OSllueGFUTzhuTkxSbHZZODAzc1pQcnhkUU91LXBOTGJKbi1za2VoeEVwS2ljNUxHcGI3ZWt3ZzNtRmtfVUJqZlJvUG9CNHRFZVdnM3pqWk1RWXNEaWo4Q1hOSFFFdw?oc=5"
+        },
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pejItd2Z0NU0zRC1NT2ZMa21lWkhaTDh5OXJiT0NPSkxzTjI0VXdHYU4yWTVFY3g2RUk4V3YyMnJjbjV2NWEtSUxnMEtZUmcwbVpDek1PT0tJdFE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The AI Race Looms Over Trump-Xi Summit. What to Expect.",
+        "US and China discuss AI safety plan ahead of Trump-Xi summit"
       ]
     }
   ]
