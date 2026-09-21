@@ -40,8 +40,8 @@
     },
     {
       "cat": "policy",
-      "signal": 57,
-      "sources": 32,
+      "signal": 58,
+      "sources": 40,
       "ts": "2026-09-21T09:52:46.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -67,27 +67,27 @@
           "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMTRFSFVjZTNXSU9Nc0FiMTdaWVRHc2tLSmJOMWZkTzlpaDZhSXZCbGlmdjFVakc1LVB2REZuUklrenJvWkNGMEptNjNHX3BzalRISlhKbnd3RjBSZTMtVzhtXzVtWF9JbllfdFhUc0RYTDZzMmRaNUpMTi1GTVpKMnp3MTB5aDBUamFSMGF2ZHd6aGFxV0R1Zm1rdHhpNC1OZ3Bac3NUUGtGUWRuUkNIUUtSZjB0TnVjbWhKQURNZFpwU0MxRW1ST3NLOEU?oc=5"
         },
         {
-          "d": "fox43.com",
-          "u": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNemdtVWtydUtQanJBRWNCQzV5WHh1UXBhU0ZlUzh2TU5ZY1BwYjlfWjNfcDlZTzJTb2dEYURYSzJtdW16NEZnMHAwZmM1OENQY09UZ0tsV21PRGJJRWF4WDIzb1lsU2ZFWmFxZUU1RXhuclFiZmF5SGsxa25hYmdsOUtZS1BCRHVyRENmS1o5WXVES3E1d0Z3OFlYOEVtZ0hhalRNX1E4bDdoODZQRkNEQjUtZktzMWhEUUNucUpJWlhCYjNtaDlvNWYxbGt2ZHJMdHlPMlE0bEhJbVNMMVVHemVnR25XdlhWdmdRQnZ6QVJFRU03YkpkNDByT3VheXQ1dV9oRnZwaHMxZDhf?oc=5"
-        },
-        {
           "d": "emerj.com",
           "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1JajlabnQ1R3pxblFlM2FKYWNuLVctVDBLOVNLZXkwSG5fTDhtQW1JUXJRUXVSY0pWZlNmSGxpZ2tKT1RxNVREc0JDVi1oNkpKWWJqTDVjY2xtbk5uZkljRDBJczJYRmdXNmlRY3hvYw?oc=5"
         },
         {
-          "d": "+28"
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRURvYmRuNWZzeGJPcDR5Mi1LcHV4eFpzcFdBc2ZsVWF4bjVRNWpGem1MMWNtaHoyMVRWYmxCUlBCQVVIaHNmbEhDWlRyS2lCbHU1NV9DUENxM2N4Y0FmNTdlaFpIMTJ5YjZDaElPN2xLRVpJN0RHM3ZTdWRRbWM2aWd6ZVRTMVNLTlY3MzJMVk43THMteU5ELWVmY0ZBS0hlWXFMRmdMaFFpeEVINjdvTlNGdm91V2IxX3ZxVXgxUVp2SjhiX3JB?oc=5"
+        },
+        {
+          "d": "+36"
         }
       ],
       "srcTitles": [
         "Advisory Group on Mathematics and Artificial Intelligence",
+        "Advisory Group on Mathematics and Artificial Intelligence",
         "Thoughts on artificial intelligence",
-        "Pennsylvanians voice concerns over rapid rise of artificial intelligence",
         "Artificial Intelligence at Cleveland Clinic"
       ]
     },
     {
       "cat": "policy",
-      "signal": 54,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-09-21T20:44:53.000Z",
       "writtenSources": 2,
@@ -119,7 +119,7 @@
     },
     {
       "cat": "models",
-      "signal": 50,
+      "signal": 46,
       "sources": 2,
       "ts": "2026-09-21T20:29:45.000Z",
       "writtenSources": 2,
@@ -147,54 +147,6 @@
       "srcTitles": [
         "California tightens rules on AI data center energy and water use",
         "California puts new costs, disclosures on data centers amid AI boom"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 46,
-      "sources": 21,
-      "ts": "2026-09-21T14:13:00.000Z",
-      "writtenSources": 8,
-      "draft": true,
-      "h": "Obama says the government should ‘act fast’ and regulate AI",
-      "s": "Obama says the government should ‘act fast’ and regulate AI wibw.com",
-      "b": [
-        "wibw.com: Obama says the government should ‘act fast’ and regulate AI",
-        "wwnytv.com: Obama says the government should ‘act fast’ and regulate AI",
-        "wbay.com: Obama says the government should ‘act fast’ and regulate AI"
-      ],
-      "body": [
-        "wibw.com: Obama says the government should ‘act fast’ and regulate AI wibw.com",
-        "wwnytv.com: Obama says the government should ‘act fast’ and regulate AI WWNY",
-        "wbay.com: Obama says the government should ‘act fast’ and regulate AI wbay.com",
-        "mysuncoast.com: Obama says the government should ‘act fast’ and regulate AI ABC7 WWSB"
-      ],
-      "l": [
-        {
-          "d": "wabi.tv",
-          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPblZORGw1YV96TUpsSUlmMHJjWkpFclh6RmYzZUt0aklSR2otMkpUQUlIOWd6cWQtVVR4VEsxNDlUeXJ3ZFNZbFlGcmJuVHVlbHN6ZV96RzBxNldYOENxNTN2VEk0cnYyTDE1ZS1PSHA4N1pXLS1MdFFXQ0hRaHl0VXB0am9nblJ00gGcAUFVX3lxTE9UX1NxSGpSR3pxUk5tZlhwUkRIRHNiMHExdDJYMFFXVGw5UlBvOUF2czc4djZSU2hhT1g4VUpJclFYOEE1dWk1UlI5NldTWW9VQW5KOV9ON3hUM0xBbTRKNFc3S3o0d2ZLVGJjSWE5bXNNU2dxS2RTeUZfOERZR0FhTDJLN0N0cUM1NkVOSkJocldFSFhocVZkemZDQg?oc=5"
-        },
-        {
-          "d": "fox10tv.com",
-          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVo1TDhadU1sNkZVN2VJazdpLWdkbWZLRUVNdjBUVmhZNU9hcTF5QzM3V2ROT0h6NjM3UnlHVDI2YTZGbWtOZGRpNGI0Nll1Qk91NDZTdjhETjZxM09aQm9NMFFKaXdZbXJoVzZmX3VFSG82bDRnbzFwRDBPY2tuYVVvMWkzb1RaVmw2VWZLaGlhX2ZJbVE?oc=5"
-        },
-        {
-          "d": "wwnytv.com",
-          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2VoZkpnbFlLU3dUMWM0bHRFQldRNDlUMG5FSU1JQmwtTnFtSHV0dkVaQXVtSUc1YXdFNnAyNWYtcWVIaHprLU1ERGU0VzVXb2xXUEE5ODdDQ25UbTJZbGFNSEFGWElsZjJQR2JJZm1iUnVxSm1WUnY5OHpUZVM3bnp6VzRfVHgzNjBrUTZURlBfOXJP?oc=5"
-        },
-        {
-          "d": "1011now.com",
-          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb1dTaFd4bWNCNDBZMkJTQzZTenc3S3NIQlB6Y2Y2R2FscC1PMUlnRGFCc3I1WEdNeEcwemRVYWt2LWRQYVA1dVAxa1Voc3gtcGRUMHpIS2JQYmdpUklXR3B4V3RFblVOcW80MzdsSFIzNDVnUGctWVZXTVRIZWxWRDhuQlBwX2tmdEN6b3VuekJoSW5COVE?oc=5"
-        },
-        {
-          "d": "+17"
-        }
-      ],
-      "srcTitles": [
-        "Obama says the government should ‘act fast’ and regulate AI",
-        "Obama says the government should ‘act fast’ and regulate AI",
-        "Obama says the government should ‘act fast’ and regulate AI",
-        "Obama says the government should ‘act fast’ and regulate AI"
       ]
     },
     {
@@ -248,8 +200,56 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 41,
+      "sources": 11,
+      "ts": "2026-09-21T14:13:00.000Z",
+      "writtenSources": 8,
+      "draft": true,
+      "h": "Obama says the government should ‘act fast’ and regulate AI",
+      "s": "Obama says the government should ‘act fast’ and regulate AI wibw.com",
+      "b": [
+        "wibw.com: Obama says the government should ‘act fast’ and regulate AI",
+        "wwnytv.com: Obama says the government should ‘act fast’ and regulate AI",
+        "wbay.com: Obama says the government should ‘act fast’ and regulate AI"
+      ],
+      "body": [
+        "wibw.com: Obama says the government should ‘act fast’ and regulate AI wibw.com",
+        "wwnytv.com: Obama says the government should ‘act fast’ and regulate AI WWNY",
+        "wbay.com: Obama says the government should ‘act fast’ and regulate AI wbay.com",
+        "mysuncoast.com: Obama says the government should ‘act fast’ and regulate AI ABC7 WWSB"
+      ],
+      "l": [
+        {
+          "d": "kmvt.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMmY5VGo0WnNFZFh2N3dNRU1nQ0tnUXZWcTVOV3V5SGRQUU04ZWhvWXE3aGY3NnJmZC1QVU5PZVZGSFhlYUJqdC1ZX1BhNlc2N05sMzI4NzBZTHBzdmhxcFE4dFVKOVN4ZkUxZGJmREdvbHVLeFZoY0h1ZUtLQ0RLT0lmdlN0T0JjWFHSAZ4BQVVfeXFMTU9OZFhDM2ZadzhLcTF2TTZpWHJYZVVzWmVxS1RrRnIwcWlKdGwybENFYVRqQng1dUR3bTI0aW81N2YyRzFFS1UwazQ4WTN4ZHhvenNCM2tOU2FSLXVYU3RCamhLX2hoeHRrMEd0djh6cWJ5TWRMX2VydTBJSl9yM3hVSFFpaGltUXdGYzdZNTVhc3MyVE1MYWZ2bzl1Z0E?oc=5"
+        },
+        {
+          "d": "fox10tv.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQVo1TDhadU1sNkZVN2VJazdpLWdkbWZLRUVNdjBUVmhZNU9hcTF5QzM3V2ROT0h6NjM3UnlHVDI2YTZGbWtOZGRpNGI0Nll1Qk91NDZTdjhETjZxM09aQm9NMFFKaXdZbXJoVzZmX3VFSG82bDRnbzFwRDBPY2tuYVVvMWkzb1RaVmw2VWZLaGlhX2ZJbVE?oc=5"
+        },
+        {
+          "d": "wbay.com",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWGhWaDQ1cVlxb3RHZGdsZmR1Vi0wbVNhd2pzb3V0SzJSSkk4LVkzSG5kZGxWblNrcW5ZSnJSMmZkNERNdzZfNElMY0RJbHgwZXc3ZEUxeWZtNlZlekViMmo2ZmtXWkNPa2hlbHlTWHdUUkp2NUN4a1lkZldjVzdYYXZBZW1sUDhjYVJlT2ZfODVkdw?oc=5"
+        },
+        {
+          "d": "wwnytv.com",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQV2VoZkpnbFlLU3dUMWM0bHRFQldRNDlUMG5FSU1JQmwtTnFtSHV0dkVaQXVtSUc1YXdFNnAyNWYtcWVIaHprLU1ERGU0VzVXb2xXUEE5ODdDQ25UbTJZbGFNSEFGWElsZjJQR2JJZm1iUnVxSm1WUnY5OHpUZVM3bnp6VzRfVHgzNjBrUTZURlBfOXJP?oc=5"
+        },
+        {
+          "d": "+7"
+        }
+      ],
+      "srcTitles": [
+        "Obama says the government should ‘act fast’ and regulate AI",
+        "Obama says the government should ‘act fast’ and regulate AI",
+        "Obama says the government should ‘act fast’ and regulate AI",
+        "Obama says the government should ‘act fast’ and regulate AI"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 30,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-09-21T00:15:00.000Z",
       "writtenSources": 5,
@@ -284,7 +284,7 @@
     },
     {
       "cat": "products",
-      "signal": 29,
+      "signal": 25,
       "sources": 2,
       "ts": "2026-09-21T19:07:00.000Z",
       "writtenSources": 2,
@@ -444,7 +444,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-21T10:39:28.000Z",
       "writtenSources": 2,
@@ -476,7 +476,7 @@
     },
     {
       "cat": "products",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-21T09:55:52.000Z",
       "writtenSources": 2,
