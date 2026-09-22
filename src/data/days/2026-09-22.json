@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 80,
+      "signal": 77,
       "sources": 4,
       "ts": "2026-09-22T18:00:00.000Z",
       "writtenSources": 4,
@@ -48,8 +48,8 @@
     },
     {
       "cat": "models",
-      "signal": 73,
-      "sources": 9,
+      "signal": 71,
+      "sources": 7,
       "ts": "2026-09-22T13:11:32.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -77,23 +77,71 @@
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFczd3NUb3M3WXg5aERZRXhfaHN2ZTMxRHZsU1JkT3lxQWl2OHUxTlBIM21PQXNkRzlLX3RSSmFDSmhRajV3REhpVGNaZ3Z0SFE4M1RhTnNocmRFOVcwT3lLa0tvQUJCTExhWExRemhhR0dlN28tYU9CeHR1dnN3ZV9McHNUV1N4UDhVbi1ScE1DMldtLUxDYQ?oc=5"
         },
         {
-          "d": "tomshardware.com",
-          "u": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOVDQ2Q3hKUEVpSzY4dnpPMTY5WHdwODY5SkJ0aDFTMW9NQlpCa1RVSTJTUmF3WTREcFFpM2E5T2FVQ1FvZDlEbHh3czJ2LWN0Ymw2RGFYaFowTmg2UmFaR2pleHpmRjFHaXUzanQ3UWd2VDRzQ0kwS3ZmNktyUnBuMmpMTzh0aTFFWUpNMnR6aDRteUI4MEwza2ktbkxzR2gtbkVqSlV2SmQzNlBWeWNuUk00ZnNlUUctUEhZR0ZWQ3NHVkhSZXZQcThqak1tTExNckpTWjRtSm8zeVd0Rlh2Wk5ZVF9ZZzZOY0RaQjJyS05zTlc0RkliY2F1VXhlOXhITUF1ZEo2Y0kxcENaTGM4YzdwZk1aV1hlUWh1UHNjY1ZpYU5xTDV6SDN3ZUEwN3I0d0VVOVhfZHYzUWxJaG5fMkJEU3RJbWNyWmxqZEtmNGFDalpPYlZaMUFGUVJGeXE5V1JGZTRQU2pfN3VYSFBPUjdPOUVGS2tqckJyNTUwaTVxdW5GUVVVa2VrTUl0RExKSEE?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260922/p46#a260922p46"
         },
         {
-          "d": "+5"
+          "d": "+3"
         }
       ],
       "srcTitles": [
         "California tightens rules on AI data center energy and water use",
         "Why China Will Rule AI",
         "Amid calls for AI rules, who in Congress has the tech savvy to help?",
-        "US and China propose hotline to de-escalate AI threats ahead of Washington summit"
+        "In his UN General Assembly speech, Trump rejects a \"globalist scheme to control\" AI, saying the US is \"leading now over China by a lot and everyone else\" (Financial Times)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 58,
+      "sources": 13,
+      "ts": "2026-09-22T14:10:50.000Z",
+      "writtenSources": 13,
+      "draft": true,
+      "h": "Trump says the US is officially renaming AI to ‘super intelligence’",
+      "s": "In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renam",
+      "b": [
+        "theverge.com: Trump says the US is officially renaming AI to ‘super intelligence’",
+        "thehill.com: Trump says AI will be renamed ‘super intelligence’ in all US documents",
+        "breakingdefense.com: Trump orders all US agencies to refer to AI as ‘super intelligence’"
+      ],
+      "body": [
+        "theverge.com: In a speech Tuesday morning at the UN General Assembly, Donald Trump railed against Iran, \"globalists,\" climate change, and transgender people while also claiming that the US is now \"officially\" renaming artificial intelligence to \"super intelligence.\" Oddly, this wasn't one of the entries in the poll Trump posted a few days ago when he started [ ]",
+        "thehill.com: Trump says AI will be renamed ‘super intelligence’ in all US documents The Hill Watch: Moment Trump rebrands Artificial Intelligence to Super Intelligence BBC Trump says he’s renaming AI to ‘super intelligence’ The Washington Post",
+        "breakingdefense.com: Trump orders all US agencies to refer to AI as ‘super intelligence’ Breaking Defense",
+        "theverge.com: Trump says the US is officially renaming AI to ‘super intelligence’ The Verge"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/998816/donald-trump-ai-super-intelligence"
+        },
+        {
+          "d": "thehill.com",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTHFSRVlHOGRzQlVzcWRvcHlCU2pyMGhSXzlPLUxvNnFqaldRVnpIYWJWMHpvRHY5OUR3UmV1eGtCS29LbHlHUFFDaHc5YjVhN1owS0RfT2Y1X0FSVVJsZ09WZUNNOUV4MGtZLTRMeS01bVJ2MHdaaE5VMEI3M3laVEZGejJCNHZSWDFuNWZ1NjBHd9IBlwFBVV95cUxQTnJVNkJmdXZuX2pHN0pqd1JKczNfM21JVHFLaHU5QVFHN1VERkxtNUhqQVZuZi1xaUZrZms3SzFWU201SUs2Y0cySEN2SG4wUmQ1TnVOMEo5T2lacDJpMzVoS2RwQWdUOUV2cG93bkZURUxNb2JhRkE1R1RyZlk1dkhvS1k2cGxSTjRlallVRzF4RzB4RkJr?oc=5"
+        },
+        {
+          "d": "breakingdefense.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRzJwWERpRFRXMHgtaHFZWW9wLUdPRFJJczdNMHFyYnBQOVg5eGxjT21raDdNaDBkdGZwYUMzOG9ycGVMOTB5TnFySnNmTWY2cU1LMGs3ejlOUjRqaUFXcnRDN0dnNzVGUy1YblpzSVZjc1RQc0lNM0wzZUFIc3FhY1dSbk1ETTNWQ1dYTXVJbUg1blRvZjhXTHgtX1FXd3FZT0hRWQ?oc=5"
+        },
+        {
+          "d": "washingtontimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQTVrSVhocm9fZFhCUldZRjFCWUlxNmtwaHNwZ0dYTHRzQ280M1MyU2hYN21NVDVXekM0TjNpYVJLRDhWUW9DS3JLSkpMdG51bmxoMWxtQ1RuNnVpbHQxajVGVFNqY0pqT3VmNktHekVTdEl5VXpvVFRJN2s3cE1kTEVNNm5yMjhiWVdZSzItQXBIVEdGNEpoOGs2UHNsQjR3bUswcDcxRnYtZw?oc=5"
+        },
+        {
+          "d": "+9"
+        }
+      ],
+      "srcTitles": [
+        "Trump says the US is officially renaming AI to ‘super intelligence’",
+        "Trump says AI will be renamed ‘super intelligence’ in all US documents",
+        "Trump orders all US agencies to refer to AI as ‘super intelligence’",
+        "Trump says the US is officially renaming AI to ‘super intelligence’"
       ]
     },
     {
       "cat": "products",
-      "signal": 61,
+      "signal": 57,
       "sources": 2,
       "ts": "2026-09-22T16:30:00.000Z",
       "writtenSources": 2,
@@ -124,8 +172,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-09-22T21:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Better prompt caching for GPT-6",
+      "s": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "b": [
+        "openai.com: Better prompt caching for GPT-6"
+      ],
+      "body": [
+        "openai.com: Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+        }
+      ],
+      "srcTitles": [
+        "Better prompt caching for GPT-6"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-09-22T15:21:14.000Z",
       "writtenSources": 2,
@@ -156,8 +229,40 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-09-22T20:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Qualcomm launches two new smartphone chips with emphasis on AI",
+      "s": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+      "b": [
+        "techcrunch.com: Qualcomm launches two new smartphone chips with emphasis on AI",
+        "cnbc.com: Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market"
+      ],
+      "body": [
+        "techcrunch.com: Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
+        "cnbc.com: Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market CNBC"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai/"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzBlSVNtRVBBVmxmQm5EUngxUFBaY2Jxam51SzNuM2d5Yk9iOWNrNmxEb3EzXzhRbXdmVFhqODJuWDJvVHYyQ2JJVjhKTHl6ZkZpN2dDNTVmVWYteDFSTXptbTBtNGc5MW5fMl9TZmdCencyallHYUNvWUI2R0tIVGxYTFVHSmF2dUdJTjd3WllXYzJuUnRoUTlWNnFqNl9YVTZV0gGoAUFVX3lxTE85R1N0Tk1zMDlNV1BCTUx5MVhaQlYySlZ6eEpZb3dOek80Z2t0TWwzTWFOamlBeDE3YUhFT3dudjZwOVJVTko3dFhBRktIczdkWEo2Nk5qNmx6OTdnUHgwOU5qS3dXdURsRC1XQVdfbUxScHBqZGNTdXdreWR3THU5QlcwejhvZ0kzeGplbWVTNXpRS19zYUltbkxfWExGOGcxQjFWVlFvVg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Qualcomm launches two new smartphone chips with emphasis on AI",
+        "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 43,
+      "signal": 39,
       "sources": 3,
       "ts": "2026-09-22T03:30:01.000Z",
       "writtenSources": 7,
@@ -197,7 +302,7 @@
     },
     {
       "cat": "models",
-      "signal": 38,
+      "signal": 34,
       "sources": 2,
       "ts": "2026-09-22T09:20:34.000Z",
       "writtenSources": 2,
@@ -225,38 +330,6 @@
       "srcTitles": [
         "Exclusive-DeepSeek to brief UN Security Council on AI this week, sources say",
         "EXCLUSIVE: DeepSeek to brief UN Security Council on AI this week, sources say"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 25,
-      "sources": 2,
-      "ts": "2026-09-22T10:01:52.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
-      "s": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds Yahoo",
-      "b": [
-        "yahoo.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
-        "reuters.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds"
-      ],
-      "body": [
-        "yahoo.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds Yahoo",
-        "reuters.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds Reuters"
-      ],
-      "l": [
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5"
-        },
-        {
-          "d": "thehill.com",
-          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IellLZnVyTFZMZXEwVVNDZmZ5dmROUGJaa0VsZTAyS1JWUkdHYllOemttZ2V0LWsya0NHeXRhRWd5VlBJTmFPNWtwdTUxUDdJbkNCNmFFVmJtV3R2d0FDdWFqaE0yaUkyMHYzVEJaV184dnJGR0hXRGQwc9IBgAFBVV95cUxQdllFVUFSbHVXcnY3c2dseFlwMUtmVktTTjJQY2VHd1liU3l4Z1Jpem9WdmQtbjhGRldzWmdKVUpiZm9jNTd1VHBUMlBVcXJKVTVzNXJhQXNnTVdFcWhVcGdkcHp4MElQZVZEcU9XS2VpeERqMFhxSmNYS2l5eU9rcg?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
-        "73 percent say AI firms not doing enough to prevent disaster: Survey"
       ]
     },
     {
@@ -307,6 +380,38 @@
       ],
       "srcTitles": [
         "Priorities and principles for effective third party assessments"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 21,
+      "sources": 2,
+      "ts": "2026-09-22T10:01:52.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
+      "s": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds Yahoo",
+      "b": [
+        "yahoo.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
+        "reuters.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds"
+      ],
+      "body": [
+        "yahoo.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds Yahoo",
+        "reuters.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds Reuters"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5"
+        },
+        {
+          "d": "thehill.com",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IellLZnVyTFZMZXEwVVNDZmZ5dmROUGJaa0VsZTAyS1JWUkdHYllOemttZ2V0LWsya0NHeXRhRWd5VlBJTmFPNWtwdTUxUDdJbkNCNmFFVmJtV3R2d0FDdWFqaE0yaUkyMHYzVEJaV184dnJGR0hXRGQwc9IBgAFBVV95cUxQdllFVUFSbHVXcnY3c2dseFlwMUtmVktTTjJQY2VHd1liU3l4Z1Jpem9WdmQtbjhGRldzWmdKVUpiZm9jNTd1VHBUMlBVcXJKVTVzNXJhQXNnTVdFcWhVcGdkcHp4MElQZVZEcU9XS2VpeERqMFhxSmNYS2l5eU9rcg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
+        "73 percent say AI firms not doing enough to prevent disaster: Survey"
       ]
     }
   ]
