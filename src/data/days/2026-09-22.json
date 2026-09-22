@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 55,
+      "signal": 51,
       "sources": 3,
       "ts": "2026-09-22T03:30:01.000Z",
       "writtenSources": 7,
@@ -43,7 +43,7 @@
     },
     {
       "cat": "models",
-      "signal": 50,
+      "signal": 46,
       "sources": 2,
       "ts": "2026-09-22T09:20:34.000Z",
       "writtenSources": 2,
@@ -75,7 +75,64 @@
     },
     {
       "cat": "models",
-      "signal": 28,
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-22T13:11:32.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Governor Moore Outlines AI Framework to Protect Marylanders",
+      "s": "Governor Moore Outlines AI Framework to Protect Marylanders The Office of Governor Wes Moore (.gov)",
+      "b": [
+        "governor.maryland.gov: Governor Moore Outlines AI Framework to Protect Marylanders",
+        "thebanner.com: Moore proposes AI rules to protect Marylanders, wading into national debate"
+      ],
+      "body": [
+        "governor.maryland.gov: Governor Moore Outlines AI Framework to Protect Marylanders The Office of Governor Wes Moore (.gov)",
+        "thebanner.com: Moore proposes AI rules to protect Marylanders, wading into national debate The Baltimore Banner"
+      ],
+      "l": [
+        {
+          "d": "governor.maryland.gov",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZXlXcVc2eVQxV1QzSk5Ec2FER1U5WldrN0UtOHlNTUp2eHFmZ1RocjdzejhUOTNMQXBZai1yUmZKdUVxeE1PaHdSSmJzRzZqUUZpXzAzak9MeXB3MUxETzhaOTBMM2l3d1hWSjJGLWZDYWhxanhfU2JqTzVqWHk0Z3lqNUcxeDRvbUdjRzAtZU82eU5ZUmlTckR5aE9CbzNLeUlYLXd4dkliUQ?oc=5"
+        },
+        {
+          "d": "thebanner.com",
+          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdEJOX1BTUFhaLU8wQVdBTTgyZXZ2MnBneHJfcDItS2dQRE4xa2hESUlEMHRJVUlzWlVqdkNiTmhNYWpyd2syREUxa1RjOU9ZSmJfMWVxRzNTM0hwMWpkb3Q3a2tlMG5nVFlqd29DMEczTFRXY2otODhucTFZRFhCWEFLSGtuczFkOFdHRDNNRV91bHZXdzJKZlpOTlFNNV82N1lnMUpFaFV0UWlwd0NQdXlocksybzBaaElVYTZGRUs2SmFmZzlvb2xFNnZXZ01L?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Governor Moore Outlines AI Framework to Protect Marylanders",
+        "Moore proposes AI rules to protect Marylanders, wading into national debate"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-22T11:04:51.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Don’t be fooled by this summer of AI hype",
+      "s": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O",
+      "b": [
+        "technologyreview.com: Don’t be fooled by this summer of AI hype"
+      ],
+      "body": [
+        "technologyreview.com: It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident , after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed by Anthropic ’s claim that one of its models had made a mathematical breakthrough; soon OpenAI claimed a mathematical breakthrough of its own. Most recently, Anthropic engineer Jacob Coxon went viral announcing his departure from the company, claiming that it and OpenAI are “racing straight towards self-improving superintelligence and gambling with our lives.” Each of these events was mostly covered breathlessly by the press, often repeating the companies’ anthropomorphizing framings —which are designed to portray their software is not only powerful but incipient “ artificial general intelligence .” So what is really going on? Are we witnessing a massive, civilization-changing set of technological breakthroughs, or is this marketing? In all these incidents, massive fanfare from the companies (presented as mea culpas in illicit hacking cases) is accompanied by intense press coverage. Once there is time for experts in the relevant fields to examine what happened, a very different story emerges, but one that gets less media attention. Regarding the “hacking” incidents, cybersecurity experts say the story is more about OpenAI’s negligence and failure to adopt basic, established security practices than about “models gone rogue” or “AI agents creating civilizations.” As for the mathematical results, mathematicians who were initially “stunned” by OpenAI’s press release saying that its latest chatbot, Astra, solved problems that “have been open and seen no progress on the main result for at least a decade”—but they later realized that the results weren’t as “novel as first appeared.” Since then, mathematicians have ac"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
+        }
+      ],
+      "srcTitles": [
+        "Don’t be fooled by this summer of AI hype"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
       "sources": 2,
       "ts": "2026-09-22T10:01:52.000Z",
       "writtenSources": 2,
@@ -103,31 +160,6 @@
       "srcTitles": [
         "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
         "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-09-22T11:04:51.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Don’t be fooled by this summer of AI hype",
-      "s": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O",
-      "b": [
-        "technologyreview.com: Don’t be fooled by this summer of AI hype"
-      ],
-      "body": [
-        "technologyreview.com: It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident , after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed by Anthropic ’s claim that one of its models had made a mathematical breakthrough; soon OpenAI claimed a mathematical breakthrough of its own. Most recently, Anthropic engineer Jacob Coxon went viral announcing his departure from the company, claiming that it and OpenAI are “racing straight towards self-improving superintelligence and gambling with our lives.” Each of these events was mostly covered breathlessly by the press, often repeating the companies’ anthropomorphizing framings —which are designed to portray their software is not only powerful but incipient “ artificial general intelligence .” So what is really going on? Are we witnessing a massive, civilization-changing set of technological breakthroughs, or is this marketing? In all these incidents, massive fanfare from the companies (presented as mea culpas in illicit hacking cases) is accompanied by intense press coverage. Once there is time for experts in the relevant fields to examine what happened, a very different story emerges, but one that gets less media attention. Regarding the “hacking” incidents, cybersecurity experts say the story is more about OpenAI’s negligence and failure to adopt basic, established security practices than about “models gone rogue” or “AI agents creating civilizations.” As for the mathematical results, mathematicians who were initially “stunned” by OpenAI’s press release saying that its latest chatbot, Astra, solved problems that “have been open and seen no progress on the main result for at least a decade”—but they later realized that the results weren’t as “novel as first appeared.” Since then, mathematicians have ac"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
-        }
-      ],
-      "srcTitles": [
-        "Don’t be fooled by this summer of AI hype"
       ]
     }
   ]
