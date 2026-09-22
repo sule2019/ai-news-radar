@@ -2,8 +2,85 @@
   "date": "2026-09-22",
   "stories": [
     {
+      "cat": "products",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-09-22T16:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "s": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvem",
+      "b": [
+        "theverge.com: Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+        "techmeme.com: Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)"
+      ],
+      "body": [
+        "theverge.com: Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario [ ]",
+        "techmeme.com: Emma Roth / The Verge : Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's pace the frontier essay, and says it has enhanced safeguards to combat risky behavior Claude Opus 5.5 comes with improvements to certain behaviors, like attempting to escape testing environments."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260922/p37#a260922p37"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+        "Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 51,
+      "signal": 63,
+      "sources": 5,
+      "ts": "2026-09-22T13:11:32.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Governor Moore Outlines AI Framework to Protect Marylanders",
+      "s": "Governor Moore Outlines AI Framework to Protect Marylanders The Office of Governor Wes Moore (.gov)",
+      "b": [
+        "governor.maryland.gov: Governor Moore Outlines AI Framework to Protect Marylanders",
+        "thebanner.com: Moore proposes AI rules to protect Marylanders, wading into national debate"
+      ],
+      "body": [
+        "governor.maryland.gov: Governor Moore Outlines AI Framework to Protect Marylanders The Office of Governor Wes Moore (.gov)",
+        "thebanner.com: Moore proposes AI rules to protect Marylanders, wading into national debate The Baltimore Banner"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills"
+        },
+        {
+          "d": "noemamag.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4V2xnNnNLWlRDU0NNWlVqRzVDSElaZFlYcDF3WjNEb0NOel9yMGN5eTR2THVRRTBRSXlQMzhydjlIeGFtSnExNEQyQk1ZYk1YbS1iZTQzRXI3TzA?oc=5"
+        },
+        {
+          "d": "csmonitor.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcFczd3NUb3M3WXg5aERZRXhfaHN2ZTMxRHZsU1JkT3lxQWl2OHUxTlBIM21PQXNkRzlLX3RSSmFDSmhRajV3REhpVGNaZ3Z0SFE4M1RhTnNocmRFOVcwT3lLa0tvQUJCTExhWExRemhhR0dlN28tYU9CeHR1dnN3ZV9McHNUV1N4UDhVbi1ScE1DMldtLUxDYQ?oc=5"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOVDQ2Q3hKUEVpSzY4dnpPMTY5WHdwODY5SkJ0aDFTMW9NQlpCa1RVSTJTUmF3WTREcFFpM2E5T2FVQ1FvZDlEbHh3czJ2LWN0Ymw2RGFYaFowTmg2UmFaR2pleHpmRjFHaXUzanQ3UWd2VDRzQ0kwS3ZmNktyUnBuMmpMTzh0aTFFWUpNMnR6aDRteUI4MEwza2ktbkxzR2gtbkVqSlV2SmQzNlBWeWNuUk00ZnNlUUctUEhZR0ZWQ3NHVkhSZXZQcThqak1tTExNckpTWjRtSm8zeVd0Rlh2Wk5ZVF9ZZzZOY0RaQjJyS05zTlc0RkliY2F1VXhlOXhITUF1ZEo2Y0kxcENaTGM4YzdwZk1aV1hlUWh1UHNjY1ZpYU5xTDV6SDN3ZUEwN3I0d0VVOVhfZHYzUWxJaG5fMkJEU3RJbWNyWmxqZEtmNGFDalpPYlZaMUFGUVJGeXE5V1JGZTRQU2pfN3VYSFBPUjdPOUVGS2tqckJyNTUwaTVxdW5GUVVVa2VrTUl0RExKSEE?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "California tightens rules on AI data center energy and water use",
+        "Why China Will Rule AI",
+        "Amid calls for AI rules, who in Congress has the tech savvy to help?",
+        "US and China propose hotline to de-escalate AI threats ahead of Washington summit"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 47,
       "sources": 3,
       "ts": "2026-09-22T03:30:01.000Z",
       "writtenSources": 7,
@@ -43,7 +120,7 @@
     },
     {
       "cat": "models",
-      "signal": 46,
+      "signal": 42,
       "sources": 2,
       "ts": "2026-09-22T09:20:34.000Z",
       "writtenSources": 2,
@@ -77,37 +154,37 @@
       "cat": "models",
       "signal": 29,
       "sources": 2,
-      "ts": "2026-09-22T13:11:32.000Z",
+      "ts": "2026-09-22T10:01:52.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Governor Moore Outlines AI Framework to Protect Marylanders",
-      "s": "Governor Moore Outlines AI Framework to Protect Marylanders The Office of Governor Wes Moore (.gov)",
+      "h": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
+      "s": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds Yahoo",
       "b": [
-        "governor.maryland.gov: Governor Moore Outlines AI Framework to Protect Marylanders",
-        "thebanner.com: Moore proposes AI rules to protect Marylanders, wading into national debate"
+        "yahoo.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
+        "reuters.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds"
       ],
       "body": [
-        "governor.maryland.gov: Governor Moore Outlines AI Framework to Protect Marylanders The Office of Governor Wes Moore (.gov)",
-        "thebanner.com: Moore proposes AI rules to protect Marylanders, wading into national debate The Baltimore Banner"
+        "yahoo.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds Yahoo",
+        "reuters.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds Reuters"
       ],
       "l": [
         {
-          "d": "governor.maryland.gov",
-          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZXlXcVc2eVQxV1QzSk5Ec2FER1U5WldrN0UtOHlNTUp2eHFmZ1RocjdzejhUOTNMQXBZai1yUmZKdUVxeE1PaHdSSmJzRzZqUUZpXzAzak9MeXB3MUxETzhaOTBMM2l3d1hWSjJGLWZDYWhxanhfU2JqTzVqWHk0Z3lqNUcxeDRvbUdjRzAtZU82eU5ZUmlTckR5aE9CbzNLeUlYLXd4dkliUQ?oc=5"
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5"
         },
         {
-          "d": "thebanner.com",
-          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdEJOX1BTUFhaLU8wQVdBTTgyZXZ2MnBneHJfcDItS2dQRE4xa2hESUlEMHRJVUlzWlVqdkNiTmhNYWpyd2syREUxa1RjOU9ZSmJfMWVxRzNTM0hwMWpkb3Q3a2tlMG5nVFlqd29DMEczTFRXY2otODhucTFZRFhCWEFLSGtuczFkOFdHRDNNRV91bHZXdzJKZlpOTlFNNV82N1lnMUpFaFV0UWlwd0NQdXlocksybzBaaElVYTZGRUs2SmFmZzlvb2xFNnZXZ01L?oc=5"
+          "d": "thehill.com",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IellLZnVyTFZMZXEwVVNDZmZ5dmROUGJaa0VsZTAyS1JWUkdHYllOemttZ2V0LWsya0NHeXRhRWd5VlBJTmFPNWtwdTUxUDdJbkNCNmFFVmJtV3R2d0FDdWFqaE0yaUkyMHYzVEJaV184dnJGR0hXRGQwc9IBgAFBVV95cUxQdllFVUFSbHVXcnY3c2dseFlwMUtmVktTTjJQY2VHd1liU3l4Z1Jpem9WdmQtbjhGRldzWmdKVUpiZm9jNTd1VHBUMlBVcXJKVTVzNXJhQXNnTVdFcWhVcGdkcHp4MElQZVZEcU9XS2VpeERqMFhxSmNYS2l5eU9rcg?oc=5"
         }
       ],
       "srcTitles": [
-        "Governor Moore Outlines AI Framework to Protect Marylanders",
-        "Moore proposes AI rules to protect Marylanders, wading into national debate"
+        "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
+        "73 percent say AI firms not doing enough to prevent disaster: Survey"
       ]
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-22T11:04:51.000Z",
       "writtenSources": 1,
@@ -133,33 +210,26 @@
     {
       "cat": "models",
       "signal": 24,
-      "sources": 2,
-      "ts": "2026-09-22T10:01:52.000Z",
-      "writtenSources": 2,
+      "sources": 1,
+      "ts": "2026-09-22T00:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
-      "s": "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds Yahoo",
+      "h": "Priorities and principles for effective third party assessments",
+      "s": "OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards.",
       "b": [
-        "yahoo.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
-        "reuters.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds"
+        "openai.com: Priorities and principles for effective third party assessments"
       ],
       "body": [
-        "yahoo.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds Yahoo",
-        "reuters.com: Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds Reuters"
+        "openai.com: OpenAI outlines priorities and principles for rigorous, secure, and independent third-party AI safety assessments of frontier models and safeguards."
       ],
       "l": [
         {
-          "d": "yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT29HNTZ3WEZuX2Y2aTFhc2FmUVV4T0FzbUljZ3ZCTnZ2dUxVYTh6UHl0alI4S0xsWW01QmdwaVpUM3MxUDZWUVkyT1RhRzRySDZ6TFZBTkdFOTZlTms1aGY5X29kNnNZdm1KVVFhV2tvaGVRUlZQRGU0Y1dTd2FZZEpnM3hQQ0JERnpz?oc=5"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX2tkSmZCVGNBY3lkMjNnZHhBT0V0el9sZWdDakE1eHBubVJHdHV3UlVHT1dZT0l0QlVzWXQ5eWEzeVJoUUdhdW8wWS1JTWV2bXBIR0FHaFlpYS1lWjZQRldiOGlibUpOTDI2aTV2X2hRMUw0OEJpcUhZTGUzTUlLbU1kWXNpaTVSUGQxd2JiRE5rNEU0ZEY5WWVEVGtDakp6aEhPR1dsYzZxcW9aWkVuVVczcw?oc=5"
+          "d": "openai.com",
+          "u": "https://openai.com/index/priorities-principles-third-party-assessments"
         }
       ],
       "srcTitles": [
-        "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
-        "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds"
+        "Priorities and principles for effective third party assessments"
       ]
     }
   ]
