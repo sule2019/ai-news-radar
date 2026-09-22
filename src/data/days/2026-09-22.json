@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 59,
+      "signal": 55,
       "sources": 3,
       "ts": "2026-09-22T03:30:01.000Z",
       "writtenSources": 7,
@@ -43,7 +43,7 @@
     },
     {
       "cat": "models",
-      "signal": 54,
+      "signal": 50,
       "sources": 2,
       "ts": "2026-09-22T09:20:34.000Z",
       "writtenSources": 2,
@@ -75,7 +75,7 @@
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-09-22T10:01:52.000Z",
       "writtenSources": 2,
@@ -103,6 +103,31 @@
       "srcTitles": [
         "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds",
         "Three out of four Americans say AI firms not doing enough to prevent disaster, Reuters/Ipsos poll finds"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-22T11:04:51.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Don’t be fooled by this summer of AI hype",
+      "s": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the O",
+      "b": [
+        "technologyreview.com: Don’t be fooled by this summer of AI hype"
+      ],
+      "body": [
+        "technologyreview.com: It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident , after which Anthropic (proudly) and Meta (reluctantly) disclosed similar incidents involving their models. This was followed by Anthropic ’s claim that one of its models had made a mathematical breakthrough; soon OpenAI claimed a mathematical breakthrough of its own. Most recently, Anthropic engineer Jacob Coxon went viral announcing his departure from the company, claiming that it and OpenAI are “racing straight towards self-improving superintelligence and gambling with our lives.” Each of these events was mostly covered breathlessly by the press, often repeating the companies’ anthropomorphizing framings —which are designed to portray their software is not only powerful but incipient “ artificial general intelligence .” So what is really going on? Are we witnessing a massive, civilization-changing set of technological breakthroughs, or is this marketing? In all these incidents, massive fanfare from the companies (presented as mea culpas in illicit hacking cases) is accompanied by intense press coverage. Once there is time for experts in the relevant fields to examine what happened, a very different story emerges, but one that gets less media attention. Regarding the “hacking” incidents, cybersecurity experts say the story is more about OpenAI’s negligence and failure to adopt basic, established security practices than about “models gone rogue” or “AI agents creating civilizations.” As for the mathematical results, mathematicians who were initially “stunned” by OpenAI’s press release saying that its latest chatbot, Astra, solved problems that “have been open and seen no progress on the main result for at least a decade”—but they later realized that the results weren’t as “novel as first appeared.” Since then, mathematicians have ac"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/"
+        }
+      ],
+      "srcTitles": [
+        "Don’t be fooled by this summer of AI hype"
       ]
     }
   ]
