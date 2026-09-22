@@ -3,40 +3,53 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 64,
-      "sources": 2,
-      "ts": "2026-09-22T16:30:00.000Z",
-      "writtenSources": 2,
+      "signal": 80,
+      "sources": 4,
+      "ts": "2026-09-22T18:00:00.000Z",
+      "writtenSources": 4,
       "draft": true,
-      "h": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "s": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvem",
+      "h": "Introducing GPT-6 Sol and Luna",
+      "s": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
       "b": [
-        "theverge.com: Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-        "techmeme.com: Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)"
+        "openai.com: Introducing GPT-6 Sol and Luna",
+        "techcrunch.com: OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+        "techmeme.com: GPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6 (Nat Rubio-Licht/The Deep View)"
       ],
       "body": [
-        "theverge.com: Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario [ ]",
-        "techmeme.com: Emma Roth / The Verge : Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's pace the frontier essay, and says it has enhanced safeguards to combat risky behavior Claude Opus 5.5 comes with improvements to certain behaviors, like attempting to escape testing environments."
+        "openai.com: Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost.",
+        "techcrunch.com: OpenAI is launching two new models, which it says are cut from the same cloth as Astra.",
+        "techmeme.com: Nat Rubio-Licht / The Deep View : GPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6 OpenAI is releasing a more budget-friendly version of its most powerful model. On Tuesday, the company unveiled GPT-6 Sol and GPT-6 Luna",
+        "techmeme.com: David Gewirtz / ZDNET : OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost GPT-6 Sol and Luna arrive less than three months after GPT-5.6, with OpenAI claiming major accuracy gains, dramatic cost reductions"
       ],
       "l": [
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity"
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-gpt-6-sol-and-luna"
+        },
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/"
         },
         {
           "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260922/p37#a260922p37"
+          "u": "https://www.techmeme.com/260922/p44#a260922p44"
+        },
+        {
+          "d": "aws.amazon.com",
+          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS0VSc19rMHltU1g3bFNDaTE2Rno0ZmRFSkJuTV9lS3RDeXdRLWtLUjRCTmZZS29yd1dzWERUeGxNS1ZJSGVRVktCMlNyRjJza2RSMXlqa3JlNEhzRkFVaUktSkRxczZLVTR4UXljbnB0WkR0bFlIRElmVW80SE5Bb0pndEZHRG5XZmIya0k1Rl9ZUEJzQWR2c0hhWWM1aTZZVjJ5bjZLYlRJY2ZabHVmbVFaR0tNUjhlQU83VjUyMGl4RDJaQnJJWGJGaTgyUERI?oc=5"
         }
       ],
       "srcTitles": [
-        "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-        "Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)"
+        "Introducing GPT-6 Sol and Luna",
+        "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+        "GPT-6 Sol costs $2/1M input and $10/1M output tokens, and GPT-6 Luna costs $0.10/1M input and $0.50/1M output tokens, both about 50% cheaper than GPT-5.6 (Nat Rubio-Licht/The Deep View)",
+        "OpenAI launches GPT-6 Sol and Luna, saying Sol makes about half as many mistakes as GPT-5.6 Sol and Luna matches GPT-5.6 Sol's performance at ~1% of the cost (David Gewirtz/ZDNET)"
       ]
     },
     {
       "cat": "models",
-      "signal": 63,
-      "sources": 5,
+      "signal": 73,
+      "sources": 9,
       "ts": "2026-09-22T13:11:32.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -68,7 +81,7 @@
           "u": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOVDQ2Q3hKUEVpSzY4dnpPMTY5WHdwODY5SkJ0aDFTMW9NQlpCa1RVSTJTUmF3WTREcFFpM2E5T2FVQ1FvZDlEbHh3czJ2LWN0Ymw2RGFYaFowTmg2UmFaR2pleHpmRjFHaXUzanQ3UWd2VDRzQ0kwS3ZmNktyUnBuMmpMTzh0aTFFWUpNMnR6aDRteUI4MEwza2ktbkxzR2gtbkVqSlV2SmQzNlBWeWNuUk00ZnNlUUctUEhZR0ZWQ3NHVkhSZXZQcThqak1tTExNckpTWjRtSm8zeVd0Rlh2Wk5ZVF9ZZzZOY0RaQjJyS05zTlc0RkliY2F1VXhlOXhITUF1ZEo2Y0kxcENaTGM4YzdwZk1aV1hlUWh1UHNjY1ZpYU5xTDV6SDN3ZUEwN3I0d0VVOVhfZHYzUWxJaG5fMkJEU3RJbWNyWmxqZEtmNGFDalpPYlZaMUFGUVJGeXE5V1JGZTRQU2pfN3VYSFBPUjdPOUVGS2tqckJyNTUwaTVxdW5GUVVVa2VrTUl0RExKSEE?oc=5"
         },
         {
-          "d": "+1"
+          "d": "+5"
         }
       ],
       "srcTitles": [
@@ -79,8 +92,72 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-22T16:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "s": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvem",
+      "b": [
+        "theverge.com: Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+        "techmeme.com: Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)"
+      ],
+      "body": [
+        "theverge.com: Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario [ ]",
+        "techmeme.com: Emma Roth / The Verge : Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's pace the frontier essay, and says it has enhanced safeguards to combat risky behavior Claude Opus 5.5 comes with improvements to certain behaviors, like attempting to escape testing environments."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260922/p37#a260922p37"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+        "Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-09-22T15:21:14.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Virginia Gov. Spanberger urges Congress to establish federal AI guardrails",
+      "s": "Virginia Gov. Spanberger urges Congress to establish federal AI guardrails StateScoop",
+      "b": [
+        "statescoop.com: Virginia Gov. Spanberger urges Congress to establish federal AI guardrails",
+        "wfxrtv.com: Gov. Spanberger urges Congress to regulate AI"
+      ],
+      "body": [
+        "statescoop.com: Virginia Gov. Spanberger urges Congress to establish federal AI guardrails StateScoop",
+        "wfxrtv.com: Gov. Spanberger urges Congress to regulate AI WFXRtv"
+      ],
+      "l": [
+        {
+          "d": "statescoop.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVVdzQktJWXFDMDVqazM2LTg4Zm5VX3c0RG5HdWFFbE1lUTJULUtwWHBGQ01Xc1JybEFIOURhajdXaXUzVUljMEV3dUJlRHBjdTRKbU85UjVoZkhJUEhSa28xU2pyOWVkYVBaWWxmbUF0MnJjVFluZGVzTzFRb2ZXQ0R2V3JmSnhJOWdEMkdNMHUyaUhPbnMwZEZGajRfdw?oc=5"
+        },
+        {
+          "d": "wfxrtv.com",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45MUpSNWZjc2xtakhEVDNMaGtKODNLWVFuQ1Z2dGF4R1lfSjQ1Mk9DektGZzFXTTA1c2RsVlFiUlFDZ0NtSEtxVkJlRE0zeG5nV0lJeExVMk91LUREaGk4NFRrbDBWbEcxaTZWSUhEV3FZalBZdTZQXzQ5ZERxUdIBgwFBVV95cUxQQjd6Y1MyR2U1R3BUaFJUTGRDTnM3VTZMb0VCSlQwWFlEU1hQQmoxMkhSMjZLblZjLVAtTjQ0dTVTcUtKNUFUWFhSbkVLSXVkamw1S0dxcjAweUVMVVNndS01LXNhWVcwdVpRWi0tRmU4cmdrY0wxbEpQQmVuVXg5a0Rvdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Virginia Gov. Spanberger urges Congress to establish federal AI guardrails",
+        "Gov. Spanberger urges Congress to regulate AI"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 47,
+      "signal": 43,
       "sources": 3,
       "ts": "2026-09-22T03:30:01.000Z",
       "writtenSources": 7,
@@ -120,7 +197,7 @@
     },
     {
       "cat": "models",
-      "signal": 42,
+      "signal": 38,
       "sources": 2,
       "ts": "2026-09-22T09:20:34.000Z",
       "writtenSources": 2,
@@ -152,7 +229,7 @@
     },
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 25,
       "sources": 2,
       "ts": "2026-09-22T10:01:52.000Z",
       "writtenSources": 2,
