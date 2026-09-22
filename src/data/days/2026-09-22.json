@@ -48,8 +48,8 @@
     },
     {
       "cat": "models",
-      "signal": 71,
-      "sources": 7,
+      "signal": 72,
+      "sources": 8,
       "ts": "2026-09-22T13:11:32.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -81,7 +81,7 @@
           "u": "https://www.techmeme.com/260922/p46#a260922p46"
         },
         {
-          "d": "+3"
+          "d": "+4"
         }
       ],
       "srcTitles": [
@@ -92,8 +92,65 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-09-22T16:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+      "s": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvem",
+      "b": [
+        "theverge.com: Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+        "techmeme.com: Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)"
+      ],
+      "body": [
+        "theverge.com: Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario [ ]",
+        "techmeme.com: Emma Roth / The Verge : Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's pace the frontier essay, and says it has enhanced safeguards to combat risky behavior Claude Opus 5.5 comes with improvements to certain behaviors, like attempting to escape testing environments."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/22/anthropic-releases-opus-5-5-with-lower-prices-and-fable-level-performance/"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYl82VnlnNDZ1ZElxSE9RMmlPZ29FSjVleTBLZG9SYzRxc0FXRXpWWmRqekhENWtKdXdNX2ZGOFdCcGZjZVFHMWc1a3hLcGRtZUNmaU5DMmlHbzZIX3hWbTlTWklXU3c5LXpuMjB6YUtNY1Z4RTBDTlZON1BlejZ3RUFR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic releases Opus 5.5 with lower prices and Fable-level performance",
+        "Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-09-22T21:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Better prompt caching for GPT-6",
+      "s": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "b": [
+        "openai.com: Better prompt caching for GPT-6"
+      ],
+      "body": [
+        "openai.com: Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+        }
+      ],
+      "srcTitles": [
+        "Better prompt caching for GPT-6"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 58,
+      "signal": 48,
       "sources": 13,
       "ts": "2026-09-22T14:10:50.000Z",
       "writtenSources": 13,
@@ -140,65 +197,33 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 57,
-      "sources": 2,
-      "ts": "2026-09-22T16:30:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-      "s": "Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvem",
-      "b": [
-        "theverge.com: Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-        "techmeme.com: Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)"
-      ],
-      "body": [
-        "theverge.com: Anthropic says its new Claude Opus 5.5 model comes with stronger safeguards in the wake of recent rogue AI hacking incidents. In an announcement on Tuesday, Anthropic says Opus 5.5 comes with improvements to certain risky behaviors, including attempts to escape the company's testing sandbox. It's the first model released by Anthropic after CEO Dario [ ]",
-        "techmeme.com: Emma Roth / The Verge : Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's pace the frontier essay, and says it has enhanced safeguards to combat risky behavior Claude Opus 5.5 comes with improvements to certain behaviors, like attempting to escape testing environments."
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/998868/anthropic-claude-opus-5-5-cybersecurity"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260922/p37#a260922p37"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
-        "Anthropic launches Claude Opus 5.5, its first model since Dario Amodei's \"pace the frontier\" essay, and says it has enhanced safeguards to combat risky behavior (Emma Roth/The Verge)"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 52,
+      "cat": "research",
+      "signal": 46,
       "sources": 1,
-      "ts": "2026-09-22T21:00:00.000Z",
+      "ts": "2026-09-22T12:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
-      "h": "Better prompt caching for GPT-6",
-      "s": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs.",
+      "h": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "s": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models.",
       "b": [
-        "openai.com: Better prompt caching for GPT-6"
+        "openai.com: Parallel cut research time and cost in half with GPT‑6 Astra"
       ],
       "body": [
-        "openai.com: Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs."
+        "openai.com: GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs. prior models."
       ],
       "l": [
         {
           "d": "openai.com",
-          "u": "https://openai.com/index/better-prompt-caching-for-gpt-6"
+          "u": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra"
         }
       ],
       "srcTitles": [
-        "Better prompt caching for GPT-6"
+        "Parallel cut research time and cost in half with GPT‑6 Astra"
       ]
     },
     {
       "cat": "policy",
-      "signal": 47,
+      "signal": 43,
       "sources": 2,
       "ts": "2026-09-22T15:21:14.000Z",
       "writtenSources": 2,
@@ -230,7 +255,7 @@
     },
     {
       "cat": "products",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-09-22T20:00:00.000Z",
       "writtenSources": 2,
@@ -262,7 +287,7 @@
     },
     {
       "cat": "models",
-      "signal": 39,
+      "signal": 35,
       "sources": 3,
       "ts": "2026-09-22T03:30:01.000Z",
       "writtenSources": 7,
@@ -302,7 +327,7 @@
     },
     {
       "cat": "models",
-      "signal": 34,
+      "signal": 30,
       "sources": 2,
       "ts": "2026-09-22T09:20:34.000Z",
       "writtenSources": 2,
@@ -384,7 +409,7 @@
     },
     {
       "cat": "models",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-09-22T10:01:52.000Z",
       "writtenSources": 2,
