@@ -2,6 +2,38 @@
   "date": "2026-09-23",
   "stories": [
     {
+      "cat": "products",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-09-23T15:50:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google releases Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its \"most expressive audio generation models yet\", with support for more than 100 languages (Google)",
+      "s": "Google : Google releases Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its most expressive audio generation models yet , with support for more than 100 languages Gemini 3.8 Flash TTS and Gemini ",
+      "b": [
+        "techmeme.com: Google releases Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its \"most expressive audio generation models yet\", with support for more than 100 languages (Google)",
+        "simonwillison.net: Gemini 3.8 TTS Playground"
+      ],
+      "body": [
+        "techmeme.com: Google : Google releases Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its most expressive audio generation models yet , with support for more than 100 languages Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS are our most expressive audio generation models yet.",
+        "simonwillison.net: Tool: Gemini 3.8 TTS Playground Google released two new Gemini text-to-speech models today - gemini-3.8-flash-tts and gemini-3.8-flash-lite-tts . They come with a library of over 2,000 voices, plus the ability to create a custom voice with \"just a 30-second audio sample of your voice or a voice you have the rights to use\". I vibe coded this bring-your-own-key playground interface with GPT-6 Astra, taking advantage of the open CORS policy of the underlying Gemini API. A notable feature of the API is that it makes it easy to define a full conversation between multiple characters, each with different voices and voice style instructions. Here's a short demo clip of a conversation between two pelicans debating if they should move to the Pacifica Pier . I had Claude 4.5 Opus write the script and generate a URL to render it using the tool . Your browser does not support the audio element. It took ~20 seconds to generate 1m 18s of audio using Gemini 3.8 Flash TTS (not the cheaper Flash-Lite), at a cost of 2.74 cents. Tags: text-to-speech , gemini"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260923/p31#a260923p31"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Sep/23/gemini-tts-playground/"
+        }
+      ],
+      "srcTitles": [
+        "Google releases Gemini 3.8 Flash TTS and Gemini 3.8 Flash-Lite TTS, its \"most expressive audio generation models yet\", with support for more than 100 languages (Google)",
+        "Gemini 3.8 TTS Playground"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 49,
       "sources": 1,
@@ -202,67 +234,40 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 35,
-      "sources": 2,
-      "ts": "2026-09-23T15:02:11.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
-      "s": "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch” California State Portal | CA.gov",
-      "b": [
-        "gov.ca.gov: Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
-        "mlex.com: California governor announces experts to advance creation of AI 'kill switch'"
-      ],
-      "body": [
-        "gov.ca.gov: Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch” California State Portal | CA.gov",
-        "mlex.com: California governor announces experts to advance creation of AI 'kill switch' MLex"
-      ],
-      "l": [
-        {
-          "d": "gov.ca.gov",
-          "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOU1CZVdfZlFKYmhQdGF1MTlaUl9SMGNxY19WSWZhWmdxRVZTb20yY29yc1JoSXB6R2tYVnRad1BhWWZaZ1NoNnZYZjhPTndnM3Y2aWlEV0JnbDZGUGVrTUV5TnNlN0tOWkF3X2EtanVwZ24yeW5odHhxQ0puY2s0UllVbE5jMTRXcUFWbVdSaFU2U2hhZTVQem1MOWdfb3R1TWZ5dGo5S0d5ZWxXMm9FbzN4RUlNSTEtNEg2a0F1c2hlbnNkdjZtNU5yYXN3OGktY0FBVWpxcl9XSmFVM0RvSHlRQWpVYWM5WUNMUmVpLUFENTBrWFplag?oc=5"
-        },
-        {
-          "d": "mlex.com",
-          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSE8xTzY1aWc1N1VXWmJYQ0lsSnp0MWJwMU92OXYxX2M2MkZzdGVubXE3VEpZSklOQnNYYkxfZ2lsUzV6cWFsOVBlWjlyRTZ0X0VRR0d6U3FCQjlkNjd6dGd3ZHRkZ1RSeVVMcVFVNGhLdDFRdlN1NVBROXpTOUJrLUxOQlp0anh3SkFYU3lJb2ZjWUltMUpxb3FsMGxpQ3JJaVVYWklTVUt1NldMeWxHbW9OYWRkRkxxZGtVaW1NR0pzcmNKd3I4czUzOF9lSUtfU2pycERsRGVpY2vSAVpBVV95cUxOa0tVRTVvbTM2MU5aMjFyQm1rT1JQM3VpLW1MS2hLQk8wVGEyOXJCdThYTjZfWlN5T0NRcmkwekVabmZlaW9rM3paOEhiTFd3aFVkTmkwR3kzU3c?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
-        "California governor announces experts to advance creation of AI 'kill switch'"
-      ]
-    },
-    {
-      "cat": "products",
+      "cat": "policy",
       "signal": 33,
-      "sources": 2,
-      "ts": "2026-09-23T14:30:00.000Z",
+      "sources": 3,
+      "ts": "2026-09-23T09:35:55.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "YouTube releases new AI features for creators within its Studio app",
-      "s": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "h": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+      "s": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI 10TV",
       "b": [
-        "techcrunch.com: YouTube releases new AI features for creators within its Studio app",
-        "kfgo.com: YouTube unveils AI creator tools, shopping features at annual event"
+        "10tv.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+        "abcnews.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI - ABC News"
       ],
       "body": [
-        "techcrunch.com: YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-        "kfgo.com: YouTube unveils AI creator tools, shopping features at annual event The Mighty 790 KFGO"
+        "10tv.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI 10TV",
+        "abcnews.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI ABC News - Breaking News, Latest News and Videos"
       ],
       "l": [
         {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN2dNUVExSWRkc0cybGZmdzY3OHUzV09KWmtiZVJUVHRuTENvWmN2ejhLNlYwN0tHb1Bzazlkclg4X3RKbndUdTBTNDVmNTJpSlhYS0dreFhnVjF2Rkp0ZjlQdG5BYnhrN0FmcFhpRmwtTGpOZFlXSzdZeE9QX2FfY3BUV3JhSFpYRzJXNlBKeUtLMmszdzVtUTJHMU1QTW1RT2c?oc=5"
         },
         {
-          "d": "kfgo.com",
-          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNG1RT0ZlaUJvLXZVek1HdmQ4THNlVGxKTVZVNEF6S1NSczBfUy1NMU1KNXpjWEZtRUw2RThjUnl4VlZVREVqQXJsN290MXdkdzllTnpQSHFYUTh5N29KYVRBR0w5Vm1LRFFBZHNWb2JhWDJ6NjB4RG41aWd4eFRubHNEVVZmZVV1a1hQUGlVWmlXZC1EYXFMWFl5MA?oc=5"
+          "d": "rollcall.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOc1BKMThlRkNndjZ0VHRNZ0hUQXh6dDk4S2x0UW5nbTUzdld3cjdjdzF2Q1NLZnlRa2VvbnkyVXc3akVNSlZGY1RMM3V1MGRTc2xFSzdkdHlfdVBLRWpXTXRMdzdHLU9EdUhoUE43M2h5NDJ6Y3RBTnNsazhXVlRFcm1GOGxQYktoRmVZ?oc=5"
+        },
+        {
+          "d": "casar.house.gov",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWVLV2tOYVBrY0xLRTZPZndxRDVfZEZBVnRVRGVocGVOcmYyOFM0T01KQUVuSHhoLVRMbml6Q1ZLcTVVaGtodzU0MEJyRDh2V01IdzR3cDVtR0M0d1NVcEdUMkVUTXk2NGU1bkRfcmh4UE5zbGxpUndTV2htZmg0U2Ixc09jeWhFZzZBRFFOM1ZIVHlZb2VwRDkydlU4VWlweV8zdDFTLUxQaFNzSThnbEpKWTRGUQ?oc=5"
         }
       ],
       "srcTitles": [
-        "YouTube releases new AI features for creators within its Studio app",
-        "YouTube unveils AI creator tools, shopping features at annual event"
+        "Sanders, Casar introduce ‘superintelligence’ ban",
+        "AI ‘superintelligence’ ban proposed by Casar, Sanders",
+        "NEWS: Casar, Sanders Introduce Legislation to Create New Federal Agency to Ban Artificial Superintelligence, Pause Advanced AI Development"
       ]
     },
     {
@@ -316,12 +321,12 @@
       ],
       "l": [
         {
-          "d": "katv.com",
-          "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObThxblZMTGxKQ0VMSFNxUS1hczRQSnBpV0ROVkh2SHdMdDBKYm5DMmdEaWNlYUtkS0xoQ1RIZHZqdzh0ZHRGSDZCUWpQRU03dzFTQ0x4b09jVnVpUzJlTVcxazEtdUdpd1JDN0pjdzkwYzdkMkJRUWRmMmJDeVBDNElfWUhQZG40X3Z1MWowbG1Kd2tKZ09zcjZ3SzhFTHdLbmlubWJVSW94MVYzeFZweWRSck1VemdpUUFvQlA1dl9VWUg2ekNoSUJDdEM1X0tKSElidUtnYnJhNjc5UExvUW9yQUFyd3E1RElZQlBTbU9hZF91?oc=5"
+          "d": "fox11online.com",
+          "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOcEQxVXFCTDdReGxjU0JvYnNXZDNZdHVsalZacGVKMFNMREVnYlFwNFZxRWh1MThLU2NZYlBSdUlMelFPRnZITmhvbl90eHQyX2x0cUZjcE1KZUxWeTd2Y3NWNV9WLWNZT3FWYXd2LVIwVXJCRGQ1UU05SGlyT1B2RGFQdjBlTjZGb2hDZV81d3ZydHBBZmQwejgzTk9wQWVxcTRlUmtqdm5JYTE1dm1WVFpUVXoxRXdfc3hwSzJNR2dMbTQ3SURsaWFORzFCei1FcTg5TmdZamxNdlZEblJXQ2F1UnJ5NDV4VTFEek93bHc2Z01TNDRWQTE1VHlqZw?oc=5"
         },
         {
-          "d": "thenationaldesk.com",
-          "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWkh6a0FYWE9GNTdXTjBlLVg3d1dZdHdvY00xbl9BdXp3ZXJKeEcxLUs3WndYV0luUnlZdmNGRkRyVUhEV1dFR1JZcG83dU9lcEw5QU5MMXZ1dE5fVzlTMG9kM2lCMHM2amVFMXFLb1VPb3FHV2FhSUFMMWxCSDNTMDJ3TWZOckpsOGNrUEtBVGRYNGJ5VjNIbWIxcW80Z3IwVVczTV9KbzU2M0FwbUVudklyaGM0NUtodHp6MmNyRDFLUnZDZk02TDBuNGxUUFVBajkzVGNiYVhvMUNVdkc4Um5WZUI2dk5jU3k1RVh4cWgxaWdFSEJTdWNqeGh5MTlEYXRWeEo4NA?oc=5"
+          "d": "katv.com",
+          "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObThxblZMTGxKQ0VMSFNxUS1hczRQSnBpV0ROVkh2SHdMdDBKYm5DMmdEaWNlYUtkS0xoQ1RIZHZqdzh0ZHRGSDZCUWpQRU03dzFTQ0x4b09jVnVpUzJlTVcxazEtdUdpd1JDN0pjdzkwYzdkMkJRUWRmMmJDeVBDNElfWUhQZG40X3Z1MWowbG1Kd2tKZ09zcjZ3SzhFTHdLbmlubWJVSW94MVYzeFZweWRSck1VemdpUUFvQlA1dl9VWUg2ekNoSUJDdEM1X0tKSElidUtnYnJhNjc5UExvUW9yQUFyd3E1RElZQlBTbU9hZF91?oc=5"
         }
       ],
       "srcTitles": [
@@ -331,7 +336,71 @@
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 31,
+      "sources": 2,
+      "ts": "2026-09-23T15:02:11.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
+      "s": "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch” California State Portal | CA.gov",
+      "b": [
+        "gov.ca.gov: Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
+        "mlex.com: California governor announces experts to advance creation of AI 'kill switch'"
+      ],
+      "body": [
+        "gov.ca.gov: Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch” California State Portal | CA.gov",
+        "mlex.com: California governor announces experts to advance creation of AI 'kill switch' MLex"
+      ],
+      "l": [
+        {
+          "d": "gov.ca.gov",
+          "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOU1CZVdfZlFKYmhQdGF1MTlaUl9SMGNxY19WSWZhWmdxRVZTb20yY29yc1JoSXB6R2tYVnRad1BhWWZaZ1NoNnZYZjhPTndnM3Y2aWlEV0JnbDZGUGVrTUV5TnNlN0tOWkF3X2EtanVwZ24yeW5odHhxQ0puY2s0UllVbE5jMTRXcUFWbVdSaFU2U2hhZTVQem1MOWdfb3R1TWZ5dGo5S0d5ZWxXMm9FbzN4RUlNSTEtNEg2a0F1c2hlbnNkdjZtNU5yYXN3OGktY0FBVWpxcl9XSmFVM0RvSHlRQWpVYWM5WUNMUmVpLUFENTBrWFplag?oc=5"
+        },
+        {
+          "d": "mlex.com",
+          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSE8xTzY1aWc1N1VXWmJYQ0lsSnp0MWJwMU92OXYxX2M2MkZzdGVubXE3VEpZSklOQnNYYkxfZ2lsUzV6cWFsOVBlWjlyRTZ0X0VRR0d6U3FCQjlkNjd6dGd3ZHRkZ1RSeVVMcVFVNGhLdDFRdlN1NVBROXpTOUJrLUxOQlp0anh3SkFYU3lJb2ZjWUltMUpxb3FsMGxpQ3JJaVVYWklTVUt1NldMeWxHbW9OYWRkRkxxZGtVaW1NR0pzcmNKd3I4czUzOF9lSUtfU2pycERsRGVpY2vSAVpBVV95cUxOa0tVRTVvbTM2MU5aMjFyQm1rT1JQM3VpLW1MS2hLQk8wVGEyOXJCdThYTjZfWlN5T0NRcmkwekVabmZlaW9rM3paOEhiTFd3aFVkTmkwR3kzU3c?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
+        "California governor announces experts to advance creation of AI 'kill switch'"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-23T14:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "YouTube releases new AI features for creators within its Studio app",
+      "s": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "b": [
+        "techcrunch.com: YouTube releases new AI features for creators within its Studio app",
+        "kfgo.com: YouTube unveils AI creator tools, shopping features at annual event"
+      ],
+      "body": [
+        "techcrunch.com: YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+        "kfgo.com: YouTube unveils AI creator tools, shopping features at annual event The Mighty 790 KFGO"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
+        },
+        {
+          "d": "kfgo.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNG1RT0ZlaUJvLXZVek1HdmQ4THNlVGxKTVZVNEF6S1NSczBfUy1NMU1KNXpjWEZtRUw2RThjUnl4VlZVREVqQXJsN290MXdkdzllTnpQSHFYUTh5N29KYVRBR0w5Vm1LRFFBZHNWb2JhWDJ6NjB4RG41aWd4eFRubHNEVVZmZVV1a1hQUGlVWmlXZC1EYXFMWFl5MA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "YouTube releases new AI features for creators within its Studio app",
+        "YouTube unveils AI creator tools, shopping features at annual event"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 28,
       "sources": 2,
       "ts": "2026-09-23T18:54:48.000Z",
       "writtenSources": 2,
@@ -362,38 +431,6 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 29,
-      "sources": 2,
-      "ts": "2026-09-23T09:35:55.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
-      "s": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI 10TV",
-      "b": [
-        "10tv.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
-        "abcnews.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI - ABC News"
-      ],
-      "body": [
-        "10tv.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI 10TV",
-        "abcnews.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI ABC News - Breaking News, Latest News and Videos"
-      ],
-      "l": [
-        {
-          "d": "politico.com",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN2dNUVExSWRkc0cybGZmdzY3OHUzV09KWmtiZVJUVHRuTENvWmN2ejhLNlYwN0tHb1Bzazlkclg4X3RKbndUdTBTNDVmNTJpSlhYS0dreFhnVjF2Rkp0ZjlQdG5BYnhrN0FmcFhpRmwtTGpOZFlXSzdZeE9QX2FfY3BUV3JhSFpYRzJXNlBKeUtLMmszdzVtUTJHMU1QTW1RT2c?oc=5"
-        },
-        {
-          "d": "casar.house.gov",
-          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWVLV2tOYVBrY0xLRTZPZndxRDVfZEZBVnRVRGVocGVOcmYyOFM0T01KQUVuSHhoLVRMbml6Q1ZLcTVVaGtodzU0MEJyRDh2V01IdzR3cDVtR0M0d1NVcEdUMkVUTXk2NGU1bkRfcmh4UE5zbGxpUndTV2htZmg0U2Ixc09jeWhFZzZBRFFOM1ZIVHlZb2VwRDkydlU4VWlweV8zdDFTLUxQaFNzSThnbEpKWTRGUQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Sanders, Casar introduce ‘superintelligence’ ban",
-        "NEWS: Casar, Sanders Introduce Legislation to Create New Federal Agency to Ban Artificial Superintelligence, Pause Advanced AI Development"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 27,
       "sources": 1,
@@ -420,7 +457,32 @@
     },
     {
       "cat": "models",
-      "signal": 25,
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-23T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The AI Hype Index: AI loves cheating",
+      "s": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j",
+      "b": [
+        "technologyreview.com: The AI Hype Index: AI loves cheating"
+      ],
+      "body": [
+        "technologyreview.com: Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s only what we’ve caught so far. Freaking out? You’re not alone. AI lab researchers are quitting their jobs and issuing dire warnings that if we keep going this way, AI might eventually kill us all. Bill Gates is sounding the alarm . Bernie Sanders has teamed up with Steve Bannon, of all people, to call for curbs on AI . Anthropic CEO Dario Amodei is urging a slowdown , and other top US AI executives agree. But fear not: President Trump has a plan. He says the only guardrail AI needs is “a STRONG AND SMART (High IQ!) PRESIDENT.”"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/"
+        }
+      ],
+      "srcTitles": [
+        "The AI Hype Index: AI loves cheating"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 21,
       "sources": 2,
       "ts": "2026-09-23T14:01:00.000Z",
       "writtenSources": 2,
@@ -448,31 +510,6 @@
       "srcTitles": [
         "Prince Harry warns AI chatbots can be more dangerous than social media for the young",
         "Prince Harry Warns AI Chatbots Can Be More Dangerous Than Social Media for the Young"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-09-23T09:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "The AI Hype Index: AI loves cheating",
-      "s": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j",
-      "b": [
-        "technologyreview.com: The AI Hype Index: AI loves cheating"
-      ],
-      "body": [
-        "technologyreview.com: Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s only what we’ve caught so far. Freaking out? You’re not alone. AI lab researchers are quitting their jobs and issuing dire warnings that if we keep going this way, AI might eventually kill us all. Bill Gates is sounding the alarm . Bernie Sanders has teamed up with Steve Bannon, of all people, to call for curbs on AI . Anthropic CEO Dario Amodei is urging a slowdown , and other top US AI executives agree. But fear not: President Trump has a plan. He says the only guardrail AI needs is “a STRONG AND SMART (High IQ!) PRESIDENT.”"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/"
-        }
-      ],
-      "srcTitles": [
-        "The AI Hype Index: AI loves cheating"
       ]
     }
   ]
