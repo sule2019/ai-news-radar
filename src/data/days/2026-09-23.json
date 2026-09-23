@@ -2,65 +2,33 @@
   "date": "2026-09-23",
   "stories": [
     {
-      "cat": "policy",
-      "signal": 60,
-      "sources": 2,
-      "ts": "2026-09-23T12:15:02.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "OpenAI extends cyber access to Ukraine for civilian defense",
-      "s": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-      "b": [
-        "openai.com: OpenAI extends cyber access to Ukraine for civilian defense",
-        "techmeme.com: OpenAI says it will give its AI cyber defense system Daybreak and GPT-5.6 Sol to the Ukrainian government for free to help it protect civilian infrastructure (Zoe Kleinman/BBC)"
-      ],
-      "body": [
-        "openai.com: OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
-        "techmeme.com: Zoe Kleinman / BBC : OpenAI says it will give its AI cyber defense system Daybreak and GPT-5.6 Sol to the Ukrainian government for free to help it protect civilian infrastructure The tech giant OpenAI will share its AI cyber defence system Daybreak for free with the Ukraine government to help"
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260923/p19#a260923p19"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI extends cyber access to Ukraine for civilian defense",
-        "OpenAI says it will give its AI cyber defense system Daybreak and GPT-5.6 Sol to the Ukrainian government for free to help it protect civilian infrastructure (Zoe Kleinman/BBC)"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 52,
+      "signal": 49,
       "sources": 1,
-      "ts": "2026-09-23T17:13:25.535Z",
+      "ts": "2026-09-23T18:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
-      "h": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
-      "s": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "h": "Google Beam expands with new regions, partners, and customers",
+      "s": "We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network.",
       "b": [
-        "openai.com: Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
+        "blog.google: Google Beam expands with new regions, partners, and customers"
       ],
       "body": [
-        "openai.com: Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
+        "blog.google: We’re expanding Google Beam to five new countries, and partnering with Industrious for an extended network."
       ],
       "l": [
         {
-          "d": "openai.com",
-          "u": "https://openai.com/index/ringg"
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/"
         }
       ],
       "srcTitles": [
-        "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
+        "Google Beam expands with new regions, partners, and customers"
       ]
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 49,
       "sources": 1,
       "ts": "2026-09-23T16:00:00.000Z",
       "writtenSources": 1,
@@ -85,7 +53,32 @@
     },
     {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-23T17:13:25.535Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "s": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "b": [
+        "openai.com: Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
+      ],
+      "body": [
+        "openai.com: Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/ringg"
+        }
+      ],
+      "srcTitles": [
+        "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
       "sources": 1,
       "ts": "2026-09-23T15:25:14.000Z",
       "writtenSources": 1,
@@ -104,6 +97,83 @@
       ],
       "srcTitles": [
         "Gemini 3.8 text-to-speech says hello"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-23T12:15:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "s": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "b": [
+        "openai.com: OpenAI extends cyber access to Ukraine for civilian defense",
+        "techmeme.com: OpenAI says it will give its AI cyber defense system Daybreak and GPT-5.6 Sol to the Ukrainian government for free to help it protect civilian infrastructure (Zoe Kleinman/BBC)"
+      ],
+      "body": [
+        "openai.com: OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+        "techmeme.com: Zoe Kleinman / BBC : OpenAI says it will give its AI cyber defense system Daybreak and GPT-5.6 Sol to the Ukrainian government for free to help it protect civilian infrastructure The tech giant OpenAI will share its AI cyber defence system Daybreak for free with the Ukraine government to help"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI extends cyber access to Ukraine for civilian defense"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-23T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "s": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy.",
+      "b": [
+        "openai.com: Harvey turns legal context into stronger drafts with GPT-6 Astra"
+      ],
+      "body": [
+        "openai.com: GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/harvey-from-context-to-confidence-with-astra"
+        }
+      ],
+      "srcTitles": [
+        "Harvey turns legal context into stronger drafts with GPT-6 Astra"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-23T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How invideo improves color grading 3x with GPT‑6 Astra",
+      "s": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day.",
+      "b": [
+        "openai.com: How invideo improves color grading 3x with GPT‑6 Astra"
+      ],
+      "body": [
+        "openai.com: With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/invideo-builds-with-gpt-6-astra"
+        }
+      ],
+      "srcTitles": [
+        "How invideo improves color grading 3x with GPT‑6 Astra"
       ]
     },
     {
@@ -133,7 +203,7 @@
     },
     {
       "cat": "models",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-09-23T15:02:11.000Z",
       "writtenSources": 2,
@@ -165,7 +235,7 @@
     },
     {
       "cat": "products",
-      "signal": 37,
+      "signal": 33,
       "sources": 2,
       "ts": "2026-09-23T14:30:00.000Z",
       "writtenSources": 2,
@@ -197,7 +267,135 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-23T19:54:14.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
+      "s": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity AP News",
+      "b": [
+        "apnews.com: Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
+        "seattletimes.com: Heads of AI firms tell UN Security Council that it could be a risk to all humanity"
+      ],
+      "body": [
+        "apnews.com: Heads of AI firms tell UN Security Council that it could be a risk to all humanity AP News",
+        "seattletimes.com: Heads of AI firms tell UN Security Council that it could be a risk to all humanity The Seattle Times"
+      ],
+      "l": [
+        {
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHBObE1ZM3ZSc0QwNURQWkZkS2tORVNRMHhNUUhvNjNZRjR4RHNIVWlyUE5qZV82WVowbEFFX2RhR09TeE5WMHQ4S3l0TkdZTjN3YWdvVUNfRUZYdTZVOW9jc3YtQlNHdWNjcFh4cl9jNlk4VDkxMlFJc18ybzlLN3B4NjZxZVB3cFNBTy1mSXlLVmZlbDRpdXd4WVljVEtaZGxkRHpIMTBSZw?oc=5"
+        },
+        {
+          "d": "seattletimes.com",
+          "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTEpINXpQNzg5dU90Tnl4RnRoUHVPTVljU2FNcHFyMUY0dzVEYnd0OFg3QkNra1dObWF0RHZTbVpGNGcxdk41Vl90NHpsUXd4SXlGMTNINE5wcjdnMk1rLXdKanVXM0lhWkhNalFnRHZXODg4bUZBNjB0VTM3LXp1b0N3TzlNcjZKdXN4Sl9oUDdtVFJfdTdFTzI3em1RSUxWZUI1SzRsNGQ2eG9VTWp0dzJ5WDdYaDVUR1hlZC1iYi1rdER3SDBRT3RidVI?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
+        "Heads of AI firms tell UN Security Council that it could be a risk to all humanity"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-23T19:52:04.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Fact Check Team: Trump and Xi expected to discuss trade, Iran, Taiwan and AI",
+      "s": "Fact Check Team: Trump and Xi expected to discuss trade, Iran, Taiwan and AI katv.com",
+      "b": [
+        "katv.com: Fact Check Team: Trump and Xi expected to discuss trade, Iran, Taiwan and AI",
+        "thenationaldesk.com: Fact Check Team: Trump and Xi expected to discuss trade, Iran, Taiwan and AI"
+      ],
+      "body": [
+        "katv.com: Fact Check Team: Trump and Xi expected to discuss trade, Iran, Taiwan and AI katv.com",
+        "thenationaldesk.com: Fact Check Team: Trump and Xi expected to discuss trade, Iran, Taiwan and AI National News Desk"
+      ],
+      "l": [
+        {
+          "d": "katv.com",
+          "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObThxblZMTGxKQ0VMSFNxUS1hczRQSnBpV0ROVkh2SHdMdDBKYm5DMmdEaWNlYUtkS0xoQ1RIZHZqdzh0ZHRGSDZCUWpQRU03dzFTQ0x4b09jVnVpUzJlTVcxazEtdUdpd1JDN0pjdzkwYzdkMkJRUWRmMmJDeVBDNElfWUhQZG40X3Z1MWowbG1Kd2tKZ09zcjZ3SzhFTHdLbmlubWJVSW94MVYzeFZweWRSck1VemdpUUFvQlA1dl9VWUg2ekNoSUJDdEM1X0tKSElidUtnYnJhNjc5UExvUW9yQUFyd3E1RElZQlBTbU9hZF91?oc=5"
+        },
+        {
+          "d": "thenationaldesk.com",
+          "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQWkh6a0FYWE9GNTdXTjBlLVg3d1dZdHdvY00xbl9BdXp3ZXJKeEcxLUs3WndYV0luUnlZdmNGRkRyVUhEV1dFR1JZcG83dU9lcEw5QU5MMXZ1dE5fVzlTMG9kM2lCMHM2amVFMXFLb1VPb3FHV2FhSUFMMWxCSDNTMDJ3TWZOckpsOGNrUEtBVGRYNGJ5VjNIbWIxcW80Z3IwVVczTV9KbzU2M0FwbUVudklyaGM0NUtodHp6MmNyRDFLUnZDZk02TDBuNGxUUFVBajkzVGNiYVhvMUNVdkc4Um5WZUI2dk5jU3k1RVh4cWgxaWdFSEJTdWNqeGh5MTlEYXRWeEo4NA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Fact Check Team: Trump and Xi expected to discuss trade, Iran, Taiwan and AI",
+        "Fact Check Team: Trump and Xi expected to discuss trade, Iran, Taiwan and AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-23T18:54:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda",
+      "s": "Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda KOMO",
+      "b": [
+        "komonews.com: Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda",
+        "abc6onyourside.com: Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda"
+      ],
+      "body": [
+        "komonews.com: Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda KOMO",
+        "abc6onyourside.com: Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda WSYX"
+      ],
+      "l": [
+        {
+          "d": "komonews.com",
+          "u": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPM3dDTi0wYVpCaW5vUkJuenlhaFRpOU02RTduOE14ZFVWX3VYbVh3YlBrbWJLUjE0VS1mU2JTSDhoVEthN3NELTU1VVdTdV83NDczZmcwNzV1MGE3YkQyZUZqWGJqT1p0S3FTanlRX2VrYUI2TEhpX2tfcDE2M2JVQUZvSldvWTg3bWRuTFB6Y0g2cV80YjFZeU05X3NIV2JFZGx1dkZnX2kwWkVnNGxidGlIeUNaZVBPa3YxY1c2c3lVY1ZmbjFlUWRpZ09vVUZxTGFmMkE5LTFuRHQ3UHZxVm5RVEdWakp5X2FIZWl0NmRwaUFpZXJQTTNMamdrcXFqbnFrX21TVmthY3pjUkFKSTd4NkRuSmpjcUxYcVUwcW1IRGluWlpmZ0pkYXd6ZUlHSVNZVjBvSXppTVJSSzdweC1ZdXJlN05YV0FXSXlnTnhUWkVqWVhZ?oc=5"
+        },
+        {
+          "d": "abc6onyourside.com",
+          "u": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOS095Wm43bTZFeFUwbFRFVnBJRkE0N3VsZzVFeGROZVJjcjRXQkh1VVdUQVREWENqUWFoeW0wekhhSWwwQUdMS18xQkt0dW55bVliMi1nWHNhUmVBb1g5TmxBSVpGUUNsTnpjNFNERVo4MnpaWWRhU2MweTlHZGZ4MURadkttNjBMLUFZSnBfa3BydDN2ZnhxaENXLW82eVpJNFdfcjdQZl9xN0R4WHA1NDk4RVdfcUFsT09DUndKOWktZFNNRzItc0ZVd0pFeENZQXA4Vmhwb1FiSkJad0k4RF93TzNiWlN3dkNNUWd2alBocDYxaWxoTDBpSWpFWG1kZ0VNUC03TGpEcUFsSk5pTzdmVjdYTU5yQ2ZaVDFQUmpqcmVkSGVXREI4OXdwNmhXNzBqTmNfU2F6RFJubzJfMkw2ZzQ3RGpyODhKUTBidXJ3Si1zWk1mcWk4Y1lxdHNuME5tN240SGc4TW16ZlI3ekQzZzJ1eTF0aWhjcw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda",
+        "Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-23T09:35:55.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+      "s": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI 10TV",
+      "b": [
+        "10tv.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+        "abcnews.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI - ABC News"
+      ],
+      "body": [
+        "10tv.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI 10TV",
+        "abcnews.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI ABC News - Breaking News, Latest News and Videos"
+      ],
+      "l": [
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN2dNUVExSWRkc0cybGZmdzY3OHUzV09KWmtiZVJUVHRuTENvWmN2ejhLNlYwN0tHb1Bzazlkclg4X3RKbndUdTBTNDVmNTJpSlhYS0dreFhnVjF2Rkp0ZjlQdG5BYnhrN0FmcFhpRmwtTGpOZFlXSzdZeE9QX2FfY3BUV3JhSFpYRzJXNlBKeUtLMmszdzVtUTJHMU1QTW1RT2c?oc=5"
+        },
+        {
+          "d": "casar.house.gov",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPdWVLV2tOYVBrY0xLRTZPZndxRDVfZEZBVnRVRGVocGVOcmYyOFM0T01KQUVuSHhoLVRMbml6Q1ZLcTVVaGtodzU0MEJyRDh2V01IdzR3cDVtR0M0d1NVcEdUMkVUTXk2NGU1bkRfcmh4UE5zbGxpUndTV2htZmg0U2Ixc09jeWhFZzZBRFFOM1ZIVHlZb2VwRDkydlU4VWlweV8zdDFTLUxQaFNzSThnbEpKWTRGUQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sanders, Casar introduce ‘superintelligence’ ban",
+        "NEWS: Casar, Sanders Introduce Legislation to Create New Federal Agency to Ban Artificial Superintelligence, Pause Advanced AI Development"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
       "sources": 1,
       "ts": "2026-09-23T16:00:57.000Z",
       "writtenSources": 1,
@@ -222,7 +420,7 @@
     },
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 25,
       "sources": 2,
       "ts": "2026-09-23T14:01:00.000Z",
       "writtenSources": 2,
@@ -253,35 +451,28 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 21,
-      "sources": 2,
-      "ts": "2026-09-23T09:35:55.000Z",
-      "writtenSources": 2,
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-23T09:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
-      "s": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI 10TV",
+      "h": "The AI Hype Index: AI loves cheating",
+      "s": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or j",
       "b": [
-        "10tv.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
-        "abcnews.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI - ABC News"
+        "technologyreview.com: The AI Hype Index: AI loves cheating"
       ],
       "body": [
-        "10tv.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI 10TV",
-        "abcnews.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI ABC News - Breaking News, Latest News and Videos"
+        "technologyreview.com: Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into other companies’ systems four times already. And that’s only what we’ve caught so far. Freaking out? You’re not alone. AI lab researchers are quitting their jobs and issuing dire warnings that if we keep going this way, AI might eventually kill us all. Bill Gates is sounding the alarm . Bernie Sanders has teamed up with Steve Bannon, of all people, to call for curbs on AI . Anthropic CEO Dario Amodei is urging a slowdown , and other top US AI executives agree. But fear not: President Trump has a plan. He says the only guardrail AI needs is “a STRONG AND SMART (High IQ!) PRESIDENT.”"
       ],
       "l": [
         {
-          "d": "10tv.com",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbmJVVEpNLS1pVTZFd1F2TzcwN2hwR2Utblo4cXBxaEdzcjVnaFRjOUVWZ2JMcVFkcjBKS3VfZENUQjhSVEp5eWktYmtnQXNOdFhtM1BqWGJoclFUbnA0MDFtYS0tUUdZNlJkZEhzblR3TlV4UjNnSUJMVlFzN1RLd1hPTlVyZ24zbjNDalBaQkgya1pTcWF0d3czM0NTaVVSWGZNa0JENDlBdDBxTUExUW44ZV8?oc=5"
-        },
-        {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3lYcDJJTVZBbnU3VFdXUDJZOFF3UjJpdTVudHNHUEgzb21mRG5QSHA1LVdnWk1Lem90VGhmTUtwVTExVTBLWDUxaERkUnU1QTNSWGJ4TWJLOGxsa3F5U2hUbkdIV1R0em9VeEV1Rko5dXd3SktFSWxiMEpZWjR5OW4wQVVRdzN3TXA5SzJodmVjd2g4WUhVdWpnU1g5ZmZtekFmUzFaNWQ4dkpiNlFXSzM5MFVTd9IBuwFBVV95cUxPTHZiRWxZVUFxdkk4WWR5aE03SXVXQndtZFlxSFJ0SUs2bFpWOXpaZ19BNTB5aFNHNGF1eHJEX3RKZldxZF95M29saExWb19ydFBad1p4TkduaE5fNjZCWEg0eExfcktrNjBuaU9ha0pxb0dGUXNlanU0ZUlNWlhKU0lPQTFra3dlWmxGVjRrcTZiSWVjZEotWUJMdkNWSzQyMVk4cmItTFo1ckFPLW1sM3AzX0dfQ09MaXMw?oc=5"
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/"
         }
       ],
       "srcTitles": [
-        "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
-        "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI - ABC News"
+        "The AI Hype Index: AI loves cheating"
       ]
     }
   ]
