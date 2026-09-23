@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 63,
+      "signal": 60,
       "sources": 2,
       "ts": "2026-09-23T12:15:02.000Z",
       "writtenSources": 2,
@@ -85,7 +85,7 @@
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 49,
       "sources": 1,
       "ts": "2026-09-23T15:25:14.000Z",
       "writtenSources": 1,
@@ -98,8 +98,8 @@
       "body": [],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/"
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/say-hello-to-gemini-38-text-to-speech/"
         }
       ],
       "srcTitles": [
@@ -129,6 +129,38 @@
       ],
       "srcTitles": [
         "Grab and OpenAI bring practical AI skills to Southeast Asia"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-09-23T15:02:11.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
+      "s": "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch” California State Portal | CA.gov",
+      "b": [
+        "gov.ca.gov: Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
+        "mlex.com: California governor announces experts to advance creation of AI 'kill switch'"
+      ],
+      "body": [
+        "gov.ca.gov: Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch” California State Portal | CA.gov",
+        "mlex.com: California governor announces experts to advance creation of AI 'kill switch' MLex"
+      ],
+      "l": [
+        {
+          "d": "gov.ca.gov",
+          "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOU1CZVdfZlFKYmhQdGF1MTlaUl9SMGNxY19WSWZhWmdxRVZTb20yY29yc1JoSXB6R2tYVnRad1BhWWZaZ1NoNnZYZjhPTndnM3Y2aWlEV0JnbDZGUGVrTUV5TnNlN0tOWkF3X2EtanVwZ24yeW5odHhxQ0puY2s0UllVbE5jMTRXcUFWbVdSaFU2U2hhZTVQem1MOWdfb3R1TWZ5dGo5S0d5ZWxXMm9FbzN4RUlNSTEtNEg2a0F1c2hlbnNkdjZtNU5yYXN3OGktY0FBVWpxcl9XSmFVM0RvSHlRQWpVYWM5WUNMUmVpLUFENTBrWFplag?oc=5"
+        },
+        {
+          "d": "mlex.com",
+          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSE8xTzY1aWc1N1VXWmJYQ0lsSnp0MWJwMU92OXYxX2M2MkZzdGVubXE3VEpZSklOQnNYYkxfZ2lsUzV6cWFsOVBlWjlyRTZ0X0VRR0d6U3FCQjlkNjd6dGd3ZHRkZ1RSeVVMcVFVNGhLdDFRdlN1NVBROXpTOUJrLUxOQlp0anh3SkFYU3lJb2ZjWUltMUpxb3FsMGxpQ3JJaVVYWklTVUt1NldMeWxHbW9OYWRkRkxxZGtVaW1NR0pzcmNKd3I4czUzOF9lSUtfU2pycERsRGVpY2vSAVpBVV95cUxOa0tVRTVvbTM2MU5aMjFyQm1rT1JQM3VpLW1MS2hLQk8wVGEyOXJCdThYTjZfWlN5T0NRcmkwekVabmZlaW9rM3paOEhiTFd3aFVkTmkwR3kzU3c?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
+        "California governor announces experts to advance creation of AI 'kill switch'"
       ]
     },
     {
@@ -189,8 +221,40 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-23T14:01:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Prince Harry warns AI chatbots can be more dangerous than social media for the young",
+      "s": "Prince Harry warns AI chatbots can be more dangerous than social media for the young Boston Herald",
+      "b": [
+        "bostonherald.com: Prince Harry warns AI chatbots can be more dangerous than social media for the young",
+        "usnews.com: Prince Harry Warns AI Chatbots Can Be More Dangerous Than Social Media for the Young"
+      ],
+      "body": [
+        "bostonherald.com: Prince Harry warns AI chatbots can be more dangerous than social media for the young Boston Herald",
+        "usnews.com: Prince Harry Warns AI Chatbots Can Be More Dangerous Than Social Media for the Young U.S. News & World Report"
+      ],
+      "l": [
+        {
+          "d": "bostonherald.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbHpMQU16cHNlWHdjVUg3UnRpd1R3SzQxOUsxQkZrUU95aGZjYW9LLUd4UFpkOHNMQ3lvNnRuQXlwOVJiV2xVZFJLbk1WeFdXQkhXaGdaQ05UZzEyNXI5alZ4cnE5TE9udXpwajNvVklCMWpNcnhuZnZfeUVibHp4QjFkQUE?oc=5"
+        },
+        {
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUHViTmNmUkJHMzFjSHBOYXpxRE5ERkRPaW1SLWFnX1R2QmFNalBZa2xxclNsdWx4MFdIUVdGY0YxaUgtTUNqM1hkTXlTRGF6V19TQ2JQRTRnS1BnazBWTEJRcEV1aUoxVmdtemwzNXF0dGp4YjFLYURzX0pwT3hXaGEydmIwTUxzYy1oRkpJRjNROFhLdWdCbmduVTZ5RThZTGFuazc5SDZ2Z1NOMlVKZXlNWkU1d2dLRG1YNndJZGZyRTM3QVdtWDFuVWlpWUtvdlg0bUdSb3ZVZXc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Prince Harry warns AI chatbots can be more dangerous than social media for the young",
+        "Prince Harry Warns AI Chatbots Can Be More Dangerous Than Social Media for the Young"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 25,
+      "signal": 21,
       "sources": 2,
       "ts": "2026-09-23T09:35:55.000Z",
       "writtenSources": 2,
