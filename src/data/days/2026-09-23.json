@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 69,
-      "sources": 4,
+      "signal": 67,
+      "sources": 3,
       "ts": "2026-09-23T12:00:00.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -33,22 +33,81 @@
         {
           "d": "theguardian.com",
           "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40TGtvSHVVUE1jRnZNbWU2TG1lNmllWWc5NDhDLWVSenItS0JyMGcxY2hwaEVjLVZZeWZxNTFTLUhWZmwxSG9LM0U0VVViWXNyaHN3WFhkYnZwVlk2OFhHcExhOUViMzRHWml0RW0xUXk5aXNFMkppenMzUE9QRFk?oc=5"
-        },
-        {
-          "d": "news.un.org",
-          "u": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqVGZCZ3prNmhaQXp3bkxTeWlRWlpjYUkxV2V0UWJGTy01dTFZQ2NoLXlXQWtVQ3lySFJsZmNuMDRWMWZQbmhfUGpqN3VsbFlPZ1ltNl9HQQ?oc=5"
         }
       ],
       "srcTitles": [
         "Sam Altman’s remarks at the United Nations Security Council",
         "Sam Altman and Dario Amodei tell the UN Security Council that governments and industry should coordinate on AI safety standards and critical decisions (Bloomberg)",
-        "OpenAI’s Altman and Anthropic’s Amodei address UN security council",
-        "LIVE: OpenAI and Anthropic brief Security Council amid ‘real and imminent’ threat posed by runaway AI"
+        "OpenAI’s Altman and Anthropic’s Amodei address UN security council"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-09-23T21:15:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Australian PM Anthony Albanese says an OpenAI agent gained unauthorized access to a public-facing Medicare portal in June, accessing public and non-public files (The Age)",
+      "s": "The Age : Australian PM Anthony Albanese says an OpenAI agent gained unauthorized access to a public-facing Medicare portal in June, accessing public and non-public files Prime Minister Anthony Albane",
+      "b": [
+        "techmeme.com: Australian PM Anthony Albanese says an OpenAI agent gained unauthorized access to a public-facing Medicare portal in June, accessing public and non-public files (The Age)",
+        "bbc.com: OpenAI agent 'infiltrated' Australian government website, PM says"
+      ],
+      "body": [
+        "techmeme.com: The Age : Australian PM Anthony Albanese says an OpenAI agent gained unauthorized access to a public-facing Medicare portal in June, accessing public and non-public files Prime Minister Anthony Albanese has revealed that an artificial intelligence agent developed by OpenAI infiltrated",
+        "bbc.com: OpenAI agent 'infiltrated' Australian government website, PM says BBC"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260923/p38#a260923p38"
+        },
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kT2t4QWVHS3diRXpOWV90RFhEMTh5SWp0RU9TRFl1dmJENEtZMnJDWXNsdkNpSHd0MDQ5YzhCVDZBUzlrN00wUVY5Q2hMMUpyWlRVcW5NYnJXVDg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Australian PM Anthony Albanese says an OpenAI agent gained unauthorized access to a public-facing Medicare portal in June, accessing public and non-public files (The Age)",
+        "OpenAI agent 'infiltrated' Australian government website, PM says"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-09-23T19:32:50.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI, Anthropic CEOs at UN call for global cooperation on AI: 'We are at a crossroads' - ABC News",
+      "s": "OpenAI, Anthropic CEOs at UN call for global cooperation on AI: 'We are at a crossroads' ABC News - Breaking News, Latest News and Videos",
+      "b": [
+        "abcnews.com: OpenAI, Anthropic CEOs at UN call for global cooperation on AI: 'We are at a crossroads' - ABC News",
+        "yahoo.com: At UN, OpenAI's Altman calls 'for extreme care' in AI"
+      ],
+      "body": [
+        "abcnews.com: OpenAI, Anthropic CEOs at UN call for global cooperation on AI: 'We are at a crossroads' ABC News - Breaking News, Latest News and Videos",
+        "yahoo.com: At UN, OpenAI's Altman calls 'for extreme care' in AI Yahoo"
+      ],
+      "l": [
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbUc4amlnMXBwLUNfZ0MxQnRyeDV4dmt5dVFJdU13TXhIRFBmT2tpalJ0U2VqXzlBZUo2UmljOThwRS0wQUNwQk9oelN0MkpHQkkySUVSTXF0WEJYV0dsWUJOLVJtaXNaa2UzMUppM1FpM20wdnBEMzlqVTF1UFBjX1c0eFo0eTUwWGktMVBCdXdMcHBIMnoxNGZhbC1KZ1YzeUdpTllUVVRfQVHSAbABQVVfeXFMUE9GX3JBVGRfd3hhQVFsMXBqRHVvLUVRd2t6S0Q0cXhxbF9jVWtsS1JRS1JCZk05Q0o0aFJKRklIRnd2cFhTb2xfWWxIdV9hRjNGN0poQzk4Q1ZlR0c4U1lzZU45RHFhR3g1NGFud3dKZm85OWp3XzBFZEk4d0lBNkFFNzduNVBfMzB1ajIyRHRmQWZHQkR0ZnVQOGlpTFRSQXZ5dVR1TE02cVNNNGhNOVI?oc=5"
+        },
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNU5hc3l2YkY1LTNySVZVcTBkQnNoWDIyVXRyMFpPSFF6YklnT1QwQlNkSjZSd184MGhacEN4bTFxXzBNX0dBY1N5ZklOeXRtekFMLTltVDlPU2tZSGhKb0ZSUkZlamU4STliaG9yeHA5V1RuLXlsbXlSMkRINGppZVJoTFJMamZwZ1MwSlhOYzFLUQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI, Anthropic CEOs at UN call for global cooperation on AI: 'We are at a crossroads' - ABC News",
+        "At UN, OpenAI's Altman calls 'for extreme care' in AI"
       ]
     },
     {
       "cat": "products",
-      "signal": 55,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-09-23T15:50:02.000Z",
       "writtenSources": 2,
@@ -304,40 +363,48 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 36,
-      "sources": 3,
-      "ts": "2026-09-23T19:54:14.000Z",
+      "cat": "policy",
+      "signal": 34,
+      "sources": 5,
+      "ts": "2026-09-23T09:35:55.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
-      "s": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity AP News",
+      "h": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+      "s": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI 10TV",
       "b": [
-        "apnews.com: Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
-        "seattletimes.com: Heads of AI firms tell UN Security Council that it could be a risk to all humanity"
+        "10tv.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+        "abcnews.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI - ABC News"
       ],
       "body": [
-        "apnews.com: Heads of AI firms tell UN Security Council that it could be a risk to all humanity AP News",
-        "seattletimes.com: Heads of AI firms tell UN Security Council that it could be a risk to all humanity The Seattle Times"
+        "10tv.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI 10TV",
+        "abcnews.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI ABC News - Breaking News, Latest News and Videos"
       ],
       "l": [
         {
-          "d": "apnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHBObE1ZM3ZSc0QwNURQWkZkS2tORVNRMHhNUUhvNjNZRjR4RHNIVWlyUE5qZV82WVowbEFFX2RhR09TeE5WMHQ4S3l0TkdZTjN3YWdvVUNfRUZYdTZVOW9jc3YtQlNHdWNjcFh4cl9jNlk4VDkxMlFJc18ybzlLN3B4NjZxZVB3cFNBTy1mSXlLVmZlbDRpdXd4WVljVEtaZGxkRHpIMTBSZw?oc=5"
-        },
-        {
           "d": "pbs.org",
-          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDY3NVVfOWVmSUQzeGNOVzNINFZ5T014ZVVYV1RkZGVYdXdNMlZodnF6MUY5VUdnakx1YmFBbl93WW42alY5RDluc0FrTlgyMU8xN3pXMC1YckxKenhPN1R2c0d3Y003ZllNaWhsUTVRdTJYaF9hbS1CMWRPMW9tenlHdHYwSzJwTUVHMnNXeDNOaVhUbXAzS2tZc2ZUc2FjUUlMcVhaeTVoUVpLNV9sNk53dFc4UdIBuwFBVV95cUxQRFFnS1M5WENMU2FQMVpQczNnQng4bXJCNnkybEVYTkQyWnhVYm8xY1hwX2hJNlVsOVlLSUdleUtIUUUwT1VhVHFNUFdvcERpbHhoY2F1SmgteTVxZHNIQU91am52dFF6VVIyTGhuTTdYRjFNTEhoNnJnYjQ1dDJHVXpEVk5MRkJnWWF6dVNqWlIzdUFIaXhfSnhDMUhEVGZCbUJkeFh5cmxrd2Z0QWZEY0ZCZ1AwMEZUNWdN?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVVhVHJiZGpsVUVGU0JPSFEwOW1PS2lGM3FjVjRnZmVQMVQ3SjBjbEEzNGdyaTFMUXZOaTQ4bkhDb1pSUE5SbnBNejFZUFlaTzE0SkFfdEZXUkJ5WFRrQ3JwT0NjanFDbmM5WF9lWURqb2R4MUFVZGMtRmFfU1pmVGg1Ynl5a2FJVzJENFNOTEt4Uk5XdDNyVURyRVA5VXRjVUFPRFdmanNlbEdWX04wUEx3S05iTTViWWVCdV9xLXNPdFpPcG1QQUhuRUdRUQ?oc=5"
         },
         {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5"
+          "d": "wptv.com",
+          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMVV2Z016WDR2RDAyVEV0UC1mTXVrRUlBenNiMnlwTW1mZUExUVdIZFg2UnhZN1o5RDBSNmoxV1FWVlVneGRyMDZDcE5XRXdNdlNzOGRoaVVudkZXYzhKNVlrQnFIRGQ5RDJrS1NQYnQ1VDhvNEk4eVVGdU5KT1R5dGUyX2VLOHZEZ2J1WUtTTzFXQXlIMndmNF9CX05BcjIwdWMzWDBLU2tMY0VlUEtuT05jUEk2YjBBdE52cnE5bUg0YXA1blAtcWFWZUxGUms2aDNUODFn?oc=5"
+        },
+        {
+          "d": "broadbandbreakfast.com",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN1ZQOHJtNldtX1NieUVvT0JqbHMyUTVkcHpWNHZNM1dpcnBzRlcyRmJid0FKMTFxSjdGVUZEX296Z3ZUWHNRS2VIYkRMM1JWNU50QWpNa2FST0NqZ0dGWldxWWE0RjZoVGY1R3FMRUxyeFVpaGVmV0xDODBHQkNfS0NteDFTYzdfY1BUYi1nZE8ycF9xOXVMMkZ1SUhzbU1YbUx5LWpLWURuZ0R3a1pWWXJQNU41YXViRUE?oc=5"
+        },
+        {
+          "d": "kjrh.com",
+          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPYTE1cTBYSHpzLWM4M2htQThXUlhMbHN1TnZaZkZYUlFvSm9pSHZxb3pVM3hLa2I5LVhuNzNob2JFVFFlcEZPSE9VbHFCLWNNS24ybkJiZ2lqcjVzeDNsd3VSSGF1UzY1WHhQY2dzR2pqTHZuVUJ0OURfMElkeFpuaEZiVDIwdWgtOEFiLUxsYXA3X0xGMFZ3UGVJaG03Z1U4WTUtbmVONTV0SnFPeHI3cXp4TXJublpObTBkZnZhdXl4NU5RRVhwV0oyNDdwdTFBLVBTaTZB?oc=5"
+        },
+        {
+          "d": "+1"
         }
       ],
       "srcTitles": [
-        "Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
-        "AI firm leaders tell UN Security Council that it could be a risk to all humanity",
-        "AI leaders warn UN of security risks as systems grow more powerful"
+        "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
+        "Sanders unveils bill to ban AI 'superintelligence' as tech CEOs urge U.N. to act",
+        "Bernie Sanders Unveils Bill to Ban Artificial Intelligence and Create Department of AI",
+        "Sanders unveils bill to ban AI 'superintelligence' as tech CEOs urge U.N. to act"
       ]
     },
     {
@@ -371,8 +438,44 @@
       ],
       "srcTitles": [
         "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison",
-        "Bernie Sanders and Greg Casar propose AI ‘superintelligence’ ban with a 20-year jail penalty",
-        "Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison"
+        "Bernie Sanders and Greg Casar propose AI ‘superintelligence’ ban with a 20-year jail penalty"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 33,
+      "sources": 3,
+      "ts": "2026-09-23T19:54:14.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
+      "s": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity AP News",
+      "b": [
+        "apnews.com: Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
+        "seattletimes.com: Heads of AI firms tell UN Security Council that it could be a risk to all humanity"
+      ],
+      "body": [
+        "apnews.com: Heads of AI firms tell UN Security Council that it could be a risk to all humanity AP News",
+        "seattletimes.com: Heads of AI firms tell UN Security Council that it could be a risk to all humanity The Seattle Times"
+      ],
+      "l": [
+        {
+          "d": "pbs.org",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDY3NVVfOWVmSUQzeGNOVzNINFZ5T014ZVVYV1RkZGVYdXdNMlZodnF6MUY5VUdnakx1YmFBbl93WW42alY5RDluc0FrTlgyMU8xN3pXMC1YckxKenhPN1R2c0d3Y003ZllNaWhsUTVRdTJYaF9hbS1CMWRPMW9tenlHdHYwSzJwTUVHMnNXeDNOaVhUbXAzS2tZc2ZUc2FjUUlMcVhaeTVoUVpLNV9sNk53dFc4UdIBuwFBVV95cUxQRFFnS1M5WENMU2FQMVpQczNnQng4bXJCNnkybEVYTkQyWnhVYm8xY1hwX2hJNlVsOVlLSUdleUtIUUUwT1VhVHFNUFdvcERpbHhoY2F1SmgteTVxZHNIQU91am52dFF6VVIyTGhuTTdYRjFNTEhoNnJnYjQ1dDJHVXpEVk5MRkJnWWF6dVNqWlIzdUFIaXhfSnhDMUhEVGZCbUJkeFh5cmxrd2Z0QWZEY0ZCZ1AwMEZUNWdN?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5"
+        },
+        {
+          "d": "seattlepi.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdFdoYV9vdm8xYnhOUTIxTnoxU05URWl5TXcxWXBhdWtHNVdtYkFSUFhUTG9JZ3JVc1J1b0FUa0RZaHlseHNYejRZaDZaVFowbGg4VEg1OXRveXQwal9MRnEyWUNnQVVCSHRwZ0NhQ2NYR0FOaUFGcWRoQklhNy1EbTAzZDBVT0RvTmprUEJrUDFrODZwbVpVX013?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI firm leaders tell UN Security Council that it could be a risk to all humanity",
+        "AI leaders warn UN of security risks as systems grow more powerful",
+        "Heads of AI firms tell UN Security Council that it could be a risk to all humanity"
       ]
     },
     {
@@ -416,44 +519,7 @@
     },
     {
       "cat": "policy",
-      "signal": 30,
-      "sources": 3,
-      "ts": "2026-09-23T09:35:55.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
-      "s": "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI 10TV",
-      "b": [
-        "10tv.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
-        "abcnews.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI - ABC News"
-      ],
-      "body": [
-        "10tv.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI 10TV",
-        "abcnews.com: Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI ABC News - Breaking News, Latest News and Videos"
-      ],
-      "l": [
-        {
-          "d": "pbs.org",
-          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNOVVhVHJiZGpsVUVGU0JPSFEwOW1PS2lGM3FjVjRnZmVQMVQ3SjBjbEEzNGdyaTFMUXZOaTQ4bkhDb1pSUE5SbnBNejFZUFlaTzE0SkFfdEZXUkJ5WFRrQ3JwT0NjanFDbmM5WF9lWURqb2R4MUFVZGMtRmFfU1pmVGg1Ynl5a2FJVzJENFNOTEt4Uk5XdDNyVURyRVA5VXRjVUFPRFdmanNlbEdWX04wUEx3S05iTTViWWVCdV9xLXNPdFpPcG1QQUhuRUdRUQ?oc=5"
-        },
-        {
-          "d": "broadbandbreakfast.com",
-          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQN1ZQOHJtNldtX1NieUVvT0JqbHMyUTVkcHpWNHZNM1dpcnBzRlcyRmJid0FKMTFxSjdGVUZEX296Z3ZUWHNRS2VIYkRMM1JWNU50QWpNa2FST0NqZ0dGWldxWWE0RjZoVGY1R3FMRUxyeFVpaGVmV0xDODBHQkNfS0NteDFTYzdfY1BUYi1nZE8ycF9xOXVMMkZ1SUhzbU1YbUx5LWpLWURuZ0R3a1pWWXJQNU41YXViRUE?oc=5"
-        },
-        {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3lYcDJJTVZBbnU3VFdXUDJZOFF3UjJpdTVudHNHUEgzb21mRG5QSHA1LVdnWk1Lem90VGhmTUtwVTExVTBLWDUxaERkUnU1QTNSWGJ4TWJLOGxsa3F5U2hUbkdIV1R0em9VeEV1Rko5dXd3SktFSWxiMEpZWjR5OW4wQVVRdzN3TXA5SzJodmVjd2g4WUhVdWpnU1g5ZmZtekFmUzFaNWQ4dkpiNlFXSzM5MFVTd9IBuwFBVV95cUxPTHZiRWxZVUFxdkk4WWR5aE03SXVXQndtZFlxSFJ0SUs2bFpWOXpaZ19BNTB5aFNHNGF1eHJEX3RKZldxZF95M29saExWb19ydFBad1p4TkduaE5fNjZCWEg0eExfcktrNjBuaU9ha0pxb0dGUXNlanU0ZUlNWlhKU0lPQTFra3dlWmxGVjRrcTZiSWVjZEotWUJMdkNWSzQyMVk4cmItTFo1ckFPLW1sM3AzX0dfQ09MaXMw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI",
-        "Bernie Sanders Unveils Bill to Ban Artificial Intelligence and Create Department of AI",
-        "Sen. Bernie Sanders unveils bill to ban artificial superintelligence and create Department of AI - ABC News"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 28,
+      "signal": 24,
       "sources": 2,
       "ts": "2026-09-23T19:52:04.000Z",
       "writtenSources": 2,
@@ -481,102 +547,6 @@
       "srcTitles": [
         "Fact Check Team: Trump and Xi expected to discuss trade, Iran, Taiwan and AI",
         "Fact Check Team: Trump and Xi expected to discuss trade, Iran, Taiwan and AI"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 2,
-      "ts": "2026-09-23T15:02:11.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
-      "s": "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch” California State Portal | CA.gov",
-      "b": [
-        "gov.ca.gov: Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
-        "mlex.com: California governor announces experts to advance creation of AI 'kill switch'"
-      ],
-      "body": [
-        "gov.ca.gov: Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch” California State Portal | CA.gov",
-        "mlex.com: California governor announces experts to advance creation of AI 'kill switch' MLex"
-      ],
-      "l": [
-        {
-          "d": "gov.ca.gov",
-          "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOU1CZVdfZlFKYmhQdGF1MTlaUl9SMGNxY19WSWZhWmdxRVZTb20yY29yc1JoSXB6R2tYVnRad1BhWWZaZ1NoNnZYZjhPTndnM3Y2aWlEV0JnbDZGUGVrTUV5TnNlN0tOWkF3X2EtanVwZ24yeW5odHhxQ0puY2s0UllVbE5jMTRXcUFWbVdSaFU2U2hhZTVQem1MOWdfb3R1TWZ5dGo5S0d5ZWxXMm9FbzN4RUlNSTEtNEg2a0F1c2hlbnNkdjZtNU5yYXN3OGktY0FBVWpxcl9XSmFVM0RvSHlRQWpVYWM5WUNMUmVpLUFENTBrWFplag?oc=5"
-        },
-        {
-          "d": "mlex.com",
-          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSE8xTzY1aWc1N1VXWmJYQ0lsSnp0MWJwMU92OXYxX2M2MkZzdGVubXE3VEpZSklOQnNYYkxfZ2lsUzV6cWFsOVBlWjlyRTZ0X0VRR0d6U3FCQjlkNjd6dGd3ZHRkZ1RSeVVMcVFVNGhLdDFRdlN1NVBROXpTOUJrLUxOQlp0anh3SkFYU3lJb2ZjWUltMUpxb3FsMGxpQ3JJaVVYWklTVUt1NldMeWxHbW9OYWRkRkxxZGtVaW1NR0pzcmNKd3I4czUzOF9lSUtfU2pycERsRGVpY2vSAVpBVV95cUxOa0tVRTVvbTM2MU5aMjFyQm1rT1JQM3VpLW1MS2hLQk8wVGEyOXJCdThYTjZfWlN5T0NRcmkwekVabmZlaW9rM3paOEhiTFd3aFVkTmkwR3kzU3c?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
-        "California governor announces experts to advance creation of AI 'kill switch'"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 25,
-      "sources": 2,
-      "ts": "2026-09-23T14:30:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "YouTube releases new AI features for creators within its Studio app",
-      "s": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-      "b": [
-        "techcrunch.com: YouTube releases new AI features for creators within its Studio app",
-        "kfgo.com: YouTube unveils AI creator tools, shopping features at annual event"
-      ],
-      "body": [
-        "techcrunch.com: YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
-        "kfgo.com: YouTube unveils AI creator tools, shopping features at annual event The Mighty 790 KFGO"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
-        },
-        {
-          "d": "kfgo.com",
-          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNG1RT0ZlaUJvLXZVek1HdmQ4THNlVGxKTVZVNEF6S1NSczBfUy1NMU1KNXpjWEZtRUw2RThjUnl4VlZVREVqQXJsN290MXdkdzllTnpQSHFYUTh5N29KYVRBR0w5Vm1LRFFBZHNWb2JhWDJ6NjB4RG41aWd4eFRubHNEVVZmZVV1a1hQUGlVWmlXZC1EYXFMWFl5MA?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "YouTube releases new AI features for creators within its Studio app",
-        "YouTube unveils AI creator tools, shopping features at annual event"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 2,
-      "ts": "2026-09-23T18:54:48.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda",
-      "s": "Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda KOMO",
-      "b": [
-        "komonews.com: Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda",
-        "abc6onyourside.com: Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda"
-      ],
-      "body": [
-        "komonews.com: Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda KOMO",
-        "abc6onyourside.com: Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda WSYX"
-      ],
-      "l": [
-        {
-          "d": "komonews.com",
-          "u": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPM3dDTi0wYVpCaW5vUkJuenlhaFRpOU02RTduOE14ZFVWX3VYbVh3YlBrbWJLUjE0VS1mU2JTSDhoVEthN3NELTU1VVdTdV83NDczZmcwNzV1MGE3YkQyZUZqWGJqT1p0S3FTanlRX2VrYUI2TEhpX2tfcDE2M2JVQUZvSldvWTg3bWRuTFB6Y0g2cV80YjFZeU05X3NIV2JFZGx1dkZnX2kwWkVnNGxidGlIeUNaZVBPa3YxY1c2c3lVY1ZmbjFlUWRpZ09vVUZxTGFmMkE5LTFuRHQ3UHZxVm5RVEdWakp5X2FIZWl0NmRwaUFpZXJQTTNMamdrcXFqbnFrX21TVmthY3pjUkFKSTd4NkRuSmpjcUxYcVUwcW1IRGluWlpmZ0pkYXd6ZUlHSVNZVjBvSXppTVJSSzdweC1ZdXJlN05YV0FXSXlnTnhUWkVqWVhZ?oc=5"
-        },
-        {
-          "d": "abc6onyourside.com",
-          "u": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOS095Wm43bTZFeFUwbFRFVnBJRkE0N3VsZzVFeGROZVJjcjRXQkh1VVdUQVREWENqUWFoeW0wekhhSWwwQUdMS18xQkt0dW55bVliMi1nWHNhUmVBb1g5TmxBSVpGUUNsTnpjNFNERVo4MnpaWWRhU2MweTlHZGZ4MURadkttNjBMLUFZSnBfa3BydDN2ZnhxaENXLW82eVpJNFdfcjdQZl9xN0R4WHA1NDk4RVdfcUFsT09DUndKOWktZFNNRzItc0ZVd0pFeENZQXA4Vmhwb1FiSkJad0k4RF93TzNiWlN3dkNNUWd2alBocDYxaWxoTDBpSWpFWG1kZ0VNUC03TGpEcUFsSk5pTzdmVjdYTU5yQ2ZaVDFQUmpqcmVkSGVXREI4OXdwNmhXNzBqTmNfU2F6RFJubzJfMkw2ZzQ3RGpyODhKUTBidXJ3Si1zWk1mcWk4Y1lxdHNuME5tN240SGc4TW16ZlI3ekQzZzJ1eTF0aWhjcw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda",
-        "Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda"
       ]
     },
     {
@@ -631,7 +601,103 @@
     },
     {
       "cat": "models",
-      "signal": 17,
+      "signal": 23,
+      "sources": 2,
+      "ts": "2026-09-23T15:02:11.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
+      "s": "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch” California State Portal | CA.gov",
+      "b": [
+        "gov.ca.gov: Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
+        "mlex.com: California governor announces experts to advance creation of AI 'kill switch'"
+      ],
+      "body": [
+        "gov.ca.gov: Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch” California State Portal | CA.gov",
+        "mlex.com: California governor announces experts to advance creation of AI 'kill switch' MLex"
+      ],
+      "l": [
+        {
+          "d": "gov.ca.gov",
+          "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOOU1CZVdfZlFKYmhQdGF1MTlaUl9SMGNxY19WSWZhWmdxRVZTb20yY29yc1JoSXB6R2tYVnRad1BhWWZaZ1NoNnZYZjhPTndnM3Y2aWlEV0JnbDZGUGVrTUV5TnNlN0tOWkF3X2EtanVwZ24yeW5odHhxQ0puY2s0UllVbE5jMTRXcUFWbVdSaFU2U2hhZTVQem1MOWdfb3R1TWZ5dGo5S0d5ZWxXMm9FbzN4RUlNSTEtNEg2a0F1c2hlbnNkdjZtNU5yYXN3OGktY0FBVWpxcl9XSmFVM0RvSHlRQWpVYWM5WUNMUmVpLUFENTBrWFplag?oc=5"
+        },
+        {
+          "d": "mlex.com",
+          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSE8xTzY1aWc1N1VXWmJYQ0lsSnp0MWJwMU92OXYxX2M2MkZzdGVubXE3VEpZSklOQnNYYkxfZ2lsUzV6cWFsOVBlWjlyRTZ0X0VRR0d6U3FCQjlkNjd6dGd3ZHRkZ1RSeVVMcVFVNGhLdDFRdlN1NVBROXpTOUJrLUxOQlp0anh3SkFYU3lJb2ZjWUltMUpxb3FsMGxpQ3JJaVVYWklTVUt1NldMeWxHbW9OYWRkRkxxZGtVaW1NR0pzcmNKd3I4czUzOF9lSUtfU2pycERsRGVpY2vSAVpBVV95cUxOa0tVRTVvbTM2MU5aMjFyQm1rT1JQM3VpLW1MS2hLQk8wVGEyOXJCdThYTjZfWlN5T0NRcmkwekVabmZlaW9rM3paOEhiTFd3aFVkTmkwR3kzU3c?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Governor Newsom announces world-leading experts to deliver on his AI executive order, including advancing creation of a “kill switch”",
+        "California governor announces experts to advance creation of AI 'kill switch'"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 21,
+      "sources": 2,
+      "ts": "2026-09-23T14:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "YouTube releases new AI features for creators within its Studio app",
+      "s": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "b": [
+        "techcrunch.com: YouTube releases new AI features for creators within its Studio app",
+        "kfgo.com: YouTube unveils AI creator tools, shopping features at annual event"
+      ],
+      "body": [
+        "techcrunch.com: YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+        "kfgo.com: YouTube unveils AI creator tools, shopping features at annual event The Mighty 790 KFGO"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
+        },
+        {
+          "d": "kfgo.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNG1RT0ZlaUJvLXZVek1HdmQ4THNlVGxKTVZVNEF6S1NSczBfUy1NMU1KNXpjWEZtRUw2RThjUnl4VlZVREVqQXJsN290MXdkdzllTnpQSHFYUTh5N29KYVRBR0w5Vm1LRFFBZHNWb2JhWDJ6NjB4RG41aWd4eFRubHNEVVZmZVV1a1hQUGlVWmlXZC1EYXFMWFl5MA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "YouTube releases new AI features for creators within its Studio app",
+        "YouTube unveils AI creator tools, shopping features at annual event"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 20,
+      "sources": 2,
+      "ts": "2026-09-23T18:54:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda",
+      "s": "Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda KOMO",
+      "b": [
+        "komonews.com: Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda",
+        "abc6onyourside.com: Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda"
+      ],
+      "body": [
+        "komonews.com: Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda KOMO",
+        "abc6onyourside.com: Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda WSYX"
+      ],
+      "l": [
+        {
+          "d": "komonews.com",
+          "u": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPM3dDTi0wYVpCaW5vUkJuenlhaFRpOU02RTduOE14ZFVWX3VYbVh3YlBrbWJLUjE0VS1mU2JTSDhoVEthN3NELTU1VVdTdV83NDczZmcwNzV1MGE3YkQyZUZqWGJqT1p0S3FTanlRX2VrYUI2TEhpX2tfcDE2M2JVQUZvSldvWTg3bWRuTFB6Y0g2cV80YjFZeU05X3NIV2JFZGx1dkZnX2kwWkVnNGxidGlIeUNaZVBPa3YxY1c2c3lVY1ZmbjFlUWRpZ09vVUZxTGFmMkE5LTFuRHQ3UHZxVm5RVEdWakp5X2FIZWl0NmRwaUFpZXJQTTNMamdrcXFqbnFrX21TVmthY3pjUkFKSTd4NkRuSmpjcUxYcVUwcW1IRGluWlpmZ0pkYXd6ZUlHSVNZVjBvSXppTVJSSzdweC1ZdXJlN05YV0FXSXlnTnhUWkVqWVhZ?oc=5"
+        },
+        {
+          "d": "abc6onyourside.com",
+          "u": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxOS095Wm43bTZFeFUwbFRFVnBJRkE0N3VsZzVFeGROZVJjcjRXQkh1VVdUQVREWENqUWFoeW0wekhhSWwwQUdMS18xQkt0dW55bVliMi1nWHNhUmVBb1g5TmxBSVpGUUNsTnpjNFNERVo4MnpaWWRhU2MweTlHZGZ4MURadkttNjBMLUFZSnBfa3BydDN2ZnhxaENXLW82eVpJNFdfcjdQZl9xN0R4WHA1NDk4RVdfcUFsT09DUndKOWktZFNNRzItc0ZVd0pFeENZQXA4Vmhwb1FiSkJad0k4RF93TzNiWlN3dkNNUWd2alBocDYxaWxoTDBpSWpFWG1kZ0VNUC03TGpEcUFsSk5pTzdmVjdYTU5yQ2ZaVDFQUmpqcmVkSGVXREI4OXdwNmhXNzBqTmNfU2F6RFJubzJfMkw2ZzQ3RGpyODhKUTBidXJ3Si1zWk1mcWk4Y1lxdHNuME5tN240SGc4TW16ZlI3ekQzZzJ1eTF0aWhjcw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda",
+        "Former WH adviser calls Trump-Xi talks a battle of superpowers as AI race tops agenda"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 15,
       "sources": 2,
       "ts": "2026-09-23T14:01:00.000Z",
       "writtenSources": 2,
