@@ -2,6 +2,38 @@
   "date": "2026-09-23",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 66,
+      "sources": 2,
+      "ts": "2026-09-23T12:15:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "s": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+      "b": [
+        "openai.com: OpenAI extends cyber access to Ukraine for civilian defense",
+        "techmeme.com: OpenAI says it will give its AI cyber defense system Daybreak and GPT-5.6 Sol to the Ukrainian government for free to help it protect civilian infrastructure (Zoe Kleinman/BBC)"
+      ],
+      "body": [
+        "openai.com: OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure.",
+        "techmeme.com: Zoe Kleinman / BBC : OpenAI says it will give its AI cyber defense system Daybreak and GPT-5.6 Sol to the Ukrainian government for free to help it protect civilian infrastructure The tech giant OpenAI will share its AI cyber defence system Daybreak for free with the Ukraine government to help"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260923/p19#a260923p19"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI extends cyber access to Ukraine for civilian defense",
+        "OpenAI says it will give its AI cyber defense system Daybreak and GPT-5.6 Sol to the Ukrainian government for free to help it protect civilian infrastructure (Zoe Kleinman/BBC)"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 46,
       "sources": 1,
