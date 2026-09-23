@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 66,
+      "signal": 63,
       "sources": 2,
       "ts": "2026-09-23T12:15:02.000Z",
       "writtenSources": 2,
@@ -35,6 +35,79 @@
     },
     {
       "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-09-23T17:13:25.535Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "s": "Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1.",
+      "b": [
+        "openai.com: Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
+      ],
+      "body": [
+        "openai.com: Using GPT-5.6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs. GPT-4.1."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/ringg"
+        }
+      ],
+      "srcTitles": [
+        "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-09-23T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Two years of OpenAI Academy",
+      "s": "Marking two years of OpenAI Academy and bringing AI skills to even more communities.",
+      "b": [
+        "openai.com: Two years of OpenAI Academy"
+      ],
+      "body": [
+        "openai.com: Marking two years of OpenAI Academy and bringing AI skills to even more communities."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/two-years-of-openai-academy"
+        }
+      ],
+      "srcTitles": [
+        "Two years of OpenAI Academy"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-09-23T15:25:14.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Gemini 3.8 text-to-speech says hello",
+      "s": "Covered by 1 outlet.",
+      "b": [
+        "blog.google: Gemini 3.8 text-to-speech says hello"
+      ],
+      "body": [],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-text-to-speech/"
+        }
+      ],
+      "srcTitles": [
+        "Gemini 3.8 text-to-speech says hello"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 46,
       "sources": 1,
       "ts": "2026-09-23T00:00:00.000Z",
@@ -59,8 +132,65 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-09-23T14:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "YouTube releases new AI features for creators within its Studio app",
+      "s": "YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+      "b": [
+        "techcrunch.com: YouTube releases new AI features for creators within its Studio app",
+        "kfgo.com: YouTube unveils AI creator tools, shopping features at annual event"
+      ],
+      "body": [
+        "techcrunch.com: YouTube is adding new features to generate ideas and monitor the performance of thumbnails.",
+        "kfgo.com: YouTube unveils AI creator tools, shopping features at annual event The Mighty 790 KFGO"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/23/youtube-releases-new-ai-features-for-creators-within-its-studio-app/"
+        },
+        {
+          "d": "kfgo.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNG1RT0ZlaUJvLXZVek1HdmQ4THNlVGxKTVZVNEF6S1NSczBfUy1NMU1KNXpjWEZtRUw2RThjUnl4VlZVREVqQXJsN290MXdkdzllTnpQSHFYUTh5N29KYVRBR0w5Vm1LRFFBZHNWb2JhWDJ6NjB4RG41aWd4eFRubHNEVVZmZVV1a1hQUGlVWmlXZC1EYXFMWFl5MA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "YouTube releases new AI features for creators within its Studio app",
+        "YouTube unveils AI creator tools, shopping features at annual event"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-09-23T16:00:57.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Advancing Private AI Compute with secure, server-side memory",
+      "s": "Introducing private, server-side memory to Private AI Compute for personal AI.",
+      "b": [
+        "deepmind.google: Advancing Private AI Compute with secure, server-side memory"
+      ],
+      "body": [
+        "deepmind.google: Introducing private, server-side memory to Private AI Compute for personal AI."
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/"
+        }
+      ],
+      "srcTitles": [
+        "Advancing Private AI Compute with secure, server-side memory"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 29,
+      "signal": 25,
       "sources": 2,
       "ts": "2026-09-23T09:35:55.000Z",
       "writtenSources": 2,
