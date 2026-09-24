@@ -2,9 +2,47 @@
   "date": "2026-09-24",
   "stories": [
     {
+      "cat": "products",
+      "signal": 69,
+      "sources": 3,
+      "ts": "2026-09-24T16:20:39.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Introducing Gemini 3.8 Live with Live Avatar",
+      "s": "Covered by 3 outlets.",
+      "b": [
+        "blog.google: Introducing Gemini 3.8 Live with Live Avatar",
+        "theverge.com: Gemini 3.8 Live with Live Avatar gives Google s AI a face",
+        "techmeme.com: Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers (Emma Roth/The Verge)"
+      ],
+      "body": [
+        "theverge.com: Google's new Gemini 3.8 Live update lets users have conversations with the model while watching an animated AI persona respond in real time. The \"Live Avatar\" will lip-sync and show different facial expressions during conversations, but it's currently only available to Gemini Enterprise customers. As noted by Google, Live Avatar can transition between the 97 [ ]",
+        "techmeme.com: Emma Roth / The Verge : Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers Google's Live Avatar can lip-sync and show different facial expressions. Google's new Gemini 3.8 Live update lets users"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1000328/google-gemini-ai-live-avatar-face"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260924/p46#a260924p46"
+        }
+      ],
+      "srcTitles": [
+        "Introducing Gemini 3.8 Live with Live Avatar",
+        "Gemini 3.8 Live with Live Avatar gives Google s AI a face",
+        "Google updates Gemini 3.8 Live with Live Avatar, an animated AI persona that lip-syncs and shows different facial expressions, for Gemini Enterprise customers (Emma Roth/The Verge)"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 77,
-      "sources": 4,
+      "signal": 67,
+      "sources": 3,
       "ts": "2026-09-24T16:00:00.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -33,49 +71,12 @@
         {
           "d": "wired.com",
           "u": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260924/p34#a260924p34"
         }
       ],
       "srcTitles": [
         "Google tests letting Gemini call businesses for you",
         "Gemini can now call businesses for you so you don’t have to wait on hold",
-        "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
-        "Google is testing Call for Me, which lets Gemini call businesses on behalf of users, initially for Pixel 11 users with a Gemini subscription in the US (Sarah Perez/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 59,
-      "sources": 2,
-      "ts": "2026-09-24T16:43:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
-      "s": "Politico : Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed The White House has asked OpenAI and Anthr",
-      "b": [
-        "techmeme.com: Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
-        "politico.com: White House asks OpenAI and Anthropic to hold new models from UK testers until US review"
-      ],
-      "body": [
-        "techmeme.com: Politico : Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed The White House has asked OpenAI and Anthropic not to share their new artificial intelligence models with the U.K. government's testing agency until",
-        "politico.com: White House asks OpenAI and Anthropic to hold new models from UK testers until US review Politico"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260924/p36#a260924p36"
-        },
-        {
-          "d": "politico.com",
-          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUlVRnFEdlRXN1Fta2xlNTFZc2p6UzAyYjU3N1hSTkdfZWpNMVlxdXN5M0syUVFMZ2NtNGY3bmtNa2ZZVDFaSGxXaGFENEZfTk9Ia1RtOFMzM25xY1JaemFiY2tsdTVob3YyQ0hXRUNfSjh2U19hZmdPbVp1amR3WUZoWDI3UVRXQWZvUGZXQUY5WmtHcU11eDBsQjFzV1NYRFpGT0dUX1YyMWpoSmhkcVJoOEhhLWU0UVJXYjF6VUlxeEFyTk9rNy1KVFN6cE1NS0pXNjhR?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
-        "White House asks OpenAI and Anthropic to hold new models from UK testers until US review"
+        "Google’s Gemini Can Now Make Calls for You on Pixel Phones"
       ]
     },
     {
@@ -105,12 +106,12 @@
           "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9adnRnMG1TNVNpWHZ6OHlGRW03cXJFTHNKV2JrQjBVYU9DNHRBLW9SaUh6TEZpeEFibENyc2Nab0RsQTVBb05Ka2NoUThCb3NDaVQwOVlYeTc2V25adkI0c19VX2RlOW5tVWVHNFdVeDBMelE?oc=5"
         },
         {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2609.25187"
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUkc2S1Zlc0pCdDl6NjZnTl9zNXZQZnZaNTF1d3lkazNqZkJCSFhLaHNXT1ZZcTNQeFdNdzJ1S1FNeVNuSDNPcmFfQUxMbzdHLWhBQVpTd1BiYXp6d1VoRUVwX2xqVWlQWHdDU0tHRDZyQTdVZzJXUUs4a2czZ1BlM0J0aFRLcm9nUDNDTW5rZndjQQ?oc=5"
         },
         {
-          "d": "apnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDBXSVlKYjVLV1hzNnphbmpRampOMGcxUDBCVDdfanV2QmNUWk5fTW5PMFJ1SzB1VUZUQ25GUG55YXgycE13eU5jSlNiUGk5MUZTSFhHQU9pSlJXX1g3Uk82QXc4YktHdVUycnF4OEplZWRyY2txSVZEQTBHMHU3VHhHSW9NUW9HdnUwelBYdHFFSWlhWnJyUVdTUWI4dE5IODNGY2NDZC0?oc=5"
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.25187"
         },
         {
           "d": "+47"
@@ -119,8 +120,40 @@
       "srcTitles": [
         "Sources: the NSA told lawmakers it is spending billions this year to test AI models; proposals for a US AI regulatory body estimated costs of $20M-$40M per year (Jeff Stein/The Washington Sun)",
         "The cost of intelligence?",
-        "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
-        "The Cost of Conservation: Coordination-Memory Laws for Exact-Support Generation"
+        "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher",
+        "X-Planner: Event-Structured Task Planning for Embodied Intelligence"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-09-24T16:43:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
+      "s": "Politico : Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed The White House has asked OpenAI and Anthr",
+      "b": [
+        "techmeme.com: Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
+        "politico.com: White House asks OpenAI and Anthropic to hold new models from UK testers until US review"
+      ],
+      "body": [
+        "techmeme.com: Politico : Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed The White House has asked OpenAI and Anthropic not to share their new artificial intelligence models with the U.K. government's testing agency until",
+        "politico.com: White House asks OpenAI and Anthropic to hold new models from UK testers until US review Politico"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260924/p36#a260924p36"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUlVRnFEdlRXN1Fta2xlNTFZc2p6UzAyYjU3N1hSTkdfZWpNMVlxdXN5M0syUVFMZ2NtNGY3bmtNa2ZZVDFaSGxXaGFENEZfTk9Ia1RtOFMzM25xY1JaemFiY2tsdTVob3YyQ0hXRUNfSjh2U19hZmdPbVp1amR3WUZoWDI3UVRXQWZvUGZXQUY5WmtHcU11eDBsQjFzV1NYRFpGT0dUX1YyMWpoSmhkcVJoOEhhLWU0UVJXYjF6VUlxeEFyTk9rNy1KVFN6cE1NS0pXNjhR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
+        "White House asks OpenAI and Anthropic to hold new models from UK testers until US review"
       ]
     },
     {
@@ -157,7 +190,7 @@
     },
     {
       "cat": "policy",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-09-24T00:42:00.000Z",
       "writtenSources": 2,
@@ -189,39 +222,39 @@
     },
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 32,
       "sources": 2,
-      "ts": "2026-09-24T11:06:08.000Z",
+      "ts": "2026-09-24T22:02:25.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?",
-      "s": "AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run? The Globe and Mail",
+      "h": "University of Oregon students weigh in on A.I. in academics",
+      "s": "University of Oregon students weigh in on A.I. in academics KVAL",
       "b": [
-        "theglobeandmail.com: AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?",
-        "fool.com: AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?"
+        "kval.com: University of Oregon students weigh in on A.I. in academics",
+        "nbc16.com: University of Oregon students weigh in on A.I. in academics"
       ],
       "body": [
-        "theglobeandmail.com: AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run? The Globe and Mail",
-        "fool.com: AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run? The Motley Fool"
+        "kval.com: University of Oregon students weigh in on A.I. in academics KVAL",
+        "nbc16.com: University of Oregon students weigh in on A.I. in academics KMTR"
       ],
       "l": [
         {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5"
+          "d": "kval.com",
+          "u": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORVY0cl9QSmNOeDBORDJsbVd1MFA0WksxT2ZMSUVkZERLeXBqSFJZM0xrOWYtdXZHRVFCaWhFM1hWOVVoNTlfd2NpUk1iWGhEc0hncFRZS1FYVFhSbjZmYzZNT3NvZm1XM01YLUMzTVJNekdiRjMyZk1TclB0aWtuRGFMckQydlNvcHVtNUluMm9JUXB2ek9BRExBeFJYMVZvRS0wdXBpSXlueDdVS1d2N1FCc2l2d0x4X19ZY0dMeVZjdmdPeTdJbkoyaVVRWHJTd3J3UEhQLUM0RThJNmtXUks1bkdNVnpBWnN3ZndMSQ?oc=5"
         },
         {
-          "d": "pbs.org",
-          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDY3NVVfOWVmSUQzeGNOVzNINFZ5T014ZVVYV1RkZGVYdXdNMlZodnF6MUY5VUdnakx1YmFBbl93WW42alY5RDluc0FrTlgyMU8xN3pXMC1YckxKenhPN1R2c0d3Y003ZllNaWhsUTVRdTJYaF9hbS1CMWRPMW9tenlHdHYwSzJwTUVHMnNXeDNOaVhUbXAzS2tZc2ZUc2FjUUlMcVhaeTVoUVpLNV9sNk53dFc4UdIBuwFBVV95cUxQRFFnS1M5WENMU2FQMVpQczNnQng4bXJCNnkybEVYTkQyWnhVYm8xY1hwX2hJNlVsOVlLSUdleUtIUUUwT1VhVHFNUFdvcERpbHhoY2F1SmgteTVxZHNIQU91am52dFF6VVIyTGhuTTdYRjFNTEhoNnJnYjQ1dDJHVXpEVk5MRkJnWWF6dVNqWlIzdUFIaXhfSnhDMUhEVGZCbUJkeFh5cmxrd2Z0QWZEY0ZCZ1AwMEZUNWdN?oc=5"
+          "d": "nbc16.com",
+          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOelA4UW9FRmFEeDYwd0lLeFQ5VkpMWmZIcmprLWJzbkhkUlZiNXNzQ29CV1N1NVI5UkIwX2hPWVIyZWN1Y21rMTdRejdSQkJ4MEJ6cUswR2RJRnkzeG1PX2xtc3BGaUZxSUJZZXNWc1JpOTdlUG95dHkxOGM2b0daRU5KaWppdm9ra01kc2N2cHVRNFZOQkVDVk9DYS1OMkwwYzR1N2pfMkpGUE1lRGs4aENYSVkzcGhGd2xqY3dBbmhUdTFucHFlZjJpUUFFX3d2RXVtQXNHM1BLTWwtXzZTMQ?oc=5"
         }
       ],
       "srcTitles": [
-        "AI leaders warn UN of security risks as systems grow more powerful",
-        "AI firm leaders tell UN Security Council that it could be a risk to all humanity"
+        "University of Oregon students weigh in on A.I. in academics",
+        "University of Oregon students weigh in on A.I. in academics"
       ]
     },
     {
       "cat": "research",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-09-24T04:00:00.000Z",
       "writtenSources": 2,
