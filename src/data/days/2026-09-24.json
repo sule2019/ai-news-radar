@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 54,
-      "sources": 2,
+      "signal": 76,
+      "sources": 48,
       "ts": "2026-09-24T11:06:08.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,148 +20,62 @@
       ],
       "l": [
         {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQNmlRU3gzWW1RZUdqYkkzMnloVEhqWE5OeG43Y3RjOFY4OVhkbVJXY0JIWGFvSTJhOFlrd3FURDZWZFd4eUswNWtpZ19WQ1RlZFo0RjVNOFVZMU1QWGlId014N0wxdEw4dDU2V09KZWVJY004d3Nib3hBLUFJLVF0SHdVRGZSMGNfZ3NSUkpRWm5KbVU1T0dqYWlkX2hlLUdGUWt4UVBsdkxLVjRQVFFlbUtaTnVIalp0R19xMzNaS3c5dk9XdDhRS1UyWnoyV0F1ekFCbl9pR0stdjVUZjNuWmQ5TmpkaUFYS2wxbHpWTl9IVzVU?oc=5"
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZUZJX1V6VHhqMi13UWVncGxhZEhQMW1IMHBPVk1fWEdObG1rcHF1cXlWTjNJVk54NVZjaGVrd2wxV3BBX1FvVWJNTEFkUnZQTHdPNlI3ZzYwNkE?oc=5"
+        },
+        {
+          "d": "cio.com",
+          "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9adnRnMG1TNVNpWHZ6OHlGRW03cXJFTHNKV2JrQjBVYU9DNHRBLW9SaUh6TEZpeEFibENyc2Nab0RsQTVBb05Ka2NoUThCb3NDaVQwOVlYeTc2V25adkI0c19VX2RlOW5tVWVHNFdVeDBMelE?oc=5"
         },
         {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc1ctM2dtTkJYeUpMTC1jZjY1VkxMMFNuU1ZCcGtDeDFMTEVOR3kwdFlodmN1RGpDMzRjYXpENTZya2RJSVNLYlFTOXY1Nk85OEltd01Idmhsc0dLd0pkUnVaTlA2b1BkMFN4eU0weUJXT2NYZnE5R1A2VnZfRlhrcUNDVWpuUjMzU3gzY2s2bWhJT2hPa3FsSUZ1T2lPR1lDLXItUXRXU3JiTFAzNmlCMi1POUhNTmhPdGRlNg?oc=5"
+        },
+        {
+          "d": "waff.com",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPczM0dVljamxiZnBiU1VjWVdxWkM0MWFZenJvQlNEZTk0ZE9sTEw3aXI5Q0hWcEs5blJDMmxBSThIMEdMYnJuZFdvc2lMNjRmczNxWC1tQldGLWFtczhtUkRZeUhOZ1d1dTJBRlBaellCbUkwMFNGQ3kwcUlTejRDVHQ0QUdYTlk0WUQ1R19abTZ3VjROdy1wTWE3SDNFXy1fck5veXBYejBGV2lSamtnTVFPTVZ1UFdYSDhURkc4ZkRLT3NVSEHSAdoBQVVfeXFMT3huWUQ3YWNraF9wLWhXSlAzb280YndaQU9CcjhoNGl6Znh1VWwwZjVfRFBZdHJHcThta0pXNDlNY2YwM3pQc3pleEVNVk1JLWs5Vkh3VVczM25EWG1WXzBJdWRWcXlGQl9VTkpheGZxOEdpNXJzWmEzMnZlbzZfaGwtYURHUTE3VU5VTlZLN0k3Q3AtQVp3QVpBOXFjXzU3cktmNE9vUVFwMFd4V2ZUeHJLVU84dHhrUlV0MlpVakhwTFpGb1NVNzZHQUR6RHo4R2wwTXhycXUxYWc?oc=5"
+        },
+        {
+          "d": "+44"
         }
       ],
       "srcTitles": [
+        "Trump super intelligence: Will the president’s attempt to rebrand AI work?",
+        "The cost of intelligence?",
         "AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?",
-        "AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?"
+        "‘A tool to help’: Sheffield City leaders approve usage of artificial intelligence to help with city projects"
       ]
     },
     {
-      "cat": "models",
-      "signal": 32,
+      "cat": "policy",
+      "signal": 56,
       "sources": 2,
-      "ts": "2026-09-24T10:54:00.000Z",
+      "ts": "2026-09-24T00:42:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Morgan Freeman calls AI voice replication ‘stealing’",
-      "s": "Morgan Freeman calls AI voice replication ‘stealing’ The Independent",
+      "h": "Meta’s Muse AI Charms can interact with each other",
+      "s": "Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's according to a report from Bloomberg, which i",
       "b": [
-        "independent.co.uk: Morgan Freeman calls AI voice replication ‘stealing’",
-        "au.news.yahoo.com: Morgan Freeman calls artificial intelligence voice replication and deepfakes ‘stealing’",
-        "independent.co.uk: Morgan Freeman: Using artificial intelligence to replicate voice is ‘stealing’"
+        "theverge.com: Meta’s Muse AI Charms can interact with each other",
+        "bloomberg.com: Meta Debuts Dedicated ‘Charm’ Device for Using Muse AI"
       ],
       "body": [
-        "independent.co.uk: Morgan Freeman calls AI voice replication ‘stealing’ The Independent",
-        "au.news.yahoo.com: Morgan Freeman calls artificial intelligence voice replication and deepfakes ‘stealing’ Yahoo News Australia",
-        "independent.co.uk: Morgan Freeman: Using artificial intelligence to replicate voice is ‘stealing’ The Independent"
+        "theverge.com: Meta's handheld AI gadget, called the Muse Charm, will be able to recognize and interact with other nearby Charms when it launches later this year. That's according to a report from Bloomberg, which includes more details about the device that the company teased during its Meta Connect keynote on Wednesday. The Muse Charm houses the [ ]",
+        "bloomberg.com: Meta Debuts Dedicated ‘Charm’ Device for Using Muse AI Bloomberg"
       ],
       "l": [
         {
-          "d": "independent.co.uk",
-          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2ZTcVpMblp3YllHenNxV3E5U0lLZ1dscHBJTHRRTDRrSVFwT2xWbEJWUkhRN1pMdldUM2VFWmZDTkdHSW95UlhuWlZlYXJzbkNiVXEyTVVneGltcGF3eFVJaHNqTGdYd2ctRGFGWWRFVXRBM0UtLTU3OW5MbDJrVEFGQ1EtcXNxUmhYejFkV0IxaFhncXAtZllhMXpYMTYxc1BLUnYwY01zeEtJd2RTNE9ONkNHTWRZeFE?oc=5"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/999944/meta-muse-charm-ai-interact-5g-modem"
         },
         {
-          "d": "au.news.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWVKTXcwWTdpbEc4VEZvcXNTcGtlaVY3bmwwZHdWRkJYRHA5ZDJPcS03RFg3VjNjNm1WcDFkWFdyNVhXY2F5S3BRUnZXcnotamtiTjR0Zm1iNkV2cEtaYS1WVFc0d0w4Rmswbi1QNVRKc2ZTYkdLcWdZUFhvTFhiUFRXeHZ5Zlc1Tm9lSjN3?oc=5"
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMThMd2ZURlVmOTRpS0dzNmNSSFVfZ1dzNDZrd19YTUprcTA5dHM3NkFRekJsemdBd2hmak9INnpYSWlncXRVd1VpVkM0TnQ4OXFET3Jpb2xxd054cVJWLUt4WFlQSmxYTU5VdEJXbEhHbzRILTRuQUY1LWtKMmZwRF9VdzZCRUN4UVpoZmtBMF92dWRCUm5Pbkt5OHlnNXpQeHpzcWpkZWU2QngxNWJMWWNMS2pCd1BqeXZXYno4cms?oc=5"
         }
       ],
       "srcTitles": [
-        "Morgan Freeman calls AI voice replication ‘stealing’",
-        "Morgan Freeman calls artificial intelligence voice replication and deepfakes ‘stealing’",
-        "Morgan Freeman: Using artificial intelligence to replicate voice is ‘stealing’"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 29,
-      "sources": 2,
-      "ts": "2026-09-24T10:19:16.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Got $5,000? 2 Super Growth Stocks Building the Cybersecurity Layer of Artificial Intelligence (AI).",
-      "s": "Got $5,000? 2 Super Growth Stocks Building the Cybersecurity Layer of Artificial Intelligence (AI). Yahoo Finance",
-      "b": [
-        "finance.yahoo.com: Got $5,000? 2 Super Growth Stocks Building the Cybersecurity Layer of Artificial Intelligence (AI).",
-        "fool.com: Got $5,000? 2 Super Growth Stocks Building the Cybersecurity Layer of Artificial Intelligence (AI)."
-      ],
-      "body": [
-        "finance.yahoo.com: Got $5,000? 2 Super Growth Stocks Building the Cybersecurity Layer of Artificial Intelligence (AI). Yahoo Finance",
-        "fool.com: Got $5,000? 2 Super Growth Stocks Building the Cybersecurity Layer of Artificial Intelligence (AI). The Motley Fool"
-      ],
-      "l": [
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcWk4OXRrTGFfSTU5YzRwYlJLbzlocEJFODZ6LWwxRDlmTmNtRjhSTWx0emZkWnVyNGRDenNlS25HbFdqUUpMRkM0d2ZndTJsMU9qZnZOVVNVemh2QXZWM3cwZkpFZHY2SHU4MXd0bkpLeEMyUFdudDRFNERqcldoOXJ3ck1QMUh6alE?oc=5"
-        },
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV3ZoSG5PU1hPQkI0M1Vpcnk4a2Jldnc3RnotSllsQjNuYkpjT09fTnZHel9RODVZRFlfMVRvVzhJZHIxaEN0Y0NkRDJUN3Npd0Y5WUN2WmNkb1N1T2l4MVdJT2wxMXljSXduYXRHZjBFdnJ3VWd2WEJ3M19YVW04NlJTVjhaRHllUkhIYTRRTW9lRkQzNmV3Vg?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Got $5,000? 2 Super Growth Stocks Building the Cybersecurity Layer of Artificial Intelligence (AI).",
-        "Got $5,000? 2 Super Growth Stocks Building the Cybersecurity Layer of Artificial Intelligence (AI)."
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 29,
-      "sources": 2,
-      "ts": "2026-09-24T10:01:01.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "This Artificial Intelligence (AI) Stock Could Soar by 63%, According to Wall Street",
-      "s": "This Artificial Intelligence (AI) Stock Could Soar by 63%, According to Wall Street The Motley Fool",
-      "b": [
-        "fool.com: This Artificial Intelligence (AI) Stock Could Soar by 63%, According to Wall Street",
-        "theglobeandmail.com: This Artificial Intelligence (AI) Stock Could Soar by 63%, According to Wall Street"
-      ],
-      "body": [
-        "fool.com: This Artificial Intelligence (AI) Stock Could Soar by 63%, According to Wall Street The Motley Fool",
-        "theglobeandmail.com: This Artificial Intelligence (AI) Stock Could Soar by 63%, According to Wall Street The Globe and Mail"
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZnd6cVRPS29hS2x4R0tVelktajJTVHkxSzZTQmk4Vm1Kd0tsYVptdjl4NVRlci1iVEc2UHp1Z0ZuV1pfQ0gwbjk1eXluM3ZGR25TVFprQkNRZWczOEw3Z01tRlpSV3NNcUNfaEJZRE5faURKblZRWEV3ZFFjVjVGSU1wRjRCb0syWERoc2I2ZHFuMmxJSTFUYjFLOC1vTS1sbThnMkQ1NHRtV0pRaWp2Q2VHNVRvQXBjMHlvdkQzWQ?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNb2p3dGU1TWdYcUxfN1dCMFJXSk9kOEpwNVlnYmpsTHlhSUlrTVpTLXlRaXRRR2V0UEtqR20wNDNKNmIxMGhPRXBseW95c1NuTG9mbnpSQllRSFppeFh1emxvZE9TaG9lWUNrMGVXcUJQVFdLOFZfQzNidWtUZ1pMUlowQ3ExeHJPU3JxSkd2cDZ2THM3a0ZRaFBHY0h4RGFVVzdFQU1IeGxPaS1lMVpLdy13N2w3YWtsNXJJaFNJWktiVmdhVTNxZFNKSTNTa2tBUmdOcENxeGt4eFJEQTVDNTVXcExsVnJFNHd5OWdaRlpUUmdpaTJ2MU5n?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "This Artificial Intelligence (AI) Stock Could Soar by 63%, According to Wall Street",
-        "This Artificial Intelligence (AI) Stock Could Soar by 63%, According to Wall Street"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-09-24T01:20:11.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "BigBear.ai vs. IONQ: Comparing Revenue Trends Between an Artificial Intelligence Upstart and a Quantum Computer Company",
-      "s": "BigBear.ai vs. IONQ: Comparing Revenue Trends Between an Artificial Intelligence Upstart and a Quantum Computer Company The Motley Fool",
-      "b": [
-        "fool.com: BigBear.ai vs. IONQ: Comparing Revenue Trends Between an Artificial Intelligence Upstart and a Quantum Computer Company",
-        "finance.yahoo.com: BigBear.ai vs. IONQ: Comparing Revenue Trends Between an Artificial Intelligence Upstart and a Quantum Computer Company"
-      ],
-      "body": [
-        "fool.com: BigBear.ai vs. IONQ: Comparing Revenue Trends Between an Artificial Intelligence Upstart and a Quantum Computer Company The Motley Fool",
-        "finance.yahoo.com: BigBear.ai vs. IONQ: Comparing Revenue Trends Between an Artificial Intelligence Upstart and a Quantum Computer Company Yahoo Finance"
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQU1RWTGhXSW9CVllnS20xOFJWN3lYV29RbmFxMkd1bnlmQVVnNzBINWctMVNEVnFiOEp5OVdJU2JKajdWUU8wM2E0YU1lb3hqRU1FSnBzLU1oOXM2dG1TODNWRHBzdF9iZlNkdGNWWURqSW05TTdaa3VqY0c2VmVsb2xjdnlnRDdwdnJWUExUbXAxdC1sZEVTUWc4ejJMMnNqUER1ZmpubnZ0Si1ma1VxNTBfekI1QjVWbnppSG4wd3hPd3l6OG9IWGdrZl80VzBrWmZSZjZNMl8waWx1U0pVc2llNFdnUlZUcHV6MjhKSHRfY2ZnREVjQ1NB?oc=5"
-        },
-        {
-          "d": "aol.com",
-          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YTC11SnlBMjg3TGY1WXFaMzRMdl8xa0xkTkdUaW1LZ0xIREJxYnl2X1Nzb3oxc1JSOS14VElpLXBNNUNTRXAwTTB3bUc0bm9ONjdYVnVqMVpJQ3ZDOTVpLTlfM3d5dzBrU1diUERxaUJvd2xGSmwyX2R2LUk?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "BigBear.ai vs. IONQ: Comparing Revenue Trends Between an Artificial Intelligence Upstart and a Quantum Computer Company",
-        "BigBear.ai vs. IONQ: Comparing Revenue Trends Between an Artificial Intelligence Upstart and a Quantum Computer Company"
+        "Meta’s Muse AI Charms can interact with each other",
+        "Meta Debuts Dedicated ‘Charm’ Device for Using Muse AI"
       ]
     }
   ]
