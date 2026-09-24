@@ -3,52 +3,116 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 76,
-      "sources": 48,
-      "ts": "2026-09-24T11:06:08.000Z",
-      "writtenSources": 2,
+      "signal": 80,
+      "sources": 4,
+      "ts": "2026-09-24T16:00:00.000Z",
+      "writtenSources": 4,
       "draft": true,
-      "h": "AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?",
-      "s": "AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run? The Globe and Mail",
+      "h": "Google tests letting Gemini call businesses for you",
+      "s": "Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
       "b": [
-        "theglobeandmail.com: AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?",
-        "fool.com: AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?"
+        "techcrunch.com: Google tests letting Gemini call businesses for you",
+        "theverge.com: Gemini can now call businesses for you so you don’t have to wait on hold",
+        "wired.com: Google’s Gemini Can Now Make Calls for You on Pixel Phones"
       ],
       "body": [
-        "theglobeandmail.com: AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run? The Globe and Mail",
-        "fool.com: AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run? The Motley Fool"
+        "techcrunch.com: Google says the AI-calling feature will first be available to Pixel 11 owners in the U.S. who pay for a Gemini subscription.",
+        "theverge.com: Google's launching an \"early experiment\" feature on Pixel 11 that lets users delegate local business calls to Gemini, like making a reservation, checking if a product is in stock, or rescheduling an appointment. According to Google, you don't even need to start the call to have Gemini handle it for you: Instead of dialing yourself, [ ]",
+        "wired.com: Call for Me—a feature that’s exclusive to the Pixel 11 series—gives robocalls a new meaning.",
+        "techmeme.com: Sarah Perez / TechCrunch : Google is testing Call for Me, which lets Gemini call businesses on behalf of users, initially for Pixel 11 users with a Gemini subscription in the US With AI agents like Meta's Muse and Instinct now able to make calls on users' behalf, Google is now letting Gemini call businesses with a new feature called Call for Me."
       ],
       "l": [
         {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOZUZJX1V6VHhqMi13UWVncGxhZEhQMW1IMHBPVk1fWEdObG1rcHF1cXlWTjNJVk54NVZjaGVrd2wxV3BBX1FvVWJNTEFkUnZQTHdPNlI3ZzYwNkE?oc=5"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/24/google-tests-letting-gemini-make-phone-calls-initially-for-us-pixel-owners/"
         },
         {
-          "d": "cio.com",
-          "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9adnRnMG1TNVNpWHZ6OHlGRW03cXJFTHNKV2JrQjBVYU9DNHRBLW9SaUh6TEZpeEFibENyc2Nab0RsQTVBb05Ka2NoUThCb3NDaVQwOVlYeTc2V25adkI0c19VX2RlOW5tVWVHNFdVeDBMelE?oc=5"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1000116/google-gemini-business-phone-calls"
         },
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc1ctM2dtTkJYeUpMTC1jZjY1VkxMMFNuU1ZCcGtDeDFMTEVOR3kwdFlodmN1RGpDMzRjYXpENTZya2RJSVNLYlFTOXY1Nk85OEltd01Idmhsc0dLd0pkUnVaTlA2b1BkMFN4eU0weUJXT2NYZnE5R1A2VnZfRlhrcUNDVWpuUjMzU3gzY2s2bWhJT2hPa3FsSUZ1T2lPR1lDLXItUXRXU3JiTFAzNmlCMi1POUhNTmhPdGRlNg?oc=5"
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/"
         },
         {
-          "d": "waff.com",
-          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPczM0dVljamxiZnBiU1VjWVdxWkM0MWFZenJvQlNEZTk0ZE9sTEw3aXI5Q0hWcEs5blJDMmxBSThIMEdMYnJuZFdvc2lMNjRmczNxWC1tQldGLWFtczhtUkRZeUhOZ1d1dTJBRlBaellCbUkwMFNGQ3kwcUlTejRDVHQ0QUdYTlk0WUQ1R19abTZ3VjROdy1wTWE3SDNFXy1fck5veXBYejBGV2lSamtnTVFPTVZ1UFdYSDhURkc4ZkRLT3NVSEHSAdoBQVVfeXFMT3huWUQ3YWNraF9wLWhXSlAzb280YndaQU9CcjhoNGl6Znh1VWwwZjVfRFBZdHJHcThta0pXNDlNY2YwM3pQc3pleEVNVk1JLWs5Vkh3VVczM25EWG1WXzBJdWRWcXlGQl9VTkpheGZxOEdpNXJzWmEzMnZlbzZfaGwtYURHUTE3VU5VTlZLN0k3Q3AtQVp3QVpBOXFjXzU3cktmNE9vUVFwMFd4V2ZUeHJLVU84dHhrUlV0MlpVakhwTFpGb1NVNzZHQUR6RHo4R2wwTXhycXUxYWc?oc=5"
-        },
-        {
-          "d": "+44"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260924/p34#a260924p34"
         }
       ],
       "srcTitles": [
-        "Trump super intelligence: Will the president’s attempt to rebrand AI work?",
-        "The cost of intelligence?",
-        "AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?",
-        "‘A tool to help’: Sheffield City leaders approve usage of artificial intelligence to help with city projects"
+        "Google tests letting Gemini call businesses for you",
+        "Gemini can now call businesses for you so you don’t have to wait on hold",
+        "Google’s Gemini Can Now Make Calls for You on Pixel Phones",
+        "Google is testing Call for Me, which lets Gemini call businesses on behalf of users, initially for Pixel 11 users with a Gemini subscription in the US (Sarah Perez/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-09-24T16:43:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
+      "s": "Politico : Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed The White House has asked OpenAI and Anthr",
+      "b": [
+        "techmeme.com: Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
+        "politico.com: White House asks OpenAI and Anthropic to hold new models from UK testers until US review"
+      ],
+      "body": [
+        "techmeme.com: Politico : Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed The White House has asked OpenAI and Anthropic not to share their new artificial intelligence models with the U.K. government's testing agency until",
+        "politico.com: White House asks OpenAI and Anthropic to hold new models from UK testers until US review Politico"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260924/p36#a260924p36"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUlVRnFEdlRXN1Fta2xlNTFZc2p6UzAyYjU3N1hSTkdfZWpNMVlxdXN5M0syUVFMZ2NtNGY3bmtNa2ZZVDFaSGxXaGFENEZfTk9Ia1RtOFMzM25xY1JaemFiY2tsdTVob3YyQ0hXRUNfSjh2U19hZmdPbVp1amR3WUZoWDI3UVRXQWZvUGZXQUY5WmtHcU11eDBsQjFzV1NYRFpGT0dUX1YyMWpoSmhkcVJoOEhhLWU0UVJXYjF6VUlxeEFyTk9rNy1KVFN6cE1NS0pXNjhR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
+        "White House asks OpenAI and Anthropic to hold new models from UK testers until US review"
       ]
     },
     {
       "cat": "policy",
       "signal": 56,
+      "sources": 2,
+      "ts": "2026-09-24T10:46:56.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+      "s": "The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+      "b": [
+        "wired.com: An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+        "scientificamerican.com: OpenAI’s agent hacking Australia is a warning for governments everywhere"
+      ],
+      "body": [
+        "wired.com: The country’s prime minister expressed disappointment at being informed of the hack only via email. Now Australia is investigating whether OpenAI broke the law.",
+        "scientificamerican.com: OpenAI’s agent hacking Australia is a warning for governments everywhere Scientific American"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/"
+        },
+        {
+          "d": "scientificamerican.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTDB4YkEyUXVBeUlwMnFHcWh0VlFrZWFVMVVHUklTOG9xUldNbGN5MHl5aG1NNEl4WWZxNlNVb3c0aFRfdlpMMkNHTFBmV2lpeHJmTmo5UWJMR1VsVnVVTktUcm9uT1Baby1neXY4RFIxWVl2bmUwc1d1aTNzMkoxM2J0TjFSMDlYRGk0YlNGRE5oWVNQVDluUnhyYnRId2gxZVJiZURUeU56V0ZuRzY1WTlJdmJXZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later",
+        "OpenAI’s agent hacking Australia is a warning for governments everywhere"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 52,
       "sources": 2,
       "ts": "2026-09-24T00:42:00.000Z",
       "writtenSources": 2,
@@ -76,6 +140,120 @@
       "srcTitles": [
         "Meta’s Muse AI Charms can interact with each other",
         "Meta Debuts Dedicated ‘Charm’ Device for Using Muse AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 51,
+      "sources": 34,
+      "ts": "2026-09-24T11:06:08.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?",
+      "s": "AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run? The Globe and Mail",
+      "b": [
+        "theglobeandmail.com: AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?",
+        "fool.com: AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run?"
+      ],
+      "body": [
+        "theglobeandmail.com: AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run? The Globe and Mail",
+        "fool.com: AMD vs. Intel: Which Artificial Intelligence (AI) Chip Stock Has More Room to Run? The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5"
+        },
+        {
+          "d": "usun.usmission.gov",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEJQZF9YWmpENEgwc0xLMmdCbGlaYmFzcl83VmhheGI5Y1hxTUVQUjN5MFFjaXpMRjJpajVKYlhoQUxaZGhGWVJZX3BWaUJsQ015bWF6T1JDYzdpUlRiVzJ4c2Q2VUJHLWZncmRzQnRBUnpsUUtwWDBFWGROdDljbGJXZFc1ZUNnQy1nYy1xWHdnZkFuY215VUc4YnRjQU9LVi02MHdIWGlxRHZFeHZfdWJhS2d0cTN6ZWNGZjktcDhpQm1Qd1lYNzV1Wk4xQQ?oc=5"
+        },
+        {
+          "d": "ksl.com",
+          "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUzk4TFdxUUVjQ2d1WVJubXBuVE1LMjJZMlpvVGxOejV4a3g3dERQMUNYWXh0ZURicnN2MmlVMXhKMlZUclB4am01WDBDQ1VaQ2U2T2Z1UldxbHR4TFhnbFI2NnBDVlJVdURpajdIam1KZUZRWGxEaTBkWVZZTkc4OUNGcWRneXhXcGJhQXNWYlR3bzhOeUpUMXZBcmk3VE1YZHdmRmFIa0F6cmp4UVFWRkFhbUdaMWRVYUFQS01LYVpudXAyeG1RclhwQ2F1bHVyQXkzOU4xbw?oc=5"
+        },
+        {
+          "d": "pbs.org",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDY3NVVfOWVmSUQzeGNOVzNINFZ5T014ZVVYV1RkZGVYdXdNMlZodnF6MUY5VUdnakx1YmFBbl93WW42alY5RDluc0FrTlgyMU8xN3pXMC1YckxKenhPN1R2c0d3Y003ZllNaWhsUTVRdTJYaF9hbS1CMWRPMW9tenlHdHYwSzJwTUVHMnNXeDNOaVhUbXAzS2tZc2ZUc2FjUUlMcVhaeTVoUVpLNV9sNk53dFc4UdIBuwFBVV95cUxQRFFnS1M5WENMU2FQMVpQczNnQng4bXJCNnkybEVYTkQyWnhVYm8xY1hwX2hJNlVsOVlLSUdleUtIUUUwT1VhVHFNUFdvcERpbHhoY2F1SmgteTVxZHNIQU91am52dFF6VVIyTGhuTTdYRjFNTEhoNnJnYjQ1dDJHVXpEVk5MRkJnWWF6dVNqWlIzdUFIaXhfSnhDMUhEVGZCbUJkeFh5cmxrd2Z0QWZEY0ZCZ1AwMEZUNWdN?oc=5"
+        },
+        {
+          "d": "+30"
+        }
+      ],
+      "srcTitles": [
+        "AI leaders warn UN of security risks as systems grow more powerful",
+        "U.S. Intervention in the UN Security Council Meeting on \"Artificial Intelligence and International Security\"",
+        "Heads of artificial intelligence firms tell UN Security Council that it could be a risk to all humanity",
+        "AI firm leaders tell UN Security Council that it could be a risk to all humanity"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-24T11:45:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Morgan Freeman calls AI voice replication ‘stealing’",
+      "s": "Morgan Freeman calls AI voice replication ‘stealing’ The Independent",
+      "b": [
+        "independent.co.uk: Morgan Freeman calls AI voice replication ‘stealing’",
+        "peeblesshirenews.com: Morgan Freeman: Using artificial intelligence to replicate voice is ‘stealing’"
+      ],
+      "body": [
+        "independent.co.uk: Morgan Freeman calls AI voice replication ‘stealing’ The Independent",
+        "peeblesshirenews.com: Morgan Freeman: Using artificial intelligence to replicate voice is ‘stealing’ Peeblesshire News"
+      ],
+      "l": [
+        {
+          "d": "independent.co.uk",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2ZTcVpMblp3YllHenNxV3E5U0lLZ1dscHBJTHRRTDRrSVFwT2xWbEJWUkhRN1pMdldUM2VFWmZDTkdHSW95UlhuWlZlYXJzbkNiVXEyTVVneGltcGF3eFVJaHNqTGdYd2ctRGFGWWRFVXRBM0UtLTU3OW5MbDJrVEFGQ1EtcXNxUmhYejFkV0IxaFhncXAtZllhMXpYMTYxc1BLUnYwY01zeEtJd2RTNE9ONkNHTWRZeFE?oc=5"
+        },
+        {
+          "d": "peeblesshirenews.com",
+          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMUFuSDR4SXBvTHcxcG9ndlNOUkhWS3ZnUW10T3I1b3RxV1hVbHcwXy1UVzZld0ltWnBjeDBld194aWlMRXdBUnBpWEhoNV9WRHJMd2VDZlpDcE9JSmdrY0lRUXdFYVl5cFFuMjhFMGF5V25lMHhPVzVmYXpfbXpiSm1ZUDdIMjQzLXhDT19IUFpORllsSWdtcnp4MURFZnZhQUFmZGNVcGlTQ1pXbG9DNUlSd0Jfc1dkdUx2R2h6YXVqWFpsNnd0SA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Morgan Freeman calls AI voice replication ‘stealing’",
+        "Morgan Freeman: Using artificial intelligence to replicate voice is ‘stealing’"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-24T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Neural Network - September 2026",
+      "s": "Neural Network - September 2026 Stephenson Harwood",
+      "b": [
+        "stephensonharwood.com: Neural Network - September 2026",
+        "arxiv.org: An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction",
+        "arxiv.org: Neutral-Atom-based Quantum Optimization for Resource Allocation in NOMA Networks"
+      ],
+      "body": [
+        "stephensonharwood.com: Neural Network - September 2026 Stephenson Harwood",
+        "arxiv.org: arXiv:2609.25088v1 Announce Type: new Abstract: Survival prediction for glioblastoma multiforme (GBM) demands models that are both accurate and interpretable, yet existing approaches treat these objectives as com- peting, where performant models sacrifice transparency, while interpretable models accept degraded predictive power. We argue that this trade-off is not inherent. Graph neural net- works offer a structural foundation for extracting interpretable, explainable representations without compromising discriminative ability. Furthermore, current methods typically rely on a single imaging modality, underutilizing the complementary information available across multi-modal MRI and clinical metadata. We propose a multi-modal framework that inte- grates three components to address both objectives simultaneously: (1) a sheaf hypergraph neural network that captures higher-order relationships among tissue patches through direc- tional, asymmetric message passing; (2) a concept bottleneck layer that compresses learned representations into clinically grounded concepts, enforcing ante-hoc interpretability; and (3) an extension sufficiency test (EST) regularizer that penalizes unfaithful explanations during training, ensuring that model explanations genuinely reflect the internal decision process. Clinical and genomic features are incorporated through gated fusion, preserving the dominant prognostic signal of molecular markers while retaining concept-level traceabil- ity. Evaluated on 593 patients from the UPenn-GBM dataset under 5-fold cross-validation, our framework achieves a concordance index of 0.643 with the lowest fold-level variance among all compared models (std = 0.015). To our knowledge, this is the first work to unify sheaf hypergraph convolution, concept bottleneck supervision, and EST regularization for interpretable survival prediction from brain MRI",
+        "arxiv.org: arXiv:2609.26556v1 Announce Type: new Abstract: In wireless communication networks, many resource optimization problems are nondeterministic polynomial-time hard (NP-hard) due to their combinatorial nature and high computational complexity. Recently, neutral-atom-based quantum computing has emerged as a promising platform for efficiently solving such problems by leveraging quantum superposition and entanglement. However, its application to wireless communication optimization problems remains largely unexplored. In this paper, we investigate the use of neutral-atom quantum platforms to solve the maximum access problem (MAP), formulated as a mixed-integer programming task that jointly considers admission control, user clustering, channel assignment, and power allocation in a non-orthogonal multiple access (NOMA)-enabled uplink network. To reduce the computational burden, the MAP is equivalently reformulated as a maximum independent set (MIS) problem in graph theory. This reformulation enables the use of the neutral atom platform based on Rydberg atom arrays, where the MIS problem is naturally encoded into the physical geometry and blockade constraints of the quantum system. Numerical results demonstrate the feasibility and potential of this approach for addressing large-scale wireless resource optimization problems.",
+        "arxiv.org: arXiv:2609.26565v1 Announce Type: new Abstract: Massive connectivity in next-generation networks demands energy- and spectrum-efficient solutions for large-scale Internet of Things (IoT) deployments. Symbiotic radio (SR) enables passive IoT devices to communicate by backscattering existing cellular transmissions. A key challenge in uplink SR is active device detection (ADD), which directly affects decoding reliability, interference management, and system throughput. We propose an energy-harvesting code-domain non-orthogonal multiple access (NOMA)-SR system in which IoT devices harvest energy from ambient uplink signals and backscatter information using low-density spreading (LDS) codes. To reduce the complexity of ADD, Grover's quantum search algorithm is employed, providing a quadratic reduction in oracle-query complexity over exhaustive maximum-likelihood (ML) search. Numerical results show that the proposed approach closely approaches ML performance while substantially reducing the number of search iterations, demonstrating its potential for scalable ambient IoT systems."
+      ],
+      "l": [
+        {
+          "d": "stephensonharwood.com",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15ZzRKa0pPQjFwdFBtOUFNVk5RbmdPVEtxVnM1ZjBTTVVlZlR4UGpQcmdtU3BvRzhVVG1iaWZPMVY3el9oaGNlNEJwS19aMlgtclBlZ0ItWnZJalpVbTZnejlKYWVKZW9lY1lRZ09yZS1ZV1lOSmhLMVFUSjc0UQ?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.25088"
+        }
+      ],
+      "srcTitles": [
+        "Neural Network - September 2026",
+        "An Accurate and Interpretable Hyper Graph Neural Network for GBM Survival Prediction",
+        "Neutral-Atom-based Quantum Optimization for Resource Allocation in NOMA Networks",
+        "Quantum-Aided Active Device Detection in Energy-Harvesting Symbiotic Radio Networks"
       ]
     }
   ]
