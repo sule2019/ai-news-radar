@@ -21,8 +21,8 @@
       ],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-with-live-avatar/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/"
         },
         {
           "d": "theverge.com",
@@ -82,7 +82,7 @@
     {
       "cat": "models",
       "signal": 58,
-      "sources": 51,
+      "sources": 49,
       "ts": "2026-09-24T11:45:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -114,7 +114,7 @@
           "u": "https://arxiv.org/abs/2609.25187"
         },
         {
-          "d": "+47"
+          "d": "+45"
         }
       ],
       "srcTitles": [
@@ -122,38 +122,6 @@
         "The cost of intelligence?",
         "Battle of Hospital A.I. vs. Insurer A.I. Is Pushing Medical Costs Higher",
         "X-Planner: Event-Structured Task Planning for Embodied Intelligence"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 56,
-      "sources": 2,
-      "ts": "2026-09-24T16:43:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
-      "s": "Politico : Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed The White House has asked OpenAI and Anthr",
-      "b": [
-        "techmeme.com: Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
-        "politico.com: White House asks OpenAI and Anthropic to hold new models from UK testers until US review"
-      ],
-      "body": [
-        "techmeme.com: Politico : Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed The White House has asked OpenAI and Anthropic not to share their new artificial intelligence models with the U.K. government's testing agency until",
-        "politico.com: White House asks OpenAI and Anthropic to hold new models from UK testers until US review Politico"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260924/p36#a260924p36"
-        },
-        {
-          "d": "politico.com",
-          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUlVRnFEdlRXN1Fta2xlNTFZc2p6UzAyYjU3N1hSTkdfZWpNMVlxdXN5M0syUVFMZ2NtNGY3bmtNa2ZZVDFaSGxXaGFENEZfTk9Ia1RtOFMzM25xY1JaemFiY2tsdTVob3YyQ0hXRUNfSjh2U19hZmdPbVp1amR3WUZoWDI3UVRXQWZvUGZXQUY5WmtHcU11eDBsQjFzV1NYRFpGT0dUX1YyMWpoSmhkcVJoOEhhLWU0UVJXYjF6VUlxeEFyTk9rNy1KVFN6cE1NS0pXNjhR?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
-        "White House asks OpenAI and Anthropic to hold new models from UK testers until US review"
       ]
     },
     {
@@ -189,8 +157,40 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 52,
+      "sources": 2,
+      "ts": "2026-09-24T16:43:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
+      "s": "Politico : Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed The White House has asked OpenAI and Anthr",
+      "b": [
+        "techmeme.com: Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
+        "politico.com: White House asks OpenAI and Anthropic to hold new models from UK testers until US review"
+      ],
+      "body": [
+        "techmeme.com: Politico : Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed The White House has asked OpenAI and Anthropic not to share their new artificial intelligence models with the U.K. government's testing agency until",
+        "politico.com: White House asks OpenAI and Anthropic to hold new models from UK testers until US review Politico"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260924/p36#a260924p36"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeUlVRnFEdlRXN1Fta2xlNTFZc2p6UzAyYjU3N1hSTkdfZWpNMVlxdXN5M0syUVFMZ2NtNGY3bmtNa2ZZVDFaSGxXaGFENEZfTk9Ia1RtOFMzM25xY1JaemFiY2tsdTVob3YyQ0hXRUNfSjh2U19hZmdPbVp1amR3WUZoWDI3UVRXQWZvUGZXQUY5WmtHcU11eDBsQjFzV1NYRFpGT0dUX1YyMWpoSmhkcVJoOEhhLWU0UVJXYjF6VUlxeEFyTk9rNy1KVFN6cE1NS0pXNjhR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: the White House asked OpenAI and Anthropic not to share new models with UK's AISI until US reviews them; Anthropic appears to have agreed (Politico)",
+        "White House asks OpenAI and Anthropic to hold new models from UK testers until US review"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-09-24T00:42:00.000Z",
       "writtenSources": 2,
