@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 80,
+      "signal": 77,
       "sources": 4,
       "ts": "2026-09-24T16:00:00.000Z",
       "writtenSources": 4,
@@ -48,7 +48,7 @@
     },
     {
       "cat": "products",
-      "signal": 62,
+      "signal": 59,
       "sources": 2,
       "ts": "2026-09-24T16:43:00.000Z",
       "writtenSources": 2,
@@ -79,8 +79,53 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 58,
+      "sources": 52,
+      "ts": "2026-09-24T11:45:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Morgan Freeman calls AI voice replication ‘stealing’",
+      "s": "Morgan Freeman calls AI voice replication ‘stealing’ The Independent",
+      "b": [
+        "independent.co.uk: Morgan Freeman calls AI voice replication ‘stealing’",
+        "peeblesshirenews.com: Morgan Freeman: Using artificial intelligence to replicate voice is ‘stealing’"
+      ],
+      "body": [
+        "independent.co.uk: Morgan Freeman calls AI voice replication ‘stealing’ The Independent",
+        "peeblesshirenews.com: Morgan Freeman: Using artificial intelligence to replicate voice is ‘stealing’ Peeblesshire News"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260924/p37#a260924p37"
+        },
+        {
+          "d": "cio.com",
+          "u": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9adnRnMG1TNVNpWHZ6OHlGRW03cXJFTHNKV2JrQjBVYU9DNHRBLW9SaUh6TEZpeEFibENyc2Nab0RsQTVBb05Ka2NoUThCb3NDaVQwOVlYeTc2V25adkI0c19VX2RlOW5tVWVHNFdVeDBMelE?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.25187"
+        },
+        {
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQWDBXSVlKYjVLV1hzNnphbmpRampOMGcxUDBCVDdfanV2QmNUWk5fTW5PMFJ1SzB1VUZUQ25GUG55YXgycE13eU5jSlNiUGk5MUZTSFhHQU9pSlJXX1g3Uk82QXc4YktHdVUycnF4OEplZWRyY2txSVZEQTBHMHU3VHhHSW9NUW9HdnUwelBYdHFFSWlhWnJyUVdTUWI4dE5IODNGY2NDZC0?oc=5"
+        },
+        {
+          "d": "+48"
+        }
+      ],
+      "srcTitles": [
+        "Sources: the NSA told lawmakers it is spending billions this year to test AI models; proposals for a US AI regulatory body estimated costs of $20M-$40M per year (Jeff Stein/The Washington Sun)",
+        "The cost of intelligence?",
+        "X-Planner: Event-Structured Task Planning for Embodied Intelligence",
+        "The Cost of Conservation: Coordination-Memory Laws for Exact-Support Generation"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-09-24T10:46:56.000Z",
       "writtenSources": 2,
@@ -112,7 +157,7 @@
     },
     {
       "cat": "policy",
-      "signal": 52,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-09-24T00:42:00.000Z",
       "writtenSources": 2,
@@ -144,8 +189,8 @@
     },
     {
       "cat": "models",
-      "signal": 51,
-      "sources": 34,
+      "signal": 26,
+      "sources": 2,
       "ts": "2026-09-24T11:06:08.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -161,67 +206,22 @@
       ],
       "l": [
         {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5"
-        },
-        {
-          "d": "usun.usmission.gov",
-          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNaEJQZF9YWmpENEgwc0xLMmdCbGlaYmFzcl83VmhheGI5Y1hxTUVQUjN5MFFjaXpMRjJpajVKYlhoQUxaZGhGWVJZX3BWaUJsQ015bWF6T1JDYzdpUlRiVzJ4c2Q2VUJHLWZncmRzQnRBUnpsUUtwWDBFWGROdDljbGJXZFc1ZUNnQy1nYy1xWHdnZkFuY215VUc4YnRjQU9LVi02MHdIWGlxRHZFeHZfdWJhS2d0cTN6ZWNGZjktcDhpQm1Qd1lYNzV1Wk4xQQ?oc=5"
-        },
-        {
-          "d": "ksl.com",
-          "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUzk4TFdxUUVjQ2d1WVJubXBuVE1LMjJZMlpvVGxOejV4a3g3dERQMUNYWXh0ZURicnN2MmlVMXhKMlZUclB4am01WDBDQ1VaQ2U2T2Z1UldxbHR4TFhnbFI2NnBDVlJVdURpajdIam1KZUZRWGxEaTBkWVZZTkc4OUNGcWRneXhXcGJhQXNWYlR3bzhOeUpUMXZBcmk3VE1YZHdmRmFIa0F6cmp4UVFWRkFhbUdaMWRVYUFQS01LYVpudXAyeG1RclhwQ2F1bHVyQXkzOU4xbw?oc=5"
-        },
-        {
           "d": "pbs.org",
           "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeDY3NVVfOWVmSUQzeGNOVzNINFZ5T014ZVVYV1RkZGVYdXdNMlZodnF6MUY5VUdnakx1YmFBbl93WW42alY5RDluc0FrTlgyMU8xN3pXMC1YckxKenhPN1R2c0d3Y003ZllNaWhsUTVRdTJYaF9hbS1CMWRPMW9tenlHdHYwSzJwTUVHMnNXeDNOaVhUbXAzS2tZc2ZUc2FjUUlMcVhaeTVoUVpLNV9sNk53dFc4UdIBuwFBVV95cUxQRFFnS1M5WENMU2FQMVpQczNnQng4bXJCNnkybEVYTkQyWnhVYm8xY1hwX2hJNlVsOVlLSUdleUtIUUUwT1VhVHFNUFdvcERpbHhoY2F1SmgteTVxZHNIQU91am52dFF6VVIyTGhuTTdYRjFNTEhoNnJnYjQ1dDJHVXpEVk5MRkJnWWF6dVNqWlIzdUFIaXhfSnhDMUhEVGZCbUJkeFh5cmxrd2Z0QWZEY0ZCZ1AwMEZUNWdN?oc=5"
         },
         {
-          "d": "+30"
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOazV6Q242LXE0TVZZRV9wcXl4UmJlMHp2ZHMtX0h4RGlPeGlUbkhGQklJTDhuN0FKaFdzUUs3cS0zN1ZsTVR1Mk51M190NFFuVjdZekJVSjlXMXpuaDAwVGVaSl9LbnpKMWlmMG1YaUVOQ3lqTXl4ck5nZm94RlMxaFA2N091TUxyNWJCSkpLOER1TDAtRF94TWZ6NVNIM01lcWxvOUJaWTVHYUZ3WlJjSm16WWtUSldqcHdWOFNR?oc=5"
         }
       ],
       "srcTitles": [
-        "AI leaders warn UN of security risks as systems grow more powerful",
-        "U.S. Intervention in the UN Security Council Meeting on \"Artificial Intelligence and International Security\"",
-        "Heads of artificial intelligence firms tell UN Security Council that it could be a risk to all humanity",
-        "AI firm leaders tell UN Security Council that it could be a risk to all humanity"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-09-24T11:45:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Morgan Freeman calls AI voice replication ‘stealing’",
-      "s": "Morgan Freeman calls AI voice replication ‘stealing’ The Independent",
-      "b": [
-        "independent.co.uk: Morgan Freeman calls AI voice replication ‘stealing’",
-        "peeblesshirenews.com: Morgan Freeman: Using artificial intelligence to replicate voice is ‘stealing’"
-      ],
-      "body": [
-        "independent.co.uk: Morgan Freeman calls AI voice replication ‘stealing’ The Independent",
-        "peeblesshirenews.com: Morgan Freeman: Using artificial intelligence to replicate voice is ‘stealing’ Peeblesshire News"
-      ],
-      "l": [
-        {
-          "d": "independent.co.uk",
-          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxON2ZTcVpMblp3YllHenNxV3E5U0lLZ1dscHBJTHRRTDRrSVFwT2xWbEJWUkhRN1pMdldUM2VFWmZDTkdHSW95UlhuWlZlYXJzbkNiVXEyTVVneGltcGF3eFVJaHNqTGdYd2ctRGFGWWRFVXRBM0UtLTU3OW5MbDJrVEFGQ1EtcXNxUmhYejFkV0IxaFhncXAtZllhMXpYMTYxc1BLUnYwY01zeEtJd2RTNE9ONkNHTWRZeFE?oc=5"
-        },
-        {
-          "d": "peeblesshirenews.com",
-          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMUFuSDR4SXBvTHcxcG9ndlNOUkhWS3ZnUW10T3I1b3RxV1hVbHcwXy1UVzZld0ltWnBjeDBld194aWlMRXdBUnBpWEhoNV9WRHJMd2VDZlpDcE9JSmdrY0lRUXdFYVl5cFFuMjhFMGF5V25lMHhPVzVmYXpfbXpiSm1ZUDdIMjQzLXhDT19IUFpORllsSWdtcnp4MURFZnZhQUFmZGNVcGlTQ1pXbG9DNUlSd0Jfc1dkdUx2R2h6YXVqWFpsNnd0SA?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Morgan Freeman calls AI voice replication ‘stealing’",
-        "Morgan Freeman: Using artificial intelligence to replicate voice is ‘stealing’"
+        "AI firm leaders tell UN Security Council that it could be a risk to all humanity",
+        "AI leaders warn UN of security risks as systems grow more powerful"
       ]
     },
     {
       "cat": "research",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-09-24T04:00:00.000Z",
       "writtenSources": 2,
