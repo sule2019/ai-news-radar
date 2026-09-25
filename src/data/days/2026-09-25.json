@@ -78,6 +78,38 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-09-25T18:33:59.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "s": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+      "b": [
+        "techcrunch.com: Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+        "techmeme.com: Nscale secures $3.36B in convertible financing led by Third Point ahead of its US IPO, with $2.36B available immediately and $1B from Nvidia in November (Marina Temkin/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+        "techmeme.com: Marina Temkin / TechCrunch : Nscale secures $3.36B in convertible financing led by Third Point ahead of its US IPO, with $2.36B available immediately and $1B from Nvidia in November Nscale, a British neocloud, has secured $3.36 billion in financing ahead of its IPO later this year, the company announced on Friday."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260925/p14#a260925p14"
+        }
+      ],
+      "srcTitles": [
+        "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+        "Nscale secures $3.36B in convertible financing led by Third Point ahead of its US IPO, with $2.36B available immediately and $1B from Nvidia in November (Marina Temkin/TechCrunch)"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 36,
       "sources": 3,
@@ -119,6 +151,31 @@
     {
       "cat": "funding",
       "signal": 34,
+      "sources": 1,
+      "ts": "2026-09-25T09:16:25.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "s": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request . The program, called Polygraph+ or Pol",
+      "b": [
+        "technologyreview.com: The Pentagon wants $30 million to build an AI-powered lie detector"
+      ],
+      "body": [
+        "technologyreview.com: The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request . The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which refers to the ability to take physiological readings without attaching a device to a subject’s person. According to details of the budget document, which were first reported by Inside Defense , the project will “modernize federal polygraph and credibility assessment technologies” to improve their accuracy and reliability. But the project may be just the latest in a long line of failed attempts to use technology to detect lies. “It’s a misguided effort to reduce the complex to something that is tangible,” says Kyri Kotsoglou, a legal scholar at Northumbria University in the UK who studies the use of polygraphs in the justice system. The move comes at a time of high tension within the department. Under Defense Secretary Pete Hegseth, the Pentagon has been increasingly turning to polygraph tests in an attempt to find the sources of alleged leaks to the press. In September, the New York Times reported that around 50 officers on the Joint Staff had been given polygraph tests after news coverage reported on the depletion of US weapons stockpiles in the war with Iran. Polygraph+ will be run by the Defense Counterintelligence and Security Agency (DCSA), which conducts background checks for the federal government. According to the budget document, which has not yet been approved by Congress, the new technology will be used for vetting of prospective employees and “insider threat detection.” It is not yet clear which specific technologies will be used, and the DCSA did not respond to a request for more information. But other Pentagon efforts offer potential clues. In 2023, the department’s Defense Innovation Unit (DIU) ran an open"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
+        }
+      ],
+      "srcTitles": [
+        "The Pentagon wants $30 million to build an AI-powered lie detector"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 30,
       "sources": 2,
       "ts": "2026-09-25T13:15:01.000Z",
       "writtenSources": 2,
@@ -146,31 +203,6 @@
       "srcTitles": [
         "Bill Gates warns about the catastrophic risk posed by \"people with ill intent using the latest AI tools\", which are powerful enough to \"cause a billion deaths\" (Herb Scribner/Axios)",
         "Bill Gates warns AI powerful enough to lead to ‘a billion deaths’"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 34,
-      "sources": 1,
-      "ts": "2026-09-25T09:16:25.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "s": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request . The program, called Polygraph+ or Pol",
-      "b": [
-        "technologyreview.com: The Pentagon wants $30 million to build an AI-powered lie detector"
-      ],
-      "body": [
-        "technologyreview.com: The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request . The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which refers to the ability to take physiological readings without attaching a device to a subject’s person. According to details of the budget document, which were first reported by Inside Defense , the project will “modernize federal polygraph and credibility assessment technologies” to improve their accuracy and reliability. But the project may be just the latest in a long line of failed attempts to use technology to detect lies. “It’s a misguided effort to reduce the complex to something that is tangible,” says Kyri Kotsoglou, a legal scholar at Northumbria University in the UK who studies the use of polygraphs in the justice system. The move comes at a time of high tension within the department. Under Defense Secretary Pete Hegseth, the Pentagon has been increasingly turning to polygraph tests in an attempt to find the sources of alleged leaks to the press. In September, the New York Times reported that around 50 officers on the Joint Staff had been given polygraph tests after news coverage reported on the depletion of US weapons stockpiles in the war with Iran. Polygraph+ will be run by the Defense Counterintelligence and Security Agency (DCSA), which conducts background checks for the federal government. According to the budget document, which has not yet been approved by Congress, the new technology will be used for vetting of prospective employees and “insider threat detection.” It is not yet clear which specific technologies will be used, and the DCSA did not respond to a request for more information. But other Pentagon efforts offer potential clues. In 2023, the department’s Defense Innovation Unit (DIU) ran an open"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
-        }
-      ],
-      "srcTitles": [
-        "The Pentagon wants $30 million to build an AI-powered lie detector"
       ]
     },
     {
@@ -232,7 +264,7 @@
     },
     {
       "cat": "policy",
-      "signal": 25,
+      "signal": 21,
       "sources": 2,
       "ts": "2026-09-25T09:31:00.000Z",
       "writtenSources": 2,
