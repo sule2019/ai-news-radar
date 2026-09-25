@@ -2,9 +2,48 @@
   "date": "2026-09-25",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 68,
+      "sources": 3,
+      "ts": "2026-09-25T15:52:57.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+      "s": "The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+      "b": [
+        "wired.com: Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+        "washingtonpost.com: Federal appeals court rules Pentagon can blacklist Anthropic",
+        "techmeme.com: A federal appeals court upholds DOD's Anthropic blacklisting, finding Claude's integration with DOD systems is \"a statutorily covered national-security risk\" (Ashley Capoot/CNBC)"
+      ],
+      "body": [
+        "wired.com: The AI lab had argued multiple violations of its rights, but a divided panel of judges sided with the Trump administration.",
+        "washingtonpost.com: Federal appeals court rules Pentagon can blacklist Anthropic The Washington Post",
+        "techmeme.com: Ashley Capoot / CNBC : A federal appeals court upholds DOD's Anthropic blacklisting, finding Claude's integration with DOD systems is a statutorily covered national-security risk Choose CNBC as your preferred source on Google and never miss a moment from the most trusted name in business news."
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/appeals-court-lets-the-pentagon-designate-anthropic-a-supply-chain-risk/"
+        },
+        {
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObmdHUE93UnBHZGZyaDI3RlBvYURwVV9BejN0QW1BTHNNd0VaMFdMY0NrSGJsTS1vQmo1VWFtejh6dE5lY29NMGhVZDlEMHNGTmFCTEkwR2JRT0RmU0VJRVBXck5JWG9RZk1jcFJwU2VQdjhEY3ptTnRMRXNrWW00cjlxa3VudEgtaHdLbzBnWU1CVTcxTTBSMnAycF91NXRBa2VnVmNsck1BandhMjVVVUVTNmI?oc=5"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260925/p10#a260925p10"
+        }
+      ],
+      "srcTitles": [
+        "Appeals Court Lets the Pentagon Designate Anthropic a Supply-Chain Risk",
+        "Federal appeals court rules Pentagon can blacklist Anthropic",
+        "A federal appeals court upholds DOD's Anthropic blacklisting, finding Claude's integration with DOD systems is \"a statutorily covered national-security risk\" (Ashley Capoot/CNBC)"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 61,
-      "sources": 2,
+      "signal": 65,
+      "sources": 3,
       "ts": "2026-09-25T12:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -26,16 +65,92 @@
         {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/260925/p5#a260925p5"
+        },
+        {
+          "d": "computerworld.com",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWkZ3aFlFY3dPV0cyWUhEMGgzTlVpRXpGQVFSVDYxWDZuTGRMLS1sX1JSWmE3RURYYk8xTmk0QklOb0pHSHZ2U0FyWktsMEdUczBMbnRsWk12bWdnamJmaHp2a2NvT2tjN2RWM3BSdm1DeW1rcWtXLWxSYnpmbXVfUGVaQmdua2FFUEt3aTgzYzdUbmRPeHNCQzNIVENzLWlrMFh4d3hIM3MtM1VkWk5IWmNhanZ5RmY4a1E?oc=5"
         }
       ],
       "srcTitles": [
         "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
-        "Microsoft launches its Copilot \"super app\", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot (Tom Warren/The Verge)"
+        "Microsoft launches its Copilot \"super app\", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot (Tom Warren/The Verge)",
+        "Microsoft’s new Copilot ‘super app’ unifies chat, code, agents"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 36,
+      "sources": 3,
+      "ts": "2026-09-25T17:22:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+      "s": "Pope Leo warns of AI threat to humanity at start of three-day France visit The Guardian",
+      "b": [
+        "theguardian.com: Pope Leo warns of AI threat to humanity at start of three-day France visit",
+        "abc7.com: Pope Leo on AI news: Pope Leo XIV warns 'paradise of machines' could undermine humanity as he opens France trip",
+        "abc7ny.com: Pope Leo on AI news: Pope Leo XIV warns 'paradise of machines' could undermine humanity as he opens France trip"
+      ],
+      "body": [
+        "theguardian.com: Pope Leo warns of AI threat to humanity at start of three-day France visit The Guardian",
+        "abc7.com: Pope Leo on AI news: Pope Leo XIV warns 'paradise of machines' could undermine humanity as he opens France trip ABC7 Los Angeles",
+        "abc7ny.com: Pope Leo on AI news: Pope Leo XIV warns 'paradise of machines' could undermine humanity as he opens France trip ABC7 New York"
+      ],
+      "l": [
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ3g5REFXVVI4ZEFzU2p3NDNtckJDemE4Y3VFOVlpc1N2aTE1NzhQMUU0WjhYb0dKRHNkTWhsQkRGZkxWVmh2RlV6eEgxNzhvdTdwOV9FcUFEc05vZzQxRk5PbWFvMTEzSTZKWFpmQXZCa0hyS1ZZLXVzQktGSDI0TlpXdUVqeGRjZVU1WmozZm94SzZDdVdLWlFyNDNndndF?oc=5"
+        },
+        {
+          "d": "abc7.com",
+          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdnRMNVFXMnMwZWlvSm9XYXRmdU1Oc1VGQkYwNWo3Q1k2QkV5RWp6SjlKdDNCdjlfejA5NjVCWjUydmFia0lxMlFMUzJHcnl3bVNQR0J6dGtpcUxlV1gxTDFaXzdxZnFlMWpwTjZidU9NU1B0TWNpZEtpVDNEc1pLSFJVYzRtN3J3YXZDM2VSSWt0T2I0TDdZVzJwdThKakNfaDdrOGFCRkJDMjR6NDRLSWdoUWdQNmNybkhPaHFLONIBxAFBVV95cUxOX09wVXBEMHNEeXlpdEZreUtxNWdWT2dObUp3UXBMX0lEY3NuQ2FlS2NnS1dJNEJFTzlHYkZ3RG9OZVJnTVAxNVR1Sm8wYnhnc1lQNzd1bk16NWtnR2dnTGhUcDNBZ0MwbUIwQWpIMTkwZ1JRNnlmNUs5LVYwWUdDV3FwTU1UWWhuVXBvQ0lZRnNJeFdlWnlnZWdXU3VWeUdMczE2dkNvZVlBMzNDaWJ2UVFPNnNSc1d6dlNEZXZoWk9wMHJr?oc=5"
+        },
+        {
+          "d": "abc7ny.com",
+          "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMUlJaU1reTRfVkMzdDdWMV9ETjJZdVU4WkRTOE4yTG9zSFUtX0RpTDVMWk9pa2VLQVRvRDNPT0VkV29UNlJ5SjMzd1lZaU1aWFU3bXQ1dlNKRzAyZGxtQ3VNX051NmNLSTFFbWNZdDhUUTNIUGc5RDgxcjlMT2Z4alh2eG5HeEFoLWZ5Y003al8zUjh2SEx0ZEM5bUJqYmFHeXdlTjZMMkpPZl85Q3poaWRDcy1NMU1EVUVQNFF3dnJid9IBxwFBVV95cUxQOGw4eUgzQTNDbU9HR3lvNU9NQVlfM1NEczlQcTZudWFfdHRITUZ2V2wxcFJ4SlNIX3N2aThtc3Zib2oxOG9wcVlqSkttZlBCSmNrZXZGSDF3bmVVemRGUldGRWRaXy00Q29tMW42N200UlRZcDJqLTR0ZG5qRTRDbkU3bGxFMlhRbGF4ZmdLSlMycE02ZHNTc3JzNkl2a3ZrMTBxVWpRVFNub3VlSk1jbnp1NWotc19kZzA0U055QTJxY1BySmk0?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Pope Leo warns of AI threat to humanity at start of three-day France visit",
+        "Pope Leo on AI news: Pope Leo XIV warns 'paradise of machines' could undermine humanity as he opens France trip",
+        "Pope Leo on AI news: Pope Leo XIV warns 'paradise of machines' could undermine humanity as he opens France trip"
       ]
     },
     {
       "cat": "funding",
-      "signal": 37,
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-09-25T13:15:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Bill Gates warns about the catastrophic risk posed by \"people with ill intent using the latest AI tools\", which are powerful enough to \"cause a billion deaths\" (Herb Scribner/Axios)",
+      "s": "Herb Scribner / Axios : Bill Gates warns about the catastrophic risk posed by people with ill intent using the latest AI tools , which are powerful enough to cause a billion deaths Bill Gates will war",
+      "b": [
+        "techmeme.com: Bill Gates warns about the catastrophic risk posed by \"people with ill intent using the latest AI tools\", which are powerful enough to \"cause a billion deaths\" (Herb Scribner/Axios)",
+        "detroitnews.com: Bill Gates warns AI powerful enough to lead to ‘a billion deaths’"
+      ],
+      "body": [
+        "techmeme.com: Herb Scribner / Axios : Bill Gates warns about the catastrophic risk posed by people with ill intent using the latest AI tools , which are powerful enough to cause a billion deaths Bill Gates will warn on this weekend's Meet the Press that he can see a future where AI wipes out humanity.",
+        "detroitnews.com: Bill Gates warns AI powerful enough to lead to ‘a billion deaths’ The Detroit News"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260925/p6#a260925p6"
+        },
+        {
+          "d": "detroitnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZGQ0U3NEX2EwZldHWnBLMlp0OU8yeFB4SHgxQUR6b2hmNzZ0YzJIMUhYTFBFWElfeVdUQmRBaVZpNEJxeE14YS14ajdmT21veW5mNDR3Ry0xYUdWTEhRQi05S1VwTzFyY0xYakZhNWl3VmNhYkFkblBGN0lXOUxuX3lqZkI0YVFxbEVPRl9XUnliNVBGWmFkeXRFSmJkV3RuWWlqSmVsb3ZRTEUxQnJXMlBjZVhZaUdUY09SdUhnM3JnVGg1Y2NxekkxTHdUYVFITng0X0NoamQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Bill Gates warns about the catastrophic risk posed by \"people with ill intent using the latest AI tools\", which are powerful enough to \"cause a billion deaths\" (Herb Scribner/Axios)",
+        "Bill Gates warns AI powerful enough to lead to ‘a billion deaths’"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 34,
       "sources": 1,
       "ts": "2026-09-25T09:16:25.000Z",
       "writtenSources": 1,
@@ -59,8 +174,65 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-09-25T18:43:18.243Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+      "s": "With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster.",
+      "b": [
+        "openai.com: Proaction boosts sales 60% and saves 75+ hours with Codex"
+      ],
+      "body": [
+        "openai.com: With Codex, GPT-Live-1, and GPT-6 Astra, Proaction builds, operates, and sells modern fleet management faster."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/proaction"
+        }
+      ],
+      "srcTitles": [
+        "Proaction boosts sales 60% and saves 75+ hours with Codex"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-25T13:14:44.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Trump hails 'very productive' Xi meeting as Chinese leader ends US visit",
+      "s": "Trump hails 'very productive' Xi meeting as Chinese leader ends US visit WNWO",
+      "b": [
+        "nbc24.com: Trump hails 'very productive' Xi meeting as Chinese leader ends US visit",
+        "wjactv.com: Trump hails 'very productive' Xi meeting as Chinese leader ends US visit"
+      ],
+      "body": [
+        "nbc24.com: Trump hails 'very productive' Xi meeting as Chinese leader ends US visit WNWO",
+        "wjactv.com: Trump hails 'very productive' Xi meeting as Chinese leader ends US visit WJAC"
+      ],
+      "l": [
+        {
+          "d": "nbc24.com",
+          "u": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQd1pVOF85WVMyZkZmYkdiTm5ORm51VXdhLWFxR3lXY1o0STNkenJhejFQZnFkV3R4TUpva3pBeVYzdjA3OVV3MmVnYWNIcGdjRjRzZmRzN2NtVlNKQ2pYc3E5dHA5QUFya29NX2d3YzNyd2owcGJ0YTl4cWNWLV9NOUR3NWx2bEszN09FS2NReG5lTkp1bWFfT1h0Yk9pRXNpVkl4YVAtSFkwRlFic3d5T1YtNjE5cV85RTl1eXlGWW96cHNxQ0s1MGpyNThfVUhTNUJxUDlyUDRYb1U2OE5hUTNQNllMQlN4RnVWR2N0a1NQR1oxY3hEUXdSUEFSd2lVem9mSjZkeGRDNWEzZXNvdHFGQWd4dzdRZ1ZvU3RsOUpaNUdCdVdldXBEekF0aEpnRjF6bkxYaS1ZVFBCZEI3Y19uczEtdDk5aTFKV3p3aUNSRW1SWFlTcFJn?oc=5"
+        },
+        {
+          "d": "wjactv.com",
+          "u": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQeTY5eFVwTUlLNE8tZ3BOTjFNekRQcjBCNUVEMUQ0TGhxdXVhaThMQ0hwUXNuRE4xWWRMNlhYbnhZZUtWX083Q3RGNFl4ME9nZFhOSVVsS0p5ay1tZVdDQXo5b1NBbXlTUDZVR3k3b2NIcTk2TndPbVBQYVZLWVJzUm9yYnUySkVkMjVOWEd3cEhmS1pWWVdtSnpORi04Z01lWXdubmVDX3VlQU04NXJ6STZjZGpmM05UZFJuM2UxU0s3V3J1WjhyZm9aSTk5Smk1MExoQU1zbXhtaW5XZ1AwZVcxOXNVU0dFdlo1aVRFazdOQVZnTHNIZ0pIaEJMRmgtTWtLc0lPT0tnWnJMWEM2SG5ieVVhbFQzRkhhb3cySDFTS3k2STU4U0gtd0RvalVlelcxX1ZVOTFDTnk0RUE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump hails 'very productive' Xi meeting as Chinese leader ends US visit",
+        "Trump hails 'very productive' Xi meeting as Chinese leader ends US visit"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 29,
+      "signal": 25,
       "sources": 2,
       "ts": "2026-09-25T09:31:00.000Z",
       "writtenSources": 2,
@@ -92,7 +264,7 @@
     },
     {
       "cat": "models",
-      "signal": 16,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-09-25T01:02:28.000Z",
       "writtenSources": 2,
