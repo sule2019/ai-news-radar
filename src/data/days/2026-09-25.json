@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 68,
+      "signal": 64,
       "sources": 3,
       "ts": "2026-09-25T15:52:57.000Z",
       "writtenSources": 3,
@@ -42,7 +42,7 @@
     },
     {
       "cat": "products",
-      "signal": 65,
+      "signal": 61,
       "sources": 3,
       "ts": "2026-09-25T12:00:00.000Z",
       "writtenSources": 2,
@@ -79,7 +79,7 @@
     },
     {
       "cat": "funding",
-      "signal": 64,
+      "signal": 61,
       "sources": 2,
       "ts": "2026-09-25T18:33:59.000Z",
       "writtenSources": 2,
@@ -110,8 +110,33 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 34,
+      "sources": 1,
+      "ts": "2026-09-25T09:16:25.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "s": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request . The program, called Polygraph+ or Pol",
+      "b": [
+        "technologyreview.com: The Pentagon wants $30 million to build an AI-powered lie detector"
+      ],
+      "body": [
+        "technologyreview.com: The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request . The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which refers to the ability to take physiological readings without attaching a device to a subject’s person. According to details of the budget document, which were first reported by Inside Defense , the project will “modernize federal polygraph and credibility assessment technologies” to improve their accuracy and reliability. But the project may be just the latest in a long line of failed attempts to use technology to detect lies. “It’s a misguided effort to reduce the complex to something that is tangible,” says Kyri Kotsoglou, a legal scholar at Northumbria University in the UK who studies the use of polygraphs in the justice system. The move comes at a time of high tension within the department. Under Defense Secretary Pete Hegseth, the Pentagon has been increasingly turning to polygraph tests in an attempt to find the sources of alleged leaks to the press. In September, the New York Times reported that around 50 officers on the Joint Staff had been given polygraph tests after news coverage reported on the depletion of US weapons stockpiles in the war with Iran. Polygraph+ will be run by the Defense Counterintelligence and Security Agency (DCSA), which conducts background checks for the federal government. According to the budget document, which has not yet been approved by Congress, the new technology will be used for vetting of prospective employees and “insider threat detection.” It is not yet clear which specific technologies will be used, and the DCSA did not respond to a request for more information. But other Pentagon efforts offer potential clues. In 2023, the department’s Defense Innovation Unit (DIU) ran an open"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
+        }
+      ],
+      "srcTitles": [
+        "The Pentagon wants $30 million to build an AI-powered lie detector"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 36,
+      "signal": 32,
       "sources": 3,
       "ts": "2026-09-25T17:22:00.000Z",
       "writtenSources": 3,
@@ -149,65 +174,8 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 34,
-      "sources": 1,
-      "ts": "2026-09-25T09:16:25.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "s": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request . The program, called Polygraph+ or Pol",
-      "b": [
-        "technologyreview.com: The Pentagon wants $30 million to build an AI-powered lie detector"
-      ],
-      "body": [
-        "technologyreview.com: The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request . The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which refers to the ability to take physiological readings without attaching a device to a subject’s person. According to details of the budget document, which were first reported by Inside Defense , the project will “modernize federal polygraph and credibility assessment technologies” to improve their accuracy and reliability. But the project may be just the latest in a long line of failed attempts to use technology to detect lies. “It’s a misguided effort to reduce the complex to something that is tangible,” says Kyri Kotsoglou, a legal scholar at Northumbria University in the UK who studies the use of polygraphs in the justice system. The move comes at a time of high tension within the department. Under Defense Secretary Pete Hegseth, the Pentagon has been increasingly turning to polygraph tests in an attempt to find the sources of alleged leaks to the press. In September, the New York Times reported that around 50 officers on the Joint Staff had been given polygraph tests after news coverage reported on the depletion of US weapons stockpiles in the war with Iran. Polygraph+ will be run by the Defense Counterintelligence and Security Agency (DCSA), which conducts background checks for the federal government. According to the budget document, which has not yet been approved by Congress, the new technology will be used for vetting of prospective employees and “insider threat detection.” It is not yet clear which specific technologies will be used, and the DCSA did not respond to a request for more information. But other Pentagon efforts offer potential clues. In 2023, the department’s Defense Innovation Unit (DIU) ran an open"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
-        }
-      ],
-      "srcTitles": [
-        "The Pentagon wants $30 million to build an AI-powered lie detector"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 30,
-      "sources": 2,
-      "ts": "2026-09-25T13:15:01.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Bill Gates warns about the catastrophic risk posed by \"people with ill intent using the latest AI tools\", which are powerful enough to \"cause a billion deaths\" (Herb Scribner/Axios)",
-      "s": "Herb Scribner / Axios : Bill Gates warns about the catastrophic risk posed by people with ill intent using the latest AI tools , which are powerful enough to cause a billion deaths Bill Gates will war",
-      "b": [
-        "techmeme.com: Bill Gates warns about the catastrophic risk posed by \"people with ill intent using the latest AI tools\", which are powerful enough to \"cause a billion deaths\" (Herb Scribner/Axios)",
-        "detroitnews.com: Bill Gates warns AI powerful enough to lead to ‘a billion deaths’"
-      ],
-      "body": [
-        "techmeme.com: Herb Scribner / Axios : Bill Gates warns about the catastrophic risk posed by people with ill intent using the latest AI tools , which are powerful enough to cause a billion deaths Bill Gates will warn on this weekend's Meet the Press that he can see a future where AI wipes out humanity.",
-        "detroitnews.com: Bill Gates warns AI powerful enough to lead to ‘a billion deaths’ The Detroit News"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260925/p6#a260925p6"
-        },
-        {
-          "d": "detroitnews.com",
-          "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZGQ0U3NEX2EwZldHWnBLMlp0OU8yeFB4SHgxQUR6b2hmNzZ0YzJIMUhYTFBFWElfeVdUQmRBaVZpNEJxeE14YS14ajdmT21veW5mNDR3Ry0xYUdWTEhRQi05S1VwTzFyY0xYakZhNWl3VmNhYkFkblBGN0lXOUxuX3lqZkI0YVFxbEVPRl9XUnliNVBGWmFkeXRFSmJkV3RuWWlqSmVsb3ZRTEUxQnJXMlBjZVhZaUdUY09SdUhnM3JnVGg1Y2NxekkxTHdUYVFITng0X0NoamQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Bill Gates warns about the catastrophic risk posed by \"people with ill intent using the latest AI tools\", which are powerful enough to \"cause a billion deaths\" (Herb Scribner/Axios)",
-        "Bill Gates warns AI powerful enough to lead to ‘a billion deaths’"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-09-25T18:43:18.243Z",
       "writtenSources": 1,
@@ -231,8 +199,72 @@
       ]
     },
     {
-      "cat": "models",
+      "cat": "funding",
       "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-25T13:15:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Bill Gates warns about the catastrophic risk posed by \"people with ill intent using the latest AI tools\", which are powerful enough to \"cause a billion deaths\" (Herb Scribner/Axios)",
+      "s": "Herb Scribner / Axios : Bill Gates warns about the catastrophic risk posed by people with ill intent using the latest AI tools , which are powerful enough to cause a billion deaths Bill Gates will war",
+      "b": [
+        "techmeme.com: Bill Gates warns about the catastrophic risk posed by \"people with ill intent using the latest AI tools\", which are powerful enough to \"cause a billion deaths\" (Herb Scribner/Axios)",
+        "detroitnews.com: Bill Gates warns AI powerful enough to lead to ‘a billion deaths’"
+      ],
+      "body": [
+        "techmeme.com: Herb Scribner / Axios : Bill Gates warns about the catastrophic risk posed by people with ill intent using the latest AI tools , which are powerful enough to cause a billion deaths Bill Gates will warn on this weekend's Meet the Press that he can see a future where AI wipes out humanity.",
+        "detroitnews.com: Bill Gates warns AI powerful enough to lead to ‘a billion deaths’ The Detroit News"
+      ],
+      "l": [
+        {
+          "d": "detroitnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZGQ0U3NEX2EwZldHWnBLMlp0OU8yeFB4SHgxQUR6b2hmNzZ0YzJIMUhYTFBFWElfeVdUQmRBaVZpNEJxeE14YS14ajdmT21veW5mNDR3Ry0xYUdWTEhRQi05S1VwTzFyY0xYakZhNWl3VmNhYkFkblBGN0lXOUxuX3lqZkI0YVFxbEVPRl9XUnliNVBGWmFkeXRFSmJkV3RuWWlqSmVsb3ZRTEUxQnJXMlBjZVhZaUdUY09SdUhnM3JnVGg1Y2NxekkxTHdUYVFITng0X0NoamQ?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdEVVWkVzak9tdDRaZ3BFcXY3WFQyYW16QnVURlJ3V3hkRG1RQ3FOWXJpSjZMMTdmYmMzaEQ0YWRTeUxLZ2xfYldJZEhqcVRWZnRCVE5mdGZwWWF4TUZ3eTBfWnpiUmxZUTlqeFcyaWlQaHlkYmVaYmxHRHpoNTBlR05UYngtYUJTQ0VyQXdnQk0waVdTeEJR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Bill Gates warns AI powerful enough to lead to ‘a billion deaths’",
+        "Bill Gates Warns AI Powerful Enough to Lead to ‘a Billion Deaths’"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-25T01:56:52.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Rogue AI agents hack government website, world leaders on edge of regulatory action",
+      "s": "Rogue AI agents hack government website, world leaders on edge of regulatory action Fox News",
+      "b": [
+        "foxnews.com: Rogue AI agents hack government website, world leaders on edge of regulatory action",
+        "news.bgov.com: Tech, AI Leaders to Join Trump for Launch of Government Website"
+      ],
+      "body": [
+        "foxnews.com: Rogue AI agents hack government website, world leaders on edge of regulatory action Fox News",
+        "news.bgov.com: Tech, AI Leaders to Join Trump for Launch of Government Website Bloomberg Government News"
+      ],
+      "l": [
+        {
+          "d": "foxnews.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMG1KTzA3RVFvSGtaQ1d0OVhtaF9rYUlqZ1ZMZEFyOXdtNmpVS19IX251TU95WFh0RmFjdFJGWjVFQnRuOVVlSkJCeldZS1Q2eV9RSDF4c0RsUVp1SV9STFhSdzNaX1NTdFEzOS1Dd0J6a2JHLVA2cW1FcDVLdE5hSkJTX2ZwcXJxX3Ywdlc3RnczWlpEeEg0V1BRdU1IbjJ0VWVYLUh5MW94YWdkeGpia1lB?oc=5"
+        },
+        {
+          "d": "news.bgov.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMktJR0FadS1fY0JodTdWZ3FuODM3WTRuUlFjdUhnNmQ4WThydlNKODFEN01NSDhkbUxQVW9JZF9oUGRFM3FmZngtVDc3dzNWSXUzZ0JyVXZ5OWhFQ3lnUmNaQmlSekNZOElDOVAtTDJFa1BSR0JkSHFKUDRRU1VRN0REVm1YX0VZQ3Q4dE5EbGFaaHphS3NmQTVZWHpSWUhqbDcxOTF0Sm1rNXo4?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Rogue AI agents hack government website, world leaders on edge of regulatory action",
+        "Tech, AI Leaders to Join Trump for Launch of Government Website"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
       "sources": 2,
       "ts": "2026-09-25T13:14:44.000Z",
       "writtenSources": 2,
@@ -264,7 +296,7 @@
     },
     {
       "cat": "policy",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-09-25T09:31:00.000Z",
       "writtenSources": 2,
