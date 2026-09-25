@@ -2,8 +2,40 @@
   "date": "2026-09-25",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-25T18:33:59.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+      "s": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+      "b": [
+        "techcrunch.com: Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+        "techmeme.com: Nscale secures $3.36B in convertible financing led by Third Point ahead of its US IPO, with $2.36B available immediately and $1B from Nvidia in November (Marina Temkin/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
+        "techmeme.com: Marina Temkin / TechCrunch : Nscale secures $3.36B in convertible financing led by Third Point ahead of its US IPO, with $2.36B available immediately and $1B from Nvidia in November Nscale, a British neocloud, has secured $3.36 billion in financing ahead of its IPO later this year, the company announced on Friday."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260925/p14#a260925p14"
+        }
+      ],
+      "srcTitles": [
+        "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
+        "Nscale secures $3.36B in convertible financing led by Third Point ahead of its US IPO, with $2.36B available immediately and $1B from Nvidia in November (Marina Temkin/TechCrunch)"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 64,
+      "signal": 60,
       "sources": 3,
       "ts": "2026-09-25T15:52:57.000Z",
       "writtenSources": 3,
@@ -42,7 +74,7 @@
     },
     {
       "cat": "products",
-      "signal": 61,
+      "signal": 57,
       "sources": 3,
       "ts": "2026-09-25T12:00:00.000Z",
       "writtenSources": 2,
@@ -79,38 +111,6 @@
     },
     {
       "cat": "funding",
-      "signal": 61,
-      "sources": 2,
-      "ts": "2026-09-25T18:33:59.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-      "s": "The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
-      "b": [
-        "techcrunch.com: Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-        "techmeme.com: Nscale secures $3.36B in convertible financing led by Third Point ahead of its US IPO, with $2.36B available immediately and $1B from Nvidia in November (Marina Temkin/TechCrunch)"
-      ],
-      "body": [
-        "techcrunch.com: The funding, which comes from Third Point, Nvidia, and others, will fuel the company's massive AI data center buildout.",
-        "techmeme.com: Marina Temkin / TechCrunch : Nscale secures $3.36B in convertible financing led by Third Point ahead of its US IPO, with $2.36B available immediately and $1B from Nvidia in November Nscale, a British neocloud, has secured $3.36 billion in financing ahead of its IPO later this year, the company announced on Friday."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/09/25/ahead-of-u-s-ipo-british-ai-neocloud-nscale-secures-3-36b-in-convertible-finacing/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260925/p14#a260925p14"
-        }
-      ],
-      "srcTitles": [
-        "Ahead of US IPO, British AI neocloud Nscale secures $3.36B in convertible financing",
-        "Nscale secures $3.36B in convertible financing led by Third Point ahead of its US IPO, with $2.36B available immediately and $1B from Nvidia in November (Marina Temkin/TechCrunch)"
-      ]
-    },
-    {
-      "cat": "funding",
       "signal": 34,
       "sources": 1,
       "ts": "2026-09-25T09:16:25.000Z",
@@ -136,7 +136,7 @@
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 3,
       "ts": "2026-09-25T17:22:00.000Z",
       "writtenSources": 3,
@@ -232,7 +232,7 @@
     },
     {
       "cat": "policy",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-09-25T01:56:52.000Z",
       "writtenSources": 2,
@@ -264,7 +264,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-25T13:14:44.000Z",
       "writtenSources": 2,
@@ -296,7 +296,7 @@
     },
     {
       "cat": "policy",
-      "signal": 17,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-09-25T09:31:00.000Z",
       "writtenSources": 2,
