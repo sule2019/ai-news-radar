@@ -2,8 +2,97 @@
   "date": "2026-09-25",
   "stories": [
     {
+      "cat": "products",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-09-25T12:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+      "s": "After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and ",
+      "b": [
+        "theverge.com: Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+        "techmeme.com: Microsoft launches its Copilot \"super app\", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot (Tom Warren/The Verge)"
+      ],
+      "body": [
+        "theverge.com: After teasing its new Copilot \"super app\" last month, Microsoft is officially unveiling it today. The redesigned Copilot app bundles three AI capabilities into a single interface of chat, coding, and agents. As part of the launch, Microsoft is also rebranding Scout, the AI personal assistant it unveiled at Build earlier this year, as Autopilot. [ ]",
+        "techmeme.com: Tom Warren / The Verge : Microsoft launches its Copilot super app , bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot The new Copilot merges AI chat, coding, and Autopilot agents. After teasing its new Copilot super app"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260925/p5#a260925p5"
+        }
+      ],
+      "srcTitles": [
+        "Microsoft thinks its new Copilot ‘super app’ will be as influential as Office",
+        "Microsoft launches its Copilot \"super app\", bundling chat, coding, and agents into a single interface, and rebrands its AI assistant Scout as Autopilot (Tom Warren/The Verge)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 37,
+      "sources": 1,
+      "ts": "2026-09-25T09:16:25.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "s": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request . The program, called Polygraph+ or Pol",
+      "b": [
+        "technologyreview.com: The Pentagon wants $30 million to build an AI-powered lie detector"
+      ],
+      "body": [
+        "technologyreview.com: The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request . The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning and on a technique called “standoff sensing,” which refers to the ability to take physiological readings without attaching a device to a subject’s person. According to details of the budget document, which were first reported by Inside Defense , the project will “modernize federal polygraph and credibility assessment technologies” to improve their accuracy and reliability. But the project may be just the latest in a long line of failed attempts to use technology to detect lies. “It’s a misguided effort to reduce the complex to something that is tangible,” says Kyri Kotsoglou, a legal scholar at Northumbria University in the UK who studies the use of polygraphs in the justice system. The move comes at a time of high tension within the department. Under Defense Secretary Pete Hegseth, the Pentagon has been increasingly turning to polygraph tests in an attempt to find the sources of alleged leaks to the press. In September, the New York Times reported that around 50 officers on the Joint Staff had been given polygraph tests after news coverage reported on the depletion of US weapons stockpiles in the war with Iran. Polygraph+ will be run by the Defense Counterintelligence and Security Agency (DCSA), which conducts background checks for the federal government. According to the budget document, which has not yet been approved by Congress, the new technology will be used for vetting of prospective employees and “insider threat detection.” It is not yet clear which specific technologies will be used, and the DCSA did not respond to a request for more information. But other Pentagon efforts offer potential clues. In 2023, the department’s Defense Innovation Unit (DIU) ran an open"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/"
+        }
+      ],
+      "srcTitles": [
+        "The Pentagon wants $30 million to build an AI-powered lie detector"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-25T09:31:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Japan regulator is boosting scrutiny of AI data center financing",
+      "s": "Japan regulator is boosting scrutiny of AI data center financing The Japan Times",
+      "b": [
+        "japantimes.co.jp: Japan regulator is boosting scrutiny of AI data center financing",
+        "asia.nikkei.com: AI data centers increasingly built on GPU collateral, other novel financing"
+      ],
+      "body": [
+        "japantimes.co.jp: Japan regulator is boosting scrutiny of AI data center financing The Japan Times",
+        "asia.nikkei.com: AI data centers increasingly built on GPU collateral, other novel financing Nikkei Asia"
+      ],
+      "l": [
+        {
+          "d": "japantimes.co.jp",
+          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoZjlZeHdaMnFWczZtYUxfN3BwQkJhaGlJU29QajdMM3RYbXo3UEptX0lfMEphd2RDVVBaZG1UaVVoSVhoRThadS16TFFUQzNmVDlZOHZuU01uTlZDX3pkVEJFOHFIM1U5c2h5cXNXSzZoRTFydGxXTlhxeE1hSDg?oc=5"
+        },
+        {
+          "d": "asia.nikkei.com",
+          "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSG9MbFVkZER3ZE92cjU0MmJESDFFSUxOWHRab3dnRUZVUVVkSGhibEtsYmNSWFVTNE5JLURNYnFpSWlkM1loSDFaTUg3Yy00OFMwengxUFRaS1NEMnoyYWV5dnl1QllkV2g3a0JxbjFubzQxQTFOM3RTT1AwU0JncmdWeFFjT2dWUy1zZTVSQ256anFjQzU0NWJYX3d3R3lyQzl4bVlxVklWbXlLemtnOURReUUtdVlkdEwxSjRlUGQwZl9ZRUtNUjFobTRMX00zUnNIWTlVaTA0dw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Japan regulator is boosting scrutiny of AI data center financing",
+        "AI data centers increasingly built on GPU collateral, other novel financing"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 24,
+      "signal": 20,
       "sources": 2,
       "ts": "2026-09-25T01:02:28.000Z",
       "writtenSources": 2,
