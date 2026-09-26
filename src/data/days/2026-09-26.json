@@ -2,6 +2,70 @@
   "date": "2026-09-26",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-09-26T04:10:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI pauses training of its ‘most capable models’",
+      "s": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The de",
+      "b": [
+        "theverge.com: OpenAI pauses training of its ‘most capable models’",
+        "techmeme.com: OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training (OpenAI)"
+      ],
+      "body": [
+        "theverge.com: As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [ ]",
+        "techmeme.com: OpenAI : OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training Summary An agent attempting to complete a search-based training task queried a public chatbot service through a gap"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260926/p1#a260926p1"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI pauses training of its ‘most capable models’",
+        "OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training (OpenAI)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-09-25T22:20:47.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Unsecured OpenAI agents posted 53 user images on the internet without the lab s knowledge",
+      "s": "AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+      "b": [
+        "techcrunch.com: Unsecured OpenAI agents posted 53 user images on the internet without the lab s knowledge",
+        "taipeitimes.com: OpenAI says its AI agents posted user images online"
+      ],
+      "body": [
+        "techcrunch.com: AI agents operating in OpenAI's research environment posted user images on public image-hosting sites without the lab's knowledge.",
+        "taipeitimes.com: OpenAI says its AI agents posted user images online Taipei Times"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/"
+        },
+        {
+          "d": "taipeitimes.com",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SODRMd0Zxc1V4QXN0c3Y3aXAxZ1hSVkIwbU13NDJlOGhPWlZNMG1tTlFMdWhDWXdac2V0ME42NXg0bi1GS2RpOWZZYlFCR2VPYnEwUE5yZ2tySWE3ZEM3alJyejROMThUVUp0bE9aRzFDaDNSaGFZcw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Unsecured OpenAI agents posted 53 user images on the internet without the lab s knowledge",
+        "OpenAI says its AI agents posted user images online"
+      ]
+    },
+    {
       "cat": "policy",
       "signal": 54,
       "sources": 4,
@@ -20,65 +84,33 @@
       ],
       "l": [
         {
-          "d": "foxnews.com",
-          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEN1bnBHSXRueHA3QUtnVWdDc0xpbjY2elY4ZVhaTFg0cXlweEtvYUx5Y2pjYVhnQXhMUEluR2FSZ3RISEIzREt6cTlfcWxWcXBEbXU5TElxOW5RcXp1RDBMaEEweVJ3Nll4Nkk3Nlloa2NUOHhmRkVONktkVTdyekUwMEJxNFZyRm1UVWdZTQ?oc=5"
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5"
         },
         {
           "d": "politico.com",
           "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDFBeDhjMVNRTFUtUVNrcmE4Uk9PQ3Nmdnp0Z0hXSWhCSGRFMkI0U05ueXViaFFycmNpODhSRDgxVFFUUFA2T3FpLWRTV20tNTR2SURkVjk0ZUJPTkVGZXFXQmtBRUZnWlRlQkE3bGx3eUJESTBtQWpoWUFma24tMEJMc1BMQTlIMUdNbkloQW9raVdIMWxic0J0UTMtWDdPZlJV?oc=5"
         },
         {
+          "d": "10tv.com",
+          "u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdTZBSGsyY3ZmaEZIYVlCVVd5S1ZvTXBYaGx3eU0xRHgxVGdMSXZMNS1qdnFJcEhpYlVINGZWWDR1RjNWSFphRGdwLUtyTXAwdHdVYTJfb3dHWjhKeFBxX0hTLVlXc2ZjN3RXU1JQS0ZWSVNucVI4Tnl6SVpwX2hxNk00TERRMkFsZmZtb252Vm5lQTFNS2lic0ZBc0dWRjM3d3ptaFduVE1WZUVSQ3ZyRnY4SktxeHJNbWlPN3AtSDlWUEwtcXBka0JYX05JdzVxaG0yR0VYSVRCaTEwM2NhMlJTM193ZTBha3BrdmdyTjBEdWpxZ1N1VTlZcjFvSnJrc0h3bDZRZ3REdERTSC1mSw?oc=5"
+        },
+        {
           "d": "usnews.com",
           "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaXV1UmYzWlNQZ1pwR2FlYllRUGtIbjVJa25iYmRvV2V1TlpmelcxMVhGVTUwVVo0TXV1OHY1cFdmMl84bkZUaHctZXZ1OUttSnRERUlNSWRxXzRnZXZ1UEZpUW5mVTYydF9pbEJkc2JENjNMakxnQjF0RWxwcHNjSmhQVlZ1Vk81eEw5eDNaUzZDUVVaV2tzTFppcWtEV19YSUJIMmItNkRDRlVjdDVUOGZHVnJFQ0ZHbVFGWFp2YXktUlJUSjBhTXN1RU5aWDExMTVJd2NYazYzNnRHaHRXNXE5aTNldw?oc=5"
-        },
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5"
         }
       ],
       "srcTitles": [
-        "OpenAI agents targeted government websites as AI leaders warn of growing risks: report",
+        "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
         "Rogue OpenAI agents accessed US government websites",
-        "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
-        "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 30,
-      "sources": 2,
-      "ts": "2026-09-25T23:11:10.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "s": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-      "b": [
-        "techcrunch.com: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "cnbc.com: China wants in on U.S. AI data center boom. Here's why"
-      ],
-      "body": [
-        "techcrunch.com: Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-        "cnbc.com: China wants in on U.S. AI data center boom. Here's why CNBC"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
-        },
-        {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lQ0p4dkRYalpYNmpfS3dvc3U5ZFI4aW9IVHcxVDBqUTlKZlJodU5ZVC10cmxEN0hwYnRWU0ZESXczcTdKZGRVREVqU2tYeWNieVB3VjFWWkFRcHRiVGx5bmg5ZE9nOEJ0YVNVdWhB0gFzQVVfeXFMTWYyb29FMElKZ3JvbmF2WVNOUjdtUURCN09KMXBNTDZsY19PMDFaNkpFUGVFY1RkNVlqY3p5aHFuSEJIQV82S1doZU9iQTVDR2k5eHRPVHFGamRHZXVLd2sySHdRNm1NdUI5YnltTlZ3RG1xdw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "China wants in on U.S. AI data center boom. Here's why"
+        "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
+        "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure"
       ]
     },
     {
       "cat": "funding",
-      "signal": 29,
-      "sources": 2,
+      "signal": 52,
+      "sources": 3,
       "ts": "2026-09-26T11:17:39.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -94,17 +126,22 @@
       ],
       "l": [
         {
-          "d": "wane.com",
-          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVjZpTDlDZTMyelpDV0Vpc2hQbzJVMkNDZENYaGg1cnh5V1hXRjJISXpobERZRDRDTGZvNjY5TzlsaHg4OVZHUmxBTjdYZjROWjRjVXZEMWp0ZHEtS1JHZDdQUVUxbl83dU9lZ3NGSkpxS3hHN0RKTF9seldJU2ZRTDdIcTBnalJKM1hVOW1XZnVZQ2hlOWNrTVFIN3hScjZxeVl1S2V2dWN1d3lvb1RFLU45OVQ2Y3lI0gG-AUFVX3lxTE5NODY5ZklBYjBwZm9rNGZYX0o4OE9HWmhiZHhxWXBxMEVoenc2QVZZYWxLalo4WXBiN3BWQXF5QTNLRGRxLVk5a18tcGs5NVJrNnZoMFMzVlY2c1M4YlpVcGt3UzloR3FMZ1hvcW9Nd2ZWVjFncjgtWFp1UmstWFVHR3JXcnBiNjJCUGpRWGM5YXdMY0hHbDR1YWlTdm9mNmVLT3drMHRuZXZvVTJsTGtpaEIwbUJBTkM3dEpoVVE?oc=5"
+          "d": "thehill.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21ZZWtfTDZVTkpVNFE4VWJiTy1RbmtNX2l6RVN1Ui1ZaVpuQ2p6eE1CcDZYNDJsU3dpbjJhZzVvWVJCZEtrbjA0bTBVQnFiYVNYa1BMaVRUcHpRY2t2dXN3c1NiS3NSYmJ5N2NkSGdVbUNDSk5LT2ZuSVJlb255T0JoR1BPQVVpSEZTNNIBkgFBVV95cUxOOFh1NnNUUDFudzZweFdaNEpfX0pKMGdvYWJBZUJuSWY5NkliYlN3ZDRYOGJsSExjZjdYYXRNWXFzS0hrR241am1aRDVPS3M3SDVZbEtXd05ENDc5M05FZjZFdWdTWE5pR0dlY0IyNkowVkZaMmkydU9fM2dlYnVQUnRqeWlqWUtQbFV6TGFWaUVXdw?oc=5"
         },
         {
-          "d": "newsnationnow.com",
-          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQWhnVE40c1hZal9DTmVEeVZXcUpTUXRCQnR4czBHUFNRa29jbGpsaXdmUDQ0NkJPLUxKc3RTNzlndTJ4MmJMdmp4ekRia0doNHRUczd4aXdxWDI4OGJqZlN3aG5iVEZnWHRoemo4OUx0UC1iZGRFMU94RVlsRktEV1JtUnVaclVSNGFzbjd1V2hHNlNPNU9YUGVQMnZWXzlCWktiZHFmazl0YlhFWHk0dVJfVDBwZERKM1FXbnlZSzdZNEJXWE1PNFhFOEl4d9IB0wFBVV95cUxOemZ2LVVtckFYTF9OdnNUemVHNXJLWC1xME1ydTczOHVtWUZhVndwUzlRQjRCUFNfVGZmM0Rndnk0ZXJHajJkYUR2UWZuMVFFck93MGwzWUFsa19nbGkyX3lwQ0JzVThySHVEOWdkeVY1SUJsamNlZjVzcGFCcXVDUl90emYya3dnXzNndWUxdEF4aEpFOHhpSW5odWhDU1NCR3JqcGVpcVNTUEY3T0hrNmM1X1YzNGJldjNfQUh1Ukt3QUo3RzFZZXNvNTgybDJTYWk0?oc=5"
+          "d": "aljazeera.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlV4Q3ViaXhtVTVPODZkRHRpYjdXS0hvUWE1UnAzNWFSSWhFN1NLd2g0ZDZmUlJKWW81b0lUNk9rVnNUMF9Xa3lSa1NLdWhEZzBaYXQ3RF9ObHpLNTdqM09zNzJpa0tNeVFBWkpjeTJxempabkd2Z25EalNXY2RRUzdraTV3UWxqOGFjcEZadjRRVEpJOW9mOFMwX0JieWpwdXczNHBoTURiYTBtajJUa0xB0gG3AUFVX3lxTE1TamZEbF9mVV81UXhhalVNc2l4WFhWNzBqS2tjWmhpUnBnZWc3Y2pfQnU3Sld5MEM5U2V6WlBfRjg1MGtjZXNrMlp1T3lUcVFyS2drYXFUaFBjYVZOYUxqVHN3b0VRSGtOajUxcmpjTHBWbEVSUi05WHNIR3RIcURVS1FVOExWZkdRT0hjYUcxbDloWjNlNlZmbmJmd2wzbGpPcEpKMG84cU1IaXdMSXo5YkprbkFQUQ?oc=5"
+        },
+        {
+          "d": "taipeitimes.com",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VaDVPMjhJY3YzanlFdWdQdVJlQ25PV3R3X2pBMmF0UHRVc3N1anBkejNiSVUzMG5WbmxMRFlwRTVlMHZGVlpYY1VrUHdMWTVRVVh1QW1mNjVGZDJ0SlBwamJzSGp5T2tyWnpHYmR5MHFUd3VqNlh2Tw?oc=5"
         }
       ],
       "srcTitles": [
         "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
-        "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents"
+        "China, US to open AI ‘communication channel’ after summit, White House says",
+        "US, China to open AI ‘communication channel’"
       ]
     },
     {
@@ -137,6 +174,38 @@
       "srcTitles": [
         "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023",
         "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-25T23:11:10.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "s": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "b": [
+        "techcrunch.com: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "cnbc.com: China wants in on U.S. AI data center boom. Here's why"
+      ],
+      "body": [
+        "techcrunch.com: Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+        "cnbc.com: China wants in on U.S. AI data center boom. Here's why CNBC"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lQ0p4dkRYalpYNmpfS3dvc3U5ZFI4aW9IVHcxVDBqUTlKZlJodU5ZVC10cmxEN0hwYnRWU0ZESXczcTdKZGRVREVqU2tYeWNieVB3VjFWWkFRcHRiVGx5bmg5ZE9nOEJ0YVNVdWhB0gFzQVVfeXFMTWYyb29FMElKZ3JvbmF2WVNOUjdtUURCN09KMXBNTDZsY19PMDFaNkpFUGVFY1RkNVlqY3p5aHFuSEJIQV82S1doZU9iQTVDR2k5eHRPVHFGamRHZXVLd2sySHdRNm1NdUI5YnltTlZ3RG1xdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "China wants in on U.S. AI data center boom. Here's why"
       ]
     },
     {
