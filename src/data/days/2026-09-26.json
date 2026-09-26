@@ -2,38 +2,6 @@
   "date": "2026-09-26",
   "stories": [
     {
-      "cat": "funding",
-      "signal": 58,
-      "sources": 2,
-      "ts": "2026-09-26T04:10:01.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "OpenAI pauses training of its ‘most capable models’",
-      "s": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The de",
-      "b": [
-        "theverge.com: OpenAI pauses training of its ‘most capable models’",
-        "techmeme.com: OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training (OpenAI)"
-      ],
-      "body": [
-        "theverge.com: As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [ ]",
-        "techmeme.com: OpenAI : OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training Summary An agent attempting to complete a search-based training task queried a public chatbot service through a gap"
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260926/p1#a260926p1"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI pauses training of its ‘most capable models’",
-        "OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training (OpenAI)"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 56,
       "sources": 2,
@@ -84,10 +52,6 @@
       ],
       "l": [
         {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5"
-        },
-        {
           "d": "politico.com",
           "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDFBeDhjMVNRTFUtUVNrcmE4Uk9PQ3Nmdnp0Z0hXSWhCSGRFMkI0U05ueXViaFFycmNpODhSRDgxVFFUUFA2T3FpLWRTV20tNTR2SURkVjk0ZUJPTkVGZXFXQmtBRUZnWlRlQkE3bGx3eUJESTBtQWpoWUFma24tMEJMc1BMQTlIMUdNbkloQW9raVdIMWxic0J0UTMtWDdPZlJV?oc=5"
         },
@@ -96,21 +60,57 @@
           "u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdTZBSGsyY3ZmaEZIYVlCVVd5S1ZvTXBYaGx3eU0xRHgxVGdMSXZMNS1qdnFJcEhpYlVINGZWWDR1RjNWSFphRGdwLUtyTXAwdHdVYTJfb3dHWjhKeFBxX0hTLVlXc2ZjN3RXU1JQS0ZWSVNucVI4Tnl6SVpwX2hxNk00TERRMkFsZmZtb252Vm5lQTFNS2lic0ZBc0dWRjM3d3ptaFduVE1WZUVSQ3ZyRnY4SktxeHJNbWlPN3AtSDlWUEwtcXBka0JYX05JdzVxaG0yR0VYSVRCaTEwM2NhMlJTM193ZTBha3BrdmdyTjBEdWpxZ1N1VTlZcjFvSnJrc0h3bDZRZ3REdERTSC1mSw?oc=5"
         },
         {
-          "d": "usnews.com",
-          "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaXV1UmYzWlNQZ1pwR2FlYllRUGtIbjVJa25iYmRvV2V1TlpmelcxMVhGVTUwVVo0TXV1OHY1cFdmMl84bkZUaHctZXZ1OUttSnRERUlNSWRxXzRnZXZ1UEZpUW5mVTYydF9pbEJkc2JENjNMakxnQjF0RWxwcHNjSmhQVlZ1Vk81eEw5eDNaUzZDUVVaV2tzTFppcWtEV19YSUJIMmItNkRDRlVjdDVUOGZHVnJFQ0ZHbVFGWFp2YXktUlJUSjBhTXN1RU5aWDExMTVJd2NYazYzNnRHaHRXNXE5aTNldw?oc=5"
+          "d": "npr.org",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZktfT2p6V3MwTEFNUDJPZk11c053QzgzQ0QxaXF4UkZpWEd2ZzZZdkRUMk9OelR5encydHBkSGFlT1oxMkVWdjZlODBLMGJTbGdtbTJpbDlHRHZFTTlNSGxMUlVGc3BuQ1dGNWtRZlRQLURjMkdiaVVvWXQ3a2xRTTBzVWZtNEp4bG05VU5EZw?oc=5"
+        },
+        {
+          "d": "securityaffairs.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZm11QTFHT2laeDBITXp6NDhpS2ZteEZ4Ty1IeVJKQlNDTnNYd3pBaVlyWjk3dkx2Yk53ZHZURm8tbXFlRHJTckgwclpDRXhfaHdPTGxIVDZFdklZc21MWXkxMEVfMHJ2WkpydXliZ1ZiR0NwSVN1Qk1LV196UjhGLXpnWFlWTWN6Ri0wYjZOckRVMUc2Tk5nWGE1VmVISU55aUw2OUtYUDgtMWJERjEw0gG0AUFVX3lxTE1EWTdXN1pQMXg2UW5XaU0xSDllb2RFRldKcUprY2N4Z3hEem5zNXFVdHNuYWZTd05FUDJHMU5OZkdLWXBlTDNGLV91RVI4N0dpTHliUjNDR0xITEh5dDhqU0FvWXZNRHFRd1hLMlJZY0RLeFpYZjVqeFFWdk1PbHluN2dyQVNlUkZhNnRMZE5pSzJZOWlMekQ0ck5nRHU2aGFpTi1TVzZmSG10eklTUHdBUk5BOQ?oc=5"
         }
       ],
       "srcTitles": [
-        "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
         "Rogue OpenAI agents accessed US government websites",
         "OpenAI says its models engaged with US government websites in new model misbehavior disclosure",
-        "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure"
+        "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+        "OpenAI Agents Accessed US Government Websites Without Authorization"
       ]
     },
     {
       "cat": "funding",
-      "signal": 52,
-      "sources": 3,
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-09-26T04:10:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI pauses training of its ‘most capable models’",
+      "s": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The de",
+      "b": [
+        "theverge.com: OpenAI pauses training of its ‘most capable models’",
+        "techmeme.com: OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training (OpenAI)"
+      ],
+      "body": [
+        "theverge.com: As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [ ]",
+        "techmeme.com: OpenAI : OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training Summary An agent attempting to complete a search-based training task queried a public chatbot service through a gap"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260926/p1#a260926p1"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI pauses training of its ‘most capable models’",
+        "OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training (OpenAI)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 42,
+      "sources": 6,
       "ts": "2026-09-26T11:17:39.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -126,22 +126,62 @@
       ],
       "l": [
         {
-          "d": "thehill.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21ZZWtfTDZVTkpVNFE4VWJiTy1RbmtNX2l6RVN1Ui1ZaVpuQ2p6eE1CcDZYNDJsU3dpbjJhZzVvWVJCZEtrbjA0bTBVQnFiYVNYa1BMaVRUcHpRY2t2dXN3c1NiS3NSYmJ5N2NkSGdVbUNDSk5LT2ZuSVJlb255T0JoR1BPQVVpSEZTNNIBkgFBVV95cUxOOFh1NnNUUDFudzZweFdaNEpfX0pKMGdvYWJBZUJuSWY5NkliYlN3ZDRYOGJsSExjZjdYYXRNWXFzS0hrR241am1aRDVPS3M3SDVZbEtXd05ENDc5M05FZjZFdWdTWE5pR0dlY0IyNkowVkZaMmkydU9fM2dlYnVQUnRqeWlqWUtQbFV6TGFWaUVXdw?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260926/p9#a260926p9"
         },
         {
-          "d": "aljazeera.com",
-          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlV4Q3ViaXhtVTVPODZkRHRpYjdXS0hvUWE1UnAzNWFSSWhFN1NLd2g0ZDZmUlJKWW81b0lUNk9rVnNUMF9Xa3lSa1NLdWhEZzBaYXQ3RF9ObHpLNTdqM09zNzJpa0tNeVFBWkpjeTJxempabkd2Z25EalNXY2RRUzdraTV3UWxqOGFjcEZadjRRVEpJOW9mOFMwX0JieWpwdXczNHBoTURiYTBtajJUa0xB0gG3AUFVX3lxTE1TamZEbF9mVV81UXhhalVNc2l4WFhWNzBqS2tjWmhpUnBnZWc3Y2pfQnU3Sld5MEM5U2V6WlBfRjg1MGtjZXNrMlp1T3lUcVFyS2drYXFUaFBjYVZOYUxqVHN3b0VRSGtOajUxcmpjTHBWbEVSUi05WHNIR3RIcURVS1FVOExWZkdRT0hjYUcxbDloWjNlNlZmbmJmd2wzbGpPcEpKMG84cU1IaXdMSXo5YkprbkFQUQ?oc=5"
+          "d": "axios.com",
+          "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?oc=5"
         },
         {
-          "d": "taipeitimes.com",
-          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VaDVPMjhJY3YzanlFdWdQdVJlQ25PV3R3X2pBMmF0UHRVc3N1anBkejNiSVUzMG5WbmxMRFlwRTVlMHZGVlpYY1VrUHdMWTVRVVh1QW1mNjVGZDJ0SlBwamJzSGp5T2tyWnpHYmR5MHFUd3VqNlh2Tw?oc=5"
+          "d": "pbs.org",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDFwb1JqdmQ1UnZaV0FvaWpPWEtGdXlXVXR5cV9oeUVUeV8teFgwQkJVNGo1MFduQzQxcUxQaVhDaVUwck9qQzE0NXlaSFpWdC15UTIwYVVxQzBPWG84N2ZnNXkxOGVjcjVWZ25zNDBCbzZUOFZPMkxUTDhmMFJieHdFWWFabVFuTHhYczFGeWV2bTA5YkxoQlRicVlGVzl4Z0h0UTZxMi00aFctTHhGUnh5MmhUS1hFRzFjVlBPckjSAcYBQVVfeXFMUGU5X1ZtYXFrZFdpbUNGQjJjVDc0S1BaM2w3UW91RC1LNVVjc3NGME0zV3RqUWpsTE85SUF3d0NfMkJ5cmpLcWRPbXlqTTh1NFNKaVppUmRlMTNTakpGejVneVBxTFdHTHFGZ3FNRWQtdUZadEFEVk0yRDZLb2hUa2hfc0JhbkFncjd5U0g1a0JyWFNOS2N5ZjI4QW85ZkJlSjhKTFcwYXhNTWI0eGNlN01RVTJwVy1zeFBPTFMxcmdFZlpnT1R3?oc=5"
+        },
+        {
+          "d": "boston25news.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcFIzaWc2Q2pyU1I0TE5vZUFYUjcyWTVEVnI4QVB5TGJJRmVQRmVpa1pLS0xvVThWYTVyVzhhY0R0MnNkVkNMWUFEZDBZUmZYUkZmMzRvb2R0VUR5X1hpd29BdHB0ekNnQUMtems0UTRNeWs0UE5zZFRJRUdvem5obmRSOVhETFFoSXRhcUM4dWlSS3fSAacBQVVfeXFMTVhCbk9yMEdWcTViSkFHMndMWlJXanRHTVhKSDlkVTQ5UnR5N1Y0bXVKTXdTTFd6ZWdQNUFzM3VHbUZYdjVPZldtQ2VCOGFqemE1eE9hS2VBRzhGUGp4eEk3S0VSdzZnWEh4TW42THpjRzV6NGZDN3FEdTZwd3d4S0JTSmJna3JROTQ4eDg0R25kZFUzVlFaRThJaVk5a0xDaktNY1NCTHc?oc=5"
+        },
+        {
+          "d": "+2"
         }
       ],
       "srcTitles": [
-        "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
-        "China, US to open AI ‘communication channel’ after summit, White House says",
-        "US, China to open AI ‘communication channel’"
+        "The US and China create a \"Super Intelligence Dialogue\" on AI risks and a separate AI incident hotline, likened to a Cold War-era \"red telephone\" (Ben Berkowitz/Axios)",
+        "U.S. and China agree to \"super intelligence\" dialogue amid AI tensions",
+        "China and U.S. agree to establish AI safety channel and continue trade and military talks",
+        "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-26T16:55:14.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says",
+      "s": "U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says Click2Houston",
+      "b": [
+        "click2houston.com: U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says",
+        "ksat.com: U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says"
+      ],
+      "body": [
+        "click2houston.com: U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says Click2Houston",
+        "ksat.com: U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says KSAT"
+      ],
+      "l": [
+        {
+          "d": "click2houston.com",
+          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTms4WkhTdnhBcm5ieXJjRkpXX3B2SXNEUTRMczVXTGJycXdJVEZJcDJmTmpNdTdyUm5pWkFkeHctRXM3aGFRd1UtRF9uYkliaFpqT21XMl94VWFpc1hJLS1TYzVNcV9xYUViN3FudG9CTjlaa3BZQ1otekNNVVMzaDVIbHlzRV8wbFJLMlRLdlFwbUdsT3pKM2FJSERrZW9oME5TU1BQczNlRzBIWTE4aGotdG1vcnVmLWZ6T3hWdzBibW40ZDBheVlhZw?oc=5"
+        },
+        {
+          "d": "ksat.com",
+          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjVDNHlHNDFuZ0xzQ3RhVGVWVGVBWlF6RVlhQ0tDcS03YmpwRlA0QzdwS1JyMzNWRWxpbnhIbDFqaDgtQmluREhzREJjN1A4VWVFTFZXWi1vYzRXZ0JZV1lpbXpERGJvVFhPQ1ZyWk16ZTNTaldsNnhQeTNFSnpWdk1JREVYTEpNVUpDWjFoOGVrX3RHdndIeUZsNlBmdjM2dFFwbVgwOFhGc0U1NXM2RnV0V2NRcUtKQnRqOG1IWQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says",
+        "U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says"
       ]
     },
     {
@@ -177,38 +217,6 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-09-25T23:11:10.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-      "s": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-      "b": [
-        "techcrunch.com: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "cnbc.com: China wants in on U.S. AI data center boom. Here's why"
-      ],
-      "body": [
-        "techcrunch.com: Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
-        "cnbc.com: China wants in on U.S. AI data center boom. Here's why CNBC"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
-        },
-        {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lQ0p4dkRYalpYNmpfS3dvc3U5ZFI4aW9IVHcxVDBqUTlKZlJodU5ZVC10cmxEN0hwYnRWU0ZESXczcTdKZGRVREVqU2tYeWNieVB3VjFWWkFRcHRiVGx5bmg5ZE9nOEJ0YVNVdWhB0gFzQVVfeXFMTWYyb29FMElKZ3JvbmF2WVNOUjdtUURCN09KMXBNTDZsY19PMDFaNkpFUGVFY1RkNVlqY3p5aHFuSEJIQV82S1doZU9iQTVDR2k5eHRPVHFGamRHZXVLd2sySHdRNm1NdUI5YnltTlZ3RG1xdw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
-        "China wants in on U.S. AI data center boom. Here's why"
-      ]
-    },
-    {
       "cat": "products",
       "signal": 26,
       "sources": 2,
@@ -238,6 +246,38 @@
       "srcTitles": [
         "Students, parents, teachers want their voices heard on artificial intelligence in Santa Barbara schools - Santa Barbara News-Press",
         "Northwest Allen County Schools teachers add artificial intelligence to their toolbox"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-09-25T23:11:10.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "s": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "b": [
+        "techcrunch.com: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "cnbc.com: China wants in on U.S. AI data center boom. Here's why"
+      ],
+      "body": [
+        "techcrunch.com: Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+        "cnbc.com: China wants in on U.S. AI data center boom. Here's why CNBC"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lQ0p4dkRYalpYNmpfS3dvc3U5ZFI4aW9IVHcxVDBqUTlKZlJodU5ZVC10cmxEN0hwYnRWU0ZESXczcTdKZGRVREVqU2tYeWNieVB3VjFWWkFRcHRiVGx5bmg5ZE9nOEJ0YVNVdWhB0gFzQVVfeXFMTWYyb29FMElKZ3JvbmF2WVNOUjdtUURCN09KMXBNTDZsY19PMDFaNkpFUGVFY1RkNVlqY3p5aHFuSEJIQV82S1doZU9iQTVDR2k5eHRPVHFGamRHZXVLd2sySHdRNm1NdUI5YnltTlZ3RG1xdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "China wants in on U.S. AI data center boom. Here's why"
       ]
     }
   ]
