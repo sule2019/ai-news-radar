@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 56,
-      "sources": 5,
+      "signal": 64,
+      "sources": 6,
       "ts": "2026-09-26T00:00:47.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,6 +20,14 @@
       ],
       "l": [
         {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
+        },
+        {
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQWXAzN3dZRGhRVl9CSkEzNTVIemNkMDludWJhVko1TlYxaDFzNnpJdXplaTBld2RhX2xOcmRMMkhYRTR6cHRzV3FmQ1MtYWhBOW9kWlpJMGh5R3JmdWZVVE5faVNxSmFScklQSGJDOVFQbG5pejBhSDRZblRIcGo2MGVfUmlQUXBEOC1lWlBjVC1taFR6TlhpazloeWpBSVNiYTBHb09CbTBPczlwRkNtdmM1OE4welJXMmYxRUNocERTaEt5N3BxbkpwVXNZZklPY19Obml2MlZULXhCQk55czFTc1B2M0RjXzdV?oc=5"
+        },
+        {
           "d": "nytimes.com",
           "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5"
         },
@@ -28,27 +36,19 @@
           "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDFBeDhjMVNRTFUtUVNrcmE4Uk9PQ3Nmdnp0Z0hXSWhCSGRFMkI0U05ueXViaFFycmNpODhSRDgxVFFUUFA2T3FpLWRTV20tNTR2SURkVjk0ZUJPTkVGZXFXQmtBRUZnWlRlQkE3bGx3eUJESTBtQWpoWUFma24tMEJMc1BMQTlIMUdNbkloQW9raVdIMWxic0J0UTMtWDdPZlJV?oc=5"
         },
         {
-          "d": "cnn.com",
-          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkQyN1dNYTkzeGFDN0hQSHVZNGxVUEcyb0trcGo1SmZMeWxNRmYwOTNHRGo1eVVrWTBqYkVoUmxpV2xuVnlURWtpY3FRTG5zRGNQdk90SjdwblZVVzlfQWk1UGJsTGNhQVF2MXZ2QjFLYV9iZ0FrWElzSFhIWGhFZw?oc=5"
-        },
-        {
-          "d": "npr.org",
-          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZktfT2p6V3MwTEFNUDJPZk11c053QzgzQ0QxaXF4UkZpWEd2ZzZZdkRUMk9OelR5encydHBkSGFlT1oxMkVWdjZlODBLMGJTbGdtbTJpbDlHRHZFTTlNSGxMUlVGc3BuQ1dGNWtRZlRQLURjMkdiaVVvWXQ3a2xRTTBzVWZtNEp4bG05VU5EZw?oc=5"
-        },
-        {
-          "d": "+1"
+          "d": "+2"
         }
       ],
       "srcTitles": [
+        "OpenAI pauses training of its ‘most capable models’",
+        "OpenAI Pauses Training of Latest Models After Agents Probed US Government Sites in Unexpected Ways",
         "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-        "Rogue OpenAI agents accessed US government websites",
-        "Rogue OpenAI agents targeted three separate US government websites",
-        "OpenAI says its models engaged with US government websites in misbehavior disclosure"
+        "Rogue OpenAI agents accessed US government websites"
       ]
     },
     {
       "cat": "models",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-09-25T22:20:47.000Z",
       "writtenSources": 2,
@@ -80,40 +80,8 @@
     },
     {
       "cat": "funding",
-      "signal": 42,
+      "signal": 34,
       "sources": 2,
-      "ts": "2026-09-26T04:10:01.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "OpenAI pauses training of its ‘most capable models’",
-      "s": "As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The de",
-      "b": [
-        "theverge.com: OpenAI pauses training of its ‘most capable models’",
-        "techmeme.com: OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training (OpenAI)"
-      ],
-      "body": [
-        "theverge.com: As reports of OpenAI's models breaking containment, hacking sites, and generally getting out of control pile up, the company has made the decision to pause training of its most powerful models. The decision was made after a model being tested within a sandbox exploited a loophole to gain internet access. The incident happened on September [ ]",
-        "techmeme.com: OpenAI : OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training Summary An agent attempting to complete a search-based training task queried a public chatbot service through a gap"
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260926/p1#a260926p1"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI pauses training of its ‘most capable models’",
-        "OpenAI says it paused training, evaluation, and inference with tool-use of its most capable models after a model bypassed internet restrictions during training (OpenAI)"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 37,
-      "sources": 3,
       "ts": "2026-09-26T11:17:39.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -135,61 +103,17 @@
         {
           "d": "axios.com",
           "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?oc=5"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5"
         }
       ],
       "srcTitles": [
         "The US and China create a \"Super Intelligence Dialogue\" on AI risks and a separate AI incident hotline, likened to a Cold War-era \"red telephone\" (Ben Berkowitz/Axios)",
-        "U.S. and China agree to \"super intelligence\" dialogue amid AI tensions",
-        "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 30,
-      "sources": 3,
-      "ts": "2026-09-26T12:39:03.000Z",
-      "writtenSources": 3,
-      "draft": true,
-      "h": "Trump rejects combining US-China AI efforts",
-      "s": "Trump rejects combining US-China AI efforts Al Jazeera",
-      "b": [
-        "aljazeera.com: Trump rejects combining US-China AI efforts",
-        "usatoday.com: No breakthrough AI agreement between Trump and Xi during US-China summit",
-        "scmp.com: Trade truce aside, was AI the real Xi-Trump summit breakthrough?"
-      ],
-      "body": [
-        "aljazeera.com: Trump rejects combining US-China AI efforts Al Jazeera",
-        "usatoday.com: No breakthrough AI agreement between Trump and Xi during US-China summit USA Today",
-        "scmp.com: Trade truce aside, was AI the real Xi-Trump summit breakthrough? South China Morning Post"
-      ],
-      "l": [
-        {
-          "d": "aljazeera.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSzBRYzN3WUpBZC14b0NhWS1uN09FcGFxclBUSnlfNGJiYzVFWk9MdWJHSXpONENLN1A0c3RTd1FoNS1JSWw1eGxELTlEVVVZZFJRc3hfeTBPRVVaMlg5dkxaY09vSHdRZzJQMXNFNXFyZXV6Yk1rN2JuWmw1eS04NUoyYjFMZW1CVnU2d9IBkgFBVV95cUxNODlmLUZ0VTJlUVJEZGRXaDVCc1JKYW56SC1BLUR1TW9zbGs1eldTdVJXY1VJQlZZcHJGalN2S0dNRzQ0Nm5rbm10ckxrd1V6aExGdzBKNVR2MzI1OTdwVjdkanpWck9KUElTTl9nZFA0QkxDUWZITDRXcGF2ZHdzaGI3b29YRnhHOUk4ak5DZDFKQQ?oc=5"
-        },
-        {
-          "d": "usatoday.com",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQlNtcmFIcmtVMjZyM1FCZDlFNnF0cy1CRVVSR0w3NVVyMUtjVnpiUG5tR0NfVk5vaVd1Wi1sUGh1VlJGMjdMU3pVUDBBYzdsbkZVaUM1amszd0FqdFI0enFGRmM0U0N0VGhiWWJBX3dUcHNuaTBEX0JlRi1UMUkwQlp1WFYwamZMbmtlOWlXc281bVFacVVSYXI2UmhMdjktbFE?oc=5"
-        },
-        {
-          "d": "scmp.com",
-          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR29DbHRpckN6TkVPdy1CbjNQUFIteVR3eGJnRzdTM293M2pLWEx1bnlfVDNfcHZuN2hhU283R3FGM2dLXzFLQUNCamNiRVctUTV4d1lWUndYY1lJSDBkN2xNNFNKbmFkbG9RSXgzOWFHdVdNSXRzMFNWNzdwMVhEQ1JLNVl6X1pYdU5FcVBjWFFCSUZtUy1qUVY4VkRqbms4Ujh5Q0dtcVQ0TUVXajBPUXY5Q3hNRXdWY1BpQVNrRlNqNzhwbjVB0gHHAUFVX3lxTE5yYlF0MGY1dDNsNDlTamxBaFYxand6OTNMRGZxVS1Ba3pCckx3MVFnRzlxSkxqQW9pYXY1azRmdDBXQzZZSDNDZVc1UkVMY1M0OTRZNllQaS1RVUh2aXlIUUVDMlN0eXVLSmotV1dUN0FXZjQ1YmxSdFJDYmxJTkJncmc3R2F1a1VkdXI1b2EzQXpoZW1HYmVOTl9ycnFiVmczbW9jZUdOaFY5d0N1YTZ2N1RiQWFSU2RMbzE5SUFOS1lEWnRxcjA?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Trump rejects combining US-China AI efforts",
-        "No breakthrough AI agreement between Trump and Xi during US-China summit",
-        "Trade truce aside, was AI the real Xi-Trump summit breakthrough?"
+        "U.S. and China agree to \"super intelligence\" dialogue amid AI tensions"
       ]
     },
     {
       "cat": "funding",
-      "signal": 30,
-      "sources": 3,
+      "signal": 32,
+      "sources": 4,
       "ts": "2026-09-26T11:17:39.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -217,17 +141,88 @@
         {
           "d": "wftv.com",
           "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa1hzQmh5TGk2TDNhUmh3SW4xQWNDajJnaUtZdkZQZWttX0l5ckRoOHVQWERfUHE1dzVlQkQzWU5IMlRKWU5GWnB5d3lJWWc0bm5VRExVYkR4WWtmZGZwVHJKUFRkNnlPNTZ1NGYta043b0k5V1dvNENRTXFsc2hwYW5pX0lsU0df0gGcAUFVX3lxTFA1UHBtUFVLbXZoN3JSejM5alpMTnk1b0pDMUtFZkc3WEViVHY5U2NHbzBfakhhWEU3NjRIcUlVUWFLMFRmS1JNTkJQQUFlRWM4TmNkX1lveTF3QkF2VXhpNGdyWVVRZW5SZXJ2dHNuUnZEMzVzY1dfUlR4WUtrUE12Mkh3NEI2VW43WmFHSVcyaGRHQ3laQXg3WDYwMw?oc=5"
+        },
+        {
+          "d": "ksnt.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWE9ISUNPREdaaXdsWGtnTDRNZWJwdEtrLVl3S0NsRTB0QmJwLW8xOENYQVdqX1MxSXZHWE1Md1RzOEk3bFhmYVl3OXZmSFhvWnVMS21MQjNscEFLNGxPOXUzR2pjX2k1YzJmYTFtYjJXTTZrSDl0UmlIUmRMMmNkSG51OTN2X2JLRFJIMTlnZ2tKQi1BQS16eGJ0NEpzYUVIZWhJRVQtX0xNSHZLX293ZlFjU0h5WDR0ZEdWRDVUeEZXUXBS0gHKAUFVX3lxTE1KWGxZUmI4Y29VZDUwajN0eDFMeV9jVHkxVUZ3ZXQ1d1VMS3BtdU1CTzNNc0YzREdlVnBCdzlfc25IYk1LMVpZSXVJSExFNHJCcGdLa1VOdXhQS1NtOVB2QmZUSnBvS21mdDJZZ0dQZ0kyQ0I5UVJfYTFzbTNia2dLQWFSVkc0MWgxbXBiS0lVSEZUOGdwM0JnaURLN0lJUXFDTW5VUWphSmFaM0thZ2d1Rk53aWhJZ29NWWVjRDQyOUIyYmNhel9tVUE?oc=5"
         }
       ],
       "srcTitles": [
         "Trump and Xi agree to set up AI safety channel as military and trade talks continue",
         "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military",
-        "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military"
+        "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military",
+        "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents"
       ]
     },
     {
       "cat": "products",
-      "signal": 22,
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-26T21:14:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "ASI TECH INC. Announces Expansion of Artificial Intelligence Services and Robotics Development Roadmap",
+      "s": "ASI TECH INC. Announces Expansion of Artificial Intelligence Services and Robotics Development Roadmap Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: ASI TECH INC. Announces Expansion of Artificial Intelligence Services and Robotics Development Roadmap",
+        "newsfilecorp.com: ASI TECH INC. Announces Expansion of Artificial Intelligence Services and Robotics Development Roadmap"
+      ],
+      "body": [
+        "finance.yahoo.com: ASI TECH INC. Announces Expansion of Artificial Intelligence Services and Robotics Development Roadmap Yahoo Finance",
+        "newsfilecorp.com: ASI TECH INC. Announces Expansion of Artificial Intelligence Services and Robotics Development Roadmap TMX Newsfile"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQkFjSGtoT19TMHQwNHViVkE1dVl3NjFna19nT0ltSnlIbldXTTAxYWF3N1dmN3dVMDdIZkFUNzN1TkFvTUh3TmVndlRpRVV0Y1FhRkNoTmE2cXQyQWU3eWlhdXFITE10TEFxTnZySnd6TFQybzllMUNmUnVqazJRNi1rX0VCSHFvRnhGVnBvb29RTy1BeDJjNk8xVXM?oc=5"
+        },
+        {
+          "d": "newsfilecorp.com",
+          "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUkt1YmdyWEE5WkUzdVNNQ1hCYWNfU3RqdEFBWWlxMHMwWEd5cEtYVlNWQVRBY3N2WlZjcnJBWG9FaTJFamZ3SHRhWUM4d2lsRVFnNU8xYVBIUUVpM2l4NjUzeGxPVEJ5RTNMZUh1aFdpdkZ1eW9OakRiRUF0N0xGWklvSmUtYWhPZEtYdmxzVTBTdW5CNGV0WTA5dmpFQXV2cXJ3TWprSVBabHZtemZBaEk0eTc5QWtybVNhVHoxQ0JzMW1sWE42clhWYTVXdzljM1IweXhvSl9hemF2NS1n?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "ASI TECH INC. Announces Expansion of Artificial Intelligence Services and Robotics Development Roadmap",
+        "ASI TECH INC. Announces Expansion of Artificial Intelligence Services and Robotics Development Roadmap"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-26T12:39:03.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Trump rejects combining US-China AI efforts",
+      "s": "Trump rejects combining US-China AI efforts Al Jazeera",
+      "b": [
+        "aljazeera.com: Trump rejects combining US-China AI efforts",
+        "usatoday.com: No breakthrough AI agreement between Trump and Xi during US-China summit",
+        "scmp.com: Trade truce aside, was AI the real Xi-Trump summit breakthrough?"
+      ],
+      "body": [
+        "aljazeera.com: Trump rejects combining US-China AI efforts Al Jazeera",
+        "usatoday.com: No breakthrough AI agreement between Trump and Xi during US-China summit USA Today",
+        "scmp.com: Trade truce aside, was AI the real Xi-Trump summit breakthrough? South China Morning Post"
+      ],
+      "l": [
+        {
+          "d": "aljazeera.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSzBRYzN3WUpBZC14b0NhWS1uN09FcGFxclBUSnlfNGJiYzVFWk9MdWJHSXpONENLN1A0c3RTd1FoNS1JSWw1eGxELTlEVVVZZFJRc3hfeTBPRVVaMlg5dkxaY09vSHdRZzJQMXNFNXFyZXV6Yk1rN2JuWmw1eS04NUoyYjFMZW1CVnU2d9IBkgFBVV95cUxNODlmLUZ0VTJlUVJEZGRXaDVCc1JKYW56SC1BLUR1TW9zbGs1eldTdVJXY1VJQlZZcHJGalN2S0dNRzQ0Nm5rbm10ckxrd1V6aExGdzBKNVR2MzI1OTdwVjdkanpWck9KUElTTl9nZFA0QkxDUWZITDRXcGF2ZHdzaGI3b29YRnhHOUk4ak5DZDFKQQ?oc=5"
+        },
+        {
+          "d": "usatoday.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQlNtcmFIcmtVMjZyM1FCZDlFNnF0cy1CRVVSR0w3NVVyMUtjVnpiUG5tR0NfVk5vaVd1Wi1sUGh1VlJGMjdMU3pVUDBBYzdsbkZVaUM1amszd0FqdFI0enFGRmM0U0N0VGhiWWJBX3dUcHNuaTBEX0JlRi1UMUkwQlp1WFYwamZMbmtlOWlXc281bVFacVVSYXI2UmhMdjktbFE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump rejects combining US-China AI efforts",
+        "No breakthrough AI agreement between Trump and Xi during US-China summit"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-25T23:00:00.000Z",
       "writtenSources": 2,
@@ -259,7 +254,7 @@
     },
     {
       "cat": "policy",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-09-26T16:55:14.000Z",
       "writtenSources": 2,
@@ -291,7 +286,7 @@
     },
     {
       "cat": "models",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-09-26T09:08:01.000Z",
       "writtenSources": 2,
