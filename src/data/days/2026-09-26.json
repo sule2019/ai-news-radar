@@ -1,4 +1,69 @@
 {
   "date": "2026-09-26",
-  "stories": []
+  "stories": [
+    {
+      "cat": "policy",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-09-26T00:00:47.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
+      "s": "New York Times : Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site The company did not lea",
+      "b": [
+        "techmeme.com: Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
+        "bbc.com: OpenAI bots meddled with multiple US government agency sites"
+      ],
+      "body": [
+        "techmeme.com: New York Times : Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site The company did not learn until recently that its technology had meddled with websites for the Education Department",
+        "bbc.com: OpenAI bots meddled with multiple US government agency sites BBC"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260925/p25#a260925p25"
+        },
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2xjQ1lxckxXLVQ1ajFKakNhUkNZT2FlLWRDYXFmdTJkUndJcjlPaVFhZmFlTVBkbWFTV2VwczA5SnlhNjF6VUJCdnMzemVXWFZBdWJfd0c5V2s?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
+        "OpenAI bots meddled with multiple US government agency sites"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-25T23:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Students, parents, teachers want their voices heard on artificial intelligence in Santa Barbara schools - Santa Barbara News-Press",
+      "s": "Students, parents, teachers want their voices heard on artificial intelligence in Santa Barbara schools Santa Barbara News-Press",
+      "b": [
+        "newspress.com: Students, parents, teachers want their voices heard on artificial intelligence in Santa Barbara schools - Santa Barbara News-Press",
+        "journalgazette.net: Northwest Allen County Schools teachers add artificial intelligence to their toolbox"
+      ],
+      "body": [
+        "newspress.com: Students, parents, teachers want their voices heard on artificial intelligence in Santa Barbara schools Santa Barbara News-Press",
+        "journalgazette.net: Northwest Allen County Schools teachers add artificial intelligence to their toolbox The Journal Gazette"
+      ],
+      "l": [
+        {
+          "d": "newspress.com",
+          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQenFFS0xNdHVXd0syUVFyZkpYSVhuS2hpYjVwX3dlNmtpYmpURy1oaWlha294cEFBdVhOUWljSHZQSXg3WFA1dEJuRlk3dE9qZXdpRlBjTU1SOWtPSFBvR0ZvR1g4ZTczaGFldGJ6TDUwT3FaNHJDc1Uzby0zUWlKZ3lLMjktczdmc0hyaVU2RUp5YU80MDZCdkQwUTM0VjRxaVlGVmlrRXpacHhwd1pwWXJYZVdTTkR3QkNrWEp3NUtvaU9nekpWUUt5SG9QT2NUaDRyMHR3?oc=5"
+        },
+        {
+          "d": "journalgazette.net",
+          "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOc09uZXp4S2FWNjZURHBIRU1nS3Y2ZFhDSTUzOHdkUUozRXltcHV0QmlObjVOaE16Y2tTN1NxdkVRQzRTaERmdnFhUTR6TDFSRVp6UTlzTEE5RVMzMnZYVW9teTEtNXZ5eW5SSlJIeklxbzNqQ2Y4ZXlLdGp4MGoyWTZPQTdWWktpcy1aaDhqYjEtSmY3NkpOQkpLYTVGVXhSZXFlWkFBb0J5MVVMUXNadktkOWE0czQxX2JWaGRQT21hT3ZhMmdlNTVpVnVBNzhtWDdtV2JrMVdnbFNaaGx2OTIxNEZRcVdVUktJTlJrbzM5TmRMSVpVVkN2WGFfM2x0YmZaWXFzNDA3ME0?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Students, parents, teachers want their voices heard on artificial intelligence in Santa Barbara schools - Santa Barbara News-Press",
+        "Northwest Allen County Schools teachers add artificial intelligence to their toolbox"
+      ]
+    }
+  ]
 }
