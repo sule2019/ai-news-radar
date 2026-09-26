@@ -2,6 +2,51 @@
   "date": "2026-09-26",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 56,
+      "sources": 5,
+      "ts": "2026-09-26T00:00:47.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
+      "s": "New York Times : Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site The company did not lea",
+      "b": [
+        "techmeme.com: Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
+        "bbc.com: OpenAI bots meddled with multiple US government agency sites"
+      ],
+      "body": [
+        "techmeme.com: New York Times : Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site The company did not learn until recently that its technology had meddled with websites for the Education Department",
+        "bbc.com: OpenAI bots meddled with multiple US government agency sites BBC"
+      ],
+      "l": [
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5"
+        },
+        {
+          "d": "cnn.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkQyN1dNYTkzeGFDN0hQSHVZNGxVUEcyb0trcGo1SmZMeWxNRmYwOTNHRGo1eVVrWTBqYkVoUmxpV2xuVnlURWtpY3FRTG5zRGNQdk90SjdwblZVVzlfQWk1UGJsTGNhQVF2MXZ2QjFLYV9iZ0FrWElzSFhIWGhFZw?oc=5"
+        },
+        {
+          "d": "npr.org",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZktfT2p6V3MwTEFNUDJPZk11c053QzgzQ0QxaXF4UkZpWEd2ZzZZdkRUMk9OelR5encydHBkSGFlT1oxMkVWdjZlODBLMGJTbGdtbTJpbDlHRHZFTTlNSGxMUlVGc3BuQ1dGNWtRZlRQLURjMkdiaVVvWXQ3a2xRTTBzVWZtNEp4bG05VU5EZw?oc=5"
+        },
+        {
+          "d": "securityaffairs.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZm11QTFHT2laeDBITXp6NDhpS2ZteEZ4Ty1IeVJKQlNDTnNYd3pBaVlyWjk3dkx2Yk53ZHZURm8tbXFlRHJTckgwclpDRXhfaHdPTGxIVDZFdklZc21MWXkxMEVfMHJ2WkpydXliZ1ZiR0NwSVN1Qk1LV196UjhGLXpnWFlWTWN6Ri0wYjZOckRVMUc2Tk5nWGE1VmVISU55aUw2OUtYUDgtMWJERjEw0gG0AUFVX3lxTE1EWTdXN1pQMXg2UW5XaU0xSDllb2RFRldKcUprY2N4Z3hEem5zNXFVdHNuYWZTd05FUDJHMU5OZkdLWXBlTDNGLV91RVI4N0dpTHliUjNDR0xITEh5dDhqU0FvWXZNRHFRd1hLMlJZY0RLeFpYZjVqeFFWdk1PbHluN2dyQVNlUkZhNnRMZE5pSzJZOWlMekQ0ck5nRHU2aGFpTi1TVzZmSG10eklTUHdBUk5BOQ?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+        "Rogue OpenAI agents targeted three separate US government websites",
+        "OpenAI says its models engaged with US government websites in misbehavior disclosure",
+        "OpenAI Agents Accessed US Government Websites Without Authorization"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 56,
       "sources": 2,
@@ -34,50 +79,8 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 54,
-      "sources": 4,
-      "ts": "2026-09-26T00:00:47.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
-      "s": "New York Times : Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site The company did not lea",
-      "b": [
-        "techmeme.com: Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
-        "bbc.com: OpenAI bots meddled with multiple US government agency sites"
-      ],
-      "body": [
-        "techmeme.com: New York Times : Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site The company did not learn until recently that its technology had meddled with websites for the Education Department",
-        "bbc.com: OpenAI bots meddled with multiple US government agency sites BBC"
-      ],
-      "l": [
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5"
-        },
-        {
-          "d": "politico.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDFBeDhjMVNRTFUtUVNrcmE4Uk9PQ3Nmdnp0Z0hXSWhCSGRFMkI0U05ueXViaFFycmNpODhSRDgxVFFUUFA2T3FpLWRTV20tNTR2SURkVjk0ZUJPTkVGZXFXQmtBRUZnWlRlQkE3bGx3eUJESTBtQWpoWUFma24tMEJMc1BMQTlIMUdNbkloQW9raVdIMWxic0J0UTMtWDdPZlJV?oc=5"
-        },
-        {
-          "d": "npr.org",
-          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZktfT2p6V3MwTEFNUDJPZk11c053QzgzQ0QxaXF4UkZpWEd2ZzZZdkRUMk9OelR5encydHBkSGFlT1oxMkVWdjZlODBLMGJTbGdtbTJpbDlHRHZFTTlNSGxMUlVGc3BuQ1dGNWtRZlRQLURjMkdiaVVvWXQ3a2xRTTBzVWZtNEp4bG05VU5EZw?oc=5"
-        },
-        {
-          "d": "securityaffairs.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZm11QTFHT2laeDBITXp6NDhpS2ZteEZ4Ty1IeVJKQlNDTnNYd3pBaVlyWjk3dkx2Yk53ZHZURm8tbXFlRHJTckgwclpDRXhfaHdPTGxIVDZFdklZc21MWXkxMEVfMHJ2WkpydXliZ1ZiR0NwSVN1Qk1LV196UjhGLXpnWFlWTWN6Ri0wYjZOckRVMUc2Tk5nWGE1VmVISU55aUw2OUtYUDgtMWJERjEw0gG0AUFVX3lxTE1EWTdXN1pQMXg2UW5XaU0xSDllb2RFRldKcUprY2N4Z3hEem5zNXFVdHNuYWZTd05FUDJHMU5OZkdLWXBlTDNGLV91RVI4N0dpTHliUjNDR0xITEh5dDhqU0FvWXZNRHFRd1hLMlJZY0RLeFpYZjVqeFFWdk1PbHluN2dyQVNlUkZhNnRMZE5pSzJZOWlMekQ0ck5nRHU2aGFpTi1TVzZmSG10eklTUHdBUk5BOQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
-        "Rogue OpenAI agents accessed US government websites",
-        "OpenAI says its models engaged with US government websites in misbehavior disclosure",
-        "OpenAI Agents Accessed US Government Websites Without Authorization"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 50,
+      "signal": 46,
       "sources": 2,
       "ts": "2026-09-26T04:10:01.000Z",
       "writtenSources": 2,
@@ -109,8 +112,8 @@
     },
     {
       "cat": "funding",
-      "signal": 44,
-      "sources": 8,
+      "signal": 34,
+      "sources": 2,
       "ts": "2026-09-26T11:17:39.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -132,88 +135,89 @@
         {
           "d": "axios.com",
           "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?oc=5"
-        },
-        {
-          "d": "pbs.org",
-          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdDFwb1JqdmQ1UnZaV0FvaWpPWEtGdXlXVXR5cV9oeUVUeV8teFgwQkJVNGo1MFduQzQxcUxQaVhDaVUwck9qQzE0NXlaSFpWdC15UTIwYVVxQzBPWG84N2ZnNXkxOGVjcjVWZ25zNDBCbzZUOFZPMkxUTDhmMFJieHdFWWFabVFuTHhYczFGeWV2bTA5YkxoQlRicVlGVzl4Z0h0UTZxMi00aFctTHhGUnh5MmhUS1hFRzFjVlBPckjSAcYBQVVfeXFMUGU5X1ZtYXFrZFdpbUNGQjJjVDc0S1BaM2w3UW91RC1LNVVjc3NGME0zV3RqUWpsTE85SUF3d0NfMkJ5cmpLcWRPbXlqTTh1NFNKaVppUmRlMTNTakpGejVneVBxTFdHTHFGZ3FNRWQtdUZadEFEVk0yRDZLb2hUa2hfc0JhbkFncjd5U0g1a0JyWFNOS2N5ZjI4QW85ZkJlSjhKTFcwYXhNTWI0eGNlN01RVTJwVy1zeFBPTFMxcmdFZlpnT1R3?oc=5"
-        },
-        {
-          "d": "boston25news.com",
-          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcFIzaWc2Q2pyU1I0TE5vZUFYUjcyWTVEVnI4QVB5TGJJRmVQRmVpa1pLS0xvVThWYTVyVzhhY0R0MnNkVkNMWUFEZDBZUmZYUkZmMzRvb2R0VUR5X1hpd29BdHB0ekNnQUMtems0UTRNeWs0UE5zZFRJRUdvem5obmRSOVhETFFoSXRhcUM4dWlSS3fSAacBQVVfeXFMTVhCbk9yMEdWcTViSkFHMndMWlJXanRHTVhKSDlkVTQ5UnR5N1Y0bXVKTXdTTFd6ZWdQNUFzM3VHbUZYdjVPZldtQ2VCOGFqemE1eE9hS2VBRzhGUGp4eEk3S0VSdzZnWEh4TW42THpjRzV6NGZDN3FEdTZwd3d4S0JTSmJna3JROTQ4eDg0R25kZFUzVlFaRThJaVk5a0xDaktNY1NCTHc?oc=5"
-        },
-        {
-          "d": "+4"
         }
       ],
       "srcTitles": [
         "The US and China create a \"Super Intelligence Dialogue\" on AI risks and a separate AI incident hotline, likened to a Cold War-era \"red telephone\" (Ben Berkowitz/Axios)",
-        "U.S. and China agree to \"super intelligence\" dialogue amid AI tensions",
-        "China and U.S. agree to establish AI safety channel and continue trade and military talks",
-        "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 28,
-      "sources": 2,
-      "ts": "2026-09-26T16:55:14.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says",
-      "s": "U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says Click2Houston",
-      "b": [
-        "click2houston.com: U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says",
-        "ksat.com: U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says"
-      ],
-      "body": [
-        "click2houston.com: U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says Click2Houston",
-        "ksat.com: U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says KSAT"
-      ],
-      "l": [
-        {
-          "d": "click2houston.com",
-          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTms4WkhTdnhBcm5ieXJjRkpXX3B2SXNEUTRMczVXTGJycXdJVEZJcDJmTmpNdTdyUm5pWkFkeHctRXM3aGFRd1UtRF9uYkliaFpqT21XMl94VWFpc1hJLS1TYzVNcV9xYUViN3FudG9CTjlaa3BZQ1otekNNVVMzaDVIbHlzRV8wbFJLMlRLdlFwbUdsT3pKM2FJSERrZW9oME5TU1BQczNlRzBIWTE4aGotdG1vcnVmLWZ6T3hWdzBibW40ZDBheVlhZw?oc=5"
-        },
-        {
-          "d": "ksat.com",
-          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjVDNHlHNDFuZ0xzQ3RhVGVWVGVBWlF6RVlhQ0tDcS03YmpwRlA0QzdwS1JyMzNWRWxpbnhIbDFqaDgtQmluREhzREJjN1A4VWVFTFZXWi1vYzRXZ0JZV1lpbXpERGJvVFhPQ1ZyWk16ZTNTaldsNnhQeTNFSnpWdk1JREVYTEpNVUpDWjFoOGVrX3RHdndIeUZsNlBmdjM2dFFwbVgwOFhGc0U1NXM2RnV0V2NRcUtKQnRqOG1IWQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says",
-        "U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says"
+        "U.S. and China agree to \"super intelligence\" dialogue amid AI tensions"
       ]
     },
     {
       "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-09-26T09:08:01.000Z",
-      "writtenSources": 2,
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-09-26T12:39:03.000Z",
+      "writtenSources": 3,
       "draft": true,
-      "h": "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023",
-      "s": "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023 The Motley Fool",
+      "h": "Trump rejects combining US-China AI efforts",
+      "s": "Trump rejects combining US-China AI efforts Al Jazeera",
       "b": [
-        "fool.com: Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023",
-        "currently.att.yahoo.com: Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023"
+        "aljazeera.com: Trump rejects combining US-China AI efforts",
+        "usatoday.com: No breakthrough AI agreement between Trump and Xi during US-China summit",
+        "scmp.com: Trade truce aside, was AI the real Xi-Trump summit breakthrough?"
       ],
       "body": [
-        "fool.com: Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023 The Motley Fool",
-        "currently.att.yahoo.com: Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023 Currently.com"
+        "aljazeera.com: Trump rejects combining US-China AI efforts Al Jazeera",
+        "usatoday.com: No breakthrough AI agreement between Trump and Xi during US-China summit USA Today",
+        "scmp.com: Trade truce aside, was AI the real Xi-Trump summit breakthrough? South China Morning Post"
       ],
       "l": [
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWHJJUS1KRU5tbElCTlFrVHd6Q2JCbVM3UVU4ZWJpQVkwVVUzWHlBakd5UUQtOXdtdmw5WTlmdXBCb0d3WWNsNFdxX1VldTZpZERpLVlZMmpTbG1QZGxyN2JwX0x5b2g4WUNmNDdZVTAxNmxJWnNzNmtkcTlmei10THBJN1d1UjRialI4d01MdTJSNXVlVTR6VQ?oc=5"
+          "d": "aljazeera.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOSzBRYzN3WUpBZC14b0NhWS1uN09FcGFxclBUSnlfNGJiYzVFWk9MdWJHSXpONENLN1A0c3RTd1FoNS1JSWw1eGxELTlEVVVZZFJRc3hfeTBPRVVaMlg5dkxaY09vSHdRZzJQMXNFNXFyZXV6Yk1rN2JuWmw1eS04NUoyYjFMZW1CVnU2d9IBkgFBVV95cUxNODlmLUZ0VTJlUVJEZGRXaDVCc1JKYW56SC1BLUR1TW9zbGs1eldTdVJXY1VJQlZZcHJGalN2S0dNRzQ0Nm5rbm10ckxrd1V6aExGdzBKNVR2MzI1OTdwVjdkanpWck9KUElTTl9nZFA0QkxDUWZITDRXcGF2ZHdzaGI3b29YRnhHOUk4ak5DZDFKQQ?oc=5"
         },
         {
-          "d": "currently.att.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3aEFESjgxdm55Q2diZEJfUHlXVl9yWDRPY0RfMGFsbDczdDBzMzY5MzdSRmtvTkZZZzdObUJaQlBKR05OYkVYVlZHN2pCcHNGR29DeHFkbDBHTklnZk8tTWZvQW0xamFsVVFXSGUwSmZmM2JwckpkWFplMGE?oc=5"
+          "d": "usatoday.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOQlNtcmFIcmtVMjZyM1FCZDlFNnF0cy1CRVVSR0w3NVVyMUtjVnpiUG5tR0NfVk5vaVd1Wi1sUGh1VlJGMjdMU3pVUDBBYzdsbkZVaUM1amszd0FqdFI0enFGRmM0U0N0VGhiWWJBX3dUcHNuaTBEX0JlRi1UMUkwQlp1WFYwamZMbmtlOWlXc281bVFacVVSYXI2UmhMdjktbFE?oc=5"
+        },
+        {
+          "d": "scmp.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOR29DbHRpckN6TkVPdy1CbjNQUFIteVR3eGJnRzdTM293M2pLWEx1bnlfVDNfcHZuN2hhU283R3FGM2dLXzFLQUNCamNiRVctUTV4d1lWUndYY1lJSDBkN2xNNFNKbmFkbG9RSXgzOWFHdVdNSXRzMFNWNzdwMVhEQ1JLNVl6X1pYdU5FcVBjWFFCSUZtUy1qUVY4VkRqbms4Ujh5Q0dtcVQ0TUVXajBPUXY5Q3hNRXdWY1BpQVNrRlNqNzhwbjVB0gHHAUFVX3lxTE5yYlF0MGY1dDNsNDlTamxBaFYxand6OTNMRGZxVS1Ba3pCckx3MVFnRzlxSkxqQW9pYXY1azRmdDBXQzZZSDNDZVc1UkVMY1M0OTRZNllQaS1RVUh2aXlIUUVDMlN0eXVLSmotV1dUN0FXZjQ1YmxSdFJDYmxJTkJncmc3R2F1a1VkdXI1b2EzQXpoZW1HYmVOTl9ycnFiVmczbW9jZUdOaFY5d0N1YTZ2N1RiQWFSU2RMbzE5SUFOS1lEWnRxcjA?oc=5"
         }
       ],
       "srcTitles": [
-        "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023",
-        "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023"
+        "Trump rejects combining US-China AI efforts",
+        "No breakthrough AI agreement between Trump and Xi during US-China summit",
+        "Trade truce aside, was AI the real Xi-Trump summit breakthrough?"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-09-26T11:17:39.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
+      "s": "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents The Hill Trump and Xi agree to set up AI safety channel as military and trade talks continue CBS News Chin",
+      "b": [
+        "thehill.com: US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
+        "ksnt.com: US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
+        "boston25news.com: China and the US agree to set up a new AI safety channel, and to keep talking on trade, military"
+      ],
+      "body": [
+        "thehill.com: US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents The Hill Trump and Xi agree to set up AI safety channel as military and trade talks continue CBS News China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit Reuters",
+        "ksnt.com: US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents KSNT 27 News",
+        "boston25news.com: China and the US agree to set up a new AI safety channel, and to keep talking on trade, military Boston 25 News"
+      ],
+      "l": [
+        {
+          "d": "thehill.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21ZZWtfTDZVTkpVNFE4VWJiTy1RbmtNX2l6RVN1Ui1ZaVpuQ2p6eE1CcDZYNDJsU3dpbjJhZzVvWVJCZEtrbjA0bTBVQnFiYVNYa1BMaVRUcHpRY2t2dXN3c1NiS3NSYmJ5N2NkSGdVbUNDSk5LT2ZuSVJlb255T0JoR1BPQVVpSEZTNNIBkgFBVV95cUxOOFh1NnNUUDFudzZweFdaNEpfX0pKMGdvYWJBZUJuSWY5NkliYlN3ZDRYOGJsSExjZjdYYXRNWXFzS0hrR241am1aRDVPS3M3SDVZbEtXd05ENDc5M05FZjZFdWdTWE5pR0dlY0IyNkowVkZaMmkydU9fM2dlYnVQUnRqeWlqWUtQbFV6TGFWaUVXdw?oc=5"
+        },
+        {
+          "d": "ksnt.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWE9ISUNPREdaaXdsWGtnTDRNZWJwdEtrLVl3S0NsRTB0QmJwLW8xOENYQVdqX1MxSXZHWE1Md1RzOEk3bFhmYVl3OXZmSFhvWnVMS21MQjNscEFLNGxPOXUzR2pjX2k1YzJmYTFtYjJXTTZrSDl0UmlIUmRMMmNkSG51OTN2X2JLRFJIMTlnZ2tKQi1BQS16eGJ0NEpzYUVIZWhJRVQtX0xNSHZLX293ZlFjU0h5WDR0ZEdWRDVUeEZXUXBS0gHKAUFVX3lxTE1KWGxZUmI4Y29VZDUwajN0eDFMeV9jVHkxVUZ3ZXQ1d1VMS3BtdU1CTzNNc0YzREdlVnBCdzlfc25IYk1LMVpZSXVJSExFNHJCcGdLa1VOdXhQS1NtOVB2QmZUSnBvS21mdDJZZ0dQZ0kyQ0I5UVJfYTFzbTNia2dLQWFSVkc0MWgxbXBiS0lVSEZUOGdwM0JnaURLN0lJUXFDTW5VUWphSmFaM0thZ2d1Rk53aWhJZ29NWWVjRDQyOUIyYmNhel9tVUE?oc=5"
+        },
+        {
+          "d": "boston25news.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcFIzaWc2Q2pyU1I0TE5vZUFYUjcyWTVEVnI4QVB5TGJJRmVQRmVpa1pLS0xvVThWYTVyVzhhY0R0MnNkVkNMWUFEZDBZUmZYUkZmMzRvb2R0VUR5X1hpd29BdHB0ekNnQUMtems0UTRNeWs0UE5zZFRJRUdvem5obmRSOVhETFFoSXRhcUM4dWlSS3fSAacBQVVfeXFMTVhCbk9yMEdWcTViSkFHMndMWlJXanRHTVhKSDlkVTQ5UnR5N1Y0bXVKTXdTTFd6ZWdQNUFzM3VHbUZYdjVPZldtQ2VCOGFqemE1eE9hS2VBRzhGUGp4eEk3S0VSdzZnWEh4TW42THpjRzV6NGZDN3FEdTZwd3d4S0JTSmJna3JROTQ4eDg0R25kZFUzVlFaRThJaVk5a0xDaktNY1NCTHc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
+        "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
+        "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military"
       ]
     },
     {
@@ -250,7 +254,71 @@
     },
     {
       "cat": "policy",
-      "signal": 18,
+      "signal": 24,
+      "sources": 2,
+      "ts": "2026-09-26T16:55:14.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says",
+      "s": "U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says Click2Houston",
+      "b": [
+        "click2houston.com: U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says",
+        "ksat.com: U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says"
+      ],
+      "body": [
+        "click2houston.com: U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says Click2Houston",
+        "ksat.com: U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says KSAT"
+      ],
+      "l": [
+        {
+          "d": "click2houston.com",
+          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTms4WkhTdnhBcm5ieXJjRkpXX3B2SXNEUTRMczVXTGJycXdJVEZJcDJmTmpNdTdyUm5pWkFkeHctRXM3aGFRd1UtRF9uYkliaFpqT21XMl94VWFpc1hJLS1TYzVNcV9xYUViN3FudG9CTjlaa3BZQ1otekNNVVMzaDVIbHlzRV8wbFJLMlRLdlFwbUdsT3pKM2FJSERrZW9oME5TU1BQczNlRzBIWTE4aGotdG1vcnVmLWZ6T3hWdzBibW40ZDBheVlhZw?oc=5"
+        },
+        {
+          "d": "ksat.com",
+          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWjVDNHlHNDFuZ0xzQ3RhVGVWVGVBWlF6RVlhQ0tDcS03YmpwRlA0QzdwS1JyMzNWRWxpbnhIbDFqaDgtQmluREhzREJjN1A4VWVFTFZXWi1vYzRXZ0JZV1lpbXpERGJvVFhPQ1ZyWk16ZTNTaldsNnhQeTNFSnpWdk1JREVYTEpNVUpDWjFoOGVrX3RHdndIeUZsNlBmdjM2dFFwbVgwOFhGc0U1NXM2RnV0V2NRcUtKQnRqOG1IWQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says",
+        "U.S. should err on the side of innovation in AI regulation, U.S. Rep. Arrington says"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-09-26T09:08:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023",
+      "s": "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023 The Motley Fool",
+      "b": [
+        "fool.com: Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023",
+        "currently.att.yahoo.com: Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023"
+      ],
+      "body": [
+        "fool.com: Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023 The Motley Fool",
+        "currently.att.yahoo.com: Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023 Currently.com"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWHJJUS1KRU5tbElCTlFrVHd6Q2JCbVM3UVU4ZWJpQVkwVVUzWHlBakd5UUQtOXdtdmw5WTlmdXBCb0d3WWNsNFdxX1VldTZpZERpLVlZMmpTbG1QZGxyN2JwX0x5b2g4WUNmNDdZVTAxNmxJWnNzNmtkcTlmei10THBJN1d1UjRialI4d01MdTJSNXVlVTR6VQ?oc=5"
+        },
+        {
+          "d": "currently.att.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3aEFESjgxdm55Q2diZEJfUHlXVl9yWDRPY0RfMGFsbDczdDBzMzY5MzdSRmtvTkZZZzdObUJaQlBKR05OYkVYVlZHN2pCcHNGR29DeHFkbDBHTklnZk8tTWZvQW0xamFsVVFXSGUwSmZmM2JwckpkWFplMGE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023",
+        "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 15,
       "sources": 2,
       "ts": "2026-09-25T23:11:10.000Z",
       "writtenSources": 2,
