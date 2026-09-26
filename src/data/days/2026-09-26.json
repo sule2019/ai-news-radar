@@ -24,6 +24,10 @@
           "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5"
         },
         {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDFBeDhjMVNRTFUtUVNrcmE4Uk9PQ3Nmdnp0Z0hXSWhCSGRFMkI0U05ueXViaFFycmNpODhSRDgxVFFUUFA2T3FpLWRTV20tNTR2SURkVjk0ZUJPTkVGZXFXQmtBRUZnWlRlQkE3bGx3eUJESTBtQWpoWUFma24tMEJMc1BMQTlIMUdNbkloQW9raVdIMWxic0J0UTMtWDdPZlJV?oc=5"
+        },
+        {
           "d": "cnn.com",
           "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbkQyN1dNYTkzeGFDN0hQSHVZNGxVUEcyb0trcGo1SmZMeWxNRmYwOTNHRGo1eVVrWTBqYkVoUmxpV2xuVnlURWtpY3FRTG5zRGNQdk90SjdwblZVVzlfQWk1UGJsTGNhQVF2MXZ2QjFLYV9iZ0FrWElzSFhIWGhFZw?oc=5"
         },
@@ -32,18 +36,14 @@
           "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZktfT2p6V3MwTEFNUDJPZk11c053QzgzQ0QxaXF4UkZpWEd2ZzZZdkRUMk9OelR5encydHBkSGFlT1oxMkVWdjZlODBLMGJTbGdtbTJpbDlHRHZFTTlNSGxMUlVGc3BuQ1dGNWtRZlRQLURjMkdiaVVvWXQ3a2xRTTBzVWZtNEp4bG05VU5EZw?oc=5"
         },
         {
-          "d": "securityaffairs.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZm11QTFHT2laeDBITXp6NDhpS2ZteEZ4Ty1IeVJKQlNDTnNYd3pBaVlyWjk3dkx2Yk53ZHZURm8tbXFlRHJTckgwclpDRXhfaHdPTGxIVDZFdklZc21MWXkxMEVfMHJ2WkpydXliZ1ZiR0NwSVN1Qk1LV196UjhGLXpnWFlWTWN6Ri0wYjZOckRVMUc2Tk5nWGE1VmVISU55aUw2OUtYUDgtMWJERjEw0gG0AUFVX3lxTE1EWTdXN1pQMXg2UW5XaU0xSDllb2RFRldKcUprY2N4Z3hEem5zNXFVdHNuYWZTd05FUDJHMU5OZkdLWXBlTDNGLV91RVI4N0dpTHliUjNDR0xITEh5dDhqU0FvWXZNRHFRd1hLMlJZY0RLeFpYZjVqeFFWdk1PbHluN2dyQVNlUkZhNnRMZE5pSzJZOWlMekQ0ck5nRHU2aGFpTi1TVzZmSG10eklTUHdBUk5BOQ?oc=5"
-        },
-        {
           "d": "+1"
         }
       ],
       "srcTitles": [
         "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites",
+        "Rogue OpenAI agents accessed US government websites",
         "Rogue OpenAI agents targeted three separate US government websites",
-        "OpenAI says its models engaged with US government websites in misbehavior disclosure",
-        "OpenAI Agents Accessed US Government Websites Without Authorization"
+        "OpenAI says its models engaged with US government websites in misbehavior disclosure"
       ]
     },
     {
@@ -80,7 +80,7 @@
     },
     {
       "cat": "funding",
-      "signal": 46,
+      "signal": 42,
       "sources": 2,
       "ts": "2026-09-26T04:10:01.000Z",
       "writtenSources": 2,
@@ -112,8 +112,8 @@
     },
     {
       "cat": "funding",
-      "signal": 34,
-      "sources": 2,
+      "signal": 37,
+      "sources": 3,
       "ts": "2026-09-26T11:17:39.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -135,11 +135,16 @@
         {
           "d": "axios.com",
           "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNT2FRVWRwSDZuWUZPYTRXcmNuNTFDR0hrQkVUZnpSdV9RdGhpUjV5R0hwN2V6MUNUS2hiTHpENFhwUFVDODBIeDhBSm5SdUJOeU1qSUhjekl2RzBDd0VBYi0tdmNDblQwV1RMTF9QMGFHdlFRcDRmalE3dWlhX0l6aUJjSGtsVjlsZXNnbmZWY3JzMEtwY3hxNEZHT3JjWXJEQlVRSFpSM0haSUROOUFRaWJB?oc=5"
         }
       ],
       "srcTitles": [
         "The US and China create a \"Super Intelligence Dialogue\" on AI risks and a separate AI incident hotline, likened to a Cold War-era \"red telephone\" (Ben Berkowitz/Axios)",
-        "U.S. and China agree to \"super intelligence\" dialogue amid AI tensions"
+        "U.S. and China agree to \"super intelligence\" dialogue amid AI tensions",
+        "China, US agree to AI dialogue, tariff cuts on $30 billion in goods during Xi visit"
       ]
     },
     {
@@ -202,27 +207,27 @@
       ],
       "l": [
         {
-          "d": "thehill.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21ZZWtfTDZVTkpVNFE4VWJiTy1RbmtNX2l6RVN1Ui1ZaVpuQ2p6eE1CcDZYNDJsU3dpbjJhZzVvWVJCZEtrbjA0bTBVQnFiYVNYa1BMaVRUcHpRY2t2dXN3c1NiS3NSYmJ5N2NkSGdVbUNDSk5LT2ZuSVJlb255T0JoR1BPQVVpSEZTNNIBkgFBVV95cUxOOFh1NnNUUDFudzZweFdaNEpfX0pKMGdvYWJBZUJuSWY5NkliYlN3ZDRYOGJsSExjZjdYYXRNWXFzS0hrR241am1aRDVPS3M3SDVZbEtXd05ENDc5M05FZjZFdWdTWE5pR0dlY0IyNkowVkZaMmkydU9fM2dlYnVQUnRqeWlqWUtQbFV6TGFWaUVXdw?oc=5"
-        },
-        {
-          "d": "ksnt.com",
-          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWE9ISUNPREdaaXdsWGtnTDRNZWJwdEtrLVl3S0NsRTB0QmJwLW8xOENYQVdqX1MxSXZHWE1Md1RzOEk3bFhmYVl3OXZmSFhvWnVMS21MQjNscEFLNGxPOXUzR2pjX2k1YzJmYTFtYjJXTTZrSDl0UmlIUmRMMmNkSG51OTN2X2JLRFJIMTlnZ2tKQi1BQS16eGJ0NEpzYUVIZWhJRVQtX0xNSHZLX293ZlFjU0h5WDR0ZEdWRDVUeEZXUXBS0gHKAUFVX3lxTE1KWGxZUmI4Y29VZDUwajN0eDFMeV9jVHkxVUZ3ZXQ1d1VMS3BtdU1CTzNNc0YzREdlVnBCdzlfc25IYk1LMVpZSXVJSExFNHJCcGdLa1VOdXhQS1NtOVB2QmZUSnBvS21mdDJZZ0dQZ0kyQ0I5UVJfYTFzbTNia2dLQWFSVkc0MWgxbXBiS0lVSEZUOGdwM0JnaURLN0lJUXFDTW5VUWphSmFaM0thZ2d1Rk53aWhJZ29NWWVjRDQyOUIyYmNhel9tVUE?oc=5"
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE82dUpmR2ZvR3VEMVNKdW1CcnRvbWl3cFNvQTBneEVzaktVSmlINU9WQ2E2QlZ3NmF4RlpmcVZyS0tOSmdWRHBNTUkyaXVHbEtBTDZyX29KOGwzaV9NaVhmTms0dUVISkRrdEhtamJEbXo?oc=5"
         },
         {
           "d": "boston25news.com",
           "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcFIzaWc2Q2pyU1I0TE5vZUFYUjcyWTVEVnI4QVB5TGJJRmVQRmVpa1pLS0xvVThWYTVyVzhhY0R0MnNkVkNMWUFEZDBZUmZYUkZmMzRvb2R0VUR5X1hpd29BdHB0ekNnQUMtems0UTRNeWs0UE5zZFRJRUdvem5obmRSOVhETFFoSXRhcUM4dWlSS3fSAacBQVVfeXFMTVhCbk9yMEdWcTViSkFHMndMWlJXanRHTVhKSDlkVTQ5UnR5N1Y0bXVKTXdTTFd6ZWdQNUFzM3VHbUZYdjVPZldtQ2VCOGFqemE1eE9hS2VBRzhGUGp4eEk3S0VSdzZnWEh4TW42THpjRzV6NGZDN3FEdTZwd3d4S0JTSmJna3JROTQ4eDg0R25kZFUzVlFaRThJaVk5a0xDaktNY1NCTHc?oc=5"
+        },
+        {
+          "d": "wftv.com",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa1hzQmh5TGk2TDNhUmh3SW4xQWNDajJnaUtZdkZQZWttX0l5ckRoOHVQWERfUHE1dzVlQkQzWU5IMlRKWU5GWnB5d3lJWWc0bm5VRExVYkR4WWtmZGZwVHJKUFRkNnlPNTZ1NGYta043b0k5V1dvNENRTXFsc2hwYW5pX0lsU0df0gGcAUFVX3lxTFA1UHBtUFVLbXZoN3JSejM5alpMTnk1b0pDMUtFZkc3WEViVHY5U2NHbzBfakhhWEU3NjRIcUlVUWFLMFRmS1JNTkJQQUFlRWM4TmNkX1lveTF3QkF2VXhpNGdyWVVRZW5SZXJ2dHNuUnZEMzVzY1dfUlR4WUtrUE12Mkh3NEI2VW43WmFHSVcyaGRHQ3laQXg3WDYwMw?oc=5"
         }
       ],
       "srcTitles": [
-        "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
-        "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
+        "Trump and Xi agree to set up AI safety channel as military and trade talks continue",
+        "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military",
         "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military"
       ]
     },
     {
       "cat": "products",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-09-25T23:00:00.000Z",
       "writtenSources": 2,
@@ -254,7 +259,7 @@
     },
     {
       "cat": "policy",
-      "signal": 24,
+      "signal": 20,
       "sources": 2,
       "ts": "2026-09-26T16:55:14.000Z",
       "writtenSources": 2,
@@ -286,7 +291,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-26T09:08:01.000Z",
       "writtenSources": 2,
