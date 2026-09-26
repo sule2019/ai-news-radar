@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 61,
+      "signal": 54,
       "sources": 4,
       "ts": "2026-09-26T00:00:47.000Z",
       "writtenSources": 2,
@@ -20,32 +20,32 @@
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260925/p25#a260925p25"
+          "d": "foxnews.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUEN1bnBHSXRueHA3QUtnVWdDc0xpbjY2elY4ZVhaTFg0cXlweEtvYUx5Y2pjYVhnQXhMUEluR2FSZ3RISEIzREt6cTlfcWxWcXBEbXU5TElxOW5RcXp1RDBMaEEweVJ3Nll4Nkk3Nlloa2NUOHhmRkVONktkVTdyekUwMEJxNFZyRm1UVWdZTQ?oc=5"
         },
         {
-          "d": "news.sky.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXJUbjd3TVVaZUZxVmU2eDhmbEFtM3h4UU5OVDF4cXNWbjBqS1hKQTRObHZzN3NGWW16Q3lBWU5oSU9HRlBHaWdsN2FsMkF5QUdzUVVZVmZxdnVSOXlzUHhGLWVqN05aTFRBaHB5cmo0X2NvR2VOYzByNkNtb1hGbUl3TElTMmdFNWRRWU4tdFNLckQzcldQelVZWFByeXotdF83ZjlPTEVpcjdYb2Fn?oc=5"
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZDFBeDhjMVNRTFUtUVNrcmE4Uk9PQ3Nmdnp0Z0hXSWhCSGRFMkI0U05ueXViaFFycmNpODhSRDgxVFFUUFA2T3FpLWRTV20tNTR2SURkVjk0ZUJPTkVGZXFXQmtBRUZnWlRlQkE3bGx3eUJESTBtQWpoWUFma24tMEJMc1BMQTlIMUdNbkloQW9raVdIMWxic0J0UTMtWDdPZlJV?oc=5"
         },
         {
           "d": "usnews.com",
           "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaXV1UmYzWlNQZ1pwR2FlYllRUGtIbjVJa25iYmRvV2V1TlpmelcxMVhGVTUwVVo0TXV1OHY1cFdmMl84bkZUaHctZXZ1OUttSnRERUlNSWRxXzRnZXZ1UEZpUW5mVTYydF9pbEJkc2JENjNMakxnQjF0RWxwcHNjSmhQVlZ1Vk81eEw5eDNaUzZDUVVaV2tzTFppcWtEV19YSUJIMmItNkRDRlVjdDVUOGZHVnJFQ0ZHbVFGWFp2YXktUlJUSjBhTXN1RU5aWDExMTVJd2NYazYzNnRHaHRXNXE5aTNldw?oc=5"
         },
         {
-          "d": "thefederal.com",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVF2eG5CMzFKcF9yZkI4S3ZkcjZvRTdlU3lwMWhSN2daSDJ2R1pkZnM0VGphekxLOFd5S1VXVUFKaEJHQVNEOHBjbE00Ykx2M2kxUEtsV3lHQkdXLUlFZXVpRGcxYlVUVEEyRVE2cXRwSUt6M2I0LWl0X2pMMEtJbExob0hqQ0JydUQ3NGZBaTVIVnk0SEZQazNoaFAzb0ZSU25ZekF2M2poRElkTzZNdWdWcEgzSlFpM1Iw?oc=5"
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZmkxQnUxa1JKaDBBa1JwQVUyN1JZSXRtV3VwZ0s5TTJzNEMxekNGcHJiZzRLa1NULXFMb3VSOTl6bnNURDhBTzBERlpkZVk0MncyODBIb2FKa3h0cVVEVnV0ams3M2xmZ09zU0EwY2psbGUzcUs2R2RRUzhRa1dYZXZrMDJWSG5NZnZPVw?oc=5"
         }
       ],
       "srcTitles": [
-        "Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
-        "OpenAI models accessed US government data and 'tried to hack education site'",
+        "OpenAI agents targeted government websites as AI leaders warn of growing risks: report",
+        "Rogue OpenAI agents accessed US government websites",
         "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
-        "OpenAI says AI agents unexpectedly accessed US government websites"
+        "OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites"
       ]
     },
     {
       "cat": "policy",
-      "signal": 34,
+      "signal": 30,
       "sources": 2,
       "ts": "2026-09-25T23:11:10.000Z",
       "writtenSources": 2,
@@ -77,7 +77,7 @@
     },
     {
       "cat": "funding",
-      "signal": 32,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-09-26T11:17:39.000Z",
       "writtenSources": 2,
@@ -94,22 +94,22 @@
       ],
       "l": [
         {
-          "d": "thehill.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21ZZWtfTDZVTkpVNFE4VWJiTy1RbmtNX2l6RVN1Ui1ZaVpuQ2p6eE1CcDZYNDJsU3dpbjJhZzVvWVJCZEtrbjA0bTBVQnFiYVNYa1BMaVRUcHpRY2t2dXN3c1NiS3NSYmJ5N2NkSGdVbUNDSk5LT2ZuSVJlb255T0JoR1BPQVVpSEZTNNIBkgFBVV95cUxOOFh1NnNUUDFudzZweFdaNEpfX0pKMGdvYWJBZUJuSWY5NkliYlN3ZDRYOGJsSExjZjdYYXRNWXFzS0hrR241am1aRDVPS3M3SDVZbEtXd05ENDc5M05FZjZFdWdTWE5pR0dlY0IyNkowVkZaMmkydU9fM2dlYnVQUnRqeWlqWUtQbFV6TGFWaUVXdw?oc=5"
+          "d": "wane.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVjZpTDlDZTMyelpDV0Vpc2hQbzJVMkNDZENYaGg1cnh5V1hXRjJISXpobERZRDRDTGZvNjY5TzlsaHg4OVZHUmxBTjdYZjROWjRjVXZEMWp0ZHEtS1JHZDdQUVUxbl83dU9lZ3NGSkpxS3hHN0RKTF9seldJU2ZRTDdIcTBnalJKM1hVOW1XZnVZQ2hlOWNrTVFIN3hScjZxeVl1S2V2dWN1d3lvb1RFLU45OVQ2Y3lI0gG-AUFVX3lxTE5NODY5ZklBYjBwZm9rNGZYX0o4OE9HWmhiZHhxWXBxMEVoenc2QVZZYWxLalo4WXBiN3BWQXF5QTNLRGRxLVk5a18tcGs5NVJrNnZoMFMzVlY2c1M4YlpVcGt3UzloR3FMZ1hvcW9Nd2ZWVjFncjgtWFp1UmstWFVHR3JXcnBiNjJCUGpRWGM5YXdMY0hHbDR1YWlTdm9mNmVLT3drMHRuZXZvVTJsTGtpaEIwbUJBTkM3dEpoVVE?oc=5"
         },
         {
-          "d": "wftv.com",
-          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa1hzQmh5TGk2TDNhUmh3SW4xQWNDajJnaUtZdkZQZWttX0l5ckRoOHVQWERfUHE1dzVlQkQzWU5IMlRKWU5GWnB5d3lJWWc0bm5VRExVYkR4WWtmZGZwVHJKUFRkNnlPNTZ1NGYta043b0k5V1dvNENRTXFsc2hwYW5pX0lsU0df0gGcAUFVX3lxTFA1UHBtUFVLbXZoN3JSejM5alpMTnk1b0pDMUtFZkc3WEViVHY5U2NHbzBfakhhWEU3NjRIcUlVUWFLMFRmS1JNTkJQQUFlRWM4TmNkX1lveTF3QkF2VXhpNGdyWVVRZW5SZXJ2dHNuUnZEMzVzY1dfUlR4WUtrUE12Mkh3NEI2VW43WmFHSVcyaGRHQ3laQXg3WDYwMw?oc=5"
+          "d": "newsnationnow.com",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQWhnVE40c1hZal9DTmVEeVZXcUpTUXRCQnR4czBHUFNRa29jbGpsaXdmUDQ0NkJPLUxKc3RTNzlndTJ4MmJMdmp4ekRia0doNHRUczd4aXdxWDI4OGJqZlN3aG5iVEZnWHRoemo4OUx0UC1iZGRFMU94RVlsRktEV1JtUnVaclVSNGFzbjd1V2hHNlNPNU9YUGVQMnZWXzlCWktiZHFmazl0YlhFWHk0dVJfVDBwZERKM1FXbnlZSzdZNEJXWE1PNFhFOEl4d9IB0wFBVV95cUxOemZ2LVVtckFYTF9OdnNUemVHNXJLWC1xME1ydTczOHVtWUZhVndwUzlRQjRCUFNfVGZmM0Rndnk0ZXJHajJkYUR2UWZuMVFFck93MGwzWUFsa19nbGkyX3lwQ0JzVThySHVEOWdkeVY1SUJsamNlZjVzcGFCcXVDUl90emYya3dnXzNndWUxdEF4aEpFOHhpSW5odWhDU1NCR3JqcGVpcVNTUEY3T0hrNmM1X1YzNGJldjNfQUh1Ukt3QUo3RzFZZXNvNTgybDJTYWk0?oc=5"
         }
       ],
       "srcTitles": [
         "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
-        "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military"
+        "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents"
       ]
     },
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-09-26T09:08:01.000Z",
       "writtenSources": 2,
