@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 48,
-      "sources": 2,
+      "signal": 61,
+      "sources": 4,
       "ts": "2026-09-26T00:00:47.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -24,13 +24,87 @@
           "u": "https://www.techmeme.com/260925/p25#a260925p25"
         },
         {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2xjQ1lxckxXLVQ1ajFKakNhUkNZT2FlLWRDYXFmdTJkUndJcjlPaVFhZmFlTVBkbWFTV2VwczA5SnlhNjF6VUJCdnMzemVXWFZBdWJfd0c5V2s?oc=5"
+          "d": "news.sky.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRXJUbjd3TVVaZUZxVmU2eDhmbEFtM3h4UU5OVDF4cXNWbjBqS1hKQTRObHZzN3NGWW16Q3lBWU5oSU9HRlBHaWdsN2FsMkF5QUdzUVVZVmZxdnVSOXlzUHhGLWVqN05aTFRBaHB5cmo0X2NvR2VOYzByNkNtb1hGbUl3TElTMmdFNWRRWU4tdFNLckQzcldQelVZWFByeXotdF83ZjlPTEVpcjdYb2Fn?oc=5"
+        },
+        {
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaXV1UmYzWlNQZ1pwR2FlYllRUGtIbjVJa25iYmRvV2V1TlpmelcxMVhGVTUwVVo0TXV1OHY1cFdmMl84bkZUaHctZXZ1OUttSnRERUlNSWRxXzRnZXZ1UEZpUW5mVTYydF9pbEJkc2JENjNMakxnQjF0RWxwcHNjSmhQVlZ1Vk81eEw5eDNaUzZDUVVaV2tzTFppcWtEV19YSUJIMmItNkRDRlVjdDVUOGZHVnJFQ0ZHbVFGWFp2YXktUlJUSjBhTXN1RU5aWDExMTVJd2NYazYzNnRHaHRXNXE5aTNldw?oc=5"
+        },
+        {
+          "d": "thefederal.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLVF2eG5CMzFKcF9yZkI4S3ZkcjZvRTdlU3lwMWhSN2daSDJ2R1pkZnM0VGphekxLOFd5S1VXVUFKaEJHQVNEOHBjbE00Ykx2M2kxUEtsV3lHQkdXLUlFZXVpRGcxYlVUVEEyRVE2cXRwSUt6M2I0LWl0X2pMMEtJbExob0hqQ0JydUQ3NGZBaTVIVnk0SEZQazNoaFAzb0ZSU25ZekF2M2poRElkTzZNdWdWcEgzSlFpM1Iw?oc=5"
         }
       ],
       "srcTitles": [
         "Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
-        "OpenAI bots meddled with multiple US government agency sites"
+        "OpenAI models accessed US government data and 'tried to hack education site'",
+        "OpenAI Says Its Models Engaged With US Government Websites in New Model Misbehavior Disclosure",
+        "OpenAI says AI agents unexpectedly accessed US government websites"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-09-25T23:11:10.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+      "s": "Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+      "b": [
+        "techcrunch.com: Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "cnbc.com: China wants in on U.S. AI data center boom. Here's why"
+      ],
+      "body": [
+        "techcrunch.com: Boom Supersonic CEO Blake Scholl said the company's new stationary power plants were no longer in Crusoe's near-term plans.",
+        "cnbc.com: China wants in on U.S. AI data center boom. Here's why CNBC"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers/"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9lQ0p4dkRYalpYNmpfS3dvc3U5ZFI4aW9IVHcxVDBqUTlKZlJodU5ZVC10cmxEN0hwYnRWU0ZESXczcTdKZGRVREVqU2tYeWNieVB3VjFWWkFRcHRiVGx5bmg5ZE9nOEJ0YVNVdWhB0gFzQVVfeXFMTWYyb29FMElKZ3JvbmF2WVNOUjdtUURCN09KMXBNTDZsY19PMDFaNkpFUGVFY1RkNVlqY3p5aHFuSEJIQV82S1doZU9iQTVDR2k5eHRPVHFGamRHZXVLd2sySHdRNm1NdUI5YnltTlZ3RG1xdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Crusoe abandons $1.25B plan to use Boom turbines at AI data centers",
+        "China wants in on U.S. AI data center boom. Here's why"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-26T11:17:39.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
+      "s": "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents thehill.com",
+      "b": [
+        "thehill.com: US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
+        "wftv.com: China and the US agree to set up a new AI safety channel, and to keep talking on trade, military"
+      ],
+      "body": [
+        "thehill.com: US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents thehill.com",
+        "wftv.com: China and the US agree to set up a new AI safety channel, and to keep talking on trade, military WFTV"
+      ],
+      "l": [
+        {
+          "d": "thehill.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNa21ZZWtfTDZVTkpVNFE4VWJiTy1RbmtNX2l6RVN1Ui1ZaVpuQ2p6eE1CcDZYNDJsU3dpbjJhZzVvWVJCZEtrbjA0bTBVQnFiYVNYa1BMaVRUcHpRY2t2dXN3c1NiS3NSYmJ5N2NkSGdVbUNDSk5LT2ZuSVJlb255T0JoR1BPQVVpSEZTNNIBkgFBVV95cUxOOFh1NnNUUDFudzZweFdaNEpfX0pKMGdvYWJBZUJuSWY5NkliYlN3ZDRYOGJsSExjZjdYYXRNWXFzS0hrR241am1aRDVPS3M3SDVZbEtXd05ENDc5M05FZjZFdWdTWE5pR0dlY0IyNkowVkZaMmkydU9fM2dlYnVQUnRqeWlqWUtQbFV6TGFWaUVXdw?oc=5"
+        },
+        {
+          "d": "wftv.com",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQa1hzQmh5TGk2TDNhUmh3SW4xQWNDajJnaUtZdkZQZWttX0l5ckRoOHVQWERfUHE1dzVlQkQzWU5IMlRKWU5GWnB5d3lJWWc0bm5VRExVYkR4WWtmZGZwVHJKUFRkNnlPNTZ1NGYta043b0k5V1dvNENRTXFsc2hwYW5pX0lsU0df0gGcAUFVX3lxTFA1UHBtUFVLbXZoN3JSejM5alpMTnk1b0pDMUtFZkc3WEViVHY5U2NHbzBfakhhWEU3NjRIcUlVUWFLMFRmS1JNTkJQQUFlRWM4TmNkX1lveTF3QkF2VXhpNGdyWVVRZW5SZXJ2dHNuUnZEMzVzY1dfUlR4WUtrUE12Mkh3NEI2VW43WmFHSVcyaGRHQ3laQXg3WDYwMw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "US, China agree to cut tariffs on $30 billion worth of goods, set up channel for AI incidents",
+        "China and the US agree to set up a new AI safety channel, and to keep talking on trade, military"
       ]
     },
     {
