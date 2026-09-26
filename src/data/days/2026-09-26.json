@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 52,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-09-26T00:00:47.000Z",
       "writtenSources": 2,
@@ -31,6 +31,38 @@
       "srcTitles": [
         "Researchers: OpenAI's agents meddled with the US Commerce Dept. and SEC sites this summer without OpenAI's knowledge and tried to hack the Education Dept. site (New York Times)",
         "OpenAI bots meddled with multiple US government agency sites"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-26T09:08:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023",
+      "s": "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023 The Motley Fool",
+      "b": [
+        "fool.com: Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023",
+        "currently.att.yahoo.com: Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023"
+      ],
+      "body": [
+        "fool.com: Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023 The Motley Fool",
+        "currently.att.yahoo.com: Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023 Currently.com"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWHJJUS1KRU5tbElCTlFrVHd6Q2JCbVM3UVU4ZWJpQVkwVVUzWHlBakd5UUQtOXdtdmw5WTlmdXBCb0d3WWNsNFdxX1VldTZpZERpLVlZMmpTbG1QZGxyN2JwX0x5b2g4WUNmNDdZVTAxNmxJWnNzNmtkcTlmei10THBJN1d1UjRialI4d01MdTJSNXVlVTR6VQ?oc=5"
+        },
+        {
+          "d": "currently.att.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3aEFESjgxdm55Q2diZEJfUHlXVl9yWDRPY0RfMGFsbDczdDBzMzY5MzdSRmtvTkZZZzdObUJaQlBKR05OYkVYVlZHN2pCcHNGR29DeHFkbDBHTklnZk8tTWZvQW0xamFsVVFXSGUwSmZmM2JwckpkWFplMGE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023",
+        "Jim Cramer Says Buy 2 Artificial Intelligence (AI) Stocks Up 875% and 1,400% Since 2023"
       ]
     },
     {
