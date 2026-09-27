@@ -78,9 +78,41 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-09-27T10:01:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+      "s": "OpenAI halts training of latest models as reports mount of AI agents going rogue The Guardian",
+      "b": [
+        "theguardian.com: OpenAI halts training of latest models as reports mount of AI agents going rogue",
+        "gizmodo.com: OpenAI to Halt Training of Some Models"
+      ],
+      "body": [
+        "theguardian.com: OpenAI halts training of latest models as reports mount of AI agents going rogue The Guardian",
+        "gizmodo.com: OpenAI to Halt Training of Some Models Gizmodo"
+      ],
+      "l": [
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQdWZCRDBDd0E2YnBTeGJZNXhZLURBOXlJZTR2dGhwY0c1bWlNX3N6MkhWcVRiSF9oNjJLWmJfY0Nwcy05SFB0RGJ2ckhaNjdueWFxMjdnWHhodFM1MEJkRXVnUzJZTTJidXdGckk1ZkI0RDZRNmVQQXYyTmxtbnJKZFdMNFRMbFhwcWY5RHdFeGpIY3prOVo1RWstRWhPVVRldXgyV1E1Q2FaOEZxSC1rTld2eFFHWnJTcXk2WmgxRG15a0ViblgzYzh3TQ?oc=5"
+        },
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91ZzdXRTlNRkh3c2Qyem5YTzJPdVNQU3dnNlBTbmRIdEYxUjREei1tU3FDejZIY0pBUU8teldseDktcEM3QVVxYjVzMGk2Mm41RXBidXoxdkVsR0xnN0F0VjJlc0Zrb1lYdEM1dzhaa0ZhREFESmN2Vg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI halts training of latest models as reports mount of AI agents going rogue",
+        "OpenAI to Halt Training of Some Models"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 36,
-      "sources": 6,
+      "signal": 34,
+      "sources": 5,
       "ts": "2026-09-27T09:00:00.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -110,50 +142,18 @@
           "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVzFWckgyUmJzaUZuLTZVMDB0VzNDb2ZRSnFYNFFVZUpLUGFMdExzWDlySnd3MmtSUTUxNEZwNEhkQS1sVkZ4T0FEbTVFeXRrRUtRQTctWURXNkxxUXBFVVRqVjBSLU9zMFFuM1V1bG1jeENRaFZkMkw1X21COUJVaDAtT0FCWkZHUzhKWFZZRGF5NWpiTXhGS1VIR1BrYzBJdU9tbWUzTVN6bFQ3UjdkeXRsUFo?oc=5"
         },
         {
-          "d": "abcnews4.com",
-          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTmJITU1Pd1hwdE5EV0NzUVBqOWRKLV9iVUJ1NGxqclJ1LXBieTFla000a19xQ0l1TS1YWHZrVEhmMlpIaTY5cUVPbUE2RFdlSzdHaUJtMVltWTFNWk1QUjYwZ216NV9zZURSb1g0NzRmeUZqUy1JUXJUZkRsM24zd1pHQnZMTXZXaS1YdEp6WEljYXctTFNBTGxVQ0xlZE9jdVVGeXVsUVY2Qm5BSmljLWZMWWp5R0dr?oc=5"
+          "d": "wfmd.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcTJqX0ZVN0ZOZTlkQUl3emFTWkl4dXFMZl9zVGdrcy1OcktTeE1YSzk4T0ctbEp0N19EYUNpMFNxWDdYS0lhbWJsUUdqMUd2cEp6WDVUQjRYZ3FXQ3luWEthUGcwY21ZRFc3Q3FSdEV5UGYzc2kya1RpekJybENnaXhjTXg0RlU0VmdoSWxNR29sa0h4MDNFTnVBMHFTam5aTU1EbThfWWYyVlB4SFV0Nl9kX0dWc09kc01LNEJ1TWNmYUFsRlhz?oc=5"
         },
         {
-          "d": "+2"
+          "d": "+1"
         }
       ],
       "srcTitles": [
         "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
         "Bill Gates warns artificial intelligence 'powerful enough' to cause 'a billion deaths' if unchecked",
         "Bill Gates warns AI could be used to trigger 'a billion deaths,' urges regulation",
-        "Bill Gates warns AI could be used to trigger 'a billion deaths,' urges regulation"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 28,
-      "sources": 2,
-      "ts": "2026-09-27T04:27:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
-      "s": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry Al Jazeera",
-      "b": [
-        "aljazeera.com: Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
-        "reuters.com: OpenAI, Anthropic CEOs called to appear at Australian AI probe"
-      ],
-      "body": [
-        "aljazeera.com: Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry Al Jazeera",
-        "reuters.com: OpenAI, Anthropic CEOs called to appear at Australian AI probe Reuters"
-      ],
-      "l": [
-        {
-          "d": "aljazeera.com",
-          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzJaR3dnX3FYREtOZVJISWNDYVN4S3ZpZVVvN1otd2tnRTdTenJrQUxUN0c0YkRnOXlvT2pnRHhrdVZZVEFoZUl0WC1WZ0lEYW5uY08yaURBSnRjWVZPMUptSW9DME53YVU3cm50bXN2dkdmUmk0ZFJNOFEzWDh2U0FoXzM1QWZ4Q3FHLWtTeFJ1OThjUFpGenRKVEtybjd3OE5FQ3g5VzQzUDZI0gGyAUFVX3lxTE1GNUpkRUxuelVWRGhaakVPTllYTGdYZGh1VE1fUExWczNleEpZSHJKUmJoVnBxeFFCMkZQUmhHa3k2b1AtRFh4VEtoeUFudDVLc21vZlR5ZWZCODktS19Tb2EwejJBekdCWVZtUDc3aWQyNGlpOTd0ay1lSGNZVDJPV3p4ak1OdXQ3N2E4U3FzQjNwTmt2eE9NYmxhYjAwRWstRWFJU1RlSDZhc2ttTTNkT1E?oc=5"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkgwZG5VR01rUjNsZkNPUkw1TFNEYTY1TGtCa010MUlRVzE2Vy1qaTBMNnJiYXliYlY1MkJONXpValJTRTdQLVNjazhJbGc1RDNVMDdTNU9WZXd3elhRVVBZNEFZLTBER2VfVkdxUW13YXprcnJKc1NjcmFwS0FYRlZYTWtZZWNQQ0pJV3JjVWFkUDZHZDNOT01FSVJOaDZLUU1wa1BFdDZpU2hZ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
-        "OpenAI, Anthropic CEOs called to appear at Australian AI probe"
+        "Bill Gates warns artificial intelligence ‘powerful enough’ to cause ‘a billion deaths’ if unchecked"
       ]
     },
     {
@@ -186,6 +186,38 @@
       "srcTitles": [
         "China 'respects' Trump's decision to refer to artificial intelligence as 'super intelligence'",
         "China respects US choice on what term to use for artificial intelligence: spokesperson"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 24,
+      "sources": 2,
+      "ts": "2026-09-27T04:27:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
+      "s": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry Al Jazeera",
+      "b": [
+        "aljazeera.com: Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
+        "reuters.com: OpenAI, Anthropic CEOs called to appear at Australian AI probe"
+      ],
+      "body": [
+        "aljazeera.com: Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry Al Jazeera",
+        "reuters.com: OpenAI, Anthropic CEOs called to appear at Australian AI probe Reuters"
+      ],
+      "l": [
+        {
+          "d": "aljazeera.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzJaR3dnX3FYREtOZVJISWNDYVN4S3ZpZVVvN1otd2tnRTdTenJrQUxUN0c0YkRnOXlvT2pnRHhrdVZZVEFoZUl0WC1WZ0lEYW5uY08yaURBSnRjWVZPMUptSW9DME53YVU3cm50bXN2dkdmUmk0ZFJNOFEzWDh2U0FoXzM1QWZ4Q3FHLWtTeFJ1OThjUFpGenRKVEtybjd3OE5FQ3g5VzQzUDZI0gGyAUFVX3lxTE1GNUpkRUxuelVWRGhaakVPTllYTGdYZGh1VE1fUExWczNleEpZSHJKUmJoVnBxeFFCMkZQUmhHa3k2b1AtRFh4VEtoeUFudDVLc21vZlR5ZWZCODktS19Tb2EwejJBekdCWVZtUDc3aWQyNGlpOTd0ay1lSGNZVDJPV3p4ak1OdXQ3N2E4U3FzQjNwTmt2eE9NYmxhYjAwRWstRWFJU1RlSDZhc2ttTTNkT1E?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkgwZG5VR01rUjNsZkNPUkw1TFNEYTY1TGtCa010MUlRVzE2Vy1qaTBMNnJiYXliYlY1MkJONXpValJTRTdQLVNjazhJbGc1RDNVMDdTNU9WZXd3elhRVVBZNEFZLTBER2VfVkdxUW13YXprcnJKc1NjcmFwS0FYRlZYTWtZZWNQQ0pJV3JjVWFkUDZHZDNOT01FSVJOaDZLUU1wa1BFdDZpU2hZ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
+        "OpenAI, Anthropic CEOs called to appear at Australian AI probe"
       ]
     },
     {
