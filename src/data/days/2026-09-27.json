@@ -2,8 +2,40 @@
   "date": "2026-09-27",
   "stories": [
     {
+      "cat": "products",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-09-27T04:27:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
+      "s": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry Al Jazeera",
+      "b": [
+        "aljazeera.com: Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
+        "reuters.com: OpenAI, Anthropic CEOs called to appear at Australian AI probe"
+      ],
+      "body": [
+        "aljazeera.com: Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry Al Jazeera",
+        "reuters.com: OpenAI, Anthropic CEOs called to appear at Australian AI probe Reuters"
+      ],
+      "l": [
+        {
+          "d": "aljazeera.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRzJaR3dnX3FYREtOZVJISWNDYVN4S3ZpZVVvN1otd2tnRTdTenJrQUxUN0c0YkRnOXlvT2pnRHhrdVZZVEFoZUl0WC1WZ0lEYW5uY08yaURBSnRjWVZPMUptSW9DME53YVU3cm50bXN2dkdmUmk0ZFJNOFEzWDh2U0FoXzM1QWZ4Q3FHLWtTeFJ1OThjUFpGenRKVEtybjd3OE5FQ3g5VzQzUDZI0gGyAUFVX3lxTE1GNUpkRUxuelVWRGhaakVPTllYTGdYZGh1VE1fUExWczNleEpZSHJKUmJoVnBxeFFCMkZQUmhHa3k2b1AtRFh4VEtoeUFudDVLc21vZlR5ZWZCODktS19Tb2EwejJBekdCWVZtUDc3aWQyNGlpOTd0ay1lSGNZVDJPV3p4ak1OdXQ3N2E4U3FzQjNwTmt2eE9NYmxhYjAwRWstRWFJU1RlSDZhc2ttTTNkT1E?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkgwZG5VR01rUjNsZkNPUkw1TFNEYTY1TGtCa010MUlRVzE2Vy1qaTBMNnJiYXliYlY1MkJONXpValJTRTdQLVNjazhJbGc1RDNVMDdTNU9WZXd3elhRVVBZNEFZLTBER2VfVkdxUW13YXprcnJKc1NjcmFwS0FYRlZYTWtZZWNQQ0pJV3JjVWFkUDZHZDNOT01FSVJOaDZLUU1wa1BFdDZpU2hZ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
+        "OpenAI, Anthropic CEOs called to appear at Australian AI probe"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 28,
+      "signal": 24,
       "sources": 2,
       "ts": "2026-09-27T00:25:15.000Z",
       "writtenSources": 2,
@@ -35,7 +67,7 @@
     },
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-09-26T23:19:00.000Z",
       "writtenSources": 2,
