@@ -74,7 +74,7 @@
     },
     {
       "cat": "products",
-      "signal": 36,
+      "signal": 32,
       "sources": 2,
       "ts": "2026-09-27T04:27:00.000Z",
       "writtenSources": 2,
@@ -102,6 +102,45 @@
       "srcTitles": [
         "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
         "OpenAI, Anthropic CEOs called to appear at Australian AI probe"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-09-27T09:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
+      "s": "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation theguardian.com",
+      "b": [
+        "theguardian.com: Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
+        "reuters.com: Bill Gates joins calls for AI safeguards, including legislation",
+        "voiceofemirates.com: Bill Gates calls for US legislation to impose controls on artificial intelligence"
+      ],
+      "body": [
+        "theguardian.com: Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation theguardian.com",
+        "reuters.com: Bill Gates joins calls for AI safeguards, including legislation Reuters",
+        "voiceofemirates.com: Bill Gates calls for US legislation to impose controls on artificial intelligence صوت الإمارات"
+      ],
+      "l": [
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNX3U0dW9FbGNsVVd0bGt4MlRzRTBZMkE2NWZOYUZlUkxOd3puUEwxdkR1YXNIaHdFNUtaYzJ3cGlOTHM2ckdBbHhLZmYtbUlnalJ2QmZYVS00RFROaksyY01xUnRCSXFzcEppNElYd1NOV21KNWJXVEVPVHBVZUppSEZPRVQzVmhtdlA4ZWp4emlaQmwxblpxVjRVWGM0dw?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQmNRNTdyaGdENWhHUlEzVFpTVnRndmtXcDBfZlVmTVZpWWF2SEF6M1FwXzBtbFZRdWJWOGNKc2JfYll1aEZxamJYYTJwZ2pXMUZ0NW1wWjEyQXRObnRJa29BbzhrLWxXOTFmSVZlRlkyS1Z3endodzAyYm9Sc0NOYlE5REhwbnZQbERfdWc2Mi1LbWVyaGpiOGtjZ1dVWGQ2cTJib1FVM1ZJYkVZbmRJWA?oc=5"
+        },
+        {
+          "d": "voiceofemirates.com",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPWTFuSzNUSWxCalBYZ0R4dmI1Yk5nRURveEtzbFFNUVUtZkEwajh1XzhmSFNWQkRLN0ZQbnJtUHF2MnJycFVLVTV6bFlBY0VMMmVGU1NHWHVVNzlycGtrOXBXNXhvN2JyNDFpS29GSzIwazZyU0pCd0gzNUxhUS1OQnNmV0lWQlMxb1BKNTYtSWM3VkRYVTdEX2JkRnBFRjdGT3N3T1liLW9BVy16aVh6aE9VT3diX1VRdXhfYVBINUdzVWFzUjh5VW1Obnd6QQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Bill Gates says unchecked AI could ‘cause a billion deaths’ in call for regulation",
+        "Bill Gates joins calls for AI safeguards, including legislation",
+        "Bill Gates calls for US legislation to impose controls on artificial intelligence"
       ]
     },
     {
