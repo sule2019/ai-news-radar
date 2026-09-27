@@ -3,7 +3,46 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 52,
+      "sources": 3,
+      "ts": "2026-09-27T11:30:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Developer says AI decision model Jev beat Pokémon Red in under a week — non-LLM engine succeeds where traditional chatbots stalled for months, but Claude Opus 5 coached the model through its dead ends",
+      "s": "Developer says AI decision model Jev beat Pokémon Red in under a week — non-LLM engine succeeds where traditional chatbots stalled for months, but Claude Opus 5 coached the model through its dead ends",
+      "b": [
+        "tomshardware.com: Developer says AI decision model Jev beat Pokémon Red in under a week — non-LLM engine succeeds where traditional chatbots stalled for months, but Claude Opus 5 coached the model through its dead ends",
+        "lowyinstitute.org: Claude for Clausewitz?",
+        "bleepingcomputer.com: Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors"
+      ],
+      "body": [
+        "tomshardware.com: Developer says AI decision model Jev beat Pokémon Red in under a week — non-LLM engine succeeds where traditional chatbots stalled for months, but Claude Opus 5 coached the model through its dead ends Tom's Hardware",
+        "lowyinstitute.org: Claude for Clausewitz? Lowy Institute",
+        "bleepingcomputer.com: Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors BleepingComputer"
+      ],
+      "l": [
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxPdmFDV2FYbE1abnppSDl0OXo1NVhQLUpoc3k0ZjhqdjJRa0FsY3pVekN6cG5fSElxaHlmSGxfaWVYTFJxM1BLWHV5WG01cy1HUUptWmhxdl9GODlIcnpReGdnSjhCWFlVRWRPYzBsX1czbThZTzRWUDJqc0lMSjczT1FfNk1NQW92cUlwNGtPSnVsdXR1X3RwVnpXa2h3cVowdnpVOUF0WnBCOVFlSmNVMW00WlBzd3c1UFE1QTBHSm9kXzB4bnhsNHJuUk96aHVIZENoQU5JaEpnUUpodzBVWXZqMU5sUE52Y01iVXEtVUpqeGZZOThhVC0wZVExaTJjZXNZRzgtRlNWTFprR1hsM2xDZDVUWU5qUU1SV21qUHVROFpfMGhxblhDNjBuNFlScEJ0aFBpRVlJNGNjWHdPVDBmU19fLXJlTFpaTUVsN0tfLVpRRHQzLWdabi1wY3Y4QnFBNU15SEczaEZqZTBUSlRPZlVJYWM3?oc=5"
+        },
+        {
+          "d": "lowyinstitute.org",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAtbndKd3lxWk9abDFhWWRzdTMzb2xUSXU5T2todjVrSFNRZ3phLWhfZndsT2Joa2FFSndKUU9tZTRaaFJ5MF9USWsxN0kxR2lfZEZ0eHlPUjY3T2RwNlMwaThDV3NWNGJhaXg0NTZid3FVSnBoaHc?oc=5"
+        },
+        {
+          "d": "bleepingcomputer.com",
+          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOVnRqLTRpNnpkWHRHSUNSUW02UktpWjNRVXc2UVN6V2FjX2Q1cVBSMl9UUmFla3BYcVNOTS1vS2ItTVJUcjRYRFlEQTI3a1Q4T2hxY1J0bkhLWk9HcG9BaFo1cFF3WWRQWGp0aDZMVk9wcUJoUXlJM1RjYkdPVFY3YXU2SW1pbUJkTVpzR0xWUWZVUTdyV1BVZ1NmcGNlUVZaeHdWZGtuY3F2ZEQxakRmUzh4U1M0dmtSd19NLV9TYUFkYV9GdHAzVkRTN3p1OWJzMGc2emQ2Tzh4UUhxSkZWRtIB5gFBVV95cUxOU0FncnRFblBBNFktbE1CeHR4Y1lNYndMaTlKZFdnWmxMaW8yMDIzYWFZZVZYSURVeXhxZHB1TER3NXdBQ1lVb2Y0NmF0cGtjUmwyLUx4dkhXd1VQY2FyS3g4RGkzcGpRUU1XVmEzVFkxRm85TXdWRlVmRlFlbXhLdzBlNDl3WTBsOVVITVFId1JQcWVVRHZyb1Z6WHVLVzdncHI3ZS15NDdidFc5bERTclRWeTVRbnY2dEdQUFpweks1c3dGUkZMMUpLR0tQWU9mYV9JZ1MzcHhrRkdIbjlrb1NlTG1nZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Developer says AI decision model Jev beat Pokémon Red in under a week — non-LLM engine succeeds where traditional chatbots stalled for months, but Claude Opus 5 coached the model through its dead ends",
+        "Claude for Clausewitz?",
+        "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 48,
       "sources": 2,
       "ts": "2026-09-27T11:56:40.000Z",
       "writtenSources": 2,
@@ -35,7 +74,7 @@
     },
     {
       "cat": "products",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-09-27T04:27:00.000Z",
       "writtenSources": 2,
@@ -67,7 +106,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-09-26T23:19:00.000Z",
       "writtenSources": 2,
@@ -84,17 +123,17 @@
       ],
       "l": [
         {
-          "d": "globaltimes.cn",
-          "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92WllhWTRDUk9iY1lSWUJHVWZnQWlSMFVySXJkczlXRlFCeU81eXoyOFRlWEpJQ2RpUFpId3c5YW9fazFRWG1MNmNRSVRta3FtQmFkc0RSNUlHa1EwczJrSk1n?oc=5"
+          "d": "foxnews.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDhqMDlUa1RkUzlCNUl2RkFMUmJlUV9TbmFQZjk0ajlZZ3BubG9pa1J5VVpSeXlPOGVJYnFLSTRTTEJpdkxZcjFIZnJxU3ljWkNhS0R3MWJ2Ui03bmtGVTdaU2dMaXNEQmNCZTJPZUotN0J5b3kyQk5SMUFyZkxSdDlkTUlSU1E3bHYzeFJ5amswSVdIQ1NPRzF6cEFtSjhm?oc=5"
         },
         {
-          "d": "english.news.cn",
-          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1jVlBWR2hRdmpuX3hpZ18tQWJoQ1FpbDNxNVdBY2F3djREVVB5X2lFZmhDME5aT3puU3Nfc3daY0JjMHQydkprNzQ5aXJWWmw0RXhPYTVIdklyazVqckhqWVkzTVhxZjl1M3JnbUdObFhMRzNwNmlxNkdfaHA?oc=5"
+          "d": "globaltimes.cn",
+          "u": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92WllhWTRDUk9iY1lSWUJHVWZnQWlSMFVySXJkczlXRlFCeU81eXoyOFRlWEpJQ2RpUFpId3c5YW9fazFRWG1MNmNRSVRta3FtQmFkc0RSNUlHa1EwczJrSk1n?oc=5"
         }
       ],
       "srcTitles": [
-        "China respects US choice on what term to use for artificial intelligence: spokesperson",
-        "Xinhua News | China respects U.S. choice on what term to use for artificial intelligence: spokesperson"
+        "China 'respects' Trump's decision to refer to artificial intelligence as 'super intelligence'",
+        "China respects US choice on what term to use for artificial intelligence: spokesperson"
       ]
     },
     {
