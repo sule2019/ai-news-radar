@@ -2,8 +2,97 @@
   "date": "2026-09-28",
   "stories": [
     {
+      "cat": "products",
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-09-28T14:13:49.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Nvidia releases AI safety software it says could have stopped Hugging Face hack",
+      "s": "Nvidia releases AI safety software it says could have stopped Hugging Face hack Reuters",
+      "b": [
+        "reuters.com: Nvidia releases AI safety software it says could have stopped Hugging Face hack",
+        "pymnts.com: Nvidia Says New Safety Platform Would Have Halted Hugging Face Hack"
+      ],
+      "body": [
+        "reuters.com: Nvidia releases AI safety software it says could have stopped Hugging Face hack Reuters",
+        "pymnts.com: Nvidia Says New Safety Platform Would Have Halted Hugging Face Hack PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSVREakRaN2V6OWo0bzNFcVBHb1VZMzRVS29mcWF4XzZwSmdxLVRublBqSTE5ZlNBaHBKb0lTU1o2SWV0V0t1U3M3TVl1ZnlJWGVJRGxKclM5RkphYzhzU3FlNkZHNDk3TUZhdW54dGtydmR3MFR2ZFVZdWItaVpsNjZYX2hIbjVHcTM0ZTVqLVd6UHV2OGY4eFM4ZW1va1pCSF90VzlZd3BSUjVkY1RJRzV2ZGFEUnlnbDY1d0ZjOFZoYXBVRU5YZEM0Zmk?oc=5"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONTVMcHBOZzlVaDdobi1FcVJ4WjZKRnA4c01OdGNMMnFBR1JKR2V4U1FNNkhSZ3JXRFNQQ19yTFB3dUFGTTljMlowTThaNV9EbUctTmxGeFlmMlN5eEs3LW9uUVNDTmtMdTB1SUpNLVQxbkNJVjFPTy1NR0JhY1BlMzBLbGgtbHZBU3U4eHhGaXo4dHZnWGU0SkdOZ2tqUjI0M21YcXVNMW1MZGpqM2NZ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia releases AI safety software it says could have stopped Hugging Face hack",
+        "Nvidia Says New Safety Platform Would Have Halted Hugging Face Hack"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-09-28T11:17:39.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI Threatens Democracy, but Not in the Way Experts Think",
+      "s": "AI Threatens Democracy, but Not in the Way Experts Think The National Interest",
+      "b": [
+        "nationalinterest.org: AI Threatens Democracy, but Not in the Way Experts Think",
+        "windowscentral.com: \"I think we are way too self-obsessed\" — Microsoft CEO calls out AI bros, but will his executives listen?"
+      ],
+      "body": [
+        "nationalinterest.org: AI Threatens Democracy, but Not in the Way Experts Think The National Interest",
+        "windowscentral.com: \"I think we are way too self-obsessed\" — Microsoft CEO calls out AI bros, but will his executives listen? Windows Central"
+      ],
+      "l": [
+        {
+          "d": "nationalinterest.org",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0FFcndrSnRSUVVDV0hfbnNvN2VrU0tsei1DSnJuQUUzQlR4dVBBel9reGdPRVlvMloxVFJMR3hWS3NOckNma3F1RDNUSFFqYWtYUVp3LVhtQUtrWDR2X0tvZkduc2ZsTmsydG1Sa2k1b210dTN4M1FYTlZmWHJXS2tfRHlMSUxpYXZkX0ZZQlFrUGtYNXAya21OenF0bXM?oc=5"
+        },
+        {
+          "d": "windowscentral.com",
+          "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVWU2UHBHdUdYWVlyektJam5iVk02LTU1aVkyVjQ3d2VnUkkxaUVVZWc5ZVFtc2hRclFKS1J2b040d0dvakRQOU12TlhKUzRFMUo2ZGxVS21lX1dXS1FfZVZFc0ZIbzYwZmhJM0RncHdYM3hRV20tWlowVEp3a3lPT3ZKUnlzZFFfVVY2Q1Q4UzZ3eTdmWjZzVnR0OHpSWEQ3N05LbHdyZm1GeHd5eTFjejgxUnllZC1lQnVxdjhlY1BqM2lOV2NndE1TbENkSUpKeHV5bmQzYVRMRWxFQ1VvclQzZDJJajhvdHc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI Threatens Democracy, but Not in the Way Experts Think",
+        "\"I think we are way too self-obsessed\" — Microsoft CEO calls out AI bros, but will his executives listen?"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-28T08:06:22.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Who’s liable when AI agents go rogue?",
+      "s": "MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . Over the past few m",
+      "b": [
+        "technologyreview.com: Who’s liable when AI agents go rogue?"
+      ],
+      "body": [
+        "technologyreview.com: MIT Technology Review Explains : Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here . Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, OpenAI disclosed that a swarm of its agents had escaped their sandbox and hacked into the AI platform Hugging Face to cheat on a cybersecurity test. Recently, external researchers discovered that OpenAI agents had hijacked a German wiki site and the coding platform RubyGems in May to share test answers. Earlier this month, Anthropic disclosed four incidents in which its model Claude hacked into third-party systems during cybersecurity exercises. Just last week, Google confirmed that its model Gemini had been caught hacking other companies too. The researcher who uncovered the OpenAI website hijack has warned it’s likely that similar undiscovered episodes are out there. And many say it’s only a matter of time until there’s another, possibly more damaging incident where AI agents bypass sandboxes to access systems they shouldn’t. So the big question is: How do we hold companies liable when they lose control of their AI agents? Reporting OpenAI didn’t disclose the German wiki incident or the RubyGems incident until a group of external researchers uncovered them, and it still has not disclosed some crucial details about the Hugging Face hack. That limits our understanding of what exactly went wrong and how to prevent it from happening again. But you might be surprised to learn that OpenAI likely wasn’t legally required to disclose these incidents. (OpenAI did not respond to a request for comment.) State AI transparency laws like California’s SB 53 , New York’s RAISE Act , and Illinois’s SB 315 require that AI developers report “critical safety incidents.” These are defined as incidents that cause more than 50 deaths or physical injuries or $1 billion in damage. They also include incidents where th"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/"
+        }
+      ],
+      "srcTitles": [
+        "Who’s liable when AI agents go rogue?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 20,
       "sources": 2,
       "ts": "2026-09-28T00:06:16.000Z",
       "writtenSources": 2,
@@ -35,7 +124,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-27T22:26:00.000Z",
       "writtenSources": 2,
