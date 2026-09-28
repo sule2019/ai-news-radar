@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-09-28T00:06:16.000Z",
       "writtenSources": 2,
@@ -31,6 +31,38 @@
       "srcTitles": [
         "SoundHound AI vs. BigBear.ai: Revenue Trends Reveal Key Insights About These Artificial Intelligence Companies",
         "SoundHound AI vs. BigBear.ai: Revenue Trends Reveal Key Insights About These Artificial Intelligence Companies"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-27T22:26:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Australia’s legacy systems were already a cyber risk. AI agents are raising the stakes",
+      "s": "Australia’s legacy systems were already a cyber risk. AI agents are raising the stakes The Conversation",
+      "b": [
+        "theconversation.com: Australia’s legacy systems were already a cyber risk. AI agents are raising the stakes",
+        "theguardian.com: Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns"
+      ],
+      "body": [
+        "theconversation.com: Australia’s legacy systems were already a cyber risk. AI agents are raising the stakes The Conversation",
+        "theguardian.com: Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns The Guardian"
+      ],
+      "l": [
+        {
+          "d": "theconversation.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMWlyWjN3MzhINEQyRDlLZmhEV2x0Q2FHcnNlci1udjJVZi1EV3MzLWJSbzV3LUQyXzd2ckt1dEdXMmtRRVNuOWJSa3cwMzAwLVhwcTdYTXB5NVFJVDd0V2lfU2kwZmFKcWI0Q3NwQ0g2SzI4XzZrMnprMFR6dTFyRTBTTlhucEpkT2JyRnZKZHJEQ1JDcUFsNEdxcGYtRG92bkExQkpQZ2FOX19CRmxXZlRSWEZSbG12OFBN?oc=5"
+        },
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZkM5YUtwWlpHR2pUdG9WZnBZR1ZzdDNKSVpiYkRyY3FTenBpTUJpazFkRFF2WjVQRGhBVEFuaFB6LW5EcUtQMEUtTXdwWXdsQVlfYTkwV3pzV1lnZTF5Y3dmU0dRZm5yY2Q2c2FkTkZyQWZDdm5PREltMG5CY1RxckgtU0g4NWRhUlFzWjgzbTQzbFBfR1BySjVLa0xJdEY4LWNJRDY2WnljNTl2MUJxMkNQNTVYU3VIdnlRbzdUei1nWXNWck1UZXRfVm81c21oOTltY21EckxqSGh1WmlySC1NNHhjNzQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Australia’s legacy systems were already a cyber risk. AI agents are raising the stakes",
+        "Australia is run on legacy systems that AI agents can easily exploit, former UN cyber negotiator warns"
       ]
     }
   ]
