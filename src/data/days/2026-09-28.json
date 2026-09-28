@@ -2,6 +2,154 @@
   "date": "2026-09-28",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 65,
+      "sources": 3,
+      "ts": "2026-09-28T14:45:05.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Florida AG James Uthmeier files for an emergency injunction against OpenAI and ChatGPT, asserting the company cannot adequately self-regulate its tech (Axios)",
+      "s": "Axios : Florida AG James Uthmeier files for an emergency injunction against OpenAI and ChatGPT, asserting the company cannot adequately self-regulate its tech Florida Attorney General James Uthmeier h",
+      "b": [
+        "techmeme.com: Florida AG James Uthmeier files for an emergency injunction against OpenAI and ChatGPT, asserting the company cannot adequately self-regulate its tech (Axios)",
+        "politico.com: Florida AG seeks injunction to hamper OpenAI development",
+        "washingtontimes.com: Florida attorney general seeks temporary injunction against OpenAI over AI safety risks"
+      ],
+      "body": [
+        "techmeme.com: Axios : Florida AG James Uthmeier files for an emergency injunction against OpenAI and ChatGPT, asserting the company cannot adequately self-regulate its tech Florida Attorney General James Uthmeier has asked for an emergency injunction against OpenAI and ChatGPT, claiming the company",
+        "politico.com: Florida AG seeks injunction to hamper OpenAI development Politico",
+        "washingtontimes.com: Florida attorney general seeks temporary injunction against OpenAI over AI safety risks Washington Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260928/p27#a260928p27"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFpqVmlDUVNFZlZMVjBEQVpaZmRfTmM5WjF3STJLeWdJaFlKM2YyQjZNN1V3SHY4bEhpdUhSTWRhYTVQU1dscXF2TlZwWVFBXzl2ZkJoTUVHZFBjR1JiNjQ5SjczWENWYktFTWk1cFp5OUV2UjRnbWxuaDR6aHJSTjVObGVTcG1vR2V4dURnQmU?oc=5"
+        },
+        {
+          "d": "washingtontimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM01iSGQtM2NKZk1QRTBoV0I4VktabjZRVGRhSHVXSjJuZlVBZ19FNExrWXVudExBREFWenNEVTFDblVNc3g3N3FBdGhmZmNoa25NWC1FZUwwck84S3J5ZnBCM3dPVXN3cDUxeDZMOWRmVEtRVTdkTUx1YlJLNUlUVVNpZ1Bid2d3VXdaUzdOUkxJa3NLOVFPRmhXUnJocFpvS2ZNcENscXNxTTlMUE9PVmpXZWo3aUw4LUE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Florida AG James Uthmeier files for an emergency injunction against OpenAI and ChatGPT, asserting the company cannot adequately self-regulate its tech (Axios)",
+        "Florida AG seeks injunction to hamper OpenAI development",
+        "Florida attorney general seeks temporary injunction against OpenAI over AI safety risks"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 64,
+      "sources": 4,
+      "ts": "2026-09-28T14:00:00.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending \"intelligence explosion\" and call for oversight into automated AI research (Maxwell Zeff/Wall Street Journal)",
+      "s": "Maxwell Zeff / Wall Street Journal : AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending intelligence explosion and call for oversight into automated AI research Leaders",
+      "b": [
+        "techmeme.com: AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending \"intelligence explosion\" and call for oversight into automated AI research (Maxwell Zeff/Wall Street Journal)",
+        "theguardian.com: AI godfathers warn of runaway ‘intelligence explosion’",
+        "bloomberg.com: Anthropic, OpenAI Executives Urge Oversight of Self-Improving AI"
+      ],
+      "body": [
+        "techmeme.com: Maxwell Zeff / Wall Street Journal : AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending intelligence explosion and call for oversight into automated AI research Leaders at OpenAI, Anthropic, Microsoft and Meta say AI could soon self-improve faster than humans can keep up with",
+        "theguardian.com: AI godfathers warn of runaway ‘intelligence explosion’ The Guardian",
+        "bloomberg.com: Anthropic, OpenAI Executives Urge Oversight of Self-Improving AI Bloomberg.com",
+        "wsj.com: Exclusive | Top AI Researchers Call for Urgent Oversight of Self-Improving Systems WSJ"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260928/p24#a260928p24"
+        },
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGxyaFd0WFlTaUZaUTFWUTIxcGQyZzVuZ3VQNXp4V05mbnlxbmY4TjNCc0NKZndWeTZVdE1UR1I0ZXVqS3NreUY4QXpaVFQtNzF1dkphSW5WaTVwdG03M08zYUpyRnBZM1dTdU5nUldEZWxHcHZlUjAxZkRUVVMyVHVUWUsyQmhib2h1bngwVVY0WnBMdEFBZ0ZFaVhHdTRKSlVzdzVpQXlSTDF4ZVFjaGpDckg?oc=5"
+        },
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0JIcWNSZE5CSmhjRjVCMG9rd1VpN0VhX1FtVDRfR3ZEMXowSXNvVnVsWV8tU0dtcTNlT0FZX1MtWGxoU0VmeVQ0UUJZbnFndDFsczdDRUo4RjdzV3N6MGpkYkFKR0N5UmJUWHo1NEVKYms0UzE0TnAwMFdKaW9jM3E4S0FsYjBmRTI4T3JJZmhsS1BhYzUtSURWclNnY0V2ay05V0JDSGRNR0U?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending \"intelligence explosion\" and call for oversight into automated AI research (Maxwell Zeff/Wall Street Journal)",
+        "AI godfathers warn of runaway ‘intelligence explosion’",
+        "Anthropic, OpenAI Executives Urge Oversight of Self-Improving AI",
+        "Exclusive | Top AI Researchers Call for Urgent Oversight of Self-Improving Systems"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-09-28T12:35:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities (Artificial Analysis)",
+      "s": "Artificial Analysis : Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities The Artificial Analy",
+      "b": [
+        "techmeme.com: Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities (Artificial Analysis)",
+        "baltimoresun.com: Nvidia launches new system it says will control artificial intelligence agents"
+      ],
+      "body": [
+        "techmeme.com: Artificial Analysis : Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities The Artificial Analysis Cyber Index Alliance brings together industry partners to set a new standard for evaluating how AI models perform on enterprise cyber defense tasks.",
+        "baltimoresun.com: Nvidia launches new system it says will control artificial intelligence agents Baltimore Sun"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260928/p17#a260928p17"
+        },
+        {
+          "d": "baltimoresun.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGd5b19rUUdvSXBjd1pidERSaTJHN0dLamhGUXppM2pvUmtHSWZLY01PVnFHT2tlamZsX2wyeEp6cFY1QkxoTWI1UjZPdHVrbnZvcjFtZGQzbmp5NjRIbmNTMmx4bWVmdzVrdnRDY0R6dFF4OUEyaWEyS1JBbHhlOTlRMVZLb0hLSnRLd01xdFJvU196NFFodFVTV2I5bzhOSkVmakJ5akpNSmNNRVVJQ29ZREk3eXJXam9J?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities (Artificial Analysis)",
+        "Nvidia launches new system it says will control artificial intelligence agents"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-09-28T11:53:50.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+      "s": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcem",
+      "b": [
+        "theverge.com: Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+        "artificialintelligence-news.com: NVIDIA and over 100 partners launch open AI agent safety platform"
+      ],
+      "body": [
+        "theverge.com: Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within [ ]",
+        "artificialintelligence-news.com: NVIDIA and over 100 partners launch open AI agent safety platform AI News"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
+        },
+        {
+          "d": "artificialintelligence-news.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamtyREtyVy1lbFlTUmpsZHdSRTl2RWdGTWhWRkFDNV9pQUdzcDFibzhYb2hZREZPYnVIcVVRZE5PZkpwWDNfT2JlNXIwUXl6SW1UV2VXWUJDc1A4ZmFhem43czNBdmpldXNUa3ZhcG5NWGMyNG9neVk2QU5NbG5VY0RieWlyU3pqdmpIaVNUZEk1clRrVzBkeEFzRHE0UndfUHFrbU0wSXVUeDBxcWUwNA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+        "NVIDIA and over 100 partners launch open AI agent safety platform"
+      ]
+    },
+    {
       "cat": "products",
       "signal": 54,
       "sources": 2,
@@ -35,7 +183,7 @@
     },
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-09-28T11:17:39.000Z",
       "writtenSources": 2,
@@ -66,6 +214,102 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-09-28T14:05:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Modulate raises $25M for its voice models and analysis suite",
+      "s": "Modulate deploys its models to detect deepfake, fraud and scam",
+      "b": [
+        "techcrunch.com: Modulate raises $25M for its voice models and analysis suite",
+        "techmeme.com: Boston-based Modulate, which uses small AI models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and more, raised $25M (Ivan Mehta/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Modulate deploys its models to detect deepfake, fraud and scam",
+        "techmeme.com: Ivan Mehta / TechCrunch : Boston-based Modulate, which uses small AI models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and more, raised $25M Boston-based voice intelligence startup Modulate has raised $25 in new funding for its platform that uses an array of small models"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/28/modulate-raises-25m-for-its-voice-models-and-analysis-suite/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260928/p26#a260928p26"
+        }
+      ],
+      "srcTitles": [
+        "Modulate raises $25M for its voice models and analysis suite",
+        "Boston-based Modulate, which uses small AI models to offer enterprises transcription, emotional analysis, deepfake and AI music detection, and more, raised $25M (Ivan Mehta/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-09-28T12:53:05.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+      "s": "Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+      "b": [
+        "techcrunch.com: Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "techmeme.com: AI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service (Utkarsh Shetti/Reuters)"
+      ],
+      "body": [
+        "techcrunch.com: Instinct has raised a $1 billion Series C, saying 'we're just getting started.' The company is now valued at $10 billion.",
+        "techmeme.com: Utkarsh Shetti / Reuters : AI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service AI agent firm Instinct said on Monday it has raised $1 billion at a $10 billion valuation in a Series C funding round."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260928/p19#a260928p19"
+        }
+      ],
+      "srcTitles": [
+        "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
+        "AI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service (Utkarsh Shetti/Reuters)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-09-28T15:36:53.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says",
+      "s": "Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says Yahoo",
+      "b": [
+        "yahoo.com: Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says",
+        "sg.news.yahoo.com: Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says"
+      ],
+      "body": [
+        "yahoo.com: Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says Yahoo",
+        "sg.news.yahoo.com: Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says Yahoo News Singapore"
+      ],
+      "l": [
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOVpFdG5kVEdUT0JpdXpiYXdNVU5SaGdiaWw3SThUSGFjTGllaU1wNkJmTTZnYk1EWG11My02R3pHWUhoc2FwM2hfZmY0Nlc4UzFLS1VqTmdKV1FYeGdSU0RsSUQwU1dxSFVLbFpQTnkta2JKbEpiWFQ4TlcxNWNJM3NJY1VIbEt6TVN3aHJSUjE?oc=5"
+        },
+        {
+          "d": "sg.news.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hM2R2Y2JJR0lZNVliaW0zNFNka2RYc3luaDRiVlZTTnUyX2I5QXFnZ1g0N2h2RllWZm5kUkU2MloycjJmdDJmNVpsc0t6dGJoUnlqZXBjNENaaTZzLW0yLWo5TU5heTJXUzVZbGE4bWhDMTdzNDhZ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says",
+        "Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 24,
       "sources": 1,
@@ -92,7 +336,7 @@
     },
     {
       "cat": "models",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-09-28T00:06:16.000Z",
       "writtenSources": 2,
@@ -124,7 +368,7 @@
     },
     {
       "cat": "models",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-09-27T22:26:00.000Z",
       "writtenSources": 2,
