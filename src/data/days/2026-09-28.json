@@ -48,8 +48,8 @@
     },
     {
       "cat": "funding",
-      "signal": 65,
-      "sources": 3,
+      "signal": 64,
+      "sources": 2,
       "ts": "2026-09-28T20:10:45.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -71,18 +71,13 @@
           "u": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
         },
         {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LUjBabEQwUG1TSlBLWGJJbENYbEZXVzYxWTlGVEpXRXhvM0ZOMjhXWmdzNVdTX0dLcGF3S0Z1RDN1UDJ1aDhMbGFMZE1iNnd5SkVNVk1JY3ZXUl9FNXZiZTcwV24zVlI5dVdsNFo1VdIBdEFVX3lxTE1GMTVTanpmVGs0Q2J1RlEtTHRRWEpuRWNwUkF3YmhIS2VzLUQ0SzRPaERxNHo4WDNhX1hsNXdUNE5KSmM0ak5OTzdkQmd5dE4tMmhMSzFNWFYyTFB3amxPMjFVbnI0Wm5HSzg0WENTdXIxamZy?oc=5"
-        },
-        {
-          "d": "ft.com",
-          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFcxM3NDUmVDUWZ0NTlJZjhrVjF6em5LaDdNdk15Ynk1b1ZKVkl4YnpORERyU3c0WkppWHI2YmRsYlFzcUFLZjV4MkxrZGZja0FKY21GdUZ2LTg5ejFub2hKdmpZbmVmcEZSU3hXbWtRelRZODQ4WGZtZi1DeTNOcHJhZmk?oc=5"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1001749/amd-world-labs-ai-acquisition-deal"
         }
       ],
       "srcTitles": [
         "AMD will acquire Fei-Fei Li s World Labs for $8.2 billion",
-        "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion",
-        "AMD to buy Fei-Fei Li’s AI start-up for $8bn"
+        "AMD is acquiring AI company World Labs in a deal worth more than $8 billion"
       ]
     },
     {
@@ -223,7 +218,7 @@
     },
     {
       "cat": "products",
-      "signal": 50,
+      "signal": 46,
       "sources": 2,
       "ts": "2026-09-28T14:13:49.000Z",
       "writtenSources": 2,
@@ -305,40 +300,8 @@
     },
     {
       "cat": "models",
-      "signal": 43,
-      "sources": 2,
-      "ts": "2026-09-28T11:17:39.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "AI Threatens Democracy, but Not in the Way Experts Think",
-      "s": "AI Threatens Democracy, but Not in the Way Experts Think The National Interest",
-      "b": [
-        "nationalinterest.org: AI Threatens Democracy, but Not in the Way Experts Think",
-        "windowscentral.com: \"I think we are way too self-obsessed\" — Microsoft CEO calls out AI bros, but will his executives listen?"
-      ],
-      "body": [
-        "nationalinterest.org: AI Threatens Democracy, but Not in the Way Experts Think The National Interest",
-        "windowscentral.com: \"I think we are way too self-obsessed\" — Microsoft CEO calls out AI bros, but will his executives listen? Windows Central"
-      ],
-      "l": [
-        {
-          "d": "nationalinterest.org",
-          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0FFcndrSnRSUVVDV0hfbnNvN2VrU0tsei1DSnJuQUUzQlR4dVBBel9reGdPRVlvMloxVFJMR3hWS3NOckNma3F1RDNUSFFqYWtYUVp3LVhtQUtrWDR2X0tvZkduc2ZsTmsydG1Sa2k1b210dTN4M1FYTlZmWHJXS2tfRHlMSUxpYXZkX0ZZQlFrUGtYNXAya21OenF0bXM?oc=5"
-        },
-        {
-          "d": "windowscentral.com",
-          "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVWU2UHBHdUdYWVlyektJam5iVk02LTU1aVkyVjQ3d2VnUkkxaUVVZWc5ZVFtc2hRclFKS1J2b040d0dvakRQOU12TlhKUzRFMUo2ZGxVS21lX1dXS1FfZVZFc0ZIbzYwZmhJM0RncHdYM3hRV20tWlowVEp3a3lPT3ZKUnlzZFFfVVY2Q1Q4UzZ3eTdmWjZzVnR0OHpSWEQ3N05LbHdyZm1GeHd5eTFjejgxUnllZC1lQnVxdjhlY1BqM2lOV2NndE1TbENkSUpKeHV5bmQzYVRMRWxFQ1VvclQzZDJJajhvdHc?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "AI Threatens Democracy, but Not in the Way Experts Think",
-        "\"I think we are way too self-obsessed\" — Microsoft CEO calls out AI bros, but will his executives listen?"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 41,
-      "sources": 8,
+      "signal": 42,
+      "sources": 9,
       "ts": "2026-09-28T20:03:09.000Z",
       "writtenSources": 8,
       "draft": true,
@@ -373,7 +336,7 @@
           "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1dLeDZnR09tUnRqVTFKZ0JGYURGQlk2TGRDSUJkeE5XZ3I1TWNDMzRXTXVZLTkzc0lTTjVJXzBGN2pxYnVkaUNRcmVpV0ZQR1NwbUNzYV91dnV2WVI4WHVVcHJXVS1oTDZmOENuVFRSWTdOR1lSa1hBWEFTdmJhMWVOdE92dE1jS3pjZmgwNngxOU1Ca2c?oc=5"
         },
         {
-          "d": "+4"
+          "d": "+5"
         }
       ],
       "srcTitles": [
@@ -381,6 +344,38 @@
         "Pope says concerns about AI 'should be taken seriously'",
         "Pope Leo says existential concerns about AI 'should be taken seriously'",
         "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-09-28T11:17:39.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI Threatens Democracy, but Not in the Way Experts Think",
+      "s": "AI Threatens Democracy, but Not in the Way Experts Think The National Interest",
+      "b": [
+        "nationalinterest.org: AI Threatens Democracy, but Not in the Way Experts Think",
+        "windowscentral.com: \"I think we are way too self-obsessed\" — Microsoft CEO calls out AI bros, but will his executives listen?"
+      ],
+      "body": [
+        "nationalinterest.org: AI Threatens Democracy, but Not in the Way Experts Think The National Interest",
+        "windowscentral.com: \"I think we are way too self-obsessed\" — Microsoft CEO calls out AI bros, but will his executives listen? Windows Central"
+      ],
+      "l": [
+        {
+          "d": "nationalinterest.org",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc0FFcndrSnRSUVVDV0hfbnNvN2VrU0tsei1DSnJuQUUzQlR4dVBBel9reGdPRVlvMloxVFJMR3hWS3NOckNma3F1RDNUSFFqYWtYUVp3LVhtQUtrWDR2X0tvZkduc2ZsTmsydG1Sa2k1b210dTN4M1FYTlZmWHJXS2tfRHlMSUxpYXZkX0ZZQlFrUGtYNXAya21OenF0bXM?oc=5"
+        },
+        {
+          "d": "windowscentral.com",
+          "u": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVWU2UHBHdUdYWVlyektJam5iVk02LTU1aVkyVjQ3d2VnUkkxaUVVZWc5ZVFtc2hRclFKS1J2b040d0dvakRQOU12TlhKUzRFMUo2ZGxVS21lX1dXS1FfZVZFc0ZIbzYwZmhJM0RncHdYM3hRV20tWlowVEp3a3lPT3ZKUnlzZFFfVVY2Q1Q4UzZ3eTdmWjZzVnR0OHpSWEQ3N05LbHdyZm1GeHd5eTFjejgxUnllZC1lQnVxdjhlY1BqM2lOV2NndE1TbENkSUpKeHV5bmQzYVRMRWxFQ1VvclQzZDJJajhvdHc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI Threatens Democracy, but Not in the Way Experts Think",
+        "\"I think we are way too self-obsessed\" — Microsoft CEO calls out AI bros, but will his executives listen?"
       ]
     },
     {
@@ -449,7 +444,32 @@
     },
     {
       "cat": "models",
-      "signal": 28,
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-28T19:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "s": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "b": [
+        "blog.google: Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+      ],
+      "body": [
+        "blog.google: Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+        }
+      ],
+      "srcTitles": [
+        "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
       "sources": 2,
       "ts": "2026-09-28T15:36:53.000Z",
       "writtenSources": 2,
@@ -477,31 +497,6 @@
       "srcTitles": [
         "Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says",
         "Trump's AI meeting with tech CEOs to focus on finding balance, US House speaker says"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-09-28T19:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "s": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "b": [
-        "blog.google: Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
-      ],
-      "body": [
-        "blog.google: Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
-        }
-      ],
-      "srcTitles": [
-        "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
       ]
     },
     {
