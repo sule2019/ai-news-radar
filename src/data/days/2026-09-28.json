@@ -2,9 +2,125 @@
   "date": "2026-09-28",
   "stories": [
     {
-      "cat": "policy",
+      "cat": "products",
+      "signal": 74,
+      "sources": 5,
+      "ts": "2026-09-28T12:35:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities (Artificial Analysis)",
+      "s": "Artificial Analysis : Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities The Artificial Analy",
+      "b": [
+        "techmeme.com: Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities (Artificial Analysis)",
+        "baltimoresun.com: Nvidia launches new system it says will control artificial intelligence agents"
+      ],
+      "body": [
+        "techmeme.com: Artificial Analysis : Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities The Artificial Analysis Cyber Index Alliance brings together industry partners to set a new standard for evaluating how AI models perform on enterprise cyber defense tasks.",
+        "baltimoresun.com: Nvidia launches new system it says will control artificial intelligence agents Baltimore Sun"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/nvidias-answer-to-rogue-agents-is-an-open-source-ai-security-system/"
+        },
+        {
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLUs1WDRHbkRJcDEzM0tsZ1BWNlZzS2pMVm94RkllS3hiR0Q2UUlPTnc0SVZUcGRCMUVoNDhvTjVKdkhuajJ3RXR2WnJRS2xoRTFwNUREV09yc0dFMjc2YVpCY0RTMW1JbXdDOGpXY283UFVBcG1YRlh6UzBaS0lPOEYwck9UanNBM1dDdXRvVjhQNWtNR1NJWENoemNqNmtHMi1zZWt5UFZwdw?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia launches new platform for reining in rogue AI agents",
+        "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+        "Nvidia’s Answer to Rogue Agents Is an Open-Source AI Security System",
+        "Nvidia unveils security platform to stop AI agents from going rogue"
+      ]
+    },
+    {
+      "cat": "funding",
       "signal": 65,
       "sources": 3,
+      "ts": "2026-09-28T20:10:45.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "AMD will acquire Fei-Fei Li s World Labs for $8.2 billion",
+      "s": "The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+      "b": [
+        "techcrunch.com: AMD will acquire Fei-Fei Li s World Labs for $8.2 billion",
+        "cnbc.com: AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion",
+        "ft.com: AMD to buy Fei-Fei Li’s AI start-up for $8bn"
+      ],
+      "body": [
+        "techcrunch.com: The acquisition will see World Labs founder Fei-Fei Li join AMD as executive vice president and chief scientist.",
+        "cnbc.com: AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion CNBC",
+        "ft.com: AMD to buy Fei-Fei Li’s AI start-up for $8bn Financial Times"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/28/amd-will-acquire-fei-fei-lis-world-labs-for-8-2-billion/"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LUjBabEQwUG1TSlBLWGJJbENYbEZXVzYxWTlGVEpXRXhvM0ZOMjhXWmdzNVdTX0dLcGF3S0Z1RDN1UDJ1aDhMbGFMZE1iNnd5SkVNVk1JY3ZXUl9FNXZiZTcwV24zVlI5dVdsNFo1VdIBdEFVX3lxTE1GMTVTanpmVGs0Q2J1RlEtTHRRWEpuRWNwUkF3YmhIS2VzLUQ0SzRPaERxNHo4WDNhX1hsNXdUNE5KSmM0ak5OTzdkQmd5dE4tMmhMSzFNWFYyTFB3amxPMjFVbnI0Wm5HSzg0WENTdXIxamZy?oc=5"
+        },
+        {
+          "d": "ft.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaFcxM3NDUmVDUWZ0NTlJZjhrVjF6em5LaDdNdk15Ynk1b1ZKVkl4YnpORERyU3c0WkppWHI2YmRsYlFzcUFLZjV4MkxrZGZja0FKY21GdUZ2LTg5ejFub2hKdmpZbmVmcEZSU3hXbWtRelRZODQ4WGZtZi1DeTNOcHJhZmk?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AMD will acquire Fei-Fei Li s World Labs for $8.2 billion",
+        "AMD acquiring Fei-Fei Li's World Labs AI firm in deal worth $8.2 billion",
+        "AMD to buy Fei-Fei Li’s AI start-up for $8bn"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-28T17:29:50.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google is killing off Gemini s Gems in favor of skills",
+      "s": "As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+      "b": [
+        "techcrunch.com: Google is killing off Gemini s Gems in favor of skills",
+        "techmeme.com: Google says it will migrate Gems, which let users create custom versions of Gemini, to \"skills\", starting Nov. 17; Google introduced skills with Gemini Spark (Abner Li/9to5Google)"
+      ],
+      "body": [
+        "techcrunch.com: As all-in-one AI agents like Meta's Muse and Instinct take off, Google is opting to end a feature which built task-specific agents.",
+        "techmeme.com: Abner Li / 9to5Google : Google says it will migrate Gems, which let users create custom versions of Gemini, to skills , starting Nov. 17; Google introduced skills with Gemini Spark In 2024, Google introduced Gems as custom versions of Gemini. The Gemini app will soon replace Gems with skills."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/28/google-is-killing-off-geminis-gems-in-favor-of-skills/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260928/p31#a260928p31"
+        }
+      ],
+      "srcTitles": [
+        "Google is killing off Gemini s Gems in favor of skills",
+        "Google says it will migrate Gems, which let users create custom versions of Gemini, to \"skills\", starting Nov. 17; Google introduced skills with Gemini Spark (Abner Li/9to5Google)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 56,
+      "sources": 2,
       "ts": "2026-09-28T14:45:05.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -28,22 +144,17 @@
         {
           "d": "politico.com",
           "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeFpqVmlDUVNFZlZMVjBEQVpaZmRfTmM5WjF3STJLeWdJaFlKM2YyQjZNN1V3SHY4bEhpdUhSTWRhYTVQU1dscXF2TlZwWVFBXzl2ZkJoTUVHZFBjR1JiNjQ5SjczWENWYktFTWk1cFp5OUV2UjRnbWxuaDR6aHJSTjVObGVTcG1vR2V4dURnQmU?oc=5"
-        },
-        {
-          "d": "washingtontimes.com",
-          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOM01iSGQtM2NKZk1QRTBoV0I4VktabjZRVGRhSHVXSjJuZlVBZ19FNExrWXVudExBREFWenNEVTFDblVNc3g3N3FBdGhmZmNoa25NWC1FZUwwck84S3J5ZnBCM3dPVXN3cDUxeDZMOWRmVEtRVTdkTUx1YlJLNUlUVVNpZ1Bid2d3VXdaUzdOUkxJa3NLOVFPRmhXUnJocFpvS2ZNcENscXNxTTlMUE9PVmpXZWo3aUw4LUE?oc=5"
         }
       ],
       "srcTitles": [
-        "Florida AG James Uthmeier files for an emergency injunction against OpenAI and ChatGPT, asserting the company cannot adequately self-regulate its tech (Axios)",
-        "Florida AG seeks injunction to hamper OpenAI development",
-        "Florida attorney general seeks temporary injunction against OpenAI over AI safety risks"
+        "Florida AG James Uthmeier files for an emergency injunction to halt ChatGPT development, saying OpenAI doesn't have the ability to properly regulate its tech (Axios)",
+        "Florida AG seeks injunction to hamper OpenAI development"
       ]
     },
     {
       "cat": "research",
-      "signal": 64,
-      "sources": 4,
+      "signal": 56,
+      "sources": 2,
       "ts": "2026-09-28T14:00:00.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -68,90 +179,51 @@
         {
           "d": "theguardian.com",
           "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMFNkQmpvTmdlZER6dDF6NXlNZ2x2WnpicUlHeDBvRjNRUzlaZy01OUI5Sm91YV9DRUh0Qmk4TzNwTTQ1alBveEdGOHNHcy0wa1pqR0lsZVR2dUxoQ3R1V1FnZTJuZG9MS1d3OWs3eTgxb0ZmUl96dGNiWkhzMk1wN3oyV0xFYjVrdGtIQ1Vzb0l0SWdBWlZEalo3WmxNbVpxNjJoX1dR?oc=5"
-        },
-        {
-          "d": "bloomberg.com",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNGxyaFd0WFlTaUZaUTFWUTIxcGQyZzVuZ3VQNXp4V05mbnlxbmY4TjNCc0NKZndWeTZVdE1UR1I0ZXVqS3NreUY4QXpaVFQtNzF1dkphSW5WaTVwdG03M08zYUpyRnBZM1dTdU5nUldEZWxHcHZlUjAxZkRUVVMyVHVUWUsyQmhib2h1bngwVVY0WnBMdEFBZ0ZFaVhHdTRKSlVzdzVpQXlSTDF4ZVFjaGpDckg?oc=5"
-        },
-        {
-          "d": "wsj.com",
-          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS0JIcWNSZE5CSmhjRjVCMG9rd1VpN0VhX1FtVDRfR3ZEMXowSXNvVnVsWV8tU0dtcTNlT0FZX1MtWGxoU0VmeVQ0UUJZbnFndDFsczdDRUo4RjdzV3N6MGpkYkFKR0N5UmJUWHo1NEVKYms0UzE0TnAwMFdKaW9jM3E4S0FsYjBmRTI4T3JJZmhsS1BhYzUtSURWclNnY0V2ay05V0JDSGRNR0U?oc=5"
         }
       ],
       "srcTitles": [
         "AI research leaders at OpenAI, Anthropic, Microsoft, and Meta warn of an impending \"intelligence explosion\" and call for oversight into automated AI research (Maxwell Zeff/Wall Street Journal)",
-        "AI godfathers warn of runaway ‘intelligence explosion’",
-        "Anthropic, OpenAI Executives Urge Oversight of Self-Improving AI",
-        "Exclusive | Top AI Researchers Call for Urgent Oversight of Self-Improving Systems"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 59,
-      "sources": 2,
-      "ts": "2026-09-28T12:35:01.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities (Artificial Analysis)",
-      "s": "Artificial Analysis : Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities The Artificial Analy",
-      "b": [
-        "techmeme.com: Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities (Artificial Analysis)",
-        "baltimoresun.com: Nvidia launches new system it says will control artificial intelligence agents"
-      ],
-      "body": [
-        "techmeme.com: Artificial Analysis : Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities The Artificial Analysis Cyber Index Alliance brings together industry partners to set a new standard for evaluating how AI models perform on enterprise cyber defense tasks.",
-        "baltimoresun.com: Nvidia launches new system it says will control artificial intelligence agents Baltimore Sun"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260928/p17#a260928p17"
-        },
-        {
-          "d": "baltimoresun.com",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSGd5b19rUUdvSXBjd1pidERSaTJHN0dLamhGUXppM2pvUmtHSWZLY01PVnFHT2tlamZsX2wyeEp6cFY1QkxoTWI1UjZPdHVrbnZvcjFtZGQzbmp5NjRIbmNTMmx4bWVmdzVrdnRDY0R6dFF4OUEyaWEyS1JBbHhlOTlRMVZLb0hLSnRLd01xdFJvU196NFFodFVTV2I5bzhOSkVmakJ5akpNSmNNRVVJQ29ZREk3eXJXam9J?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Artificial Analysis launches the Cyber Index Alliance with partners Collinear, IBM, Nvidia, and Vercel to evaluate how AI agents find and fix vulnerabilities (Artificial Analysis)",
-        "Nvidia launches new system it says will control artificial intelligence agents"
+        "AI godfathers warn of runaway ‘intelligence explosion’"
       ]
     },
     {
       "cat": "models",
-      "signal": 59,
+      "signal": 56,
       "sources": 2,
-      "ts": "2026-09-28T11:53:50.000Z",
+      "ts": "2026-09-28T04:01:30.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-      "s": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcem",
+      "h": "An OpenAI agent security executive on being surprised by \"staggering\" model capabilities, AI labs needing a \"culture of reasonable paranoia\", and more (Joe/@joedaroo)",
+      "s": "Joe / @joedaroo : An OpenAI agent security executive on being surprised by staggering model capabilities, AI labs needing a culture of reasonable paranoia , and more Took a minute to write a few words",
       "b": [
-        "theverge.com: Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-        "artificialintelligence-news.com: NVIDIA and over 100 partners launch open AI agent safety platform"
+        "techmeme.com: An OpenAI agent security executive on being surprised by \"staggering\" model capabilities, AI labs needing a \"culture of reasonable paranoia\", and more (Joe/@joedaroo)",
+        "simonwillison.net: Quoting @joedaroo",
+        "simonwillison.net: Quoting Muse AI Agent"
       ],
       "body": [
-        "theverge.com: Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within [ ]",
-        "artificialintelligence-news.com: NVIDIA and over 100 partners launch open AI agent safety platform AI News"
+        "techmeme.com: Joe / @joedaroo : An OpenAI agent security executive on being surprised by staggering model capabilities, AI labs needing a culture of reasonable paranoia , and more Took a minute to write a few words about security safety as someone who lived through it all at OpenAI. I hope my thoughts help someone out there. https://x.com/...",
+        "simonwillison.net: To say that we were surprised at the jump and suddenness of the capabilities of our models when it came to “cyber” or “swarming” or “message boards” or anything else related to the incidents is an understatement. Security posture takes time to develop. It’s not just about hardening the systems at play; you have to ingrain it in the culture of the company. The literal people themselves in your organization have to change and evolve with it. These jumps in capabilities were so fast and so sudden that they created an extremely difficult problem. [...] So today my hope is that everyone around the world can look at their own organization and say: how can I deal with a surprise or a sudden jump in AI capability? Are my people, my systems, or my processes resilient to surprises? Do my teams know what to do when something goes wrong? Do I have the right incident response? The right comms and messaging? Do I have the right people ready to go when capabilities jump? @joedaroo , Agent Security at OpenAI, identity confirmed by The Information's Rocket Drew Tags: generative-ai , ai-security-research , openai , ai , llms",
+        "simonwillison.net: Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating. Worse, my auto-reply told him \"Yep I'm here!\" at 9:27 when you clearly weren't available, which is on me. That's a bad look and it made the no-show worse. I've sent him an apology from your account owning it and offering to try again another day. But the negative rating is real, and I should probably stop the auto-replies from claiming you're home when I can't verify that. Want me to change the pickup replies so they don't promise you're there? Muse AI Agent , working on behalf of @matt.j.robb Tags: meta , generative-ai , muse-agent , ai , general-agents , llms"
       ],
       "l": [
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260928/p25#a260928p25"
         },
         {
-          "d": "artificialintelligence-news.com",
-          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNamtyREtyVy1lbFlTUmpsZHdSRTl2RWdGTWhWRkFDNV9pQUdzcDFibzhYb2hZREZPYnVIcVVRZE5PZkpwWDNfT2JlNXIwUXl6SW1UV2VXWUJDc1A4ZmFhem43czNBdmpldXNUa3ZhcG5NWGMyNG9neVk2QU5NbG5VY0RieWlyU3pqdmpIaVNUZEk1clRrVzBkeEFzRHE0UndfUHFrbU0wSXVUeDBxcWUwNA?oc=5"
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Sep/28/joedaroo/"
         }
       ],
       "srcTitles": [
-        "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
-        "NVIDIA and over 100 partners launch open AI agent safety platform"
+        "An OpenAI agent security executive on being surprised by \"staggering\" model capabilities, AI labs needing a \"culture of reasonable paranoia\", and more (Joe/@joedaroo)",
+        "Quoting @joedaroo",
+        "Quoting Muse AI Agent"
       ]
     },
     {
       "cat": "products",
-      "signal": 54,
+      "signal": 50,
       "sources": 2,
       "ts": "2026-09-28T14:13:49.000Z",
       "writtenSources": 2,
@@ -183,7 +255,57 @@
     },
     {
       "cat": "models",
-      "signal": 47,
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-28T07:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "s": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support.",
+      "b": [
+        "openai.com: The Lenfest Institute grows landmark program with expanded OpenAI support"
+      ],
+      "body": [
+        "openai.com: OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering support."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/lenfest-ai-collaborative-expansion"
+        }
+      ],
+      "srcTitles": [
+        "The Lenfest Institute grows landmark program with expanded OpenAI support"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-09-28T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "s": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use.",
+      "b": [
+        "openai.com: Basis completes a tax workbook 2x faster with GPT-6 Astra"
+      ],
+      "body": [
+        "openai.com: GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-world use."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/basis-tax-workbook-with-astra"
+        }
+      ],
+      "srcTitles": [
+        "Basis completes a tax workbook 2x faster with GPT-6 Astra"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 43,
       "sources": 2,
       "ts": "2026-09-28T11:17:39.000Z",
       "writtenSources": 2,
@@ -214,8 +336,56 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 41,
+      "sources": 8,
+      "ts": "2026-09-28T20:03:09.000Z",
+      "writtenSources": 8,
+      "draft": true,
+      "h": "Pope Leo says concerns about AI doom scenarios are not ‘fake news’",
+      "s": "Pope Leo says concerns about AI doom scenarios are not ‘fake news’ South China Morning Post",
+      "b": [
+        "scmp.com: Pope Leo says concerns about AI doom scenarios are not ‘fake news’",
+        "yahoo.com: Pope says concerns about AI 'should be taken seriously'",
+        "religionnews.com: Pope Leo says existential concerns about AI 'should be taken seriously'"
+      ],
+      "body": [
+        "scmp.com: Pope Leo says concerns about AI doom scenarios are not ‘fake news’ South China Morning Post",
+        "yahoo.com: Pope says concerns about AI 'should be taken seriously' Yahoo",
+        "religionnews.com: Pope Leo says existential concerns about AI 'should be taken seriously' Religion News Service",
+        "chicagotribune.com: Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’ Chicago Tribune"
+      ],
+      "l": [
+        {
+          "d": "scmp.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOS1JHU3l5QldHM0ZqVjY5a0otR1RuTTQzRDVvWUZpLV9TOUNsSDNRVVRFTzEtM2UyV1hWV0xmS2NodG94Y1lEX2I2aXFLOENBeDZjVHN2ZW9sVXoyNEdTQW84elFqeTUwTmtZUUs4dVg5UTFmNi1XLUh1V0J1Wk9Ya2tvUkM0V2h2Z2J4UVl2WUYzMF9NeWhycWl5X0ZQcHVOX0xNNWlpYnRwbEZqQW05ZXBMektTcWJtUlhJ0gG7AUFVX3lxTE9BNXNNSG0zSEdybVkzcGFfNlhkdDc4MEowa2F1OG1RZHBnSFpBYTFKUjFlV0RtdnE4SEVRQS1TeTUybnBzaFBodWRWUmhVSDJOUkZjOU4yYXJsbjV4UTZHRGFLaDR3OWlldDVYSjBrY3VzMXhEM3FhUUtzZ0lLc0VBajZOWkllTVYzVEVTbGVQSklTb1laU1RKZ3k5cHR4N1VxZjJBSzRzVWNWclpGalNrcTF1ZjY5alN4SkU?oc=5"
+        },
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNE9FQlEtLTFDRkRjcFpSYVlhZ2N1MEVfMEtoMy1YekFoZDJkR2RHOE0wT1hYa042aHNTS0NFeWNpSk00OWFPWmRwM2xFOEhZSDFHek1qZnAwazRrR05vTlNsZldKaW9lYmpUTm5vV1BiSUN2V2YzVC11eC00ZUM3dTFHQk50YkJBLWFCYg?oc=5"
+        },
+        {
+          "d": "religionnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLVduMWV0OUlmb2VKaWVQbTQ5ZUJ0cEQ3dWlxb3Vtd3B3S1FlbUZUc01NXzFxSkpPM2JDUEktQUJpN2ZkMkNDZHFJT0xLXzhUQURQaWczb0xLTVR5dXl0ZnRFcXZhSUxJcWVXOVBHY29lOG9FMVFLaEtiVThjWTVjZXoxMF9RMnk2UzlfSTRfSllqRF9TTGk5QkxaNzhiS1lvLVJlZ0JyMkFRZw?oc=5"
+        },
+        {
+          "d": "chicagotribune.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb1dLeDZnR09tUnRqVTFKZ0JGYURGQlk2TGRDSUJkeE5XZ3I1TWNDMzRXTXVZLTkzc0lTTjVJXzBGN2pxYnVkaUNRcmVpV0ZQR1NwbUNzYV91dnV2WVI4WHVVcHJXVS1oTDZmOENuVFRSWTdOR1lSa1hBWEFTdmJhMWVOdE92dE1jS3pjZmgwNngxOU1Ca2c?oc=5"
+        },
+        {
+          "d": "+4"
+        }
+      ],
+      "srcTitles": [
+        "Pope Leo says concerns about AI doom scenarios are not ‘fake news’",
+        "Pope says concerns about AI 'should be taken seriously'",
+        "Pope Leo says existential concerns about AI 'should be taken seriously'",
+        "Contradicting Trump, Pope Leo says artificial intelligence safety concerns not ‘fake news’"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 39,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-09-28T14:05:00.000Z",
       "writtenSources": 2,
@@ -247,7 +417,7 @@
     },
     {
       "cat": "funding",
-      "signal": 39,
+      "signal": 34,
       "sources": 2,
       "ts": "2026-09-28T12:53:05.000Z",
       "writtenSources": 2,
@@ -268,18 +438,18 @@
           "u": "https://techcrunch.com/2026/09/28/viral-ai-agent-instinct-raises-1b-series-c-at-a-10b-valuation/"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260928/p19#a260928p19"
+          "d": "thenextweb.com",
+          "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pMHdEZV9BQTRlZ2dSQUhsSXJTdWppSm5KM2tSdDJPdzVlQjl2QkptVl9hejR3VnVKQS1XT3d0MThVUlpzR1Y0WW1MbE5yOE1lLU1IWVRiV2JvREhqLWhHRUFwRmhhODZIUGcxNg?oc=5"
         }
       ],
       "srcTitles": [
         "Viral AI agent Instinct raises $1B Series C at a $10B valuation",
-        "AI agent startup Instinct raised a $1B Series C from Sequoia, Benchmark, and Coatue at a $10B valuation and details recent products, such as a concierge service (Utkarsh Shetti/Reuters)"
+        "Instinct raised $1B at $10B for an AI agent that rings restaurants on its own phone"
       ]
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-09-28T15:36:53.000Z",
       "writtenSources": 2,
@@ -311,6 +481,56 @@
     },
     {
       "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-09-28T19:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "s": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "b": [
+        "blog.google: Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+      ],
+      "body": [
+        "blog.google: Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/"
+        }
+      ],
+      "srcTitles": [
+        "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-28T17:03:16.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "When can we say AI made a scientific discovery?",
+      "s": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Last Wednesday, Anthropic announced that earlier this year it",
+      "b": [
+        "technologyreview.com: When can we say AI made a scientific discovery?"
+      ],
+      "body": [
+        "technologyreview.com: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology problems and human scientists run experiments on what they report. And this AI-powered lab, the company said, had made its first discovery. To understand what Anthropic says its system did, imagine you’re flipping through a library of millions of DNA sequences, amassed as scientists sequence more and more of the living world. One step toward a breakthrough might be finding a peculiar sequence that encodes an interesting enzyme, perhaps. Then you’d need to figure out what that enzyme does and, eventually, how to manipulate it to do something useful. What Anthropic says its system of 950 agents found after 21 hours was not a brand-new sequence. The agents instead flagged a repeating pattern surrounding a known enzyme, a particular pattern Anthropic said hadn’t been catalogued before. But if you read through Anthropic’s announcement, which calls this pattern “reminiscent” of what led to the gene-editing technology CRISPR that “has already transformed science and medicine,” it sounds as if this army of agents really found something of note. These claims have angered some biologists. A viral post from one, subsequently endorsed by the chair and CEO of the drugmaker Eli Lilly, said that “finding a weird cluster of genes and repeats is often the easy part. The hard part, and where the real discoveries come from, is figuring out what the system actually does.” The agents helped with some laboratory grunt work, in other words. But a discovery it is not. It’s a reminder that even if AI does something impressive—like finding a pattern in a mass of biological data that would be difficult to perceive with human eyes alone—the result itself may not constitute a breakthrough for science. "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/"
+        }
+      ],
+      "srcTitles": [
+        "When can we say AI made a scientific discovery?"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 24,
       "sources": 1,
       "ts": "2026-09-28T08:06:22.000Z",
@@ -336,7 +556,32 @@
     },
     {
       "cat": "models",
-      "signal": 16,
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-28T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Are you a Codex Original?",
+      "s": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program",
+      "b": [
+        "openai.com: Are you a Codex Original?"
+      ],
+      "body": [
+        "openai.com: We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the next chapter of the Codex Originals program, tell us more about your story and project below."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/form/codex-originals"
+        }
+      ],
+      "srcTitles": [
+        "Are you a Codex Original?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 15,
       "sources": 2,
       "ts": "2026-09-28T00:06:16.000Z",
       "writtenSources": 2,
