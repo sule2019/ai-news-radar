@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 71,
-      "sources": 14,
+      "signal": 73,
+      "sources": 10,
       "ts": "2026-09-28T22:29:14.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -27,31 +27,95 @@
           "u": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
         },
         {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWbzNuakJ3LVhhLTFCNncwcGVBQ0dWNVljVHZqaVRqbFVLZEROd1RvX0J6V1hlSUhxZmNxSjVzekQ5ellmMmxrUWthZm82VXdEVlZvQXdjV2RwSzQ?oc=5"
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/openai-delays-release-of-latest-model-over-safety-concerns/"
         },
         {
-          "d": "lemonde.fr",
-          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLXZvbW1SVXl6LTdoZUt3ZjJkTVNHbEM0MXZ6YXdIa0hVVWQzdW1YWUxPMXBqekt0alNrT0c5T0h5U0ZaaTJrUDRkUzBiUXlXV3pjU0x3cXRDQmtQc2lkdDdmZ0hoNDBmVEdMc0VGVzZMSmI5cHlrREt5UFFsR2lCZmk5dFNzWFZvNXVIbUxZWUM0bGZTTkc5LWFqSTZoM2JuU3Uzcl9uSFFuSE5WWTlUSXpYM0Z0aHo4VjRMOWRtbjdWUXdQaU42MA?oc=5"
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcC0xNDExdTJodUowZi1yeWdFN3M5RlpvY3FvZ1lQeHltWGVkeG01ZTVlaHJ0TldqVVRhekJhWl9ZRTRLNHRqX1NQQVFKMW5NRnhBTmlUNWNpX1FBX3Myc3VlaGIxbFZTZDZYRlYwTGNVLTUtNnJScGJWcm5rX0hMMmNadFFmZw?oc=5"
         },
         {
           "d": "france24.com",
           "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWxZWUZOZVZyVWZZVzV3eTVqUkROOWtsQ0JiSkItZ01rdDJtTjhOTDV5Qk5XSzk1ZlFMZFcxa3NQangzY1lJalVKVzlHMkl4QTkydHRIdXZkMEhDZjF1Vi1BOVA4VHZfZFExYWs3aVNacDAyTzI4d0c0LVVsMmZJYVhVeEFKTGYwdWtTMWc3VnZ0T1BUWXdscldzWlFSQQ?oc=5"
         },
         {
-          "d": "+10"
+          "d": "+6"
         }
       ],
       "srcTitles": [
         "OpenAI reportedly ditches model over safety concerns",
-        "OpenAI scraps rollout of new model over safety concerns",
-        "OpenAI cancels release of newest model due to safety concerns",
+        "OpenAI Delays Release of Latest Model Over Safety Concerns",
+        "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns",
         "OpenAI cancels release of new artificial intelligence model over safety concerns"
       ]
     },
     {
+      "cat": "policy",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-09-29T14:32:15.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia (Mallory Wilson/The Hill)",
+      "s": "Mallory Wilson / The Hill : Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia President Trump",
+      "b": [
+        "techmeme.com: Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia (Mallory Wilson/The Hill)",
+        "cnbc.com: New AI-powered government website uses Gemini, Grok, Trump official Gebbia says"
+      ],
+      "body": [
+        "techmeme.com: Mallory Wilson / The Hill : Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia President Trump launched a website Tuesday that uses artificial intelligence to help Americans navigate the federal government and find information and services.",
+        "cnbc.com: New AI-powered government website uses Gemini, Grok, Trump official Gebbia says CNBC"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260929/p25#a260929p25"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VzZnbmkyUHFTZF9EeWxBd1hzZUFraE9SeUFZdjRZYTdyOWdvci1UVVJZR1FLNnNBUElEV0JSRFBrQ3JvNDBvX2phOE5FSExMMDZsM2F0SWphVnBQOVh2NElvR3Bjb0pY0gFuQVVfeXFMTmVzN05pTlBKRzdmcVlBQ2JwT0JIcGVIOV9OaWZrMDlva2xFcFk4SzhoTDhCOElXVnNSZzkyNTl0VzFJVUNRYk84clFiNEVDT0ZUTGY0OGxVcUxta24zNFRFRVZOdG1HMUk5WXFmZlE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia (Mallory Wilson/The Hill)",
+        "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 51,
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-09-28T23:40:59.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage (Reuters)",
+      "s": "Reuters : IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage Anthropic said it expects to spe",
+      "b": [
+        "techmeme.com: IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage (Reuters)",
+        "reuters.com: Anthropic's IPO prospectus shows AI vision, surging costs"
+      ],
+      "body": [
+        "techmeme.com: Reuters : IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage Anthropic said it expects to spend at least $518 billion over a decade building AI infrastructure with six partners",
+        "reuters.com: Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 120 # Comments: 125"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260929/p20#a260929p20"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/"
+        }
+      ],
+      "srcTitles": [
+        "IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage (Reuters)",
+        "Anthropic's IPO prospectus shows AI vision, surging costs"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 47,
       "sources": 2,
       "ts": "2026-09-28T23:56:13.000Z",
       "writtenSources": 2,
@@ -111,6 +175,31 @@
       "srcTitles": [
         "CoWindow and MassAlloc Attention: collective causal coverage and distribution-adaptive compute [R]",
         "CoWindow Attention: Full Causal Coverage Is a Collective Property"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-29T10:43:45.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Making AI an asset, not an expense",
+      "s": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability?",
+      "b": [
+        "technologyreview.com: Making AI an asset, not an expense"
+      ],
+      "body": [
+        "technologyreview.com: When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation to production, model choice is only part of the equation. When demand becomes steady and business-critical, a consumption-only approach can turn AI spending into a variable monthly line item that is difficult to forecast as usage, workloads, and model requirements change. At that point, the question is no longer simply which model to consume, or which provider offers the lowest token price: It is how to run AI economically, predictably, and at sustained scale. AI is moving from isolated pilots into production portfolios: assistants, retrieval-and-knowledge systems, and agentic applications. Customer-service, IT, research, and business-process agents can execute multi-step workflows across enterprise systems, creating recurring demand across models, data, and tools. This is already starting to happen. Deloitte’s 2026 State of AI in the Enterprise reflects what many leaders are seeing: worker access to AI rose 5% in 2025, and the share of companies with at least 40% of their AI projects in production is expected to double within six months. When AI becomes a portfolio of always-on workloads, not a collection of experiments, the economics change. Consumption pricing gives teams flexibility and limits commitment. But when usage becomes steady, predictable, and large enough to keep capacity productive, leaders need to ask a different question: Does it still make economic sense to buy AI one request at a time, or is it time to invest in capacity they can optimize and control? This is not an abstract cloud-versus-on-premises debate. It is a workload-by-workload business decision. Over the next 12 to 18 months, how much AI demand can the company reasonably expect? How consistently "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/"
+        }
+      ],
+      "srcTitles": [
+        "Making AI an asset, not an expense"
       ]
     },
     {
