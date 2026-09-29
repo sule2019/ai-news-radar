@@ -50,8 +50,143 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 67,
+      "sources": 3,
+      "ts": "2026-09-29T10:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "DevDay 2026 Recap",
+      "s": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "b": [
+        "openai.com: DevDay 2026 Recap",
+        "theverge.com: OpenAI DevDay 2026: The biggest news and announcements",
+        "simonwillison.net: OpenAI DevDay 2026 live blog"
+      ],
+      "body": [
+        "openai.com: Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+        "theverge.com: It s OpenAI’s turn in the fall tech events calendar. The company is hosting its annual DevDay on September 29th in San Francisco, and during a live keynote featuring CEO Sam Altman, it revealed several notable updates, including Dots, its AI agent product that rivals Meta’s recently-launched Muse. However, unlike Muse, which is available for free, [ ]",
+        "simonwillison.net: I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai , openai , generative-ai , llms , coding-agents , live-blog"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/devday-2026-recap"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1001681/openai-devday-2026-biggest-news-announcements"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog/"
+        }
+      ],
+      "srcTitles": [
+        "DevDay 2026 Recap",
+        "OpenAI DevDay 2026: The biggest news and announcements",
+        "OpenAI DevDay 2026 live blog"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-29T17:42:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+      "s": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+      "b": [
+        "techcrunch.com: OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+        "techmeme.com: Sources: OpenAI aims to raise at least $30B at a pre-money valuation of around $1.4T, meant to be a bridge round to provide it with capital in place of an IPO (Bloomberg)"
+      ],
+      "body": [
+        "techcrunch.com: The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+        "techmeme.com: Bloomberg : Sources: OpenAI aims to raise at least $30B at a pre-money valuation of around $1.4T, meant to be a bridge round to provide it with capital in place of an IPO OpenAI aims to raise at least $30 billion from investors in a new round of funding, according to people familiar with the matter"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260929/p36#a260929p36"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+        "Sources: OpenAI aims to raise at least $30B at a pre-money valuation of around $1.4T, meant to be a bridge round to provide it with capital in place of an IPO (Bloomberg)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-29T17:15:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI expands ChatGPT s plugins with app-like interfaces and automations",
+      "s": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+      "b": [
+        "techcrunch.com: OpenAI expands ChatGPT s plugins with app-like interfaces and automations",
+        "techmeme.com: OpenAI expands ChatGPT plugins with interactive panels and file viewers, launches a Plugin Creator tool, and adds MCP Events support for plugin automations (Sarah Perez/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+        "techmeme.com: Sarah Perez / TechCrunch : OpenAI expands ChatGPT plugins with interactive panels and file viewers, launches a Plugin Creator tool, and adds MCP Events support for plugin automations OpenAI isn't only coming after productivity software with ChatGPT's new Pages, Slides and Space features the AI lab is now targeting"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260929/p41#a260929p41"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI expands ChatGPT s plugins with app-like interfaces and automations",
+        "OpenAI expands ChatGPT plugins with interactive panels and file viewers, launches a Plugin Creator tool, and adds MCP Events support for plugin automations (Sarah Perez/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-09-29T17:15:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI gives Codex reusable cloud environments that work across devices",
+      "s": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing",
+      "b": [
+        "techcrunch.com: OpenAI gives Codex reusable cloud environments that work across devices",
+        "techmeme.com: OpenAI announces new features for Codex, including reusable cloud development environments, a refreshed Codex CLI, a new code review experience, and more (Sarah Perez/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+        "techmeme.com: Sarah Perez / TechCrunch : OpenAI announces new features for Codex, including reusable cloud development environments, a refreshed Codex CLI, a new code review experience, and more OpenAI introduced new capabilities for its software engineering agent Codex, making it more useful beyond a developer's laptop"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260929/p33#a260929p33"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI gives Codex reusable cloud environments that work across devices",
+        "OpenAI announces new features for Codex, including reusable cloud development environments, a refreshed Codex CLI, a new code review experience, and more (Sarah Perez/TechCrunch)"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 62,
+      "signal": 58,
       "sources": 2,
       "ts": "2026-09-29T14:32:15.000Z",
       "writtenSources": 2,
@@ -82,8 +217,56 @@
       ]
     },
     {
-      "cat": "funding",
+      "cat": "policy",
       "signal": 56,
+      "sources": 5,
+      "ts": "2026-09-29T10:30:29.000Z",
+      "writtenSources": 5,
+      "draft": true,
+      "h": "Trump says he’ll order AI be renamed ‘super intelligence’ after meeting tech execs at the White House",
+      "s": "Trump says he’ll order AI be renamed ‘super intelligence’ after meeting tech execs at the White House CNN After summit with tech titans, Trump calls for ‘tremendous self-regulation’ by AI companies NB",
+      "b": [
+        "cnn.com: Trump says he’ll order AI be renamed ‘super intelligence’ after meeting tech execs at the White House",
+        "dailysignal.com: Trump Says He’ll Sign Order Renaming Artificial Intelligence ‘Superintelligence’",
+        "centraloregondaily.com: Trump renaming artificial intelligence as \"super intelligence\" in all government docs"
+      ],
+      "body": [
+        "cnn.com: Trump says he’ll order AI be renamed ‘super intelligence’ after meeting tech execs at the White House CNN After summit with tech titans, Trump calls for ‘tremendous self-regulation’ by AI companies NBC News Trump, Johnson to meet with top AI leaders at the White House Fox News",
+        "dailysignal.com: Trump Says He’ll Sign Order Renaming Artificial Intelligence ‘Superintelligence’ The Daily Signal",
+        "centraloregondaily.com: Trump renaming artificial intelligence as \"super intelligence\" in all government docs Central Oregon Daily",
+        "wbaltv.com: President Trump says AI leaders sign voluntary self-regulation accord at White House WBAL-TV"
+      ],
+      "l": [
+        {
+          "d": "cnn.com",
+          "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rUHd4V1dPT2VsbUlneDVyd0NTQ1ExNS1sTk9CMDlCaVRUN3YwUE4xVDBuMExrTW9WV1JmM1ltQzZuRTRDclVobmdIMVFCQVRFXzBhLXlFNGkzXzBRTDc2azlBRHQzWHlnVndVTnpsaUE?oc=5"
+        },
+        {
+          "d": "dailysignal.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdUN2cUIwOS1yRG1vOS1HZldyeWVrN2d4UmRHSFZqSEt1cHpmMlNZaERpSWNUTnBacndjS0hlWjFGSjJ6dEVkbXh3MGQ1V0tiYVp1N29aY0RRcTZ5cXlJZXBQaTZZS2FmcFAwY0hqV0FCc0VlNWJCV3hWdnZVLXRaZkI2RktoYXB1dWJ1TFBWTkdaVkcxWUxVck0tYk5zNmpoQ1gyem5fSlgyUjhkWl9hTUZjY3djOE1X?oc=5"
+        },
+        {
+          "d": "centraloregondaily.com",
+          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNN2JtNURWQkpMN3ZuVWk4ZXA4cHdSelUyYmNpS3JvaHdadVpZeEVINUJscXdhQm0xMHJyRU9LRU9TaEJhbktNbHJqYTVUdVBPRDR2d1N2TzFFT2syb3V3RmUyWExncDFxYXRwSTF3TmVPdzJXQmVEeXdrZEI1WXlaOHFoLU1GdUhDZVE1Nng4elp3NkdNa2NnRXN0VWNGWlpZeGRqVWxPb3QzZWFhQWxRaU5DVGdVOTFQTW1CX1BFSGxvR2RjVk9laGNCZF9WTUpTNy1SODJpRzMzZ3RkMHcwbGVrMVdqaDlMWXhUbnVYRW13WHdMa1RDNjNvLUdERklpT09zSQ?oc=5"
+        },
+        {
+          "d": "wbaltv.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMWF3TlZlNkpIbU1JekVPVi01aE9ZTHE4VDJHQ3Y4dkRQdWlZQTA3OVlSOGFNaVEtTFBPOUNucWFXY1VkTl9lUjNkelBab0laUjVzWl9aR2Z0cHBVWVB6WnYyZEd4YlJBM2xNcTlJWEdnN0MxNXF0Q3BMX01rQnp4YUJLeXpVeHBSLWhEM25Wakw1cTAteEtfb2hn?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "Trump says he’ll order AI be renamed ‘super intelligence’ after meeting tech execs at the White House",
+        "Trump Says He’ll Sign Order Renaming Artificial Intelligence ‘Superintelligence’",
+        "Trump renaming artificial intelligence as \"super intelligence\" in all government docs",
+        "President Trump says AI leaders sign voluntary self-regulation accord at White House - WBAL-TV"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 52,
       "sources": 2,
       "ts": "2026-09-28T23:40:59.000Z",
       "writtenSources": 2,
@@ -114,8 +297,133 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-09-29T16:45:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "South Dakota Mines hosts Sen. Mike Rounds and Anthropic leaders for forum on AI’s future",
+      "s": "South Dakota Mines hosts Sen. Mike Rounds and Anthropic leaders for forum on AI’s future KOTA Territory News",
+      "b": [
+        "kotatv.com: South Dakota Mines hosts Sen. Mike Rounds and Anthropic leaders for forum on AI’s future",
+        "kotaradio.com: South Dakota Mines to Host AI Forum Featuring Senator Mike Rounds and Industry Experts"
+      ],
+      "body": [
+        "kotatv.com: South Dakota Mines hosts Sen. Mike Rounds and Anthropic leaders for forum on AI’s future KOTA Territory News",
+        "kotaradio.com: South Dakota Mines to Host AI Forum Featuring Senator Mike Rounds and Industry Experts kotaradio.com"
+      ],
+      "l": [
+        {
+          "d": "kotatv.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOaURxLW4tbTdYWlRNa1dhb1cwNXZaX0xySlBiLUlTdExFOVBLaFBYYW8wXzhaYXI2QU5ONGt2bnZkLWJqUzhFZG14LTZBUVFBNmZPREJkVGV3bzdfWjNXblo4NGttZWwydExuVlpBcXo1Z2YxTWotTlFzZXFDbGVZSGIzTk9HemVEeUFGN2M1TFJDa3dlSW1oNV9oeVQ3aU43aXFtM0hOODhLWFpqRHJv0gHDAUFVX3lxTE9CR3gzMmdZSlQ0Yl9KcWNYWVNUcEZ3NVQwR2tuZVFBX3JrLURWRGhvc0tXU1pKdWZyNG0zcFR2blQtX2xBc29raDBYM1JHOU5tcjN2Sm5mNGo4MnRaTlVKTmotaVIyNlhPR0UteERJRlc1Q1dfMGo3Zm1vaEgybTMySjl1bzM4UDZqV0VUMDRBMVUxMURJNGpkT29oU2VLSjUydjAwRGxmcWpwQkUyVnBURTNqcFdaQTBTajJ6LUNhVFh1cw?oc=5"
+        },
+        {
+          "d": "kotaradio.com",
+          "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUnVJbS01MzM2Tk51a21IckZXeUNIbmt5Y3NTcFhFZ3UtX1FFQUtrSW9rNlpsSHdKeF9DRHE2MWloQm5SYXhEUllpTGVYQWFVMDJISkEtLU1yWmtITkw2OTlQRVZtQzNuUmQtTzR3emlLYVJUeXE1UHcwMkhZc05UZnpIQTNkNk5yaXV3bUdJdUE3X2FZMThrRm9kWDVTZGJWZlNMRkh5N2xsa0xoUU1Lcnd2TU55dUMtTko2c3FMWEZpdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "South Dakota Mines hosts Sen. Mike Rounds and Anthropic leaders for forum on AI’s future",
+        "South Dakota Mines to Host AI Forum Featuring Senator Mike Rounds and Industry Experts"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 42,
+      "sources": 4,
+      "ts": "2026-09-29T03:38:00.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "Navigating artificial intelligence: What to know",
+      "s": "Navigating artificial intelligence: What to know KCTV",
+      "b": [
+        "kctv5.com: Navigating artificial intelligence: What to know",
+        "currently.att.yahoo.com: I've Covered Palantir for 5 Years. Here's How to Know if the Artificial Intelligence (AI) Stock Is Overvalued.",
+        "fool.com: I've Covered Palantir for 5 Years. Here's How to Know if the Artificial Intelligence (AI) Stock Is Overvalued."
+      ],
+      "body": [
+        "kctv5.com: Navigating artificial intelligence: What to know KCTV",
+        "currently.att.yahoo.com: I've Covered Palantir for 5 Years. Here's How to Know if the Artificial Intelligence (AI) Stock Is Overvalued. Currently.com",
+        "fool.com: I've Covered Palantir for 5 Years. Here's How to Know if the Artificial Intelligence (AI) Stock Is Overvalued. The Motley Fool",
+        "marketbeat.com: Best Artificial Intelligence Stocks To Consider - September 29th MarketBeat"
+      ],
+      "l": [
+        {
+          "d": "kctv5.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOczA2aTBCb2NMLTRPMnFfQjVRZUZ6dTBYRWs4MjFId1o1OVE5eWNNc05RY2VmRENKZzJRYkR1TEZMS3RuNnYxTGs3aDF3ZG82Ri1keFRwdUxyRHRxY1F6Q0VsbFNFa0dtRkUzSU5saUdjbFNGaExiY0RibFFpTjYzMW5rZFg5cUJrYkR2Rw?oc=5"
+        },
+        {
+          "d": "currently.att.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUFFwb2xnUmZRMHBuWm43MG9YWVJ4anBEUzNSMXpxRVFmUGRFWW9xNTJBUWk1OXgyWnphcWZCZ2FGX2NoMUllQTJSOTdsV2R6RzNDTVFaRzJXNUY4VFp6bGdIU2k2blA5dlFqZmFfOENMY290dDFvd200c19rSTVqQWFxNzE5dw?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT0sweDRkR3FGWFFXX2RiUmwteTMtbkt5YnQzVWJqYnJMSDR0ZUY5dXlmdkpwTlFkLW5MRG9XU1lNQjYyT1IwUDN6Q3J0YlhlMGd3QTVEdU1Rc2p4S2FMYUxxZWpmMWR3T3lkR214WF9iTUVGZWdhZ2Q1R1hOZUJjN2tMRVZwVlRabUU0dXlJanllSjZieG8zRQ?oc=5"
+        },
+        {
+          "d": "marketbeat.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbzN2eEhSUzR0Um9zY2NSbk9sRVhjc0NfS3FPR1VyNlQ5YXhMU2Y0UmdTYjJZaWc1TXhpRDhGaU5ZNU96MW10aG8wRHdJSE1LZk4tYXZCZU5QNW9oWHNlQXZJRkM4Y2oyVTVQVWdBX29FVlA2ME9tRmQ4Slg0dF9QTElzNjdCNWp5SmRxTmpxUWJPaWd0WDlxbV9vY1gxNUJnVk9pMDNGN1VCRHp5dmk0aENsdjRSM0x4dkRwNXBB?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Navigating artificial intelligence: What to know",
+        "I've Covered Palantir for 5 Years. Here's How to Know if the Artificial Intelligence (AI) Stock Is Overvalued.",
+        "I've Covered Palantir for 5 Years. Here's How to Know if the Artificial Intelligence (AI) Stock Is Overvalued.",
+        "Best Artificial Intelligence Stocks To Consider - September 29th"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 41,
+      "sources": 5,
+      "ts": "2026-09-29T15:12:00.000Z",
+      "writtenSources": 5,
+      "draft": true,
+      "h": "Trump says he signed a \"morally binding\" AI doc with AI leaders; Mike Johnson calls it a statement of principles that are \"voluntary on behalf of the industry\" (Samantha Subin/CNBC)",
+      "s": "Samantha Subin / CNBC : Trump says he signed a morally binding AI doc with AI leaders; Mike Johnson calls it a statement of principles that are voluntary on behalf of the industry President Donald Tru",
+      "b": [
+        "techmeme.com: Trump says he signed a \"morally binding\" AI doc with AI leaders; Mike Johnson calls it a statement of principles that are \"voluntary on behalf of the industry\" (Samantha Subin/CNBC)",
+        "politico.com: Trump says tech execs signed ‘morally binding’ constitution",
+        "cbsnews.com: Trump and major AI executives sign \"morally binding\" voluntary controls: \"It's almost like a constitution\""
+      ],
+      "body": [
+        "techmeme.com: Samantha Subin / CNBC : Trump says he signed a morally binding AI doc with AI leaders; Mike Johnson calls it a statement of principles that are voluntary on behalf of the industry President Donald Trump on Tuesday said he signed a morally binding AI document with tech leaders following",
+        "politico.com: Trump says tech execs signed ‘morally binding’ constitution Politico",
+        "cbsnews.com: Trump and major AI executives sign \"morally binding\" voluntary controls: \"It's almost like a constitution\" CBS News",
+        "cnbc.com: Trump says he and tech leaders signed AI agreement that is 'morally binding' CNBC"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260929/p47#a260929p47"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbEFFMV84ZVlYUUJrbjI2WmowTkExMHJKal9ueE1WY2NWdWtjNzhsUVl1MFpueS1xcERvUU12OEktQ1NteGxrRE1SeVdaaUFMMVJFRzNWN1NVaHJ4MXVMTTVNbHdTdTQ4NDRQT1l0Z04wd3hjc2RPQVZVT3FZMXBlY3ZrZ2VRbmxmSmZwSzUtRFg?oc=5"
+        },
+        {
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2FRdkxwUDU3by00WnJpTG94ZnJBS18tOHBuNnhvaU9lM29LandSODBCQklsaW9YMVU5bmFBVk1qeTVPalJpWU9zeGt0RUZibnE2RVIzOGFKLURVdnNBRDBHTEZhMTdGd2hLVWlXZzRmdFQyWXhIcVR4VkU2U0tGUlRabEl1aEVhNkNpU0xubmF6V3pfdjE2YUNScEEzbWM?oc=5"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzZUtiZGlERGZmYTdrbWdNUEFvYnR2WTdTVnRlYTNkR0J1Z09pQ3BqUzA2bE5XdFBvdTByeTQ3SVZHOUtkRVVGSlF5YzJYYi1CcHA1TExxSzF5bEt2NGVaV241dGhmOEhnVzRBRVB2RGZnOXdhOW1N0gF8QVVfeXFMTmZ4WTA5cFd2Tk9Zbk1xcXVlcEtPcjFYS1pVMFBOSU5sNlphd056Z3NzclNGNWR1eDd3NG5ZM2lodnVjMC1yVENpYXZPMnVGM3I0b3FuUmszNnBZSWQ5V21OMjhzY1Q4VG9FNkdIRUFOUFZ6QUsyajFuOHEyTA?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "Trump says he signed a \"morally binding\" AI doc with AI leaders; Mike Johnson calls it a statement of principles that are \"voluntary on behalf of the industry\" (Samantha Subin/CNBC)",
+        "Trump says tech execs signed ‘morally binding’ constitution",
+        "Trump and major AI executives sign \"morally binding\" voluntary controls: \"It's almost like a constitution\"",
+        "Trump says he and tech leaders signed AI agreement that is 'morally binding'"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 43,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-09-28T23:56:13.000Z",
       "writtenSources": 2,
