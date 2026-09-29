@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 73,
-      "sources": 6,
+      "signal": 71,
+      "sources": 14,
       "ts": "2026-09-28T22:29:14.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -27,31 +27,31 @@
           "u": "https://techcrunch.com/2026/09/28/openai-reportedly-ditches-model-over-safety-concerns/"
         },
         {
-          "d": "audacy.com",
-          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORjAwY1RtVjFIM2llRXlUbHpvQXlBcXNDMG1xNG13aTdyTG5sQTltZFRhSmJRdlc2X2dTX3FDSWJYQVFrWWkwdFBXTG1jUWU0Z25FdkRDRFV0WVc0UUZlQ1ZZY0YyVm4yMzdXNGR3amFxT2RYM3JSV1E1QlJSSlc3QVYwWk1xYkVZNEpEblprZVpydHVZOUVZX2dMcWY1OHJPcXdwTlhHNHQyT3g4UjlYQXhKRjRlYUxFX2FHa0xVNE5TaFFIQ1JtN0lB?oc=5"
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWbzNuakJ3LVhhLTFCNncwcGVBQ0dWNVljVHZqaVRqbFVLZEROd1RvX0J6V1hlSUhxZmNxSjVzekQ5ellmMmxrUWthZm82VXdEVlZvQXdjV2RwSzQ?oc=5"
         },
         {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE44UldTTk4wWS1oa3NoWXZ3RFdSZ3M1Q2lhMFFCa3A2QmMzTjRmYWk5bHp3cVBPUldmdzBDRjNmUVVfNnFycy05YVdTVjU4T1ljYUZxRkJZY2RINVNUV1lxMUdyX3BodGNja09adjlRNTYwelNZUEZWR093?oc=5"
+          "d": "lemonde.fr",
+          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLXZvbW1SVXl6LTdoZUt3ZjJkTVNHbEM0MXZ6YXdIa0hVVWQzdW1YWUxPMXBqekt0alNrT0c5T0h5U0ZaaTJrUDRkUzBiUXlXV3pjU0x3cXRDQmtQc2lkdDdmZ0hoNDBmVEdMc0VGVzZMSmI5cHlrREt5UFFsR2lCZmk5dFNzWFZvNXVIbUxZWUM0bGZTTkc5LWFqSTZoM2JuU3Uzcl9uSFFuSE5WWTlUSXpYM0Z0aHo4VjRMOWRtbjdWUXdQaU42MA?oc=5"
         },
         {
-          "d": "cbc.ca",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeXJheHpkM3AyQVR1SmpPVm5fZ0ZzaWltaEdpa1JfSzk2SWZ4anNNRlJWRVJkX3ZRaXF2OUNKWjBlSzdWeUxtYk5JdG5lOFE1QzIzLWpwNjBWYnBkLUZ2UFFJUVJUT2FNTEpNdXZrU3RIajZYc2QzMUxZbmVwbkFFNnNaSlZkQVY1TTRn?oc=5"
+          "d": "france24.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWxZWUZOZVZyVWZZVzV3eTVqUkROOWtsQ0JiSkItZ01rdDJtTjhOTDV5Qk5XSzk1ZlFMZFcxa3NQangzY1lJalVKVzlHMkl4QTkydHRIdXZkMEhDZjF1Vi1BOVA4VHZfZFExYWs3aVNacDAyTzI4d0c0LVVsMmZJYVhVeEFKTGYwdWtTMWc3VnZ0T1BUWXdscldzWlFSQQ?oc=5"
         },
         {
-          "d": "+2"
+          "d": "+10"
         }
       ],
       "srcTitles": [
         "OpenAI reportedly ditches model over safety concerns",
-        "OpenAI delays latest model over security concerns, as industry faces new safety pressures",
-        "OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns",
-        "OpenAI scraps release of new AI model over safety concerns"
+        "OpenAI scraps rollout of new model over safety concerns",
+        "OpenAI cancels release of newest model due to safety concerns",
+        "OpenAI cancels release of new artificial intelligence model over safety concerns"
       ]
     },
     {
       "cat": "funding",
-      "signal": 59,
+      "signal": 55,
       "sources": 2,
       "ts": "2026-09-28T23:56:13.000Z",
       "writtenSources": 2,
@@ -83,7 +83,39 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-29T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "CoWindow and MassAlloc Attention: collective causal coverage and distribution-adaptive compute [R]",
+      "s": "I m one of the authors of two recent papers exploring different sources of redundant computation in attention. I d like to share the ideas and hear feedback from people working on long-context models ",
+      "b": [
+        "reddit.com: CoWindow and MassAlloc Attention: collective causal coverage and distribution-adaptive compute [R]",
+        "arxiv.org: CoWindow Attention: Full Causal Coverage Is a Collective Property"
+      ],
+      "body": [
+        "reddit.com: I m one of the authors of two recent papers exploring different sources of redundant computation in attention. I d like to share the ideas and hear feedback from people working on long-context models and attention kernels. CoWindow Attention (CoWA) distributes distant context across KV heads using complementary windows, while sharing local and prefix-sink windows. Each head attends sparsely, but the union of their visible positions covers the full causal history. The pattern is position-defined and requires no learned router or indexer. Paper: https://arxiv.org/abs/2609.32704 MassAlloc Attention (MALA) retains full causal QK scoring, then uses attention s own softmax statistics to decide whether to execute subsequent computation for a tile. It reduces low-contribution post-score work, using a common tolerance across training and inference. Paper: https://arxiv.org/abs/2609.32712 Both support training forward/backward and inference prefill/decoding. At 128K tokens on 8 H100 GPUs with TP=8, attention-operator speedups relative to FullAttn are: Method Forward Backward Decode CoWA 7.4x 8.6x 3.0x MALA 2.2x 3.0x 1.6x These measurements are for the attention operators, not end-to-end model speedups. We evaluated scaling from 0.6B to 14B and conducted separate continued-training experiments at 32B. At 14B with 32K context, total training FLOPs decreased by 28.5% for CoWA and 23.1% for MALA, with model capabilities comparable to FullAttn on the reported evaluations. Two distinctions that matter: collective coverage does not imply identical head-wise interactions or outputs to FullAttn, and MALA still pays for full causal QK scoring. Neither result establishes universal lossless equivalence to dense attention. I d be interested in feedback on workloads that might stress collective coverage, or attention distributions where adaptive post-score allocation could be less effective. Happy to discuss implementation and evaluation details. submitted by /u/BitExternal4608 [link] [com",
+        "arxiv.org: arXiv:2609.32704v1 Announce Type: new Abstract: FullAttn repeatedly exposes the complete causal history to every attention head, creating substantial redundant computation and memory traffic even with IO-efficient dense kernels. We introduce CoWA, a structured attention architecture that distributes access to the causal history across KV heads. All heads share near-diagonal and prefix-sink windows, while complementary long-range windows partition the remaining history. Their union provides full causal coverage although each head attends sparsely to distant tokens. This position-defined attention pattern requires no learned router or indexer, is used consistently during training and inference, and aligns with KV-head tensor parallelism. A window-matched ablation at 8K isolates the effect of complementary long-range allocation: CoWA with 100% collective coverage reaches 89.73% accuracy, compared with 89.97% for FullAttn, while duplicated long-range windows perform substantially worse. Across a broader controlled associative-recall comparison with matched token budgets, CoWA closely tracks FullAttn as the context grows, whereas other sparse patterns lose a substantial fraction of the associations. In an attention-operator benchmark at 128K tokens with tensor parallelism, CoWA reduces forward and backward latency during training by 7.4x and 8.6x and decoding latency during inference by 3.0x over FullAttn. Its per-rank peak operator memory matches FullAttn during training and is 7.6x lower during decoding. Across scaling-law training from 0.6B to 14B parameters, CoWA closely tracks FullAttn in perplexity while reducing total training FLOPs. The resulting 14B models and 32B models from separate continued training achieve comparable knowledge, reasoning, and long-context retrieval scores to FullAttn. These results show that full causal coverage can be a collective property of the head ensemble rather than a duplicated property of every head."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1wt1gbk/cowindow_and_massalloc_attention_collective/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2609.32704"
+        }
+      ],
+      "srcTitles": [
+        "CoWindow and MassAlloc Attention: collective causal coverage and distribution-adaptive compute [R]",
+        "CoWindow Attention: Full Causal Coverage Is a Collective Property"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-29T01:00:00.000Z",
       "writtenSources": 1,
@@ -108,7 +140,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-09-28T22:17:07.000Z",
       "writtenSources": 1,
