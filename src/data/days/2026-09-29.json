@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 74,
-      "sources": 11,
+      "signal": 73,
+      "sources": 10,
       "ts": "2026-09-28T22:29:14.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -39,7 +39,7 @@
           "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNWxZWUZOZVZyVWZZVzV3eTVqUkROOWtsQ0JiSkItZ01rdDJtTjhOTDV5Qk5XSzk1ZlFMZFcxa3NQangzY1lJalVKVzlHMkl4QTkydHRIdXZkMEhDZjF1Vi1BOVA4VHZfZFExYWs3aVNacDAyTzI4d0c0LVVsMmZJYVhVeEFKTGYwdWtTMWc3VnZ0T1BUWXdscldzWlFSQQ?oc=5"
         },
         {
-          "d": "+7"
+          "d": "+6"
         }
       ],
       "srcTitles": [
@@ -47,6 +47,54 @@
         "OpenAI Delays Release of Latest Model Over Safety Concerns",
         "Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns",
         "OpenAI cancels release of new artificial intelligence model over safety concerns"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 70,
+      "sources": 6,
+      "ts": "2026-09-29T19:28:32.000Z",
+      "writtenSources": 6,
+      "draft": true,
+      "h": "After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\" (Bloomberg)",
+      "s": "Bloomberg : After lunch with AI leaders, Trump rejects new federal AI rules, says we automatically have regulation via DOJ and FBI but self-regulation is very important President Donald Trump shot dow",
+      "b": [
+        "techmeme.com: After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\" (Bloomberg)",
+        "lemonde.fr: Trump touts self-regulation at AI bosses lunch",
+        "finance.yahoo.com: Trump gathers with AI leaders and floats ‘self-regulation’ as the way to deal with the technology’s dangers"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : After lunch with AI leaders, Trump rejects new federal AI rules, says we automatically have regulation via DOJ and FBI but self-regulation is very important President Donald Trump shot down the idea of new federal regulations on artificial intelligence",
+        "lemonde.fr: Trump touts self-regulation at AI bosses lunch Le Monde.fr",
+        "finance.yahoo.com: Trump gathers with AI leaders and floats ‘self-regulation’ as the way to deal with the technology’s dangers Yahoo Finance",
+        "nbcnews.com: After summit with tech titans, Trump calls for ‘tremendous self-regulation’ by AI companies NBC News"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260929/p46#a260929p46"
+        },
+        {
+          "d": "lemonde.fr",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVDNieWk1VXNJdVpoNDhHbmZrd2ZSSnRtbnJuTTFpZ3NTWjd2QllmWlRfZFlJSkE4Y1g3N3NKNEYxaDVCWTFmUWc5SU4zUjVfaVpRQVNDV1p6TEdNQk5Mek5TRlZZaWFsOUV5UjdjMC15Q25uSGowMFNFNDRNbU16bDBGZDhZTzBhTVZCRS1VRWxJdk5KN0tqVU5qamh2aUQtVTVpQVE1RXZRbWVzR2Z5N1AtQzM?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVGM1M0Q3OVg3TlR0QllZQkhiZHAzOWxaOFF6Z0JkTU1EbWFrUEFMYlhHajR3NkdjZEVDOFBMeVAzc09aalJJTVViUDNPWFJOMDY4VENuVlh0bGVBSXJ0MnZUZUtJSjVVRHdzUmFnSWNlZXI2T01JV3lWc3lfYmhDNXlFRWV6S2pTUDEzUWJEbnlzQUt1WTNkRzdoc2NGb0hPZ0sxcTA0N1BscGxIVDhhTFc5RDd2LVZQcWZ6U1g0OVpDZ2NqTi1YbmZnd2QyQ2FDNG9sSk5CR2lBSDNFN0pvdXFtT096UjMyVnU3X2Y3WXpGZw?oc=5"
+        },
+        {
+          "d": "nbcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTjV0bUtBZ25mSXdRaS1vSkdYdnptUk9kdEpaLTg5dlhMZWVUMExuM01LYTU3cWxRT01yLWFnMmlQT0lfakgwdGpRUGZKX3haZF9NbXA1Zk01U2t0ME1QaVhxQV9EYVBZY05Pd0hOS2ZBUDJlY2NFdmVyOUppZzNzUVpiN1lsc3E3WV8tWml4TTU4aS1Sb1p3MkxaVTFZMi1udUE?oc=5"
+        },
+        {
+          "d": "+2"
+        }
+      ],
+      "srcTitles": [
+        "After lunch with AI leaders, Trump rejects new federal AI rules, says \"we automatically have regulation\" via DOJ and FBI but \"self-regulation is very important\" (Bloomberg)",
+        "Trump touts self-regulation at AI bosses lunch",
+        "Trump gathers with AI leaders and floats ‘self-regulation’ as the way to deal with the technology’s dangers",
+        "After summit with tech titans, Trump calls for ‘tremendous self-regulation’ by AI companies"
       ]
     },
     {
@@ -186,40 +234,8 @@
     },
     {
       "cat": "policy",
-      "signal": 58,
-      "sources": 2,
-      "ts": "2026-09-29T14:32:15.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia (Mallory Wilson/The Hill)",
-      "s": "Mallory Wilson / The Hill : Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia President Trump",
-      "b": [
-        "techmeme.com: Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia (Mallory Wilson/The Hill)",
-        "cnbc.com: New AI-powered government website uses Gemini, Grok, Trump official Gebbia says"
-      ],
-      "body": [
-        "techmeme.com: Mallory Wilson / The Hill : Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia President Trump launched a website Tuesday that uses artificial intelligence to help Americans navigate the federal government and find information and services.",
-        "cnbc.com: New AI-powered government website uses Gemini, Grok, Trump official Gebbia says CNBC"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260929/p25#a260929p25"
-        },
-        {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1VzZnbmkyUHFTZF9EeWxBd1hzZUFraE9SeUFZdjRZYTdyOWdvci1UVVJZR1FLNnNBUElEV0JSRFBrQ3JvNDBvX2phOE5FSExMMDZsM2F0SWphVnBQOVh2NElvR3Bjb0pY0gFuQVVfeXFMTmVzN05pTlBKRzdmcVlBQ2JwT0JIcGVIOV9OaWZrMDlva2xFcFk4SzhoTDhCOElXVnNSZzkyNTl0VzFJVUNRYk84clFiNEVDT0ZUTGY0OGxVcUxta24zNFRFRVZOdG1HMUk5WXFmZlE?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia (Mallory Wilson/The Hill)",
-        "New AI-powered government website uses Gemini, Grok, Trump official Gebbia says"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 56,
-      "sources": 5,
+      "signal": 54,
+      "sources": 4,
       "ts": "2026-09-29T10:30:29.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -246,54 +262,19 @@
           "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdUN2cUIwOS1yRG1vOS1HZldyeWVrN2d4UmRHSFZqSEt1cHpmMlNZaERpSWNUTnBacndjS0hlWjFGSjJ6dEVkbXh3MGQ1V0tiYVp1N29aY0RRcTZ5cXlJZXBQaTZZS2FmcFAwY0hqV0FCc0VlNWJCV3hWdnZVLXRaZkI2RktoYXB1dWJ1TFBWTkdaVkcxWUxVck0tYk5zNmpoQ1gyem5fSlgyUjhkWl9hTUZjY3djOE1X?oc=5"
         },
         {
+          "d": "wsmv.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRmYwZnhXSzF6MlZLdkE1V1BQTElkcDA2N0Rod0xoS1ZuelpmcU8yZF9tcVFIbnVzNFYwdlcyNU1MWERBd1FrcXc0X3F6WnZ1c1g0al9PVW5SWldJTUhqZTVmeHVJSmJZQkxjamZzNWtTaW5vaFlLQlVMdjhHeVJ6ag?oc=5"
+        },
+        {
           "d": "centraloregondaily.com",
           "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNN2JtNURWQkpMN3ZuVWk4ZXA4cHdSelUyYmNpS3JvaHdadVpZeEVINUJscXdhQm0xMHJyRU9LRU9TaEJhbktNbHJqYTVUdVBPRDR2d1N2TzFFT2syb3V3RmUyWExncDFxYXRwSTF3TmVPdzJXQmVEeXdrZEI1WXlaOHFoLU1GdUhDZVE1Nng4elp3NkdNa2NnRXN0VWNGWlpZeGRqVWxPb3QzZWFhQWxRaU5DVGdVOTFQTW1CX1BFSGxvR2RjVk9laGNCZF9WTUpTNy1SODJpRzMzZ3RkMHcwbGVrMVdqaDlMWXhUbnVYRW13WHdMa1RDNjNvLUdERklpT09zSQ?oc=5"
-        },
-        {
-          "d": "wbaltv.com",
-          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNMWF3TlZlNkpIbU1JekVPVi01aE9ZTHE4VDJHQ3Y4dkRQdWlZQTA3OVlSOGFNaVEtTFBPOUNucWFXY1VkTl9lUjNkelBab0laUjVzWl9aR2Z0cHBVWVB6WnYyZEd4YlJBM2xNcTlJWEdnN0MxNXF0Q3BMX01rQnp4YUJLeXpVeHBSLWhEM25Wakw1cTAteEtfb2hn?oc=5"
-        },
-        {
-          "d": "+1"
         }
       ],
       "srcTitles": [
         "Trump says he’ll order AI be renamed ‘super intelligence’ after meeting tech execs at the White House",
         "Trump Says He’ll Sign Order Renaming Artificial Intelligence ‘Superintelligence’",
-        "Trump renaming artificial intelligence as \"super intelligence\" in all government docs",
-        "President Trump says AI leaders sign voluntary self-regulation accord at White House - WBAL-TV"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 52,
-      "sources": 2,
-      "ts": "2026-09-28T23:40:59.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage (Reuters)",
-      "s": "Reuters : IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage Anthropic said it expects to spe",
-      "b": [
-        "techmeme.com: IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage (Reuters)",
-        "reuters.com: Anthropic's IPO prospectus shows AI vision, surging costs"
-      ],
-      "body": [
-        "techmeme.com: Reuters : IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage Anthropic said it expects to spend at least $518 billion over a decade building AI infrastructure with six partners",
-        "reuters.com: Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 120 # Comments: 125"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260929/p20#a260929p20"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/"
-        }
-      ],
-      "srcTitles": [
-        "IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage (Reuters)",
-        "Anthropic's IPO prospectus shows AI vision, surging costs"
+        "Top tech leaders talk AI at the White House",
+        "Trump renaming artificial intelligence as \"super intelligence\" in all government docs"
       ]
     },
     {
@@ -326,6 +307,38 @@
       "srcTitles": [
         "South Dakota Mines hosts Sen. Mike Rounds and Anthropic leaders for forum on AI’s future",
         "South Dakota Mines to Host AI Forum Featuring Senator Mike Rounds and Industry Experts"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-09-28T23:40:59.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage (Reuters)",
+      "s": "Reuters : IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage Anthropic said it expects to spe",
+      "b": [
+        "techmeme.com: IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage (Reuters)",
+        "reuters.com: Anthropic's IPO prospectus shows AI vision, surging costs"
+      ],
+      "body": [
+        "techmeme.com: Reuters : IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage Anthropic said it expects to spend at least $518 billion over a decade building AI infrastructure with six partners",
+        "reuters.com: Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/ Comments URL: https://news.ycombinator.com/item?id=49886005 Points: 120 # Comments: 125"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260929/p20#a260929p20"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/"
+        }
+      ],
+      "srcTitles": [
+        "IPO prospectus: Anthropic expects to spend $518B+ over 10 years with six partners on AI infrastructure; ~80% is non-cancelable or payable regardless of usage (Reuters)",
+        "Anthropic's IPO prospectus shows AI vision, surging costs"
       ]
     },
     {
@@ -375,8 +388,8 @@
     },
     {
       "cat": "policy",
-      "signal": 41,
-      "sources": 5,
+      "signal": 40,
+      "sources": 3,
       "ts": "2026-09-29T15:12:00.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -399,31 +412,23 @@
           "u": "https://www.techmeme.com/260929/p47#a260929p47"
         },
         {
-          "d": "politico.com",
-          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbEFFMV84ZVlYUUJrbjI2WmowTkExMHJKal9ueE1WY2NWdWtjNzhsUVl1MFpueS1xcERvUU12OEktQ1NteGxrRE1SeVdaaUFMMVJFRzNWN1NVaHJ4MXVMTTVNbHdTdTQ4NDRQT1l0Z04wd3hjc2RPQVZVT3FZMXBlY3ZrZ2VRbmxmSmZwSzUtRFg?oc=5"
-        },
-        {
-          "d": "cbsnews.com",
-          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2FRdkxwUDU3by00WnJpTG94ZnJBS18tOHBuNnhvaU9lM29LandSODBCQklsaW9YMVU5bmFBVk1qeTVPalJpWU9zeGt0RUZibnE2RVIzOGFKLURVdnNBRDBHTEZhMTdGd2hLVWlXZzRmdFQyWXhIcVR4VkU2U0tGUlRabEl1aEVhNkNpU0xubmF6V3pfdjE2YUNScEEzbWM?oc=5"
-        },
-        {
           "d": "cnbc.com",
           "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzZUtiZGlERGZmYTdrbWdNUEFvYnR2WTdTVnRlYTNkR0J1Z09pQ3BqUzA2bE5XdFBvdTByeTQ3SVZHOUtkRVVGSlF5YzJYYi1CcHA1TExxSzF5bEt2NGVaV241dGhmOEhnVzRBRVB2RGZnOXdhOW1N0gF8QVVfeXFMTmZ4WTA5cFd2Tk9Zbk1xcXVlcEtPcjFYS1pVMFBOSU5sNlphd056Z3NzclNGNWR1eDd3NG5ZM2lodnVjMC1yVENpYXZPMnVGM3I0b3FuUmszNnBZSWQ5V21OMjhzY1Q4VG9FNkdIRUFOUFZ6QUsyajFuOHEyTA?oc=5"
         },
         {
-          "d": "+1"
+          "d": "washingtonexaminer.com",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTzhVbGl6blhRcG1DLWNCRHR5YVhUZmE3Y3FnM1M1b3Nub1I4cUNLczFiZFBUYWNFLUFQX1BKdi1yOFRFYXJqM1FnMW1zaTFvYW56MWRJcjFoUGRSVnVmUTBSUXB4djc1Z2NtZ2Nld1YwZElNZ2g3RDF2eVFpdDMwRTRiaEUxVnBYVEJNT3RnVEN2aHV0X1hHbVJzWVRoblRKZzdCcmJnMWlhR2d5UzBHaTVXN21sekszbjZlNERDS2F4SjdLb2tKZ0tvSWwxZw?oc=5"
         }
       ],
       "srcTitles": [
         "Trump says he signed a \"morally binding\" AI doc with AI leaders; Mike Johnson calls it a statement of principles that are \"voluntary on behalf of the industry\" (Samantha Subin/CNBC)",
-        "Trump says tech execs signed ‘morally binding’ constitution",
-        "Trump and major AI executives sign \"morally binding\" voluntary controls: \"It's almost like a constitution\"",
-        "Trump says he and tech leaders signed AI agreement that is 'morally binding'"
+        "Trump says he and tech leaders signed AI agreement that is 'morally binding'",
+        "Trump says tech CEOs signed ‘morally binding’ document to self-regulate artificial intelligence"
       ]
     },
     {
       "cat": "funding",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-09-28T23:56:13.000Z",
       "writtenSources": 2,
@@ -451,6 +456,38 @@
       "srcTitles": [
         "Samsung commits $1B to AI infrastructure company Helix, adding to the $10B already secured when a KKR-led consortium including Nvidia established Helix in June (Wall Street Journal)",
         "Samsung to invest $1 billion in AI infrastructure firm Helix backed by KKR, Nvidia"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-29T14:32:15.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia (Mallory Wilson/The Hill)",
+      "s": "Mallory Wilson / The Hill : Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia President Trump",
+      "b": [
+        "techmeme.com: Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia (Mallory Wilson/The Hill)",
+        "cnbc.com: New AI-powered government website uses Gemini, Grok, Trump official Gebbia says"
+      ],
+      "body": [
+        "techmeme.com: Mallory Wilson / The Hill : Trump officially launches America.gov, an AI-powered single access point for federal government services and information led by Airbnb co-founder Joe Gebbia President Trump launched a website Tuesday that uses artificial intelligence to help Americans navigate the federal government and find information and services.",
+        "cnbc.com: New AI-powered government website uses Gemini, Grok, Trump official Gebbia says CNBC"
+      ],
+      "l": [
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPODk5MW01c0ZScEhHekg3Y1QtSDlObHgxSnp5THFLdVJQSGR6NkhzZ0xURTdZY3FFUDNoUTJNVnBqTGFLTGR4UFBHNW43ZzU5ZmRaMV96b3I1Y2xrOS03OXBrSXc5VHBnY3EyQlFxM0QwZWpQXzBBalI4UmhJVnd0Z05Tc1hPeWFiSmdiMlVoaUd6UDFBRkplZTN6V2N3Zk1HM1htUnFzSkxQelRobzYw?oc=5"
+        },
+        {
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPT2FRdkxwUDU3by00WnJpTG94ZnJBS18tOHBuNnhvaU9lM29LandSODBCQklsaW9YMVU5bmFBVk1qeTVPalJpWU9zeGt0RUZibnE2RVIzOGFKLURVdnNBRDBHTEZhMTdGd2hLVWlXZzRmdFQyWXhIcVR4VkU2U0tGUlRabEl1aEVhNkNpU0xubmF6V3pfdjE2YUNScEEzbWM?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump signs executive order to launch AI-powered ‘America.gov’",
+        "Trump and major AI executives sign \"morally binding\" voluntary controls: \"It's almost like a constitution\""
       ]
     },
     {
