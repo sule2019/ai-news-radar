@@ -3,41 +3,44 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 69,
-      "sources": 3,
-      "ts": "2026-09-30T15:03:07.000Z",
-      "writtenSources": 3,
+      "signal": 70,
+      "sources": 4,
+      "ts": "2026-09-30T20:05:43.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "Introducing SynthID Bio",
-      "s": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "h": "Google announces Gemini 4 Argon AI model, but you can t use it yet",
+      "s": "Google promised Gemini 3.5 Pro in June, but it spent the summer trotting out smaller Flash models . Now, Google is ready to take on the frontier again with Gemini 4 Argon . The company claims this new",
       "b": [
-        "deepmind.google: Introducing SynthID Bio",
-        "techmeme.com: Google DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity (John Timmer/Ars Technica)",
-        "arstechnica.com: Google figures out how to watermark AI-designed proteins"
+        "arstechnica.com: Google announces Gemini 4 Argon AI model, but you can t use it yet",
+        "reuters.com: Google announces Gemini 4 flagship AI model after months of delays"
       ],
       "body": [
-        "deepmind.google: Proof of concept for watermarking AI-generated proteins while preserving biological function.",
-        "techmeme.com: John Timmer / Ars Technica : Google DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity AI-based tools seem to be causing security threats on a nearly daily basis, in part because we've been slow to recognize potential threats.",
-        "arstechnica.com: AI-based tools seem to be causing security threats on a nearly daily basis, in part because we've been slow to recognize potential threats. One area where we seem to be ahead of the game, however, is in biosecurity. As with most things biological, utility goes hand in hand with threats. We've developed increasingly sophisticated tools for designing proteins and seen some major successes, such as AI-designed enzymes that can digest plastics or block venom proteins . But these same tools could be used to make toxins or alter the behavior of viral proteins. And the software we use to identify DNA sequences that encode potentially threatening proteins doesn't pick out AI-designed proteins , since nobody has characterized them well enough to know that they're threats. Nearly a year after that risk was flagged, it still wasn't clear what anyone could do about it. Read full article Comments"
+        "arstechnica.com: Google promised Gemini 3.5 Pro in June, but it spent the summer trotting out smaller Flash models . Now, Google is ready to take on the frontier again with Gemini 4 Argon . The company claims this new AI offers industry-leading performance in coding, knowledge work, and cybersecurity, but you aren't allowed to use it yet. While most of us will have to wait to test Gemini 4, Google says engineers inside the company are already using the new model extensively. Argon reportedly used \"fleet-wide telemetry data\" to help Google save 300 TiB of memory across its data centers. Meanwhile, Argon agents have been working to migrate C/C++ codebases to Rust across Google, including thousands of lines in the core re2 and libgav1 libraries and more than 800,000 lines in the Fuchsia OS Zircon kernel. Google has also come armed with a raft of benchmarks to back up its claims. On the software engineering DeepSWE v1.1 benchmark, Gemini 4 Argon hits 77.9 percent, which is higher than GPT-6 Astra, Fable 5.1, and Opus 5.5. Google promises similar power across a range of long-horizon tasks, pointing to Argon's industry-leading score in the economic analysis Vals Index test. Read full article Comments",
+        "reuters.com: Google announces Gemini 4 flagship AI model after months of delays Reuters"
       ],
       "l": [
         {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/introducing-synthid-bio/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/260930/p36#a260930p36"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/"
         },
         {
           "d": "arstechnica.com",
-          "u": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/"
+          "u": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ1Z3VVVlemc0Zm9HYy1HSTNuSlZhT1BRQ0I0TVJtMVltbDRGS1pCR1VKNk1OUnhkNjVycjhIbEplY0NaNWR5eDNDVzRGcHN5NFRDNlpsU28xMWs0MkJ6U01lNkJJb0syN2hMSkwtMUpiS0dHS2gwa3FYX2dkanFPTE96aVNQcDd2OHc?oc=5"
         }
       ],
       "srcTitles": [
-        "Introducing SynthID Bio",
-        "Google DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity (John Timmer/Ars Technica)",
-        "Google figures out how to watermark AI-designed proteins"
+        "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "Google announces Gemini 4 Argon AI model, but you can t use it yet",
+        "Google announces Gemini 4 flagship AI model after months of delays",
+        "Google Releases New Gemini Model With Guardrails Amid A.I. Safety Debate"
       ]
     },
     {
@@ -71,40 +74,8 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 59,
-      "sources": 2,
-      "ts": "2026-09-30T20:05:43.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Google announces Gemini 4 Argon AI model, but you can t use it yet",
-      "s": "Google promised Gemini 3.5 Pro in June, but it spent the summer trotting out smaller Flash models . Now, Google is ready to take on the frontier again with Gemini 4 Argon . The company claims this new",
-      "b": [
-        "arstechnica.com: Google announces Gemini 4 Argon AI model, but you can t use it yet",
-        "reuters.com: Google announces Gemini 4 flagship AI model after months of delays"
-      ],
-      "body": [
-        "arstechnica.com: Google promised Gemini 3.5 Pro in June, but it spent the summer trotting out smaller Flash models . Now, Google is ready to take on the frontier again with Gemini 4 Argon . The company claims this new AI offers industry-leading performance in coding, knowledge work, and cybersecurity, but you aren't allowed to use it yet. While most of us will have to wait to test Gemini 4, Google says engineers inside the company are already using the new model extensively. Argon reportedly used \"fleet-wide telemetry data\" to help Google save 300 TiB of memory across its data centers. Meanwhile, Argon agents have been working to migrate C/C++ codebases to Rust across Google, including thousands of lines in the core re2 and libgav1 libraries and more than 800,000 lines in the Fuchsia OS Zircon kernel. Google has also come armed with a raft of benchmarks to back up its claims. On the software engineering DeepSWE v1.1 benchmark, Gemini 4 Argon hits 77.9 percent, which is higher than GPT-6 Astra, Fable 5.1, and Opus 5.5. Google promises similar power across a range of long-horizon tasks, pointing to Argon's industry-leading score in the economic analysis Vals Index test. Read full article Comments",
-        "reuters.com: Google announces Gemini 4 flagship AI model after months of delays Reuters"
-      ],
-      "l": [
-        {
-          "d": "arstechnica.com",
-          "u": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Google announces Gemini 4 Argon AI model, but you can t use it yet",
-        "Google announces Gemini 4 flagship AI model after months of delays"
-      ]
-    },
-    {
       "cat": "research",
-      "signal": 55,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-09-30T14:50:01.000Z",
       "writtenSources": 2,
@@ -135,6 +106,54 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 50,
+      "sources": 5,
+      "ts": "2026-09-30T22:45:00.000Z",
+      "writtenSources": 5,
+      "draft": true,
+      "h": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
+      "s": "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto cnbc.com",
+      "b": [
+        "cnbc.com: California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
+        "cbsnews.com: Newsom signs laws protecting California workers from AI risks",
+        "gov.ca.gov: California’s nation-leading AI framework just got stronger, Governor Newsom signs more first-in-the-nation worker protections and more"
+      ],
+      "body": [
+        "cnbc.com: California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto cnbc.com",
+        "cbsnews.com: Newsom signs laws protecting California workers from AI risks CBS News",
+        "gov.ca.gov: California’s nation-leading AI framework just got stronger, Governor Newsom signs more first-in-the-nation worker protections and more California State Portal | CA.gov",
+        "abcnews.com: California Gov. Gavin Newsom signs laws to protect workers from AI risks ABC News - Breaking News, Latest News and Videos"
+      ],
+      "l": [
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tTGxKSzNJQXdUNERtQ3VkbDlzRlkzSnhmak5GazMzeDZuNGM3VGRpSUNWNnc4ZHlPR05fRXpBZXNZbWsyZEx1QkkzT0syOElSd0JVb0lPWGRhbEktb1pxZmt6RmRPN1pIOHNnbGZ1c1MyV1VSSGfSAXtBVV95cUxOcEM3Qm05elRYTG9CMjNJVWk0MENyU3JzczhJVHc0TTQwZTBvT3VjV1pzNDA3QVNuZGRzUlUyem40dmlLZWcyX05iX2dBZXZCcXpxRHpESUFHNGtqWE0zclZNZFRvSTBBSVVibnBwWnk4ZExtTk9CTTA3TkU?oc=5"
+        },
+        {
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeS1GaW9SdE05SUt1M3U4ZGQ0eGIwOHNOLW16T24zc2VZNW9OTzlEQkZpNjl1dGJPSDRqZmNRNC15TGJ5TjM5a1NmTUd1V09JQ2REOHd0SjB5YkJJZlRPMkc1ZV9BSVdTaEV0bV9rcmJ3ZWZ1LWtadkZHSnEwUFhKTmZuU3FPM0hsQVRTRGZycw?oc=5"
+        },
+        {
+          "d": "gov.ca.gov",
+          "u": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQQ0tUNTVNbExzTUJaelBhZF9jemdrc3pUSGt6UTNXVk1hMzdkNUd5ZGNpaFhPNmdtWUdtM1REamxWVmhPSU5JbVRoY3V5elpuX3dKUEpLS3hrOTBVTktQMVpWRGlWZm5xLVRnMXlHVVRpRmEzOEdFRl80VjJYdl8zdFBLZy12RnRGN0ZtcFNsU1E4d0pHcUpxLUZjQ0NYam9PdmZjdjg4Mk92d1VkLTRjSXZsV0V6OUg2M3JKLXlwZUVDMTM3UmpmcXNKMzJwV3FfWGtsRUpmRFhRN2J4VHRNREdzam9YRDhObmNLNk1MdHVPWFNvT1o2NTVzbw?oc=5"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPd05WV3cxNkNDSkdzZlN1TlRYZFVUMU81bS1lOTc4TDI2SFVmb0hTeURCVHFOYmxiNnN3bnVoMXo3UHBpZ3pYOXJfbVpQVjZqYmx1U1RQSV81ZzNKZVBTeGxuQ2tZZ0QtYWJDdGNOVHVWRkR0UkFLelVaaHJPSG1oWmxtMHhrSlh1SUFUUWpHd2JzRkMxaGZLTlhIZ1hnR3hKT3M2R2JCU1DSAa4BQVVfeXFMT2x0amhPWGZ6TkRFekJ2V0VJNWZqVEdBWTVMVUxnWTBLWmI4VmpTNHZUblJFNU1nSmtWWExVcUxYRDdUUktyRTBUaExPRFdZY0NaM1IzVlV0U196eVViNlAwMWhPZE1oVUt2QXkzejNmM0N4TEhxYVVYWnppX3NSWjVxZURGTE8ybnZNSGtFaWVXajJwd1A3YVhSeW1vcEZjMVU2TTZMME1tT0ZnVmp3?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "California Gov. Gavin Newsom bans AI 'robo bosses' in landmark state law, reversing his earlier veto",
+        "Newsom signs laws protecting California workers from AI risks",
+        "California’s nation-leading AI framework just got stronger, Governor Newsom signs more first-in-the-nation worker protections and more",
+        "California Gov. Gavin Newsom signs laws to protect workers from AI risks - ABC News"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 49,
       "sources": 1,
@@ -149,8 +168,8 @@
       "body": [],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/"
         }
       ],
       "srcTitles": [
@@ -184,7 +203,7 @@
     },
     {
       "cat": "models",
-      "signal": 39,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-09-30T17:45:00.000Z",
       "writtenSources": 2,
@@ -244,38 +263,6 @@
       "srcTitles": [
         "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything",
         "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 29,
-      "sources": 2,
-      "ts": "2026-09-30T16:00:24.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "DoorDash launches an AI agent you can text to order food",
-      "s": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-      "b": [
-        "techcrunch.com: DoorDash launches an AI agent you can text to order food",
-        "gizmodo.com: DoorDash Debuts Text-to-Order AI Agent for People Who Find It a Little Too Hard to Order DoorDash"
-      ],
-      "body": [
-        "techcrunch.com: By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
-        "gizmodo.com: DoorDash Debuts Text-to-Order AI Agent for People Who Find It a Little Too Hard to Order DoorDash Gizmodo"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
-        },
-        {
-          "d": "gizmodo.com",
-          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbVpmTFUyS3hRbk5PSUVib0hBZUxtVFdZYVRxY3p5dTdaamppcGZQTHJRMFlNc18xOG11aTNKN1ZoeFRGNkRBNk53c0R0a2NUUXQ5dlVOZk5SUXJ1Tkc4cHRZMGNydXQtczNZZGRHZGw4VnJvWGJWWFl5NnR6MHB0eHNDV3JMVVhDeEI0SEhaejNwMElmcF9TRjNWbmZEOWhpMHRMcTVYMWxFa19RMlVDQXBXeTdKN0d3d2ZBYVZwXzVGSmtwQWdv?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "DoorDash launches an AI agent you can text to order food",
-        "DoorDash Debuts Text-to-Order AI Agent for People Who Find It a Little Too Hard to Order DoorDash"
       ]
     },
     {
@@ -348,6 +335,67 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 25,
+      "sources": 2,
+      "ts": "2026-09-30T16:00:24.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "DoorDash launches an AI agent you can text to order food",
+      "s": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "b": [
+        "techcrunch.com: DoorDash launches an AI agent you can text to order food",
+        "gizmodo.com: DoorDash Debuts Text-to-Order AI Agent for People Who Find It a Little Too Hard to Order DoorDash"
+      ],
+      "body": [
+        "techcrunch.com: By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+        "gizmodo.com: DoorDash Debuts Text-to-Order AI Agent for People Who Find It a Little Too Hard to Order DoorDash Gizmodo"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
+        },
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbVpmTFUyS3hRbk5PSUVib0hBZUxtVFdZYVRxY3p5dTdaamppcGZQTHJRMFlNc18xOG11aTNKN1ZoeFRGNkRBNk53c0R0a2NUUXQ5dlVOZk5SUXJ1Tkc4cHRZMGNydXQtczNZZGRHZGw4VnJvWGJWWFl5NnR6MHB0eHNDV3JMVVhDeEI0SEhaejNwMElmcF9TRjNWbmZEOWhpMHRMcTVYMWxFa19RMlVDQXBXeTdKN0d3d2ZBYVZwXzVGSmtwQWdv?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "DoorDash launches an AI agent you can text to order food",
+        "DoorDash Debuts Text-to-Order AI Agent for People Who Find It a Little Too Hard to Order DoorDash"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-30T15:03:07.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Introducing SynthID Bio",
+      "s": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "b": [
+        "deepmind.google: Introducing SynthID Bio",
+        "techmeme.com: Google DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity (John Timmer/Ars Technica)",
+        "arstechnica.com: Google figures out how to watermark AI-designed proteins"
+      ],
+      "body": [
+        "deepmind.google: Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+        "techmeme.com: John Timmer / Ars Technica : Google DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity AI-based tools seem to be causing security threats on a nearly daily basis, in part because we've been slow to recognize potential threats.",
+        "arstechnica.com: AI-based tools seem to be causing security threats on a nearly daily basis, in part because we've been slow to recognize potential threats. One area where we seem to be ahead of the game, however, is in biosecurity. As with most things biological, utility goes hand in hand with threats. We've developed increasingly sophisticated tools for designing proteins and seen some major successes, such as AI-designed enzymes that can digest plastics or block venom proteins . But these same tools could be used to make toxins or alter the behavior of viral proteins. And the software we use to identify DNA sequences that encode potentially threatening proteins doesn't pick out AI-designed proteins , since nobody has characterized them well enough to know that they're threats. Nearly a year after that risk was flagged, it still wasn't clear what anyone could do about it. Read full article Comments"
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-synthid-bio/"
+        }
+      ],
+      "srcTitles": [
+        "Introducing SynthID Bio"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 24,
       "sources": 1,
@@ -374,7 +422,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-30T13:32:36.000Z",
       "writtenSources": 2,
@@ -406,7 +454,7 @@
     },
     {
       "cat": "policy",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-30T09:03:07.000Z",
       "writtenSources": 2,
