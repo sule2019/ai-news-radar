@@ -41,6 +41,36 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 60,
+      "sources": 2,
+      "ts": "2026-09-30T10:30:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Disrupting a coordinated model-distillation campaign",
+      "s": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "b": [
+        "openai.com: Disrupting a coordinated model-distillation campaign"
+      ],
+      "body": [
+        "openai.com: Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260930/p41#a260930p41"
+        }
+      ],
+      "srcTitles": [
+        "Disrupting a coordinated model-distillation campaign",
+        "OpenAI says individuals associated with Moonshot AI played a significant role in a coordinated model-distillation campaign that began in early July (Maggie Eastland/Bloomberg)"
+      ]
+    },
+    {
       "cat": "research",
       "signal": 59,
       "sources": 2,
@@ -69,7 +99,7 @@
       ],
       "srcTitles": [
         "An interview with OpenAI Chief Research Officer Mark Chen on the Hugging Face incident, slowing AI development, shifting 5%-10% of compute to safety, and more (Will Douglas Heaven/MIT Technology Review)",
-        "A timeline of developments in AI safety since the attack on Hugging Face - ABC News"
+        "A timeline of developments in AI safety since the attack on Hugging Face"
       ]
     },
     {
@@ -99,7 +129,7 @@
     },
     {
       "cat": "products",
-      "signal": 37,
+      "signal": 33,
       "sources": 2,
       "ts": "2026-09-30T16:00:24.000Z",
       "writtenSources": 2,
@@ -127,6 +157,38 @@
       "srcTitles": [
         "DoorDash launches an AI agent you can text to order food",
         "DoorDash Debuts Text-to-Order AI Agent for People Who Find It a Little Too Hard to Order DoorDash"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-30T15:46:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Representative August Pfluger introduces H.R. 10594: Reliable Artificial Intelligence Research Act of 2026",
+      "s": "Representative August Pfluger introduces H.R. 10594: Reliable Artificial Intelligence Research Act of 2026 Quiver Quantitative",
+      "b": [
+        "quiverquant.com: Representative August Pfluger introduces H.R. 10594: Reliable Artificial Intelligence Research Act of 2026",
+        "oaoa.com: Pfluger introduces Reliable Artificial Intelligence Research Act"
+      ],
+      "body": [
+        "quiverquant.com: Representative August Pfluger introduces H.R. 10594: Reliable Artificial Intelligence Research Act of 2026 Quiver Quantitative",
+        "oaoa.com: Pfluger introduces Reliable Artificial Intelligence Research Act Odessa American"
+      ],
+      "l": [
+        {
+          "d": "quiverquant.com",
+          "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQQ2VOaEhjOWFnMWxfVXNtdnJMR0JXYl9KS0RDRkpneWdQVWkxTlFSSUc5YkQxcnpQLUw3OElDUk1FM3hIc1ZrWEdnQUsybGk4QW9nc2pmcktXSDZEQUMyN1ZBWmRHbnhKNlJCZmMxdVVKVlZmbFhwTTI1VVNTY3lVUnUyQ3pGalVBMmZTcURmT3BpcEV1MlFzT1BIWGVSbWRfUWVIODNBalFNbzF0OG52bHpXWXNhYmlKTmJNQ3UzTmlYZFR2c21oeWV6a2ZjaFlpM2Zna0JySGg?oc=5"
+        },
+        {
+          "d": "oaoa.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRDhpaU95dWJQdmF3V0JCZWRJbWYyMjhYR2dNODFVUWF1NnNlTF91UmRSQ3drZkVXSlhmWnB5SkNPc184V0l2enhwUnB5U3RnYTJpbHBUWndNQ3JwMkdPc3BuUno5SzQyZG1fQ3d4RGxaRGktQ0UxSFptaW5FUkVlaF8xT1NlNDRvWnNIbjVDTFV2U1cxRzJjNG5meUliVHBoRlpQT2hlRTFRcmtj?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Representative August Pfluger introduces H.R. 10594: Reliable Artificial Intelligence Research Act of 2026",
+        "Pfluger introduces Reliable Artificial Intelligence Research Act"
       ]
     },
     {
@@ -234,31 +296,6 @@
       "cat": "models",
       "signal": 24,
       "sources": 1,
-      "ts": "2026-09-30T10:30:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Disrupting a coordinated model-distillation campaign",
-      "s": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
-      "b": [
-        "openai.com: Disrupting a coordinated model-distillation campaign"
-      ],
-      "body": [
-        "openai.com: Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
-        }
-      ],
-      "srcTitles": [
-        "Disrupting a coordinated model-distillation campaign"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
       "ts": "2026-09-30T10:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
@@ -282,7 +319,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-09-30T01:01:00.000Z",
       "writtenSources": 2,
