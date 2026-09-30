@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 72,
+      "signal": 69,
       "sources": 3,
       "ts": "2026-09-30T15:03:07.000Z",
       "writtenSources": 3,
@@ -71,8 +71,40 @@
       ]
     },
     {
-      "cat": "research",
+      "cat": "models",
       "signal": 59,
+      "sources": 2,
+      "ts": "2026-09-30T20:05:43.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google announces Gemini 4 Argon AI model, but you can t use it yet",
+      "s": "Google promised Gemini 3.5 Pro in June, but it spent the summer trotting out smaller Flash models . Now, Google is ready to take on the frontier again with Gemini 4 Argon . The company claims this new",
+      "b": [
+        "arstechnica.com: Google announces Gemini 4 Argon AI model, but you can t use it yet",
+        "reuters.com: Google announces Gemini 4 flagship AI model after months of delays"
+      ],
+      "body": [
+        "arstechnica.com: Google promised Gemini 3.5 Pro in June, but it spent the summer trotting out smaller Flash models . Now, Google is ready to take on the frontier again with Gemini 4 Argon . The company claims this new AI offers industry-leading performance in coding, knowledge work, and cybersecurity, but you aren't allowed to use it yet. While most of us will have to wait to test Gemini 4, Google says engineers inside the company are already using the new model extensively. Argon reportedly used \"fleet-wide telemetry data\" to help Google save 300 TiB of memory across its data centers. Meanwhile, Argon agents have been working to migrate C/C++ codebases to Rust across Google, including thousands of lines in the core re2 and libgav1 libraries and more than 800,000 lines in the Fuchsia OS Zircon kernel. Google has also come armed with a raft of benchmarks to back up its claims. On the software engineering DeepSWE v1.1 benchmark, Gemini 4 Argon hits 77.9 percent, which is higher than GPT-6 Astra, Fable 5.1, and Opus 5.5. Google promises similar power across a range of long-horizon tasks, pointing to Argon's industry-leading score in the economic analysis Vals Index test. Read full article Comments",
+        "reuters.com: Google announces Gemini 4 flagship AI model after months of delays Reuters"
+      ],
+      "l": [
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa0kxM3JDazhISnQtVGJ1Q2phRmxPR2Mtb2R4X1dQX0U3TkVZLWV0YUZNSnRfQ25OQnRuWHpNczNHSzhCZFFkdHFCWEVXYUhuazBDLWJ0eV92WU9nMDR6Nnl5ZDRCOG5UdWtwNnpTNkVtS2NLejVrX1Y3eXFvbDRMc0Y2Q2hvN0Q5YTEzTVA3NDFLaHprbnpuNWVBejNPVUlKemJCSHZUcHZSVE9iNmt3TWxXMXFBWkU?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Google announces Gemini 4 Argon AI model, but you can t use it yet",
+        "Google announces Gemini 4 flagship AI model after months of delays"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 55,
       "sources": 2,
       "ts": "2026-09-30T14:50:01.000Z",
       "writtenSources": 2,
@@ -103,6 +135,29 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-09-30T20:01:45.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Gemini 4 Argon: our next era of frontier intelligence",
+      "s": "Covered by 1 outlet.",
+      "b": [
+        "blog.google: Gemini 4 Argon: our next era of frontier intelligence"
+      ],
+      "body": [],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+        }
+      ],
+      "srcTitles": [
+        "Gemini 4 Argon: our next era of frontier intelligence"
+      ]
+    },
+    {
       "cat": "research",
       "signal": 46,
       "sources": 1,
@@ -128,8 +183,72 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-09-30T17:45:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+      "s": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+      "b": [
+        "techcrunch.com: Reddit is killing RSS feeds and ending public API access because of AI bots",
+        "techmeme.com: Reddit says it is ending support for RSS feeds on November 13 because the feeds are a target for abuse by AI bots and is ending its public API access in March (Sarah Perez/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+        "techmeme.com: Sarah Perez / TechCrunch : Reddit says it is ending support for RSS feeds on November 13 because the feeds are a target for abuse by AI bots and is ending its public API access in March Amid a number of updates for moderators and developers announced Wednesday comes bad news for supporters of a more open web: Reddit is ending support for RSS feeds."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260930/p42#a260930p42"
+        }
+      ],
+      "srcTitles": [
+        "Reddit is killing RSS feeds and ending public API access because of AI bots",
+        "Reddit says it is ending support for RSS feeds on November 13 because the feeds are a target for abuse by AI bots and is ending its public API access in March (Sarah Perez/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-09-30T18:57:58.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything",
+      "s": "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything Yahoo",
+      "b": [
+        "yahoo.com: The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything",
+        "pcgamer.com: The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything"
+      ],
+      "body": [
+        "yahoo.com: The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything Yahoo",
+        "pcgamer.com: The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything PC Gamer"
+      ],
+      "l": [
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQkRrcVg3RGlSMTV1SnJPdlp2dEdDcC1pR2pWY1RVUGlpb0hzZk9hVThLZHlyVGp4Z3dGOENkM2E4anRIREJIVzR3aHNnUWNrTXZubU94a3RaQUY2VkRJbHljZHBzTEtFdWZ3NGRZNDlWd21SN3ZmalQ0U1dwNXBzR25GQVNUNVBKaFlnUlVuLVZGUC1LTkJWeFU1Nmt0V2RqZkNGck1SVzNOY3lZVFNjaUJn?oc=5"
+        },
+        {
+          "d": "pcgamer.com",
+          "u": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWVlSdVJGUUVKd054MzJpRzg1N24wWmMxUC1yRkxIb1F3YzBBQ1VXeXBxdjJZSi1JZXo4WlRnNk1CTDRNOW02bkVqS2F4c3huWnVwVE1lZUlOQkhVY0lrN1RCWWpoNUxibGtJUGN5MHBiT214aWxQcTlfSGxCM2cyUnhfLTMySkRoYUljRXhuSEZUNzdpTWpVQlRNZ0lDd0VIXzh2Vi1kbmFwYUxfOGhja1dzaU5halpRdWFBOUhPZlVJWTJxd09pNTRJSGM4Wi1yX20zNDIyalc1S052QzIzZXVn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything",
+        "The Americans have officially renamed artificial intelligence to 'Super Intelligence,' which should fix everything"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 33,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-09-30T16:00:24.000Z",
       "writtenSources": 2,
@@ -161,7 +280,7 @@
     },
     {
       "cat": "policy",
-      "signal": 29,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-09-30T15:46:00.000Z",
       "writtenSources": 2,
@@ -189,70 +308,6 @@
       "srcTitles": [
         "Representative August Pfluger introduces H.R. 10594: Reliable Artificial Intelligence Research Act of 2026",
         "Pfluger introduces Reliable Artificial Intelligence Research Act"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-09-30T13:32:36.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
-      "s": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question cnbc.com",
-      "b": [
-        "cnbc.com: 'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
-        "punchbowl.news: Tech: AI czar Jay Clayton?"
-      ],
-      "body": [
-        "cnbc.com: 'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question cnbc.com",
-        "punchbowl.news: Tech: AI czar Jay Clayton? Punchbowl News"
-      ],
-      "l": [
-        {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wM0JiUEhkMHBSZ0dxRkp4bWZ0UFp5NlpEaHhKTmNfRW1QN2xpTVVUbl84LXJSeFdVemNmNDI2ZW5hWTgzUkJBZV80ZFBQNnlHT2RRZUF1SjAwelZLS2loWENMNXZESDZnb053RUg5clctaEdLSGs2RtIBfkFVX3lxTFByNFVVbWpHVm9hZkhwU2p3UWUyYUZTRV9GNGN0dTFSREhmMXpVbUFFVkZselJuX2dBanBUZ0hBaEVjclNhX2hmOEJxaUlSQUhoSFk1YWlpRXZhd0RycVhnNHR4MDdpaHlVbm1mQnlnOFhRN2ZWelkxamJaYVRNQQ?oc=5"
-        },
-        {
-          "d": "punchbowl.news",
-          "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hQ1ZMX2dORkxuckoweGM0LXJJbHFvcHNLVnZ2WXpNbmxHbG9YdkVaMUtxRmhmem5zS3lzY2FCWnRtWS1EWVZPYlFLR1diczV3MmdqTmxrUmtsWVBnUk1NTA?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
-        "Tech: AI czar Jay Clayton?"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-09-30T09:03:07.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue",
-      "s": "‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue WHYY",
-      "b": [
-        "whyy.org: ‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue",
-        "pymnts.com: Rogue Agent Incidents Add New Wrinkle to Delaware Plan for AI-Run Companies"
-      ],
-      "body": [
-        "whyy.org: ‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue WHYY",
-        "pymnts.com: Rogue Agent Incidents Add New Wrinkle to Delaware Plan for AI-Run Companies PYMNTS.com"
-      ],
-      "l": [
-        {
-          "d": "whyy.org",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVE3NUU4cjJyaVNfcGdwNThPd0ZLVktndS1ta2N2VVNQY1ctUGFWNVhpcUxmdElJX0JtajA0VjBPQ3RFTV9icHpkVnBaSkZqOHNjNFdmSUFYVVNrZWRidzB6ekFvUDlhRzZZaDN2UzdYSHFSQm1zVU50MS0xT1N3VFdKMGUtVEZMcHNZdA?oc=5"
-        },
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3pEUTlBNzJYYWxKd1J0SFl2bG1RaVZmOTBzZDJwbDVaeUoxU1Jrc3RtY3J6RTZZNmhKOFF5WlBFOHgxX211bU01Z1FLeDBoaGF6V3VNRXVOd3F6MlpDaVhibW1sSmNnQUdSNzVXeEFMVzI3SHpzckpGTjd5T055Tmtid1h6OWpuVC1STzJJVlFwdWxHQW9hUHo0TVNROUpWa2htMWxuUGp2a3VjUmNRRGpNLXdoOU05dDlET0hFWDBVclk2?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue",
-        "Rogue Agent Incidents Add New Wrinkle to Delaware Plan for AI-Run Companies"
       ]
     },
     {
@@ -319,7 +374,71 @@
     },
     {
       "cat": "models",
-      "signal": 18,
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-09-30T13:32:36.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
+      "s": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question cnbc.com",
+      "b": [
+        "cnbc.com: 'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
+        "punchbowl.news: Tech: AI czar Jay Clayton?"
+      ],
+      "body": [
+        "cnbc.com: 'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question cnbc.com",
+        "punchbowl.news: Tech: AI czar Jay Clayton? Punchbowl News"
+      ],
+      "l": [
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wM0JiUEhkMHBSZ0dxRkp4bWZ0UFp5NlpEaHhKTmNfRW1QN2xpTVVUbl84LXJSeFdVemNmNDI2ZW5hWTgzUkJBZV80ZFBQNnlHT2RRZUF1SjAwelZLS2loWENMNXZESDZnb053RUg5clctaEdLSGs2RtIBfkFVX3lxTFByNFVVbWpHVm9hZkhwU2p3UWUyYUZTRV9GNGN0dTFSREhmMXpVbUFFVkZselJuX2dBanBUZ0hBaEVjclNhX2hmOEJxaUlSQUhoSFk1YWlpRXZhd0RycVhnNHR4MDdpaHlVbm1mQnlnOFhRN2ZWelkxamJaYVRNQQ?oc=5"
+        },
+        {
+          "d": "punchbowl.news",
+          "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hQ1ZMX2dORkxuckoweGM0LXJJbHFvcHNLVnZ2WXpNbmxHbG9YdkVaMUtxRmhmem5zS3lzY2FCWnRtWS1EWVZPYlFLR1diczV3MmdqTmxrUmtsWVBnUk1NTA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
+        "Tech: AI czar Jay Clayton?"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-09-30T09:03:07.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue",
+      "s": "‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue WHYY",
+      "b": [
+        "whyy.org: ‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue",
+        "pymnts.com: Rogue Agent Incidents Add New Wrinkle to Delaware Plan for AI-Run Companies"
+      ],
+      "body": [
+        "whyy.org: ‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue WHYY",
+        "pymnts.com: Rogue Agent Incidents Add New Wrinkle to Delaware Plan for AI-Run Companies PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "whyy.org",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVE3NUU4cjJyaVNfcGdwNThPd0ZLVktndS1ta2N2VVNQY1ctUGFWNVhpcUxmdElJX0JtajA0VjBPQ3RFTV9icHpkVnBaSkZqOHNjNFdmSUFYVVNrZWRidzB6ekFvUDlhRzZZaDN2UzdYSHFSQm1zVU50MS0xT1N3VFdKMGUtVEZMcHNZdA?oc=5"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3pEUTlBNzJYYWxKd1J0SFl2bG1RaVZmOTBzZDJwbDVaeUoxU1Jrc3RtY3J6RTZZNmhKOFF5WlBFOHgxX211bU01Z1FLeDBoaGF6V3VNRXVOd3F6MlpDaVhibW1sSmNnQUdSNzVXeEFMVzI3SHpzckpGTjd5T055Tmtid1h6OWpuVC1STzJJVlFwdWxHQW9hUHo0TVNROUpWa2htMWxuUGp2a3VjUmNRRGpNLXdoOU05dDlET0hFWDBVclk2?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue",
+        "Rogue Agent Incidents Add New Wrinkle to Delaware Plan for AI-Run Companies"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 15,
       "sources": 2,
       "ts": "2026-09-30T01:01:00.000Z",
       "writtenSources": 2,
