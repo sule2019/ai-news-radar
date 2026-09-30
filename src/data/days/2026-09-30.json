@@ -2,8 +2,79 @@
   "date": "2026-09-30",
   "stories": [
     {
+      "cat": "models",
+      "signal": 72,
+      "sources": 3,
+      "ts": "2026-09-30T15:03:07.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Introducing SynthID Bio",
+      "s": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "b": [
+        "deepmind.google: Introducing SynthID Bio",
+        "techmeme.com: Google DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity (John Timmer/Ars Technica)",
+        "arstechnica.com: Google figures out how to watermark AI-designed proteins"
+      ],
+      "body": [
+        "deepmind.google: Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+        "techmeme.com: John Timmer / Ars Technica : Google DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity AI-based tools seem to be causing security threats on a nearly daily basis, in part because we've been slow to recognize potential threats.",
+        "arstechnica.com: AI-based tools seem to be causing security threats on a nearly daily basis, in part because we've been slow to recognize potential threats. One area where we seem to be ahead of the game, however, is in biosecurity. As with most things biological, utility goes hand in hand with threats. We've developed increasingly sophisticated tools for designing proteins and seen some major successes, such as AI-designed enzymes that can digest plastics or block venom proteins . But these same tools could be used to make toxins or alter the behavior of viral proteins. And the software we use to identify DNA sequences that encode potentially threatening proteins doesn't pick out AI-designed proteins , since nobody has characterized them well enough to know that they're threats. Nearly a year after that risk was flagged, it still wasn't clear what anyone could do about it. Read full article Comments"
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-synthid-bio/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260930/p36#a260930p36"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/science/2026/09/google-figures-out-how-to-watermark-ai-designed-proteins/"
+        }
+      ],
+      "srcTitles": [
+        "Introducing SynthID Bio",
+        "Google DeepMind introduces SynthID Bio, a family of watermarking methods for AI-designed proteins to help with biosecurity and scientific integrity (John Timmer/Ars Technica)",
+        "Google figures out how to watermark AI-designed proteins"
+      ]
+    },
+    {
       "cat": "research",
-      "signal": 49,
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-09-30T14:50:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "An interview with OpenAI Chief Research Officer Mark Chen on the Hugging Face incident, slowing AI development, shifting 5%-10% of compute to safety, and more (Will Douglas Heaven/MIT Technology Review)",
+      "s": "Will Douglas Heaven / MIT Technology Review : An interview with OpenAI Chief Research Officer Mark Chen on the Hugging Face incident, slowing AI development, shifting 5%-10% of compute to safety, and ",
+      "b": [
+        "techmeme.com: An interview with OpenAI Chief Research Officer Mark Chen on the Hugging Face incident, slowing AI development, shifting 5%-10% of compute to safety, and more (Will Douglas Heaven/MIT Technology Review)",
+        "abcnews.com: A timeline of developments in AI safety since the attack on Hugging Face - ABC News"
+      ],
+      "body": [
+        "techmeme.com: Will Douglas Heaven / MIT Technology Review : An interview with OpenAI Chief Research Officer Mark Chen on the Hugging Face incident, slowing AI development, shifting 5%-10% of compute to safety, and more Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers",
+        "abcnews.com: A timeline of developments in AI safety since the attack on Hugging Face ABC News - Breaking News, Latest News and Videos"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/260930/p31#a260930p31"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS2tOUGI4OFV0XzA4dW1yR0htSDU0RDdDUHI1eXdRSFZJTlBxei1zMnNDTC1HcEpvOEZQcXQ0dEdPNnpmbDd3R3RBVXI4NlM2MGZzaEhSa3ByaHdhQ2trTXZ5RXJCQkdIdEhnNWZXRjJydktldjAwVmhCZGtsTDREM0VwTEhTcVMwdXgyNUpGVk1zUGJpajB6MmN30gGfAUFVX3lxTE9PRnJXSGpCN3EyN0hKXzRxOEh1bTR1T2ttak9QRGt4TFA3Yk1NUGlPMktJcnNZTDdSSm1QMmhFZjVUM182cnZOT1EzYmJlNXhvaFRldDdocEJ0bnNGMVNqNmZBQTVPTDg0LWhSRHhFMzlEM3REWk5LRlBpYXhYakZQMkRPcHoySVNvc3JxQmtNdXM1VTRuMDFpbkc5R1d2bw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "An interview with OpenAI Chief Research Officer Mark Chen on the Hugging Face incident, slowing AI development, shifting 5%-10% of compute to safety, and more (Will Douglas Heaven/MIT Technology Review)",
+        "A timeline of developments in AI safety since the attack on Hugging Face - ABC News"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 46,
       "sources": 1,
       "ts": "2026-09-30T10:40:30.000Z",
       "writtenSources": 1,
@@ -27,8 +98,191 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-09-30T16:00:24.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "DoorDash launches an AI agent you can text to order food",
+      "s": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "b": [
+        "techcrunch.com: DoorDash launches an AI agent you can text to order food",
+        "gizmodo.com: DoorDash Debuts Text-to-Order AI Agent for People Who Find It a Little Too Hard to Order DoorDash"
+      ],
+      "body": [
+        "techcrunch.com: By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+        "gizmodo.com: DoorDash Debuts Text-to-Order AI Agent for People Who Find It a Little Too Hard to Order DoorDash Gizmodo"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/"
+        },
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQbVpmTFUyS3hRbk5PSUVib0hBZUxtVFdZYVRxY3p5dTdaamppcGZQTHJRMFlNc18xOG11aTNKN1ZoeFRGNkRBNk53c0R0a2NUUXQ5dlVOZk5SUXJ1Tkc4cHRZMGNydXQtczNZZGRHZGw4VnJvWGJWWFl5NnR6MHB0eHNDV3JMVVhDeEI0SEhaejNwMElmcF9TRjNWbmZEOWhpMHRMcTVYMWxFa19RMlVDQXBXeTdKN0d3d2ZBYVZwXzVGSmtwQWdv?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "DoorDash launches an AI agent you can text to order food",
+        "DoorDash Debuts Text-to-Order AI Agent for People Who Find It a Little Too Hard to Order DoorDash"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-30T13:32:36.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
+      "s": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question cnbc.com",
+      "b": [
+        "cnbc.com: 'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
+        "punchbowl.news: Tech: AI czar Jay Clayton?"
+      ],
+      "body": [
+        "cnbc.com: 'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question cnbc.com",
+        "punchbowl.news: Tech: AI czar Jay Clayton? Punchbowl News"
+      ],
+      "l": [
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wM0JiUEhkMHBSZ0dxRkp4bWZ0UFp5NlpEaHhKTmNfRW1QN2xpTVVUbl84LXJSeFdVemNmNDI2ZW5hWTgzUkJBZV80ZFBQNnlHT2RRZUF1SjAwelZLS2loWENMNXZESDZnb053RUg5clctaEdLSGs2RtIBfkFVX3lxTFByNFVVbWpHVm9hZkhwU2p3UWUyYUZTRV9GNGN0dTFSREhmMXpVbUFFVkZselJuX2dBanBUZ0hBaEVjclNhX2hmOEJxaUlSQUhoSFk1YWlpRXZhd0RycVhnNHR4MDdpaHlVbm1mQnlnOFhRN2ZWelkxamJaYVRNQQ?oc=5"
+        },
+        {
+          "d": "punchbowl.news",
+          "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hQ1ZMX2dORkxuckoweGM0LXJJbHFvcHNLVnZ2WXpNbmxHbG9YdkVaMUtxRmhmem5zS3lzY2FCWnRtWS1EWVZPYlFLR1diczV3MmdqTmxrUmtsWVBnUk1NTA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
+        "Tech: AI czar Jay Clayton?"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-30T09:03:07.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue",
+      "s": "‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue WHYY",
+      "b": [
+        "whyy.org: ‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue",
+        "pymnts.com: Rogue Agent Incidents Add New Wrinkle to Delaware Plan for AI-Run Companies"
+      ],
+      "body": [
+        "whyy.org: ‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue WHYY",
+        "pymnts.com: Rogue Agent Incidents Add New Wrinkle to Delaware Plan for AI-Run Companies PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "whyy.org",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWVE3NUU4cjJyaVNfcGdwNThPd0ZLVktndS1ta2N2VVNQY1ctUGFWNVhpcUxmdElJX0JtajA0VjBPQ3RFTV9icHpkVnBaSkZqOHNjNFdmSUFYVVNrZWRidzB6ekFvUDlhRzZZaDN2UzdYSHFSQm1zVU50MS0xT1N3VFdKMGUtVEZMcHNZdA?oc=5"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOS3pEUTlBNzJYYWxKd1J0SFl2bG1RaVZmOTBzZDJwbDVaeUoxU1Jrc3RtY3J6RTZZNmhKOFF5WlBFOHgxX211bU01Z1FLeDBoaGF6V3VNRXVOd3F6MlpDaVhibW1sSmNnQUdSNzVXeEFMVzI3SHpzckpGTjd5T055Tmtid1h6OWpuVC1STzJJVlFwdWxHQW9hUHo0TVNROUpWa2htMWxuUGp2a3VjUmNRRGpNLXdoOU05dDlET0hFWDBVclk2?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "‘Not putting brakes on’: Delaware pursues AI-run companies initiative amid reports of agents going rogue",
+        "Rogue Agent Incidents Add New Wrinkle to Delaware Plan for AI-Run Companies"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-09-30T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Which API for general real-time LLM agents [D]",
+      "s": "TL;DR what is the right interface for writing custom real-time LLM agents? I ve noticed many projects (academic, startups, pet, etc) are trying to make LLMs work in real-time world where things happen",
+      "b": [
+        "reddit.com: Which API for general real-time LLM agents [D]",
+        "arxiv.org: Evaluating Test-Time Scaling of General LLM Agents",
+        "arxiv.org: SafeCoEvo: Co-Evolving Safety Harnesses and Guards for LLM Agents at Test-Time"
+      ],
+      "body": [
+        "reddit.com: TL;DR what is the right interface for writing custom real-time LLM agents? I ve noticed many projects (academic, startups, pet, etc) are trying to make LLMs work in real-time world where things happen while the model is thinking. And the agents need to be fast, but also have some way to new stimuli while they think, like when a user interrupts a voice agent, or browser pop-ups, etc. And these things already exist in principle, e.g. most robotics agents, real-time assistants [videoLLM] [gpt4o] , video calls [wan-streamer] , also [mid-turn steering] in Codex where you can add clarifications while the agent works, etc. So it looks like LLMs can already do real-time interaction for specific scenarios --- I was wondering if it can be generalized so developers can write their own real-time agents as we write custom MCP tools now . So, we would need some sort of reusable building blocks that can be combined into, say, a coding agent that helps you debug in real time, or a deep research agent that talks to you and reacts to your feedback mid-search, or a voice-controlled calendar/spreadsheet helper, etc. A bit silly, my point is: there are applications not covered by current models. I was wondering: if someone were to build this, what interface would you use for building async agents in general? Vendors technically have a real-time APIs [ 1 , 2 ] , but those are for coding. The closest thing I found about general async agents is [AsyncLLM preprint 2609.35427] (disclaimer: I know the authors), where the programmer uses asyncio to write coroutines with shared memory blocks, which is how agents communicate (image below from that preprint). img from https://huggingface.co/papers/2609.35427 However, that still assumes the programmer writes a low-level inference pipeline, so perhaps there s a more natural way that would let openai/anthropic/etc expose some API that would let developers run general async agents for their use case and feed them with real-time streams of events. [ba",
+        "arxiv.org: arXiv:2602.18998v2 Announce Type: replace Abstract: LLM agents are increasingly expected to operate as general-purpose systems that resolve real-world user requests, yet their dynamic scaling behavior in realistic environments remains poorly understood. In this paper, we systematically investigate two principal test-time scaling axes of LLM agents: sequential scaling through extended interaction and parallel scaling through trajectory sampling. We first introduce a realistic benchmark that provides one unified framework for evaluating LLM agents across search, coding, reasoning, and tool-use domains, more faithfully reflecting the heterogeneity of real-world deployments. Evaluating ten leading LLM agents reveals substantial performance degradation when transitioning from domain-specific evaluations to this realistic setting. Building on this foundation, we progressively scale test-time compute along fine-grained increments to characterize the performance upper bound. We find that neither scaling axis can consistently yield meaningful gains from additional test-time compute in realistic environments, a phenomenon we attribute to two fundamental limitations: the scaling plateau that bottlenecks sequential scaling and the verification gap that undermines parallel scaling. Code is publicly available at https://github.com/cxcscmu/General-AgentBench.",
+        "arxiv.org: arXiv:2609.36580v1 Announce Type: new Abstract: LLM agents deployed in real-world environments continually encounter new tasks and safety risks, while execution feedback typically becomes available only after each task is completed. However, existing self-evolving approaches commonly rely on multiple rounds of optimization over fixed and repeatedly accessible task distributions, fundamentally differing from test-time adaptation in real-world deployment, where only experience accumulated from past tasks can be used to improve safety decisions on future unseen tasks. To address this limitation, we propose SafeCoEvo, a test-time Harness-Guard co-evolution framework for LLM agent safety that enables the external safety system to continually adapt from accumulated runtime experience. SafeCoEvo jointly improves two complementary safety capabilities at different timescales: S-Harness rapidly externalizes recent runtime experience into updatable explicit safety knowledge that can promptly influence subsequent tasks, while GuardVPO internalizes accumulated runtime safety experience over a longer timescale into parametric risk-judgment capabilities. By combining short-term rapid adaptation with long-term capability consolidation, SafeCoEvo continually improves the agent's safety capabilities, reducing the unsafe outcome rate by 10.05% while improving the task success rate by 12.15% over the strongest baseline, thereby achieving simultaneous gains in safety and task utility.",
+        "arxiv.org: arXiv:2609.35911v1 Announce Type: cross Abstract: Adapting large language model agents during deployment requires not only retaining past experience, but also turning new observations into timely guidance. Many test-time learning methods, however, acquire knowledge from completed episodes. Feedback from an ongoing interaction may therefore not be distilled into knowledge soon enough to help the next decision. Acquiring knowledge at the granularity of individual transitions could reduce this delay, but raises a separate challenge: a rule that is useful within one episode may not be reliable enough to guide future episodes. Waiting for validation can forfeit immediate benefits, whereas unrestricted reuse can propagate accidental or misattributed guidance. We introduce StepLearn, a nonparametric framework that separates immediate use from persistent trust. It turns informative transitions into hypotheses that can guide the next step, while requiring prospective validation before reuse across episodes. Their predicted effects are checked against subsequent observations outside the source episodes, and only sufficiently supported hypotheses become available for persistent guidance. This process updates external knowledge while keeping all model parameters fixed. Over five rounds on WebArena-Lite and ALFWorld, StepLearn achieves average success rates of 59.9% and 84.0% with GPT-5-mini, and 57.8% and 88.1% with Qwen3.5-35B-A3B, respectively. It outperforms EvoTest, the strongest baseline, by 2.2-12.7 percentage points across the four settings. Learning dynamics further shows that these gains are not restricted to the final repetition, with advantages already present on first task attempts in most settings."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1wu7kz0/which_api_for_general_realtime_llm_agents_d/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2602.18998"
+        }
+      ],
+      "srcTitles": [
+        "Which API for general real-time LLM agents [D]",
+        "Evaluating Test-Time Scaling of General LLM Agents",
+        "SafeCoEvo: Co-Evolving Safety Harnesses and Guards for LLM Agents at Test-Time",
+        "Learn Now, Use Next, Trust Later: Prequential Test-Time Learning for LLM Agents"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-30T10:30:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Disrupting a coordinated model-distillation campaign",
+      "s": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "b": [
+        "openai.com: Disrupting a coordinated model-distillation campaign"
+      ],
+      "body": [
+        "openai.com: Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign"
+        }
+      ],
+      "srcTitles": [
+        "Disrupting a coordinated model-distillation campaign"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-09-30T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Helping small businesses put AI to work",
+      "s": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI.",
+      "b": [
+        "openai.com: Helping small businesses put AI to work"
+      ],
+      "body": [
+        "openai.com: OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are using AI."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/helping-small-businesses-put-ai-to-work"
+        }
+      ],
+      "srcTitles": [
+        "Helping small businesses put AI to work"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
       "sources": 2,
       "ts": "2026-09-30T01:01:00.000Z",
       "writtenSources": 2,
