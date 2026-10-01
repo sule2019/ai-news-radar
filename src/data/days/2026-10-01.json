@@ -3,7 +3,39 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 48,
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-01T17:12:21.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+      "s": "A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powere",
+      "b": [
+        "theverge.com: Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+        "techmeme.com: A US judge dismisses Chegg and Penske lawsuits alleging Google violated antitrust law by forcing them to allow content in AI Overviews, reducing web traffic (Mike Scarcella/Reuters)"
+      ],
+      "body": [
+        "theverge.com: A federal judge has dismissed a pair of antitrust lawsuits filed by Chegg and Rolling Stone parent company Penske Media Corporation, which accused Google of driving away web traffic with its AI-powered search features, as reported earlier by Reuters. US District Judge Amit Mehta takes Google's side in a ruling on Wednesday, writing that PMC [ ]",
+        "techmeme.com: Mike Scarcella / Reuters : A US judge dismisses Chegg and Penske lawsuits alleging Google violated antitrust law by forcing them to allow content in AI Overviews, reducing web traffic Alphabet's Google has persuaded a US federal judge to dismiss lawsuits from education technology company Chegg"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261001/p33#a261001p33"
+        }
+      ],
+      "srcTitles": [
+        "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+        "A US judge dismisses Chegg and Penske lawsuits alleging Google violated antitrust law by forcing them to allow content in AI Overviews, reducing web traffic (Mike Scarcella/Reuters)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 44,
       "sources": 2,
       "ts": "2026-10-01T04:00:00.000Z",
       "writtenSources": 3,
@@ -36,6 +68,175 @@
         "Hierarchical Reasoning Model",
         "Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models",
         "LSR-Ben: A Logical and Scientific Reasoning Benchmark for Evaluating Process Reward Models"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 39,
+      "sources": 6,
+      "ts": "2026-10-01T17:02:21.000Z",
+      "writtenSources": 6,
+      "draft": true,
+      "h": "Take The Power Back | Explosion of AI Data Centers Across the US",
+      "s": "Take The Power Back | Explosion of AI Data Centers Across the US WCIV",
+      "b": [
+        "abcnews4.com: Take The Power Back | Explosion of AI Data Centers Across the US",
+        "krcrtv.com: Take The Power Back | Explosion of AI Data Centers Across the US",
+        "abc3340.com: Take The Power Back | Explosion of AI Data Centers Across the US"
+      ],
+      "body": [
+        "abcnews4.com: Take The Power Back | Explosion of AI Data Centers Across the US WCIV",
+        "krcrtv.com: Take The Power Back | Explosion of AI Data Centers Across the US KRCR",
+        "abc3340.com: Take The Power Back | Explosion of AI Data Centers Across the US WBMA",
+        "kfoxtv.com: Take The Power Back | Explosion of AI Data Centers Across the US KFOX"
+      ],
+      "l": [
+        {
+          "d": "abcnews4.com",
+          "u": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPUHl4RDI5Z1hUZjAyc2J6ZFRFWlBaYzV1NmFHZTBBS3hHczExVmRyQmVsdU9hNU5RQkJLaU1jT3lpLU42elJxUWMtYkE0MXViYUVKRXRVVndOLUFXUHN6UWNZV1VpNmhBc1g0ZTFEMktwS1dvOVhtOEdwdWZiZ2I4QzZGb1pqb1BDSks5ZlM4RUxuTlZCd0l1M0ljNHREeGc5Q2RMU1loNnZGdmdXcjBaSlY3NElrMXYwaXluWkVzdVRvNVF3eUtPc25xRTJMckIyVFYwTVFNUG5ORkNEaUJqSUJkX1RpeURocDk5MlJqcjZncmVzdENYaUxyQW04UDNZMmVmV1ZnaTZyY2l4aVZlMVM1VFFSYnpacTNscENFTUdybllPRVg0UXRZSGF2OHBLUFM3MHZubTU4cmhuNG5zaWxQdHczaHJ1Y0JpdnVpd3NhNXk2YWR6SGxNYmpJQ0U0SXZXX0lQREdwMDFrZlZCai1LU0g5bUNjcG9MV0VR?oc=5"
+        },
+        {
+          "d": "krcrtv.com",
+          "u": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOWUo4YzQyWDQwZHNxZUpfUXlFN3prdU9yQ3E1bGM0RWZxbFM3cEhoVDlDY2NiemxLZkExeEt1eGd3Zi1ISHZsbVhXU1VMaFpQMHZOT2lmblpBdm0yV1hGeXE1b0NZczhyM0ZWdU1qSjBwdURqTFUzM1drYk45Y0xEVVdrei1sRklqenFCanBxdVRLYmVtQ2JlWVdOTjQ2ZTV1am1lLXlobHhxajlVbmNvVURKeUQwMFM0MVdVRzk3Y0JfcjNZTkNzWVIxUThWTHZIZXk3YjMwWl9EckY4RXMwcWtjREVOdmRwNk5WeVpoODAwdE1oWWNZSTA0cHpzMnJBb1RDRU1qWGRGRUREbWpWOGpxMVFkb2dNMmhoVUwwM3h6MkFkNnJXeXlmUjBzTzJwZC1ZRUNzWlRYcjNqYV94RWRNckUyM1pjU0lFVU5HSVpOcUpPRHNfZk1PcThuUQ?oc=5"
+        },
+        {
+          "d": "abc3340.com",
+          "u": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxNNFRfQloxUnlfaHlHMmJzR1dRcEZlekRRUk9GajN3Z2lmRW5xVGlPRWNMT0syOU1KWkhuYWZwc2tnZWx5Ti0zUkdjUGRrZzF3MTRzdDZzZV9SU1dSdFNtYWFkQURHQW9lZjhRbEVidDN0WWhHbm44ajI5YVRtcmtqbHl1eF9XUThjZDhiTmstTmlrajBNNFpZcWRCM1RzdmZwZXJZekpzaGNNRDlrVU1hZ0Z6c1FTcGU3UHd2M1hHeFhyRWd3ZzJ3clMtaHVSVG9pZTlpeXVnbmRlUHlNQ2tsZDdlNW5LOTBNbWJKemtnSzVqNVZmVnhwdklhX0c4b2VFNnF0TFM5c1NXU01kQWpEcjB5UVhwb3JqUFlEVU1WOUxMZWxXNGs2d200aDQtR2FmNVBzRVlydGZDQ2x0RTlqelZUTmlSMjlNSjI0OXprTk82MzVfZzZua3h5UDJrS0k?oc=5"
+        },
+        {
+          "d": "kfoxtv.com",
+          "u": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNUElKejJvb0NWa19NNERXTVdXQVRVanpuWFVnXzNMcm5lSk9wZ2doYXNueGV1NG9YV2FTbExSWXI0SHMzRmpfTEE4YzNxazBEdVlpVy1FZU9JTkMwbzgzZzlxQVo0UWg4LWt5dW9Fbm5hY2lwZXAyWlNUbFhjSi1VdjVMdnBpOEJ4dVB4cUhnS3pxOTFhZ1owa3FnMTV4NXVTTDVUTE5adUxVVUZlMUpkVU9Td2R5U3N5MUZiTnZoZDFQVU5tZ2U4VnVBSTBEWk9MM1dlNEJTcW5weGpKdHJBSXBoamszVHN2T1o5SFhTTW1YZEdhQUoyN2RmbUFYU1BOYlp5VjBVb29vQU5RWnJaOFNuNFNkX0YxR3pSaDVMcGZ2VmlBUlROLXZ3RklMMWNsTGRmbGVGVDViLTdDS3FuS2RDSzVtUkNybWNUVU9iSVVIenNzMEJRc2h5dmFRTjZNWVRzQldORmpHTU1PRjRVNDBRNGlyRmhFbjd3?oc=5"
+        },
+        {
+          "d": "+2"
+        }
+      ],
+      "srcTitles": [
+        "Take The Power Back | Explosion of AI Data Centers Across the US",
+        "Take The Power Back | Explosion of AI Data Centers Across the US",
+        "Take The Power Back | Explosion of AI Data Centers Across the US",
+        "Take The Power Back | Explosion of AI Data Centers Across the US"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 37,
+      "sources": 3,
+      "ts": "2026-10-01T03:52:55.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "In a Q&A, Trump discusses Dario Amodei's views as differing much from \"what is portrayed in the media\", meetings with AI leaders, \"Super Intelligence\", and more (Time)",
+      "s": "Time : In a Q A, Trump discusses Dario Amodei's views as differing much from what is portrayed in the media , meetings with AI leaders, Super Intelligence , and more President Donald Trump sat down fo",
+      "b": [
+        "techmeme.com: In a Q&A, Trump discusses Dario Amodei's views as differing much from \"what is portrayed in the media\", meetings with AI leaders, \"Super Intelligence\", and more (Time)",
+        "forbes.com: Newsom Rejects Trump’s ‘Super Intelligence’ Rebrand—Signs Order To Keep Calling It AI",
+        "nymag.com: ‘Super Intelligence,’ Trump’s Dopey AI Rebrand, Explained"
+      ],
+      "body": [
+        "techmeme.com: Time : In a Q A, Trump discusses Dario Amodei's views as differing much from what is portrayed in the media , meetings with AI leaders, Super Intelligence , and more President Donald Trump sat down for an interview with TIME at the White House on Sept. 28.",
+        "forbes.com: Newsom Rejects Trump’s ‘Super Intelligence’ Rebrand—Signs Order To Keep Calling It AI Forbes",
+        "nymag.com: ‘Super Intelligence,’ Trump’s Dopey AI Rebrand, Explained nymag.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261001/p24#a261001p24"
+        },
+        {
+          "d": "forbes.com",
+          "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObk5OSWNsN24yWGRXS0thckdMeHpyOTZGQjl2cmtUNVZ4MU02LW9WcTFIczZMNk1TMzhtdllnQVU3ak1OYlNqdDc5U1FGVzd2dTNBVzQ0cUVIM01jeVhQRjlDOFZxSU5ZT2VNT2dMZGQtSkV2enRYaWRhX1dDRzU0N2lGQlVGWW15QUh2ZVJoWHhMcFpZdlpSOWFVX1duY3lRQ1dWVS1RM09Zd09NZDJpVndHRDFRRkpVZXYwaVE1N0tIbTRRSFlrRFhlWWNNMmExOEE?oc=5"
+        },
+        {
+          "d": "nymag.com",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQXN1QXpKWDAtZE9JVjFJT2VMUGhlVk4tODJRV2lfaHpaYzd6czc1SUIxLVZhTEdhcVQySHRZZmdjczZYR1RYeVc5NTVjZlY4LXZsd3Z2blpEZjd6aEh4bXV6cXI1Q05oRE92bGdpbXJyVTZuQ1VHWmRPRDVkTW1RLUtGaTlrWEZnUFZQdHI3Ukt3M1gx?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "In a Q&A, Trump discusses Dario Amodei's views as differing much from \"what is portrayed in the media\", meetings with AI leaders, \"Super Intelligence\", and more (Time)",
+        "Newsom Rejects Trump’s ‘Super Intelligence’ Rebrand—Signs Order To Keep Calling It AI",
+        "‘Super Intelligence,’ Trump’s Dopey AI Rebrand, Explained"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-01T17:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The eternal complement",
+      "s": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+      "b": [
+        "openai.com: The eternal complement"
+      ],
+      "body": [
+        "openai.com: Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/the-eternal-complement"
+        }
+      ],
+      "srcTitles": [
+        "The eternal complement"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-01T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How Albertsons Companies is reimagining retail from the inside out",
+      "s": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "b": [
+        "openai.com: How Albertsons Companies is reimagining retail from the inside out"
+      ],
+      "body": [
+        "openai.com: Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/albertsons-reimagining-retail"
+        }
+      ],
+      "srcTitles": [
+        "How Albertsons Companies is reimagining retail from the inside out"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-01T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI Questions Answered by an Expert",
+      "s": "AI Questions Answered by an Expert Council on Foreign Relations (CFR)",
+      "b": [
+        "cfr.org: AI Questions Answered by an Expert",
+        "arxiv.org: Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions"
+      ],
+      "body": [
+        "cfr.org: AI Questions Answered by an Expert Council on Foreign Relations (CFR)",
+        "arxiv.org: arXiv:2608.13786v2 Announce Type: replace-cross Abstract: Large language model (LLM) chatbots are increasingly used to answer clinical questions with citations to relevant studies, yet the quality of retrieved evidence and factors influencing study selection remain unclear. We evaluated three general-purpose LLM chatbots (Claude Sonnet 5, Gemini 3.1 Pro, and ChatGPT GPT-5.5) using 20 clinical questions adapted from 2026 Cochrane reviews. We simulated patient, clinician, and evidence-synthesis researcher roles and obtained four independent responses for each chatbot-role-question combination, yielding 720 responses (3 chatbots $\\times$ 3 user roles $\\times$ 4 repetitions $\\times$ 20 review questions). Chatbots were asked to support their answers with primary clinical citations, which were benchmarked against the included and excluded study sets of the corresponding Cochrane reviews. On average, a single response retrieved 39.2% $\\pm$ 29.8% of the corresponding Cochrane included-study set and 5.0% $\\pm$ 9.4% of the excluded-study set. Recall of included studies varied significantly by model and user role. ChatGPT achieved higher recall than Claude or Gemini (63.1% $\\pm$ 29.5% vs. 37.0% $\\pm$ 23.8% vs. 17.3% $\\pm$ 13.1%; blocked permutation test, $p=2.0\\times10^{-5}$), and the researcher role yielded higher recall than the clinician or patient roles (42.8% $\\pm$ 30.8% vs. 38.6% $\\pm$ 28.9% vs. 36.1% $\\pm$ 29.3%; $p=2.0\\times10^{-5}$). Controlling for publication year, citations per year, and open-access status, sample size was the only significant predictor of retrieval: each doubling of sample size was associated with 50% higher odds of retrieval (odds ratio 1.50, 95% CI 1.24-1.81). These findings show that LLM chatbots can retrieve studies identified by expert reviewers, but retrieval varies substantially across models and user roles and favors larger clinical trials."
+      ],
+      "l": [
+        {
+          "d": "cfr.org",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTllyaUlQdDJZSGx2eVNsZ21qREQ1X1UzRktRN3RscTJwY01wZ0R4SDBiTGY2REpKekE5LWJ2cENnc1h3Sjl6YzFPeFV0Sk1uSDFnRVNISnluVFltcG5nSXBWeG01NGhGQ0o2UVlrVVNneVhDRXNVOXZvUkJwQW1kMlkzTGI4S3FCdkFiM2NZUE1GTDg?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.13786"
+        }
+      ],
+      "srcTitles": [
+        "AI Questions Answered by an Expert",
+        "Do AI chatbots find what experts would? Effects of model, user role, and sample size on study retrieval for medical questions"
       ]
     }
   ]
