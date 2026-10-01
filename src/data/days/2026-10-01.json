@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 52,
-      "sources": 3,
+      "signal": 48,
+      "sources": 2,
       "ts": "2026-10-01T04:00:00.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -27,19 +27,15 @@
           "u": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQamJiRzhxNk1lWVA3ZHp2NWRULUcwd2hvSm02TGpiN21hLXdEcmFWcy1JV1Z2Qm5Zc21fMmk0SF9Qd1RDRUpZN1VoSDR6SG81eWIzdnFPTXJTNXVialZrNWJWcnNqbzVDY1JTZ1RrUlZDbk1qWndjMmZRQ0RaU3VKd0dHZlZoMnNuNDB3STAxSlgyRUdPVVFnSnBfUk9selVMSDBIVmZZSUZYTUJXZi01S01yNzFPS1U2RkJSbE9EZUlrdFFMcTFKckJZeHhNTkdMTkIyMEFHZU5ydndzbkk3ODdENWl0M2dUM0dNR1QtMVhFdXBKQjFlWGxxcDZHbUlWOXg5X1JCVXRLdzBVbFVOR3VCTHk3d1hVbC1IS1VJNHowcm9BcUVUaHJFeUlvTmpSLWhiMHBxVUFVTmduM29CR1lYbm0?oc=5"
         },
         {
-          "d": "thehackernews.com",
-          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTEFkWkI1SGgyZWZGMGlJOGlzNlZKdWhaeGkzQTZxNWFiX1daZm5VeDlIeWMta2NEUFhpcDFJeHU4WVNIdVZWTnp6WndueDVrOW8ydEdPcU95LUJNUHhCWFB1dkx3bWloc0dfZDN4MWY2WnZxNmczTjhONXVmcDZKMg?oc=5"
-        },
-        {
           "d": "arxiv.org",
           "u": "https://arxiv.org/abs/2506.21734"
         }
       ],
       "srcTitles": [
         "OpenAI says actors linked to China-based Moonshot AI spearheaded a campaign to extract its models’ hidden reasoning — logged 16,000 extraction requests across 4,000 accounts before cutoff",
-        "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
         "Hierarchical Reasoning Model",
-        "Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models"
+        "Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models",
+        "LSR-Ben: A Logical and Scientific Reasoning Benchmark for Evaluating Process Reward Models"
       ]
     }
   ]
