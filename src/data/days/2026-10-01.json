@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 61,
-      "sources": 2,
+      "signal": 70,
+      "sources": 3,
       "ts": "2026-10-01T17:12:21.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -24,18 +24,102 @@
           "u": "https://www.theverge.com/tech/1003589/google-ai-overviews-chegg-penske-lawsuits-dismissed"
         },
         {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/"
+        },
+        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/261001/p33#a261001p33"
         }
       ],
       "srcTitles": [
         "Judge dismisses antitrust lawsuits over Google’s AI Overviews",
+        "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
         "A US judge dismisses Chegg and Penske lawsuits alleging Google violated antitrust law by forcing them to allow content in AI Overviews, reducing web traffic (Mike Scarcella/Reuters)"
       ]
     },
     {
+      "cat": "models",
+      "signal": 55,
+      "sources": 35,
+      "ts": "2026-10-01T03:52:55.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "In a Q&A, Trump discusses Dario Amodei's views as differing much from \"what is portrayed in the media\", meetings with AI leaders, \"Super Intelligence\", and more (Time)",
+      "s": "Time : In a Q A, Trump discusses Dario Amodei's views as differing much from what is portrayed in the media , meetings with AI leaders, Super Intelligence , and more President Donald Trump sat down fo",
+      "b": [
+        "techmeme.com: In a Q&A, Trump discusses Dario Amodei's views as differing much from \"what is portrayed in the media\", meetings with AI leaders, \"Super Intelligence\", and more (Time)",
+        "forbes.com: Newsom Rejects Trump’s ‘Super Intelligence’ Rebrand—Signs Order To Keep Calling It AI",
+        "nymag.com: ‘Super Intelligence,’ Trump’s Dopey AI Rebrand, Explained"
+      ],
+      "body": [
+        "techmeme.com: Time : In a Q A, Trump discusses Dario Amodei's views as differing much from what is portrayed in the media , meetings with AI leaders, Super Intelligence , and more President Donald Trump sat down for an interview with TIME at the White House on Sept. 28.",
+        "forbes.com: Newsom Rejects Trump’s ‘Super Intelligence’ Rebrand—Signs Order To Keep Calling It AI Forbes",
+        "nymag.com: ‘Super Intelligence,’ Trump’s Dopey AI Rebrand, Explained nymag.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261001/p24#a261001p24"
+        },
+        {
+          "d": "forbes.com",
+          "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObk5OSWNsN24yWGRXS0thckdMeHpyOTZGQjl2cmtUNVZ4MU02LW9WcTFIczZMNk1TMzhtdllnQVU3ak1OYlNqdDc5U1FGVzd2dTNBVzQ0cUVIM01jeVhQRjlDOFZxSU5ZT2VNT2dMZGQtSkV2enRYaWRhX1dDRzU0N2lGQlVGWW15QUh2ZVJoWHhMcFpZdlpSOWFVX1duY3lRQ1dWVS1RM09Zd09NZDJpVndHRDFRRkpVZXYwaVE1N0tIbTRRSFlrRFhlWWNNMmExOEE?oc=5"
+        },
+        {
+          "d": "washingtonexaminer.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMmpUdUtUSE9Bb3JSMDU4STdUb21sU3lmYl9NcFU0NmJ2d0hCbHlWQ1c1SFJrSUc1aXNtMXpKX3ozUzFSWWtPVWpjanVXeHpoU3VLbnFDNlJLV3hubDZJUTFFN0I2b1otWVVlOS1MeXZrVXlCWlk2Smp6amFNbXItMGR1dGRxVkNIc09mOHFfdnFDak1iT2NFU2R0cXAzX0tweldHMlBWNmdDTE51bl8xekdZSzVvUzh0VldF?oc=5"
+        },
+        {
+          "d": "nymag.com",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQXN1QXpKWDAtZE9JVjFJT2VMUGhlVk4tODJRV2lfaHpaYzd6czc1SUIxLVZhTEdhcVQySHRZZmdjczZYR1RYeVc5NTVjZlY4LXZsd3Z2blpEZjd6aEh4bXV6cXI1Q05oRE92bGdpbXJyVTZuQ1VHWmRPRDVkTW1RLUtGaTlrWEZnUFZQdHI3Ukt3M1gx?oc=5"
+        },
+        {
+          "d": "+31"
+        }
+      ],
+      "srcTitles": [
+        "In a Q&A, Trump discusses Dario Amodei's views as differing much from \"what is portrayed in the media\", meetings with AI leaders, \"Super Intelligence\", and more (Time)",
+        "Newsom Rejects Trump’s ‘Super Intelligence’ Rebrand—Signs Order To Keep Calling It AI",
+        "Newsom signs order to keep artificial intelligence terminology",
+        "‘Super Intelligence,’ Trump’s Dopey AI Rebrand, Explained"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-10-01T19:08:08.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+      "s": "This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
+      "b": [
+        "wired.com: Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+        "news.asu.edu: The rise of AI suspicion"
+      ],
+      "body": [
+        "wired.com: This week on “Uncanny Valley,” we discuss the voluntary AI safety agreement tech executives signed, AI agents for normies, and extremist candidates running for office in the US midterms.",
+        "news.asu.edu: The rise of AI suspicion ASU News"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/uncanny-valley-podcast-trumps-pinky-swear-ai-safety-accord-an-ai-agent-worth-the-risk/"
+        },
+        {
+          "d": "news.asu.edu",
+          "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hckxYeFNMRXUwSnhkWTBSdjVvMHczVTNfWXkybllxaDd3NTFJcVpXSjAwU2U0RnJ4SHJtQ1RHUi0wMlVCX0VxQUFXdEM3Vm9UQlg2VHdNOGZ5UjFQYW1KWkd3Y1c3YnA1Rk4tTEdxV0dldm9CLV8tUk1R?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump’s ‘Morally Binding’ AI ‘Accord,’ the Rise of AI Agents, and Extremists on the Ballot",
+        "The rise of AI suspicion"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-10-01T04:00:00.000Z",
       "writtenSources": 3,
@@ -72,7 +156,7 @@
     },
     {
       "cat": "models",
-      "signal": 39,
+      "signal": 35,
       "sources": 6,
       "ts": "2026-10-01T17:02:21.000Z",
       "writtenSources": 6,
@@ -120,41 +204,34 @@
     },
     {
       "cat": "models",
-      "signal": 37,
-      "sources": 3,
-      "ts": "2026-10-01T03:52:55.000Z",
-      "writtenSources": 3,
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-10-01T19:33:00.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "In a Q&A, Trump discusses Dario Amodei's views as differing much from \"what is portrayed in the media\", meetings with AI leaders, \"Super Intelligence\", and more (Time)",
-      "s": "Time : In a Q A, Trump discusses Dario Amodei's views as differing much from what is portrayed in the media , meetings with AI leaders, Super Intelligence , and more President Donald Trump sat down fo",
+      "h": "Wes Moore forms bipartisan governors group on AI, citing federal inaction",
+      "s": "Wes Moore forms bipartisan governors group on AI, citing federal inaction 10tv.com",
       "b": [
-        "techmeme.com: In a Q&A, Trump discusses Dario Amodei's views as differing much from \"what is portrayed in the media\", meetings with AI leaders, \"Super Intelligence\", and more (Time)",
-        "forbes.com: Newsom Rejects Trump’s ‘Super Intelligence’ Rebrand—Signs Order To Keep Calling It AI",
-        "nymag.com: ‘Super Intelligence,’ Trump’s Dopey AI Rebrand, Explained"
+        "10tv.com: Wes Moore forms bipartisan governors group on AI, citing federal inaction",
+        "clickorlando.com: Wes Moore forms bipartisan governors group on AI, citing federal inaction"
       ],
       "body": [
-        "techmeme.com: Time : In a Q A, Trump discusses Dario Amodei's views as differing much from what is portrayed in the media , meetings with AI leaders, Super Intelligence , and more President Donald Trump sat down for an interview with TIME at the White House on Sept. 28.",
-        "forbes.com: Newsom Rejects Trump’s ‘Super Intelligence’ Rebrand—Signs Order To Keep Calling It AI Forbes",
-        "nymag.com: ‘Super Intelligence,’ Trump’s Dopey AI Rebrand, Explained nymag.com"
+        "10tv.com: Wes Moore forms bipartisan governors group on AI, citing federal inaction 10tv.com",
+        "clickorlando.com: Wes Moore forms bipartisan governors group on AI, citing federal inaction WKMG"
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261001/p24#a261001p24"
+          "d": "10tv.com",
+          "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOSU1HSTJOdVRpZ2VtNkhvaFlQbmxiczRKYkpaSUZra3E4MDZUWDhZOUZweTFqOFEzY3czLXJxZDR1c0xMd2lsTllGSU9Bb1BQTV9DNU10bWRIaHhHVTV0Q19uWTB4TzdjdGZad3NjVmV1WlNxQW02TjE4bno0SklfM3ppTHBWYk5hckNXTTRkUmNFaVFnMkpRYW1JZXV6NnZaWm1ramk2SHVQMWItSXI1S1QydU8zLU5xMXhjYVpJdmc2WGNlemVQYWhUUFZKVFFBNmJEclkzbkJ5TEN1eDJ5dDdKTVNxOE90Vno1TmZHS0pzRjUtd0VoQ1JGX1p1eDQ?oc=5"
         },
         {
-          "d": "forbes.com",
-          "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObk5OSWNsN24yWGRXS0thckdMeHpyOTZGQjl2cmtUNVZ4MU02LW9WcTFIczZMNk1TMzhtdllnQVU3ak1OYlNqdDc5U1FGVzd2dTNBVzQ0cUVIM01jeVhQRjlDOFZxSU5ZT2VNT2dMZGQtSkV2enRYaWRhX1dDRzU0N2lGQlVGWW15QUh2ZVJoWHhMcFpZdlpSOWFVX1duY3lRQ1dWVS1RM09Zd09NZDJpVndHRDFRRkpVZXYwaVE1N0tIbTRRSFlrRFhlWWNNMmExOEE?oc=5"
-        },
-        {
-          "d": "nymag.com",
-          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQXN1QXpKWDAtZE9JVjFJT2VMUGhlVk4tODJRV2lfaHpaYzd6czc1SUIxLVZhTEdhcVQySHRZZmdjczZYR1RYeVc5NTVjZlY4LXZsd3Z2blpEZjd6aEh4bXV6cXI1Q05oRE92bGdpbXJyVTZuQ1VHWmRPRDVkTW1RLUtGaTlrWEZnUFZQdHI3Ukt3M1gx?oc=5"
+          "d": "clickorlando.com",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWElkWDN2ZkwxZ0FqYy1mcE5KeVFDOXZxSXV6Tkt1TzI3U1owbDRpalctUWR1WklXSFBjQmhyNUdQWGhoWjJoMHhfYkF6Vlp2aWpHZkVMbkI5alo0NzR2VUxaaU85Z21KUEphZTdtSFY5S0llRy1ibFM0dkZjbk42UFBhQXdqYUJLN0ZFWndWU0tYQllQQ010eGJMQXFyOG1YNE12RmNXZ1JNODY2ZUcyVk5GV05TZ2VxbXM2OFQ0OEQ4Y2pac2c?oc=5"
         }
       ],
       "srcTitles": [
-        "In a Q&A, Trump discusses Dario Amodei's views as differing much from \"what is portrayed in the media\", meetings with AI leaders, \"Super Intelligence\", and more (Time)",
-        "Newsom Rejects Trump’s ‘Super Intelligence’ Rebrand—Signs Order To Keep Calling It AI",
-        "‘Super Intelligence,’ Trump’s Dopey AI Rebrand, Explained"
+        "Wes Moore forms bipartisan governors group on AI, citing federal inaction",
+        "Wes Moore forms bipartisan governors group on AI, citing federal inaction"
       ]
     },
     {
@@ -209,7 +286,7 @@
     },
     {
       "cat": "research",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-10-01T04:00:00.000Z",
       "writtenSources": 2,
