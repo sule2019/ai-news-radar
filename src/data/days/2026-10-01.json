@@ -1,4 +1,46 @@
 {
   "date": "2026-10-01",
-  "stories": []
+  "stories": [
+    {
+      "cat": "policy",
+      "signal": 52,
+      "sources": 3,
+      "ts": "2026-10-01T04:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "OpenAI says actors linked to China-based Moonshot AI spearheaded a campaign to extract its models’ hidden reasoning — logged 16,000 extraction requests across 4,000 accounts before cutoff",
+      "s": "OpenAI says actors linked to China-based Moonshot AI spearheaded a campaign to extract its models’ hidden reasoning — logged 16,000 extraction requests across 4,000 accounts before cutoff Tom's Hardwa",
+      "b": [
+        "tomshardware.com: OpenAI says actors linked to China-based Moonshot AI spearheaded a campaign to extract its models’ hidden reasoning — logged 16,000 extraction requests across 4,000 accounts before cutoff",
+        "thehackernews.com: OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+        "arxiv.org: Hierarchical Reasoning Model"
+      ],
+      "body": [
+        "tomshardware.com: OpenAI says actors linked to China-based Moonshot AI spearheaded a campaign to extract its models’ hidden reasoning — logged 16,000 extraction requests across 4,000 accounts before cutoff Tom's Hardware",
+        "thehackernews.com: OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates The Hacker News",
+        "arxiv.org: arXiv:2506.21734v4 Announce Type: replace Abstract: Reasoning, the process of devising and executing complex goal-oriented action sequences, remains a critical challenge in AI. Current large language models (LLMs) primarily employ Chain-of-Thought (CoT) techniques, which suffer from brittle task decomposition, extensive data requirements, and high latency. Inspired by the hierarchical and multi-timescale processing in the human brain, we propose the Hierarchical Reasoning Model (HRM), a novel recurrent architecture that attains significant computational depth while maintaining both training stability and efficiency. HRM executes sequential reasoning tasks in a single forward pass without explicit supervision of the intermediate process, through two interdependent recurrent modules: a high-level module responsible for slow, abstract planning, and a low-level module handling rapid, detailed computations. With only 27 million parameters, HRM achieves exceptional performance on complex reasoning tasks using only 1000 training samples. The model operates without pre-training or CoT data, yet achieves nearly perfect performance on challenging tasks including complex Sudoku puzzles and optimal path finding in large mazes. Furthermore, HRM outperforms much larger models with significantly longer context windows on the Abstraction and Reasoning Corpus (ARC), a key benchmark for measuring artificial general intelligence capabilities. These results underscore HRM's potential as a transformative advancement toward universal computation and general-purpose reasoning systems.",
+        "arxiv.org: arXiv:2512.00729v2 Announce Type: replace Abstract: Motivated by the observed human-like behaviours in Large Reasoning Models (LRMs), this paper introduces a comprehensive taxonomy to characterise atomic reasoning steps and analyse the reasoning behaviours of LRMs. Grounded in human cognitive processes, we propose a taxonomy comprising five groups and seventeen categories. Through this taxonomy, we conduct an in-depth analysis of contemporary LRMs and distil four actionable takeaways for model optimisation. Most notably, we reveal that prevailing post-answer ``doublechecks'' are largely superficial and rarely yield substantive revisions. A targeted intervention further shows that explicitly eliciting richer reflection processes can substantially improve failed self-correction. To support this largescale study, we propose CAPO, an automated annotation method used to construct a dataset of 277,534 reasoning steps with strong agreement with human expert annotations. We further validate the main behavioural patterns on a newer reasoning model and a coding domain, demonstrating the broader applicability of the proposed taxonomy. All source code and data are available at https://github.com/hehepig4/psyche."
+      ],
+      "l": [
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMixAJBVV95cUxQamJiRzhxNk1lWVA3ZHp2NWRULUcwd2hvSm02TGpiN21hLXdEcmFWcy1JV1Z2Qm5Zc21fMmk0SF9Qd1RDRUpZN1VoSDR6SG81eWIzdnFPTXJTNXVialZrNWJWcnNqbzVDY1JTZ1RrUlZDbk1qWndjMmZRQ0RaU3VKd0dHZlZoMnNuNDB3STAxSlgyRUdPVVFnSnBfUk9selVMSDBIVmZZSUZYTUJXZi01S01yNzFPS1U2RkJSbE9EZUlrdFFMcTFKckJZeHhNTkdMTkIyMEFHZU5ydndzbkk3ODdENWl0M2dUM0dNR1QtMVhFdXBKQjFlWGxxcDZHbUlWOXg5X1JCVXRLdzBVbFVOR3VCTHk3d1hVbC1IS1VJNHowcm9BcUVUaHJFeUlvTmpSLWhiMHBxVUFVTmduM29CR1lYbm0?oc=5"
+        },
+        {
+          "d": "thehackernews.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTEFkWkI1SGgyZWZGMGlJOGlzNlZKdWhaeGkzQTZxNWFiX1daZm5VeDlIeWMta2NEUFhpcDFJeHU4WVNIdVZWTnp6WndueDVrOW8ydEdPcU95LUJNUHhCWFB1dkx3bWloc0dfZDN4MWY2WnZxNmczTjhONXVmcDZKMg?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2506.21734"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI says actors linked to China-based Moonshot AI spearheaded a campaign to extract its models’ hidden reasoning — logged 16,000 extraction requests across 4,000 accounts before cutoff",
+        "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
+        "Hierarchical Reasoning Model",
+        "Superficial Reflection or Genuine Thought? A Fine-Grained Cognitive Analysis of Large Reasoning Models"
+      ]
+    }
+  ]
 }
