@@ -1,4 +1,37 @@
 {
   "date": "2026-10-02",
-  "stories": []
+  "stories": [
+    {
+      "cat": "research",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-10-02T00:47:10.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024 (Kat Boboris/arXiv)",
+      "s": "Kat Boboris / arXiv : ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024 arXiv, and the sc",
+      "b": [
+        "techmeme.com: ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024 (Kat Boboris/arXiv)",
+        "reddit.com: arXiv now limits submitters to up to two submissions per calendar month [N]"
+      ],
+      "body": [
+        "techmeme.com: Kat Boboris / arXiv : ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024 arXiv, and the scientific community at large, are facing a watershed moment. Scholarly publishing is currently changing at a rapid pace",
+        "reddit.com: submitted by /u/Nunki08 [link] [comments]"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261002/p1#a261002p1"
+        },
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1wvg7yc/arxiv_now_limits_submitters_to_up_to_two/"
+        }
+      ],
+      "srcTitles": [
+        "ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024 (Kat Boboris/arXiv)",
+        "arXiv now limits submitters to up to two submissions per calendar month [N]"
+      ]
+    }
+  ]
 }
