@@ -32,6 +32,31 @@
         "ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024 (Kat Boboris/arXiv)",
         "arXiv now limits submitters to up to two submissions per calendar month [N]"
       ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-02T08:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Don’t be fooled—LLMs don’t reason",
+      "s": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five",
+      "b": [
+        "technologyreview.com: Don’t be fooled—LLMs don’t reason"
+      ],
+      "body": [
+        "technologyreview.com: On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a programming glitch. It wasn’t. AlphaGo won the game, ultimately triumphing 4-1 over Lee Sedol, one of the greatest professional Go players of all time. “I thought AlphaGo was based on probability calculation and that it was merely a machine,” Lee said afterwards . “But when I saw this move, I changed my mind. Surely, AlphaGo is creative.” When Deep Blue defeated then reigning world chess champion Garry Kasparov in 1997, it did so by looking six to eight moves ahead per player and evaluating 200 million chess positions per second, using rules hard-coded by humans. Go is a vastly more complex game. A stone’s worth depends on how distant groups and territory unfold over dozens of moves. Computing even a fraction of the possible outcomes would take a supercomputer billions of years. To win, AlphaGo had to sense who was ahead at a glance and even invent moves no human had thought to play. That is why many accounts of AlphaGo’s match against Lee portray move 37 as a flash of pure machine intuition. But that is a misunderstanding. It was actually AlphaGo’s powers of reasoning that made this creative choice—and these are powers that today’s AI lacks. If we want future AI systems to produce trustworthy results and really novel insights in fields like science and medicine, we need to equip them with genuine reasoning capabilities of this kind. AlphaGo is made up of two systems. The first, its policy network, was trained to guess what move a strong human would play. This “intuitive” part regarded move 37 as nothing special—a play that had a roughly one in 10,000 chance of being made by an expert human player. What made AlphaGo choose it was the program’s search machinery, which looked beyond immediate plausibilit"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
+        }
+      ],
+      "srcTitles": [
+        "Don’t be fooled—LLMs don’t reason"
+      ]
     }
   ]
 }
