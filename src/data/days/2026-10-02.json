@@ -2,8 +2,138 @@
   "date": "2026-10-02",
   "stories": [
     {
+      "cat": "products",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-10-02T18:11:27.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Apple says it s tightening macOS Full Disk Access controls due to new risks from AI agents",
+      "s": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history risk",
+      "b": [
+        "techcrunch.com: Apple says it s tightening macOS Full Disk Access controls due to new risks from AI agents",
+        "techmeme.com: Apple says it is adding additional controls around \"Full Disk Access\" on macOS as AI agents have increased \"the risks associated with this level of access\" (Sarah Perez/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
+        "techmeme.com: Sarah Perez / TechCrunch : Apple says it is adding additional controls around Full Disk Access on macOS as AI agents have increased the risks associated with this level of access Days after a journalist claimed that Meta's Muse app on Mac read their private messages a claim that Meta disputed"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261002/p19#a261002p19"
+        }
+      ],
+      "srcTitles": [
+        "Apple says it s tightening macOS Full Disk Access controls due to new risks from AI agents",
+        "Apple says it is adding additional controls around \"Full Disk Access\" on macOS as AI agents have increased \"the risks associated with this level of access\" (Sarah Perez/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-10-02T16:15:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "A model guide for the GPT-6 family",
+      "s": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
+      "b": [
+        "openai.com: A model guide for the GPT-6 family"
+      ],
+      "body": [
+        "openai.com: Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/practical-guide-building-gpt-6"
+        }
+      ],
+      "srcTitles": [
+        "A model guide for the GPT-6 family"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-02T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Chatham scales its capital markets expertise with OpenAI",
+      "s": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
+      "b": [
+        "openai.com: Chatham scales its capital markets expertise with OpenAI"
+      ],
+      "body": [
+        "openai.com: Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/chatham-financial"
+        }
+      ],
+      "srcTitles": [
+        "Chatham scales its capital markets expertise with OpenAI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 44,
+      "sources": 5,
+      "ts": "2026-10-02T15:05:00.000Z",
+      "writtenSources": 5,
+      "draft": true,
+      "h": "Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI \"super intelligence\" (Laura Cress/BBC)",
+      "s": "Laura Cress / BBC : Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI super intelligence Donald Trump's push to rename A",
+      "b": [
+        "techmeme.com: Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI \"super intelligence\" (Laura Cress/BBC)",
+        "washingtonpost.com: Trump expected to name intelligence chief Jay Clayton as new AI czar",
+        "aljazeera.com: Trump to name intelligence chief Clayton as AI tsar: Reports"
+      ],
+      "body": [
+        "techmeme.com: Laura Cress / BBC : Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI super intelligence Donald Trump's push to rename AI may be behind an unprecedented rise in registrations for domain names in Slovenia, according to its official national registry.",
+        "washingtonpost.com: Trump expected to name intelligence chief Jay Clayton as new AI czar The Washington Post",
+        "aljazeera.com: Trump to name intelligence chief Clayton as AI tsar: Reports Al Jazeera",
+        "axios.com: Trump expected to tap DNI Jay Clayton for AI czar Axios"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261002/p14#a261002p14"
+        },
+        {
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHVmTy1fekRMMGxhQzBCRk1kY3BtVzA2QXg2Vk9SUG5oZVE4bTJYNXFDcllzdlJ2NDE2bWJqUTBYbW8tT3V6WmFGdWtuRjZqYTZyUzh3SWRBbU1BcW1VU0lLbzUybkJLbnQyb1FYNVc2LThXT2tQMFU3dWkyUVhIU2ZwaTJCWUNfaVhhX3RvczdwYnc0VE8tdUkxZ0tEaUNYSzZGcmZrYk5qbmZEUlVlTG5xcW50em8?oc=5"
+        },
+        {
+          "d": "aljazeera.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTRMMVlNYmFsS1RoSmVRejZ3a3E1MGp3VVBTT0dndmVQdVdiVkU5clplNUNWLU5UOWlHeWRqcUZ2WlVZYmlPbHZQaEhxbk1BSlVqMEZZSEdyOVpCYUp5U0NLU2pqSUpFTmJDMUh5Vk9USURGZzZQZzBJcllod1M5b28yNzFDZ25mVFBYaTIzNEpIenNjQ3o1atIBngFBVV95cUxOT1R1VnJxQ0VDSU41TlpEOEJ3dWhEc0hZT0tZWDFnNTRtTFhEdl91U05Idy1hc1czajdPOElUUnAwd2poTGgxR1poMDdLRUgtNUFJQlB1cC0tNWg5a3R6d1dSenZQNG0yTzQya09Bb3c1WDVuZU8yTk9PVU1oaFlqZVZlUXVZcENuM0pZSkQzUllWQ3N3XzlzeXZtbXJxdw?oc=5"
+        },
+        {
+          "d": "axios.com",
+          "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9adzBNQm9UZXllb08wWURqVzhua0V2b3pIekoxMEFxNXFfbExnTldUcmlnSFRiTllKWTRtc1FVcjRUX3A3RjUwSXpyVG5wQTItYWlyZ243U0VNd3loVkZLbmp5SEVWSW9nU2xpRHhXNHJZZVYz?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI \"super intelligence\" (Laura Cress/BBC)",
+        "Trump expected to name intelligence chief Jay Clayton as new AI czar",
+        "Trump to name intelligence chief Clayton as AI tsar: Reports",
+        "Trump expected to tap DNI Jay Clayton for AI czar"
+      ]
+    },
+    {
       "cat": "research",
-      "signal": 34,
+      "signal": 30,
       "sources": 2,
       "ts": "2026-10-02T00:47:10.000Z",
       "writtenSources": 2,
@@ -31,6 +161,59 @@
       "srcTitles": [
         "ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024 (Kat Boboris/arXiv)",
         "arXiv now limits submitters to up to two submissions per calendar month [N]"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-02T15:49:04.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Redefining enterprise intelligence with autonomous AI",
+      "s": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to f",
+      "b": [
+        "technologyreview.com: Redefining enterprise intelligence with autonomous AI",
+        "technologyreview.com: Redefining enterprise intelligence with autonomous AI"
+      ],
+      "body": [
+        "technologyreview.com: Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has produced fragmentation. Intelligence can accumulate in silos so that sales agents are unaware of open support tickets, for instance, or marketing systems are personalizing content without visibility into what finance already knows about a customer. Each function may perform well in isolation, but the enterprise as a whole learns little and has less information to act upon. DOWNLOAD THE REPORT The shift from AI as a tool to AI as an operating model—what we call the “agentic shift” in this report—demands something more fundamental than better models or faster infrastructure. It requires connecting people, processes, and data in real time, along with the governance and control to act on that intelligence reliably. This means rethinking both architecture and operating models simultaneously. First, rebuilding data infrastructure for accessibility rather than volume. Second, replacing fixed tech stacks with composable architectures that can evolve as models and tools change. And, lastly, resolving questions of AI sovereignty, including where intelligence runs, who controls it, and how it operates across organizational and jurisdictional boundaries. Key findings include the following: Enterprise AI’s scaling problem is structural. Process-first companies are pulling ahead. Global AI spending is rising sharply and model capabilities are advancing faster than most organizations can integrate them. Yet the majority of enterprises are still not growing revenue through AI or fundamentally rethinking how they operate. The companies generating sustained returns share a common discipline. They treat process redesign as the work that precedes mode",
+        "technologyreview.com: Redefining enterprise intelligence with autonomous AI MIT Technology Review"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/"
+        }
+      ],
+      "srcTitles": [
+        "Redefining enterprise intelligence with autonomous AI",
+        "Redefining enterprise intelligence with autonomous AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-02T15:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The latest AI news we announced in September 2026",
+      "s": "Here are Google’s latest AI updates from September 2026",
+      "b": [
+        "blog.google: The latest AI news we announced in September 2026"
+      ],
+      "body": [
+        "blog.google: Here are Google’s latest AI updates from September 2026"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/"
+        }
+      ],
+      "srcTitles": [
+        "The latest AI news we announced in September 2026"
       ]
     },
     {
