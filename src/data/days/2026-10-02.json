@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 64,
-      "sources": 2,
+      "signal": 70,
+      "sources": 3,
       "ts": "2026-10-02T18:11:27.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -24,18 +24,23 @@
           "u": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/"
         },
         {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
+        },
+        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/261002/p19#a261002p19"
         }
       ],
       "srcTitles": [
         "Apple says it s tightening macOS Full Disk Access controls due to new risks from AI agents",
+        "Apple will limit Mac disk access as AI agents ‘substantially’ increase risk",
         "Apple says it is adding additional controls around \"Full Disk Access\" on macOS as AI agents have increased \"the risks associated with this level of access\" (Sarah Perez/TechCrunch)"
       ]
     },
     {
       "cat": "models",
-      "signal": 58,
+      "signal": 54,
       "sources": 2,
       "ts": "2026-10-02T09:45:01.000Z",
       "writtenSources": 2,
@@ -67,7 +72,7 @@
     },
     {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-10-02T16:15:00.000Z",
       "writtenSources": 1,
@@ -117,8 +122,8 @@
     },
     {
       "cat": "models",
-      "signal": 44,
-      "sources": 5,
+      "signal": 37,
+      "sources": 7,
       "ts": "2026-10-02T15:05:00.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -137,35 +142,67 @@
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261002/p14#a261002p14"
-        },
-        {
-          "d": "axios.com",
-          "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9adzBNQm9UZXllb08wWURqVzhua0V2b3pIekoxMEFxNXFfbExnTldUcmlnSFRiTllKWTRtc1FVcjRUX3A3RjUwSXpyVG5wQTItYWlyZ243U0VNd3loVkZLbmp5SEVWSW9nU2xpRHhXNHJZZVYz?oc=5"
-        },
-        {
           "d": "washingtonpost.com",
           "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVHVmTy1fekRMMGxhQzBCRk1kY3BtVzA2QXg2Vk9SUG5oZVE4bTJYNXFDcllzdlJ2NDE2bWJqUTBYbW8tT3V6WmFGdWtuRjZqYTZyUzh3SWRBbU1BcW1VU0lLbzUybkJLbnQyb1FYNVc2LThXT2tQMFU3dWkyUVhIU2ZwaTJCWUNfaVhhX3RvczdwYnc0VE8tdUkxZ0tEaUNYSzZGcmZrYk5qbmZEUlVlTG5xcW50em8?oc=5"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSjZqNkowM3k3WElwUVRaWjcxWGxPR2hBaTh0dzVtQ092LUM4NHFHWDU1X21zUEZYX3NobkhFSXJmS1FZWHBEOEFCNjZMaHgxUURwWXdwd0NOZF9LQnloaUFUaXh5VzhZOW5HSkpBMzUydEktbXFqZXNQSk83aWNlcDhWVQ?oc=5"
         },
         {
           "d": "aljazeera.com",
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUTRMMVlNYmFsS1RoSmVRejZ3a3E1MGp3VVBTT0dndmVQdVdiVkU5clplNUNWLU5UOWlHeWRqcUZ2WlVZYmlPbHZQaEhxbk1BSlVqMEZZSEdyOVpCYUp5U0NLU2pqSUpFTmJDMUh5Vk9USURGZzZQZzBJcllod1M5b28yNzFDZ25mVFBYaTIzNEpIenNjQ3o1atIBngFBVV95cUxOT1R1VnJxQ0VDSU41TlpEOEJ3dWhEc0hZT0tZWDFnNTRtTFhEdl91U05Idy1hc1czajdPOElUUnAwd2poTGgxR1poMDdLRUgtNUFJQlB1cC0tNWg5a3R6d1dSenZQNG0yTzQya09Bb3c1WDVuZU8yTk9PVU1oaFlqZVZlUXVZcENuM0pZSkQzUllWQ3N3XzlzeXZtbXJxdw?oc=5"
         },
         {
-          "d": "+1"
+          "d": "abc3340.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN2hHaHZnbEowUmVqM3RXRXp6RVFyWFJGcm9zckgwNWVsekg2emU5anJyZjU4SXMwZ2d5MjN6M3Iyckg0dHdfR0FocGI5Uks3ZFNqV3YtT0t2Wk82TVJKWFlUT0FoZ2wyaWdJWFhiRVNhSnJwOWxtd1hEQ2FDd2p5eGN1ajVRZEhUajNfNGdYREJaaUp1RTB2bkRkeXZDdzJ1d2llMkhlaGRYME1iaFE?oc=5"
+        },
+        {
+          "d": "+3"
         }
       ],
       "srcTitles": [
-        "Slovenia says 44,000 domain names with the .si suffix were registered in September, up from ~2,000 in August, as Trump renamed AI \"super intelligence\" (Laura Cress/BBC)",
-        "Trump expected to tap DNI Jay Clayton for AI czar",
         "Trump expected to name intelligence chief Jay Clayton as new AI czar",
-        "Trump to name intelligence chief Clayton as AI tsar: Reports"
+        "Trump to Name Jay Clayton to Serve as A.I. Czar",
+        "Trump to name intelligence chief Jay Clayton as AI tsar: Reports",
+        "Trump to appoint Jay Clayton as AI czar: report"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-02T16:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "New Mexico AG, Lawmakers Plan 2027 Push for AI Guardrails",
+      "s": "New Mexico AG, Lawmakers Plan 2027 Push for AI Guardrails GovTech",
+      "b": [
+        "govtech.com: New Mexico AG, Lawmakers Plan 2027 Push for AI Guardrails",
+        "route-fifty.com: New Mexico attorney general and state lawmaker announce push to rein in rogue AI models"
+      ],
+      "body": [
+        "govtech.com: New Mexico AG, Lawmakers Plan 2027 Push for AI Guardrails GovTech",
+        "route-fifty.com: New Mexico attorney general and state lawmaker announce push to rein in rogue AI models Route Fifty"
+      ],
+      "l": [
+        {
+          "d": "govtech.com",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRHlJMS1xZjZiYUxxY1RYLU9IdFBGaGhDTmlyUS03QjV3cnpoUlZ3WVdpQjc3VXpCM0NyWmZJU2RpRERDd3ZjVE5lN3kydTJVazRKNzlPQV8xcldNd3dMNzdWUWJOeURaelFpc1ZVeFBYT0JlRkRNQ1JFd0hpOXFyNUg0a1ZoRlNHbzc4TXVRcXRiSUpyWWE5RnFZSVRiNEVQVUFObzV5SQ?oc=5"
+        },
+        {
+          "d": "route-fifty.com",
+          "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeGFKajJZZ0htbzFPcVBwYWVGdFc2TFBhWUNNckdESzJuWVQ2ZkVWbTJxX0Q4d25mcHpuNGJ1bDRWT0w3N2IzM2RVR1dwUUE5LVNuOS13T2k1T3BGalBUdjNUaVdjMVBDVm9EQkdBTjhIRDF1MUZKWXRZSHFETkJHWEdyUTAybTNPR0RzU2tfYXZIbE00ZlhaRkVWa1NyMzRiOG5mZWQzT0NRa0FhNS10YjhFekdheGhYVGtJTnNUb3dzbTNpY1hzUTJBM2ttN0FhSlRLNS1QTjlGQk1Lc2ZSSUEwMG1VYXRwLWlVdk5pdTRiR1B1MThkUVFmQ0tXclh6aWc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "New Mexico AG, Lawmakers Plan 2027 Push for AI Guardrails",
+        "New Mexico attorney general and state lawmaker announce push to rein in rogue AI models"
       ]
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-02T15:49:04.000Z",
       "writtenSources": 1,
@@ -193,7 +230,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-02T15:00:00.000Z",
       "writtenSources": 1,
@@ -217,8 +254,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-02T08:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Don’t be fooled—LLMs don’t reason",
+      "s": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five",
+      "b": [
+        "technologyreview.com: Don’t be fooled—LLMs don’t reason"
+      ],
+      "body": [
+        "technologyreview.com: On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a programming glitch. It wasn’t. AlphaGo won the game, ultimately triumphing 4-1 over Lee Sedol, one of the greatest professional Go players of all time. “I thought AlphaGo was based on probability calculation and that it was merely a machine,” Lee said afterwards . “But when I saw this move, I changed my mind. Surely, AlphaGo is creative.” When Deep Blue defeated then reigning world chess champion Garry Kasparov in 1997, it did so by looking six to eight moves ahead per player and evaluating 200 million chess positions per second, using rules hard-coded by humans. Go is a vastly more complex game. A stone’s worth depends on how distant groups and territory unfold over dozens of moves. Computing even a fraction of the possible outcomes would take a supercomputer billions of years. To win, AlphaGo had to sense who was ahead at a glance and even invent moves no human had thought to play. That is why many accounts of AlphaGo’s match against Lee portray move 37 as a flash of pure machine intuition. But that is a misunderstanding. It was actually AlphaGo’s powers of reasoning that made this creative choice—and these are powers that today’s AI lacks. If we want future AI systems to produce trustworthy results and really novel insights in fields like science and medicine, we need to equip them with genuine reasoning capabilities of this kind. AlphaGo is made up of two systems. The first, its policy network, was trained to guess what move a strong human would play. This “intuitive” part regarded move 37 as nothing special—a play that had a roughly one in 10,000 chance of being made by an expert human player. What made AlphaGo choose it was the program’s search machinery, which looked beyond immediate plausibilit"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
+        }
+      ],
+      "srcTitles": [
+        "Don’t be fooled—LLMs don’t reason"
+      ]
+    },
+    {
       "cat": "research",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-10-02T00:47:10.000Z",
       "writtenSources": 2,
@@ -246,31 +308,6 @@
       "srcTitles": [
         "ArXiv limits preprint submissions to two per month per submitter, as AI access fuels a record 40,363 submissions in September 2026, vs. 20,569 in September 2024 (Kat Boboris/arXiv)",
         "arXiv now limits submitters to up to two submissions per calendar month [N]"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-10-02T08:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Don’t be fooled—LLMs don’t reason",
-      "s": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five",
-      "b": [
-        "technologyreview.com: Don’t be fooled—LLMs don’t reason"
-      ],
-      "body": [
-        "technologyreview.com: On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a programming glitch. It wasn’t. AlphaGo won the game, ultimately triumphing 4-1 over Lee Sedol, one of the greatest professional Go players of all time. “I thought AlphaGo was based on probability calculation and that it was merely a machine,” Lee said afterwards . “But when I saw this move, I changed my mind. Surely, AlphaGo is creative.” When Deep Blue defeated then reigning world chess champion Garry Kasparov in 1997, it did so by looking six to eight moves ahead per player and evaluating 200 million chess positions per second, using rules hard-coded by humans. Go is a vastly more complex game. A stone’s worth depends on how distant groups and territory unfold over dozens of moves. Computing even a fraction of the possible outcomes would take a supercomputer billions of years. To win, AlphaGo had to sense who was ahead at a glance and even invent moves no human had thought to play. That is why many accounts of AlphaGo’s match against Lee portray move 37 as a flash of pure machine intuition. But that is a misunderstanding. It was actually AlphaGo’s powers of reasoning that made this creative choice—and these are powers that today’s AI lacks. If we want future AI systems to produce trustworthy results and really novel insights in fields like science and medicine, we need to equip them with genuine reasoning capabilities of this kind. AlphaGo is made up of two systems. The first, its policy network, was trained to guess what move a strong human would play. This “intuitive” part regarded move 37 as nothing special—a play that had a roughly one in 10,000 chance of being made by an expert human player. What made AlphaGo choose it was the program’s search machinery, which looked beyond immediate plausibilit"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/"
-        }
-      ],
-      "srcTitles": [
-        "Don’t be fooled—LLMs don’t reason"
       ]
     }
   ]
