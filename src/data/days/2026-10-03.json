@@ -3,6 +3,38 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-10-03T14:31:56.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "An OpenAI safety employee has quit and is sounding the alarm",
+      "s": "David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. ",
+      "b": [
+        "theverge.com: An OpenAI safety employee has quit and is sounding the alarm",
+        "reuters.com: OpenAI safety employee quits, says 'time for trial and error is over'"
+      ],
+      "body": [
+        "theverge.com: David Robinson used to write the safety reports that accompanied every major model release at OpenAI. This week, he resigned from his position and is now speaking out in an editorial in The Atlantic. It's understandable if you're feeling a bit cynical about everyone suddenly coming out of the woodwork to warn about how dangerous [ ]",
+        "reuters.com: OpenAI safety employee quits, says 'time for trial and error is over' Reuters"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPanBnbDA2SnluX0swT1ZpQ212VUNKRHh1T3d2Tmt0VDBieEtFVmh6blFFZEVCZlFLbjd4TnNYRnhacmtoSEdRTTFsbVdQN3RjRW5BTVd2NkJwdkdmcHNBa2czV3BZc19MYnJ1dkFvTkh1YXZQQkw1Zmtma2Y4Qm10RzlIUlhJS1ZSUHJnVVdTNlk1djVnNndqNXJBZ29hcEVJUmdkZTNWcklGWEF4TGtuZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "An OpenAI safety employee has quit and is sounding the alarm",
+        "OpenAI safety employee quits, says 'time for trial and error is over'"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 36,
       "sources": 2,
       "ts": "2026-10-03T11:02:25.000Z",
@@ -35,7 +67,7 @@
     },
     {
       "cat": "funding",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-10-03T16:34:02.000Z",
       "writtenSources": 2,
@@ -67,7 +99,7 @@
     },
     {
       "cat": "models",
-      "signal": 24,
+      "signal": 20,
       "sources": 2,
       "ts": "2026-10-03T12:00:00.000Z",
       "writtenSources": 2,
