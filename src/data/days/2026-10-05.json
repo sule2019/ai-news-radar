@@ -2,9 +2,93 @@
   "date": "2026-10-05",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 72,
+      "sources": 4,
+      "ts": "2026-10-05T16:21:02.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "OpenAI will start watermarking ChatGPT s text in the EU",
+      "s": "OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+      "b": [
+        "techcrunch.com: OpenAI will start watermarking ChatGPT s text in the EU",
+        "theverge.com: OpenAI is adding text watermarking in ChatGPT and Codex",
+        "techmeme.com: To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally (OpenAI)"
+      ],
+      "body": [
+        "techcrunch.com: OpenAI will watermark ChatGPT and Codex text in the EU to comply with the AI Act. Editing can make the invisible marks harder to detect, it says.",
+        "theverge.com: An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarking \"matched or exceeded\" other approaches like Google DeepMind's SynthID for text, which is also the basis for the watermarking Anthropic announced in August. Like OpenAI, Anthropic [ ]",
+        "techmeme.com: OpenAI : To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally - Starting today, API customers globally will be able to opt in to text watermarking for select models.",
+        "pymnts.com: OpenAI Rolls Out Text Watermarks to Meet EU AI Act Mandates PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261005/p24#a261005p24"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZlhjbDl4WnNwb2dWQnBPS0pnbzc3N3ZoTDBVVEtTUDJuY1lHaDZTSTlSdzNmY0JDNjZIYzQ5ejFvYWVORFZwS3FYVHpFQlZFSTk2dUMwSGlkYU9qYmdMWThCNUU3ODdPSzZuSEdQMWJvM1ItQTFvX0dnOXBiS2VaY3BMMkJ0aDVuQkJ4N1ZrcXJ0YWdWWXBqbUthNlZTX0N5S0ZOcjY3N2xGdDhobE9yd0ZxclRkY3QyRWJKYUN2R2kzZWFW?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI will start watermarking ChatGPT s text in the EU",
+        "OpenAI is adding text watermarking in ChatGPT and Codex",
+        "To comply with the EU AI Act, OpenAI plans to add text watermarking for ChatGPT and Codex users in the EU and an opt-in setting for API customers globally (OpenAI)",
+        "OpenAI Rolls Out Text Watermarks to Meet EU AI Act Mandates"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 58,
-      "sources": 2,
+      "signal": 68,
+      "sources": 3,
+      "ts": "2026-10-05T19:25:01.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "s": "Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI syste",
+      "b": [
+        "techcrunch.com: Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+        "techmeme.com: NY-based Reflection unveils Beam, an open model it says rivals GLM 5.2 on reasoning, while using 3x-4x less compute, and Qwen3.8-Max on coding and agentic tasks (Semafor)",
+        "reuters.com: Nvidia-backed Reflection unveils first AI model to take on Chinese open models"
+      ],
+      "body": [
+        "techcrunch.com: Reflection is aiming Beam and future models at enterprises and sovereign nations. The pitch is to build “AI factories,” a product that would let institutions build their own customized, local AI system by training Reflection’s AI models on their own proprietary data.",
+        "techmeme.com: Semafor : NY-based Reflection unveils Beam, an open model it says rivals GLM 5.2 on reasoning, while using 3x-4x less compute, and Qwen3.8-Max on coding and agentic tasks Reflection AI, the startup billing itself as America's answer to open-source Chinese AI, is releasing its first model, called Beam.",
+        "reuters.com: Nvidia-backed Reflection unveils first AI model to take on Chinese open models Reuters"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261005/p30#a261005p30"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQ2FQR2h6dGd0eThzSjRKNENDQV9YMnpIZlVfWTNVV2tlSTEzZDJyU09MZ2s1Sk9lWVRESzdwQmdfQjlsRzZPVmJuUzRLQkp5UXhVUHpia2pZWHVfRmQyR21COWx2dGZxR0pzUmxvT3RUUDVhX1JRWm1LQXRfVmV5bGpIMFYtRHFoNW1UMlV3Q3h5X19QaVAxMnJ1SkxrU0pKVnJYcW9LNTNENVJldFc1VTNoRHdRRmNkVFM4?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+        "NY-based Reflection unveils Beam, an open model it says rivals GLM 5.2 on reasoning, while using 3x-4x less compute, and Qwen3.8-Max on coding and agentic tasks (Semafor)",
+        "Nvidia-backed Reflection unveils first AI model to take on Chinese open models"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 65,
+      "sources": 3,
       "ts": "2026-10-05T10:40:02.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,22 +104,138 @@
       ],
       "l": [
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/"
+        },
+        {
           "d": "theverge.com",
           "u": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261005/p10#a261005p10"
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXdvVHZONUZHZHpXbHBHWHBub0ZxUnA1eG1paHVIYXYwRnZwODN0Q0tqeVdqU0oxRzcyVGU5WE9ZZXVYSExDcnJqQ2JWbTFwT1lQdkhtRktObEpfMXRsM1NfWWNfeVI2U25ubUpZcEJvM21hMG1JRVBxRGNubWVGSGQ1ZXZiMGVRdjZsUndIZ0xVR1g5elJoblZTRlJJOUVNTURqTWxB?oc=5"
         }
       ],
       "srcTitles": [
+        "OpenAI launches visual ads that appear alongside image generation results",
         "OpenAI is sticking more ads in ChatGPT",
-        "OpenAI says it will begin testing a visual ad format in ChatGPT later in October in the US, displaying clearly labeled visual ads while users generate images (Mayank Parmar/BleepingComputer)"
+        "OpenAI Linking Visual Ads With ChatGPT Images"
       ]
     },
     {
       "cat": "models",
-      "signal": 40,
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-05T18:29:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "TikTok rolls out an AI shopping assistant and one-click checkout",
+      "s": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+      "b": [
+        "techcrunch.com: TikTok rolls out an AI shopping assistant and one-click checkout",
+        "techmeme.com: TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed (Aisha Malik/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+        "techmeme.com: Aisha Malik / TechCrunch : TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed TikTok announced Monday that it's launching an AI shopping assistant and a new in-app checkout feature that lets users buy directly from brands."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261005/p31#a261005p31"
+        }
+      ],
+      "srcTitles": [
+        "TikTok rolls out an AI shopping assistant and one-click checkout",
+        "TikTok debuts Shopping Assistant, a conversational AI agent that helps users find and buy products, and Buy Direct for one-click purchases from the For You feed (Aisha Malik/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 59,
+      "sources": 3,
+      "ts": "2026-10-05T15:12:17.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Former Anthropic researcher Jacob Coxon and representatives from Anthropic, Google, OpenAI, and Meta testified at a New York City Council hearing on AI safety (Bloomberg)",
+      "s": "Bloomberg : Former Anthropic researcher Jacob Coxon and representatives from Anthropic, Google, OpenAI, and Meta testified at a New York City Council hearing on AI safety Former Anthropic researcher J",
+      "b": [
+        "techmeme.com: Former Anthropic researcher Jacob Coxon and representatives from Anthropic, Google, OpenAI, and Meta testified at a New York City Council hearing on AI safety (Bloomberg)",
+        "cbsnews.com: New York City Council holds landmark AI oversight hearing",
+        "nbcnewyork.com: WATCH LIVE: NYC Council holds rare hearing on AI risks with top tech executives"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Former Anthropic researcher Jacob Coxon and representatives from Anthropic, Google, OpenAI, and Meta testified at a New York City Council hearing on AI safety Former Anthropic researcher Jacob Coxon warned that the race to develop artificial intelligence poses risks that the industry itself",
+        "cbsnews.com: New York City Council holds landmark AI oversight hearing CBS News",
+        "nbcnewyork.com: WATCH LIVE: NYC Council holds rare hearing on AI risks with top tech executives NBC 4 New York"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261005/p27#a261005p27"
+        },
+        {
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUEVTZmRJb1dHTFZ3MVFHdGt5ZUlBNks4ak0tT3pfTnNFb3M3TmUxVlZqaDBJdnQ0WTA4TDRURjVGMEhtcy04V05ZX2FLWS1rdWpUU080S0Qwd053OF9kMDFrOU1lbVBQcjRnczVRa1RYTjNUWkVNc2MtWmVhM1Biam9JU004Vmc?oc=5"
+        },
+        {
+          "d": "nbcnewyork.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGtDLWZWV05KV0FKTDRDMW5rbHlGckhwbGpTNkNhUzJhRUZVT1JyQS1ybkYwbVU0RThsQUV1ZkRCb0xXVnM0Z0FONDNTdFhWSEd5MlJ6Vks3eGtzY0JrcTN4ZDJNTVQxQXhKRG1oUmtQa2xScjdEOEJPTDRoR2FrZkV6RjI4NlHSAY8BQVVfeXFMT3JESlVYb2lmbE5hTE9SU1RSNEpTTjNxUHpYTXZWRWZZcW1MMG95UkRTU2lzSTZVcURINkxoNW1XaF9CbFJUck10elRuQ1ZWbnlodHhHbmRTWWd1NFF4V0Q1WDVPTm5GOFN6WEtBNmRfdDVDU3hUMHEyM25oNlE2Sndod1NTMTlLWC1EUkZXdTg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Former Anthropic researcher Jacob Coxon and representatives from Anthropic, Google, OpenAI, and Meta testified at a New York City Council hearing on AI safety (Bloomberg)",
+        "New York City Council holds landmark AI oversight hearing",
+        "WATCH LIVE: NYC Council holds rare hearing on AI risks with top tech executives"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 47,
+      "sources": 4,
+      "ts": "2026-10-05T04:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "EmTech Future 2026: When AI Meets Everything",
+      "s": "Yossi Matias, Vice President Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersec",
+      "b": [
+        "technologyreview.com: EmTech Future 2026: When AI Meets Everything"
+      ],
+      "body": [
+        "technologyreview.com: Yossi Matias, Vice President Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches and reports on emerging tech daily. There’s much more to discover These are just two sessions from EmTech Future 2026 . Across three days, EmTech Future explored some of the most important questions shaping technology right now: how AI is impacting industries, where quantum is heading, what new energy systems could make possible, how robotics are evolving, and what challenges and opportunities arise when these technologies start to converge. Hear the ideas, insights, and perspectives you missed at EmTech Future 2026. The full program is now available on demand, giving you access to all the conversations and sessions from the event, including: Qua ntum in context Hartmut Neven, founder and lead at Google Quantum AI, explores how quantum is advancing alongside other frontiers and why its significance may lie not only in what it can do on its own, but in how it begins to interact with the systems around it. Energy Systems for the Future Evelyn Wang, VP for energy climate at MIT, explores how energy, computing, infrastructure, and climate technologies are increasingly interconnected, and what these converging systems could mean for the future of industry and society. Rethinking our relationship with AI –Cory Doctorow, bestselling author and award-winning writer, explores how AI is changing the way we work and think. As an MIT Technology Review subscriber, you’ll get a 20% discount , meaning you can access the full EmTech Future 2026 program for just $596. ACCESS FULL PROGRAM"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
+        },
+        {
+          "d": "omnia.sas.upenn.edu",
+          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTnRUOEl6QXlDRHVWUi02OGpPSEczbVYyWlBJNjQ3WDgxWTRYMGt0cHc1TGhwZkRLd19NNmtVQmNUbUtuS3R0WlhJc092cHcwZkdoaER5aHJEYXQ0dkl4aDZDRS11cmNsQ1ViTTM4em1zbS0zQlMzdUtpb3hVbWxOZXdn?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.02631"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution"
+        }
+      ],
+      "srcTitles": [
+        "EmTech Future 2026: When AI Meets Everything",
+        "AI and the Future of Mathematics",
+        "Designing the Future of User Feedback for Generative AI",
+        "Automating the Application of HCI Principles: Skills for On-Demand UI Construction, the Human-AI Space to Think, and the Future of HCI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 36,
       "sources": 2,
       "ts": "2026-10-05T16:03:12.000Z",
       "writtenSources": 2,
@@ -67,7 +267,7 @@
     },
     {
       "cat": "models",
-      "signal": 36,
+      "signal": 32,
       "sources": 3,
       "ts": "2026-10-05T14:54:11.000Z",
       "writtenSources": 3,
@@ -106,7 +306,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-05T15:47:52.000Z",
       "writtenSources": 1,
@@ -131,7 +331,7 @@
     },
     {
       "cat": "products",
-      "signal": 30,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-05T15:00:00.000Z",
       "writtenSources": 1,
@@ -156,7 +356,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-05T13:29:32.000Z",
       "writtenSources": 1,
@@ -179,38 +379,6 @@
       ],
       "srcTitles": [
         "Bringing predictive analytics to the agentic AI era"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 2,
-      "ts": "2026-10-05T07:08:46.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "A reckoning on social media addiction came late for many kids. Will AI safety be different?",
-      "s": "A reckoning on social media addiction came late for many kids. Will AI safety be different? WRAL",
-      "b": [
-        "wral.com: A reckoning on social media addiction came late for many kids. Will AI safety be different?",
-        "usnews.com: A Reckoning on Social Media Addiction Came Late for Many Kids. Will AI Safety Be Different?"
-      ],
-      "body": [
-        "wral.com: A reckoning on social media addiction came late for many kids. Will AI safety be different? WRAL",
-        "usnews.com: A Reckoning on Social Media Addiction Came Late for Many Kids. Will AI Safety Be Different? U.S. News & World Report"
-      ],
-      "l": [
-        {
-          "d": "wral.com",
-          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFQ2dmk5aldoZUNRY0xnRUxtbkQ0MGd1R2VTWWR3NFZJRUpFZVFhSnlnLWJKd1Q1RUl0aFQ0elh1X2p4Sm5WZksxRWFHdmlTSldLOVpJMV95VTZYUmRGaDhBTDI4TEtlbHI5Tkl0bkl1REpONUVwbFJMM0dSM2Q2WEFkX20ybHM1NE5fNGdEZHctT3VWMzY5TDlIY3pDSFl4M2VwdVFyTVBYNTE4T2N5a2hxSTFGUWoxS0F1TXQtX21lbUU?oc=5"
-        },
-        {
-          "d": "usnews.com",
-          "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY3U5R3R6U0U5eEZxeWpCejBGUHV1QTRRLUR5clZ6TDU0R3pub2J6dko3LXZDQ0ZVRGZnZVg2cmExb1ZtSVhuUEI0WTRoZmxHMExlU1d0c1E0aUNVaWVKWnE0cFhhZjlaMHBrcFJRRnktak1hQklyNG52LVZlZUgyTGItRW93OWFkNk4xdmlSMUR4ZUE3SjlDQlVGa21iTUIwUFJ5aHhfdjFKcWk3YWVCMEFKVGZJeUluNnNzYl9fMG1RbGtUcTA1UG5FTGdsSUtRR05UbktwVQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "A reckoning on social media addiction came late for many kids. Will AI safety be different?",
-        "A Reckoning on Social Media Addiction Came Late for Many Kids. Will AI Safety Be Different?"
       ]
     },
     {
@@ -265,27 +433,34 @@
     },
     {
       "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-10-05T04:00:00.000Z",
-      "writtenSources": 1,
+      "signal": 20,
+      "sources": 2,
+      "ts": "2026-10-05T07:08:46.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "EmTech Future 2026: When AI Meets Everything",
-      "s": "Yossi Matias, Vice President Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersec",
+      "h": "A reckoning on social media addiction came late for many kids. Will AI safety be different?",
+      "s": "A reckoning on social media addiction came late for many kids. Will AI safety be different? WRAL",
       "b": [
-        "technologyreview.com: EmTech Future 2026: When AI Meets Everything"
+        "wral.com: A reckoning on social media addiction came late for many kids. Will AI safety be different?",
+        "usnews.com: A Reckoning on Social Media Addiction Came Late for Many Kids. Will AI Safety Be Different?"
       ],
       "body": [
-        "technologyreview.com: Yossi Matias, Vice President Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches and reports on emerging tech daily. There’s much more to discover These are just two sessions from EmTech Future 2026 . Across three days, EmTech Future explored some of the most important questions shaping technology right now: how AI is impacting industries, where quantum is heading, what new energy systems could make possible, how robotics are evolving, and what challenges and opportunities arise when these technologies start to converge. Hear the ideas, insights, and perspectives you missed at EmTech Future 2026. The full program is now available on demand, giving you access to all the conversations and sessions from the event, including: Qua ntum in context Hartmut Neven, founder and lead at Google Quantum AI, explores how quantum is advancing alongside other frontiers and why its significance may lie not only in what it can do on its own, but in how it begins to interact with the systems around it. Energy Systems for the Future Evelyn Wang, VP for energy climate at MIT, explores how energy, computing, infrastructure, and climate technologies are increasingly interconnected, and what these converging systems could mean for the future of industry and society. Rethinking our relationship with AI –Cory Doctorow, bestselling author and award-winning writer, explores how AI is changing the way we work and think. As an MIT Technology Review subscriber, you’ll get a 20% discount , meaning you can access the full EmTech Future 2026 program for just $596. ACCESS FULL PROGRAM"
+        "wral.com: A reckoning on social media addiction came late for many kids. Will AI safety be different? WRAL",
+        "usnews.com: A Reckoning on Social Media Addiction Came Late for Many Kids. Will AI Safety Be Different? U.S. News & World Report"
       ],
       "l": [
         {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFQ2dmk5aldoZUNRY0xnRUxtbkQ0MGd1R2VTWWR3NFZJRUpFZVFhSnlnLWJKd1Q1RUl0aFQ0elh1X2p4Sm5WZksxRWFHdmlTSldLOVpJMV95VTZYUmRGaDhBTDI4TEtlbHI5Tkl0bkl1REpONUVwbFJMM0dSM2Q2WEFkX20ybHM1NE5fNGdEZHctT3VWMzY5TDlIY3pDSFl4M2VwdVFyTVBYNTE4T2N5a2hxSTFGUWoxS0F1TXQtX21lbUU?oc=5"
+        },
+        {
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY3U5R3R6U0U5eEZxeWpCejBGUHV1QTRRLUR5clZ6TDU0R3pub2J6dko3LXZDQ0ZVRGZnZVg2cmExb1ZtSVhuUEI0WTRoZmxHMExlU1d0c1E0aUNVaWVKWnE0cFhhZjlaMHBrcFJRRnktak1hQklyNG52LVZlZUgyTGItRW93OWFkNk4xdmlSMUR4ZUE3SjlDQlVGa21iTUIwUFJ5aHhfdjFKcWk3YWVCMEFKVGZJeUluNnNzYl9fMG1RbGtUcTA1UG5FTGdsSUtRR05UbktwVQ?oc=5"
         }
       ],
       "srcTitles": [
-        "EmTech Future 2026: When AI Meets Everything"
+        "A reckoning on social media addiction came late for many kids. Will AI safety be different?",
+        "A Reckoning on Social Media Addiction Came Late for Many Kids. Will AI Safety Be Different?"
       ]
     }
   ]
