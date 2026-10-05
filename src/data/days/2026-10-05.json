@@ -3,7 +3,128 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-10-05T10:40:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI is sticking more ads in ChatGPT",
+      "s": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you gener",
+      "b": [
+        "theverge.com: OpenAI is sticking more ads in ChatGPT",
+        "techmeme.com: OpenAI says it will begin testing a visual ad format in ChatGPT later in October in the US, displaying clearly labeled visual ads while users generate images (Mayank Parmar/BleepingComputer)"
+      ],
+      "body": [
+        "theverge.com: OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month, will \"initially\" appear when you generate images with ChatGPT, according to an announcement on Monday. The company first brought ads to ChatGPT in February. Until now, ChatGPT's [ ]",
+        "techmeme.com: Mayank Parmar / BleepingComputer : OpenAI says it will begin testing a visual ad format in ChatGPT later in October in the US, displaying clearly labeled visual ads while users generate images OpenAI is expanding ads in ChatGPT, and one of the first new formats will show visual ads while you're generating images."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261005/p10#a261005p10"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI is sticking more ads in ChatGPT",
+        "OpenAI says it will begin testing a visual ad format in ChatGPT later in October in the US, displaying clearly labeled visual ads while users generate images (Mayank Parmar/BleepingComputer)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 36,
+      "sources": 3,
+      "ts": "2026-10-05T14:54:11.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Machine learning enters Florida's fight against Burmese pythons",
+      "s": "Machine learning enters Florida's fight against Burmese pythons The Palm Beach Post",
+      "b": [
+        "palmbeachpost.com: Machine learning enters Florida's fight against Burmese pythons",
+        "tcpalm.com: Machine learning enters Florida's fight against Burmese pythons",
+        "news-press.com: Machine learning enters Florida's fight against Burmese pythons - The News-Press"
+      ],
+      "body": [
+        "palmbeachpost.com: Machine learning enters Florida's fight against Burmese pythons The Palm Beach Post",
+        "tcpalm.com: Machine learning enters Florida's fight against Burmese pythons Treasure Coast News",
+        "news-press.com: Machine learning enters Florida's fight against Burmese pythons The News-Press"
+      ],
+      "l": [
+        {
+          "d": "palmbeachpost.com",
+          "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNanhZa050bXROSDRWSnB2Z2x0SlJLSTR2NmN3RnR2aVJRd1dqZ2VrM2ZUaXJyWGlTakxjdkRnekNESUJuU0Z0cC02angwTF93ZUpjdlF6Q25OTURtVkptazA5Nm1ITU9PRVltcXRGVmtmdHl4anBEZlc1MHd5ZWRTUkNGanRLWDJjcWlXRkVYdkotTnZ2WnBud25PY0dCUVpBYldOcWlrYlJXb0o5LURManNqUjJzNGN5MFowcEZLUUNla3J5bVkzaGRJcVNFcTVGdUw5SXY3MA?oc=5"
+        },
+        {
+          "d": "tcpalm.com",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMEZwTDdhbElYck11eHJiTHZnZXNqanZZYVJXejE3bmQzd01EZmNwUlAzVDdUNEVWS3JxNXNOMUxoS2lLWUM3cW9pd2hsdE1FVmx6NUU2YUpmdmNhZDg4ZFZEYmVFbmdXYzFoa2U1Q01zRjAxX2lKczhTTTVjS2lmVjRGa1FvRHRrTk9GZF9Oc0tId0VfTlZ6TjdDRl9IRWRxZHEyQjB3d0J3SWQ5YWo2TDd5dHEzTVZOdk1uQ0hWeU15SFV4NlhIR1o4Q0NDUQ?oc=5"
+        },
+        {
+          "d": "news-press.com",
+          "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUnQ3U0JsLWF0RnpDTmpyOV9iMW1fZkluY2xlRDlCU0psc3pWbzMtOE85dnV1REJKUUFTcFBzeXVuQlRzaFZ4UkV5Ml85X3dEcnh6eTBnaFMzcHlmQVhaNWNGeG90eGp6Y2FZcXFXdFpXM3V1V1Y5bXBoMmxNam1XWTVOMkhleldyX09DRVhXMzBweF9ncUpsN3RnVk5lWFFUeDgtRWctQTlfNnRUT0lYdlJOQWU4bmVFS09uYUVja0VsSHNtQ1RTMkF5eXAzOEV0eGZV?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Machine learning enters Florida's fight against Burmese pythons",
+        "Machine learning enters Florida's fight against Burmese pythons",
+        "Machine learning enters Florida's fight against Burmese pythons - The News-Press"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-10-05T15:47:52.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Connecting AI agents to enterprise knowledge",
+      "s": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of wha",
+      "b": [
+        "technologyreview.com: Connecting AI agents to enterprise knowledge"
+      ],
+      "body": [
+        "technologyreview.com: For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to reason about situations, make decisions, and ultimately take actions. Without sufficient knowledge, agents are prone to making flawed and unreliable decisions. A lack of knowledge, our research finds, is a major reason agentic AI use cases never make it to production. Competitive pressure is making it urgent to address this. Organizations need to deploy and scale more of their agentic projects to capture the efficiency gains AI promises. Falling short risks wasting the investment already sunk into these projects, and it cedes ground to rivals already putting their agents to work more effectively. DOWNLOAD THE REPORT The purpose of this report, which is based on a survey of 300 data, AI, and other technology executives, is threefold. First, it seeks to gauge organizations’ agentic knowledge capabilities (i.e., their ability to give AI agents a full contextual understanding of the data they ingest) across semantic knowledge, episodic memory, and procedural knowledge. Second, the report probes the challenges organizations face in improving access to knowledge and ultimately to getting more agent use cases into production. Third, it explores the measures organizations are taking to overcome these challenges. The key findings include the following: Data and knowledge weaknesses consistently stall AI agent progress. On average, only around a third (34%) of organizations’ agentic AI projects make it into production. Even high-tech firms struggle with this. Legacy data systems, security and privacy concerns, and a lack of knowledge and context are the key points of failure. Strong knowledge capabilities correlate with agent success. A small group of production leaders (organization"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/"
+        }
+      ],
+      "srcTitles": [
+        "Connecting AI agents to enterprise knowledge"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-10-05T15:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Our approach to EU text provenance rules",
+      "s": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "b": [
+        "openai.com: Our approach to EU text provenance rules"
+      ],
+      "body": [
+        "openai.com: How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/eu-text-provenance"
+        }
+      ],
+      "srcTitles": [
+        "Our approach to EU text provenance rules"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 28,
       "sources": 2,
       "ts": "2026-10-05T07:08:46.000Z",
       "writtenSources": 2,
@@ -31,6 +152,109 @@
       "srcTitles": [
         "A reckoning on social media addiction came late for many kids. Will AI safety be different?",
         "A Reckoning on Social Media Addiction Came Late for Many Kids. Will AI Safety Be Different?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-05T13:29:32.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Bringing predictive analytics to the agentic AI era",
+      "s": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems t",
+      "b": [
+        "technologyreview.com: Bringing predictive analytics to the agentic AI era",
+        "technologyreview.com: Bringing predictive analytics to the agentic AI era"
+      ],
+      "body": [
+        "technologyreview.com: In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between leaders and laggards is widening accordingly. “Enterprises are done with a backward-looking point of view; they want to be more forward-thinking,” says Vishal Gupta, partner at research firm Everest Group. DOWNLOAD THE REPORT Intelligent analytics, powered by technologies like deep learning and generative AI, are making this possible. Real-time training allows AI to evolve continuously instead of waiting for quarterly refreshes. In addition, the data that newer predictive engines rely upon has expanded to encompass not just neat, numerical records but also messy, unstructured sources of insight-rich interactions. As a result, AI-powered analytics are moving enterprises from passive hindsight to pragmatic foresight. AI takes predictive analytics—a broad discipline that includes predictive modeling, data prep, analysis workflows, interpretation of results, and decision-making applications—to new heights. “In many ways I think the word ‘analytics’ is giving way to AI,” says Gupta. “Everything is becoming AI.” Download the report This content was produced by Insights, MIT Technology Review’s custom content arm, not its editorial staff. It was researched and written by humans, with any AI tools that may have been used limited to production processes under human oversight.",
+        "technologyreview.com: Bringing predictive analytics to the agentic AI era MIT Technology Review"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
+        }
+      ],
+      "srcTitles": [
+        "Bringing predictive analytics to the agentic AI era",
+        "Bringing predictive analytics to the agentic AI era"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-05T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Building advertising for the way people use AI",
+      "s": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
+      "b": [
+        "openai.com: Building advertising for the way people use AI"
+      ],
+      "body": [
+        "openai.com: OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/new-chatgpt-ads-format-and-measurement"
+        }
+      ],
+      "srcTitles": [
+        "Building advertising for the way people use AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-05T08:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "People really hate AI, so why can’t they get enough?",
+      "s": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he ",
+      "b": [
+        "technologyreview.com: People really hate AI, so why can’t they get enough?"
+      ],
+      "body": [
+        "technologyreview.com: Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing AI company. We don’t know if we really like what we’re doing.” “I guess that makes me a self-loathing AI journalist,” I replied. It was a joke! I love my job. But I do not love many of the things the technology I write about has become: warped by hype , steered by zealots , inescapable . The CEO of Springboards and I are far from alone. Around the world, a love/hate attitude toward AI is very much the vibe right now. On the one hand, public feelings are souring fast. According to the Pew Research Center, more adults in the US think AI will have a negative impact on them personally, and on society in general, than expect a positive one. The pessimism is strongest among the young. More than half of people worldwide say that AI products and services make them nervous, according to a report from Stanford University . In a Gallup poll in May, 71% of US adults said they would oppose construction of a new AI data center in their area, far more than the 53% who said they would oppose a new nuclear power plant. And in an NBC poll in March, AI was less popular than ICE. Yet the number of people using AI is still skyrocketing. ChatGPT hit a billion monthly users in May, according to the market analysis firm Sensor Tower. Google DeepMind’s Gemini is close behind, logging 950 million users in July. According to Pew, half of US adults now say they use a chatbot , more than twice the number who said they did in 2023. One in four people say they do so every day. And it’s a global habit: More than a third of adults across all 38 OECD countries (a group of the world’s wealthiest democracies) report having used generative AI tools in the last three months . All these surveys paint a picture of two "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/"
+        }
+      ],
+      "srcTitles": [
+        "People really hate AI, so why can’t they get enough?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-05T04:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "EmTech Future 2026: When AI Meets Everything",
+      "s": "Yossi Matias, Vice President Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersec",
+      "b": [
+        "technologyreview.com: EmTech Future 2026: When AI Meets Everything"
+      ],
+      "body": [
+        "technologyreview.com: Yossi Matias, Vice President Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches and reports on emerging tech daily. There’s much more to discover These are just two sessions from EmTech Future 2026 . Across three days, EmTech Future explored some of the most important questions shaping technology right now: how AI is impacting industries, where quantum is heading, what new energy systems could make possible, how robotics are evolving, and what challenges and opportunities arise when these technologies start to converge. Hear the ideas, insights, and perspectives you missed at EmTech Future 2026. The full program is now available on demand, giving you access to all the conversations and sessions from the event, including: Qua ntum in context Hartmut Neven, founder and lead at Google Quantum AI, explores how quantum is advancing alongside other frontiers and why its significance may lie not only in what it can do on its own, but in how it begins to interact with the systems around it. Energy Systems for the Future Evelyn Wang, VP for energy climate at MIT, explores how energy, computing, infrastructure, and climate technologies are increasingly interconnected, and what these converging systems could mean for the future of industry and society. Rethinking our relationship with AI –Cory Doctorow, bestselling author and award-winning writer, explores how AI is changing the way we work and think. As an MIT Technology Review subscriber, you’ll get a 20% discount , meaning you can access the full EmTech Future 2026 program for just $596. ACCESS FULL PROGRAM"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/"
+        }
+      ],
+      "srcTitles": [
+        "EmTech Future 2026: When AI Meets Everything"
       ]
     }
   ]
