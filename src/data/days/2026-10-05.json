@@ -35,6 +35,38 @@
     },
     {
       "cat": "models",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-10-05T16:03:12.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight (Annika Inampudi/Bloomberg)",
+      "s": "Annika Inampudi / Bloomberg : In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight In a first-of-",
+      "b": [
+        "techmeme.com: In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight (Annika Inampudi/Bloomberg)",
+        "statnews.com: Utah plows ahead with more health AI pilots for prescriptions, women’s health"
+      ],
+      "body": [
+        "techmeme.com: Annika Inampudi / Bloomberg : In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight In a first-of-its-kind pilot, Nolla Health lets AI diagnose and issue prescriptions. An AI-based healthcare startup on Monday",
+        "statnews.com: Utah plows ahead with more health AI pilots for prescriptions, women’s health STAT"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261005/p23#a261005p23"
+        },
+        {
+          "d": "statnews.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOElXTWc5ZWw0UkV2RkxmRVkyY2F6cXVlU1dZeGJQTFRXX2NDUElRY25YNUtiS3BSX1B1N19waTluS2VvMDNnck5pYWUxM0F1bkhld2NPNFdoOXAweG5qSmsyRWhxaWdwaVhEVHMyeFptTDFSR3lrUFJ3SXdWTFZMVXRVUXNqdjZHdWlmb1c1WWlaUVh5bEJNT1RR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "In a first-of-its-kind pilot in the US, Nolla Health will use AI to diagnose and prescribe acne medications to Utah patients without direct human oversight (Annika Inampudi/Bloomberg)",
+        "Utah plows ahead with more health AI pilots for prescriptions, women’s health"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 36,
       "sources": 3,
       "ts": "2026-10-05T14:54:11.000Z",
@@ -124,7 +156,34 @@
     },
     {
       "cat": "models",
-      "signal": 28,
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-05T13:29:32.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Bringing predictive analytics to the agentic AI era",
+      "s": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems t",
+      "b": [
+        "technologyreview.com: Bringing predictive analytics to the agentic AI era",
+        "technologyreview.com: Bringing predictive analytics to the agentic AI era"
+      ],
+      "body": [
+        "technologyreview.com: In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between leaders and laggards is widening accordingly. “Enterprises are done with a backward-looking point of view; they want to be more forward-thinking,” says Vishal Gupta, partner at research firm Everest Group. DOWNLOAD THE REPORT Intelligent analytics, powered by technologies like deep learning and generative AI, are making this possible. Real-time training allows AI to evolve continuously instead of waiting for quarterly refreshes. In addition, the data that newer predictive engines rely upon has expanded to encompass not just neat, numerical records but also messy, unstructured sources of insight-rich interactions. As a result, AI-powered analytics are moving enterprises from passive hindsight to pragmatic foresight. AI takes predictive analytics—a broad discipline that includes predictive modeling, data prep, analysis workflows, interpretation of results, and decision-making applications—to new heights. “In many ways I think the word ‘analytics’ is giving way to AI,” says Gupta. “Everything is becoming AI.” Download the report This content was produced by Insights, MIT Technology Review’s custom content arm, not its editorial staff. It was researched and written by humans, with any AI tools that may have been used limited to production processes under human oversight.",
+        "technologyreview.com: Bringing predictive analytics to the agentic AI era MIT Technology Review"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
+        }
+      ],
+      "srcTitles": [
+        "Bringing predictive analytics to the agentic AI era"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
       "sources": 2,
       "ts": "2026-10-05T07:08:46.000Z",
       "writtenSources": 2,
@@ -152,34 +211,6 @@
       "srcTitles": [
         "A reckoning on social media addiction came late for many kids. Will AI safety be different?",
         "A Reckoning on Social Media Addiction Came Late for Many Kids. Will AI Safety Be Different?"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-10-05T13:29:32.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Bringing predictive analytics to the agentic AI era",
-      "s": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems t",
-      "b": [
-        "technologyreview.com: Bringing predictive analytics to the agentic AI era",
-        "technologyreview.com: Bringing predictive analytics to the agentic AI era"
-      ],
-      "body": [
-        "technologyreview.com: In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from prediction to autonomous decision making, and the gap between leaders and laggards is widening accordingly. “Enterprises are done with a backward-looking point of view; they want to be more forward-thinking,” says Vishal Gupta, partner at research firm Everest Group. DOWNLOAD THE REPORT Intelligent analytics, powered by technologies like deep learning and generative AI, are making this possible. Real-time training allows AI to evolve continuously instead of waiting for quarterly refreshes. In addition, the data that newer predictive engines rely upon has expanded to encompass not just neat, numerical records but also messy, unstructured sources of insight-rich interactions. As a result, AI-powered analytics are moving enterprises from passive hindsight to pragmatic foresight. AI takes predictive analytics—a broad discipline that includes predictive modeling, data prep, analysis workflows, interpretation of results, and decision-making applications—to new heights. “In many ways I think the word ‘analytics’ is giving way to AI,” says Gupta. “Everything is becoming AI.” Download the report This content was produced by Insights, MIT Technology Review’s custom content arm, not its editorial staff. It was researched and written by humans, with any AI tools that may have been used limited to production processes under human oversight.",
-        "technologyreview.com: Bringing predictive analytics to the agentic AI era MIT Technology Review"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/"
-        }
-      ],
-      "srcTitles": [
-        "Bringing predictive analytics to the agentic AI era",
-        "Bringing predictive analytics to the agentic AI era"
       ]
     },
     {
