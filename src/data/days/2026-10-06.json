@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 70,
-      "sources": 3,
+      "signal": 72,
+      "sources": 4,
       "ts": "2026-10-06T13:08:33.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -31,18 +31,23 @@
         },
         {
           "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261006/p22#a261006p22"
+          "u": "https://www.techmeme.com/261006/p34#a261006p34"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Oct/6/le-chonk/"
         }
       ],
       "srcTitles": [
         "Mistral’s new 1T model aims to leapfrog closed and open rivals",
         "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
-        "Mistral releases Mistral Large 4, dubbed \"le Chonk\", a 1T-parameter open-weight model for general agentic capabilities, trained on 4,000 Nvidia Grace Blackwells (Sabrina Ortiz/The Deep View)"
+        "Mistral launches a preview of Mistral Large 4, or Le Chonk, a 1T model it claims tops any open model developed in the US or Europe; weights are due October 27 (Carl Franzen/VentureBeat)",
+        "Introducing Mistral Large 4: Le chonk"
       ]
     },
     {
       "cat": "models",
-      "signal": 64,
+      "signal": 58,
       "sources": 2,
       "ts": "2026-10-06T16:00:00.000Z",
       "writtenSources": 2,
@@ -69,12 +74,49 @@
       ],
       "srcTitles": [
         "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-        "Anthropic expands its Claude Startups program, including up to $45K in discounts and credits via the Claude Startup Stack and a one-time $1,000 API credit (Ashley Capoot/CNBC)"
+        "Anthropic expands its Claude Startups program with $45K in discounts and credits via the Claude Startup Stack, a $1,000 API credit, and a year of Claude Team (Ashley Capoot/CNBC)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-10-06T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Q&A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more (Nilay Patel/The Verge)",
+      "s": "Nilay Patel / The Verge : Q A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more Today, I'm ta",
+      "b": [
+        "techmeme.com: Q&A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more (Nilay Patel/The Verge)",
+        "arxiv.org: Training nGPT",
+        "arxiv.org: TRACE: Training-time Report-guided and Clinically Ordered Concept Editing"
+      ],
+      "body": [
+        "techmeme.com: Nilay Patel / The Verge : Q A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more Today, I'm talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees",
+        "arxiv.org: arXiv:2608.01284v3 Announce Type: replace-cross Abstract: The normalized Transformer (nGPT) realizes hyperspherical representation learning by constraining model parameter vectors and activation vectors to the unit hypersphere. In this paper, we describe a practical training recipe for nGPT and evaluate it on modern hybrid Mamba-2--Transformer Mixture-of-Experts (MoE) models. The recipe introduces Logit Gradient Preconditioning, Logarithmic Learning Rate Decay, GatedAdamW, angular update control, and optional exploration mechanisms. Compared with an unnormalized model of the same hybrid MoE architecture trained with AdamW, the 30B-total-parameter nGPT model reaches the same validation loss using approximately half as many training tokens. The recipe scales across the models considered, which contain up to 30B total parameters.",
+        "arxiv.org: arXiv:2608.20809v2 Announce Type: replace-cross Abstract: Breast ultrasound diagnosis relies on clinically meaningful semantic concepts, yet most deep learning methods adopt end-to-end image-to-label paradigms that lack interpretability and robustness. While concept-based approaches offer a promising alternative, they often assume complete annotations or require multimodal inputs at inference, which significantly limits their real-world applicability. To tackle these issues, we propose Training-time Report-guided and Clinically Ordered Concept Editing (TRACE), a training-time report-guided framework that leverages structured radiology reports as privileged concept supervision while enabling image-only diagnosis at test time. TRACE refines image-derived concepts through a teacher-guided editing mechanism within a malignancy-aware ordered concept space. To address incomplete annotations, we introduce Strategic Concept Missing Training (SCMT) and train an image-only self-editor via edit distillation for autonomous concept refinement. Besides, we introduce BUSC, a concept-enriched benchmark linking images, labels, and structured attributes. Experiments across multiple datasets demonstrate that TRACE achieves superior performance and improved cross-domain robustness compared to existing methods.",
+        "arxiv.org: arXiv:2609.38776v2 Announce Type: replace-cross Abstract: Training data attribution for diffusion models aims to identify the training samples that influence a generated instance, but existing methods either require costly per-sample gradient computation or query-specific model optimization. Moreover, most methods attribute changes in a proxy loss rather than changes in the actual model's generative behavior. We address these limitations by formulating attribution directly with a local score discrepancy measure, which applies to any diffusion variant (including DDPM, EDM, and flow matching), and by showing that such measure can be estimated without retraining, as a preconditioned gradient similarity. We instantiate this estimator as Training-data Influence via score Discrepancy (TID), which uses Kronecker-factored curvature to avoid random projections and per-sample gradient storage. We then distill TID into TIDE, a forward-only student trained online to reproduce the teacher's rankings from the diffusion model's internal activations. Under counterfactual evaluation on CIFAR-10, ArtBench-10, and MS-COCO, TID matches or outperforms state-of-the-art approaches, while TIDE retains most of TID's accuracy at four to five orders of magnitude lower per-query cost, attributing generated samples in milliseconds and faster than the generation itself."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261006/p32#a261006p32"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.01284"
+        }
+      ],
+      "srcTitles": [
+        "Mistral says it trained ML4 \"from scratch\" using 3,800 Nvidia Grace Blackwell GPUs in its data centers in Europe and much of its training data was multilingual (Mistral Blog)",
+        "Training nGPT",
+        "TRACE: Training-time Report-guided and Clinically Ordered Concept Editing",
+        "Distilling Diffusion Score Discrepancy for Efficient Training Data Attribution"
       ]
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-10-06T16:00:00.000Z",
       "writtenSources": 1,
@@ -98,35 +140,58 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-10-06T12:00:00.000Z",
-      "writtenSources": 2,
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-10-06T19:57:04.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "Is regulation enough to stop AI systems killing us all?",
-      "s": "Is regulation enough to stop AI systems killing us all? The Guardian",
+      "h": "EmbeddingGemma 2: an open, lightweight multimodal embedding model",
+      "s": "Covered by 1 outlet.",
       "b": [
-        "theguardian.com: Is regulation enough to stop AI systems killing us all?",
-        "calmatters.org: ‘Evaluators’ are supposed to keep AI from killing us all. No pressure"
+        "blog.google: EmbeddingGemma 2: an open, lightweight multimodal embedding model"
       ],
-      "body": [
-        "theguardian.com: Is regulation enough to stop AI systems killing us all? The Guardian",
-        "calmatters.org: ‘Evaluators’ are supposed to keep AI from killing us all. No pressure CalMatters"
-      ],
+      "body": [],
       "l": [
         {
-          "d": "theguardian.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNllfYnlMUU9ENTREN2lHaXQwLXJEN3M2cmM2SVZpOGZMTXRFdkZwby00T3l3QXNvSVExbWxTemJESnlMU1o0VVJHX3ZVVWllSkluNnlQZHNJZmlxdWlpUy1fUDZ2MUlGd3lCOW83WlpzWlF2OE1abnhmUE5TQXRSMzBScGtPVFFqQmRCc0drTm5BRlVVS0huV1N4dU9oNXlIZXp1aU5pYzg?oc=5"
-        },
-        {
-          "d": "calmatters.org",
-          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQkhSclhqYVdESUlGOElibmRBdF9nSnIyRlNTdHVibnNEcjlYeWZPM1V5bFFOWldoMGpXN3BjOWRNMWcyZFJrc0dJZHVjNnh3dTFyRFA5Y0V5blRpaUtHZ04yZDYyMFA3bUpPQ1U4U3ZYWGkyUUF0cW50enpwek5Kd25nbjc2UlQ0VS1fRUxjS252OEpQWkpvR1dkMmNnbmxkbE1xZnJEUFdhMWxRcHVZZkhJUkhhekF4?oc=5"
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
         }
       ],
       "srcTitles": [
-        "Is regulation enough to stop AI systems killing us all?",
-        "‘Evaluators’ are supposed to keep AI from killing us all. No pressure"
+        "EmbeddingGemma 2: an open, lightweight multimodal embedding model"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-06T16:37:07.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "RFK Jr.'s embrace of AI confounds some MAHA allies and medical experts - ABC News",
+      "s": "RFK Jr.'s embrace of AI confounds some MAHA allies and medical experts ABC News - Breaking News, Latest News and Videos",
+      "b": [
+        "abcnews.com: RFK Jr.'s embrace of AI confounds some MAHA allies and medical experts - ABC News",
+        "broadbandbreakfast.com: RFK Jr.'s Embrace of AI Confounds Some Trump Allies"
+      ],
+      "body": [
+        "abcnews.com: RFK Jr.'s embrace of AI confounds some MAHA allies and medical experts ABC News - Breaking News, Latest News and Videos",
+        "broadbandbreakfast.com: RFK Jr.'s Embrace of AI Confounds Some Trump Allies Broadband Breakfast"
+      ],
+      "l": [
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTZCVV9mSmtBdEkyeDVjOFNiRUlYU203bmZ3YWNfdDUyOW50VFNxYmxHN2xfTmlLNXBNT1czc1JfbUhZODBqVkMxUFNIVThrdzFTSDl4aHhBckUzTTZWODNyYUhQLUtWc3JXcVgzR0pXZmltb3NnSGF5a3RfNHpVYW9sRTdLOW1lY0FaT2xzM3FoU1NFeEJxS3FCMUJuYnpS0gGmAUFVX3lxTE05Z3poT3dmUGU4clhKbWxxOUJkaU1aX2hUX0tybjRiVHV5SndVY3VCNmdMOTVRZGNlai1IMnJMZGxISGZWZF9aVHc3c0JfVnJINzFwRUJhcDJ5SXF4YVQ0YzVRRHpxSzkyVmg5bFNuSVpSNEQ0ZDlFUlhJLWxsYkpnbjFCVzVfSENzTGY1TWNjR0hzZ2swZ1Bzb1J0MzNKYWFWaTBEdlE?oc=5"
+        },
+        {
+          "d": "broadbandbreakfast.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ1gyUGRSZHZGRXBpZ1V5MjdLX0hlNG5DSFQ0bElpbFl0OG8xd2lDWG04NUtwaGZQM1pJZTFwbnBjWW9uNVY2R1VTSlJaVktTZEg1U3pwTzdGdTVoV09tNHdkc1Q0QWRwX1RPeUhtS0J6SlZ0c09xMHR3YjU1WlJVQTZ4T2lybjItTVE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "RFK Jr.'s embrace of AI confounds some MAHA allies and medical experts - ABC News",
+        "RFK Jr.'s Embrace of AI Confounds Some Trump Allies"
       ]
     },
     {
@@ -167,8 +232,65 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-06T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Advancing computer use with Ironclad",
+      "s": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "b": [
+        "openai.com: Advancing computer use with Ironclad"
+      ],
+      "body": [
+        "openai.com: Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/advancing-computer-use-with-ironclad"
+        }
+      ],
+      "srcTitles": [
+        "Advancing computer use with Ironclad"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-10-06T12:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Is regulation enough to stop AI systems killing us all?",
+      "s": "Is regulation enough to stop AI systems killing us all? The Guardian",
+      "b": [
+        "theguardian.com: Is regulation enough to stop AI systems killing us all?",
+        "calmatters.org: ‘Evaluators’ are supposed to keep AI from killing us all. No pressure"
+      ],
+      "body": [
+        "theguardian.com: Is regulation enough to stop AI systems killing us all? The Guardian",
+        "calmatters.org: ‘Evaluators’ are supposed to keep AI from killing us all. No pressure CalMatters"
+      ],
+      "l": [
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNllfYnlMUU9ENTREN2lHaXQwLXJEN3M2cmM2SVZpOGZMTXRFdkZwby00T3l3QXNvSVExbWxTemJESnlMU1o0VVJHX3ZVVWllSkluNnlQZHNJZmlxdWlpUy1fUDZ2MUlGd3lCOW83WlpzWlF2OE1abnhmUE5TQXRSMzBScGtPVFFqQmRCc0drTm5BRlVVS0huV1N4dU9oNXlIZXp1aU5pYzg?oc=5"
+        },
+        {
+          "d": "calmatters.org",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQkhSclhqYVdESUlGOElibmRBdF9nSnIyRlNTdHVibnNEcjlYeWZPM1V5bFFOWldoMGpXN3BjOWRNMWcyZFJrc0dJZHVjNnh3dTFyRFA5Y0V5blRpaUtHZ04yZDYyMFA3bUpPQ1U4U3ZYWGkyUUF0cW50enpwek5Kd25nbjc2UlQ0VS1fRUxjS252OEpQWkpvR1dkMmNnbmxkbE1xZnJEUFdhMWxRcHVZZkhJUkhhekF4?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Is regulation enough to stop AI systems killing us all?",
+        "‘Evaluators’ are supposed to keep AI from killing us all. No pressure"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-10-06T02:22:00.000Z",
       "writtenSources": 2,
@@ -196,43 +318,6 @@
       "srcTitles": [
         "South Korea plans to launch a ~$3.5B program to develop a frontier AI model starting as early as March 2027 and will open a competition to select participants (Jie Ye-eun/The Korea Herald)",
         "South Korea plans to develop $3.5 billion frontier AI model starting next year"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 22,
-      "sources": 2,
-      "ts": "2026-10-06T04:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Q&A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more (Nilay Patel/The Verge)",
-      "s": "Nilay Patel / The Verge : Q A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more Today, I'm ta",
-      "b": [
-        "techmeme.com: Q&A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more (Nilay Patel/The Verge)",
-        "arxiv.org: Training nGPT",
-        "arxiv.org: TRACE: Training-time Report-guided and Clinically Ordered Concept Editing"
-      ],
-      "body": [
-        "techmeme.com: Nilay Patel / The Verge : Q A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more Today, I'm talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees",
-        "arxiv.org: arXiv:2608.01284v3 Announce Type: replace-cross Abstract: The normalized Transformer (nGPT) realizes hyperspherical representation learning by constraining model parameter vectors and activation vectors to the unit hypersphere. In this paper, we describe a practical training recipe for nGPT and evaluate it on modern hybrid Mamba-2--Transformer Mixture-of-Experts (MoE) models. The recipe introduces Logit Gradient Preconditioning, Logarithmic Learning Rate Decay, GatedAdamW, angular update control, and optional exploration mechanisms. Compared with an unnormalized model of the same hybrid MoE architecture trained with AdamW, the 30B-total-parameter nGPT model reaches the same validation loss using approximately half as many training tokens. The recipe scales across the models considered, which contain up to 30B total parameters.",
-        "arxiv.org: arXiv:2608.20809v2 Announce Type: replace-cross Abstract: Breast ultrasound diagnosis relies on clinically meaningful semantic concepts, yet most deep learning methods adopt end-to-end image-to-label paradigms that lack interpretability and robustness. While concept-based approaches offer a promising alternative, they often assume complete annotations or require multimodal inputs at inference, which significantly limits their real-world applicability. To tackle these issues, we propose Training-time Report-guided and Clinically Ordered Concept Editing (TRACE), a training-time report-guided framework that leverages structured radiology reports as privileged concept supervision while enabling image-only diagnosis at test time. TRACE refines image-derived concepts through a teacher-guided editing mechanism within a malignancy-aware ordered concept space. To address incomplete annotations, we introduce Strategic Concept Missing Training (SCMT) and train an image-only self-editor via edit distillation for autonomous concept refinement. Besides, we introduce BUSC, a concept-enriched benchmark linking images, labels, and structured attributes. Experiments across multiple datasets demonstrate that TRACE achieves superior performance and improved cross-domain robustness compared to existing methods.",
-        "arxiv.org: arXiv:2609.38776v2 Announce Type: replace-cross Abstract: Training data attribution for diffusion models aims to identify the training samples that influence a generated instance, but existing methods either require costly per-sample gradient computation or query-specific model optimization. Moreover, most methods attribute changes in a proxy loss rather than changes in the actual model's generative behavior. We address these limitations by formulating attribution directly with a local score discrepancy measure, which applies to any diffusion variant (including DDPM, EDM, and flow matching), and by showing that such measure can be estimated without retraining, as a preconditioned gradient similarity. We instantiate this estimator as Training-data Influence via score Discrepancy (TID), which uses Kronecker-factored curvature to avoid random projections and per-sample gradient storage. We then distill TID into TIDE, a forward-only student trained online to reproduce the teacher's rankings from the diffusion model's internal activations. Under counterfactual evaluation on CIFAR-10, ArtBench-10, and MS-COCO, TID matches or outperforms state-of-the-art approaches, while TIDE retains most of TID's accuracy at four to five orders of magnitude lower per-query cost, attributing generated samples in milliseconds and faster than the generation itself."
-      ],
-      "l": [
-        {
-          "d": "futurism.com",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVC1HVURQQUwyakdxWkJEdWtDTTYxUzBnMm5qRDhWQjYtS2huOUVIb2NOaURZbVotdE0wUkY0eW5uaFpXVllwU1pVVmNVRllyZnVjQXc3am1hSEs1Njhib2tONktFcWZGX3ZUX3hlU1JKblpYUG9rcVFkV0xiZU9Wdlh4M3l5QkVnaDZOQm41Z1plTEIwTFBRQ1NMVmg0MTRfV2c?oc=5"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2608.01284"
-        }
-      ],
-      "srcTitles": [
-        "Court Finds That Using Copyrighted Material as AI Training Data Is Not Fair Use",
-        "Training nGPT",
-        "TRACE: Training-time Report-guided and Clinically Ordered Concept Editing",
-        "Distilling Diffusion Score Discrepancy for Efficient Training Data Attribution"
       ]
     }
   ]
