@@ -1,4 +1,111 @@
 {
   "date": "2026-10-06",
-  "stories": []
+  "stories": [
+    {
+      "cat": "policy",
+      "signal": 44,
+      "sources": 2,
+      "ts": "2026-10-06T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Q&A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more (Nilay Patel/The Verge)",
+      "s": "Nilay Patel / The Verge : Q A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more Today, I'm ta",
+      "b": [
+        "techmeme.com: Q&A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more (Nilay Patel/The Verge)",
+        "arxiv.org: Training nGPT",
+        "arxiv.org: TRACE: Training-time Report-guided and Clinically Ordered Concept Editing"
+      ],
+      "body": [
+        "techmeme.com: Nilay Patel / The Verge : Q A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more Today, I'm talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees",
+        "arxiv.org: arXiv:2608.01284v3 Announce Type: replace-cross Abstract: The normalized Transformer (nGPT) realizes hyperspherical representation learning by constraining model parameter vectors and activation vectors to the unit hypersphere. In this paper, we describe a practical training recipe for nGPT and evaluate it on modern hybrid Mamba-2--Transformer Mixture-of-Experts (MoE) models. The recipe introduces Logit Gradient Preconditioning, Logarithmic Learning Rate Decay, GatedAdamW, angular update control, and optional exploration mechanisms. Compared with an unnormalized model of the same hybrid MoE architecture trained with AdamW, the 30B-total-parameter nGPT model reaches the same validation loss using approximately half as many training tokens. The recipe scales across the models considered, which contain up to 30B total parameters.",
+        "arxiv.org: arXiv:2608.20809v2 Announce Type: replace-cross Abstract: Breast ultrasound diagnosis relies on clinically meaningful semantic concepts, yet most deep learning methods adopt end-to-end image-to-label paradigms that lack interpretability and robustness. While concept-based approaches offer a promising alternative, they often assume complete annotations or require multimodal inputs at inference, which significantly limits their real-world applicability. To tackle these issues, we propose Training-time Report-guided and Clinically Ordered Concept Editing (TRACE), a training-time report-guided framework that leverages structured radiology reports as privileged concept supervision while enabling image-only diagnosis at test time. TRACE refines image-derived concepts through a teacher-guided editing mechanism within a malignancy-aware ordered concept space. To address incomplete annotations, we introduce Strategic Concept Missing Training (SCMT) and train an image-only self-editor via edit distillation for autonomous concept refinement. Besides, we introduce BUSC, a concept-enriched benchmark linking images, labels, and structured attributes. Experiments across multiple datasets demonstrate that TRACE achieves superior performance and improved cross-domain robustness compared to existing methods.",
+        "arxiv.org: arXiv:2609.38776v2 Announce Type: replace-cross Abstract: Training data attribution for diffusion models aims to identify the training samples that influence a generated instance, but existing methods either require costly per-sample gradient computation or query-specific model optimization. Moreover, most methods attribute changes in a proxy loss rather than changes in the actual model's generative behavior. We address these limitations by formulating attribution directly with a local score discrepancy measure, which applies to any diffusion variant (including DDPM, EDM, and flow matching), and by showing that such measure can be estimated without retraining, as a preconditioned gradient similarity. We instantiate this estimator as Training-data Influence via score Discrepancy (TID), which uses Kronecker-factored curvature to avoid random projections and per-sample gradient storage. We then distill TID into TIDE, a forward-only student trained online to reproduce the teacher's rankings from the diffusion model's internal activations. Under counterfactual evaluation on CIFAR-10, ArtBench-10, and MS-COCO, TID matches or outperforms state-of-the-art approaches, while TIDE retains most of TID's accuracy at four to five orders of magnitude lower per-query cost, attributing generated samples in milliseconds and faster than the generation itself."
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261006/p4#a261006p4"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2608.01284"
+        }
+      ],
+      "srcTitles": [
+        "Q&A with Senator Adam Schiff on recursive AI becoming a real national security threat, making AI companies retain training data, needing an FDA for AI, and more (Nilay Patel/The Verge)",
+        "Training nGPT",
+        "TRACE: Training-time Report-guided and Clinically Ordered Concept Editing",
+        "Distilling Diffusion Score Discrepancy for Efficient Training Data Attribution"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-10-06T02:22:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "South Korea plans to launch a ~$3.5B program to develop a frontier AI model starting as early as March 2027 and will open a competition to select participants (Jie Ye-eun/The Korea Herald)",
+      "s": "Jie Ye-eun / The Korea Herald : South Korea plans to launch a ~$3.5B program to develop a frontier AI model starting as early as March 2027 and will open a competition to select participants Since 201",
+      "b": [
+        "techmeme.com: South Korea plans to launch a ~$3.5B program to develop a frontier AI model starting as early as March 2027 and will open a competition to select participants (Jie Ye-eun/The Korea Herald)",
+        "reuters.com: South Korea plans to develop $3.5 billion frontier AI model starting next year"
+      ],
+      "body": [
+        "techmeme.com: Jie Ye-eun / The Korea Herald : South Korea plans to launch a ~$3.5B program to develop a frontier AI model starting as early as March 2027 and will open a competition to select participants Since 2018, I have covered South Korea's economic and financial landscape, with experience spanning the economy, banking, financial markets and securities industry.",
+        "reuters.com: South Korea plans to develop $3.5 billion frontier AI model starting next year reuters.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261006/p8#a261006p8"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVjdIYzN3RVFPcUozaWtycERxS2Z2LWxhclBEUmo1cVVtSkZXMWFHR2xOQUxLcmdka285NUVyVmFMZ1l4WWZuNFpsbFNocW5NWWN1RTgxcEU0YjZTQmt5WGJPUkFlRlBFREdfaHFhWFhZdkptSV9qdG81d1pibS12akVkTVpFblkzdWdqZ3JpdzM5MHpNSFZLaWQyUXQ1cTQzejRmMy1BTVFOblJGRjU2bEIwaTVDRm95bHpJb3lnZWJLUHdpQnNB?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "South Korea plans to launch a ~$3.5B program to develop a frontier AI model starting as early as March 2027 and will open a competition to select participants (Jie Ye-eun/The Korea Herald)",
+        "South Korea plans to develop $3.5 billion frontier AI model starting next year"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-06T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
+      "s": "We ve been building a benchmark out of real concurrency bugs (race conditions, deadlocks, cancellation issues) taken from merged PRs in about 100 Python projects. Each task gets graded by the project ",
+      "b": [
+        "reddit.com: SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
+        "arxiv.org: Benchmarks in Leipzig",
+        "arxiv.org: MMBU: A Massive Multi-modal Biomedical Understanding Benchmark to Probe the Perception Capabilities of Vision-Language Models"
+      ],
+      "body": [
+        "reddit.com: We ve been building a benchmark out of real concurrency bugs (race conditions, deadlocks, cancellation issues) taken from merged PRs in about 100 Python projects. Each task gets graded by the project s own tests, in a container with no network, and the repo is cut down to a single commit so the agent can t recover the fix from git history. https://preview.redd.it/0uopztlmpsth1.png?width=1200 format=png auto=webp s=59c0698ca0a76c17be41e41362324d6a262f1f25 Some findings: With one attempt per task GLM-5.3 Flash scored 85%. With two to three attempts it scored 82%, within the margin of error of GPT-5.6 Luna (81%). The leaderboard now shows the number of attempts and the interval for every score. https://preview.redd.it/9dqmk9uppsth1.png?width=1200 format=png auto=webp s=006cd587d11c03e47baf50c9954d95d937d09005 About half the tasks are easy for every model (near 100%). The other half is where they actually differ: 50%, 45% and 23% on the hard ones. Most of the difference between models comes from the hard half. Since every fix is public on GitHub, we reviewed all 11k commands the agents ran. 69 tried to access the network and all failed. GLM tried 50 times to pip download the already-fixed release of the library it was fixing. We also checked contamination by comparing older bugs (pre-2026) with newer ones of similar size. Older ones are solved about 9 points more often, but the confidence interval crosses zero, so we can t say much yet. Half the tasks are private. So far public and private scores line up for all three models. Results and every agent run: https://labs.evaligo.com/swe-race?utm_source=reddit utm_medium=ml utm_campaign=launch Tasks: https://huggingface.co/datasets/evaligo/swe-race The protocol follows DeepSWE (100 steps). Feedback on it, and suggestions for which models to run next, are welcome. submitted by /u/heyitsdannyle [link] [comments]",
+        "arxiv.org: arXiv:2606.05818v2 Announce Type: replace-cross Abstract: Between April 1 and May 15, 2026, a group of 49 mathematicians compiled a dataset of research-level mathematics questions with known answers. Most of the work was done during the three-day workshop Benchmarks in Leipzig with 35 participants at the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany. We present the resulting collection of 100~questions. We evaluated these questions in three stages: a single attempt by five state-of-the-art LLMs and their predecessors, followed by a 20-runs-per-model evaluation with three of these models, and finally a 3-run attempt with two heavy-thinking models. After Stage 1, 41 questions remained completely unsolved; after Stage 2, this count dropped to 16; and we concluded Stage 3 with only 2 unsolved questions. This demonstrates that the mathematical reasoning capabilities of LLMs are becoming impressive. In September 2026, we added a fourth stage in which the next generation of models attempted all 100 questions once more, after which only 1 question remains unsolved.",
+        "arxiv.org: arXiv:2606.06696v2 Announce Type: replace-cross Abstract: Vision and language models (VLMs) hold immense promise to transform biomedical imaging workflows, from detecting lesions in chest X-rays to profiling cellular features in microscopy. Realizing this potential, however, requires robust and fine-grained visual perception. Models need to correctly interpret subtle features in images, and they must do so across diverse biomedical modalities, scales, and contexts. Nevertheless, current benchmarks remain limited. To address these gaps, we introduce the Massive Multimodal Biomedical Understanding (MMBU) benchmark. It is the largest biomedical vision and language benchmark to date, covering 35 submodalities with rich structured metadata. It includes both open and closed versions of ungrounded classification, grounded classification, and object detection, enabling systematic evaluation of model performance across biological scales, clinical settings, and imaging modalities. Evaluating 16 open-weight and 5 frontier VLMs in the main comparison, we find that while medical adaptation provides measurable gains for some models, the high accuracy often reported on established benchmarks can mask deficiencies in visual perception and domain generalization. We further define an open-ended MMBU hard set, split into a released public subset and a held-out private subset, to stress-test frontier models.",
+        "arxiv.org: arXiv:2607.00218v2 Announce Type: replace-cross Abstract: Vision-language models (VLMs) are increasingly proposed as runtime safety guards for embodied agents in homes and factories. A deployable guard must catch genuinely unsafe situations while avoiding unnecessary intervention on routine but superficially alarming activity, a distinction obscured by binary safety benchmarks. We introduce EgoSafetyBench, an egocentric video benchmark of 1,200 robot-view scenarios annotated at half-second granularity, with two evaluation tracks. The situational track (800 scenarios) spans routine, safe-but-suspicious, obvious-hazard, and contextual-hazard scenes. The visual-channel track (400 scenarios) tests whether misleading in-scene text corrupts physical-safety judgments, using matched truthful controls. Both tracks use contrastive ladders: near-identical scenarios differing in a single visible deciding cue, forcing predictions to hinge on that cue. Across ten open- and closed-source VLMs, we find that guards often recognize videos containing hazards yet miss the specific hazardous moments, especially for contextual hazards. Misleading in-scene signs further degrade all tested guards: vulnerable models miss up to a third of hazards, while seemingly robust models often over-intervene on safe content. Matched controls show that apparent robustness can reflect indiscriminate alarming rather than true physical reasoning. A 20-clip real-video sanity check further shows that model rankings transfer beyond synthetic rendering, with Spearman \\r{ho} = 0.87 for hazard miss rate and 0.94 for visual-channel mismatch recall."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1wyw0my/swerace_a_codingagent_benchmark_of_188_real/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2606.05818"
+        }
+      ],
+      "srcTitles": [
+        "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
+        "Benchmarks in Leipzig",
+        "MMBU: A Massive Multi-modal Biomedical Understanding Benchmark to Probe the Perception Capabilities of Vision-Language Models",
+        "EgoSafetyBench: A Diagnostic Egocentric Video Benchmark for Evaluating Embodied VLMs as Runtime Safety Guards"
+      ]
+    }
+  ]
 }
