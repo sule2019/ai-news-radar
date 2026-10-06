@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 72,
-      "sources": 4,
+      "signal": 74,
+      "sources": 5,
       "ts": "2026-10-06T13:08:33.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -34,47 +34,18 @@
           "u": "https://www.techmeme.com/261006/p34#a261006p34"
         },
         {
-          "d": "simonwillison.net",
-          "u": "https://simonwillison.net/2026/Oct/6/le-chonk/"
+          "d": "dw.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUTY3bnhWaWNETlRoS1psQkU4Qlp3c2tFWWwtZ1hPUmpNN2ZONkNwYTUzLXpsVTRrRnBQeEpFQnVWVUNydElHdVBQV3BiZ1NLR2diWncya0d4T0VFUzJDUWVZd1Z0Njl0LUhxUzM1OXM2OFh1TGZzOU4yRnc0VDNxazFjSDLSAYQBQVVfeXFMUDRLOUZyR0hsWHdiRFQxZXMxVGVRQkY1ZU1sV0ptRm9kZkRWMUlYQXE5R3Zja205ODlYRzlpTldYUjZPTTNRbEY2azRBbS1TTnBScEYxd29kLUhFekh0WlhKVHRzZllfYmlvOVdxWHRFa3RxSk1XU00xZ1JSWk5wZEstMXZE?oc=5"
+        },
+        {
+          "d": "+1"
         }
       ],
       "srcTitles": [
         "Mistral’s new 1T model aims to leapfrog closed and open rivals",
         "Mistral Says Its New AI Model ‘Le Chonk’ Is the Best Open-Weight Offering Outside of China",
         "Mistral launches a preview of Mistral Large 4, or Le Chonk, a 1T model it claims tops any open model developed in the US or Europe; weights are due October 27 (Carl Franzen/VentureBeat)",
-        "Introducing Mistral Large 4: Le chonk"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 58,
-      "sources": 2,
-      "ts": "2026-10-06T16:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-      "s": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-      "b": [
-        "techcrunch.com: Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-        "techmeme.com: Anthropic expands its Claude Startups program, including up to $45K in discounts and credits via the Claude Startup Stack and a one-time $1,000 API credit (Ashley Capoot/CNBC)"
-      ],
-      "body": [
-        "techcrunch.com: \"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
-        "techmeme.com: Ashley Capoot / CNBC : Anthropic expands its Claude Startups program, including up to $45K in discounts and credits via the Claude Startup Stack and a one-time $1,000 API credit Anthropic on Tuesday announced it's expanding its Claude Startups program, the artificial intelligence lab's latest push to deepen"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261006/p26#a261006p26"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
-        "Anthropic expands its Claude Startups program with $45K in discounts and credits via the Claude Startup Stack, a $1,000 API credit, and a year of Claude Team (Ashley Capoot/CNBC)"
+        "Mistral: French AI firm announces Le Chonk, a new, private model"
       ]
     },
     {
@@ -112,6 +83,38 @@
         "Training nGPT",
         "TRACE: Training-time Report-guided and Clinically Ordered Concept Editing",
         "Distilling Diffusion Score Discrepancy for Efficient Training Data Attribution"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-10-06T16:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+      "s": "\"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+      "b": [
+        "techcrunch.com: Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+        "techmeme.com: Anthropic expands its Claude Startups program, including up to $45K in discounts and credits via the Claude Startup Stack and a one-time $1,000 API credit (Ashley Capoot/CNBC)"
+      ],
+      "body": [
+        "techcrunch.com: \"We created this program because we believe the benefits of AI will reach most people through the companies that build on top of models, rather than through the models alone.\"",
+        "techmeme.com: Ashley Capoot / CNBC : Anthropic expands its Claude Startups program, including up to $45K in discounts and credits via the Claude Startup Stack and a one-time $1,000 API credit Anthropic on Tuesday announced it's expanding its Claude Startups program, the artificial intelligence lab's latest push to deepen"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/06/anthropic-gives-startups-a-free-year-of-enterprise-service-and-1000-in-token-credits/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261006/p26#a261006p26"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic is giving startups a free year of Claude Team and $1,000 in credits",
+        "Anthropic expands its Claude Startups program with $45K in discounts and credits via the Claude Startup Stack, a $1,000 API credit, and a year of Claude Team (Ashley Capoot/CNBC)"
       ]
     },
     {
@@ -154,8 +157,8 @@
       "body": [],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/"
         }
       ],
       "srcTitles": [
@@ -181,17 +184,17 @@
       ],
       "l": [
         {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTZCVV9mSmtBdEkyeDVjOFNiRUlYU203bmZ3YWNfdDUyOW50VFNxYmxHN2xfTmlLNXBNT1czc1JfbUhZODBqVkMxUFNIVThrdzFTSDl4aHhBckUzTTZWODNyYUhQLUtWc3JXcVgzR0pXZmltb3NnSGF5a3RfNHpVYW9sRTdLOW1lY0FaT2xzM3FoU1NFeEJxS3FCMUJuYnpS0gGmAUFVX3lxTE05Z3poT3dmUGU4clhKbWxxOUJkaU1aX2hUX0tybjRiVHV5SndVY3VCNmdMOTVRZGNlai1IMnJMZGxISGZWZF9aVHc3c0JfVnJINzFwRUJhcDJ5SXF4YVQ0YzVRRHpxSzkyVmg5bFNuSVpSNEQ0ZDlFUlhJLWxsYkpnbjFCVzVfSENzTGY1TWNjR0hzZ2swZ1Bzb1J0MzNKYWFWaTBEdlE?oc=5"
-        },
-        {
           "d": "broadbandbreakfast.com",
           "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ1gyUGRSZHZGRXBpZ1V5MjdLX0hlNG5DSFQ0bElpbFl0OG8xd2lDWG04NUtwaGZQM1pJZTFwbnBjWW9uNVY2R1VTSlJaVktTZEg1U3pwTzdGdTVoV09tNHdkc1Q0QWRwX1RPeUhtS0J6SlZ0c09xMHR3YjU1WlJVQTZ4T2lybjItTVE?oc=5"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPSTZCVV9mSmtBdEkyeDVjOFNiRUlYU203bmZ3YWNfdDUyOW50VFNxYmxHN2xfTmlLNXBNT1czc1JfbUhZODBqVkMxUFNIVThrdzFTSDl4aHhBckUzTTZWODNyYUhQLUtWc3JXcVgzR0pXZmltb3NnSGF5a3RfNHpVYW9sRTdLOW1lY0FaT2xzM3FoU1NFeEJxS3FCMUJuYnpS0gGmAUFVX3lxTE05Z3poT3dmUGU4clhKbWxxOUJkaU1aX2hUX0tybjRiVHV5SndVY3VCNmdMOTVRZGNlai1IMnJMZGxISGZWZF9aVHc3c0JfVnJINzFwRUJhcDJ5SXF4YVQ0YzVRRHpxSzkyVmg5bFNuSVpSNEQ0ZDlFUlhJLWxsYkpnbjFCVzVfSENzTGY1TWNjR0hzZ2swZ1Bzb1J0MzNKYWFWaTBEdlE?oc=5"
         }
       ],
       "srcTitles": [
-        "RFK Jr.'s embrace of AI confounds some MAHA allies and medical experts - ABC News",
-        "RFK Jr.'s Embrace of AI Confounds Some Trump Allies"
+        "RFK Jr.'s Embrace of AI Confounds Some Trump Allies",
+        "RFK Jr.'s embrace of AI confounds some MAHA allies and medical experts - ABC News"
       ]
     },
     {
@@ -258,7 +261,7 @@
     },
     {
       "cat": "policy",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-10-06T12:00:00.000Z",
       "writtenSources": 2,
@@ -290,7 +293,7 @@
     },
     {
       "cat": "funding",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-10-06T02:22:00.000Z",
       "writtenSources": 2,
