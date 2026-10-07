@@ -41,35 +41,48 @@
       ]
     },
     {
-      "cat": "products",
+      "cat": "funding",
       "signal": 61,
-      "sources": 2,
-      "ts": "2026-10-07T16:53:46.000Z",
-      "writtenSources": 2,
+      "sources": 4,
+      "ts": "2026-10-07T14:40:01.000Z",
+      "writtenSources": 4,
       "draft": true,
-      "h": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-      "s": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "h": "Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 (Frederic Lardinois/The New Stack)",
+      "s": "Frederic Lardinois / The New Stack : Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 Anth",
       "b": [
-        "techcrunch.com: Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-        "techmeme.com: Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026 (Lauren Forristal/TechCrunch)"
+        "techmeme.com: Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 (Frederic Lardinois/The New Stack)",
+        "techmeme.com: Anthropic launches Claude Haiku 5.5, the first Haiku model with effort controls, for high-volume, cost-sensitive tasks like summary and classification requests (Anthropic)",
+        "simonwillison.net: Claude Haiku 5.5"
       ],
       "body": [
-        "techcrunch.com: Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
-        "techmeme.com: Lauren Forristal / TechCrunch : Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026 Meta announced Wednesday that it took action against 33.2 million pieces of child sexual exploitation content on Facebook and Instagram in the first half of 2026."
+        "techmeme.com: Frederic Lardinois / The New Stack : Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 Anthropic on Wednesday launched Claude Haiku 5.5, the first new version of its smallest and most affordable model in nearly a year.",
+        "techmeme.com: Anthropic : Anthropic launches Claude Haiku 5.5, the first Haiku model with effort controls, for high-volume, cost-sensitive tasks like summary and classification requests Introducing Claude Haiku 5.5: the cheapest, fastest, and most capable small model we've ever released.",
+        "simonwillison.net: As previously promised , here's Anthropic's new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a year ago , and was priced at $1/million input and $5/million output - relatively expensive even back then, and a full 10x the price of OpenAI's GPT-6 Luna , released last month. The new Haiku exactly matches the price of GPT-6 Luna - $0.10/$0.50 - up to 100,000 tokens. Beyond 100,000 tokens the price increases 5x to $0.50/$2.50. Luna itself has a price increase at 272,000 tokens but only to $0.20/$0.75. Haiku 5.5 also uses a new, less generous tokenizer. My Claude Token Counter tool shows that the same long prompt uses around 1.25x as many tokens with Haiku 5.5 compared to Haiku 4.5, so there's a hidden price increase there. If your workloads fit in 100,000 tokens, Haiku is the same price as Luna and reports higher benchmark scores. Above 100,000 tokens, Luna looks like a much better deal. The most recent release of llm-anthropic finally fixed it so I don't need to ship a new version of that plugin for every new model. I tested the new model like this: llm install -U llm-anthropic llm anthropic refresh llm -m claude-haiku-5.5 \"Generate an SVG of a pelican riding a bicycle\" -o thinking_effort low Pelicans Here are pelicans for low, medium, high, xhigh, and max . The new Haiku doesn't let you disable reasoning, and defaults to medium . I got a good bicycle frame for everything beyond low . The low effort pelican cost 0.0936 cents and took 7 seconds. This max effort pelican took 5 minutes 9 seconds to generate, but still only cost me 3.3826 cents : For comparison, here's the pelican I got a year ago from Haiku 4.5 (for 0.7583 cents - Haiku 4.5 did not support reasoning levels). It sucked at drawing pelicans: And a generous API credit scheme for subscribers In addition to Haiku 5.5, Anthropic announced today that they are halving the price of cache reads for Sonnet 5.5. They've also added API cr",
+        "techmeme.com: Grace Kay / The Information : Elon Musk says Grok Bot going forward will use the best back-end model for any given task, including Claude Opus 5.5, MidJourney, Suno, and other leading APIs Elon Musk announced on Tuesday night that SpaceX's AI unit will now use some AI models from competitors to power Grok Bot"
       ],
       "l": [
         {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261007/p33#a261007p33"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261007/p28#a261007p28"
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/"
+        },
+        {
+          "d": "aws.amazon.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQkU2SklzNGNKdXpOWUpkMFJhVEZvbGpLWlpUeDIzakxtcE1HbVRFeGp5N3FDNXlRd21BWWwzd19Na3RadEpaVk9wY3luT3lBc2tQdk9EcVkwNEZ1RTZJeUlpaDlVaG42MWx6U2h2RERsWXA0RTk3eXlTUC1EVzNFQ25EVjBLQUlrYVE?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5"
         }
       ],
       "srcTitles": [
-        "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
-        "Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026 (Lauren Forristal/TechCrunch)"
+        "Anthropic prices Haiku 5.5 at $0.10/1M input and $0.50/1M output tokens for requests up to 100K tokens, and $0.50 and $2.50 above, vs. $1 and $5 for Haiku 4.5 (Frederic Lardinois/The New Stack)",
+        "Anthropic launches Claude Haiku 5.5, the first Haiku model with effort controls, for high-volume, cost-sensitive tasks like summary and classification requests (Anthropic)",
+        "Claude Haiku 5.5",
+        "Elon Musk says Grok Bot going forward will use the \"best back-end model for any given task, including Claude Opus 5.5, MidJourney, Suno, and other leading APIs\" (Grace Kay/The Information)"
       ]
     },
     {
@@ -108,6 +121,38 @@
       "cat": "products",
       "signal": 58,
       "sources": 2,
+      "ts": "2026-10-07T16:53:46.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "s": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "b": [
+        "techcrunch.com: Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+        "techmeme.com: Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026 (Lauren Forristal/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+        "techmeme.com: Lauren Forristal / TechCrunch : Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026 Meta announced Wednesday that it took action against 33.2 million pieces of child sexual exploitation content on Facebook and Instagram in the first half of 2026."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261007/p28#a261007p28"
+        }
+      ],
+      "srcTitles": [
+        "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+        "Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026 (Lauren Forristal/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 58,
+      "sources": 2,
       "ts": "2026-10-07T15:37:23.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -138,7 +183,7 @@
     },
     {
       "cat": "products",
-      "signal": 58,
+      "signal": 54,
       "sources": 2,
       "ts": "2026-10-07T14:00:00.000Z",
       "writtenSources": 2,
@@ -170,7 +215,7 @@
     },
     {
       "cat": "policy",
-      "signal": 57,
+      "signal": 53,
       "sources": 2,
       "ts": "2026-10-07T12:20:04.000Z",
       "writtenSources": 2,
@@ -202,7 +247,7 @@
     },
     {
       "cat": "research",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-10-07T09:00:00.000Z",
       "writtenSources": 2,
@@ -259,7 +304,7 @@
     },
     {
       "cat": "policy",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-10-07T10:53:24.000Z",
       "writtenSources": 2,
@@ -290,8 +335,40 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-10-07T20:37:30.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "University of Delaware launches AI institute focused on mobility and rehabilitation care",
+      "s": "University of Delaware launches AI institute focused on mobility and rehabilitation care 6abc Philadelphia",
+      "b": [
+        "6abc.com: University of Delaware launches AI institute focused on mobility and rehabilitation care",
+        "whyy.org: University of Delaware launches ‘human-centered’ AI institute to help physical therapists treat patients"
+      ],
+      "body": [
+        "6abc.com: University of Delaware launches AI institute focused on mobility and rehabilitation care 6abc Philadelphia",
+        "whyy.org: University of Delaware launches ‘human-centered’ AI institute to help physical therapists treat patients WHYY"
+      ],
+      "l": [
+        {
+          "d": "6abc.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR2taVWpsTERwSnFfSmZVUGRvRXBudW9nQXZBd0ZCMFFtZE5iOXhnSmlqVkg2THdNRG9VZks5R0V2UzJUUjVvMnRueHdSYUVrVkdQMkdodWJfLXU5YTdBc3ctX1hZQ1dYSDNqR0VaSzdsaDB1ZzJoeXZPcWQtOU9YMlhNc0V3eFUyQVd2a0M0djlyWUdqX28tQU56d2lmN1ZUVjJ3WTV0VU00TWUtTG0w0gG0AUFVX3lxTFAyYjlPU0pnRG1qYklLNThnaDdqcUxoZGVUNzhGUWlGdExoclU4S2N0NnFuR2I5ZlU5bXF4MFZiOWVrYnZOYWR5cmdqWmJEYklTZm80M3FWTkJRNHlIRHp2SnlRb1V3YW42T2dmY0JMLTNyOVpvb2U0N3JUclo1eUNfVkRGV1lEdGtScEFPQS0yT0dLU09icUcyME1IdVlkQ3JnMkl5Mlh3dUluZ2FRQlVBTDRjTQ?oc=5"
+        },
+        {
+          "d": "whyy.org",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWXUyRmx0OFVUc0k4MGJqcjBwQXFtMmxIQVR3bWx1WGRvU0VIRndlUlpxcGdDRlpBOW01cEh4RmRYdjJZeTdLb21OQjR6VHNNbXlJLU1hVW9CZ2pvWFdacTREdjJIbEcxWFBDSVJwMXU4c19rSGxHQm9yTzBMOFJQODBzeWNLblU?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "University of Delaware launches AI institute focused on mobility and rehabilitation care",
+        "University of Delaware launches ‘human-centered’ AI institute to help physical therapists treat patients"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 35,
+      "signal": 31,
       "sources": 2,
       "ts": "2026-10-07T13:43:38.000Z",
       "writtenSources": 2,
