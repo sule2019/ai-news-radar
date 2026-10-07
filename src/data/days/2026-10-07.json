@@ -3,7 +3,142 @@
   "stories": [
     {
       "cat": "products",
+      "signal": 69,
+      "sources": 3,
+      "ts": "2026-10-07T00:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "GPT-6 and Intelligent UI for everyone",
+      "s": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+      "b": [
+        "openai.com: GPT-6 and Intelligent UI for everyone",
+        "techmeme.com: OpenAI rolls out GPT-6 in ChatGPT with Intelligent UI, a new feature that includes graphics and interactive elements like charts, buttons, and forms in answers (OpenAI)",
+        "theverge.com: ChatGPT s Intelligent UI update fills its responses with pictures, charts, and buttons"
+      ],
+      "body": [
+        "openai.com: GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use directly.",
+        "techmeme.com: OpenAI : OpenAI rolls out GPT-6 in ChatGPT with Intelligent UI, a new feature that includes graphics and interactive elements like charts, buttons, and forms in answers Last month we introduced the first GPT-6 models for paid customers and today we're bringing that next generation of intelligence",
+        "theverge.com: OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users alongside GPT-6, gives ChatGPT the ability to combine a text response with diagrams, charts, forms, tappable buttons, and more. In a blog post explaining the [ ]"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/gpt-6-for-everyone"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261007/p32#a261007p32"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6"
+        }
+      ],
+      "srcTitles": [
+        "GPT-6 and Intelligent UI for everyone",
+        "OpenAI rolls out GPT-6 in ChatGPT with Intelligent UI, a new feature that includes graphics and interactive elements like charts, buttons, and forms in answers (OpenAI)",
+        "ChatGPT s Intelligent UI update fills its responses with pictures, charts, and buttons"
+      ]
+    },
+    {
+      "cat": "products",
       "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-07T16:53:46.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "s": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "b": [
+        "techcrunch.com: Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+        "techmeme.com: Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026 (Lauren Forristal/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+        "techmeme.com: Lauren Forristal / TechCrunch : Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026 Meta announced Wednesday that it took action against 33.2 million pieces of child sexual exploitation content on Facebook and Instagram in the first half of 2026."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261007/p28#a261007p28"
+        }
+      ],
+      "srcTitles": [
+        "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+        "Meta rolls out AI tools to find ads that secretly lead users to CSAM and says it took action against 33.2M pieces of child exploitation content in H1 2026 (Lauren Forristal/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-10-07T10:47:21.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
+      "s": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event Reuters",
+      "b": [
+        "reuters.com: Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
+        "pymnts.com: Microsoft Eyes Agentic AI Expansion With New Nvidia Laptop"
+      ],
+      "body": [
+        "reuters.com: Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event Reuters",
+        "pymnts.com: Microsoft Eyes Agentic AI Expansion With New Nvidia Laptop PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb3RwVEx5UDFWcFpvRFBFR2hFR3pUUjRuOVE2MUNQVElscTdfNlZZZzNOQzZIRndNcUNKZzFCOVVRbXh2MklhT1NfaHlTTXdIS3Rma29DU3ZRMWtHQWlGdExBYm9oR1M3Wk1kU09LYWNNVDNTNFFBazhNWnQ3X0NOT0FhNXRWTVlHdDloek9GX1dvSFRucjB4U3kxTEpPTkhMNHfSAacBQVVfeXFMUGtjTngzVGppRjdrNnB2OElDaXhfWXRRWnRKTFFXZm04Rkx6U28tZ1loNjJMYms1VnRLZzY2d2hubmVLdGU0WWtlaHBCNGlfcXQ0VzNJVFhFS0NRMzdJdXJwc2Y3Z1RHMlNpLXJPTUEyTTFRVUt1UWJfc3dtdXFyaGpSMlY4bnpLSWdXLTBRaERvN1BPamJhdUd5c1ZpRlFXS21fSEZYZTg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Everything announced at Microsoft s Surface Laptop Ultra event",
+        "Microsoft to sell $2,599 Surface Laptop Ultra containing Nvidia AI chip"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-10-07T15:37:23.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Meta s Muse launches on iPad just a month after its mobile debut",
+      "s": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+      "b": [
+        "techcrunch.com: Meta s Muse launches on iPad just a month after its mobile debut",
+        "theverge.com: Muse launches on the iPad"
+      ],
+      "body": [
+        "techcrunch.com: Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
+        "theverge.com: After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the iPad. A Mac version of Meta's agentic AI tool (designed to compete with OpenClaw, ChatGPT's Dots, and Grok Bot) was released about a [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support"
+        }
+      ],
+      "srcTitles": [
+        "Meta s Muse launches on iPad just a month after its mobile debut",
+        "Muse launches on the iPad"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 58,
       "sources": 2,
       "ts": "2026-10-07T14:00:00.000Z",
       "writtenSources": 2,
@@ -35,7 +170,7 @@
     },
     {
       "cat": "policy",
-      "signal": 61,
+      "signal": 57,
       "sources": 2,
       "ts": "2026-10-07T12:20:04.000Z",
       "writtenSources": 2,
@@ -66,8 +201,65 @@
       ]
     },
     {
+      "cat": "research",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-10-07T09:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "s": "Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for",
+      "b": [
+        "theverge.com: ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+        "bbc.com: OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'"
+      ],
+      "body": [
+        "theverge.com: Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptable risk.\" ChatGPT for Teens, introduced in August, has guardrails for teens and is designed to help students learn, but Common Sense Media says that the teen [ ]",
+        "bbc.com: OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk' BBC"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media"
+        },
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VQjdvVUZMXzVVUHE0TDExcHh2ejJWYnJFazh4QTVYSjFfQkcwU21KVjJvRUs4VktZbnpkNzVhSzNhMzZteHp2QnhxTDBXbHB2TWNNYVFocVhFRWM?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+        "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-07T07:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "s": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips.",
+      "b": [
+        "openai.com: Radisson Hotel Group brings hotel discovery into ChatGPT"
+      ],
+      "body": [
+        "openai.com: Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/radisson"
+        }
+      ],
+      "srcTitles": [
+        "Radisson Hotel Group brings hotel discovery into ChatGPT"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-10-07T10:53:24.000Z",
       "writtenSources": 2,
@@ -99,39 +291,7 @@
     },
     {
       "cat": "models",
-      "signal": 48,
-      "sources": 2,
-      "ts": "2026-10-07T10:47:21.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
-      "s": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event Reuters",
-      "b": [
-        "reuters.com: Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
-        "pymnts.com: Microsoft Eyes Agentic AI Expansion With New Nvidia Laptop"
-      ],
-      "body": [
-        "reuters.com: Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event Reuters",
-        "pymnts.com: Microsoft Eyes Agentic AI Expansion With New Nvidia Laptop PYMNTS.com"
-      ],
-      "l": [
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5"
-        },
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWFk4YTliT0xZQ0tEVm8xNGx2VTlwVWJpSXBLWlFUeUphMGI4YzNOelhPcFdpcmVQNGVzdVZkeFRzcWJWdzVFMVpsMlNZN1ZKWGZJSGxzUGhIY0NKd3hDbko5ZzdXNTdJM0pHTEdOODNRN2RVWDMzZUdSV0kwNFFWNjE1cnFzRkh6a2RoaUdqTG5QWHBnNnNqR1NXNUlxV21OaTQ0R2dSUnFxTk56OXZneHV2dlJyT3M?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
-        "Microsoft Eyes Agentic AI Expansion With New Nvidia Laptop"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-10-07T13:43:38.000Z",
       "writtenSources": 2,
@@ -163,7 +323,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-07T12:00:00.000Z",
       "writtenSources": 1,
@@ -188,7 +348,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-07T12:00:00.000Z",
       "writtenSources": 1,
