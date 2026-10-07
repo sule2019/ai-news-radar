@@ -1,4 +1,158 @@
 {
   "date": "2026-10-07",
-  "stories": []
+  "stories": [
+    {
+      "cat": "products",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-10-07T14:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google s new SynthID website can identify AI-generated media",
+      "s": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+      "b": [
+        "techcrunch.com: Google s new SynthID website can identify AI-generated media",
+        "techmeme.com: Google launches SynthID Detector, a website that lets users detect AI-generated image, video, and audio media across dozens of common file formats (Ivan Mehta/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+        "techmeme.com: Ivan Mehta / TechCrunch : Google launches SynthID Detector, a website that lets users detect AI-generated image, video, and audio media across dozens of common file formats Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video or an audio clip, is generated using AI."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261007/p21#a261007p21"
+        }
+      ],
+      "srcTitles": [
+        "Google s new SynthID website can identify AI-generated media",
+        "Google launches SynthID Detector, a website that lets users detect AI-generated image, video, and audio media across dozens of common file formats (Ivan Mehta/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-07T12:20:04.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google experiments with an AI-powered gaming platform",
+      "s": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+      "b": [
+        "techcrunch.com: Google experiments with an AI-powered gaming platform",
+        "techmeme.com: Google launches Playground, a browser-based, no-code AI game creation platform available to US users aged 18+, powered by Gemini, Nano Banana, and Lyria (Jay Peters/The Verge)"
+      ],
+      "body": [
+        "techcrunch.com: Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+        "techmeme.com: Jay Peters / The Verge : Google launches Playground, a browser-based, no-code AI game creation platform available to US users aged 18+, powered by Gemini, Nano Banana, and Lyria Google Playground is a browser-based tool for making games from AI prompts. Google today announced Playground"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261007/p15#a261007p15"
+        }
+      ],
+      "srcTitles": [
+        "Google experiments with an AI-powered gaming platform",
+        "Google launches Playground, a browser-based, no-code AI game creation platform available to US users aged 18+, powered by Gemini, Nano Banana, and Lyria (Jay Peters/The Verge)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-10-07T10:47:21.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
+      "s": "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event Reuters",
+      "b": [
+        "reuters.com: Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
+        "pymnts.com: Microsoft Eyes Agentic AI Expansion With New Nvidia Laptop"
+      ],
+      "body": [
+        "reuters.com: Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event Reuters",
+        "pymnts.com: Microsoft Eyes Agentic AI Expansion With New Nvidia Laptop PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZkNrUEtoYUtLa3FYRlVtVnBCblY5Tmx2aHp5MFJwTldqSndfVUdmWDNTemFjb3l2YW5OaExPOXRyWTlTaUc1MUN2cW1tNVA4VUNJczRwMDVQZTJMTmhjT1hScHVYTklXNjJrOVpNamE3bVBGalo3RVFLbURIUkpFTGxEMEtjU01SaDVMOWM4OThPSWtmMEI0b0RtVDlvc1YwUWx5R2V3MHVIdm8?oc=5"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWFk4YTliT0xZQ0tEVm8xNGx2VTlwVWJpSXBLWlFUeUphMGI4YzNOelhPcFdpcmVQNGVzdVZkeFRzcWJWdzVFMVpsMlNZN1ZKWGZJSGxzUGhIY0NKd3hDbko5ZzdXNTdJM0pHTEdOODNRN2RVWDMzZUdSV0kwNFFWNjE1cnFzRkh6a2RoaUdqTG5QWHBnNnNqR1NXNUlxV21OaTQ0R2dSUnFxTk56OXZneHV2dlJyT3M?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Microsoft, Nvidia CEOs to unveil new AI laptop at San Francisco event",
+        "Microsoft Eyes Agentic AI Expansion With New Nvidia Laptop"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-10-07T13:43:38.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Why health AI pilots in Utah may be on a collision course with the FDA",
+      "s": "Why health AI pilots in Utah may be on a collision course with the FDA STAT",
+      "b": [
+        "statnews.com: Why health AI pilots in Utah may be on a collision course with the FDA",
+        "fiercehealthcare.com: Utah expands healthcare AI sandbox with August AI, Nolla Health pilots, adds third-party evaluators"
+      ],
+      "body": [
+        "statnews.com: Why health AI pilots in Utah may be on a collision course with the FDA STAT",
+        "fiercehealthcare.com: Utah expands healthcare AI sandbox with August AI, Nolla Health pilots, adds third-party evaluators Fierce Healthcare"
+      ],
+      "l": [
+        {
+          "d": "statnews.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQajQtWENaN2RDSjY0WjZkc0xfQ2JFTXJ4SU5oR3NVVlBQMjlYMUNueDdxZ2lHR1RVeDBVamdVY0hmQ0pzRHBkTHgzdW5vcnBrWF9oa2t5cWNsVFpTRjVHOU1EVUVJQXBSMk1tS3R6YmxydmsybThrRjgyRHQ2TTRIVzNMYU1sOUk1aVNhT0djYUhZUUIxODlpZWZLaFdwN1FK?oc=5"
+        },
+        {
+          "d": "fiercehealthcare.com",
+          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc3M5MnhJYThZdDQ0S3NnSmFUTkc4S3M3cFBBLVIySm5XWFZ5UGhpYXZpQ05vcG9UdEFRY3hHWkg3UjU2emU0TTBGbzhybFF3UGRDMldpbzFkTHJEOFQyRjFrbEs4MGtBdllKQzZmLVF2S05RcUNGSW5nSWhDWHdPaHBmSWpvalVCMUJZY0pJa1hQV0NVbnI1Ni1UektmNjMzdC1La0pHQXBNSEZYejNLblYwUS1rbG91UHB1WGV2X3piajNLU00tVmV3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Why health AI pilots in Utah may be on a collision course with the FDA",
+        "Utah expands healthcare AI sandbox with August AI, Nolla Health pilots, adds third-party evaluators"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-07T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Introducing Playground: Create and play custom games",
+      "s": "Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "b": [
+        "blog.google: Introducing Playground: Create and play custom games"
+      ],
+      "body": [
+        "blog.google: Playground is a new experimental gaming platform that lets you create, play, and share custom games."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/"
+        }
+      ],
+      "srcTitles": [
+        "Introducing Playground: Create and play custom games"
+      ]
+    }
+  ]
 }
