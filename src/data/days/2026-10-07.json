@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 64,
+      "signal": 61,
       "sources": 2,
       "ts": "2026-10-07T14:00:00.000Z",
       "writtenSources": 2,
@@ -63,6 +63,38 @@
       "srcTitles": [
         "Google experiments with an AI-powered gaming platform",
         "Google launches Playground, a browser-based, no-code AI game creation platform available to US users aged 18+, powered by Gemini, Nano Banana, and Lyria (Jay Peters/The Verge)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-10-07T10:53:24.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds",
+      "s": "Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds Reuters",
+      "b": [
+        "reuters.com: Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds",
+        "thehill.com: Most say Trump, Congress not taking AI risk seriously: Survey"
+      ],
+      "body": [
+        "reuters.com: Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds Reuters",
+        "thehill.com: Most say Trump, Congress not taking AI risk seriously: Survey The Hill"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN2p1M1ZHTVBGQXhwSXJMYWp2SXBVWGZzVnV1V3JaWjJWTjI0RnVKS2t2OGdRc1VCYVBwTTljSk9EQ2xINUtZbl9IMDZDZTZWc3hodFYzckxmaldPNC1taDFwcTJxcTJFdjk1eTl0LVpoYlBEREJnX2U0ajB0V0FXRXE2QWlvTllvWVRFaU43SlJRQlhiVVNhVDR4WkdGMi1mSnAtUXprYmZHV1ZfT3RMdTc1emNYVEtCZkNSeFdXZw?oc=5"
+        },
+        {
+          "d": "thehill.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLXowZXVvdzU2LUpXX3YwQ2tIRmp6QU5xRTJXTHFNNlJpdWlMOVlKQmFtaW5PRlp5NDlYaEg3SWlhNEFMeUJnY0w5ZmZ2Q1NkdWJCWF96OUJOZUdYTW40bURwYXZQRWF5Z2JlMmJhR0gyYXRXakVUM05nQ3pzMmtmMl9oZ3R5a3lqOWl2WHFKRXdyd1dUSVA2dG1XbTlMdTBLZkp4a1ppOXJEc0RnRUxmVmFB0gG3AUFVX3lxTE9aamlqaU5PTVkxNG1jcHhaU0JoYTBiVDBSQ0dRNk8wSDdKSkRSRFJCVHEwTE05MVRPOThIcHdYX1p0Tk5JOFlYckVEYzhUUzdiQll5M3hRaHhhalE3OW1NeVJjR2VnNmVJWkVKQWZ6M1RBcFpkQW5PZ0thVXpfQkx1Q2FWaWZrcTJueHlobEc0RjgtelM4YVlKSnZGb0F1STVTLXYxNHlmN3BWRW9LVGFXS05zREZKOA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds",
+        "Most say Trump, Congress not taking AI risk seriously: Survey"
       ]
     },
     {
@@ -152,6 +184,31 @@
       ],
       "srcTitles": [
         "Introducing Playground: Create and play custom games"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-07T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Helping teens learn, plan, and shape the future of AI",
+      "s": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "b": [
+        "openai.com: Helping teens learn, plan, and shape the future of AI"
+      ],
+      "body": [
+        "openai.com: College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/teens-learn-and-plan"
+        }
+      ],
+      "srcTitles": [
+        "Helping teens learn, plan, and shape the future of AI"
       ]
     }
   ]
