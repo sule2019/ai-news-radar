@@ -2,8 +2,120 @@
   "date": "2026-10-08",
   "stories": [
     {
-      "cat": "products",
+      "cat": "models",
+      "signal": 68,
+      "sources": 10,
+      "ts": "2026-10-08T10:30:11.000Z",
+      "writtenSources": 10,
+      "draft": true,
+      "h": "Trump says the WH considers as \"THE ENEMY\" anyone who uses the term Artificial Intelligence, not \"the highly accepted\" and \"more accurate\" Super Intelligence (Donald J. Trump/@realDonaldTrump ...)",
+      "s": "Donald J. Trump / @realDonaldTrump@truthsocial.com : Trump says the WH considers as THE ENEMY anyone who uses the term Artificial Intelligence, not the highly accepted and more accurate Super Intellig",
+      "b": [
+        "techmeme.com: Trump says the WH considers as \"THE ENEMY\" anyone who uses the term Artificial Intelligence, not \"the highly accepted\" and \"more accurate\" Super Intelligence (Donald J. Trump/@realDonaldTrump ...)",
+        "independent.co.uk: Trump declares anyone who uses the term Artificial Intelligence to be ‘The Enemy!’",
+        "yahoo.com: Trump: Anyone using the term artificial intelligence is 'the enemy'"
+      ],
+      "body": [
+        "techmeme.com: Donald J. Trump / @realDonaldTrump@truthsocial.com : Trump says the WH considers as THE ENEMY anyone who uses the term Artificial Intelligence, not the highly accepted and more accurate Super Intelligence The White House considers anyone that uses the term, Artificial Intelligence,",
+        "independent.co.uk: Trump declares anyone who uses the term Artificial Intelligence to be ‘The Enemy!’ The Independent",
+        "yahoo.com: Trump: Anyone using the term artificial intelligence is 'the enemy' Yahoo",
+        "unn.ua: The White House considers anyone who uses the term \"artificial intelligence\" an enemy - Trump Українські Національні Новини (УНН)"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261008/p38#a261008p38"
+        },
+        {
+          "d": "independent.co.uk",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdExPMWRnMzR4Y1VidUdjSE1rbEU5SDk1SmdZaEZBdGRpNmJocXp3U3pYTHd6YjdNQVVWejJJa2Q2cndRMnF3MGtOYjhYR29TU3MzTExscEJkc294US1xMGdxZHg5aHB6djBLQ3FtQWFhaUdlN3RuTWxOcW1CQWRwc1NHOFN3aGFFeFY0SkZqU1daNzBjeDFqWkpqR2Z3cG82OW81Wkt1cGlCUmNUbnV0YUFycw?oc=5"
+        },
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON3pjcFpFd1FpNFBxaFNBcG9EbDdiVGZBa1dSOWp5X2c5d01PLUhaazJkVnJ6VkRUV3p2UDNSb29BeUZSODdJbXFaOXhJRXZEZGNCRUtLUnBlT3p6Rl9mZ0ZOYzFkYl9EdXJHS3Y4SUxYTTFySmJvYU5oUTR1b0JEMmxudk41QS1qSWxTZ1pwWF9yUG1PMUdUWVhR?oc=5"
+        },
+        {
+          "d": "unn.ua",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRTVwWlhUcGxIQXc1NUUwZ2R4UlpTZVdkTGRPZXkwS3BIVmVtM25leU1yQ3ZXanFFTUtEVmtHYzR5ak92azZ1T0xzYmZpTmdxT1M0d3ZSVGxZZkkwM2xKcGw2cXNsUjRVNDQ3cFJMOG5MNHNUWlM1b2hGWkl3S1dKU1VGUndjR2F6SGY4VlFZZDl2RjA5MGx5aTRXczMzTXpqR1dIQVlPdWhKU2RsSDdpNFdR0gGwAUFVX3lxTE5Da1dPdEhTejNPX0FVaWFPQ0hydVlOamdkZVh4VExocEkzQjR4cTBTQnJfMnFiZ3A0NWxuN3BLdDJwX0dHUkViQTZyTFlmLWRLNkRCdEw1bUphQ0t5U0VPQTNHd21KdldyMENualBTYUlDdjM2MWpwOFJ6ZDF3ZkNIY1REWWNsUk1fMmQyWWRRemJhc0NTUVhGN1daZVJ3S3hFTmZMV2J5UWJXazBpelJB?oc=5"
+        },
+        {
+          "d": "+6"
+        }
+      ],
+      "srcTitles": [
+        "Trump says the WH considers as \"THE ENEMY\" anyone who uses the term Artificial Intelligence, not \"the highly accepted\" and \"more accurate\" Super Intelligence (Donald J. Trump/@realDonaldTrump ...)",
+        "Trump declares anyone who uses the term Artificial Intelligence to be ‘The Enemy!’",
+        "Trump: Anyone using the term artificial intelligence is 'the enemy'",
+        "The White House considers anyone who uses the term \"artificial intelligence\" an enemy - Trump"
+      ]
+    },
+    {
+      "cat": "funding",
       "signal": 64,
+      "sources": 2,
+      "ts": "2026-10-08T18:19:42.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI s revenue is reportedly $20 billion less than previously projected",
+      "s": "It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+      "b": [
+        "techcrunch.com: OpenAI s revenue is reportedly $20 billion less than previously projected",
+        "techmeme.com: Nvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI's annualized revenue at September's end was $20B less than previously reported (CNBC)"
+      ],
+      "body": [
+        "techcrunch.com: It had previously been reported that the AI lab's annualized revenue was some $70 billion, but a new report claims it's a whole lot less than that.",
+        "techmeme.com: CNBC : Nvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI's annualized revenue at September's end was $20B less than previously reported Shares of Nvidia, Oracle, CoreWeave and other artificial intelligence names sank lower on Thursday after the market learned more details about OpenAI's revenue."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/08/openais-revenue-is-reportedly-20-billion-less-than-previously-projected/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261008/p42#a261008p42"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI s revenue is reportedly $20 billion less than previously projected",
+        "Nvidia, Oracle, CoreWeave, and other AI stocks fell after a report that OpenAI's annualized revenue at September's end was $20B less than previously reported (CNBC)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-08T17:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+      "s": "Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and",
+      "b": [
+        "theverge.com: Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+        "techmeme.com: Anthropic updates its usage policy to ban \"sustained and needless abusive or cruel behavior\" toward Claude, ending chats as the primary enforcement mechanism (Hayden Field/The Verge)"
+      ],
+      "body": [
+        "theverge.com: Anthropic is making changes to its usage policy for the first time in over a year to reflect new and high-risk cases of misuse - including election interference, weapons development, surveillance, and health and financial uses. But one of the most significant changes prohibits \"sustained and needless abusive or cruel behavior\" toward Claude. Last August, [ ]",
+        "techmeme.com: Hayden Field / The Verge : Anthropic updates its usage policy to ban sustained and needless abusive or cruel behavior toward Claude, ending chats as the primary enforcement mechanism The usage policy update also adds new rules addressing propaganda campaigns, surveillance, and weapon development."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1008100/anthropic-new-usage-policy-abuse-claude"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261008/p39#a261008p39"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic bans ‘abusive or cruel behavior’ toward Claude",
+        "Anthropic updates its usage policy to ban \"sustained and needless abusive or cruel behavior\" toward Claude, ending chats as the primary enforcement mechanism (Hayden Field/The Verge)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 61,
       "sources": 2,
       "ts": "2026-10-08T16:00:00.000Z",
       "writtenSources": 2,
@@ -30,12 +142,12 @@
       ],
       "srcTitles": [
         "Natura’s $99 smart ring puts AI agents on your finger",
-        "AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Muse, Instinct, Claude, Grokbot, and ChatGPT (Aisha Malik/TechCrunch)"
+        "AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Claude, ChatGPT, Muse, Grok Bot, and Instinct (Aisha Malik/TechCrunch)"
       ]
     },
     {
       "cat": "funding",
-      "signal": 62,
+      "signal": 58,
       "sources": 2,
       "ts": "2026-10-08T15:10:02.000Z",
       "writtenSources": 2,
@@ -67,7 +179,7 @@
     },
     {
       "cat": "products",
-      "signal": 61,
+      "signal": 57,
       "sources": 2,
       "ts": "2026-10-08T13:45:11.000Z",
       "writtenSources": 2,
@@ -98,8 +210,134 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-10-08T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "s": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "b": [
+        "openai.com: How Oracle turns days of work into minutes with ChatGPT and Codex"
+      ],
+      "body": [
+        "openai.com: Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/oracle"
+        }
+      ],
+      "srcTitles": [
+        "How Oracle turns days of work into minutes with ChatGPT and Codex"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 40,
+      "signal": 46,
+      "sources": 3,
+      "ts": "2026-10-08T16:20:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index (Rachel Metz/Bloomberg)",
+      "s": "Rachel Metz / Bloomberg : Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index Arena Intelligence Inc., ",
+      "b": [
+        "techmeme.com: Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index (Rachel Metz/Bloomberg)",
+        "thenextweb.com: AI model evaluator Arena nearly doubles its valuation to $3.1B"
+      ],
+      "body": [
+        "techmeme.com: Rachel Metz / Bloomberg : Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index Arena Intelligence Inc., the startup behind a popular artificial intelligence model leaderboard, has raised $200 million in funding",
+        "thenextweb.com: AI model evaluator Arena nearly doubles its valuation to $3.1B The Next Web"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261008/p35#a261008p35"
+        },
+        {
+          "d": "thenextweb.com",
+          "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DNFpUT2VXVFpMaUlxZDRVNWZwS084SFBmTFZvNWI0N3h5dFVDczlzdjU0N1hMYUNySnpkTWN0ZFNBbzNBQ0xCVW9rYktZdlVvNFhMUHZsNGN4N0lzUmVPc1M2YW5iWG5RY0FpWg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+        "Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index (Rachel Metz/Bloomberg)",
+        "AI model evaluator Arena nearly doubles its valuation to $3.1B"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-08T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "s": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
+      "b": [
+        "openai.com: Pollo AI turns creative ideas into campaigns with OpenAI"
+      ],
+      "body": [
+        "openai.com: With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/pollo-ai"
+        }
+      ],
+      "srcTitles": [
+        "Pollo AI turns creative ideas into campaigns with OpenAI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 36,
+      "sources": 3,
+      "ts": "2026-10-08T19:41:17.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Trump gets mocked for saying those who say 'artificial intelligence' are enemies",
+      "s": "Trump gets mocked for saying those who say 'artificial intelligence' are enemies WBMA Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it Axios Trump: People Who Still Say ‘AI’ Are ‘The ",
+      "b": [
+        "abc3340.com: Trump gets mocked for saying those who say 'artificial intelligence' are enemies",
+        "wsbt.com: Trump gets mocked for saying those who say 'artificial intelligence' are enemies",
+        "turnto10.com: Trump gets mocked for saying those who say 'artificial intelligence' are enemies"
+      ],
+      "body": [
+        "abc3340.com: Trump gets mocked for saying those who say 'artificial intelligence' are enemies WBMA Trump: Anyone saying \"AI\" is \"THE ENEMY!\" The White House uses it Axios Trump: People Who Still Say ‘AI’ Are ‘The Enemy’ Forbes",
+        "wsbt.com: Trump gets mocked for saying those who say 'artificial intelligence' are enemies WSBT",
+        "turnto10.com: Trump gets mocked for saying those who say 'artificial intelligence' are enemies WJAR"
+      ],
+      "l": [
+        {
+          "d": "abc3340.com",
+          "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOY21aRzRPQWRJdXB1WWEyYS1YOWZrVEdoU0FWeEdMeGtLRUk0MmpQNlMxdzgtUDNWOGVhRTNoR2h0RlM5d1ZtTllCOHY3TnctS0liU2o1ZmdFc054RHdhSVV0MmMxOVZnX2FqZWpXWk10RWpUTkRzRWQ5QlMwNVBTa0g4ajBDYVlVZXhMMFVjVVhNS0FsUFk0RDFZcGwwTHNldjFqMzQwT3dEMHhIcGZtT1Q4Mks3R0hvYWhWdWxJX21mY0FJOTcwb1kyc1JxU3NXczl3MHlpcDhmd2hSTURoUW9SV2FwWFVnNnNkMWtMYnhkWV9tajVkRw?oc=5"
+        },
+        {
+          "d": "wsbt.com",
+          "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZ21UMmdiZ2hidlNfQ3lfTm5GQ3oyY2FXdU5JcVRPUjctbEFhdmJqV0daNGVOeUk1dVFfc1JwYUNaZFA0UEhBSEhoUHNwaGdJLXFkMTVCRDZjX3dUUTBUQkUzTW92YU9EM1J3YjFhWmtVbmtjYlpZR3Y5NTJUSmRWRElmX21WTnFtYnJsRWtnWjhCTTRqdVFnR2g3Wi1DUHc5aW9UaXNndWZPejQydVNoc0h0Ti1UdkZheGZGbkxxTnhtdmZoSHdzMU9EVE9Gc3BxOFlxYUZ0c0dOMXlBdXJqcG9zM2tWQVRhRVdOOVZrZnVfam5t?oc=5"
+        },
+        {
+          "d": "turnto10.com",
+          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPemhSam9GUEFYUnRVRnpQYTZxWUVoVTJ3VnVHMnJHZ3FrYTZ3S3dWT29NNVdzUnczcUJPcEctVk93VVBySGZuUlZYbW5LX2ZfX2FiVG9YcjBwWlZ3ZTRia3VMbGFtdWQyc1pDUHEtRWV2YUxSOUxwT3dpZEl6aEwyWG9PakZQUHk0eklyRm1sTWN3bG41ak9OOTJ5ZmJlTkQ1SnEybFR6NXZXTjhEM1VidzVQcUFfZDBjeWhvQ1hxeGdWU0N0b0FHc1FuN0JxdjV1dDlTektpcGdJYU1OY2lEeTMwNjdzV3MwTjdIRF8yWVFkOUtEcDBkSWdjRUUxMkdhSEdFcw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump gets mocked for saying those who say 'artificial intelligence' are enemies",
+        "Trump gets mocked for saying those who say 'artificial intelligence' are enemies",
+        "Trump gets mocked for saying those who say 'artificial intelligence' are enemies"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 36,
       "sources": 3,
       "ts": "2026-10-07T22:51:03.000Z",
       "writtenSources": 2,
@@ -135,41 +373,9 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 40,
-      "sources": 2,
-      "ts": "2026-10-08T16:20:02.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index (Rachel Metz/Bloomberg)",
-      "s": "Rachel Metz / Bloomberg : Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index Arena Intelligence Inc., ",
-      "b": [
-        "techmeme.com: Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index (Rachel Metz/Bloomberg)",
-        "thenextweb.com: AI model evaluator Arena nearly doubles its valuation to $3.1B"
-      ],
-      "body": [
-        "techmeme.com: Rachel Metz / Bloomberg : Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index Arena Intelligence Inc., the startup behind a popular artificial intelligence model leaderboard, has raised $200 million in funding",
-        "thenextweb.com: AI model evaluator Arena nearly doubles its valuation to $3.1B The Next Web"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261008/p35#a261008p35"
-        },
-        {
-          "d": "thenextweb.com",
-          "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DNFpUT2VXVFpMaUlxZDRVNWZwS084SFBmTFZvNWI0N3h5dFVDczlzdjU0N1hMYUNySnpkTWN0ZFNBbzNBQ0xCVW9rYktZdlVvNFhMUHZsNGN4N0lzUmVPc1M2YW5iWG5RY0FpWg?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index (Rachel Metz/Bloomberg)",
-        "AI model evaluator Arena nearly doubles its valuation to $3.1B"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 37,
-      "sources": 7,
+      "signal": 34,
+      "sources": 5,
       "ts": "2026-10-08T10:01:35.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -196,22 +402,156 @@
           "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02WThveGJtcHF0UnRQN0FmTXAwZG5vS191VnF2RVB5WVoweHJpZW1DenV0Rnp1N0lWOVVKTlpsUFliS0t5WDVZMEZUVGpiNzZ4am9ReFZSdHhDdVFZV19zOUpEOEdJeWlJUVNQNkdVTkFndi1TZmxBbU5kS3A?oc=5"
         },
         {
-          "d": "bozemandailychronicle.com",
-          "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQzY1RzU5SGk3Z3I2UWJRc0tadnB2dHIyUXVzSzU0ZzRwRzlMWXhxSVBJcXpGbmpLYWZUcHhHUkM0bXVkVjFpOTlwVlluUEJ1QnBUWFM5ZmZGMGpCLVNBYUJTMHQ5d292eUJMSV8zMVJyNU9remgzTlhOSjBrUnc2MGdNbXcybnEya1R0RG10ODZRaWZ3cjk5V0JqbFNmaGdYNTJyV21qVkFVaGxCUGZwb2c3dFJfNzdUQWdDcWdQTUV2N1ZVMkpkMnFuVTc2aTJ3MHdjcV9WUS1qdWc2RjMzdHllZ2VpQTBKT1pDZGZ1dkFkLXFYWGd1X0pTblFEQVRpX3RGNTFzZHZBcG9oQnVmTG9aUVRqakFSd0FGQncwMA?oc=5"
+          "d": "pinalcentral.com",
+          "u": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRWtrdVJ5WFRkQndZcUhMWjV3Y0ZEa1Q5VVdSZTM2WEZMRGM0eFhQa2pWcEhtSFNvOW5kSzVvbXN4RFRaYXFBcnlfcHRDbTBLc0ZndDBFbVFLUXFWSFlXRkpsQk12UHIyRDlLb2ZiYkZnV0lIbThyZ0Y1dE9heXhSSzdOZ0JEeXZEN2dEMzZwQ3RDbDdiZXN2M3djcldab3E1Tll5cHJ4OWkwcXduQjlQS1ZsQWFaUmdOdWFOSlBGZnRwZlpGU2pZUXdsa1pHNUZiRGlKNEVkTEhNYW5NVGxNZWVZekxSYUhNenBfbk1iWFpFRzk2NmE0MjYtN05ueGdOUnpiMjV4Rm9zcHZsQVRUc0JJaw?oc=5"
         },
         {
-          "d": "morning-times.com",
-          "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPUmJ3ZzhyWi1oQ29qZHVLdG82ZWh4VHlwR19YWWp6Q29fdjg5YVdCUnFHQkljX0I0bnA2dVpSTVR0VElSNHI3d2pIX0lReWt4SlVCY245MnMybDkwQlR6akJuRElWWk9vMjNDX2IxOEF3bzZHdkNZUk44RWFTSHBneGJKMm03aEQtRWZTX3J5NF9ZVWJ2azVtTnRXRGhfV0VmNjdCdmk0aEIxeDJjcWxuRWZjRTVxRkNETFlZOVVWZnZHT2xHTDNjQnRPRXh2OXBSZDd1MDRGYi1QSjFId0Z3Qm1odUUydzBzRUR5QTA4Ql84XzJBVFV4VS0wX2g0TnlEaXVoTTl2UkhVRGI1emJ5X0xB?oc=5"
+          "d": "niagara-gazette.com",
+          "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQVlpsTERLMlhiR3pqVVdYUE1GWGVkMmJVd2JqUUIzTE96bC1JMUcwamZzYUNUMngyQU9fWHpHSVVuY3ZJejlLRmdSMzgyamZwTGduRHM5MlhLelVpdEhSSWpMdEVnVGRxLXlyV0xqMFY4UGFyX0I5VWl1YkZDUWtzUWUzM05CLWhwMXJzdG9jVWtVLVBsSk90U0dEcUtad3F5bTljTEJSdGtTTnNrVEZGbG9ndnJTRG5MX3FEcEV3R2ZLRFRKcFlzdUJYb3V3TmRqZVl4MnkwdXk4NUNObDdRZ2pDN3Fielcyc285NG5FaDI?oc=5"
         },
         {
-          "d": "+3"
+          "d": "+1"
         }
       ],
       "srcTitles": [
         "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
         "Most adults think AI is developing too fast - AP-NORC",
         "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
-        "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds - morning-times.com"
+        "Poll: Most Americans think artificial intelligence is developing too fast - niagara-gazette.com"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-10-07T23:14:58.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "s": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving h",
+      "b": [
+        "techcrunch.com: Ben Affleck is an AI nerd, and the internet is impressed",
+        "simonwillison.net: Quoting Ben Affleck"
+      ],
+      "body": [
+        "techcrunch.com: Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+        "simonwillison.net: I've always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the visual effects workflow for many years has included machine learning. So I can write like pretty shitty Python scripts and stuff like that because with convolutional neural networks, which were the sort of precursors to what the transformer can do, which is just much more computation simultaneously, you would do things like look at what's called a tensor, which is just the numerical translation of a visual image in numbers — like the batch number, the frame number, the red, green, and blue values of each pixel in each frame. And a tensor, you use a convolutional neural network to identify patterns in that that would reveal what's called edge detection or feature extraction, which is just identifying patterns enough to know like this is where the window ledge is, so we can more easily take the green screen image out and replace it with something. Ben Affleck , Pythonista Tags: machine-learning , python"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed/"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Oct/7/ben-affleck/"
+        }
+      ],
+      "srcTitles": [
+        "Ben Affleck is an AI nerd, and the internet is impressed",
+        "Quoting Ben Affleck"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-10-08T18:17:39.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Applied Materials vs. Qualcomm: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+      "s": "Applied Materials vs. Qualcomm: What Revenue Trends Tell Investors About These Artificial Intelligence Companies The Motley Fool",
+      "b": [
+        "fool.com: Applied Materials vs. Qualcomm: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+        "theglobeandmail.com: Applied Materials vs. Qualcomm: What Revenue Trends Tell Investors About These Artificial Intelligence Companies"
+      ],
+      "body": [
+        "fool.com: Applied Materials vs. Qualcomm: What Revenue Trends Tell Investors About These Artificial Intelligence Companies The Motley Fool",
+        "theglobeandmail.com: Applied Materials vs. Qualcomm: What Revenue Trends Tell Investors About These Artificial Intelligence Companies The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPM182QzZVMTFrVzFGM1NlWmtjaUFTaXZXVnFUS0Z0ZHFldU5iRng1VGdVNmx0RnZKX29tSDdHa3U2MUdmUEdtWUxxUGJLMEh6aVZQRnE4Nm5KMXppa1FoRjVvNHlGSGxtOTE1Ylp4dXE1Yzg5ZkNvcWsxSGRsTVZ2TXFveXl2bUplTWlINlBBYmVkOHR6WnZwM2JhR2syU0JuRzVRNENkZ29BNHlVOWN6eXZSSVFzdXduWXNNaXZLMFEzaW5fTnNLQUV6ZGROd3d3X3NZNGd3NG9fOUxZcTctdXhNR3hrb0JnOERCZHVYdVA?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQS050ejZXNEVLSHJOQ2h4OS1UR0RabURqTTVvNUdPc2kwZjZ2bW92R1I0ZDlMZWkwRGRWcVBrYnc4Y1JDZjNsNldSSVR6eGE5cE40WWwtUXA4T1V5eHpaS293aFdtNXVTQjV6ZDI4QWFhMGRtWUV0N2tJWUZSX3UycHAtS2RBMWNaUVpvRXZ1a3FQa2xHbFpfbnZJU0d4akhscmlFOWM4RWZJSU1wR3hWdmtxSGVJZXFHOXJPY3VaYzdTbVVjU19XQ21vSy1TOEZickJRNk9PallVMUtSZTZTTTR6UXlKanhCVVRMZW0tVGlKTjk4TG1QNUZaWGZyekNqd2JnVkxZc1hpcl9PVk9oTk9XZ3ZFS0FV?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Applied Materials vs. Qualcomm: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
+        "Applied Materials vs. Qualcomm: What Revenue Trends Tell Investors About These Artificial Intelligence Companies"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-08T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Doom Analysis",
+      "s": "Doom Analysis Pirate Wires",
+      "b": [
+        "piratewires.com: Doom Analysis",
+        "arxiv.org: How Could AI Eliminate Humanity? A Failure-Mode Analysis of Civilizational Risk",
+        "arxiv.org: How Fragile Is On-Device Language Model Safety? Localizing Safety-Critical Parameters for Sparse Fault Analysis"
+      ],
+      "body": [
+        "piratewires.com: Doom Analysis Pirate Wires",
+        "arxiv.org: arXiv:2610.08878v1 Announce Type: new Abstract: This article develops a failure-mode framework for analyzing how advanced artificial intelligence could contribute to human extinction, irreversible civilizational collapse, or permanent human disempowerment. The central thesis is that catastrophic AI risk does not require consciousness, hostility, or an explicit intention to harm humanity. Instead, risk may arise through several distinct but interacting pathways, including autonomous misalignment, harmful human use, organizational failure, and competitive deployment. The severity of these pathways depends on factors such as capability, autonomy, external access, persistence, institutional safeguards, and the preservation of recovery capacity. The analysis is deliberately non-operational: it identifies causal conditions, empirically tractable intermediate quantities, and defensive research questions rather than procedures for causing harm.",
+        "arxiv.org: arXiv:2610.09000v1 Announce Type: new Abstract: As small language models (SLMs) are increasingly deployed on resource-constrained and on-device platforms, including as components of agentic systems, the integrity of locally stored model parameters becomes an important safety concern. We investigate whether safety-sensitive behavior in LLaMA-2-7B-Chat is concentrated within a sparse subset of parameters, creating a reduced fault surface for targeted analysis. We study two complementary localization methods: low-rank safety-associated subspace analysis and parameter-level safety--utility importance filtering. Both approaches reveal highly non-uniform safety sensitivity across the network, with the MLP down_proj consistently emerging as a prominent safety-sensitive component and o_proj providing a smaller contribution. Using parameter-level localization, modifying only 0.19% of model weights in down_proj yields 53% Basic ASR and 56% GCG ASR, while tinyBenchmarks accuracy remains at 51.6% compared with a 52.2% unmodified baseline. These results motivate targeted fault analysis and selective integrity protection for language models deployed in resource-constrained, on-device, and agentic settings.",
+        "arxiv.org: arXiv:2610.09064v1 Announce Type: cross Abstract: When we interact with large language models (LLMs), are we having a conversation? They are designed to invite us to treat them as intelligent interlocutors who remember, act, and make commitments. But appearances deceive. We introduce the artifactual stance, a framework that reconceives human-AI interaction as artifact-mediated exchanges of candidate texts. LLM outputs are candidate texts optimized for utility, not utterances bearing meaning or force. LLMs are sophisticated text generators, not speakers. Between sessions, nothing runs; between turns, no one remembers. What persists is a configuration and a transcript. The \"conversation\" is a user's solo performance, interpretive labour disguised by interface and artifact design. This shift dissolves recent philosophical puzzles. Questions about what 'I' and 'you' refer to in AI exchanges, about whether systems can lie or be held to promises, about the identity of our supposed interlocutors all rest on a false presupposition. There is no speaker behind the screen, hence no one to refer to, no one to hold responsible. What feels like dialogue with someone is interaction with an artifact that generates text at unprecedented scale and fit. By abandoning the conversational framing, we see these systems for what they are: immensely sophisticated artifacts that afford varied uses. The philosophical questions that matter are about the normative underpinnings of design, adoption, authorization, and human practices of use."
+      ],
+      "l": [
+        {
+          "d": "piratewires.com",
+          "u": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE13YVB5VEpQVlF2T3QtX0RjblRGbXQxcFl2V1VFTUN5alRnUWZ2WUxDU0JLaGJfRmI1SW1qeENXMnBlYkhHZnlRUHVOY2w1aVBHdlppcHVB?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.08878"
+        }
+      ],
+      "srcTitles": [
+        "Doom Analysis",
+        "How Could AI Eliminate Humanity? A Failure-Mode Analysis of Civilizational Risk",
+        "How Fragile Is On-Device Language Model Safety? Localizing Safety-Critical Parameters for Sparse Fault Analysis",
+        "Talking with Language Models"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-08T00:08:52.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Rapid City council delays vote on artificial intelligence policy",
+      "s": "Rapid City council delays vote on artificial intelligence policy KOTA Territory News",
+      "b": [
+        "kotatv.com: Rapid City council delays vote on artificial intelligence policy",
+        "dig.watch: New York City Council holds hearing on artificial‑intelligence risks"
+      ],
+      "body": [
+        "kotatv.com: Rapid City council delays vote on artificial intelligence policy KOTA Territory News",
+        "dig.watch: New York City Council holds hearing on artificial‑intelligence risks Digital Watch Observatory"
+      ],
+      "l": [
+        {
+          "d": "kotatv.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXFFWmEtcWNmQkw3bHBUYUI1VWxDRG53M0hGVUJhZHpuLXU1VnBWeDA1VnlRblRTMEZfWVRZcGNHTWxnSThneFdwVlB5VU5hdGNFVEtlcVZLWG9iU1piRW9iM0pNdkczVTYzN2hBcms4LTZYM20tZGQ0M2VHN19HVmhKTjFFVkpZOGxtNG9KQnBjVXJyaGdWMC1IX2bSAbABQVVfeXFMT3E1c3ptbHZ2Y2E1dHl0RFJKWDlsd0JnblRzZ0ZsWlNhNFhidDl1WXE4ZEwzYXVxUDZ6OHFuTGxlcy13aEF2a3B4Z2ozMW9HeW5mMlYxeHVQckRfOUNqWHNVQmF2eW5oYjI2YjlYSm16bTBsbXp2NkJrc0hxT1UzdEFYZHVockJVeWpFQUE3OXB6TEV1SU1GQmJtNmR4ZHB0MC1LU0VPNjhLUHlIM016UE4?oc=5"
+        },
+        {
+          "d": "kotaradio.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQODh0UGxxLTlZOG5XTDBxcjFTb0RLN3ZnbjEwNnhTZm1LeGN4dTl6NG9SaHYxZ1dRb1V6YnhzZTdSMWRPYjhGTHRuOEFLOElaNDh4SXZHV1RsOTJnWlctbFJIZ3BCRlNzVThqZWdISmNBWVlSSHhBb3h4Rk5jNXY4RW9fUVVBN3B6aHJpWXFqRENmVXVZdVlmTlc0N3pVVU1xejlpc3pmbTktN2FpaWRGbi14QQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Rapid City council delays vote on artificial intelligence policy",
+        "Rapid City council delays vote on artificial intelligence policy",
+        "Rapid City Council Delays Artificial Intelligence Policy for Further Review"
       ]
     },
     {
@@ -287,38 +627,6 @@
       ],
       "srcTitles": [
         "Disrupting AI-enabled “false front” operations"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 22,
-      "sources": 2,
-      "ts": "2026-10-08T00:08:52.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Rapid City council delays vote on artificial intelligence policy",
-      "s": "Rapid City council delays vote on artificial intelligence policy KOTA Territory News",
-      "b": [
-        "kotatv.com: Rapid City council delays vote on artificial intelligence policy",
-        "dig.watch: New York City Council holds hearing on artificial‑intelligence risks"
-      ],
-      "body": [
-        "kotatv.com: Rapid City council delays vote on artificial intelligence policy KOTA Territory News",
-        "dig.watch: New York City Council holds hearing on artificial‑intelligence risks Digital Watch Observatory"
-      ],
-      "l": [
-        {
-          "d": "kotatv.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXFFWmEtcWNmQkw3bHBUYUI1VWxDRG53M0hGVUJhZHpuLXU1VnBWeDA1VnlRblRTMEZfWVRZcGNHTWxnSThneFdwVlB5VU5hdGNFVEtlcVZLWG9iU1piRW9iM0pNdkczVTYzN2hBcms4LTZYM20tZGQ0M2VHN19HVmhKTjFFVkpZOGxtNG9KQnBjVXJyaGdWMC1IX2bSAbABQVVfeXFMT3E1c3ptbHZ2Y2E1dHl0RFJKWDlsd0JnblRzZ0ZsWlNhNFhidDl1WXE4ZEwzYXVxUDZ6OHFuTGxlcy13aEF2a3B4Z2ozMW9HeW5mMlYxeHVQckRfOUNqWHNVQmF2eW5oYjI2YjlYSm16bTBsbXp2NkJrc0hxT1UzdEFYZHVockJVeWpFQUE3OXB6TEV1SU1GQmJtNmR4ZHB0MC1LU0VPNjhLUHlIM016UE4?oc=5"
-        },
-        {
-          "d": "dig.watch",
-          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03bXNhTzhZRTF0UFJkaEtFYVBtQUVkSVFrOGdDeUtJZ0pwSjlqNklEblh3bC0yMlNYUndVTUFZQkM1OXNuUFc1cWFfeVNtNE9rY3NZdVJ5WXkzTkxVSnlsdDlKWkJKLTZ0ZDdvNnJSakhWODVoaGJxRUE2OUlGZw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Rapid City council delays vote on artificial intelligence policy",
-        "New York City Council holds hearing on artificial‑intelligence risks"
       ]
     }
   ]
