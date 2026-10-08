@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 48,
+      "signal": 44,
       "sources": 3,
       "ts": "2026-10-07T22:51:03.000Z",
       "writtenSources": 2,
@@ -40,7 +40,109 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 35,
+      "sources": 4,
+      "ts": "2026-10-08T10:01:35.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
+      "s": "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds Bozeman Daily Chronicle",
+      "b": [
+        "bozemandailychronicle.com: Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
+        "apnorc.org: Most adults think AI is developing too fast - AP-NORC",
+        "tribdem.com: Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds - The Tribune-Democrat"
+      ],
+      "body": [
+        "bozemandailychronicle.com: Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds Bozeman Daily Chronicle",
+        "apnorc.org: Most adults think AI is developing too fast AP-NORC",
+        "tribdem.com: Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds The Tribune-Democrat",
+        "thespec.com: Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds The Hamilton Spectator"
+      ],
+      "l": [
+        {
+          "d": "bozemandailychronicle.com",
+          "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQzY1RzU5SGk3Z3I2UWJRc0tadnB2dHIyUXVzSzU0ZzRwRzlMWXhxSVBJcXpGbmpLYWZUcHhHUkM0bXVkVjFpOTlwVlluUEJ1QnBUWFM5ZmZGMGpCLVNBYUJTMHQ5d292eUJMSV8zMVJyNU9remgzTlhOSjBrUnc2MGdNbXcybnEya1R0RG10ODZRaWZ3cjk5V0JqbFNmaGdYNTJyV21qVkFVaGxCUGZwb2c3dFJfNzdUQWdDcWdQTUV2N1ZVMkpkMnFuVTc2aTJ3MHdjcV9WUS1qdWc2RjMzdHllZ2VpQTBKT1pDZGZ1dkFkLXFYWGd1X0pTblFEQVRpX3RGNTFzZHZBcG9oQnVmTG9aUVRqakFSd0FGQncwMA?oc=5"
+        },
+        {
+          "d": "apnorc.org",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02WThveGJtcHF0UnRQN0FmTXAwZG5vS191VnF2RVB5WVoweHJpZW1DenV0Rnp1N0lWOVVKTlpsUFliS0t5WDVZMEZUVGpiNzZ4am9ReFZSdHhDdVFZV19zOUpEOEdJeWlJUVNQNkdVTkFndi1TZmxBbU5kS3A?oc=5"
+        },
+        {
+          "d": "tribdem.com",
+          "u": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQenRoZEpudzRkU3llay1qcWpMbDdOd1pqMkNZMHZSU3pGRzgzdTk0MWdvQkRPUGU0VG1lQWNnZ0VoZ1VsWnBueEdKSExQRGhkdnp1aG9XM21saXloZU02MjBHSU1mQzVYMVJsSXhUakd3dC0tTUEySEtrY20xazI3Y3dzWV9zUFB2eTlVQllCR3NBZUlzck56UkpxMTNDcEs2MElHUEZKQm9LaTFfSXd3dFptWDhLYzZtNzBKcnVzbzBBVUVXaXlWcy0xMThBZ2JuSTZPVHU3TldTUTZHTWJ2NlFNYTZ4ZlhFRDNaOTlBMTZTQUZHeHdRWEUtZXBEaS1sNlF4ZHhPX3NoQ1Bt?oc=5"
+        },
+        {
+          "d": "thespec.com",
+          "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQkQya1JFcktfaTJ1UVZ6RFFKV1ZicWloV0VKT2JuTElSbHRtRGc2RVU5c1Z2VDJaLWNFTlpFMFd4VzJVX0h2Q1p4VFYyTm9TaWU4WFEtajlWdHhycHcxRWFRSUNFRzRkMXJTd3JYZ2YydG1wSllIb3ZmaFc5Q0RiX001NVRZeUZaNUV1NlhZOE5NVVJURUJoZVhhZVRYcTZCRlkxQU51dnJ1TnByeXlWWkI2dzI1M2FkQUFpOHhYSnVJM0NlQWlDdEZrRmw3QkNJZm9CeVh1NU8tS3hHVVhBdXg3SlNTbG95N2xCQzV2alZfNUJGZDJYT0xhejRZQ2gydFh0NE1n?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
+        "Most adults think AI is developing too fast - AP-NORC",
+        "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds - The Tribune-Democrat",
+        "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-08T00:08:52.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Rapid City council delays vote on artificial intelligence policy",
+      "s": "Rapid City council delays vote on artificial intelligence policy KOTA Territory News",
+      "b": [
+        "kotatv.com: Rapid City council delays vote on artificial intelligence policy",
+        "dig.watch: New York City Council holds hearing on artificial‑intelligence risks"
+      ],
+      "body": [
+        "kotatv.com: Rapid City council delays vote on artificial intelligence policy KOTA Territory News",
+        "dig.watch: New York City Council holds hearing on artificial‑intelligence risks Digital Watch Observatory"
+      ],
+      "l": [
+        {
+          "d": "kotatv.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXFFWmEtcWNmQkw3bHBUYUI1VWxDRG53M0hGVUJhZHpuLXU1VnBWeDA1VnlRblRTMEZfWVRZcGNHTWxnSThneFdwVlB5VU5hdGNFVEtlcVZLWG9iU1piRW9iM0pNdkczVTYzN2hBcms4LTZYM20tZGQ0M2VHN19HVmhKTjFFVkpZOGxtNG9KQnBjVXJyaGdWMC1IX2bSAbABQVVfeXFMT3E1c3ptbHZ2Y2E1dHl0RFJKWDlsd0JnblRzZ0ZsWlNhNFhidDl1WXE4ZEwzYXVxUDZ6OHFuTGxlcy13aEF2a3B4Z2ozMW9HeW5mMlYxeHVQckRfOUNqWHNVQmF2eW5oYjI2YjlYSm16bTBsbXp2NkJrc0hxT1UzdEFYZHVockJVeWpFQUE3OXB6TEV1SU1GQmJtNmR4ZHB0MC1LU0VPNjhLUHlIM016UE4?oc=5"
+        },
+        {
+          "d": "dig.watch",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03bXNhTzhZRTF0UFJkaEtFYVBtQUVkSVFrOGdDeUtJZ0pwSjlqNklEblh3bC0yMlNYUndVTUFZQkM1OXNuUFc1cWFfeVNtNE9rY3NZdVJ5WXkzTkxVSnlsdDlKWkJKLTZ0ZDdvNnJSakhWODVoaGJxRUE2OUlGZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Rapid City council delays vote on artificial intelligence policy",
+        "New York City Council holds hearing on artificial‑intelligence risks"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-08T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AI breakthroughs in robotics won t change your life any time soon",
+      "s": "The story is a collaboration between MIT Technology Review and Aventine , a non-profit research foundation that creates and supports content about how technology and science are changing the way we li",
+      "b": [
+        "technologyreview.com: AI breakthroughs in robotics won t change your life any time soon"
+      ],
+      "body": [
+        "technologyreview.com: The story is a collaboration between MIT Technology Review and Aventine , a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white with a black head and torso—has been popping up on video feeds. Perhaps you’ve seen it dance or pass popcorn, put trash in a bin, vacuum, or press the button of a microwave. Or maybe you’ve watched it fall backward while handing out water bottles or struggle to iron a shirt. This would be Tesla’s Optimus , an AI-powered humanoid robot that Elon Musk, the company’s CEO, believes will be “not just Tesla’s biggest product ever, but probably the biggest product ever ,” headed to work on factory floors and, later, in our homes. Eventually it “will have human and then superhuman dexterity,” he told shareholders in July. Optimus robots could automate almost all human labor—from hauling sheet metal to folding laundry—for as little as $20,000 each, Musk argues. Speaking at the World Economic Forum’s annual meeting in Davos, Switzerland, in January, he predicted they could be on sale to the public by the end of 2027. Musk is not alone in his evangelism. Marc Andreessen, cofounder and general partner of the Silicon Valley venture capital firm Andreessen Horowitz, has said that robotics could become the “biggest industry in the history of the planet.” In January, Jensen Huang, CEO of Nvidia, said that humanoid robots would match human-level ability this year . According to Morgan Stanley, the number of robots that “resemble and act like humans” is likely to reach nearly 1 billion by 2050, creating a market worth over $5 trillion . Elon Musk predicts that Tesla’s Optimus humanoid could be one the world’s best-selling products. For now, it’s most often seen handing out food and drinks at Tesla events. SIPA VIA AP IMAGES Such proclamations are in large part fueled by the idea that the same AI advances behind tools like OpenAI’s ChatGPT and Anthrop"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/"
+        }
+      ],
+      "srcTitles": [
+        "AI breakthroughs in robotics won t change your life any time soon"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-08T08:17:32.000Z",
       "writtenSources": 1,
