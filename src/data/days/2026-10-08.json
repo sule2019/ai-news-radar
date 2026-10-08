@@ -2,8 +2,104 @@
   "date": "2026-10-08",
   "stories": [
     {
+      "cat": "products",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-10-08T16:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Natura’s $99 smart ring puts AI agents on your finger",
+      "s": "Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+      "b": [
+        "techcrunch.com: Natura’s $99 smart ring puts AI agents on your finger",
+        "techmeme.com: AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Muse, Instinct, Claude, Grokbot, and ChatGPT (Aisha Malik/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Natura’s $99 Interface smart ring lets you summon AI agents with the press of a finger to complete tasks, capture thoughts, and control devices — while doubling as a health tracker.",
+        "techmeme.com: Aisha Malik / TechCrunch : AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Muse, Instinct, Claude, Grokbot, and ChatGPT Meet Interface, a new $99 smart ring from AI and hardware startup Natura that's designed for the era of AI agents."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/08/naturas-smart-ring-puts-ai-agents-on-your-finger/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261008/p36#a261008p36"
+        }
+      ],
+      "srcTitles": [
+        "Natura’s $99 smart ring puts AI agents on your finger",
+        "AI hardware startup Natura unveils Interface, a $99 smart ring that connects to AI agents and apps, including Muse, Instinct, Claude, Grokbot, and ChatGPT (Aisha Malik/TechCrunch)"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 44,
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-10-08T15:10:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: the IPO of Nvidia-backed data center provider Firmus is uncertain after failing to attract adequate support, underscoring concerns over AI funding (Bloomberg)",
+      "s": "Bloomberg : Sources: the IPO of Nvidia-backed data center provider Firmus is uncertain after failing to attract adequate support, underscoring concerns over AI funding The sudden plunge in demand for ",
+      "b": [
+        "techmeme.com: Sources: the IPO of Nvidia-backed data center provider Firmus is uncertain after failing to attract adequate support, underscoring concerns over AI funding (Bloomberg)",
+        "pymnts.com: Nvidia-Backed Firmus Grid IPO Reveals Investors’ AI Jitters"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Sources: the IPO of Nvidia-backed data center provider Firmus is uncertain after failing to attract adequate support, underscoring concerns over AI funding The sudden plunge in demand for an Nvidia-backed data center company's initial public offering is revealing fresh cracks in the AI funding boom.",
+        "pymnts.com: Nvidia-Backed Firmus Grid IPO Reveals Investors’ AI Jitters PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261008/p31#a261008p31"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWlU4TGZ5NGc4ZWVGY19NMGc0UUNQaWJxZXYydlZLanY2R0V2YTRHWkwydVdGZUlLZXlVSUFRbW5LQ3NzWXBlZVhoU2NjVU1sNktJczFYWC05MDJDTnVrMFpFWWtaTHpzT0xESTdEWGdtdUl4eVB3TFk4cVRSNFpXYnJtczVkeHZhZlB0eERSVDFJc1U3Z25saG1uOFNFQnBjQjhvYUhKLWNXemRDaTJqaTBOWG9KU1FFWWZhbF92LWZuZEhKd3NFcmVKNlNIZXZEelE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: the IPO of Nvidia-backed data center provider Firmus is uncertain after failing to attract adequate support, underscoring concerns over AI funding (Bloomberg)",
+        "Nvidia-Backed Firmus Grid IPO Reveals Investors’ AI Jitters"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-08T13:45:11.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google’s AI note-taking app transcribes your meetings completely offline",
+      "s": "Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free ",
+      "b": [
+        "theverge.com: Google’s AI note-taking app transcribes your meetings completely offline",
+        "techmeme.com: Google debuts Google AI Edge Foresight, a local macOS note-taking app for meetings that uses its 740M-parameter EmbeddingGemma 2 model and Gemma 4 assistant (Ivan Mehta/TechCrunch)"
+      ],
+      "body": [
+        "theverge.com: Google has released an experimental note-taking app that can transcribe meetings and audio files entirely offline, as reported earlier by TechCrunch. The app, called Google AI Edge Foresight, is free to use and runs on macOS using the company's on-device EmbeddingGemma 2 model. Similar to AI note-taking apps like Granola and Wispr Flow, Foresight summarizes [ ]",
+        "techmeme.com: Ivan Mehta / TechCrunch : Google debuts Google AI Edge Foresight, a local macOS note-taking app for meetings that uses its 740M-parameter EmbeddingGemma 2 model and Gemma 4 assistant Earlier in April, Google released an AI-powered dictation tool that worked with local models. Now, the same team has released"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1007985/google-ai-notetaking-app-transcribe-offline"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261008/p27#a261008p27"
+        }
+      ],
+      "srcTitles": [
+        "Google’s AI note-taking app transcribes your meetings completely offline",
+        "Google debuts Google AI Edge Foresight, a local macOS note-taking app for meetings that uses its 740M-parameter EmbeddingGemma 2 model and Gemma 4 assistant (Ivan Mehta/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 40,
       "sources": 3,
       "ts": "2026-10-07T22:51:03.000Z",
       "writtenSources": 2,
@@ -39,9 +135,41 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-10-08T16:20:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index (Rachel Metz/Bloomberg)",
+      "s": "Rachel Metz / Bloomberg : Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index Arena Intelligence Inc., ",
+      "b": [
+        "techmeme.com: Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index (Rachel Metz/Bloomberg)",
+        "thenextweb.com: AI model evaluator Arena nearly doubles its valuation to $3.1B"
+      ],
+      "body": [
+        "techmeme.com: Rachel Metz / Bloomberg : Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index Arena Intelligence Inc., the startup behind a popular artificial intelligence model leaderboard, has raised $200 million in funding",
+        "thenextweb.com: AI model evaluator Arena nearly doubles its valuation to $3.1B The Next Web"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261008/p35#a261008p35"
+        },
+        {
+          "d": "thenextweb.com",
+          "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9DNFpUT2VXVFpMaUlxZDRVNWZwS084SFBmTFZvNWI0N3h5dFVDczlzdjU0N1hMYUNySnpkTWN0ZFNBbzNBQ0xCVW9rYktZdlVvNFhMUHZsNGN4N0lzUmVPc1M2YW5iWG5RY0FpWg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Arena, which develops the popular AI model leaderboard, raised $200M at a $3.1B valuation, up from $1.7B in January, and launches an Alignment Index (Rachel Metz/Bloomberg)",
+        "AI model evaluator Arena nearly doubles its valuation to $3.1B"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 35,
-      "sources": 4,
+      "signal": 37,
+      "sources": 7,
       "ts": "2026-10-08T10:01:35.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -60,59 +188,30 @@
       ],
       "l": [
         {
-          "d": "bozemandailychronicle.com",
-          "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQzY1RzU5SGk3Z3I2UWJRc0tadnB2dHIyUXVzSzU0ZzRwRzlMWXhxSVBJcXpGbmpLYWZUcHhHUkM0bXVkVjFpOTlwVlluUEJ1QnBUWFM5ZmZGMGpCLVNBYUJTMHQ5d292eUJMSV8zMVJyNU9remgzTlhOSjBrUnc2MGdNbXcybnEya1R0RG10ODZRaWZ3cjk5V0JqbFNmaGdYNTJyV21qVkFVaGxCUGZwb2c3dFJfNzdUQWdDcWdQTUV2N1ZVMkpkMnFuVTc2aTJ3MHdjcV9WUS1qdWc2RjMzdHllZ2VpQTBKT1pDZGZ1dkFkLXFYWGd1X0pTblFEQVRpX3RGNTFzZHZBcG9oQnVmTG9aUVRqakFSd0FGQncwMA?oc=5"
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUktxTDdUVUhnU0ZOdmxHY2NwODkxQzNhQmlRVlZJclBpbmF1TzdKVktxVjFNUTdJdGhCdmNMVmdteTRVUkV5eEZRNmtMSDFxWTN3Y2tFUFhLZndYeWpJZFg5ZUZyemY3SU9VMGxwVmxka1FOdXJMNmNxWGwxNXRENGswdGFObVM3Rnk4Vy1DeGdKYWlJSE9LLS1BY01mN05DUzRRTzhCYkZyS284TmtYb2E2ZmR4bHAxWFhn?oc=5"
         },
         {
           "d": "apnorc.org",
           "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02WThveGJtcHF0UnRQN0FmTXAwZG5vS191VnF2RVB5WVoweHJpZW1DenV0Rnp1N0lWOVVKTlpsUFliS0t5WDVZMEZUVGpiNzZ4am9ReFZSdHhDdVFZV19zOUpEOEdJeWlJUVNQNkdVTkFndi1TZmxBbU5kS3A?oc=5"
         },
         {
-          "d": "tribdem.com",
-          "u": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQenRoZEpudzRkU3llay1qcWpMbDdOd1pqMkNZMHZSU3pGRzgzdTk0MWdvQkRPUGU0VG1lQWNnZ0VoZ1VsWnBueEdKSExQRGhkdnp1aG9XM21saXloZU02MjBHSU1mQzVYMVJsSXhUakd3dC0tTUEySEtrY20xazI3Y3dzWV9zUFB2eTlVQllCR3NBZUlzck56UkpxMTNDcEs2MElHUEZKQm9LaTFfSXd3dFptWDhLYzZtNzBKcnVzbzBBVUVXaXlWcy0xMThBZ2JuSTZPVHU3TldTUTZHTWJ2NlFNYTZ4ZlhFRDNaOTlBMTZTQUZHeHdRWEUtZXBEaS1sNlF4ZHhPX3NoQ1Bt?oc=5"
+          "d": "bozemandailychronicle.com",
+          "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxPQzY1RzU5SGk3Z3I2UWJRc0tadnB2dHIyUXVzSzU0ZzRwRzlMWXhxSVBJcXpGbmpLYWZUcHhHUkM0bXVkVjFpOTlwVlluUEJ1QnBUWFM5ZmZGMGpCLVNBYUJTMHQ5d292eUJMSV8zMVJyNU9remgzTlhOSjBrUnc2MGdNbXcybnEya1R0RG10ODZRaWZ3cjk5V0JqbFNmaGdYNTJyV21qVkFVaGxCUGZwb2c3dFJfNzdUQWdDcWdQTUV2N1ZVMkpkMnFuVTc2aTJ3MHdjcV9WUS1qdWc2RjMzdHllZ2VpQTBKT1pDZGZ1dkFkLXFYWGd1X0pTblFEQVRpX3RGNTFzZHZBcG9oQnVmTG9aUVRqakFSd0FGQncwMA?oc=5"
         },
         {
-          "d": "thespec.com",
-          "u": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNQkQya1JFcktfaTJ1UVZ6RFFKV1ZicWloV0VKT2JuTElSbHRtRGc2RVU5c1Z2VDJaLWNFTlpFMFd4VzJVX0h2Q1p4VFYyTm9TaWU4WFEtajlWdHhycHcxRWFRSUNFRzRkMXJTd3JYZ2YydG1wSllIb3ZmaFc5Q0RiX001NVRZeUZaNUV1NlhZOE5NVVJURUJoZVhhZVRYcTZCRlkxQU51dnJ1TnByeXlWWkI2dzI1M2FkQUFpOHhYSnVJM0NlQWlDdEZrRmw3QkNJZm9CeVh1NU8tS3hHVVhBdXg3SlNTbG95N2xCQzV2alZfNUJGZDJYT0xhejRZQ2gydFh0NE1n?oc=5"
+          "d": "morning-times.com",
+          "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPUmJ3ZzhyWi1oQ29qZHVLdG82ZWh4VHlwR19YWWp6Q29fdjg5YVdCUnFHQkljX0I0bnA2dVpSTVR0VElSNHI3d2pIX0lReWt4SlVCY245MnMybDkwQlR6akJuRElWWk9vMjNDX2IxOEF3bzZHdkNZUk44RWFTSHBneGJKMm03aEQtRWZTX3J5NF9ZVWJ2azVtTnRXRGhfV0VmNjdCdmk0aEIxeDJjcWxuRWZjRTVxRkNETFlZOVVWZnZHT2xHTDNjQnRPRXh2OXBSZDd1MDRGYi1QSjFId0Z3Qm1odUUydzBzRUR5QTA4Ql84XzJBVFV4VS0wX2g0TnlEaXVoTTl2UkhVRGI1emJ5X0xB?oc=5"
+        },
+        {
+          "d": "+3"
         }
       ],
       "srcTitles": [
         "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
         "Most adults think AI is developing too fast - AP-NORC",
-        "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds - The Tribune-Democrat",
-        "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-10-08T00:08:52.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Rapid City council delays vote on artificial intelligence policy",
-      "s": "Rapid City council delays vote on artificial intelligence policy KOTA Territory News",
-      "b": [
-        "kotatv.com: Rapid City council delays vote on artificial intelligence policy",
-        "dig.watch: New York City Council holds hearing on artificial‑intelligence risks"
-      ],
-      "body": [
-        "kotatv.com: Rapid City council delays vote on artificial intelligence policy KOTA Territory News",
-        "dig.watch: New York City Council holds hearing on artificial‑intelligence risks Digital Watch Observatory"
-      ],
-      "l": [
-        {
-          "d": "kotatv.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXFFWmEtcWNmQkw3bHBUYUI1VWxDRG53M0hGVUJhZHpuLXU1VnBWeDA1VnlRblRTMEZfWVRZcGNHTWxnSThneFdwVlB5VU5hdGNFVEtlcVZLWG9iU1piRW9iM0pNdkczVTYzN2hBcms4LTZYM20tZGQ0M2VHN19HVmhKTjFFVkpZOGxtNG9KQnBjVXJyaGdWMC1IX2bSAbABQVVfeXFMT3E1c3ptbHZ2Y2E1dHl0RFJKWDlsd0JnblRzZ0ZsWlNhNFhidDl1WXE4ZEwzYXVxUDZ6OHFuTGxlcy13aEF2a3B4Z2ozMW9HeW5mMlYxeHVQckRfOUNqWHNVQmF2eW5oYjI2YjlYSm16bTBsbXp2NkJrc0hxT1UzdEFYZHVockJVeWpFQUE3OXB6TEV1SU1GQmJtNmR4ZHB0MC1LU0VPNjhLUHlIM016UE4?oc=5"
-        },
-        {
-          "d": "dig.watch",
-          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03bXNhTzhZRTF0UFJkaEtFYVBtQUVkSVFrOGdDeUtJZ0pwSjlqNklEblh3bC0yMlNYUndVTUFZQkM1OXNuUFc1cWFfeVNtNE9rY3NZdVJ5WXkzTkxVSnlsdDlKWkJKLTZ0ZDdvNnJSakhWODVoaGJxRUE2OUlGZw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Rapid City council delays vote on artificial intelligence policy",
-        "New York City Council holds hearing on artificial‑intelligence risks"
+        "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds",
+        "Most Americans think artificial intelligence is developing too fast, a new AP-NORC poll finds - morning-times.com"
       ]
     },
     {
@@ -163,6 +262,63 @@
       ],
       "srcTitles": [
         "Building a safer path to autonomous industrial AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-08T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Disrupting AI-enabled “false front” operations",
+      "s": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
+      "b": [
+        "openai.com: Disrupting AI-enabled “false front” operations"
+      ],
+      "body": [
+        "openai.com: OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/disrupting-ai-enabled-false-front-operations"
+        }
+      ],
+      "srcTitles": [
+        "Disrupting AI-enabled “false front” operations"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-10-08T00:08:52.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Rapid City council delays vote on artificial intelligence policy",
+      "s": "Rapid City council delays vote on artificial intelligence policy KOTA Territory News",
+      "b": [
+        "kotatv.com: Rapid City council delays vote on artificial intelligence policy",
+        "dig.watch: New York City Council holds hearing on artificial‑intelligence risks"
+      ],
+      "body": [
+        "kotatv.com: Rapid City council delays vote on artificial intelligence policy KOTA Territory News",
+        "dig.watch: New York City Council holds hearing on artificial‑intelligence risks Digital Watch Observatory"
+      ],
+      "l": [
+        {
+          "d": "kotatv.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXFFWmEtcWNmQkw3bHBUYUI1VWxDRG53M0hGVUJhZHpuLXU1VnBWeDA1VnlRblRTMEZfWVRZcGNHTWxnSThneFdwVlB5VU5hdGNFVEtlcVZLWG9iU1piRW9iM0pNdkczVTYzN2hBcms4LTZYM20tZGQ0M2VHN19HVmhKTjFFVkpZOGxtNG9KQnBjVXJyaGdWMC1IX2bSAbABQVVfeXFMT3E1c3ptbHZ2Y2E1dHl0RFJKWDlsd0JnblRzZ0ZsWlNhNFhidDl1WXE4ZEwzYXVxUDZ6OHFuTGxlcy13aEF2a3B4Z2ozMW9HeW5mMlYxeHVQckRfOUNqWHNVQmF2eW5oYjI2YjlYSm16bTBsbXp2NkJrc0hxT1UzdEFYZHVockJVeWpFQUE3OXB6TEV1SU1GQmJtNmR4ZHB0MC1LU0VPNjhLUHlIM016UE4?oc=5"
+        },
+        {
+          "d": "dig.watch",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03bXNhTzhZRTF0UFJkaEtFYVBtQUVkSVFrOGdDeUtJZ0pwSjlqNklEblh3bC0yMlNYUndVTUFZQkM1OXNuUFc1cWFfeVNtNE9rY3NZdVJ5WXkzTkxVSnlsdDlKWkJKLTZ0ZDdvNnJSakhWODVoaGJxRUE2OUlGZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Rapid City council delays vote on artificial intelligence policy",
+        "New York City Council holds hearing on artificial‑intelligence risks"
       ]
     }
   ]
