@@ -1,4 +1,37 @@
 {
   "date": "2026-10-08",
-  "stories": []
+  "stories": [
+    {
+      "cat": "funding",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-10-07T22:51:03.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI chip boom pushes Samsung profits to record $80bn",
+      "s": "AI chip boom pushes Samsung profits to record $80bn BBC",
+      "b": [
+        "bbc.com: AI chip boom pushes Samsung profits to record $80bn",
+        "cnbc.com: Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand"
+      ],
+      "body": [
+        "bbc.com: AI chip boom pushes Samsung profits to record $80bn BBC",
+        "cnbc.com: Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand CNBC"
+      ],
+      "l": [
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91WUJNYjRyQm5lSXhtVnhIRXFnUmJKbGpCMWRUWDUtSWdpOVcwWkVCeUMzU0RXVk9USUpBRmYzQkNUV1RpUXg5VXo5cm91cHBvR0dEWF9WbTZMTXM?oc=5"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GYk1Ed3NvZDhDNE52UmRndVRZSEtXa0h3MnFNODd2ZVBzX0YyTzVUTzhSSlpaZUlkZ0xlaktHbUtBTW9ZMzI0T05TdXhqdGFldEtXdmowajJRMFpSRmNORWpfMURaTTDSAWxBVV95cUxNTDMyVlo4VERLanFwMHgtVnk2YjVzWEcwZE41UHpwMVUyMno4bjVjRlYya0JmU0xMY0hnaGktODN3MU5YeGxRN0s0YjJFTlQtRmJzQ1BEVGZUZE5LVkhEOTR1dkJ3YmxCS1BpNXc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI chip boom pushes Samsung profits to record $80bn",
+        "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand"
+      ]
+    }
+  ]
 }
