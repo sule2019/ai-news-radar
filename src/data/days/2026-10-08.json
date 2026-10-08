@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 52,
+      "signal": 48,
       "sources": 3,
       "ts": "2026-10-07T22:51:03.000Z",
       "writtenSources": 2,
@@ -36,6 +36,31 @@
         "Samsung forecasts record third-quarter profit of $80 billion as AI boom fuels chip demand",
         "AI chip boom pushes Samsung profits to record $80bn",
         "Samsung Expects Operating Profit to Exceed $80 Billion For First Time"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-10-08T08:17:32.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Building a safer path to autonomous industrial AI",
+      "s": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to au",
+      "b": [
+        "technologyreview.com: Building a safer path to autonomous industrial AI"
+      ],
+      "body": [
+        "technologyreview.com: Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across industrial environments. But unlike AI that operates purely in the digital world, industrial AI can interact directly with physical systems, where an unexpected decision can have consequences for safety, reliability, and critical infrastructure. That makes responsible deployment central to the next wave of industrial automation. “How do we leverage these technologies while maintaining safety, while maintaining reliable operations, while still being able to deliver on the promises of the new capabilities?” asks Arti Garg, chief technologist at AVEVA. The challenge is particularly acute as newer AI systems become more capable but also harder to predict and explain. One foundation for making that transition work is data. Industrial systems often contain information across telemetry, service logs, engineering documents, and other disparate sources. Newer technologies can help connect and correlate that information more quickly, giving operators real-time support when diagnosing problems. AI-powered robots could take that a step further by gathering information in hazardous environments without requiring workers to enter them. But greater autonomy also requires new approaches to governance. AVEVA’s framework for responsible AI emphasizes security, efficiency, and human safety and oversight. Garg argues that AI should augment rather than replace people in critical decision loops, with guardrails determining where automated systems can act and where human supervisors remain responsible. Sustainability is another part of that equation. AI can help manage complex power systems as renewable generation grows, while organizations also need better ways to understand AI’s own environmental footprint. Garg is involved in an IEEE working group developin"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/"
+        }
+      ],
+      "srcTitles": [
+        "Building a safer path to autonomous industrial AI"
       ]
     }
   ]
