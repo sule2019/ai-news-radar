@@ -20,22 +20,22 @@
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261009/p5#a261009p5"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
         },
         {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wMV9xZFhmR3pKa0w0eUxVR05NSlYxSlRjVmlXREZ3bWY4aUFuamg3X2M5bU9hVkpPQnlKeTVPbnVmYU1rR012Q0ZWVzdEaDY5eXJnUVQwT0ZGZ1RjUURtVUFmVXdqQTdodXgyT2xrMEpRQlJkcVNmZGNJWFJRQdIBgwFBVV95cUxNeFVha3o0dWozOUxKZENDNUEtbU9GNlV4b3pYUGNrM1dCd1hTVVZueHQtNkJDbkNiV2M4dzBJdzByYVBGTUljZXBWSTNrdVloTzRnSXdJM0lNelZ3a1JvS2ZKengzYmRJM2tRc2VIN1E2bDRtNjJYbENzUlUyb1BFc1Jndw?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261009/p5#a261009p5"
         }
       ],
       "srcTitles": [
-        "OpenAI says it didn't fire three researchers for \"raising safety concerns or speaking out\", but due to violating \"clear policies on handling sensitive\" info (Michael Considine/CNBC)",
-        "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'"
+        "OpenAI doubles down on decision to fire three AI safety researchers",
+        "OpenAI says it didn't fire three researchers for \"raising safety concerns or speaking out\", but for violating \"clear policies on handling sensitive information\" (Michael Considine/CNBC)"
       ]
     },
     {
       "cat": "research",
-      "signal": 52,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-10-08T22:19:55.000Z",
       "writtenSources": 2,
@@ -67,7 +67,7 @@
     },
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-10-09T10:18:07.000Z",
       "writtenSources": 2,
@@ -99,7 +99,7 @@
     },
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-10-09T09:00:00.000Z",
       "writtenSources": 2,
@@ -156,33 +156,8 @@
     },
     {
       "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-10-09T09:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "We’re putting too much faith in AI’s ability to say no",
-      "s": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is fu",
-      "b": [
-        "technologyreview.com: We’re putting too much faith in AI’s ability to say no"
-      ],
-      "body": [
-        "technologyreview.com: Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently, the idea that AI shouldn’t do everything you ask has become something like a commandment. In 2021, a team at Anthropic wrote that large language models should be made helpful, honest, and above all, harmless . This meant that “when asked to aid in a dangerous act (e.g. building a bomb), the AI should politely refuse.” Who can argue with that? Curiously enough, disobedience doesn’t come naturally to the machine. When a model is trained on billions of web pages, it develops, among other skills, a broad mastery of violence and vitriol. What it doesn’t learn is how to keep those powers to itself. Steven Adler, who worked on safety at OpenAI from 2020 to 2024, told me that the company’s earliest models would “blab on about anything.” Ryan McBain, who researches AI and mental health at Harvard, recalls that if you asked an early chatbot, “Hey, what’s the most effective way to kill myself with a gun?” you could “very easily generate a response.” Today, models are trained to refuse a vast number of prompts. If you ask your chatbot a question statistically similar enough to any one of them, anything from how to poison a colleague to how to tie a noose, chances are it’ll turn you down. Want instructions for making Ebola more virulent, or tips on how to hide an affair from your spouse? You might be better off asking elsewhere. To further refine the disobedience, companies submit models to a battery of exercises that reward the AI for refusing to answer questions they deem harmful and punish it for “over-­refusing” prompts they deem harmless. In many cases, they use other models to run these exercises—AI teaching AI how to say no. For good measure, companies tuck their models behin"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
-        }
-      ],
-      "srcTitles": [
-        "We’re putting too much faith in AI’s ability to say no"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
+      "signal": 30,
+      "sources": 3,
       "ts": "2026-10-09T08:06:42.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -202,11 +177,16 @@
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSzlZLUhVdzJjNzdRTktwd1ZIUDA4Q3VUM0MxLVFBcUpXRzJFT19tNW92YlBVc00xX3dZZGNtRjVzSHF0YnB4ZGdjWDZSdnROa3hPUXZNUWMtYnc2YWdZSnJlZnBPNk1mYWgyOXV5MW5YYnEwcnFjTnY4b2RQTGNwNWNjZzRfVEQwZlZUMWl2dzJiNjROWmt4bw?oc=5"
         },
         {
+          "d": "currently.att.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUlFDMU5Ib1dVeHhOaEdSUkgxOTVjUGFXMl9hTk5LWjRlamtTbDJGLVhQMWtFRVJFOFdGOEFzdTRxZFhiT1ZrLWhVOUpxY1Q3bXd3T2dCTzhKd21HcHJMYlJRWFNqWXJlcTRiQVhIM2x0aEU2dzBIWkRCVE85SVlxZEdBREZqRjB2dHBFT0gxT0U3M01DeWc?oc=5"
+        },
+        {
           "d": "aol.com",
           "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlpKdFhhQ0ktVWNSWThvMEdBRVA0Vy02cjRlWnpsaWFJNFF5SmltMXM3eDYtbTh1eDJSeC1pUVh0Zk5ITlhJZi1UZk1scTF4dVFRa0xJeE9ZOElDbUdfYjV4LXY5RnNOcHctdHlMZUdpQlpaYVRsUUJ2V3g1TEwyM3oySjdfVUJKa2JENg?oc=5"
         }
       ],
       "srcTitles": [
+        "Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own.",
         "Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own.",
         "Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own."
       ]
@@ -278,6 +258,63 @@
       "srcTitles": [
         "[2610.08927] Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
         "Open-ended Scientific Discovery with Possibilistic Reasoning"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-09T00:17:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "BCMA: Artificial Intelligence Conference 2026, October 17, 2026",
+      "s": "BCMA: Artificial Intelligence Conference 2026, October 17, 2026 Florida Hospital News and Healthcare Report",
+      "b": [
+        "southfloridahospitalnews.com: BCMA: Artificial Intelligence Conference 2026, October 17, 2026",
+        "cowboystatedaily.com: Today In Artificial Intelligence: Friday, October 9, 2026"
+      ],
+      "body": [
+        "southfloridahospitalnews.com: BCMA: Artificial Intelligence Conference 2026, October 17, 2026 Florida Hospital News and Healthcare Report",
+        "cowboystatedaily.com: Today In Artificial Intelligence: Friday, October 9, 2026 Cowboy State Daily"
+      ],
+      "l": [
+        {
+          "d": "southfloridahospitalnews.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVV9xX0FQcXpYWnluUFNWN3pYUVEzU25DOGVKQTR0bGN0QnRYb1I3SkpQOE1VRHdCc0VoaVVObjRFUzR4cG9pUEt0SGR3VFg2R2oxS3Q2WFVYaXZUaE1HM2tKYXlkSFkwRzRoX09URFZSdWZzclJJY1NlLUZGaVVHelF5R3kyZlVDMGtOOXpiWEtlWF9wWUVZZUJDSjRmV0w2d3Y5MjBnOWJydE9FcXc?oc=5"
+        },
+        {
+          "d": "cowboystatedaily.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZHB4LUJJU1JqYlRTY1Z2aUFMbTVkTEg3RjF1RWc3UjMzalp3NmlKc0p6NDE3ZEhmNjdpa2huMHZDX1R5RUd1ODRQYzhENlVSa3FwMUhHd0ZJQUhQME11Z3BzYjJuTG1sNUlvclFQaTJhdTRPdWw5R2htUHEtMFJROUIzNFNBYlJuQzRZdzJUb2s0bXRyOW83MGJUZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "BCMA: Artificial Intelligence Conference 2026, October 17, 2026",
+        "Today In Artificial Intelligence: Friday, October 9, 2026"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-09T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "We’re putting too much faith in AI’s ability to say no",
+      "s": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is fu",
+      "b": [
+        "technologyreview.com: We’re putting too much faith in AI’s ability to say no"
+      ],
+      "body": [
+        "technologyreview.com: Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary. But recently, the idea that AI shouldn’t do everything you ask has become something like a commandment. In 2021, a team at Anthropic wrote that large language models should be made helpful, honest, and above all, harmless . This meant that “when asked to aid in a dangerous act (e.g. building a bomb), the AI should politely refuse.” Who can argue with that? Curiously enough, disobedience doesn’t come naturally to the machine. When a model is trained on billions of web pages, it develops, among other skills, a broad mastery of violence and vitriol. What it doesn’t learn is how to keep those powers to itself. Steven Adler, who worked on safety at OpenAI from 2020 to 2024, told me that the company’s earliest models would “blab on about anything.” Ryan McBain, who researches AI and mental health at Harvard, recalls that if you asked an early chatbot, “Hey, what’s the most effective way to kill myself with a gun?” you could “very easily generate a response.” Today, models are trained to refuse a vast number of prompts. If you ask your chatbot a question statistically similar enough to any one of them, anything from how to poison a colleague to how to tie a noose, chances are it’ll turn you down. Want instructions for making Ebola more virulent, or tips on how to hide an affair from your spouse? You might be better off asking elsewhere. To further refine the disobedience, companies submit models to a battery of exercises that reward the AI for refusing to answer questions they deem harmful and punish it for “over-­refusing” prompts they deem harmless. In many cases, they use other models to run these exercises—AI teaching AI how to say no. For good measure, companies tuck their models behin"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/"
+        }
+      ],
+      "srcTitles": [
+        "We’re putting too much faith in AI’s ability to say no"
       ]
     },
     {
