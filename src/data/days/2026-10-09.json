@@ -2,8 +2,56 @@
   "date": "2026-10-09",
   "stories": [
     {
+      "cat": "models",
+      "signal": 70,
+      "sources": 6,
+      "ts": "2026-10-09T00:14:51.000Z",
+      "writtenSources": 6,
+      "draft": true,
+      "h": "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+      "s": "Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+      "b": [
+        "techcrunch.com: An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "techmeme.com: Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)",
+        "inquirer.com: Anthropic’s artificial intelligence gave a false homicide tip to Philly police, triggering a meeting with the company"
+      ],
+      "body": [
+        "techcrunch.com: Anthropic did not discover this behavior until over two months after its AI submitted the false tip.",
+        "techmeme.com: 6abc : Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 Watch the 6abc Philadelphia 24/7 stream featuring Action News, AccuWeather and Entertainment ShareFollow 6abc on Google",
+        "inquirer.com: Anthropic’s artificial intelligence gave a false homicide tip to Philly police, triggering a meeting with the company Inquirer.com",
+        "6abc.com: Anthropic AI model submitted false tip about unsolved murder, Philadelphia police say 6abc Philadelphia"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/09/an-anthropic-ai-model-sent-a-false-homicide-tip-to-philadelphia-police/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261009/p22#a261009p22"
+        },
+        {
+          "d": "inquirer.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYktaQWFZY0VIUU1oV0NkdUcyS1h0N1VVdFJnbml0NjlRTGFpYUx4Y3lGRHZTTzVhaHNsT3ZNMlllQUVJX3RKRjNzU1U1VHpLeC1zYTQ5SGdhMVFHYzN5M25SYUo1alJ0dGNJZE9EY2ZjbmNDYnpHd0tuSTNrYjNiclBYQmZBeGRYN0J0YUNJemV5czlhNXhKbTd6QVdPMV9pMGpXYktJUVdMOFptWnFHTldzZjZ0UG1M?oc=5"
+        },
+        {
+          "d": "6abc.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVUdPS1ZSX3I2OG4zdVNISmtQdWJDN1VmR1lSemRhS1dwUzVVU1ZZRV9UN0lyc2lEbE96WkgxX0J2TjI2U1l0cGRnX3BsNFhudE5oWUh3VUh1bDgxTk1ITmdJOFMxaFFTVXBJSE5tNXlVV0Nqb2VEek9rLTB0TE1YWGtMa3M1dmxhME1PWE9UbFVrS2dERHotazRzLWJza21seElQQmlFcUJZckZfTzQw0gG0AUFVX3lxTE1RSW5Xb2ZQQjNFYlpBVXllWTVUbmlpQWN0NGNPdzAxNEFqMEE1T196dHZNYXAwQTRTc3J6UVpGNkFOMEo4c2tialBna3MtQ24xbDJ5QTdxcUxXWEJUYmlKVFJXNXJMeFJjM2p3T3dpd2d2WjA1bmFpUEhhdzA1QmQwa0tMRm53U25RaGxVSlFReHdwWGdiSS1Sd2ZqcV9KZXE0al9VNUc1aXNOSjNDOTNFUmxpSg?oc=5"
+        },
+        {
+          "d": "+2"
+        }
+      ],
+      "srcTitles": [
+        "An Anthropic AI model sent a false homicide tip to Philadelphia police",
+        "Philadelphia police say Anthropic informed them on Oct. 7 that one of its models submitted a false tip about an unsolved murder via a public web form on July 18 (6abc)",
+        "Anthropic’s artificial intelligence gave a false homicide tip to Philly police, triggering a meeting with the company",
+        "Anthropic AI model submitted false tip about unsolved murder, Philadelphia police say"
+      ]
+    },
+    {
       "cat": "research",
-      "signal": 54,
+      "signal": 50,
       "sources": 2,
       "ts": "2026-10-09T07:23:48.000Z",
       "writtenSources": 2,
@@ -57,7 +105,7 @@
         },
         {
           "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNblV0OEptYlkwWEtkaWtub1k3ZDR6ZkhnaDRyNFVtNklrQUZIaUhTUXltVmMyNzF5YXhqNFk4bEZlOU5oZi1RM1prcl9VTEtMSFRRRE13M1JQTlJkZ2tHalB0czk4QmlRbmdWWTZNdlBPZWJGTHhjQjBzNFFoZmRuSURLQmJqQlZSamNTcHQxSThFQjNvX0hxWjJpQldDTU9mSVF3eHBORWI0YUYyVEVYSWE4QjQzeWJ1Z29VaWZ5N0JwazFDdmZtRzZwY3g3NkNIUGczVVFXSmNwSzFIVkdEVXJJSFFwOTNrZ18zVlJ3ajVObmh6TWFiWE9IRlJVaG1sc1Rn?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZXY0TXBYQTVxaFBodDJjRnlwdHVkZEhuS0hXVk95LXJpd01oVFV4X0VWczdCbDhIUDI5bGQ4NVpGWG5nWm43RG54N0Z4RXB6NFhsLTFxa19IMXhuLVItRnpKa2N4MFBrZ2FkVkxYU1R5c1E3RGNNby0zZWtRZl9DZEw5MTlROTdlTzJjeHRiaUNKQUl5ZEtSeENQWlAyLW9wbXlfOGVPRWZZbS1XN3lwSmJLU1QtbE1OR0ZZVVM2bFhERnNqcHJacko1T3JZaEo2djJfQVNVZkJuUlluWDVYTjdiYkdaVS1rdm56cVo3ZlFVbDlIZV8tNXdsalAtMVZq?oc=5"
         }
       ],
       "srcTitles": [
@@ -117,7 +165,7 @@
     },
     {
       "cat": "research",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-10-08T22:19:55.000Z",
       "writtenSources": 2,
@@ -149,7 +197,7 @@
     },
     {
       "cat": "models",
-      "signal": 43,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-10-09T09:00:00.000Z",
       "writtenSources": 2,
@@ -180,9 +228,41 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-10-09T13:25:03.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Jev developer TypeSafe AI raised a $870M Series A led by a16z at a $7.5B valuation with Sequoia and others participating, says ~33% of the Fortune 500 use Jev (Bloomberg)",
+      "s": "Bloomberg : Jev developer TypeSafe AI raised a $870M Series A led by a16z at a $7.5B valuation with Sequoia and others participating, says ~33% of the Fortune 500 use Jev TypeSafe AI, the startup behi",
+      "b": [
+        "techmeme.com: Jev developer TypeSafe AI raised a $870M Series A led by a16z at a $7.5B valuation with Sequoia and others participating, says ~33% of the Fortune 500 use Jev (Bloomberg)",
+        "typesafe.ai: Typesafe AI raises $870M at $7.5B"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Jev developer TypeSafe AI raised a $870M Series A led by a16z at a $7.5B valuation with Sequoia and others participating, says ~33% of the Fortune 500 use Jev TypeSafe AI, the startup behind Jev, a new artificial intelligence model that went viral after it launched only a few weeks ago",
+        "typesafe.ai: Article URL: https://typesafe.ai/blog/series-ai Comments URL: https://news.ycombinator.com/item?id=50023450 Points: 151 # Comments: 124"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261009/p13#a261009p13"
+        },
+        {
+          "d": "typesafe.ai",
+          "u": "https://typesafe.ai/blog/series-ai"
+        }
+      ],
+      "srcTitles": [
+        "Jev developer TypeSafe AI raised a $870M Series A led by a16z at a $7.5B valuation with Sequoia and others participating, says ~33% of the Fortune 500 use Jev (Bloomberg)",
+        "Typesafe AI raises $870M at $7.5B"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 30,
-      "sources": 3,
+      "signal": 26,
+      "sources": 2,
       "ts": "2026-10-09T08:06:42.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -204,14 +284,9 @@
         {
           "d": "currently.att.yahoo.com",
           "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUlFDMU5Ib1dVeHhOaEdSUkgxOTVjUGFXMl9hTk5LWjRlamtTbDJGLVhQMWtFRVJFOFdGOEFzdTRxZFhiT1ZrLWhVOUpxY1Q3bXd3T2dCTzhKd21HcHJMYlJRWFNqWXJlcTRiQVhIM2x0aEU2dzBIWkRCVE85SVlxZEdBREZqRjB2dHBFT0gxT0U3M01DeWc?oc=5"
-        },
-        {
-          "d": "aol.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlpKdFhhQ0ktVWNSWThvMEdBRVA0Vy02cjRlWnpsaWFJNFF5SmltMXM3eDYtbTh1eDJSeC1pUVh0Zk5ITlhJZi1UZk1scTF4dVFRa0xJeE9ZOElDbUdfYjV4LXY5RnNOcHctdHlMZUdpQlpaYVRsUUJ2V3g1TEwyM3oySjdfVUJKa2JENg?oc=5"
         }
       ],
       "srcTitles": [
-        "Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own.",
         "Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own.",
         "Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own."
       ]
@@ -287,38 +362,6 @@
     },
     {
       "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-10-09T00:17:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "BCMA: Artificial Intelligence Conference 2026, October 17, 2026",
-      "s": "BCMA: Artificial Intelligence Conference 2026, October 17, 2026 Florida Hospital News and Healthcare Report",
-      "b": [
-        "southfloridahospitalnews.com: BCMA: Artificial Intelligence Conference 2026, October 17, 2026",
-        "cowboystatedaily.com: Today In Artificial Intelligence: Friday, October 9, 2026"
-      ],
-      "body": [
-        "southfloridahospitalnews.com: BCMA: Artificial Intelligence Conference 2026, October 17, 2026 Florida Hospital News and Healthcare Report",
-        "cowboystatedaily.com: Today In Artificial Intelligence: Friday, October 9, 2026 Cowboy State Daily"
-      ],
-      "l": [
-        {
-          "d": "southfloridahospitalnews.com",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVV9xX0FQcXpYWnluUFNWN3pYUVEzU25DOGVKQTR0bGN0QnRYb1I3SkpQOE1VRHdCc0VoaVVObjRFUzR4cG9pUEt0SGR3VFg2R2oxS3Q2WFVYaXZUaE1HM2tKYXlkSFkwRzRoX09URFZSdWZzclJJY1NlLUZGaVVHelF5R3kyZlVDMGtOOXpiWEtlWF9wWUVZZUJDSjRmV0w2d3Y5MjBnOWJydE9FcXc?oc=5"
-        },
-        {
-          "d": "cowboystatedaily.com",
-          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZHB4LUJJU1JqYlRTY1Z2aUFMbTVkTEg3RjF1RWc3UjMzalp3NmlKc0p6NDE3ZEhmNjdpa2huMHZDX1R5RUd1ODRQYzhENlVSa3FwMUhHd0ZJQUhQME11Z3BzYjJuTG1sNUlvclFQaTJhdTRPdWw5R2htUHEtMFJROUIzNFNBYlJuQzRZdzJUb2s0bXRyOW83MGJUZw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "BCMA: Artificial Intelligence Conference 2026, October 17, 2026",
-        "Today In Artificial Intelligence: Friday, October 9, 2026"
-      ]
-    },
-    {
-      "cat": "models",
       "signal": 24,
       "sources": 1,
       "ts": "2026-10-09T09:00:00.000Z",
@@ -365,6 +408,38 @@
       ],
       "srcTitles": [
         "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-10-09T00:17:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "BCMA: Artificial Intelligence Conference 2026, October 17, 2026",
+      "s": "BCMA: Artificial Intelligence Conference 2026, October 17, 2026 Florida Hospital News and Healthcare Report",
+      "b": [
+        "southfloridahospitalnews.com: BCMA: Artificial Intelligence Conference 2026, October 17, 2026",
+        "cowboystatedaily.com: Today In Artificial Intelligence: Friday, October 9, 2026"
+      ],
+      "body": [
+        "southfloridahospitalnews.com: BCMA: Artificial Intelligence Conference 2026, October 17, 2026 Florida Hospital News and Healthcare Report",
+        "cowboystatedaily.com: Today In Artificial Intelligence: Friday, October 9, 2026 Cowboy State Daily"
+      ],
+      "l": [
+        {
+          "d": "southfloridahospitalnews.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVV9xX0FQcXpYWnluUFNWN3pYUVEzU25DOGVKQTR0bGN0QnRYb1I3SkpQOE1VRHdCc0VoaVVObjRFUzR4cG9pUEt0SGR3VFg2R2oxS3Q2WFVYaXZUaE1HM2tKYXlkSFkwRzRoX09URFZSdWZzclJJY1NlLUZGaVVHelF5R3kyZlVDMGtOOXpiWEtlWF9wWUVZZUJDSjRmV0w2d3Y5MjBnOWJydE9FcXc?oc=5"
+        },
+        {
+          "d": "cowboystatedaily.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZHB4LUJJU1JqYlRTY1Z2aUFMbTVkTEg3RjF1RWc3UjMzalp3NmlKc0p6NDE3ZEhmNjdpa2huMHZDX1R5RUd1ODRQYzhENlVSa3FwMUhHd0ZJQUhQME11Z3BzYjJuTG1sNUlvclFQaTJhdTRPdWw5R2htUHEtMFJROUIzNFNBYlJuQzRZdzJUb2s0bXRyOW83MGJUZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "BCMA: Artificial Intelligence Conference 2026, October 17, 2026",
+        "Today In Artificial Intelligence: Friday, October 9, 2026"
       ]
     }
   ]
