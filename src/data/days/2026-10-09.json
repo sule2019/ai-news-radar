@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 58,
+      "signal": 54,
       "sources": 2,
       "ts": "2026-10-09T07:23:48.000Z",
       "writtenSources": 2,
@@ -34,8 +34,90 @@
       ]
     },
     {
-      "cat": "research",
+      "cat": "models",
       "signal": 48,
+      "sources": 2,
+      "ts": "2026-10-09T10:18:07.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead?",
+      "s": "Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead? The Motley Fool",
+      "b": [
+        "fool.com: Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead?",
+        "theglobeandmail.com: Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead?"
+      ],
+      "body": [
+        "fool.com: Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead? The Motley Fool",
+        "theglobeandmail.com: Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead? The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNV21VaTJfNWVPRUNMWm9HWUpQN2lCNEEtS0V3d253YmlMYkVxNk1ySnk0NWY1cHU1dldOT3NnbzBCeUtySDRtYjk4V2dEd3BsSUtLZV94b3llaDB4dGdMRE42NVdUbmkybzBFbkxobVl4NkVZeU9tSmJtcFJEUFFKRlg0TmlhY0Mxd3dXak8zbXlRQzZBWkU0MGNB?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNblV0OEptYlkwWEtkaWtub1k3ZDR6ZkhnaDRyNFVtNklrQUZIaUhTUXltVmMyNzF5YXhqNFk4bEZlOU5oZi1RM1prcl9VTEtMSFRRRE13M1JQTlJkZ2tHalB0czk4QmlRbmdWWTZNdlBPZWJGTHhjQjBzNFFoZmRuSURLQmJqQlZSamNTcHQxSThFQjNvX0hxWjJpQldDTU9mSVF3eHBORWI0YUYyVEVYSWE4QjQzeWJ1Z29VaWZ5N0JwazFDdmZtRzZwY3g3NkNIUGczVVFXSmNwSzFIVkdEVXJJSFFwOTNrZ18zVlJ3ajVObmh6TWFiWE9IRlJVaG1sc1Rn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead?",
+        "Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead?"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-09T07:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "s": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "b": [
+        "openai.com: Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
+      ],
+      "body": [
+        "openai.com: Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/sophos"
+        }
+      ],
+      "srcTitles": [
+        "Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-09T07:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "s": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "b": [
+        "openai.com: Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
+      ],
+      "body": [
+        "openai.com: Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/asana-browser-agent"
+        }
+      ],
+      "srcTitles": [
+        "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 44,
       "sources": 2,
       "ts": "2026-10-08T22:19:55.000Z",
       "writtenSources": 2,
@@ -67,39 +149,7 @@
     },
     {
       "cat": "models",
-      "signal": 47,
-      "sources": 2,
-      "ts": "2026-10-09T10:18:07.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead?",
-      "s": "Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead? The Motley Fool",
-      "b": [
-        "fool.com: Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead?",
-        "theglobeandmail.com: Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead?"
-      ],
-      "body": [
-        "fool.com: Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead? The Motley Fool",
-        "theglobeandmail.com: Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead? The Globe and Mail"
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRnFoeUxSamVXN3NCVXZGMjJlYXNXR0tvcnIycUN2QjNtZ2dSaW5WUU12b0RZSng4NEE5M0paRlJweFpqc21GQWUwR3RFVEhWX0Zsc3hQd2ZCRDJtbHdqZ0RiOF9LTDVxTjV1SVRVTE9tbEdqY3ZpVE9rSFJYUHM5OUFXRk82MEZQb3BySEpySWhhdw?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOUTJ0UFN4c0dVY2VQU0VBNndkeUlVQWZsNnYtRXRMaUw5Zi1NN19aT3FPWm0zcjczQjZzQTQtM1lwYWZzb0FzTWx2WkNGZFk3cnROODlwLTUySjRJbjRIRlFSeFAxX3pNRy1Ob1NjYWVHdTMybWZkaFdHazBoR21MemVGN3NnNEt3ZG94OVZYeHJMcWpTY3RTYWY0Tmlxck1VRmVxM0JDUEJYMEdLSDFkVVktRW1qanJ6WFpNTUlaMGRFLWs2ZVZqMS1PRV9kdHozaFpiYjhFZFRtbVdSQW00dF83b3EwUS1DWlFIQURBcU0zNmoxMXZwczhDMkVvQnJnTzJZ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead?",
-        "Should You Forget Nvidia and Buy These 2 Artificial Intelligence (AI) Chip Stocks Instead?"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 47,
+      "signal": 43,
       "sources": 2,
       "ts": "2026-10-09T09:00:00.000Z",
       "writtenSources": 2,
@@ -127,31 +177,6 @@
       "srcTitles": [
         "ChatGPT for Teens Has Special Safeguards. A Watchdog Group Finds Most Don't Work",
         "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-10-09T07:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "s": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "b": [
-        "openai.com: Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
-      ],
-      "body": [
-        "openai.com: Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/sophos"
-        }
-      ],
-      "srcTitles": [
-        "Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
       ]
     },
     {
