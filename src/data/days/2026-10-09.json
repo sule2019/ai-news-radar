@@ -3,8 +3,40 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 67,
-      "sources": 4,
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-10-09T07:23:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI says it didn't fire three researchers for \"raising safety concerns or speaking out\", but due to violating \"clear policies on handling sensitive\" info (Michael Considine/CNBC)",
+      "s": "Michael Considine / CNBC : OpenAI says it didn't fire three researchers for raising safety concerns or speaking out , but due to violating clear policies on handling sensitive info OpenAI on Friday de",
+      "b": [
+        "techmeme.com: OpenAI says it didn't fire three researchers for \"raising safety concerns or speaking out\", but due to violating \"clear policies on handling sensitive\" info (Michael Considine/CNBC)",
+        "cnbc.com: OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'"
+      ],
+      "body": [
+        "techmeme.com: Michael Considine / CNBC : OpenAI says it didn't fire three researchers for raising safety concerns or speaking out , but due to violating clear policies on handling sensitive info OpenAI on Friday defended its decision to fire three safety researchers, saying they had committed a significant breach of trust.",
+        "cnbc.com: OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out' CNBC"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261009/p5#a261009p5"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1wMV9xZFhmR3pKa0w0eUxVR05NSlYxSlRjVmlXREZ3bWY4aUFuamg3X2M5bU9hVkpPQnlKeTVPbnVmYU1rR012Q0ZWVzdEaDY5eXJnUVQwT0ZGZ1RjUURtVUFmVXdqQTdodXgyT2xrMEpRQlJkcVNmZGNJWFJRQdIBgwFBVV95cUxNeFVha3o0dWozOUxKZENDNUEtbU9GNlV4b3pYUGNrM1dCd1hTVVZueHQtNkJDbkNiV2M4dzBJdzByYVBGTUljZXBWSTNrdVloTzRnSXdJM0lNelZ3a1JvS2ZKengzYmRJM2tRc2VIN1E2bDRtNjJYbENzUlUyb1BFc1Jndw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI says it didn't fire three researchers for \"raising safety concerns or speaking out\", but due to violating \"clear policies on handling sensitive\" info (Michael Considine/CNBC)",
+        "OpenAI defends decision to fire researchers: 'These decisions were not about raising safety concerns or speaking out'"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 56,
+      "sources": 2,
       "ts": "2026-10-08T22:19:55.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,14 +52,6 @@
       ],
       "l": [
         {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
-        },
-        {
-          "d": "ndtv.com",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRZaE0ybmlLS1ZLdTdzc1l4RFQ5WE1BOWp2SGxEV3hyVWk2NTdWOHprWEVhY294SDBoZnNLa1JFWVJjU2I4LXpidU1PN1ZqU08zTnRPdjhXdUsxbmpidFcwclJxeVhmYkhqTUg4bFhXbnNIX3RXMmtXTGdzRkZNRGF2MEM0OEZ6elFmUWdpODdFNVpHeEFQWk1ZczlTWUtxMXlLVDZfdWVMRTJvN0xvb0ZPRmlEZEhtWUdJ0gHDAUFVX3lxTE1mMy1BTzJ5ODBKdHIyWkxudmN0anZtS1V4YXIzZDB4RFQ3ZWJ0aW4wQkFzcllhTVo0cFVQby1fYlBWR2xzRUdOTXZvWnRJSGFwVEFPckFKcnFUYm53eTlONDc5Y2dLN1dDcTZFRjc4UVlvX2NLdTB5ZkFoS1puQ2tFcV80cWFmc1RvWndrd2hKcEI5VXA1c2tycktkbzZSQ3V1aHNuOXdkQUdaOUppNkFyVXpvdS1YTEVXRHQ5YWN6UVJLQQ?oc=5"
-        },
-        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/261008/p49#a261008p49"
         },
@@ -37,10 +61,134 @@
         }
       ],
       "srcTitles": [
-        "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
-        "\"Fired For Prioritising Safety\": Ex-OpenAI Researcher On Termination",
         "AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for \"prioritizing safety over the near-term interests of OpenAI\" (Mikita Balesni/@balesni)",
         "Fired OpenAI employees raise concerns over AI safety, monitoring"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-10-09T09:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
+      "s": "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work NPR",
+      "b": [
+        "npr.org: ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
+        "wkyufm.org: ChatGPT for Teens has special safeguards. A watchdog group finds most don't work"
+      ],
+      "body": [
+        "npr.org: ChatGPT for Teens has special safeguards. A watchdog group finds most don't work NPR",
+        "wkyufm.org: ChatGPT for Teens has special safeguards. A watchdog group finds most don't work WKU Public Radio"
+      ],
+      "l": [
+        {
+          "d": "npr.org",
+          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxObVB1UnRCb1RuU0d6Q1lOQVltX21JSktBS19xbFFILTRaVW9ZbWNKMjhBOW5XRV9aalVBLXdDUXFFMk92cUZmZWRxZGtFQjFXU0dmTlpKejRyOThIS0VNb3dYUVFQVkJsS1dDdnZNZ1RZQ0V3M2xTOGQ3aERnSzdrdHBZVmFmZw?oc=5"
+        },
+        {
+          "d": "wkyufm.org",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM280WUNZaGdLaUEwTEtIRE1BZkI2eXZtYk9MTWQ0X2IyNnZmQkNtWDJXZmlEYW9uak9pMlhVeUdFWHBSNHdQQ1YxQTZVUGdscHdrSjEyMEUzcjJlcHczdEdqSERJYldDOXRFalh3d2FfMTdEbWk0WkdEZEx1dzdVRmR3SGczSmxSeVpfc29HVjNHTWNzd1pOQ244MHBvTmFfY1NjNVltZ185RjRlVjItS3JWcFFDZGty?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work",
+        "ChatGPT for Teens has special safeguards. A watchdog group finds most don't work"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-10-09T07:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "s": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "b": [
+        "openai.com: Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
+      ],
+      "body": [
+        "openai.com: Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/sophos"
+        }
+      ],
+      "srcTitles": [
+        "Sophos cuts threat investigation time by 96% with OpenAI Daybreak"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-10-09T08:06:42.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own.",
+      "s": "Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own. The Motley Fool",
+      "b": [
+        "fool.com: Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own.",
+        "aol.com: Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own."
+      ],
+      "body": [
+        "fool.com: Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own. The Motley Fool",
+        "aol.com: Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own. AOL.com"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSzlZLUhVdzJjNzdRTktwd1ZIUDA4Q3VUM0MxLVFBcUpXRzJFT19tNW92YlBVc00xX3dZZGNtRjVzSHF0YnB4ZGdjWDZSdnROa3hPUXZNUWMtYnc2YWdZSnJlZnBPNk1mYWgyOXV5MW5YYnEwcnFjTnY4b2RQTGNwNWNjZzRfVEQwZlZUMWl2dzJiNjROWmt4bw?oc=5"
+        },
+        {
+          "d": "aol.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTlpKdFhhQ0ktVWNSWThvMEdBRVA0Vy02cjRlWnpsaWFJNFF5SmltMXM3eDYtbTh1eDJSeC1pUVh0Zk5ITlhJZi1UZk1scTF4dVFRa0xJeE9ZOElDbUdfYjV4LXY5RnNOcHctdHlMZUdpQlpaYVRsUUJ2V3g1TEwyM3oySjdfVUJKa2JENg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own.",
+        "Michael Burry Is Betting Against Artificial Intelligence (AI). Here's the Case for and Against, and the One Stock I'd Still Own."
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-09T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
+      "s": "I built MaRN (Mapping Networks) , a PyTorch library that lets you optimize a compact latent representation instead of directly training every model parameter. Some results from my current benchmarks: ",
+      "b": [
+        "reddit.com: I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
+        "arxiv.org: The Polytopal Neural Network",
+        "arxiv.org: ContiLNN: Mitigating Slice Sampling Discontinuity with Liquid Neural Networks for Medical Image Restoration"
+      ],
+      "body": [
+        "reddit.com: I built MaRN (Mapping Networks) , a PyTorch library that lets you optimize a compact latent representation instead of directly training every model parameter. Some results from my current benchmarks: MNIST CNN: 107,998 → 1,872 trainable parameters ( 57.7× reduction ), with 91.80% accuracy. LSTM forecasting: 12,051 → 2,048 parameters, with validation MSE of 0.00006. CNN2 + pruning: 204 trainable parameters, with 81.25% accuracy. These results come with trade-offs: mapped models can train substantially slower, and performance varies by task. The benchmarks are exploratory, using synthetic data for some tasks, and aren t evidence of general superiority over direct training. The library includes global and layer-wise mappings, regularization options, and pruning/LRD integrations. Code: https://github.com/arjunmnath/MaRN Docs: https://marn.readthedocs.io/ I d value feedback on the approach, benchmark design, and where this kind of parameter-efficient optimization could be useful. submitted by /u/Less_Dream_6331 [link] [comments]",
+        "arxiv.org: arXiv:2610.12004v1 Announce Type: cross Abstract: Understanding how deep neural networks process information remains a central challenge. Existing interpretability methods often compromise structural fidelity, rely on prespecified corpora, or explain models post-hoc. We propose Polytopal Neural Networks (PNNs), a framework that extracts distinct layer-wise aspects by enforcing a polytope-based structure that is used directly in subsequent information processing. We scale our approach using learned corpus representations and an amortized simplex inference procedure and highlight how the framework also gives a direct route to vector quantized (VQ) training. In PNNs, observations are explicitly described by their alignment with layer-specific aspects. Empirical results show that imposing polytopal constraints on neural network representations preserves meaningful structures in the latent space with minimal degradation in performance, favorable compressed representations when compared to VQ representations in unsupervised learning, while also providing a performant new approach to VQ deep learning training. Our findings suggest that deep networks can enforce interpretable polytope-based representations, offering a principled path toward more transparent AI systems with minimal performance compromise.",
+        "arxiv.org: arXiv:2610.12337v1 Announce Type: cross Abstract: Anatomical continuity provides complementary information for medical image restoration, but its use requires accounting for local anatomy and variations in slice sampling. We introduce ContiLNN, which augments two-dimensional restoration backbones with bidirectional closed-form continuous-time (Bi-CfC) modules for cross-slice modeling while retaining in-plane feature extraction. Slice-index intervals modulate gates determined by local features and hidden states, enabling propagation to respond to sampling variations without numerical ODE integration. Reference-guided consistency aligns first- and second-order cross-slice intensity differences to preserve anatomical variation, while distillation from a frozen backbone helps retain in-plane fidelity. Across five training seeds, ContiLNN improves mean PSNR over Restore-RWKV by 0.1907, 1.0176, and 1.2482 dB for CT denoising, MRI super-resolution, and reduced-count PET restoration, respectively, with lower RMSE in all three tasks. CT results are descriptive for one held-out patient. PET ablations support ordered propagation beyond additional pointwise capacity. Under contiguous training, Bi-CfC achieves higher fidelity than a Bi-GRU with similar parameter counts and arithmetic costs across all tested sampling conditions. Matched seven-slice profiling shows 52.8% lower latency and 57.0% lower peak GPU memory use than Bi-GRU. Mixed-gap training improves sparse and irregular-context performance for both operators, without a uniform ranking across metrics and contexts. Experiments with fewer training patients and a second backbone further support data efficiency and backbone compatibility.",
+        "arxiv.org: arXiv:2604.10166v2 Announce Type: replace-cross Abstract: Intelligent operation of thermal energy networks aims to improve energy efficiency, reliability, and operational flexibility through data-driven control, predictive optimization, and early fault detection. Achieving these goals relies on sufficient observability, requiring continuous and well-distributed monitoring of thermal and hydraulic states. However, district heating systems are typically sparsely instrumented and frequently affected by sensor faults, limiting monitoring. Virtual sensing offers a cost-effective means to enhance observability, yet its development and validation remain limited in practice. Existing data-driven methods generally assume dense synchronized data, while analytical models rely on simplified hydraulic and thermal assumptions that may not adequately capture the behavior of heterogeneous network topologies. Consequently, modeling the coupled nonlinear dependencies between pressure, flow, and temperature under realistic operating conditions remains challenging. In addition, the lack of publicly available benchmark datasets hinders systematic comparison of virtual sensing approaches. To address these challenges, we propose a heterogeneous spatial-temporal graph neural network (HSTGNN) for constructing virtual smart heat meters. The model incorporates the functional relationships inherent in district heating networks and employs dedicated branches to learn graph structures and temporal dynamics for flow, temperature, and pressure measurements, thereby enabling the joint modeling of cross-variable and spatial correlations. To support further research, we introduce a controlled laboratory dataset collected at the Aalborg Smart Water Infrastructure Laboratory, providing synchronized high-resolution measurements representative of real operating conditions. Extensive experiments demonstrate that the proposed approach significantly outperforms existing baselines."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1x1fjrv/i_built_marn_a_pytorch_library_for_training/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.12004"
+        }
+      ],
+      "srcTitles": [
+        "I built MaRN: a PyTorch library for training neural networks through low-dimensional parameter mappings [P]",
+        "The Polytopal Neural Network",
+        "ContiLNN: Mitigating Slice Sampling Discontinuity with Liquid Neural Networks for Medical Image Restoration",
+        "Virtual Smart Metering in District Heating Networks via Heterogeneous Spatial-Temporal Graph Neural Networks"
       ]
     },
     {
