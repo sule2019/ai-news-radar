@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 59,
-      "sources": 2,
+      "signal": 67,
+      "sources": 4,
       "ts": "2026-10-08T22:19:55.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,6 +20,14 @@
       ],
       "l": [
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/"
+        },
+        {
+          "d": "ndtv.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbnRZaE0ybmlLS1ZLdTdzc1l4RFQ5WE1BOWp2SGxEV3hyVWk2NTdWOHprWEVhY294SDBoZnNLa1JFWVJjU2I4LXpidU1PN1ZqU08zTnRPdjhXdUsxbmpidFcwclJxeVhmYkhqTUg4bFhXbnNIX3RXMmtXTGdzRkZNRGF2MEM0OEZ6elFmUWdpODdFNVpHeEFQWk1ZczlTWUtxMXlLVDZfdWVMRTJvN0xvb0ZPRmlEZEhtWUdJ0gHDAUFVX3lxTE1mMy1BTzJ5ODBKdHIyWkxudmN0anZtS1V4YXIzZDB4RFQ3ZWJ0aW4wQkFzcllhTVo0cFVQby1fYlBWR2xzRUdOTXZvWnRJSGFwVEFPckFKcnFUYm53eTlONDc5Y2dLN1dDcTZFRjc4UVlvX2NLdTB5ZkFoS1puQ2tFcV80cWFmc1RvWndrd2hKcEI5VXA1c2tycktkbzZSQ3V1aHNuOXdkQUdaOUppNkFyVXpvdS1YTEVXRHQ5YWN6UVJLQQ?oc=5"
+        },
+        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/261008/p49#a261008p49"
         },
@@ -29,13 +37,15 @@
         }
       ],
       "srcTitles": [
+        "Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect",
+        "\"Fired For Prioritising Safety\": Ex-OpenAI Researcher On Termination",
         "AI researcher Mikita Balesni says he believes OpenAI fired him, Tomek Korbak, and Jasmine Wang for \"prioritizing safety over the near-term interests of OpenAI\" (Mikita Balesni/@balesni)",
         "Fired OpenAI employees raise concerns over AI safety, monitoring"
       ]
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-09T00:08:24.000Z",
       "writtenSources": 1,
