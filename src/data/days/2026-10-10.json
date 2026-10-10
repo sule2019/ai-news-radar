@@ -1,4 +1,37 @@
 {
   "date": "2026-10-10",
-  "stories": []
+  "stories": [
+    {
+      "cat": "products",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-10-10T02:04:12.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
+      "s": "New York Times : Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed The Philadelphia Police",
+      "b": [
+        "techmeme.com: Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
+        "simonwillison.net: Quoting The New York Times"
+      ],
+      "body": [
+        "techmeme.com: New York Times : Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House",
+        "simonwillison.net: Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said. The New York Times , Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website Tags: accidental-cyberattacks , anthropic , generative-ai , ai , llms"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261010/p3#a261010p3"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
+        }
+      ],
+      "srcTitles": [
+        "Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
+        "Quoting The New York Times"
+      ]
+    }
+  ]
 }
