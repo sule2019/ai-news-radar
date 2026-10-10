@@ -37,6 +37,38 @@
         "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
         "Quoting The New York Times"
       ]
+    },
+    {
+      "cat": "funding",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-10-10T00:18:32.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic can t reliably control its AI agents. It s cutting off its internal evals from the live internet instead",
+      "s": "Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+      "b": [
+        "techcrunch.com: Anthropic can t reliably control its AI agents. It s cutting off its internal evals from the live internet instead",
+        "theverge.com: Anthropic is cutting off its internal evaluations from the internet"
+      ],
+      "body": [
+        "techcrunch.com: Anthropic said it \"turned off live internet access\" for \"all our internal evaluations\" until further notice.",
+        "theverge.com: After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, the company detailed \"unintended model actions,\" including submitting a false tip regarding an unsolved murder, that led to the decision. Although the impact of these behaviors was minimal [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/09/anthropic-cant-reliably-control-its-ai-agents-its-cutting-off-its-internal-evals-from-the-live-internet-instead/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic can t reliably control its AI agents. It s cutting off its internal evals from the live internet instead",
+        "Anthropic is cutting off its internal evaluations from the internet"
+      ]
     }
   ]
 }
