@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 56,
-      "sources": 2,
+      "signal": 59,
+      "sources": 3,
       "ts": "2026-10-10T02:04:12.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -24,12 +24,17 @@
           "u": "https://www.techmeme.com/261010/p3#a261010p3"
         },
         {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5"
+        },
+        {
           "d": "simonwillison.net",
           "u": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
         }
       ],
       "srcTitles": [
         "Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
+        "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
         "Quoting The New York Times"
       ]
     }
