@@ -2,40 +2,35 @@
   "date": "2026-10-10",
   "stories": [
     {
-      "cat": "products",
-      "signal": 59,
-      "sources": 3,
-      "ts": "2026-10-10T02:04:12.000Z",
+      "cat": "models",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-10-10T20:59:28.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
-      "s": "New York Times : Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed The Philadelphia Police",
+      "h": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+      "s": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
       "b": [
-        "techmeme.com: Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
-        "simonwillison.net: Quoting The New York Times"
+        "techcrunch.com: Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+        "cnbc.com: Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control"
       ],
       "body": [
-        "techmeme.com: New York Times : Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House",
-        "simonwillison.net: Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said. The New York Times , Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website Tags: accidental-cyberattacks , anthropic , generative-ai , ai , llms"
+        "techcrunch.com: In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+        "cnbc.com: Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control CNBC"
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261010/p3#a261010p3"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
         },
         {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5"
-        },
-        {
-          "d": "simonwillison.net",
-          "u": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWllxOVA0bTc2VGhkSDNzOWpRT0pRZjU1d084VDJMZmZmZGdSOEFfUGNZdG1NNWdVWG9nZjJxZVNVYVVlOE5hUl9lZU5hYW9xZjRaWFgzQWlwWXkxY3VBcXVXUkQxaHlxTTdxMC1QalJyWWFzUVRaWF8wSUJzdnNqSGctZ24wZDBHdkswZmtJTdIBlAFBVV95cUxPNHRQX2VXbDZtb2Z0WS1RRHAzc1NxZjdsWHNDZ1oweTYxTi10NGNESm9KLWNnNmhVYUdQblRqODlmWUdjQlFxYzRJbjVJLUlkUkdib2lwb3VUZ3pYNnJCclhid25RYlRyWEhnbE5ibGY5bWNTb2tzOWNEQlBPcllvMms1YkZxcEJSZHJPbHVpaTZQejRx?oc=5"
         }
       ],
       "srcTitles": [
-        "Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
-        "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
-        "Quoting The New York Times"
+        "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+        "Microsoft's Nadella says AI needs an ‘emergency brake’ that humans control"
       ]
     },
     {
@@ -71,8 +66,45 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 55,
+      "sources": 3,
+      "ts": "2026-10-10T02:04:12.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
+      "s": "New York Times : Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed The Philadelphia Police",
+      "b": [
+        "techmeme.com: Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
+        "simonwillison.net: Quoting The New York Times"
+      ],
+      "body": [
+        "techmeme.com: New York Times : Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House",
+        "simonwillison.net: Anthropic detailed the activity of its A.I. agents in a blog post on Friday, without naming the targeted websites. But two sources with knowledge of the incidents said Anthropic’s A.I. agents had submitted 20 visa applications through a form available on the State Department’s website. All the applications were incomplete and were not processed, they said. The New York Times , Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website Tags: accidental-cyberattacks , anthropic , generative-ai , ai , llms"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261010/p3#a261010p3"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSW45eVowQUtrRDU1czZqQ25KNW1UU0VLc201dkpjOEpJR2NFYUNmTnhITG94WnB6WlNsVkFfRzV5ZU1MeUJpY0NqX19lNVcyN3NLdXpSYk1xb0twRl85Z1RLRVllUVpNQTFPal9FaWp1SnNoNk8tbnN1a1ZpN1MxNVhR?oc=5"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Oct/10/the-new-york-times/"
+        }
+      ],
+      "srcTitles": [
+        "Sources: Anthropic's AI agents submitted 20 visa applications via a form on the US State Department website; the applications were incomplete and not processed (New York Times)",
+        "Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website",
+        "Quoting The New York Times"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-10-10T16:41:00.000Z",
       "writtenSources": 2,
