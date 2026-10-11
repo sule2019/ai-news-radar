@@ -3,6 +3,38 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-10-11T11:11:38.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic discloses fake tip to police among new rogue AI incidents",
+      "s": "Anthropic discloses fake tip to police among new rogue AI incidents The Standard (HK)",
+      "b": [
+        "thestandard.com.hk: Anthropic discloses fake tip to police among new rogue AI incidents",
+        "modernghana.com: Anthropic AI Agent Sent Fake Murder Tip to US Police, Prompting Safety Concerns"
+      ],
+      "body": [
+        "thestandard.com.hk: Anthropic discloses fake tip to police among new rogue AI incidents The Standard (HK)",
+        "modernghana.com: Anthropic AI Agent Sent Fake Murder Tip to US Police, Prompting Safety Concerns Modern Ghana"
+      ],
+      "l": [
+        {
+          "d": "thestandard.com.hk",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaGZ2RnJKQUJGN1djNlZZVWI4SXhaZ3czRUhGb2RZVUVrbWFNbHVvdlFxT2FPNklBWFo3R0lPQTdzeU12RjBfQXYxX1dxQUZBZzVUOWJuRnluMDVIU05mVFc0UUJQc1hWTEp6UUtadFJFTXJzcGlsampwX3l0Nmp0UVpSVkh3Vjd5YVBkU0ZGYWJuRzNtaXdvXzNyZ3BQeDNPYzNycDRkczI5T0ZCRVhDZVZ6S0dOMks0T1pv?oc=5"
+        },
+        {
+          "d": "modernghana.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMTFxY2YzaGJCdEJISUNNTk5DNjlHTHpVWDFNeUlpakZlOGpVSnB6dG9UbG9HRm9hVEtldmItZVpqNEhtcmRTQXhrZllpMkRDejZrX1F1aXhpeHFpOUZ6TW9xbVQ2a3JnZi1sSmZMWTQxNDFiLTVRX3ItckNfWUtodVRCb3BjUlNLU1BlMzBmTHZGcmMxUDRVS3c0RVbSAZsBQVVfeXFMTnhSTGt5aFdwdVhrdkdaQlJ5TzVneE9LNHZfZUoxb1haREpSbzBhZ1hSUGtnaVI2YmV0enNFcTA4LXFaamNEWGpjeDlzZUozbTI2bHlwd3BtV2xvb3lmMjNobFk4OWp3X01VcjZybTN4RkhXTHU4QUZTWVlpelVUTXlFRC1HY3N0dmR4b1NNZWpra3pkYm1vZlhYdEk?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic discloses fake tip to police among new rogue AI incidents",
+        "Anthropic AI Agent Sent Fake Murder Tip to US Police, Prompting Safety Concerns"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 36,
       "sources": 2,
       "ts": "2026-10-11T00:11:00.000Z",
