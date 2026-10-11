@@ -2,8 +2,91 @@
   "date": "2026-10-11",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 66,
+      "sources": 5,
+      "ts": "2026-10-11T20:46:52.000Z",
+      "writtenSources": 5,
+      "draft": true,
+      "h": "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
+      "s": "Wall Street Journal : Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September San Francisco com",
+      "b": [
+        "techmeme.com: Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
+        "bloomberg.com: Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports",
+        "kfgo.com: Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports"
+      ],
+      "body": [
+        "techmeme.com: Wall Street Journal : Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September San Francisco company's software makes it easier for developers to switch between different AI chips",
+        "bloomberg.com: Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports Bloomberg.com",
+        "kfgo.com: Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports The Mighty 790 KFGO",
+        "reuters.com: Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports Reuters"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261011/p11#a261011p11"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlp0dEhQeUJEblZQcDdEQmMyOGVkSFFlbzRVaXhuT0xFUFpNc21laThfRWNnVmpRMHdiVG1BbzJiTjliOFNCR0xDWEl3X0hES3FXWlZ5LUNjZnFFRkdwWTRoVC11VHllTkM3bS1sVi04cG1EVjlBbGw5R2tNRUxmWlp2QlFrZk1uemJBMUt1QjlLRnFtdDhyVWY1UTVHZE1HTmR4NjRmSDlvQQ?oc=5"
+        },
+        {
+          "d": "kfgo.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRmlEQWNmNnVMZG5UN2JFRm1mN2pobXg0dVZ5QTJmeHlreE1WbTlOdC1Xcm5RUy0yclBQbFl0QWZPZEZieF91c2NDbXZCbUE0dUtXSHVyZmdfTmpLYmUwOGJtQXZVV3dnbGNHVXhRRTM4LURUWUFsalVWZF9LY092UEtDaXVQV3ZQMlNVTk8zSENVUElyTGZWQzhqSmdYQVdhWWhXdg?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSTR0SUxydGYzRDJmaGtaWkRTYkkybS1GWlRkZFFnMjVXRFlZX0hHMUtVdFdIN0ZyQk0wMk1LNFhaUml3Y3FlRUV6SWFxVk9UUFg3MTUzelJtZU8tdjVpREpVS0owdkt2aVJhMUVObjg1TlRTREtZQzBINHJTTFloWDNBQTFCVl9yOE9HNXhBazJWMElncnlIZWNPdG5IY25ObFg0SGswNks5MkF0ODM4bEVRWkhjS3ZqcXVuWlVnamU0dw?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "Sources: Amazon is in talks to buy AI startup Decart in a deal that could value it at ~$7B; Anthropic had decided against acquiring Decart for ~$6B in September (Wall Street Journal)",
+        "Amazon Is in Talks to Buy AI Startup Decart, WSJ Reports",
+        "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports",
+        "Amazon in talks to buy AI startup Decart for around $7 billion, WSJ reports"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 48,
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-10-11T18:33:56.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+      "s": "When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader popu",
+      "b": [
+        "theverge.com: Silicon Valley is falling in line with Trump’s attempt to rename AI",
+        "techmeme.com: How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted \"super intelligence\", as Silicon Valley falls in line with Trump (Terrence O'Brien/The Verge)",
+        "theverge.com: Silicon Valley is falling in line with Trump’s attempt to rename AI"
+      ],
+      "body": [
+        "theverge.com: When President Donald Trump announced his plans to rebrand artificial intelligence as \"super intelligence,\" you'd be forgiven for being skeptical that it would catch on. While most of the broader population is sticking with AI, some of Silicon Valley's most powerful are falling in line and trying to give Trump the great AI rebrand he [ ]",
+        "techmeme.com: Terrence O'Brien / The Verge : How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted super intelligence , as Silicon Valley falls in line with Trump Musk, Benioff, Huang, and now Nadella have all capitulated to Trump's super intelligence rebrand.",
+        "theverge.com: Silicon Valley is falling in line with Trump’s attempt to rename AI The Verge"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261011/p10#a261011p10"
+        }
+      ],
+      "srcTitles": [
+        "Silicon Valley is falling in line with Trump’s attempt to rename AI",
+        "How Musk and Benioff pledged to rename SpaceXAI and AIForce, while Nadella and Nvidia adopted \"super intelligence\", as Silicon Valley falls in line with Trump (Terrence O'Brien/The Verge)",
+        "Silicon Valley is falling in line with Trump’s attempt to rename AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 44,
       "sources": 2,
       "ts": "2026-10-11T11:11:38.000Z",
       "writtenSources": 2,
@@ -35,8 +118,8 @@
     },
     {
       "cat": "models",
-      "signal": 36,
-      "sources": 2,
+      "signal": 40,
+      "sources": 3,
       "ts": "2026-10-11T00:11:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -58,11 +141,16 @@
         {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaDhubTctZXVnYjRXYkVVbzhDeGFGb3RUME1iVUFWMGNiVmJGQVFjZzJoOFE1eDlEUF8yc0d5OFdpUXdIZnF4WUFGaWluVDdSVVN5MXQxVmJZQkFpd1o5S050bktUc3ROM1VNd2xsRWdfZUNRQktzYTRnN2p2SVpyeUFVeGs4cHlRXy1waU5DWkstanNDTDhySzcycHVXNk5EZHU2V0UtTWQ5b0dfQ0hlS2ZVbHUtdw?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObXpWUnExcWRxWWVoNVExU3NvZHNObVJZZzdUbTVUMEFSaFduazV3Q2swTjdpbzlnbXE0b2VsXzFmN3NVNENCZ0JfczIwbnVzTXpucEpJTmVNS1pvY1dmb3BSeDhQcU5kOHJnQlUwTy1YMmJzbEhiUWdNSkw4U28tVDl2RC1Vc1E5dWZZUGUtek5BVmNEUW5hdnpCaUNFc243ZUNScmoybEtoNUpNbUdKZFJfa1Zid2NiUXN1cnJoMFo2bEFGcTl2UVl6SUU3Q0tVUUlMYVdVTkk0MUZRcVJ1MHVHaXVMdTBpMGg5bHRRcjNtLVR6N3FjNkVjbUxCdEtTQk1GeVM0dw?oc=5"
         }
       ],
       "srcTitles": [
         "SpaceX vs. Micron: Which Is the Better Artificial Intelligence (AI) Stock to Own for the Next 5 Years?",
-        "Better Artificial Intelligence Stock: Arm vs. Marvell Technology"
+        "Better Artificial Intelligence Stock: Arm vs. Marvell Technology",
+        "SpaceX vs. Micron: Which Is the Better Artificial Intelligence (AI) Stock to Own for the Next 5 Years?"
       ]
     }
   ]
