@@ -2,9 +2,105 @@
   "date": "2026-10-13",
   "stories": [
     {
-      "cat": "policy",
-      "signal": 36,
+      "cat": "products",
+      "signal": 70,
+      "sources": 3,
+      "ts": "2026-10-13T17:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+      "s": "Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+      "b": [
+        "techcrunch.com: Google Play now lets anyone build private, vibe-coded apps that run on Android",
+        "theverge.com: Google makes it easier to launch your vibe-coded apps",
+        "arstechnica.com: Google wants to host your personal vibe-coded apps in the Play Store"
+      ],
+      "body": [
+        "techcrunch.com: Google is making it easier to build and use personal Android apps created with AI, without having to make them available to everyone on the Play Store.",
+        "theverge.com: The next time you vibe-code a custom app with Google's AI Studio, you won't have to connect your phone to a computer to install it. On Tuesday, Google announced a new feature in the US that will allow you to launch personal apps directly through the Play Store. Google first launched the ability to vibe-code [ ]",
+        "arstechnica.com: Google has already added a few AI features to the Play Store, but a lot more are coming . The previously released Ask Play feature is expanding to offer more AI-powered discovery options in Google's app store, and Google is also using AI to build a recommendation engine called Game Finder. For people who have embraced AI to build their own apps, the Play Store will soon offer a way to privately host and share those creations. Google rolled out Ask Play in 2025 as a small chatbot interface on Play Store listings. It lets you ask questions about an app or game, either by typing it in manually or choosing from a list of suggested queries. Starting today, Ask Play is expanding into a more general way to search for apps and games. You ask the robot questions, and it generates recommendations that can include detailed comparison charts. Gemini will roll out a similar capability soon. Google's other AI discovery announcement focuses on games. The new Game Finder feature leans on all the usage data Google's app platform has hoovered up over the years, featuring insights into the way 1.2 billion people play games on Android. It builds a profile called Gamer DNA and matches you with players who have similar DNA. Read full article Comments"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/13/google-play-now-supports-private-vibe-coded-apps-built-just-for-you/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1009066/google-play-vibe-coded-android-apps-launch"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/"
+        }
+      ],
+      "srcTitles": [
+        "Google Play now lets anyone build private, vibe-coded apps that run on Android",
+        "Google makes it easier to launch your vibe-coded apps",
+        "Google wants to host your personal vibe-coded apps in the Play Store"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 61,
       "sources": 2,
+      "ts": "2026-10-13T17:01:31.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Facebook will let you customize your feed algorithm using AI",
+      "s": "Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make ",
+      "b": [
+        "theverge.com: Facebook will let you customize your feed algorithm using AI",
+        "techmeme.com: Meta expands its AI-powered \"Your Algorithm\" feature from Instagram to Facebook and Facebook Reels and says it is using LLMs more in its ranking systems (Stevie Bonifield/The Verge)"
+      ],
+      "body": [
+        "theverge.com: Facebook's new \"Your Algorithm\" feature will let you directly add and manage topics you want to see in your feed and Facebook Reels. Meta says your recommendations \"respond right away\" after you make updates using the new feature by hitting \"interested\" or \"not interested\" for different topics. Your Algorithm previously launched on Instagram earlier this [ ]",
+        "techmeme.com: Stevie Bonifield / The Verge : Meta expands its AI-powered Your Algorithm feature from Instagram to Facebook and Facebook Reels and says it is using LLMs more in its ranking systems Meta's bringing Instagram's Your Algorithm feature to Facebook, and using LLMs more to rank content."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1010344/meta-facebook-your-algorithm-ai"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261013/p33#a261013p33"
+        }
+      ],
+      "srcTitles": [
+        "Facebook will let you customize your feed algorithm using AI",
+        "Meta expands its AI-powered \"Your Algorithm\" feature from Instagram to Facebook and Facebook Reels and says it is using LLMs more in its ranking systems (Stevie Bonifield/The Verge)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-10-13T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Gemini 4 Argon: Built to solve your hardest problems",
+      "s": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "b": [
+        "blog.google: Gemini 4 Argon: Built to solve your hardest problems"
+      ],
+      "body": [
+        "blog.google: We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+        }
+      ],
+      "srcTitles": [
+        "Gemini 4 Argon: Built to solve your hardest problems"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 45,
+      "sources": 4,
       "ts": "2026-10-13T04:55:02.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,22 +116,57 @@
       ],
       "l": [
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/13/just-5-years-in-interactive-chatbot-platform-character-ai-files-for-bankruptcy/"
+        },
+        {
           "d": "theverge.com",
           "u": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261013/p3#a261013p3"
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVU5eVA2N0w4anA0WVJMUFFrUU1iMHg3TFVOZkVhRDR3S0ZudXVxVm9mRjFPZDFuUHBhSGUybXRtRmJEWi1uYi1kQlc0V3BWZS1aVlZlZXQxV1JGckgzY3l6U1piY3dkSHM2Ni1LVkFSM194Q3NRN1BmYnlsSWZGQmFyT2t2YVU1UXNsdWNnT2hYN2VsWlhnZHBUYWc1UE5ab2pkT2k5QnBGeUJncGdXVGNRbWxpcHY1Z0pwengxdDk?oc=5"
+        },
+        {
+          "d": "blog.character.ai",
+          "u": "https://blog.character.ai/an-update-on-character-ai/"
         }
       ],
       "srcTitles": [
+        "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
         "Character.AI files for bankruptcy",
-        "Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale (Rhea Rose Abraham/Reuters)"
+        "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million",
+        "Character.ai has initiated voluntary Chapter 11 bankruptcy"
       ]
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-13T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Higgsfield takes AI video from 1 minute to over 10",
+      "s": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "b": [
+        "openai.com: Higgsfield takes AI video from 1 minute to over 10"
+      ],
+      "body": [
+        "openai.com: Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/higgsfield-longer-videos-voice"
+        }
+      ],
+      "srcTitles": [
+        "Higgsfield takes AI video from 1 minute to over 10"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-13T10:00:00.000Z",
       "writtenSources": 1,
@@ -56,6 +187,31 @@
       ],
       "srcTitles": [
         "Open models have real benefits. Do they outweigh the risks?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-13T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AI labs are buying data from dead startups to train their models",
+      "s": "When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm",
+      "b": [
+        "technologyreview.com: AI labs are buying data from dead startups to train their models"
+      ],
+      "body": [
+        "technologyreview.com: When Keelan Miskell began winding down his crypto startup this year, he didn’t think its data was worth much: the users were anonymous, the company just a few years old. But he’s since turned the firm’s digital archives into real money. He’s netted roughly $25,000 for his code base and a still-pending amount (likely around $15,000) for the workspace data in Google, Notion, Figma, and Slack. “At least all that stuff we were doing for two and a half years is worth something to someone somewhere,” he says. The sale was brokered by a company called SimpleClosure, part of a new growth sector in tech: businesses catering to dying startups. Estimates from Carta and AngelList show shutdowns rising between 26% and 56% annually in recent years, and an end-of-life ecosystem—including coaches, “death doulas,” and firms that help handle the legal, tax, and operational headaches of going ­belly-up—has emerged. Now tech undertakers are selling the data remains to AI labs. SimpleClosure added data sales to its services in April. Its Asset Hub platform helps founders sell their code and workspace data—emails, chats, documents. Buyers include foundation AI labs, vendors that construct simulated workspaces for AI training, and mature tech companies building their own models. Asset Hub has handled over 150 deals and expects to return over $10 million to startups by the end of 2026. CEO Dori Yona has seen these transactions, once rare and “somewhat taboo,” become increasingly routine, with 47% of SimpleClosure deals now including code or data sales. And it’s got company. Industry rival Sunset also has a rapidly growing data resale business. Founder and CEO Brendan Mahony says Sunset values a dying client’s assets by head count, years in operation, volume of data, and how the team used its tools. Particle board, he says, is a good analogy: “This operational exhaust data is like the wood shavings that everyone thought had no value, but it actually has a ton.” Demand for defunct companies’"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/13/1145755/ai-labs-buying-data-from-dead-startups-to-train-models/"
+        }
+      ],
+      "srcTitles": [
+        "AI labs are buying data from dead startups to train their models"
       ]
     }
   ]
