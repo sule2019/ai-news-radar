@@ -1,4 +1,62 @@
 {
   "date": "2026-10-13",
-  "stories": []
+  "stories": [
+    {
+      "cat": "policy",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-10-13T04:55:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Character.AI files for bankruptcy",
+      "s": "Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for user",
+      "b": [
+        "theverge.com: Character.AI files for bankruptcy",
+        "techmeme.com: Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale (Rhea Rose Abraham/Reuters)"
+      ],
+      "body": [
+        "theverge.com: Character.AI, one of the first breakout startups of the generative AI boom, has filed for bankruptcy and is selling some of its assets to Disney. The company, which builds various online bots for users to chat or roleplay with, has faced mounting scrutiny and lawsuits over the safety of its chatbots, but has continued releasing [ ]",
+        "techmeme.com: Rhea Rose Abraham / Reuters : Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale Character.AI said on Monday it had filed for Chapter 11 bankruptcy in the US and agreed to sell some of its assets to Walt Disney (DIS.N) for $20 million."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261013/p3#a261013p3"
+        }
+      ],
+      "srcTitles": [
+        "Character.AI files for bankruptcy",
+        "Character.AI files for Chapter 11 bankruptcy in the US, agrees to sell some assets to Disney for $20M, and plans to keep operating as it completes the sale (Rhea Rose Abraham/Reuters)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-10-13T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Open models have real benefits. Do they outweigh the risks?",
+      "s": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here . Late las",
+      "b": [
+        "technologyreview.com: Open models have real benefits. Do they outweigh the risks?"
+      ],
+      "body": [
+        "technologyreview.com: MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here . Late last month, Anthropic released a report arguing that the model GLM-5.3 poses a major cyberattack risk. The report’s core concern is that the powerful new model, released in August by the Chinese company Z.ai, is freely available for anyone to download and modify. Anthropic’s assertion is only the latest move in a long-running debate about whether frontier AI models should be made open, like GLM-5.3, or should stay locked behind the doors of the frontier labs. These days, much of the debate about how to handle open models is playing out in public—and there’s a lot of money resting on its outcome. Nvidia CEO Jensen Huang, who has a lot to gain if people continue buying their own hardware to run open models, advocates enthusiastically for the United States to develop more of them, whereas Anthropic’s Dario Amodei, who runs a company that could be undermined by cheap, powerful models, advocates for a more cautious approach. But beneath all these commercial incentives, there is real substance to disagreements about open models. “I think a lot of the way you come down on the openness debate is influenced by how you come down on the AI debate,” says David Gray Widder, an assistant professor at the University of Texas at Austin School of Information. Those who are concerned about AI safety warn that open models can easily be misused by bad actors, whereas those who focus more on AI’s practical potential urge that this power should not sit behind the closed doors of just a few big companies, and that open models could help spread it more widely. There are a range of ways to handle open models between banning them entirely and releasing them willy-nilly. But any approach that a government or a society might take still involves trade-offs between safety and democratization. Deciding "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/13/1146366/open-models-have-real-benefits-do-they-outweigh-the-risks/"
+        }
+      ],
+      "srcTitles": [
+        "Open models have real benefits. Do they outweigh the risks?"
+      ]
+    }
+  ]
 }
