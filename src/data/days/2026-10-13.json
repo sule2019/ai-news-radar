@@ -2,8 +2,48 @@
   "date": "2026-10-13",
   "stories": [
     {
+      "cat": "models",
+      "signal": 78,
+      "sources": 4,
+      "ts": "2026-10-13T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Gemini 4 Argon: Built to solve your hardest problems",
+      "s": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "b": [
+        "blog.google: Gemini 4 Argon: Built to solve your hardest problems"
+      ],
+      "body": [
+        "blog.google: We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+        },
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/gemini-4-argon-for-robotics/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/10/gemini-4-argon-begins-rolling-out-in-gemini-app-and-antigravity-but-only-if-you-pay/"
+        }
+      ],
+      "srcTitles": [
+        "Gemini 4 Argon: Built to solve your hardest problems",
+        "Gemini 4 Argon for Robotics",
+        "Gemini 4 Argon: Built to solve your hardest problems",
+        "Google finally releases Gemini 4 Argon"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 70,
+      "signal": 67,
       "sources": 3,
       "ts": "2026-10-13T17:00:00.000Z",
       "writtenSources": 3,
@@ -42,8 +82,8 @@
     },
     {
       "cat": "products",
-      "signal": 61,
-      "sources": 2,
+      "signal": 65,
+      "sources": 3,
       "ts": "2026-10-13T17:01:31.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -65,42 +105,54 @@
         {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/261013/p33#a261013p33"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Oct/12/llm-meta-ai/"
         }
       ],
       "srcTitles": [
         "Facebook will let you customize your feed algorithm using AI",
-        "Meta expands its AI-powered \"Your Algorithm\" feature from Instagram to Facebook and Facebook Reels and says it is using LLMs more in its ranking systems (Stevie Bonifield/The Verge)"
+        "Meta expands its AI-powered \"Your Algorithm\" feature from Instagram to Facebook and Facebook Reels and says it is using LLMs more in its ranking systems (Stevie Bonifield/The Verge)",
+        "llm-meta-ai 0.2"
       ]
     },
     {
       "cat": "models",
-      "signal": 49,
-      "sources": 1,
-      "ts": "2026-10-13T16:00:00.000Z",
-      "writtenSources": 1,
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-13T20:34:10.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "Gemini 4 Argon: Built to solve your hardest problems",
-      "s": "We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model.",
+      "h": "OpenAI employee arrested for allegedly planting a bug in a conference room",
+      "s": "An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old ",
       "b": [
-        "blog.google: Gemini 4 Argon: Built to solve your hardest problems"
+        "theverge.com: OpenAI employee arrested for allegedly planting a bug in a conference room",
+        "techmeme.com: Federal prosecutors say a Saudi national was arrested over bugging an OpenAI executive conference room; OpenAI found the audio recorder around September 30 (The San Francisco Standard)"
       ],
       "body": [
-        "blog.google: We’re giving developers, enterprises, scientists, and consumers access to Gemini 4 Argon, our latest frontier model."
+        "theverge.com: An OpenAI engineer was arrested after the company said it discovered a \"sophisticated recording device\" hidden in one of its offices. The employee was identified as Abdulrahman Alfozan, a 35-year-old Saudi national. Alfozan is charged with using or endeavoring to use a device to intercept oral communications, according to a press release from the Department [ ]",
+        "techmeme.com: The San Francisco Standard : Federal prosecutors say a Saudi national was arrested over bugging an OpenAI executive conference room; OpenAI found the audio recorder around September 30 An OpenAI engineer has been arrested on suspicion of hiding an audio recording device in an executive conference room"
       ],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261013/p41#a261013p41"
         }
       ],
       "srcTitles": [
-        "Gemini 4 Argon: Built to solve your hardest problems"
+        "OpenAI employee arrested for allegedly planting a bug in a conference room",
+        "Federal prosecutors say a Saudi national was arrested over bugging an OpenAI executive conference room; OpenAI found the audio recorder around September 30 (The San Francisco Standard)"
       ]
     },
     {
       "cat": "policy",
-      "signal": 45,
-      "sources": 4,
+      "signal": 41,
+      "sources": 5,
       "ts": "2026-10-13T04:55:02.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -124,19 +176,86 @@
           "u": "https://www.theverge.com/ai-artificial-intelligence/1009802/character-ai-files-for-bankruptcy-disney"
         },
         {
+          "d": "blog.character.ai",
+          "u": "https://blog.character.ai/an-update-on-character-ai/"
+        },
+        {
           "d": "reuters.com",
           "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOVU5eVA2N0w4anA0WVJMUFFrUU1iMHg3TFVOZkVhRDR3S0ZudXVxVm9mRjFPZDFuUHBhSGUybXRtRmJEWi1uYi1kQlc0V3BWZS1aVlZlZXQxV1JGckgzY3l6U1piY3dkSHM2Ni1LVkFSM194Q3NRN1BmYnlsSWZGQmFyT2t2YVU1UXNsdWNnT2hYN2VsWlhnZHBUYWc1UE5ab2pkT2k5QnBGeUJncGdXVGNRbWxpcHY1Z0pwengxdDk?oc=5"
         },
         {
-          "d": "blog.character.ai",
-          "u": "https://blog.character.ai/an-update-on-character-ai/"
+          "d": "+1"
         }
       ],
       "srcTitles": [
         "Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy",
-        "Character.AI files for bankruptcy",
-        "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million",
-        "Character.ai has initiated voluntary Chapter 11 bankruptcy"
+        "Character.ai Files for Bankruptcy",
+        "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+        "Character.AI files for bankruptcy, to sell some assets to Disney for $20 million"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-10-13T19:00:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Xbox is officially embracing the chaos of AI-powered game ports",
+      "s": "Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games ",
+      "b": [
+        "theverge.com: Xbox is officially embracing the chaos of AI-powered game ports",
+        "techmeme.com: Xbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools (Jon Hicks/GamesIndustry.biz)"
+      ],
+      "body": [
+        "theverge.com: Retro gaming is going through a wild time at the moment, thanks to decompilations and recompilations that are letting gamers port classic titles to new devices, or merge code from two different games into a single new experience. Microsoft has witnessed skateboarding being modded into Call of Duty and Halo being played in a web [ ]",
+        "techmeme.com: Jon Hicks / GamesIndustry.biz : Xbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools New business unit is charged with testing new projects and judging them by user feedback, spurred by recent mashups and ports delivered with AI coding tools"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/news/1010406/xbox-labs-game-decompiling-emulation-exploration"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261013/p42#a261013p42"
+        }
+      ],
+      "srcTitles": [
+        "Xbox is officially embracing the chaos of AI-powered game ports",
+        "Xbox CEO Asha Sharma announces Xbox Labs, a small team to test emerging ideas, citing recent game ports and mashups, many of them built with AI tools (Jon Hicks/GamesIndustry.biz)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-10-13T21:13:05.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Cerebras CEO says we re nearing a future where everyone has a personal AI assistant at home",
+      "s": "Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+      "b": [
+        "techcrunch.com: Cerebras CEO says we re nearing a future where everyone has a personal AI assistant at home",
+        "unric.org: The Future of AI Is Everyone’s Responsibility"
+      ],
+      "body": [
+        "techcrunch.com: Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.",
+        "unric.org: The Future of AI Is Everyone’s Responsibility Unric"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/"
+        },
+        {
+          "d": "unric.org",
+          "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE00a0FfMU5NZE1kSEJhX1diM1hhZHdtMWs4cURWUG1ReDZnd2VHYzVVdy1XVTZYWmE5YnlVZTFLMEZvalRvem90eGlVRE1WSF8xYVBuWExjd29TSnc4ZC1TQ3NxbVhaeVVUbGkzdV9hMGdSR25q?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Cerebras CEO says we re nearing a future where everyone has a personal AI assistant at home",
+        "The Future of AI Is Everyone’s Responsibility"
       ]
     },
     {
