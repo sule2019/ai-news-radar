@@ -150,6 +150,38 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-13T20:02:14.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+      "s": "Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+      "b": [
+        "wired.com: An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+        "techmeme.com: OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device (@openainewsroom)"
+      ],
+      "body": [
+        "wired.com: Chatbot prompts reveal the engineer’s alleged efforts to set up a covert listening device days before one was found in a meeting room used by high-level executives.",
+        "techmeme.com: @openainewsroom : OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device We discovered a sophisticated recording device that was hidden inside one of our offices. We used our models to understand the device and where it had come from, identifying that a specific employee had planted it a few days earlier. We referred the matter to the FBI, and we're grateful to the agen..."
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/an-openai-employee-allegedly-used-a-chatbot-to-help-plant-a-recording-device-at-the-office/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261013/p40#a261013p40"
+        }
+      ],
+      "srcTitles": [
+        "An OpenAI Employee Allegedly Used a Chatbot to Help Plant a Recording Device at the Office",
+        "OpenAI says the FBI arrested one of its staffers after the company found a hidden recording device in its offices and used its models to understand the device (@openainewsroom)"
+      ]
+    },
+    {
       "cat": "policy",
       "signal": 41,
       "sources": 5,
