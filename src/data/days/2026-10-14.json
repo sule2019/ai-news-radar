@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-10-14T03:50:09.000Z",
       "writtenSources": 2,
@@ -61,6 +61,63 @@
       ],
       "srcTitles": [
         "Google DeepMind and Singapore Government collaborate to build fine-tuned AI model for scam detection"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-10-14T11:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Scimplify raises $25M to challenge China s grip on critical materials with AI",
+      "s": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+      "b": [
+        "techcrunch.com: Scimplify raises $25M to challenge China s grip on critical materials with AI",
+        "thenextweb.com: Scimplify raises $25M to speed up critical materials production with AI"
+      ],
+      "body": [
+        "techcrunch.com: Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S. expansion.",
+        "thenextweb.com: Scimplify raises $25M to speed up critical materials production with AI The Next Web"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/14/scimplify-raises-25m-to-challenge-chinas-grip-on-critical-materials-with-ai/"
+        },
+        {
+          "d": "thenextweb.com",
+          "u": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1DYlFNcERkR29ZVERpdDNKNzFLRXVhYlZzMVByZFl1UXZhN3ZHcXU2X0hzYzNPNEtWQ284WGZaWVByX2g2QXpwNjJqNlRQcnVKNVlVb2pLZE5lbUZqRlVXYnMzM2c3eTJtN3MxaE5VVnk0ZnZu?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Scimplify raises $25M to challenge China s grip on critical materials with AI",
+        "Scimplify raises $25M to speed up critical materials production with AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-14T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The EU’s next chapter in AI is agentic",
+      "s": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
+      "b": [
+        "openai.com: The EU’s next chapter in AI is agentic"
+      ],
+      "body": [
+        "openai.com: New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic"
+        }
+      ],
+      "srcTitles": [
+        "The EU’s next chapter in AI is agentic"
       ]
     }
   ]
