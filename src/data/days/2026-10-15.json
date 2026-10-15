@@ -1,4 +1,37 @@
 {
   "date": "2026-10-15",
-  "stories": []
+  "stories": [
+    {
+      "cat": "products",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-10-15T04:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Figma announces new features to define how agents work on its platform",
+      "s": "Figma is also releasing its code layers feature in open beta.",
+      "b": [
+        "techcrunch.com: Figma announces new features to define how agents work on its platform",
+        "techmeme.com: Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language (Ivan Mehta/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Figma is also releasing its code layers feature in open beta.",
+        "techmeme.com: Ivan Mehta / TechCrunch : Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language Design platform Figma announced a new Markdown-based editor to help define a company's design, bring in design and code libraries"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261015/p8#a261015p8"
+        }
+      ],
+      "srcTitles": [
+        "Figma announces new features to define how agents work on its platform",
+        "Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language (Ivan Mehta/TechCrunch)"
+      ]
+    }
+  ]
 }
