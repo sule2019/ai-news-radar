@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 74,
-      "sources": 4,
+      "signal": 67,
+      "sources": 3,
       "ts": "2026-10-15T00:00:00.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -32,22 +32,17 @@
         {
           "d": "theverge.com",
           "u": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261015/p37#a261015p37"
         }
       ],
       "srcTitles": [
         "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
         "Meta launches an open-weight AI model that runs on Macs",
-        "Meta and Apple team up to make Muse AI models run better on Macs",
-        "Meta releases Muse Spark Open, saying it is the most capable US open-weight model, with 816B total and 42B active parameters and a 1M-token context window (Meta AI Research)"
+        "Meta and Apple team up to make Muse AI models run better on Macs"
       ]
     },
     {
       "cat": "products",
-      "signal": 58,
+      "signal": 54,
       "sources": 2,
       "ts": "2026-10-15T13:00:00.000Z",
       "writtenSources": 2,
@@ -79,7 +74,7 @@
     },
     {
       "cat": "policy",
-      "signal": 57,
+      "signal": 53,
       "sources": 3,
       "ts": "2026-10-15T12:01:09.000Z",
       "writtenSources": 2,
@@ -116,7 +111,7 @@
     },
     {
       "cat": "research",
-      "signal": 53,
+      "signal": 49,
       "sources": 2,
       "ts": "2026-10-15T12:45:01.000Z",
       "writtenSources": 2,
@@ -147,8 +142,33 @@
       ]
     },
     {
-      "cat": "models",
+      "cat": "research",
       "signal": 49,
+      "sources": 1,
+      "ts": "2026-10-15T19:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Bringing GPT-Rosalind to academic research labs",
+      "s": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "b": [
+        "openai.com: Bringing GPT-Rosalind to academic research labs"
+      ],
+      "body": [
+        "openai.com: Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-the-rosalind-academic-plan"
+        }
+      ],
+      "srcTitles": [
+        "Bringing GPT-Rosalind to academic research labs"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
       "sources": 1,
       "ts": "2026-10-15T16:08:03.000Z",
       "writtenSources": 1,
@@ -173,7 +193,7 @@
     },
     {
       "cat": "policy",
-      "signal": 36,
+      "signal": 32,
       "sources": 2,
       "ts": "2026-10-15T11:07:22.000Z",
       "writtenSources": 2,
@@ -229,38 +249,6 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 16,
-      "sources": 2,
-      "ts": "2026-10-15T04:30:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Figma announces new features to define how agents work on its platform",
-      "s": "Figma is also releasing its code layers feature in open beta.",
-      "b": [
-        "techcrunch.com: Figma announces new features to define how agents work on its platform",
-        "techmeme.com: Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language (Ivan Mehta/TechCrunch)"
-      ],
-      "body": [
-        "techcrunch.com: Figma is also releasing its code layers feature in open beta.",
-        "techmeme.com: Ivan Mehta / TechCrunch : Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language Design platform Figma announced a new Markdown-based editor to help define a company's design, bring in design and code libraries"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261015/p8#a261015p8"
-        }
-      ],
-      "srcTitles": [
-        "Figma announces new features to define how agents work on its platform",
-        "Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language (Ivan Mehta/TechCrunch)"
-      ]
-    },
-    {
       "cat": "funding",
       "signal": 15,
       "sources": 2,
@@ -290,6 +278,38 @@
       "srcTitles": [
         "AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs",
         "AstraZeneca strikes $40 million AI drug discovery deal with insitro"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-10-15T04:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Figma announces new features to define how agents work on its platform",
+      "s": "Figma is also releasing its code layers feature in open beta.",
+      "b": [
+        "techcrunch.com: Figma announces new features to define how agents work on its platform",
+        "techmeme.com: Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language (Ivan Mehta/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Figma is also releasing its code layers feature in open beta.",
+        "techmeme.com: Ivan Mehta / TechCrunch : Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language Design platform Figma announced a new Markdown-based editor to help define a company's design, bring in design and code libraries"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261015/p8#a261015p8"
+        }
+      ],
+      "srcTitles": [
+        "Figma announces new features to define how agents work on its platform",
+        "Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language (Ivan Mehta/TechCrunch)"
       ]
     }
   ]
