@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 39,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-10-15T04:30:00.000Z",
       "writtenSources": 2,
@@ -31,6 +31,38 @@
       "srcTitles": [
         "Figma announces new features to define how agents work on its platform",
         "Figma announces new features to define how AI agents work on its platform, including Figma Specs, a Markdown editor that lets users define their design language (Ivan Mehta/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-10-15T10:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs",
+      "s": "AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs Fierce Biotech",
+      "b": [
+        "fiercebiotech.com: AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs",
+        "wtvbam.com: AstraZeneca strikes $40 million AI drug discovery deal with insitro"
+      ],
+      "body": [
+        "fiercebiotech.com: AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs Fierce Biotech",
+        "wtvbam.com: AstraZeneca strikes $40 million AI drug discovery deal with insitro WTVB"
+      ],
+      "l": [
+        {
+          "d": "fiercebiotech.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaFBRNm9yTDRZZl9VRGNidHJqdDRHTGdSUGtCaEdpX3ZCdzJWNnBXcU1XTTZSYUFBQ1VUR2FZYzg1ZXMya09mMVhUa0FrdXE1YVByM3lPZEVwVUxJS09iLUw4VTZUWGRhbFR0MG5XY0QyenVmQlBRci1CX0pmcktLbDlxYWJzeUNGVzBkSjZMTndZVDFvYlk4NUx1WHJMV2Nl?oc=5"
+        },
+        {
+          "d": "wtvbam.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbHhCRzQ3YTRkX3dpWExNQzU0aTFxcVNZLVBJdDVaRUhleW5TRmxUUnVkR0ktVzJiSVUtcTY0OFdkcWl4RG9SSW9HdVlqamdfUjhqbFM3M2ZFU3NQT0o5V0kyVlZTcmx4OWo5ZVE0Y0pnenJDMUxKQ05hT2Q4bWxZQkEwR0tYYXFETEsxdnEtcmV5S1RUZWFfUk9xaks2dw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AstraZeneca inks $1.5B insitro deal for AI-enabled target discovery of liver, heart disease drugs",
+        "AstraZeneca strikes $40 million AI drug discovery deal with insitro"
       ]
     }
   ]
