@@ -46,8 +46,40 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-10-15T13:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google’s Universal Cart shopping tool launches in the US",
+      "s": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "b": [
+        "techcrunch.com: Google’s Universal Cart shopping tool launches in the US",
+        "theverge.com: Google launches its universal online shopping cart ahead of the holidays"
+      ],
+      "body": [
+        "techcrunch.com: The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+        "theverge.com: Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch"
+        }
+      ],
+      "srcTitles": [
+        "Google’s Universal Cart shopping tool launches in the US",
+        "Google launches its universal online shopping cart ahead of the holidays"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 61,
+      "signal": 57,
       "sources": 3,
       "ts": "2026-10-15T12:01:09.000Z",
       "writtenSources": 2,
@@ -83,40 +115,8 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 58,
-      "sources": 2,
-      "ts": "2026-10-15T13:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Google’s Universal Cart shopping tool launches in the US",
-      "s": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "b": [
-        "techcrunch.com: Google’s Universal Cart shopping tool launches in the US",
-        "theverge.com: Google launches its universal online shopping cart ahead of the holidays"
-      ],
-      "body": [
-        "techcrunch.com: The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-        "theverge.com: Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier [ ]"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch"
-        }
-      ],
-      "srcTitles": [
-        "Google’s Universal Cart shopping tool launches in the US",
-        "Google launches its universal online shopping cart ahead of the holidays"
-      ]
-    },
-    {
       "cat": "research",
-      "signal": 57,
+      "signal": 53,
       "sources": 2,
       "ts": "2026-10-15T12:45:01.000Z",
       "writtenSources": 2,
@@ -173,7 +173,7 @@
     },
     {
       "cat": "policy",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-10-15T11:07:22.000Z",
       "writtenSources": 2,
@@ -230,7 +230,7 @@
     },
     {
       "cat": "products",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-10-15T04:30:00.000Z",
       "writtenSources": 2,
@@ -262,7 +262,7 @@
     },
     {
       "cat": "funding",
-      "signal": 17,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-10-15T10:00:00.000Z",
       "writtenSources": 2,
