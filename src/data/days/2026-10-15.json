@@ -129,7 +129,7 @@
     },
     {
       "cat": "policy",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-10-15T11:07:22.000Z",
       "writtenSources": 2,
@@ -160,8 +160,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-15T13:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Teaching students to think and learn through questions",
+      "s": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "b": [
+        "openai.com: Teaching students to think and learn through questions"
+      ],
+      "body": [
+        "openai.com: Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+        }
+      ],
+      "srcTitles": [
+        "Teaching students to think and learn through questions"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 28,
+      "signal": 24,
       "sources": 2,
       "ts": "2026-10-15T04:30:00.000Z",
       "writtenSources": 2,
@@ -192,33 +217,8 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-10-15T13:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Teaching students to think and learn through questions",
-      "s": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
-      "b": [
-        "openai.com: Teaching students to think and learn through questions"
-      ],
-      "body": [
-        "openai.com: Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
-        }
-      ],
-      "srcTitles": [
-        "Teaching students to think and learn through questions"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 25,
+      "signal": 21,
       "sources": 2,
       "ts": "2026-10-15T10:00:00.000Z",
       "writtenSources": 2,
