@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 62,
-      "sources": 2,
+      "signal": 65,
+      "sources": 3,
       "ts": "2026-10-15T12:01:09.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,6 +20,10 @@
       ],
       "l": [
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/"
+        },
+        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/261015/p24#a261015p24"
         },
@@ -29,13 +33,135 @@
         }
       ],
       "srcTitles": [
+        "Amazon s Bee launches two new personal AI devices, starting at $75",
         "Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription (Bloomberg)",
         "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse"
       ]
     },
     {
       "cat": "products",
-      "signal": 32,
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-15T13:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google’s Universal Cart shopping tool launches in the US",
+      "s": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+      "b": [
+        "techcrunch.com: Google’s Universal Cart shopping tool launches in the US",
+        "theverge.com: Google launches its universal online shopping cart ahead of the holidays"
+      ],
+      "body": [
+        "techcrunch.com: The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
+        "theverge.com: Google's intelligent AI shopping cart is finally here, and just in time to tempt users into Black Friday and seasonal holiday spending. The Universal Cart tool Google previewed at its I/O event in May is now rolling out in the US across the Gemini app and Google Search, with the aim of making it easier [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1011797/google-ai-universal-cart-shopping-tool-launch"
+        }
+      ],
+      "srcTitles": [
+        "Google’s Universal Cart shopping tool launches in the US",
+        "Google launches its universal online shopping cart ahead of the holidays"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-15T12:45:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+      "s": "Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area",
+      "b": [
+        "theverge.com: How Windows is being optimized for Nvidia’s RTX Spark laptops",
+        "techmeme.com: Nvidia's RTX Spark Superchip in the Surface Laptop Ultra outperforms Apple's M5 Max MacBook Pro by ~25% in agentic AI completion benchmarks using Qwen models (Jeffrey Kampman/Tom's Hardware)"
+      ],
+      "body": [
+        "theverge.com: Microsoft and Nvidia held a launch party for the first wave of RTX Spark laptops last week in San Francisco, where a new wave of AI PCs took center stage amid a packed crowd and a lively hands-on area. A day after the media event, I was invited to a quieter Nvidia event to hear [ ]",
+        "techmeme.com: Jeffrey Kampman / Tom's Hardware : Nvidia's RTX Spark Superchip in the Surface Laptop Ultra outperforms Apple's M5 Max MacBook Pro by ~25% in agentic AI completion benchmarks using Qwen models Laying the foundation for the reinvention of the PC in the agentic AI era Nvidia CEO Jensen Huang announced the RTX Spark platform"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261015/p26#a261015p26"
+        }
+      ],
+      "srcTitles": [
+        "How Windows is being optimized for Nvidia’s RTX Spark laptops",
+        "Nvidia's RTX Spark Superchip in the Surface Laptop Ultra outperforms Apple's M5 Max MacBook Pro by ~25% in agentic AI completion benchmarks using Qwen models (Jeffrey Kampman/Tom's Hardware)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-10-15T16:08:03.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+      "s": "Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science.",
+      "b": [
+        "deepmind.google: Accelerating the search for antimicrobial peptides with Google Antigravity"
+      ],
+      "body": [
+        "deepmind.google: Accelerating the search for novel antimicrobial peptides using Google Antigravity for Science."
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/"
+        }
+      ],
+      "srcTitles": [
+        "Accelerating the search for antimicrobial peptides with Google Antigravity"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-10-15T11:07:22.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI Hit With Stack of Lawsuits Over ChatGPT Allegedly Coaching Children to Harm Themselves",
+      "s": "OpenAI Hit With Stack of Lawsuits Over ChatGPT Allegedly Coaching Children to Harm Themselves Futurism",
+      "b": [
+        "futurism.com: OpenAI Hit With Stack of Lawsuits Over ChatGPT Allegedly Coaching Children to Harm Themselves",
+        "scrippsnews.com: OpenAI faces lawsuits from 8 states over ChatGPT's impact on children"
+      ],
+      "body": [
+        "futurism.com: OpenAI Hit With Stack of Lawsuits Over ChatGPT Allegedly Coaching Children to Harm Themselves Futurism",
+        "scrippsnews.com: OpenAI faces lawsuits from 8 states over ChatGPT's impact on children Scripps News"
+      ],
+      "l": [
+        {
+          "d": "futurism.com",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdVZYcklMWV9lVS02Q2VIZWJRZG5pR1FMRktNUVNyOHVLUkVUdWZGY3hpQnJHSS1XUjliNlpuQmdrQkdQYTh6b2l6Mms4TFFPZUxUUkxHTjhaenJLYzR1TXpyVW14RlE3QnZRYkg2R3hob3lZVzkxS09BR2MycmMzRVZXNEFzZ2Zrc19WaGRHeUxkQQ?oc=5"
+        },
+        {
+          "d": "scrippsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOejFsbEFPZHVHSTFLTW5jSm9uTHZEeFd2c2tnQkVzMUFaVXZuTmVmb3c4dkZtSEJMVlliYkdNbDE5VTBJQ2o3R2otNzJCNmRIN0Y4dzVzWVp5WkpzZmVDZWZHNjR6RUg3cHZRS1B6WVhlTWpxWmdHR0FBLW5BRmhDVzM1dkRqSVgwNFRIQ21jck9QYS1FVTc4dFNEQXpFcERPYlB2MkxjTTV1Wko3bG5WZUEyU0c1UjhuWmc0Q216NHRzdnhQTkZwR3pXc1llMllLZVhj?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI Hit With Stack of Lawsuits Over ChatGPT Allegedly Coaching Children to Harm Themselves",
+        "OpenAI faces lawsuits from 8 states over ChatGPT's impact on children"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 28,
       "sources": 2,
       "ts": "2026-10-15T04:30:00.000Z",
       "writtenSources": 2,
@@ -66,8 +192,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-15T13:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Teaching students to think and learn through questions",
+      "s": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
+      "b": [
+        "openai.com: Teaching students to think and learn through questions"
+      ],
+      "body": [
+        "openai.com: Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions"
+        }
+      ],
+      "srcTitles": [
+        "Teaching students to think and learn through questions"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 29,
+      "signal": 25,
       "sources": 2,
       "ts": "2026-10-15T10:00:00.000Z",
       "writtenSources": 2,
