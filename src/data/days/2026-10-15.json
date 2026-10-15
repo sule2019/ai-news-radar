@@ -2,8 +2,40 @@
   "date": "2026-10-15",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-10-15T12:01:09.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription (Bloomberg)",
+      "s": "Bloomberg : Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription Amazon.com Inc. launched two",
+      "b": [
+        "techmeme.com: Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription (Bloomberg)",
+        "aboutamazon.com: Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription Amazon.com Inc. launched two new wearables that use artificial intelligence to record and analyze a person's day",
+        "aboutamazon.com: Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse About Amazon"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261015/p24#a261015p24"
+        },
+        {
+          "d": "aboutamazon.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPS056WlBEQzdVTUZLVy1hUDU3cF80SVEyU0xQNDFlYmU4cG5kY0lUQnpFYlhrMEpQRWNiV1dCeTJxZmRoc2NQd3hjSkdtNGhaVWpQMlM5amdXNlNvdDY2SjdiZHc3ZVN3emNXZmlJUW9NLTJ2WVczVE01cXRwVElrR0gtSkJueWZKQzhfRw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Amazon launches two AI wearables, the $75 Bee Frontier wristband and $100 Bee Eclipse magnetic phone-attachment recorder, with a $12/month Bee Pro subscription (Bloomberg)",
+        "Amazon introduces 2 new AI products from Bee: Bee Frontier and Bee Eclipse"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 36,
+      "signal": 32,
       "sources": 2,
       "ts": "2026-10-15T04:30:00.000Z",
       "writtenSources": 2,
@@ -35,7 +67,7 @@
     },
     {
       "cat": "funding",
-      "signal": 32,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-10-15T10:00:00.000Z",
       "writtenSources": 2,
