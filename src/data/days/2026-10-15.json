@@ -2,8 +2,52 @@
   "date": "2026-10-15",
   "stories": [
     {
+      "cat": "research",
+      "signal": 74,
+      "sources": 4,
+      "ts": "2026-10-15T00:00:00.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "s": "Covered by 4 outlets.",
+      "b": [
+        "huggingface.co: Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+        "techcrunch.com: Meta launches an open-weight AI model that runs on Macs",
+        "theverge.com: Meta and Apple team up to make Muse AI models run better on Macs"
+      ],
+      "body": [
+        "techcrunch.com: Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+        "theverge.com: Meta announced the Muse Spark Open AI model today, claiming that it's the \"most capable US open-weight model to date.\" But the company also says that it's the \"the first model in its class\" that can \"run on your desktop using two Apple M5 Ultra Mac Studios with the latest MLX framework.\" Meta and Apple, [ ]",
+        "techmeme.com: Meta AI Research : Meta releases Muse Spark Open, saying it is the most capable US open-weight model, with 816B total and 42B active parameters and a 1M-token context window Muse Spark Open is available today and brings leading agentic capabilities to your desktop for the first time on Apple M5 Ultra Mac Studios."
+      ],
+      "l": [
+        {
+          "d": "huggingface.co",
+          "u": "https://huggingface.co/blog/meta-muse-spark-open"
+        },
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261015/p37#a261015p37"
+        }
+      ],
+      "srcTitles": [
+        "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+        "Meta launches an open-weight AI model that runs on Macs",
+        "Meta and Apple team up to make Muse AI models run better on Macs",
+        "Meta releases Muse Spark Open, saying it is the most capable US open-weight model, with 816B total and 42B active parameters and a 1M-token context window (Meta AI Research)"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 65,
+      "signal": 61,
       "sources": 3,
       "ts": "2026-10-15T12:01:09.000Z",
       "writtenSources": 2,
@@ -40,7 +84,7 @@
     },
     {
       "cat": "products",
-      "signal": 61,
+      "signal": 58,
       "sources": 2,
       "ts": "2026-10-15T13:00:00.000Z",
       "writtenSources": 2,
@@ -72,7 +116,7 @@
     },
     {
       "cat": "research",
-      "signal": 61,
+      "signal": 57,
       "sources": 2,
       "ts": "2026-10-15T12:45:01.000Z",
       "writtenSources": 2,
@@ -104,7 +148,7 @@
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 49,
       "sources": 1,
       "ts": "2026-10-15T16:08:03.000Z",
       "writtenSources": 1,
@@ -129,7 +173,7 @@
     },
     {
       "cat": "policy",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-10-15T11:07:22.000Z",
       "writtenSources": 2,
@@ -161,7 +205,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-15T13:00:00.000Z",
       "writtenSources": 1,
@@ -186,7 +230,7 @@
     },
     {
       "cat": "products",
-      "signal": 24,
+      "signal": 20,
       "sources": 2,
       "ts": "2026-10-15T04:30:00.000Z",
       "writtenSources": 2,
@@ -218,7 +262,7 @@
     },
     {
       "cat": "funding",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-10-15T10:00:00.000Z",
       "writtenSources": 2,
