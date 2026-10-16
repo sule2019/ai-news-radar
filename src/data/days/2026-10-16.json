@@ -3,7 +3,39 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-10-16T00:15:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
+      "s": "Stephen Council / Business Insider : Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital AI a",
+      "b": [
+        "techmeme.com: Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
+        "thefederal.com: CERT-In flags unauthorised AI agent access to Indian organisations’ data"
+      ],
+      "body": [
+        "techmeme.com: Stephen Council / Business Insider : Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital AI agents are starting to outnumber humans in many high-tech workplaces, and they can be far trickier to monitor.",
+        "thefederal.com: CERT-In flags unauthorised AI agent access to Indian organisations’ data The Federal"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261015/p56#a261015p56"
+        },
+        {
+          "d": "thefederal.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0tWeTl1a0RmbUFpUzV4Rk44N1ktaUhRR0p3MERISWRwc1hGeGZHSy1ITkJENW53aDNpVGV5VjhYSXBGbFYtR1pOYmhQNEJmYTFjWUpjX2NVVjFwTjY1NnhDdWJOa19FOGUyUEFZTEdSaG1ZRi1EWU5JNEdPZVlYdHhBUTVQVHdvSnl1enJyS0dlTkJnM01qZjNPQS1KLU14b1NnZDBwLUI1alJlVWpCQ2RnOVpOZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
+        "CERT-In flags unauthorised AI agent access to Indian organisations’ data"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 25,
       "sources": 2,
       "ts": "2026-10-16T02:57:00.000Z",
       "writtenSources": 2,
