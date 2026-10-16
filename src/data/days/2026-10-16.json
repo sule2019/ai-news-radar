@@ -2,6 +2,31 @@
   "date": "2026-10-16",
   "stories": [
     {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-16T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "s": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "b": [
+        "openai.com: Stack Overflow for Agents triples signups with ChatGPT plugin"
+      ],
+      "body": [
+        "openai.com: Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/stack-overflow-chatgpt-plugin"
+        }
+      ],
+      "srcTitles": [
+        "Stack Overflow for Agents triples signups with ChatGPT plugin"
+      ]
+    },
+    {
       "cat": "funding",
       "signal": 45,
       "sources": 4,
@@ -45,7 +70,7 @@
     },
     {
       "cat": "policy",
-      "signal": 36,
+      "signal": 32,
       "sources": 3,
       "ts": "2026-10-16T09:33:45.000Z",
       "writtenSources": 2,
@@ -82,7 +107,7 @@
     },
     {
       "cat": "funding",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-10-16T17:35:25.000Z",
       "writtenSources": 2,
@@ -113,8 +138,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-16T18:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "s": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose ",
+      "b": [
+        "technologyreview.com: Roundtables: A Conversation With the Creator of AI-Designed Viruses"
+      ],
+      "body": [
+        "technologyreview.com: Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be next. Watch as senior AI reporter James O Donnell interviews King about his work, being named one of MIT Technology Review s Innovators Under 35 and new ways of seeing biology. Speakers : James O Donnell , AI Reporter, and Samuel King , Bioengineering PhD Candidate, Stanford University/Arc Institute Recorded on Friday, October 16, 2026 Related Stories He asked an AI to design viruses … and it worked. AI-designed viruses are here and already killing bacteria"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/"
+        }
+      ],
+      "srcTitles": [
+        "Roundtables: A Conversation With the Creator of AI-Designed Viruses"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 30,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-10-16T08:31:39.000Z",
       "writtenSources": 4,
@@ -149,7 +199,7 @@
     },
     {
       "cat": "policy",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-10-16T10:25:09.000Z",
       "writtenSources": 2,
@@ -181,7 +231,7 @@
     },
     {
       "cat": "funding",
-      "signal": 20,
+      "signal": 16,
       "sources": 2,
       "ts": "2026-10-16T09:57:44.000Z",
       "writtenSources": 2,
@@ -209,38 +259,6 @@
       "srcTitles": [
         "Beyond LLMs: Modern Machine Learning is Changing Investing",
         "Beyond LLMs: Modern Machine Learning is Changing Investing"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 18,
-      "sources": 2,
-      "ts": "2026-10-16T00:15:02.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
-      "s": "Stephen Council / Business Insider : Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital AI a",
-      "b": [
-        "techmeme.com: Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
-        "thefederal.com: CERT-In flags unauthorised AI agent access to Indian organisations’ data"
-      ],
-      "body": [
-        "techmeme.com: Stephen Council / Business Insider : Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital AI agents are starting to outnumber humans in many high-tech workplaces, and they can be far trickier to monitor.",
-        "thefederal.com: CERT-In flags unauthorised AI agent access to Indian organisations’ data The Federal"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261015/p56#a261015p56"
-        },
-        {
-          "d": "thefederal.com",
-          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0tWeTl1a0RmbUFpUzV4Rk44N1ktaUhRR0p3MERISWRwc1hGeGZHSy1ITkJENW53aDNpVGV5VjhYSXBGbFYtR1pOYmhQNEJmYTFjWUpjX2NVVjFwTjY1NnhDdWJOa19FOGUyUEFZTEdSaG1ZRi1EWU5JNEdPZVlYdHhBUTVQVHdvSnl1enJyS0dlTkJnM01qZjNPQS1KLU14b1NnZDBwLUI1alJlVWpCQ2RnOVpOZw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
-        "CERT-In flags unauthorised AI agent access to Indian organisations’ data"
       ]
     },
     {
@@ -273,6 +291,38 @@
       "srcTitles": [
         "G7 to launch exercises to guard against AI cyber attacks",
         "G7 to launch exercises to guard against AI cyber attacks"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-10-16T00:15:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
+      "s": "Stephen Council / Business Insider : Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital AI a",
+      "b": [
+        "techmeme.com: Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
+        "thefederal.com: CERT-In flags unauthorised AI agent access to Indian organisations’ data"
+      ],
+      "body": [
+        "techmeme.com: Stephen Council / Business Insider : Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital AI agents are starting to outnumber humans in many high-tech workplaces, and they can be far trickier to monitor.",
+        "thefederal.com: CERT-In flags unauthorised AI agent access to Indian organisations’ data The Federal"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261015/p56#a261015p56"
+        },
+        {
+          "d": "thefederal.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM0tWeTl1a0RmbUFpUzV4Rk44N1ktaUhRR0p3MERISWRwc1hGeGZHSy1ITkJENW53aDNpVGV5VjhYSXBGbFYtR1pOYmhQNEJmYTFjWUpjX2NVVjFwTjY1NnhDdWJOa19FOGUyUEFZTEdSaG1ZRi1EWU5JNEdPZVlYdHhBUTVQVHdvSnl1enJyS0dlTkJnM01qZjNPQS1KLU14b1NnZDBwLUI1alJlVWpCQ2RnOVpOZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Opsin, which helps companies show where AI agents are active, what data they access, and flag risky behavior, raised $21M led by SYN Ventures and Race Capital (Stephen Council/Business Insider)",
+        "CERT-In flags unauthorised AI agent access to Indian organisations’ data"
       ]
     }
   ]
