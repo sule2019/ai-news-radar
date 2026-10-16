@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 70,
-      "sources": 6,
+      "signal": 45,
+      "sources": 4,
       "ts": "2026-10-16T09:22:03.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -32,23 +32,20 @@
           "u": "https://www.techmeme.com/261016/p7#a261016p7"
         },
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNandhNzFIaFk5UnZYSnoxeG1SczhNX0cxRjhEQ2RkcUxtcFNMXzJkbDQ1aWFSLWEtM2cxNFllcUtBSWJWcEg1Mk5kYzFRZnUtTVFOdmQzdFo1djFuNVVGV3lydzFJTzB1d0gtd0VHOVJReElKOGZWaWpaajhjTUt2U19Pejhva1R1SUtHalNKb3JoR1BfOGF0UlFQUnM4OE9NXzNIZGxlck1UWkZjQTVlUmhPd1A3dnZDNUttR2JaTEFXQndiVXVwOHBkZ0VFR0hfOHEyc1ZLblJNV3JwZUU5eTN5X2FPSlRsMHdxYU5RaXRpUnBXRGNTTkxnU1Ytc2U4SGt4VW9EazZSUlNYWWQycEcwbmU?oc=5"
-        },
-        {
-          "d": "+2"
+          "d": "transparencycoalition.ai",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0pwVnQ0VVNrY0doNnlWMDdpaTZYeFRhTF9jTVgzLXVSQUdIM3VsUlRUTnJwRng1WEpHX1hxY19KbWdFcUlXR21xZWpBMmNLY2IzemxiOTlaNE5UYXlqZ2hPdVZlX3BTWWNBTElPd2hFWUlCV3V6cFBpS2RIWXBtVV9oZ1E?oc=5"
         }
       ],
       "srcTitles": [
         "TechCrunch Disrupt 2026: Last day",
         "NeurIPS 2026",
         "US candidates and PACs, mostly tied to Republicans, have spent $137M+ on 220 AI-generated campaign ads in 2026; ~70% of the 220 videos didn't disclose AI use (Stuart A. Thompson/New York Times)",
-        "Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron)"
+        "AI Legislative Update: Oct. 16, 2026"
       ]
     },
     {
       "cat": "policy",
-      "signal": 40,
+      "signal": 36,
       "sources": 3,
       "ts": "2026-10-16T09:33:45.000Z",
       "writtenSources": 2,
@@ -84,8 +81,40 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-10-16T17:35:25.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Cornell Tech professor’s startup receives $1.75 million to improve AI efficiency",
+      "s": "Cornell Tech professor’s startup receives $1.75 million to improve AI efficiency Cornell Chronicle",
+      "b": [
+        "news.cornell.edu: Cornell Tech professor’s startup receives $1.75 million to improve AI efficiency",
+        "tech.cornell.edu: Makora Receives $1.75 Million to Improve AI Efficiency"
+      ],
+      "body": [
+        "news.cornell.edu: Cornell Tech professor’s startup receives $1.75 million to improve AI efficiency Cornell Chronicle",
+        "tech.cornell.edu: Makora Receives $1.75 Million to Improve AI Efficiency Cornell Tech"
+      ],
+      "l": [
+        {
+          "d": "news.cornell.edu",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVTd4R2xlZVRxa29FT0xjUFRsU0NjZ3dqMHlsUWJBNnRRcmV6S25MamFPNjVCTkxTSXlqSzIxMWdiVDBrVWd3eUo0RXhQN0o2eFFXODhPOHdmd0pMNC1WRHg0VUVaNTZoZTVkaTRxZlVETXhrTlpiTUxXSURhOTkwRDh3VTVnYjlvUVg4SWZxYkNsbjcxc1BUMWtlcldwZ3FqNWE2a3BoMWhtRURmbFhqWFF6OS12Zw?oc=5"
+        },
+        {
+          "d": "tech.cornell.edu",
+          "u": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1YNFhoNlpURk1rOUR1d2lXV080Z0dsVmFfVFpEM2djbjZoZmZTZlJpcS15OVNpQUs4WlpCcU5uTHVfRjA2WVJRRDc1VS01SGtYbkRIdmJ1QWNCSDU1ejhCcGVQLUdneWdaaGNhU2NrQVBLSHJya3g3cnNn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Cornell Tech professor’s startup receives $1.75 million to improve AI efficiency",
+        "Makora Receives $1.75 Million to Improve AI Efficiency"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 34,
+      "signal": 30,
       "sources": 2,
       "ts": "2026-10-16T08:31:39.000Z",
       "writtenSources": 4,
@@ -119,8 +148,40 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-16T10:25:09.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "IMF-World Bank meetings focus on global risks and potential benefits of AI",
+      "s": "IMF-World Bank meetings focus on global risks and potential benefits of AI PBS",
+      "b": [
+        "pbs.org: IMF-World Bank meetings focus on global risks and potential benefits of AI",
+        "wral.com: IMF-World Bank meetings focus on global risks and potential benefits of AI"
+      ],
+      "body": [
+        "pbs.org: IMF-World Bank meetings focus on global risks and potential benefits of AI PBS",
+        "wral.com: IMF-World Bank meetings focus on global risks and potential benefits of AI WRAL"
+      ],
+      "l": [
+        {
+          "d": "pbs.org",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxObFRmdVg5eG1oMVhXWmVPbVJBZWJxdmMteGR4bnRNUlVsdkg4REtEZkhWYV93emNJWmtlU1ZjLUJYU3pRSUVIREIyeGs0NV8zbk9pcTZteERORVNqZnB6Vk9RLUJYem51cHlVbi0zZkpRa1RBdXktZ0g5MjdpNWNLdnY4MVREVFViaHBJeG56SWxGYjB6MkluYVBxUHZHTUhsbVJPekd1WjNtNDQ3VlHSAbMBQVVfeXFMUDJ4czQ0anYyeTRucWZiV2dsTTNpdmIteV9DT2sxRm1HUW5mNnpqQjFVTnJWR0FNalJndEd0cTNhcmhrTzk4dkdoeU83QUsySlRvZU1JNDlFQmVpaVRkMW9iV0FYVV91UC05bDdGcXk4VG5vT1FRV2dlZ1RBREw2RmRLQ2tDVVFkRnBHZDgtbUMyd0RxSFd6VmVyWDkxVDB0SXEyWjNMUmdNcGRwLUtmNHkwSEE?oc=5"
+        },
+        {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeW5PRnU0TzVJZWdqNmhkNWJ0dHZuV3Z4bDl3bk5uRXhma2dlMGJqSjZvbm9SbC1uSWl5Yjl2d3ppbnpFa2Y4cExaYjJFRTdaQkhwRklmZWF5ZEJtdEJqa2pheXg2dWZteEE1TU9yeWdoMXV4TzdtUXF1YUREYndYZTFPSzZfN1hrUEozYkRLMzF4eEFOekNDUmx2VGlpaHQwOFhlc0JjcHNwV09Yemlv?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "IMF-World Bank meetings focus on global risks and potential benefits of AI",
+        "IMF-World Bank meetings focus on global risks and potential benefits of AI"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 24,
+      "signal": 20,
       "sources": 2,
       "ts": "2026-10-16T09:57:44.000Z",
       "writtenSources": 2,
@@ -152,7 +213,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-10-16T00:15:02.000Z",
       "writtenSources": 2,
