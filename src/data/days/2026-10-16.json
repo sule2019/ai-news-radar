@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 48,
-      "sources": 2,
+      "signal": 70,
+      "sources": 6,
       "ts": "2026-10-16T09:22:03.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,23 +20,73 @@
       ],
       "l": [
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/"
+        },
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261016/p7#a261016p7"
+        },
+        {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNandhNzFIaFk5UnZYSnoxeG1SczhNX0cxRjhEQ2RkcUxtcFNMXzJkbDQ1aWFSLWEtM2cxNFllcUtBSWJWcEg1Mk5kYzFRZnUtTVFOdmQzdFo1djFuNVVGV3lydzFJTzB1d0gtd0VHOVJReElKOGZWaWpaajhjTUt2U19Pejhva1R1SUtHalNKb3JoR1BfOGF0UlFQUnM4OE9NXzNIZGxlck1UWkZjQTVlUmhPd1A3dnZDNUttR2JaTEFXQndiVXVwOHBkZ0VFR0hfOHEyc1ZLblJNV3JwZUU5eTN5X2FPSlRsMHdxYU5RaXRpUnBXRGNTTkxnU1Ytc2U4SGt4VW9EazZSUlNYWWQycEcwbmU?oc=5"
         },
         {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNQldMai1JOGVLNGhldUdFUC01NjdGQ3EweGRsdEJjS2FhdTd5NGtWVmpDTlFXM2JlUHhHSmdSeU5SNk00Sm03ZllpUVRsSnZwZ0k1alJyRE9POGNkcDdiczdMaWd4dUtPZ0NYYndxWGliZk84OGs5S0NHQmVWZWZVU0kxaHFVYVRrdHBDNHNoU1ZzaFQ3Z0tITi0zTHlaMU5JQVFBQUQ1RmlBc29sRVhHQUtER29qVWtpVlkxWUpNRUdnaUc0RUQtR2lyZmo5WkpRSi14eEtEcUd6TGNGcmI2VTVaOXIyY1hRSkw4c2swY0gtUjJvMWVyUmJpLUloODhBVml6aDBkQm5scGViTW5pYUJrMWlOSjR1dlc0Q0hYTG9NUGs3bFJHcFVpRTNrMmdtOGFhb3lMbkxrVW0zTUw4?oc=5"
+          "d": "+2"
         }
       ],
       "srcTitles": [
-        "Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron)",
+        "TechCrunch Disrupt 2026: Last day",
+        "NeurIPS 2026",
+        "US candidates and PACs, mostly tied to Republicans, have spent $137M+ on 220 AI-generated campaign ads in 2026; ~70% of the 220 videos didn't disclose AI use (Stuart A. Thompson/New York Times)",
         "Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron)"
       ]
     },
     {
       "cat": "policy",
-      "signal": 37,
+      "signal": 40,
       "sources": 3,
+      "ts": "2026-10-16T09:33:45.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Elon Musk's AI company to testify at NYC Council hearing on artificial intelligence safety and regulations",
+      "s": "Elon Musk's AI company to testify at NYC Council hearing on artificial intelligence safety and regulations ABC7 New York",
+      "b": [
+        "abc7ny.com: Elon Musk's AI company to testify at NYC Council hearing on artificial intelligence safety and regulations",
+        "cbsnews.com: Elon Musk's SpaceX to testify at NYC Council meeting on AI safety"
+      ],
+      "body": [
+        "abc7ny.com: Elon Musk's AI company to testify at NYC Council hearing on artificial intelligence safety and regulations ABC7 New York",
+        "cbsnews.com: Elon Musk's SpaceX to testify at NYC Council meeting on AI safety CBS News"
+      ],
+      "l": [
+        {
+          "d": "abc7ny.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYmFKUjU3LUFzMlJSVkQ4a2Q1NHVHNEI5azRzYk9OYmgzX0FnUUNMbWx3ZUM0NC13bVdJSURfZ2l2X2NyYUpaTW0wdFJjN1FHYURrTlJrSFo3blg3eGttczN6Q2RwQk52Wk0zMUlKbG95cGNLdnNWNG0zMzB2Y0pyRGR1bC1EVW9OQTVYamZjZWllNUlHWTA3M2pfMnphNUFkeG1GOFp6c0w0b3JlTXV4THNma2RzNlU4Xy1JZVRBQWlMZmli0gHKAUFVX3lxTE1lZWJ1UVVHdlhnRTdsOUg5R1hRR041VkxQTUU2TWlLS1d4NkVyNjUxN203cVQxMDBEM3hCVmRrVUR4elZ4RkFKR3dOZzhYUzA1TkVVbEJqaTkyZW9QNXk0LXRPWTkwaElONFo0V0NnLVQtUjQ2a0ZBTm45aWVqUURLT280aXJMZDBSQjNFclgtclJubkVmcG5rVFIySUwzSWdldW9UYnlMcUZDM3VUZ213d1AzME5BVXo4ZW1pVk1IYWZJR3dYVW5xUUE?oc=5"
+        },
+        {
+          "d": "telesurenglish.net",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOHVxUnJKeF82R0d6Z1pfU2tzOFIwWjJuNW9EdUs0a3A2aUdiMzREREMtemhyWDN5TXdEWGc3VHJ1UWJvMnZ6QS1LMWFCdk1teEZrek9MaFdkS05fTUhkT2tQUk9lRWVUVHdVMHlUVVU3TmdBM1NsbUZuUDFqVFZZRXc4ejFsaTRoYktIVC1jSjd6cjd5b0xhWWNLR2kyN2hCamdB?oc=5"
+        },
+        {
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNWJHTmY0Z2VudGVwZWxiektfRnFUZWlBZ0gwUG80VGY1STBoSDRvWThtbmZxZWtoOWl3alNpeUdLU1BLaGFnUkRBejV4Sk9PaTdUQVMzbFBqN0luWWUwMjV6dDd6XzM2M3g0ZUlfeUM2TVk3VEdHY0pzay1PbWdDVTd6VQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Elon Musk's AI company to testify at NYC Council hearing on artificial intelligence safety and regulations",
+        "SpaceX Testifies Before NYC Council on Artificial Intelligence Safety",
+        "Elon Musk's SpaceX to testify at NYC Council meeting on AI safety"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 34,
+      "sources": 2,
       "ts": "2026-10-16T08:31:39.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -61,54 +111,16 @@
         {
           "d": "asia.nikkei.com",
           "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNOFpxWEtXaXRld25WMWpESTNDUkZaUHFyN2UxYkcteXMyYnJ0d3ZLQ25LVEJqSGF4YnluVXk4OGthWnFJdTYwNTYxX00zczZsV0pGakxhbUVxZVF2Mm5hQU5Sa2FZMkgxd2gyck9fYnV4VHhtWGZKMnl2bVR2YjlKaXhjd0NPaXJ4MmlIU2s2YkR3LUhSR3o2OWxKcTkzc01aVUVTZWg0dDgxRkR0NmFoTEtiNmg0a2otbVNoaEVOLXhZNnpnVDF2dnNybw?oc=5"
-        },
-        {
-          "d": "scmp.com",
-          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQckdYaXhCT3FoMFl5SHhSbEhvNDRPWjFtcDlUUzV4U2h4NmFnaF9yc2xQbk9Ea2dUcHRFWmdkbjhOWDFfcjB1Q25yeVBFdDhKb1NneHg4WWFGcUhaVGtTWjJFMEVwOHJZdmt1bjdDanV5SG9URTR3UmpLY0RiRmxVZGlRbU5xcEt3MHVsNGVtSmxhZ0l0U1dQSmFwZk5BOHNSdnlyeW9BSFVUcTJkUmdobEhOMm5WYjhmMFN0TXBUelBuN0EyLWfSAcYBQVVfeXFMUElacGlzTVRseUtzSEZCSk5FSW5FaXVBbDRVQkVncHRqUXVmcDloY0ZCb0hiRjlxbkU0RDliRG5zUm1VUDd4N2tPNmd5TU4wWUI1eURILXZRS2ZQczR6YVdaQXJUSjh2VnZHbG1CUGFkdkFMbklBZHFJT0gtOFlaS1hhZlo3ZnQ3RWNLZ3djR0lhYm1tanlqMkVoaXNsUFUwblJ5Q1NQcDZzN0MyM3FYUEpnMGRPWDN1QXpZSnNpbHpESmZ4Qkt3?oc=5"
         }
       ],
       "srcTitles": [
         "China is considering adding 23 AI technologies to its export control list, including LLMs and chip designs, to keep closer control over homegrown advancements (Bloomberg)",
-        "China to add AI, biopharma and solar tech to export control list",
-        "China mulls new tech export bans covering AI, biotechnology and solar power",
-        "Breaking | China mulls new tech export bans covering AI, biotech and solar power"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 35,
-      "sources": 2,
-      "ts": "2026-10-16T09:33:45.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Elon Musk's AI company to testify at NYC Council hearing on artificial intelligence safety and regulations",
-      "s": "Elon Musk's AI company to testify at NYC Council hearing on artificial intelligence safety and regulations ABC7 New York",
-      "b": [
-        "abc7ny.com: Elon Musk's AI company to testify at NYC Council hearing on artificial intelligence safety and regulations",
-        "cbsnews.com: Elon Musk's SpaceX to testify at NYC Council meeting on AI safety"
-      ],
-      "body": [
-        "abc7ny.com: Elon Musk's AI company to testify at NYC Council hearing on artificial intelligence safety and regulations ABC7 New York",
-        "cbsnews.com: Elon Musk's SpaceX to testify at NYC Council meeting on AI safety CBS News"
-      ],
-      "l": [
-        {
-          "d": "abc7ny.com",
-          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYmFKUjU3LUFzMlJSVkQ4a2Q1NHVHNEI5azRzYk9OYmgzX0FnUUNMbWx3ZUM0NC13bVdJSURfZ2l2X2NyYUpaTW0wdFJjN1FHYURrTlJrSFo3blg3eGttczN6Q2RwQk52Wk0zMUlKbG95cGNLdnNWNG0zMzB2Y0pyRGR1bC1EVW9OQTVYamZjZWllNUlHWTA3M2pfMnphNUFkeG1GOFp6c0w0b3JlTXV4THNma2RzNlU4Xy1JZVRBQWlMZmli0gHKAUFVX3lxTE1lZWJ1UVVHdlhnRTdsOUg5R1hRR041VkxQTUU2TWlLS1d4NkVyNjUxN203cVQxMDBEM3hCVmRrVUR4elZ4RkFKR3dOZzhYUzA1TkVVbEJqaTkyZW9QNXk0LXRPWTkwaElONFo0V0NnLVQtUjQ2a0ZBTm45aWVqUURLT280aXJMZDBSQjNFclgtclJubkVmcG5rVFIySUwzSWdldW9UYnlMcUZDM3VUZ213d1AzME5BVXo4ZW1pVk1IYWZJR3dYVW5xUUE?oc=5"
-        },
-        {
-          "d": "cbsnews.com",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNWJHTmY0Z2VudGVwZWxiektfRnFUZWlBZ0gwUG80VGY1STBoSDRvWThtbmZxZWtoOWl3alNpeUdLU1BLaGFnUkRBejV4Sk9PaTdUQVMzbFBqN0luWWUwMjV6dDd6XzM2M3g0ZUlfeUM2TVk3VEdHY0pzay1PbWdDVTd6VQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Elon Musk's AI company to testify at NYC Council hearing on artificial intelligence safety and regulations",
-        "Elon Musk's SpaceX to testify at NYC Council meeting on AI safety"
+        "China to add AI, biopharma and solar tech to export control list"
       ]
     },
     {
       "cat": "funding",
-      "signal": 28,
+      "signal": 24,
       "sources": 2,
       "ts": "2026-10-16T09:57:44.000Z",
       "writtenSources": 2,
@@ -140,7 +152,7 @@
     },
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-10-16T00:15:02.000Z",
       "writtenSources": 2,
@@ -172,7 +184,7 @@
     },
     {
       "cat": "models",
-      "signal": 17,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-10-16T02:57:00.000Z",
       "writtenSources": 2,
