@@ -2,45 +2,67 @@
   "date": "2026-10-16",
   "stories": [
     {
-      "cat": "funding",
-      "signal": 61,
-      "sources": 4,
-      "ts": "2026-10-16T09:22:03.000Z",
+      "cat": "models",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-10-16T21:22:28.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron)",
-      "s": "Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron) The Motley Fool",
+      "h": "Replit is no longer working with Anthropic, CEO says",
+      "s": "Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with ",
       "b": [
-        "fool.com: Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron)",
-        "theglobeandmail.com: Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron)"
+        "techcrunch.com: Replit is no longer working with Anthropic, CEO says",
+        "techmeme.com: CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying \"ChatGPT is better now\"; source: the partnership is still in place (TechCrunch)"
       ],
       "body": [
-        "fool.com: Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron) The Motley Fool",
-        "theglobeandmail.com: Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron) The Globe and Mail"
+        "techcrunch.com: Masad said the decision was made for a number of different reasons, including cost. Replit announced a partnership with OpenAI in August, but there was never any indication that it was no longer with Anthropic.",
+        "techmeme.com: TechCrunch : CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying ChatGPT is better now ; source: the partnership is still in place Replit, the AI coding platform that has become a favorite of startup founders and developers, is no longer working with Anthropic"
       ],
       "l": [
         {
           "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/"
+          "u": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
         },
         {
-          "d": "reddit.com",
-          "u": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/"
-        },
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQV3Vyd3V4TUVxbTV6Q3Q5WU1hanpTeTJsRG5rLWJEMXBhdUdmdGFiZUVJN1UydDE3R1gtOUFDNnpYWjB0aTY0VlpsNWhYOG5wMHJMS19UUDQ3ZnBWZy1oSTNLTnp4S3VmUG1BeklRek81U0xlOVJnSGJPR3MwWU1WQ2RobDVwaUN1OHFrNjYxbWNuSlA1ak01U0FGSnVBY3dIaC1rdG9ncHRqMjcwMUpaY0w0cUxJQTJZ?oc=5"
-        },
-        {
-          "d": "transparencycoalition.ai",
-          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0pwVnQ0VVNrY0doNnlWMDdpaTZYeFRhTF9jTVgzLXVSQUdIM3VsUlRUTnJwRng1WEpHX1hxY19KbWdFcUlXR21xZWpBMmNLY2IzemxiOTlaNE5UYXlqZ2hPdVZlX3BTWWNBTElPd2hFWUlCV3V6cFBpS2RIWXBtVV9oZ1E?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261016/p24#a261016p24"
         }
       ],
       "srcTitles": [
-        "TechCrunch Disrupt 2026: Last day",
-        "NeurIPS 2026",
-        "Better Artificial Intelligence Stock for 2026: Broadcom vs. NVIDIA",
-        "Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron)"
+        "Replit is no longer working with Anthropic, CEO says",
+        "CEO Amjad Masad says Replit is no longer working with Anthropic, citing cost and saying \"ChatGPT is better now\"; source: the partnership is still in place (TechCrunch)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-10-16T21:45:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release (Owen Dahlkamp/Politico)",
+      "s": "Owen Dahlkamp / Politico : Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release Representativ",
+      "b": [
+        "techmeme.com: Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release (Owen Dahlkamp/Politico)",
+        "politico.com: Anthropic quietly pitches its own AI safety bill to lawmakers"
+      ],
+      "body": [
+        "techmeme.com: Owen Dahlkamp / Politico : Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release Representatives for the artificial intelligence giant Anthropic have quietly pitched Capitol Hill lawmakers on a draft bill",
+        "politico.com: Anthropic quietly pitches its own AI safety bill to lawmakers Politico"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261016/p25#a261016p25"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0ydWVrbHdHeGNraEdTSHQ5eExwZ2lLRUU1U1BoVFJUTWNLenpWTXJOMHNnWnhaa0thQXlRbk1KdEliVVVGUEJXZWwtcWtUZE9Ielo2X05DaHJKSmJpd05rRl9vMWdQQUE4ZnVRRFBLQ3hlcm9FNG12bg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: Anthropic pitched its own AI safety bill to US lawmakers; the bill would limit the circumstances in which the government could block a model's release (Owen Dahlkamp/Politico)",
+        "Anthropic quietly pitches its own AI safety bill to lawmakers"
       ]
     },
     {
@@ -66,6 +88,48 @@
       ],
       "srcTitles": [
         "Stack Overflow for Agents triples signups with ChatGPT plugin"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 39,
+      "sources": 4,
+      "ts": "2026-10-16T09:22:03.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron)",
+      "s": "Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron) The Motley Fool",
+      "b": [
+        "fool.com: Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron)",
+        "theglobeandmail.com: Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron)"
+      ],
+      "body": [
+        "fool.com: Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron) The Motley Fool",
+        "theglobeandmail.com: Prediction: A $10,000 Investment in This Artificial Intelligence (AI) Hardware Stock Will At Least Double by 2030 (Hint: It’s Not Nvidia or Micron) The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/15/techcrunch-disrupt-2026-last-day/"
+        },
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1x6p42z/neurips_2026_waitlist_r/"
+        },
+        {
+          "d": "wolterskluwer.com",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObHNRWkVhU0RsRW5MemFEZE5IVTFSR3pqVmRRNXNNajBOVFM5X0YtRUM0dFpENWRNc1J1RkZtemswWmZlcmlmQVQweTh6a1dnZFFYWi1QakhhOXhKYkUxQl9Qc1BFd3FjZXg3RDVNdkJQbUNBQnB0V1U1d2xDaGdBd2wzZUp6engxZUJzWXkyQlJSNmtHYUtRQ084UzlMaEk0RVFYZmJUaGw5ZHFScE5MMGY5b3dIdHExbmYzc0ZISm5EUmI4ZUxGUlJEUGlwdw?oc=5"
+        },
+        {
+          "d": "transparencycoalition.ai",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0pwVnQ0VVNrY0doNnlWMDdpaTZYeFRhTF9jTVgzLXVSQUdIM3VsUlRUTnJwRng1WEpHX1hxY19KbWdFcUlXR21xZWpBMmNLY2IzemxiOTlaNE5UYXlqZ2hPdVZlX3BTWWNBTElPd2hFWUlCV3V6cFBpS2RIWXBtVV9oZ1E?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "TechCrunch Disrupt 2026: Last day",
+        "NeurIPS 2026",
+        "Buying Legal NYC 2026: Why legal leaders are focused on the foundations of AI success",
+        "AI Legislative Update: Oct. 16, 2026"
       ]
     },
     {
@@ -134,7 +198,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-16T18:00:00.000Z",
       "writtenSources": 1,
@@ -159,7 +223,7 @@
     },
     {
       "cat": "funding",
-      "signal": 24,
+      "signal": 20,
       "sources": 2,
       "ts": "2026-10-16T17:35:25.000Z",
       "writtenSources": 2,
@@ -191,7 +255,7 @@
     },
     {
       "cat": "policy",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-10-16T08:31:39.000Z",
       "writtenSources": 4,
@@ -226,7 +290,7 @@
     },
     {
       "cat": "policy",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-10-16T10:25:09.000Z",
       "writtenSources": 2,
