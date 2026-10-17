@@ -1,4 +1,37 @@
 {
   "date": "2026-10-17",
-  "stories": []
+  "stories": [
+    {
+      "cat": "policy",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-10-17T09:34:27.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
+      "s": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers Reuters",
+      "b": [
+        "reuters.com: AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
+        "wtvbam.com: Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP"
+      ],
+      "body": [
+        "reuters.com: AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers Reuters",
+        "wtvbam.com: Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP WTVB"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQbk9CdFVPN2k3VV9iLUx0SGxFc184WkJQSDVpNGhBTkxVUElnNmFvRk5YeHJNVjloYlFXZWY1MC1TQjBaT3RMSmJXQjl4YUU4X0ZDVllhRGR5T09ncE1vRTVhZVBqZGZYeE1kRG9jRVFram83dWZSd3N1eU9jeWpPckdNTTFyYV9jN1kxTHBWR3YycW1DRlVMU095QzMxVnVNb1RULVZPaXYtVlRaMlF4TEFEd1U4aFpySG83R3BMaDNXYlpPclE?oc=5"
+        },
+        {
+          "d": "wtvbam.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmpjamwwdlVJalVhM29BVElWWDJNdWxOQVJ2UDd5SDU1cjFDemJGbmg3Q3dabmM4Um9GV1lyOXJXa0FsbV80SFhfa19BbGR6MzdkUzhvMmRXZkp5QmpNV05yZmM5bEUxcG04SGJTV3J6UWlrclQ1emdlTFBfRmNCbm1KaGF2Wlk3dFJQdkdCX3UxcHVxYUh0c1dlVF9MSEQzVzdGelNOZDdkYnIzeTNJbFNPU1U?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
+        "Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP"
+      ]
+    }
+  ]
 }
