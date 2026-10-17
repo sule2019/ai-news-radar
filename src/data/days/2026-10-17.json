@@ -2,40 +2,8 @@
   "date": "2026-10-17",
   "stories": [
     {
-      "cat": "policy",
-      "signal": 36,
-      "sources": 2,
-      "ts": "2026-10-17T09:34:27.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
-      "s": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers Reuters",
-      "b": [
-        "reuters.com: AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
-        "wtvbam.com: Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP"
-      ],
-      "body": [
-        "reuters.com: AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers Reuters",
-        "wtvbam.com: Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP WTVB"
-      ],
-      "l": [
-        {
-          "d": "wtvbam.com",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmpjamwwdlVJalVhM29BVElWWDJNdWxOQVJ2UDd5SDU1cjFDemJGbmg3Q3dabmM4Um9GV1lyOXJXa0FsbV80SFhfa19BbGR6MzdkUzhvMmRXZkp5QmpNV05yZmM5bEUxcG04SGJTV3J6UWlrclQ1emdlTFBfRmNCbm1KaGF2Wlk3dFJQdkdCX3UxcHVxYUh0c1dlVF9MSEQzVzdGelNOZDdkYnIzeTNJbFNPU1U?oc=5"
-        },
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWtvRm9GMV9WQV90M25SSXpwUGJNQjlOTGFYa3MyZ2FoTklpRWRxVkllRnZFSVdRTDNFc2FnZWFKYTA4QUVCRUtLNkNIMGRkYXNrZjg0R1Y0SzFOSjNXNDFTWlB3RE1UcWROT0tNd3RLekRUT29uYjNKcE1PbnRvek5iTWc0YkVHWWFPc2tYdzZkekhp?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP",
-        "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 36,
+      "signal": 56,
       "sources": 2,
       "ts": "2026-10-17T00:00:00.000Z",
       "writtenSources": 2,
@@ -63,6 +31,38 @@
       "srcTitles": [
         "A profile of Alexandr Wang, who sources say is \"an operator\", had \"all\" of Zuckerberg's support during Meta's AI revamp, and is being touted as his successor (Rafe Rosner-Uddin/Financial Times)",
         "Weekend profile: Alexandr Wang, Meta’s Gen Z billionaire AI whizz"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-10-17T09:34:27.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
+      "s": "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers Reuters",
+      "b": [
+        "reuters.com: AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers",
+        "wtvbam.com: Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP"
+      ],
+      "body": [
+        "reuters.com: AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers Reuters",
+        "wtvbam.com: Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP WTVB"
+      ],
+      "l": [
+        {
+          "d": "wtvbam.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTmpjamwwdlVJalVhM29BVElWWDJNdWxOQVJ2UDd5SDU1cjFDemJGbmg3Q3dabmM4Um9GV1lyOXJXa0FsbV80SFhfa19BbGR6MzdkUzhvMmRXZkp5QmpNV05yZmM5bEUxcG04SGJTV3J6UWlrclQ1emdlTFBfRmNCbm1KaGF2Wlk3dFJQdkdCX3UxcHVxYUh0c1dlVF9MSEQzVzdGelNOZDdkYnIzeTNJbFNPU1U?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPbWtvRm9GMV9WQV90M25SSXpwUGJNQjlOTGFYa3MyZ2FoTklpRWRxVkllRnZFSVdRTDNFc2FnZWFKYTA4QUVCRUtLNkNIMGRkYXNrZjg0R1Y0SzFOSjNXNDFTWlB3RE1UcWROT0tNd3RLekRUT29uYjNKcE1PbnRvek5iTWc0YkVHWWFPc2tYdzZkekhp?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic’s Clark says AI’s impact accelerating quickly and could vastly boost US GDP",
+        "AI rapidly improving, could vastly boost US GDP, Anthropic's Clark tells policymakers"
       ]
     }
   ]
