@@ -2,6 +2,45 @@
   "date": "2026-10-18",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 71,
+      "sources": 3,
+      "ts": "2026-10-18T19:10:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "s": "Anthropic said that it will commit 5% of its shares to the fund.",
+      "b": [
+        "techcrunch.com: Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+        "techmeme.com: Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)",
+        "reuters.com: Anthropic to commit 5% stake to new public benefit fund"
+      ],
+      "body": [
+        "techcrunch.com: Anthropic said that it will commit 5% of its shares to the fund.",
+        "techmeme.com: Anthropic : Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise Today, we're committing a portion of Anthropic's shares to the Anthropic Public Benefit Fund, a new entity with a structure that increases the stake as the company grows.",
+        "reuters.com: Anthropic to commit 5% stake to new public benefit fund Reuters"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261018/p10#a261018p10"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+        "Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)",
+        "Anthropic to commit 5% stake to new public benefit fund"
+      ]
+    },
+    {
       "cat": "policy",
       "signal": 56,
       "sources": 2,
@@ -35,7 +74,7 @@
     },
     {
       "cat": "models",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-10-18T06:05:00.000Z",
       "writtenSources": 2,
