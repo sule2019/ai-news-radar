@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 71,
-      "sources": 3,
+      "signal": 61,
+      "sources": 2,
       "ts": "2026-10-18T19:10:00.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -28,16 +28,11 @@
         {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/261018/p10#a261018p10"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUTgwNEw0VU9tTnJVbGZXUGx6dS1QSjMzSlRRdUQ5RnJhV3gxeFFHY2hlZExVSzBjQ3c4VEM0eEdLNk1NRk83U0VUSHZFYzdrR21GNkZlQmh0TGRjZXd2RWFrbE53RE9iTVZlSlpabU5MMkdBN0Iyd1R6YUMyd3hQM2txbUpVdFlVNkhPUXJfZU1JZE16ZDFhcg?oc=5"
         }
       ],
       "srcTitles": [
         "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
-        "Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)",
-        "Anthropic to commit 5% stake to new public benefit fund"
+        "Anthropic says it's committing 5% of its shares to a Public Benefit Fund, for a total of ~20% with co-founder and staff pledges, plus 2% per 50% valuation rise (Anthropic)"
       ]
     },
     {
@@ -74,7 +69,7 @@
     },
     {
       "cat": "models",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-10-18T06:05:00.000Z",
       "writtenSources": 2,
