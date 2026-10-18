@@ -1,4 +1,69 @@
 {
   "date": "2026-10-18",
-  "stories": []
+  "stories": [
+    {
+      "cat": "policy",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-10-18T06:10:04.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)",
+      "s": "New York Times : AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar Debt trouble at CoreWeave,",
+      "b": [
+        "techmeme.com: AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)",
+        "nytimes.com: The Chatbot Oracle"
+      ],
+      "body": [
+        "techmeme.com: New York Times : AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar Debt trouble at CoreWeave, Oracle and SoftBank raises questions about whether there are broader problems with the data center build-out.",
+        "nytimes.com: The Chatbot Oracle The New York Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261018/p5#a261018p5"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwQ2RzOEdwSzNzZTJEc01DTkhSVnQ5QjJGOGpJT1pZUldNSkktQUkyWVNJSHNHaFlhY0hsOTRlZmRHX1F0aUVEVVJZenoycmdBZ09aclVHWXZBNlVsUUNURFVLWGpTYndZekdQNGtzSFhoQ1BYVmc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI debt worries mount as CoreWeave's bond yield tops 15%, insuring SoftBank debt gets pricier, and some Oracle debt trades near 80 to 90 cents on the dollar (New York Times)",
+        "The Chatbot Oracle"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-10-18T06:05:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Microsoft cancels its deal to be the anchor tenant and rent 23K Nvidia AI chips at Nscale's Essex, UK, data center, which may not get grid power until the 2030s (James Titcomb/Telegraph)",
+      "s": "James Titcomb / Telegraph : Microsoft cancels its deal to be the anchor tenant and rent 23K Nvidia AI chips at Nscale's Essex, UK, data center, which may not get grid power until the 2030s US tech gia",
+      "b": [
+        "techmeme.com: Microsoft cancels its deal to be the anchor tenant and rent 23K Nvidia AI chips at Nscale's Essex, UK, data center, which may not get grid power until the 2030s (James Titcomb/Telegraph)",
+        "bbc.com: Microsoft pulls out of Nscale's Essex AI data centre"
+      ],
+      "body": [
+        "techmeme.com: James Titcomb / Telegraph : Microsoft cancels its deal to be the anchor tenant and rent 23K Nvidia AI chips at Nscale's Essex, UK, data center, which may not get grid power until the 2030s US tech giant pulls the plug on Nscale deal in threat to multibillion-dollar listing Microsoft has pulled",
+        "bbc.com: Microsoft pulls out of Nscale's Essex AI data centre BBC"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261018/p4#a261018p4"
+        },
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGLUNraF9oSVdhVkg0MmRVNVpWeU9RSVJycmltejNWUFF0R1dud1N2TmNnWjRaN3BVMXNlc3gwTnBhUkw3S25qa2gza2FqSEtjeDZlY1VfSlZrNGs?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Microsoft cancels its deal to be the anchor tenant and rent 23K Nvidia AI chips at Nscale's Essex, UK, data center, which may not get grid power until the 2030s (James Titcomb/Telegraph)",
+        "Microsoft pulls out of Nscale's Essex AI data centre"
+      ]
+    }
+  ]
 }
