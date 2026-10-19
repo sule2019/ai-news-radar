@@ -1,4 +1,69 @@
 {
   "date": "2026-10-19",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-10-19T03:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "China's GDP is set to grow 4.5% YoY in Q3, up from Q2's three-year-low growth rate of 4.3%, as AI-driven exports helped offset weak domestic spending (Osmond Chia/BBC)",
+      "s": "Osmond Chia / BBC : China's GDP is set to grow 4.5% YoY in Q3, up from Q2's three-year-low growth rate of 4.3%, as AI-driven exports helped offset weak domestic spending China's economic growth picked",
+      "b": [
+        "techmeme.com: China's GDP is set to grow 4.5% YoY in Q3, up from Q2's three-year-low growth rate of 4.3%, as AI-driven exports helped offset weak domestic spending (Osmond Chia/BBC)",
+        "bbc.com: China's growth accelerates as AI export boom outweighs domestic weakness"
+      ],
+      "body": [
+        "techmeme.com: Osmond Chia / BBC : China's GDP is set to grow 4.5% YoY in Q3, up from Q2's three-year-low growth rate of 4.3%, as AI-driven exports helped offset weak domestic spending China's economic growth picked up in the three months to the end of September, rebounding from a three-year low as the artificial intelligence (AI) boom helped boost exports.",
+        "bbc.com: China's growth accelerates as AI export boom outweighs domestic weakness BBC"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261018/p17#a261018p17"
+        },
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBKZDdHVkpOendSakJEYTM3TW1fY1JQS3BpYnZkSmtiRDJEdDlyNWZzcmFTclR6WEp5S1VtUS1ZZ0g5aE15YS14c0dsZnc4Z052M1hPZjJha0hWclk?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "China's GDP is set to grow 4.5% YoY in Q3, up from Q2's three-year-low growth rate of 4.3%, as AI-driven exports helped offset weak domestic spending (Osmond Chia/BBC)",
+        "China's growth accelerates as AI export boom outweighs domestic weakness"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-10-19T01:18:49.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sam Altman's World launches a World ID verification suite for banks, bundling tools to verify human and agent identities, its first industry-specific offering (Zack Abrams/The Block)",
+      "s": "Zack Abrams / The Block : Sam Altman's World launches a World ID verification suite for banks, bundling tools to verify human and agent identities, its first industry-specific offering The identity pr",
+      "b": [
+        "techmeme.com: Sam Altman's World launches a World ID verification suite for banks, bundling tools to verify human and agent identities, its first industry-specific offering (Zack Abrams/The Block)",
+        "pymnts.com: Sam Altman’s World Debuts ID Verification for AI Agents"
+      ],
+      "body": [
+        "techmeme.com: Zack Abrams / The Block : Sam Altman's World launches a World ID verification suite for banks, bundling tools to verify human and agent identities, its first industry-specific offering The identity project co-founded by OpenAI CEO Sam Altman named Bain Capital and VanEck Funds among its design partners but did not name",
+        "pymnts.com: Sam Altman’s World Debuts ID Verification for AI Agents PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261018/p16#a261018p16"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaUJ0NFdST1Z3Y1RUNG1TVmdndFZkWF9EclI1aW1tNFZNYUhtanBWS3ljME15bklJYThKQTIxMUExUzNNaTdtZk9FZmVwVHhMQ0FpWHhRSjNvQ2c1cUJrbFIzLS0yMW83OEp5VF9DZFVnenhaZDc2NnhjbWVlRWl2a1hCRzhXWjB5YTBmelUzX1lvMHM1Mmd3RXBWU1dfRjN0alRIVkJSM1FRNHlfYVItak5n?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sam Altman's World launches a World ID verification suite for banks, bundling tools to verify human and agent identities, its first industry-specific offering (Zack Abrams/The Block)",
+        "Sam Altman’s World Debuts ID Verification for AI Agents"
+      ]
+    }
+  ]
 }
