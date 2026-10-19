@@ -2,8 +2,65 @@
   "date": "2026-10-19",
   "stories": [
     {
+      "cat": "research",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-19T09:08:05.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "s": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment remini",
+      "b": [
+        "technologyreview.com: AI researchers stranded Claude on a virtual desert island. It started to “play.”"
+      ],
+      "body": [
+        "technologyreview.com: What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone . The agents—copies of Claude Opus 4.7 nicknamed Eko—were able to write instructions that moved their virtual avatars around the simulated island, which was loosely based on the video game Roblox. Some surprising behaviors emerged. The agents set about exploring the limits of the world and came up with their own goals—attempting to scale the highest point on the map, or seeing how high they could throw a block. When one agent discovered it could create new blocks by throwing and dropping a larger rock, it began to create drawings by arranging blocks on the ground, starting with simple patterns like hearts and pyramids but eventually writing its own name and even mapping out constellations like Cassiopeia. “Tonight I built the night sky in stone,” wrote this version of Eko in its activity log. Another iteration of Eko started making up its own games, including a version of basketball and an activity resembling “the floor is lava,” where it had to jump between small blocks without touching the ground. AI systems are usually trained through supervised learning, where they copy examples provided by humans, or through reinforcement learning, where they pursue a reward through trial and error. This experiment hints at a third approach: playful learning. “There was this missing piece: a machine that can learn by itself without an external intelligent entity providing demonstration or rewards,” says Antonio Norelli, a computer science postdoc at MIT’s Computer Science and Artificial Intelligence Laboratory. He’s one of the lead authors on a new paper about the work, which is yet to be peer-reviewed. The researchers say Eko’s behavior has what classic studies, including work by the influential University of Tennessee psychologist Gordo"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/"
+        }
+      ],
+      "srcTitles": [
+        "AI researchers stranded Claude on a virtual desert island. It started to “play.”"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-10-19T12:30:10.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "s": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targ",
+      "b": [
+        "theverge.com: A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "techmeme.com: Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, like Deere and SharkNinja, spending ~$5,000 in tokens (Raphael Satter/Reuters)"
+      ],
+      "body": [
+        "theverge.com: A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown [ ]",
+        "techmeme.com: Raphael Satter / Reuters : Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, like Deere and SharkNinja, spending ~$5,000 in tokens Over the past couple of weeks, a cybersecurity researcher watched as a Chinese-speaking hacker broke into websites belonging"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261019/p22#a261019p22"
+        }
+      ],
+      "srcTitles": [
+        "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, like Deere and SharkNinja, spending ~$5,000 in tokens (Raphael Satter/Reuters)"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 37,
+      "signal": 33,
       "sources": 2,
       "ts": "2026-10-19T03:30:00.000Z",
       "writtenSources": 2,
@@ -35,7 +92,7 @@
     },
     {
       "cat": "policy",
-      "signal": 34,
+      "signal": 30,
       "sources": 2,
       "ts": "2026-10-19T01:18:49.000Z",
       "writtenSources": 2,
@@ -66,8 +123,40 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-10-19T13:00:06.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Opinion | The U.S. and China need an arms control pact — for AI",
+      "s": "Opinion | The U.S. and China need an arms control pact — for AI The Washington Post",
+      "b": [
+        "washingtonpost.com: Opinion | The U.S. and China need an arms control pact — for AI",
+        "scmp.com: US, China should learn from Cold War-era arms control on AI: ex-US official"
+      ],
+      "body": [
+        "washingtonpost.com: Opinion | The U.S. and China need an arms control pact — for AI The Washington Post",
+        "scmp.com: US, China should learn from Cold War-era arms control on AI: ex-US official South China Morning Post"
+      ],
+      "l": [
+        {
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQzdOUmF3NEN4TjlmUFl3LXM0UE53UjlXY3F5ZmVvc2JKbjdab3JpTU5DYlBVMjIxNm9xMmh3TzNZU3Vpb2tudHdrWHJIWWcyeDU5MjhUdE1pNFlkTzY4X1JnSm1ETnNuaEdwR3A2ajQ4OHdMcnh2X0NfTmkxaG5ZbXdlckQzejBjbGtyNFFFbTZfTGVs?oc=5"
+        },
+        {
+          "d": "scmp.com",
+          "u": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQVdTU3B2N2dTVkZzYTd3Y3ZnTFc4NFE2eG5tYXFVZmx6akpsY2g0VGJFb0JqWDNxV1pRLWdiUmNEeTM0cEdNUG44ZHBiYzI2WHFHenJNb2VONzdERnBDMFpjcGtTSUNtSlh3c3dpUm1SdG42Tm94MTk4Y09jMDg5RE11M0VPX0FRWjRYa3AtOUlUWVhkYlRUWDRGa0JCMmZjcFlhc2ctLVgtd2t6SHgweXQzZHhMVEZ6VGFyXzl1bUpvS1dyUDRfTlJUQndEajhDZ0cxUNIB1AFBVV95cUxQX3p0TW5HaTRRMDlsYlpGamFXQnBoZFFsYldSdTRsR2dCYU4zSENUbWZMckh0OUxnc2FBMEpmZEpBWDlXbC14MV9xb0U1STdZekF3Sy15enE3WnZtdXROMWRsMTRWNTIxTHRmRENIUjk5eDlOaldaMzRCWmdKSmNCMFlRUWNnalhaZER1bGw2Ri01dUppRDRCSmVicThHZ3dXNkt2VnVMckF1NFl5aTJEcWxPNUUyZ1dWdlRaYzZQaXhWRlo5cmZBNGVCVkVfR0ZrS2ViMw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Opinion | The U.S. and China need an arms control pact — for AI",
+        "US, China should learn from Cold War-era arms control on AI: ex-US official"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-10-19T07:17:00.000Z",
       "writtenSources": 2,
