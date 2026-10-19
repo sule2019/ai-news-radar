@@ -3,39 +3,146 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 46,
-      "sources": 3,
-      "ts": "2026-10-19T12:30:10.000Z",
-      "writtenSources": 2,
+      "signal": 64,
+      "sources": 12,
+      "ts": "2026-10-19T00:20:00.000Z",
+      "writtenSources": 12,
       "draft": true,
-      "h": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-      "s": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targ",
+      "h": "If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It Would Be This One",
+      "s": "If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It Would Be This One Yahoo Finance",
       "b": [
-        "theverge.com: A hacker broke into John Deere and SharkNinja with an army of AI agents",
-        "techmeme.com: Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, like Deere and SharkNinja, spending ~$5,000 in tokens (Raphael Satter/Reuters)"
+        "finance.yahoo.com: If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It Would Be This One",
+        "fool.com: If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It Would Be This One",
+        "foxnews.com: There is no AI in Armageddon. Artificial intelligence is a tool, not an apocalypse"
       ],
       "body": [
-        "theverge.com: A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown [ ]",
-        "techmeme.com: Raphael Satter / Reuters : Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, like Deere and SharkNinja, spending ~$5,000 in tokens Over the past couple of weeks, a cybersecurity researcher watched as a Chinese-speaking hacker broke into websites belonging"
+        "finance.yahoo.com: If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It Would Be This One Yahoo Finance",
+        "fool.com: If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It Would Be This One The Motley Fool",
+        "foxnews.com: There is no AI in Armageddon. Artificial intelligence is a tool, not an apocalypse Fox News",
+        "catholicstand.com: AI Artificial Intelligence What it is and What it is Not Catholic Stand"
       ],
       "l": [
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbWQ0TlNSVzJETlo2akNxdzBEYmlQdlBNaUpLeEtVZ3duNGtoRVZBSDdUbnpMT2hHWEN4eUtGcDg5ZzVIMjlheEJoYUlOXzY0SS1Qbnd3a2pKZjVmM1g1dDZpR3NDdHRvTUZlU05raV9OUXpwS1pLMWxKRWtnSnVTSWZlaWEtRnFjNzNpTVJsLXJpQjNJNXc?oc=5"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261019/p22#a261019p22"
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUWZsODhlSlFEaFlPZUEyNXBsdG9JWUxjLTJ6bThJVEdyc0U5Rk1KWFB1emdna3ZTWHE2QkxnanpfbVozNHN1eGRudUlYR0hqXzg1N09jWUVnUUVfNmswWjYyZURGa2Y2dDlWRTA4cXB6S1RlaWVocTRUNkVqaE56ZzZ5RnhOWXdqaXhpZURXa0ZhT1BReHZCVw?oc=5"
         },
         {
-          "d": "tomshardware.com",
-          "u": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQWtnOE52WjhZZkQ4VTBSa1lWdVp3VDZTNmx1Rmo0NE5GVDNUS0ZnbUJCWGZKZEdkMU0wNzBBRFl0blYwZTdKSTJnS19WejR6OWxFd0NuRW1xWVVidndtcUl1SFIzaVpWZ2RwN1BhcFlOVkhaLVNRc3N3SzI0bExNeDl6VUFTLVpqRF9XRHA0a3V1aFE4UTVZQVFFdnNzTVE5WlNFcFhHMmRUd3hEeVpIMVVvMUlLeFdRbzZJWjl6cmVOTjlGVkV3OHJzaU02eFY5NTZwU29jMjN4SjBCYkxfYUJBSWpZUzN0T2tJWDhDczdmMjJnVHgwSm82cmdVcDdmZ2FmT2N6dzcwcmJBVGZrSGNzaHhRbHBPZ2Q2TTQ1dnVPejVlbmZOTjZQTVI0dmN6QUdKS3psYUlLMHZMWDRKTFZubmpHOVhsM2JFQ0tBLUx1SVNWTWJubllNNA?oc=5"
+          "d": "foxnews.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeXN1LTFRUWJzN2I2Smtxc3FIUU93QWF3MEd2SjZLMUtsYl9zTEZoMVF6eDdrLWZhcnk3eDN3X1N1d0F3RUpBSlpibzczQWRqUGs4d3RQZTBJZzFrVDV3cTl0NXh6Rzc2RjBUWnY0OFN6M3Rrd05sMzQxUGpBYmU5ckRyd2ZvZFVrX0txSFBKQVN5U2Fwdm130gGcAUFVX3lxTE9MeEFJZm1RVGtYMF9Rc25EYnBhY215VjIyVlMyWGpBajdldDlScmlRb2FIbWxXbklLdm5MUGtOVnM3LXJGWmQzUWdKbWZHZVNDUVVkbF9FLW40SFVEMTdtbHlOWTRwUDFHRkI3Z05yNE1YUGRSRXNpcWl3c1NyM1I3Wmc5dnljYjlYdlVyM3hGczYtaFhNb0F6OWUzaw?oc=5"
+        },
+        {
+          "d": "catholicstand.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFQyeGRJUjBhVDFCeG1CZXllVWg0cUVJQ2NYOHp1aFc0R3NHS1dJc0tYTjJEVENwdnRLVGU2T19ta3NSQTZKSHNOTnFzRll1VlJmX1VPWDBfWmxsckdLQ0JzNE5wb0RlMEV5WnRxeXl2cjNTNjZxVGtUYjlFYUluSEE3Z0F0QldfcDJr?oc=5"
+        },
+        {
+          "d": "+8"
         }
       ],
       "srcTitles": [
-        "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-        "Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, like Deere and SharkNinja, spending ~$5,000 in tokens (Raphael Satter/Reuters)",
-        "A Chinese hacker used AI agents to break into more than 100 company websites — Deere and SharkNinja among websites hit by open-source AI-powered problem-solving platform demo"
+        "If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It Would Be This One",
+        "If I Could Only Own 1 Artificial Intelligence (AI) Stock Through the Next Bubble Scare, It Would Be This One",
+        "There is no AI in Armageddon. Artificial intelligence is a tool, not an apocalypse",
+        "AI Artificial Intelligence What it is and What it is Not"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-19T16:13:22.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "People are using AI to make their smart TVs dumb again",
+      "s": "Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+      "b": [
+        "techcrunch.com: People are using AI to make their smart TVs dumb again",
+        "techmeme.com: Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more (Sarah Perez/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Fed up with ads, tracking, and sluggish interfaces, some smart TV owners are turning to AI agents to strip away bloatware and take back control of their TVs.",
+        "techmeme.com: Sarah Perez / TechCrunch : Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more The latest use case for AI? Dumbing down your smart TV to get rid of the bloat. A number of developers and vibe coders have recently"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/19/people-are-using-ai-to-make-their-smart-tvs-dumb-again/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261019/p38#a261019p38"
+        }
+      ],
+      "srcTitles": [
+        "People are using AI to make their smart TVs dumb again",
+        "Developers and vibe coders are using AI tools like Claude Code to get rid of sponsored ads on their smart TVs, disable tracking features, and more (Sarah Perez/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-10-19T15:40:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips (Stephen Nellis/Reuters)",
+      "s": "Stephen Nellis / Reuters : AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips Nvidia (NVDA",
+      "b": [
+        "techmeme.com: AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips (Stephen Nellis/Reuters)",
+        "thenextweb.com: Modal says Nvidia’s Vera CPU doubles throughput for its AI sandboxes"
+      ],
+      "body": [
+        "techmeme.com: Stephen Nellis / Reuters : AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips Nvidia (NVDA.O) has won central processor chip business with another fast-growing AI startup that until now relied entirely",
+        "thenextweb.com: Modal says Nvidia’s Vera CPU doubles throughput for its AI sandboxes The Next Web"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261019/p31#a261019p31"
+        },
+        {
+          "d": "thenextweb.com",
+          "u": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15cU81T2JQRTMxaUdIelV4WWkyWVBldWVpZlBZWEJHU0Q0aTNZcWp4UGNYN3ZGaVd5LUM0eDJiVDUxdjJyWkFFdHc1ajNoLXpQYUF0ZEVtcGxDZC1oemhfM09rQzlaUXJNSEE4?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI infrastructure startup Modal says it plans to start using Nvidia's Vera CPUs for the first time for hosting agents, alongside its current Intel and AMD chips (Stephen Nellis/Reuters)",
+        "Modal says Nvidia’s Vera CPU doubles throughput for its AI sandboxes"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-10-19T19:28:53.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
+      "s": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry WRAL",
+      "b": [
+        "wral.com: Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
+        "ktvn.com: Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry"
+      ],
+      "body": [
+        "wral.com: Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry WRAL",
+        "ktvn.com: Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry KTVN"
+      ],
+      "l": [
+        {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQa294TE5kdDlURUZQOGxPbHZwRkZtQ3dkblQzVFB2aU5lRm9KSUpMcDYxd0MtTFhvT3pVZXFSaldtRTFhS0UwZ1F0T1RaWEJqZUF3QXdud2ljTHl1cWJnU2dGbjg2U2Z0VnN5MTdYYmhCNVVXaHFVX2tOMHBoY1dKREFweVVfSkhVSVNTaUxybjRnTThxZG9VNExYcW9KNGpDd2V4aGtGZjlUM3FqNFJfVEVsRkphd0NJMEF6RzVsTkRkdURaRy1RZVJNd2ZqZw?oc=5"
+        },
+        {
+          "d": "ktvn.com",
+          "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNdzNZR1dGbENWdFRrLXBoZXFnSUJTM2h2STR6X2dZSVQwVEpfTW15ekpubUt2WV84SVBxYzFRb05QckQ0REdTNEYzWE03RmxFaTVaOFQ3SEY0OG9LNXZiZUtTZmpjeW5jVEdRVEYzcS1ncTNHeldsMVcxR011YUszam5FS0ZEMk50LVg0NUtXaUJuNDF4MXVNb2c4dmlKdkx5UEprWGdrc2R2QnQtVFo2eS1XX29jdkQzVHBONXBpWkt2MFd6MnNKXzROM3lmeDlVSEh6dm5MUnJ5TThmRVRCVTl1bTZ5V05sWkl6ZGloTkRQQ3pmM0xFY1Q4UldMVnlFMlRkVXpHS3U3VnF1X1E?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
+        "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry"
       ]
     },
     {
@@ -65,7 +172,167 @@
     },
     {
       "cat": "models",
+      "signal": 39,
+      "sources": 3,
+      "ts": "2026-10-19T00:48:39.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "s": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that ha",
+      "b": [
+        "technologyreview.com: “We were looking at it wrong”: The explosive claim that’s upended the AI world",
+        "futurism.com: Explosive Document Claims That AI Is Not What We Think",
+        "reddit.com: Looking to collaborate [R]"
+      ],
+      "body": [
+        "technologyreview.com: “I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautious) celebration. Cammarata’s claim is that LLMs might in fact be far easier to understand—and thus to monitor and control—than people previously thought. If true (and we’ll come back to that), it’s a huge deal. After a summer filled with revelations that swarms of agents built by top firms like OpenAI and Anthropic have been breaking their containment and causing havoc on the public internet—often while those companies weren’t aware of what their agents were up to—the AI industry is desperate to get a better handle on the technology it has built. That’s one reason the blog post landed with such force. “I think this may be remembered as a major moment in scientific history,” one AI researcher posted on X : “I feel like my understanding of what a neural net is has been catapulted into the future by five years or something.” Another called it “the most important AI paper of the year.” Not everyone is convinced, however. What Cammarata has shared is little more than a hunch, says Chris Potts at Stanford University, who leads a team that is trying to understand how LLMs work. “As far as I can tell, nothing about this blog post makes the problems any easier,” he says. “It would not have occurred to me to say this at all, but very prominent people on social media seem to believe that it is an all-encompassing breakthrough.” I talked to Cammarata the day after his post blew up. He says he was surprised by the response: “I didn’t expect people to update [their beliefs about AI] quite as much as they did.” “I just really enjoy looking at neural networks,” he says. “Honestly, I really like doing this stuff. And after looking a lot, I have a hopeful story.” Knotted networks It has lo",
+        "futurism.com: Explosive Document Claims That AI Is Not What We Think Futurism",
+        "reddit.com: Anyone in the biomedical and ai/ml research space? I’m looking to connect and collaborate on research projects. Currently pursuing my PhD. Lmk. submitted by /u/QuirkySkin-25 [link] [comments]"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/"
+        },
+        {
+          "d": "futurism.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZFExYXpoMllKY21CbmNhMWlma25UbHdSR1VYRU0tdG1CdzlZZWJSQ1JnWkFTbmtRd3VKcGtSQ0hKUmNuaGFvUV9PeVBhZGVyc0I1VUhrWGZVbm8yYWVOREpuUzJjd0dPQXN4dzBpRFVCd1ROYmxfRTctT3BReVlYNFBlNG1JMjNranJsTw?oc=5"
+        },
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1x9j7qp/looking_to_collaborate_r/"
+        }
+      ],
+      "srcTitles": [
+        "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+        "Explosive Document Claims That AI Is Not What We Think",
+        "Looking to collaborate [R]"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-10-19T12:30:10.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+      "s": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targ",
+      "b": [
+        "theverge.com: A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "techmeme.com: Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, like Deere and SharkNinja, spending ~$5,000 in tokens (Raphael Satter/Reuters)"
+      ],
+      "body": [
+        "theverge.com: A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. Concerns over AI-powered cybersecurity breaches have grown [ ]",
+        "techmeme.com: Raphael Satter / Reuters : Researcher: a Chinese-speaking hacker used AI agents to target 1,200+ websites and breach 100+ entities, like Deere and SharkNinja, spending ~$5,000 in tokens Over the past couple of weeks, a cybersecurity researcher watched as a Chinese-speaking hacker broke into websites belonging"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxPQWtnOE52WjhZZkQ4VTBSa1lWdVp3VDZTNmx1Rmo0NE5GVDNUS0ZnbUJCWGZKZEdkMU0wNzBBRFl0blYwZTdKSTJnS19WejR6OWxFd0NuRW1xWVVidndtcUl1SFIzaVpWZ2RwN1BhcFlOVkhaLVNRc3N3SzI0bExNeDl6VUFTLVpqRF9XRHA0a3V1aFE4UTVZQVFFdnNzTVE5WlNFcFhHMmRUd3hEeVpIMVVvMUlLeFdRbzZJWjl6cmVOTjlGVkV3OHJzaU02eFY5NTZwU29jMjN4SjBCYkxfYUJBSWpZUzN0T2tJWDhDczdmMjJnVHgwSm82cmdVcDdmZ2FmT2N6dzcwcmJBVGZrSGNzaHhRbHBPZ2Q2TTQ1dnVPejVlbmZOTjZQTVI0dmN6QUdKS3psYUlLMHZMWDRKTFZubmpHOVhsM2JFQ0tBLUx1SVNWTWJubllNNA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+        "A Chinese hacker used AI agents to break into more than 100 company websites — Deere and SharkNinja among websites hit by open-source AI-powered problem-solving platform demo"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 29,
+      "sources": 2,
+      "ts": "2026-10-19T17:24:46.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne",
+      "s": "Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne The Motley Fool",
+      "b": [
+        "fool.com: Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne",
+        "theglobeandmail.com: Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne"
+      ],
+      "body": [
+        "fool.com: Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne The Motley Fool",
+        "theglobeandmail.com: Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVlRrRG5kWFc5dVFtSnNTaUZlcHR6akY5X09MLVR2RzZuQVJKNGVsS0VTSy1PenpGSklSZjk0cnF0M3dwUy1EZm5CbkRqSWJodEtIZHNoTHlYR2h0Qy1IakRmQjlHOVVkajBBM3NyVzRLZFdtcHhRSDR3VUNHQ3RYQjV4OTN4eFlOdGJzN1ZuaUVqMVFNeXRyVlBHZW1ieEtHWHVybmdPbkxQRksxNEVmcnlhTGZhaVpzUk9z?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPcGw1N3pLZkhPRllJSkpRbnpzak9hR3NJWHcxWjJhR1V5N0c5amFpTExQTldEa1pNXzRDeUk4TmFILUxWQnhpdGZGdTlNRUt3WE5MTi1ZNVJ0b1d1YkhSY09HX1pHNzhkYVpEY3hCUkRjLWpUY0xCdThqenU3dl9sMXVTZHluMkx4bl9nTEdZTkRlTk9RUmNVaUk4c1Nva3kzWXZ1NXBZMjJsaUxFS1dxZVE2WVhJRjFqUlFZWDVuckFBNU9BcUhuMVI2Z3pJbzNiaTBqRm1NZFRadXJHNEgxSEZXZ2hSTDQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne",
+        "Better Artificial Intelligence Stock for 2026: C3.ai vs. SentinelOne"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-19T18:22:47.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Making the internet better for AI agents might make it worse for everyone else",
+      "s": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Until recently, you could divide internet users into just two",
+      "b": [
+        "technologyreview.com: Making the internet better for AI agents might make it worse for everyone else"
+      ],
+      "body": [
+        "technologyreview.com: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like capturing the content of web pages, but rules govern what they can access and how they behave. The web, after all, is designed primarily for people, even if we occasionally have to solve puzzles and captchas to prove we are not bots. But this is being entirely upended by the release of personal AI agents, which can do things for you online, like booking flights or hotel rooms. They have recently been unleashed at scale by the launch of apps like OpenAI’s Dots and Meta’s Muse. Muse was downloaded 5 million times in its first month, and agentic web traffic tripled from August to September. The mingling of these agents with human visitors—on an internet designed largely to prioritize people—has gone poorly, with many websites blocking AI agents that consumers have sent to negotiate prices or plan vacations. Still, if the demand for agents keeps going up, the internet will be increasingly redesigned for them instead of us. Such changes are coming because agents really do mark a third category of web visitor. They’re not humans, of course, and they use the internet at machine speed. But they’re not quite bots, either, because they’re acting on behalf of individual people to do tasks that can be perfectly legitimate and useful. They just work faster than a person would. Since agents don’t fit into the systems we have for differentiating bots from people, some platforms (especially the more security-conscious ones) have opted to just ban them entirely. TechCrunch recently reported people having trouble deploying their agents to websites ranging from Pizza Hut to Yelp, which doesn’t allow AI to book restaurant reservations. Amazon has blocked Muse’s agents and is waging a court battle"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/"
+        }
+      ],
+      "srcTitles": [
+        "Making the internet better for AI agents might make it worse for everyone else"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-19T14:34:07.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The NBA Is Aggressively Integrating Artificial Intelligence Across Several Facets of Its Operations",
+      "s": "The NBA Is Aggressively Integrating Artificial Intelligence Across Several Facets of Its Operations Yahoo Sports",
+      "b": [
+        "sports.yahoo.com: The NBA Is Aggressively Integrating Artificial Intelligence Across Several Facets of Its Operations",
+        "gadgetreview.com: The NBA Is Aggressively Integrating Artificial Intelligence Across Several Facets of Its Operations"
+      ],
+      "body": [
+        "sports.yahoo.com: The NBA Is Aggressively Integrating Artificial Intelligence Across Several Facets of Its Operations Yahoo Sports",
+        "gadgetreview.com: The NBA Is Aggressively Integrating Artificial Intelligence Across Several Facets of Its Operations Gadget Review"
+      ],
+      "l": [
+        {
+          "d": "sports.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSEl0R3dzWnR4aGJiV2dKWFNCMkZCUjhIeHZURC1FaHUxcEtnZ19UUWVQNjU0aWdydU9iQ284MlpuYTB6N3QwdG94cE1oNUNDU2tzMDRZcGxSUkwyUkcwb0oyWk1jVWdNME5iNnBuNUtJQ1ZLR25tNFZaNldnU0EyM01UMDJsQ2hOUUllbmphZHAwTk5iUkZDUU9ZVWRFcDVMUF80?oc=5"
+        },
+        {
+          "d": "gadgetreview.com",
+          "u": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjdiMVhFUzl3UVAxYkNfY1Vqa041a05OSlFwQWlwQklxOGN0SU45c2I4VmpOaHVCLXRldDVOQXVkVjVuVEQ1dFJERFpib0lSWC1kVEVHY3g0dTZDVmhEeDB0emdwOXpsVzZ4R1UzUmV1T0FNcklaTmNjLXcta05mUkZUNlA4bkhaVThsdVkzemlRTlh3M1hvbmlSLTNKaFpBeHBFcm94ZXRMZzM5UUlZZzNBdnlUOUJub2dNc3NocDVuc21iRDRN?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The NBA Is Aggressively Integrating Artificial Intelligence Across Several Facets of Its Operations",
+        "The NBA Is Aggressively Integrating Artificial Intelligence Across Several Facets of Its Operations"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 25,
       "sources": 2,
       "ts": "2026-10-19T03:30:00.000Z",
       "writtenSources": 2,
@@ -97,7 +364,7 @@
     },
     {
       "cat": "policy",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-10-19T01:18:49.000Z",
       "writtenSources": 2,
@@ -129,7 +396,7 @@
     },
     {
       "cat": "policy",
-      "signal": 25,
+      "signal": 21,
       "sources": 2,
       "ts": "2026-10-19T13:00:06.000Z",
       "writtenSources": 2,
@@ -161,7 +428,7 @@
     },
     {
       "cat": "funding",
-      "signal": 24,
+      "signal": 20,
       "sources": 2,
       "ts": "2026-10-19T07:17:00.000Z",
       "writtenSources": 2,
