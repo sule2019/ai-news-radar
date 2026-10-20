@@ -2,6 +2,38 @@
   "date": "2026-10-20",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 60,
+      "sources": 2,
+      "ts": "2026-10-20T00:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI acquires Orchestra Bio",
+      "s": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+      "b": [
+        "openai.com: OpenAI acquires Orchestra Bio",
+        "techmeme.com: OpenAI acquires Orchestra Bio, which builds AI agents for managing drug development, and plans to integrate its tech into OpenAI life sciences suite Rosalind (Madison Mills/Axios)"
+      ],
+      "body": [
+        "openai.com: OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+        "techmeme.com: Madison Mills / Axios : OpenAI acquires Orchestra Bio, which builds AI agents for managing drug development, and plans to integrate its tech into OpenAI life sciences suite Rosalind OpenAI has acquired Orchestra Bio, a startup building AI agents to help pharmaceutical companies manage drug development, the ChatGPT maker shared exclusively with Axios."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/openai-to-acquire-orchestra-bio"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261020/p34#a261020p34"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI acquires Orchestra Bio",
+        "OpenAI acquires Orchestra Bio, which builds AI agents for managing drug development, and plans to integrate its tech into OpenAI life sciences suite Rosalind (Madison Mills/Axios)"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 56,
       "sources": 2,
@@ -34,40 +66,8 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 51,
-      "sources": 2,
-      "ts": "2026-10-20T12:35:01.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "The new economics of enterprise AI",
-      "s": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity become",
-      "b": [
-        "technologyreview.com: The new economics of enterprise AI",
-        "techmeme.com: Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027 (Dana Wollman/Bloomberg)"
-      ],
-      "body": [
-        "technologyreview.com: Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from can we use it? to how efficiently are we using it? Enterprise AI is going through the same shift. What began as isolated chatbot and copilot experiments is becoming a foundational layer of the business, with models, agents, and data increasingly interconnected in production workloads. The important question stops being what a token or GPU-hour costs. It becomes how efficiently the AI environment converts paid capacity into useful business outcomes. That s the metric worth tracking: effective cost per useful outcome — the total platform, model, operations, and capacity cost required to complete work the business can actually use, whether a resolved request or a completed workflow. Three ways to run AI Utilization is central to the economics. Directing more work to paid-for capacity lowers effective unit cost; idle GPUs, fragmented workloads, and oversized models all raise the cost of every useful result. Enterprises generally choose among three models: A bespoke stack — procuring infrastructure and controls in-house. This approach is flexible, but it creates a continuing burden, since teams must revalidate the environment as models and policies change. On-demand consumption — hyperscalers reduce the assembly burden and suit low or uncertain demand, but charges rise with every prompt or agent action. An integrated private AI platform — owned or dedicated capacity paired with a validated stack. The advantage isn t free inference; it s control over efficiency levers like scheduling, model selection, GPU partitioning, and cache management. The right model depends on the workload. APIs can be rational for experimentation or variable demand. As workloads become sustained and business-critical, enterpr",
-        "techmeme.com: Dana Wollman / Bloomberg : Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027 Salesforce Inc. has agreed to buy Braze Inc., an artificial intelligence-powered platform for marketers, for almost $5.7 billion in enterprise value."
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261020/p20#a261020p20"
-        }
-      ],
-      "srcTitles": [
-        "The new economics of enterprise AI",
-        "Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027 (Dana Wollman/Bloomberg)"
-      ]
-    },
-    {
       "cat": "policy",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-10-20T09:40:02.000Z",
       "writtenSources": 2,
@@ -101,6 +101,31 @@
       "cat": "models",
       "signal": 46,
       "sources": 1,
+      "ts": "2026-10-20T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "s": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "b": [
+        "openai.com: Franchisee reconciles cash in 94% less time with ChatGPT Work"
+      ],
+      "body": [
+        "openai.com: An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/ted-taylor-restaurant"
+        }
+      ],
+      "srcTitles": [
+        "Franchisee reconciles cash in 94% less time with ChatGPT Work"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
       "ts": "2026-10-20T09:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
@@ -124,7 +149,7 @@
     },
     {
       "cat": "funding",
-      "signal": 43,
+      "signal": 39,
       "sources": 3,
       "ts": "2026-10-20T04:00:00.000Z",
       "writtenSources": 3,
@@ -165,8 +190,8 @@
     },
     {
       "cat": "research",
-      "signal": 41,
-      "sources": 8,
+      "signal": 37,
+      "sources": 7,
       "ts": "2026-10-20T13:43:31.000Z",
       "writtenSources": 8,
       "draft": true,
@@ -185,8 +210,8 @@
       ],
       "l": [
         {
-          "d": "wdbj7.com",
-          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ2p1QjNwTmtOcGpkNzNNVkZLeWRaZzhmdmhNMVdrYW1vS0NsV2JRR0lQUzFYdVFGUTlDa0lscjRQRnpvdTBSX1VoUS1uV3ZzcE4xWm1HUXZMY2hfVTJYaUprQ3VyaHJOZVM5RlpYWV9RVGRWUFBicmw1OGpXeUtadEI2VzFVWHZTMXo5SlhBa1NORmpGTzc3aU40RXFNMjV4MXYxOUFB?oc=5"
+          "d": "kptv.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSk05M0NEbDBtQU4zUTNOcGc3a3k0MF9ZMS1ocF81c25lbEhlY0ZqMnZvSjBkdTA5Ri0xZ0FhaGIwdWdFWFpoZnc5TWtScFppUXR6ak9kWUpXUEcyNDFYQVVJUFVWY1FONUc5Mlh1VV9yODdJY2RZNFRCWEJVMFpnbVpodjNEVlhuM1ljVHRXQ1ZEMVpPZy0yd1U4a2xmblhzS2NxLQ?oc=5"
         },
         {
           "d": "kktv.com",
@@ -197,11 +222,11 @@
           "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IV1RrLUlnM3kxWExjVnVlalRKb1duc0ZpTzFha0VOeWh1b1hLbEEtNm4yZDhOY2JDX296NUhCQlFSSC1hb0FzVnNCemRGRUxvNy1LMTduRXVUV3BJTXJwaWFDamFnRzdETTIxNXc3dExlZVFDaXYwbEFDOWZTSWM?oc=5"
         },
         {
-          "d": "kgns.tv",
-          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05Sm9zbm1hWG5oWDNJMFB0TXBwX3B3d042LVdGMjhSa0JPQXlSX0tpU1NyUXJJNkltblFXRVlLVHFDV3VVSEMzSTVQRGJ6RURSX3luT0pzbnlleDRMb0h2UjliUHZBX3BZeU9LRmwtOElyRHBGX2o4aVhfSDI?oc=5"
+          "d": "azfamily.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdWF0M19qcm9wQTZmenN4UlpJYlI4WnZWaHNsRWlPX0EySmJ6N3ZzYjFZUkh4T1pTcGxJMGV0VFFCZkpxM2FTMHlMWWZRT1RkSVRXM1VteEpwRGRKd1JxQUpwOHMxazZyWnU4cWdaU0hOQmM3SnBEMzlCN0lVUzQtVk1NZw?oc=5"
         },
         {
-          "d": "+4"
+          "d": "+3"
         }
       ],
       "srcTitles": [
@@ -213,7 +238,7 @@
     },
     {
       "cat": "funding",
-      "signal": 36,
+      "signal": 32,
       "sources": 2,
       "ts": "2026-10-20T11:00:00.000Z",
       "writtenSources": 2,
@@ -244,8 +269,35 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-20T12:35:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The new economics of enterprise AI",
+      "s": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity become",
+      "b": [
+        "technologyreview.com: The new economics of enterprise AI",
+        "techmeme.com: Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027 (Dana Wollman/Bloomberg)"
+      ],
+      "body": [
+        "technologyreview.com: Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from can we use it? to how efficiently are we using it? Enterprise AI is going through the same shift. What began as isolated chatbot and copilot experiments is becoming a foundational layer of the business, with models, agents, and data increasingly interconnected in production workloads. The important question stops being what a token or GPU-hour costs. It becomes how efficiently the AI environment converts paid capacity into useful business outcomes. That s the metric worth tracking: effective cost per useful outcome — the total platform, model, operations, and capacity cost required to complete work the business can actually use, whether a resolved request or a completed workflow. Three ways to run AI Utilization is central to the economics. Directing more work to paid-for capacity lowers effective unit cost; idle GPUs, fragmented workloads, and oversized models all raise the cost of every useful result. Enterprises generally choose among three models: A bespoke stack — procuring infrastructure and controls in-house. This approach is flexible, but it creates a continuing burden, since teams must revalidate the environment as models and policies change. On-demand consumption — hyperscalers reduce the assembly burden and suit low or uncertain demand, but charges rise with every prompt or agent action. An integrated private AI platform — owned or dedicated capacity paired with a validated stack. The advantage isn t free inference; it s control over efficiency levers like scheduling, model selection, GPU partitioning, and cache management. The right model depends on the workload. APIs can be rational for experimentation or variable demand. As workloads become sustained and business-critical, enterpr",
+        "techmeme.com: Dana Wollman / Bloomberg : Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027 Salesforce Inc. has agreed to buy Braze Inc., an artificial intelligence-powered platform for marketers, for almost $5.7 billion in enterprise value."
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
+        }
+      ],
+      "srcTitles": [
+        "The new economics of enterprise AI"
+      ]
+    },
+    {
       "cat": "research",
-      "signal": 28,
+      "signal": 24,
       "sources": 2,
       "ts": "2026-10-20T15:01:00.000Z",
       "writtenSources": 2,
@@ -276,8 +328,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-20T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AI adoption by industry shows what other sectors can learn",
+      "s": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tec",
+      "b": [
+        "technologyreview.com: AI adoption by industry shows what other sectors can learn"
+      ],
+      "body": [
+        "technologyreview.com: The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably filter into healthcare, education, retail, and manufacturing. The variation in adoption rates today isn t a sign that non-tech industries are falling behind, but rather a reflection of the different speeds at which industries absorb new workflows. For leaders and their teams outside of tech, this differential pace provides a practical blueprint for how AI adoption unfolds, and where the opportunities lie. The AI adoption spectrum by industry Recent survey data from TripleTen highlights just how stark the current adoption curve is across different sectors of the economy (see Figure 1). Figure 1: The AI adoption curve remains steep across industries, but non-tech industry adoption rates are increasing. Source : TripleTen , 2026 While tech leads the way, finance emerges as a clear second: 48% of finance workers have been asked to use AI chatbots, and 32% have been asked to automate parts of their workflow. This demonstrates how rapidly knowledge work integrates AI once clear use cases emerge. By contrast, sectors like healthcare (18% asked to use chatbots) and education (25%) reflect lower initial exposure. Because these broad industry categories encompass a mix of specialized hands-on professionals, clinical or instructional personnel, and back-office administrative staff, universal adoption was never going to happen overnight. Integrating automated tools into compliance-heavy or human-facing operations requires a more deliberate pace, which is reflected by the lower numbers. The AI skills workers are being asked to learn Across all surveyed industries, 79% of workers report being asked to learn at l"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
+        }
+      ],
+      "srcTitles": [
+        "AI adoption by industry shows what other sectors can learn"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-10-20T04:00:00.000Z",
       "writtenSources": 2,
@@ -310,31 +387,6 @@
         "MELD: Recursive Self-Improvement via Hierarchical Coordination for Multi-Agent Scientific Discovery",
         "CVaR-RMD: CVaR Selection Pressure for Robust Metaheuristic Discovery",
         "Benefit-Targeted Routing and Bounded Revision for LLM-Based Evidence Screening in Manufacturing Supplier Discovery"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-10-20T12:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "AI adoption by industry shows what other sectors can learn",
-      "s": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tec",
-      "b": [
-        "technologyreview.com: AI adoption by industry shows what other sectors can learn"
-      ],
-      "body": [
-        "technologyreview.com: The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably filter into healthcare, education, retail, and manufacturing. The variation in adoption rates today isn t a sign that non-tech industries are falling behind, but rather a reflection of the different speeds at which industries absorb new workflows. For leaders and their teams outside of tech, this differential pace provides a practical blueprint for how AI adoption unfolds, and where the opportunities lie. The AI adoption spectrum by industry Recent survey data from TripleTen highlights just how stark the current adoption curve is across different sectors of the economy (see Figure 1). Figure 1: The AI adoption curve remains steep across industries, but non-tech industry adoption rates are increasing. Source : TripleTen , 2026 While tech leads the way, finance emerges as a clear second: 48% of finance workers have been asked to use AI chatbots, and 32% have been asked to automate parts of their workflow. This demonstrates how rapidly knowledge work integrates AI once clear use cases emerge. By contrast, sectors like healthcare (18% asked to use chatbots) and education (25%) reflect lower initial exposure. Because these broad industry categories encompass a mix of specialized hands-on professionals, clinical or instructional personnel, and back-office administrative staff, universal adoption was never going to happen overnight. Integrating automated tools into compliance-heavy or human-facing operations requires a more deliberate pace, which is reflected by the lower numbers. The AI skills workers are being asked to learn Across all surveyed industries, 79% of workers report being asked to learn at l"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
-        }
-      ],
-      "srcTitles": [
-        "AI adoption by industry shows what other sectors can learn"
       ]
     }
   ]
