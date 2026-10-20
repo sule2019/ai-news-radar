@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 60,
-      "sources": 2,
+      "signal": 69,
+      "sources": 3,
       "ts": "2026-10-20T00:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -24,12 +24,17 @@
           "u": "https://openai.com/index/openai-to-acquire-orchestra-bio"
         },
         {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/"
+        },
+        {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/261020/p34#a261020p34"
         }
       ],
       "srcTitles": [
         "OpenAI acquires Orchestra Bio",
+        "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
         "OpenAI acquires Orchestra Bio, which builds AI agents for managing drug development, and plans to integrate its tech into OpenAI life sciences suite Rosalind (Madison Mills/Axios)"
       ]
     },
@@ -63,38 +68,6 @@
       "srcTitles": [
         "Microsoft says AI agents are like insider threats as frontier models can t be trusted",
         "Honeypots for AI Agent Insider Threats"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 47,
-      "sources": 2,
-      "ts": "2026-10-20T09:40:02.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets (Bloomberg)",
-      "s": "Bloomberg : The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets Washington has blacklisted a ",
-      "b": [
-        "techmeme.com: The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets (Bloomberg)",
-        "iclg.com: US uses sanctions law to punish theft of Google AI secrets"
-      ],
-      "body": [
-        "techmeme.com: Bloomberg : The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets Washington has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties",
-        "iclg.com: US uses sanctions law to punish theft of Google AI secrets ICLG"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261020/p4#a261020p4"
-        },
-        {
-          "d": "iclg.com",
-          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzNwNEJzRjFtMXlVckVxdFhUNHpJOHMtSU5EdHhKOU5RTU04ZGk4cGNsOFhaZEctWlpKTmVJaWxaZkttTWxtcXduWTBmcFBtZ3Radk5rTUpycHpSV21kM0V6XzE3cXdHLVlvWmJ5c19pVmR4WjVmTHJNREVSckxfS1pwR3JZR1lk?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets (Bloomberg)",
-        "US uses sanctions law to punish theft of Google AI secrets"
       ]
     },
     {
@@ -148,8 +121,88 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 43,
+      "sources": 2,
+      "ts": "2026-10-20T09:40:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets (Bloomberg)",
+      "s": "Bloomberg : The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets Washington has blacklisted a ",
+      "b": [
+        "techmeme.com: The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets (Bloomberg)",
+        "iclg.com: US uses sanctions law to punish theft of Google AI secrets"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets Washington has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties",
+        "iclg.com: US uses sanctions law to punish theft of Google AI secrets ICLG"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261020/p4#a261020p4"
+        },
+        {
+          "d": "iclg.com",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzNwNEJzRjFtMXlVckVxdFhUNHpJOHMtSU5EdHhKOU5RTU04ZGk4cGNsOFhaZEctWlpKTmVJaWxaZkttTWxtcXduWTBmcFBtZ3Radk5rTUpycHpSV21kM0V6XzE3cXdHLVlvWmJ5c19pVmR4WjVmTHJNREVSckxfS1pwR3JZR1lk?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets (Bloomberg)",
+        "US uses sanctions law to punish theft of Google AI secrets"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 36,
+      "sources": 6,
+      "ts": "2026-10-20T13:43:31.000Z",
+      "writtenSources": 8,
+      "draft": true,
+      "h": "What happens when good AI goes bad? Researchers studying the tipping point",
+      "s": "What happens when good AI goes bad? Researchers studying the tipping point WDBJ7",
+      "b": [
+        "wdbj7.com: What happens when good AI goes bad? Researchers studying the tipping point",
+        "kktv.com: What happens when good AI goes bad?",
+        "kjct8.com: What happens when good AI goes bad?"
+      ],
+      "body": [
+        "wdbj7.com: What happens when good AI goes bad? Researchers studying the tipping point WDBJ7",
+        "kktv.com: What happens when good AI goes bad? KKTV",
+        "kjct8.com: What happens when good AI goes bad? KJCT",
+        "wdbj7.com: What happens when good AI goes bad? WDBJ7"
+      ],
+      "l": [
+        {
+          "d": "kptv.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSk05M0NEbDBtQU4zUTNOcGc3a3k0MF9ZMS1ocF81c25lbEhlY0ZqMnZvSjBkdTA5Ri0xZ0FhaGIwdWdFWFpoZnc5TWtScFppUXR6ak9kWUpXUEcyNDFYQVVJUFVWY1FONUc5Mlh1VV9yODdJY2RZNFRCWEJVMFpnbVpodjNEVlhuM1ljVHRXQ1ZEMVpPZy0yd1U4a2xmblhzS2NxLQ?oc=5"
+        },
+        {
+          "d": "kktv.com",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xMkd4djB1OHRITE5oVks2dHdVUVEtT0t6clJMWEduQXgyYXFBNFpLRkNIUWs4RWhhLVUwdXFWYW5tU18wU2tyaFUweXhCUUxaVFI1THB2Z1NOQnl6Z1I2ckJRMlRKNXZVTnBaV3p0Y2tsS1hfZ240Q2lYNUxIZw?oc=5"
+        },
+        {
+          "d": "kjct8.com",
+          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IV1RrLUlnM3kxWExjVnVlalRKb1duc0ZpTzFha0VOeWh1b1hLbEEtNm4yZDhOY2JDX296NUhCQlFSSC1hb0FzVnNCemRGRUxvNy1LMTduRXVUV3BJTXJwaWFDamFnRzdETTIxNXc3dExlZVFDaXYwbEFDOWZTSWM?oc=5"
+        },
+        {
+          "d": "azfamily.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdWF0M19qcm9wQTZmenN4UlpJYlI4WnZWaHNsRWlPX0EySmJ6N3ZzYjFZUkh4T1pTcGxJMGV0VFFCZkpxM2FTMHlMWWZRT1RkSVRXM1VteEpwRGRKd1JxQUpwOHMxazZyWnU4cWdaU0hOQmM3SnBEMzlCN0lVUzQtVk1NZw?oc=5"
+        },
+        {
+          "d": "+2"
+        }
+      ],
+      "srcTitles": [
+        "What happens when good AI goes bad? Researchers studying the tipping point",
+        "What happens when good AI goes bad?",
+        "What happens when good AI goes bad?",
+        "What happens when good AI goes bad?"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 39,
+      "signal": 35,
       "sources": 3,
       "ts": "2026-10-20T04:00:00.000Z",
       "writtenSources": 3,
@@ -190,55 +243,39 @@
     },
     {
       "cat": "research",
-      "signal": 37,
-      "sources": 7,
-      "ts": "2026-10-20T13:43:31.000Z",
-      "writtenSources": 8,
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-10-20T15:01:00.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "What happens when good AI goes bad? Researchers studying the tipping point",
-      "s": "What happens when good AI goes bad? Researchers studying the tipping point WDBJ7",
+      "h": "Researchers develop AI photo tool that estimates age, cancer survival",
+      "s": "Researchers develop AI photo tool that estimates age, cancer survival USA Today",
       "b": [
-        "wdbj7.com: What happens when good AI goes bad? Researchers studying the tipping point",
-        "kktv.com: What happens when good AI goes bad?",
-        "kjct8.com: What happens when good AI goes bad?"
+        "usatoday.com: Researchers develop AI photo tool that estimates age, cancer survival",
+        "yahoo.com: Researchers develop AI photo tool that estimates age, cancer survival"
       ],
       "body": [
-        "wdbj7.com: What happens when good AI goes bad? Researchers studying the tipping point WDBJ7",
-        "kktv.com: What happens when good AI goes bad? KKTV",
-        "kjct8.com: What happens when good AI goes bad? KJCT",
-        "wdbj7.com: What happens when good AI goes bad? WDBJ7"
+        "usatoday.com: Researchers develop AI photo tool that estimates age, cancer survival USA Today",
+        "yahoo.com: Researchers develop AI photo tool that estimates age, cancer survival Yahoo"
       ],
       "l": [
         {
-          "d": "kptv.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSk05M0NEbDBtQU4zUTNOcGc3a3k0MF9ZMS1ocF81c25lbEhlY0ZqMnZvSjBkdTA5Ri0xZ0FhaGIwdWdFWFpoZnc5TWtScFppUXR6ak9kWUpXUEcyNDFYQVVJUFVWY1FONUc5Mlh1VV9yODdJY2RZNFRCWEJVMFpnbVpodjNEVlhuM1ljVHRXQ1ZEMVpPZy0yd1U4a2xmblhzS2NxLQ?oc=5"
+          "d": "usatoday.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbmlvb01WdHZaa1V2dXNOM3hZdHBiQ0ttTk81aUZScGNSUVZoOWEwQ1ZhQXlvcmpxb0lweUtiZXdLMDE3eHh5WDFmSF9DZ2FTVktvTndYeXZYcVphMkNmeHZnd0VBdEcyX1VxSGRlSkNpb25rOHRrR3RUcTl3cXRBbmZfTVI4TDFMbHNXYURrd1J0akRQYnZma0RyQzl0NWx6WENXd1dnOHp2bjk2cU50R1Vva3NBQQ?oc=5"
         },
         {
-          "d": "kktv.com",
-          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xMkd4djB1OHRITE5oVks2dHdVUVEtT0t6clJMWEduQXgyYXFBNFpLRkNIUWs4RWhhLVUwdXFWYW5tU18wU2tyaFUweXhCUUxaVFI1THB2Z1NOQnl6Z1I2ckJRMlRKNXZVTnBaV3p0Y2tsS1hfZ240Q2lYNUxIZw?oc=5"
-        },
-        {
-          "d": "kjct8.com",
-          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IV1RrLUlnM3kxWExjVnVlalRKb1duc0ZpTzFha0VOeWh1b1hLbEEtNm4yZDhOY2JDX296NUhCQlFSSC1hb0FzVnNCemRGRUxvNy1LMTduRXVUV3BJTXJwaWFDamFnRzdETTIxNXc3dExlZVFDaXYwbEFDOWZTSWM?oc=5"
-        },
-        {
-          "d": "azfamily.com",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdWF0M19qcm9wQTZmenN4UlpJYlI4WnZWaHNsRWlPX0EySmJ6N3ZzYjFZUkh4T1pTcGxJMGV0VFFCZkpxM2FTMHlMWWZRT1RkSVRXM1VteEpwRGRKd1JxQUpwOHMxazZyWnU4cWdaU0hOQmM3SnBEMzlCN0lVUzQtVk1NZw?oc=5"
-        },
-        {
-          "d": "+3"
+          "d": "8am.media",
+          "u": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBYWkJ4YmkydWx0R05VZ3l0TTVTN1BjaUpGTnA4Ri1DMzNnYUd5c2xfVUFlQVhXVVV5cWRtNVU3YXVLQmdnUl9wb3Z5REtsYXJscWVWOVNTYmZyZw?oc=5"
         }
       ],
       "srcTitles": [
-        "What happens when good AI goes bad? Researchers studying the tipping point",
-        "What happens when good AI goes bad?",
-        "What happens when good AI goes bad?",
-        "What happens when good AI goes bad?"
+        "Researchers develop AI photo tool that estimates age, cancer survival",
+        "Authorship in the Age of AI"
       ]
     },
     {
       "cat": "funding",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-10-20T11:00:00.000Z",
       "writtenSources": 2,
@@ -270,7 +307,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-20T12:35:01.000Z",
       "writtenSources": 2,
@@ -293,38 +330,6 @@
       ],
       "srcTitles": [
         "The new economics of enterprise AI"
-      ]
-    },
-    {
-      "cat": "research",
-      "signal": 24,
-      "sources": 2,
-      "ts": "2026-10-20T15:01:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Researchers develop AI photo tool that estimates age, cancer survival",
-      "s": "Researchers develop AI photo tool that estimates age, cancer survival USA Today",
-      "b": [
-        "usatoday.com: Researchers develop AI photo tool that estimates age, cancer survival",
-        "yahoo.com: Researchers develop AI photo tool that estimates age, cancer survival"
-      ],
-      "body": [
-        "usatoday.com: Researchers develop AI photo tool that estimates age, cancer survival USA Today",
-        "yahoo.com: Researchers develop AI photo tool that estimates age, cancer survival Yahoo"
-      ],
-      "l": [
-        {
-          "d": "usatoday.com",
-          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbmlvb01WdHZaa1V2dXNOM3hZdHBiQ0ttTk81aUZScGNSUVZoOWEwQ1ZhQXlvcmpxb0lweUtiZXdLMDE3eHh5WDFmSF9DZ2FTVktvTndYeXZYcVphMkNmeHZnd0VBdEcyX1VxSGRlSkNpb25rOHRrR3RUcTl3cXRBbmZfTVI4TDFMbHNXYURrd1J0akRQYnZma0RyQzl0NWx6WENXd1dnOHp2bjk2cU50R1Vva3NBQQ?oc=5"
-        },
-        {
-          "d": "yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOblR0eV8tUzhWWHZPdmY5VTFETWN1QVhiV3JnYnFJRE0wb1R4Q3QyQTRIandsSGt3Wi1mLUxiNmV4bEZVaHNTcFVzT2dhajNhUm9BYXI0cU4xWllWd1AwS0E5MXRYZjFPdEFiSkNyNzBMdjFNMDRidm9YVGlSTTVody1ldHlOS3BSWVVrLW42bWpQTHhma2NJ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Researchers develop AI photo tool that estimates age, cancer survival",
-        "Researchers develop AI photo tool that estimates age, cancer survival"
       ]
     },
     {
@@ -354,7 +359,7 @@
     },
     {
       "cat": "policy",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-10-20T04:00:00.000Z",
       "writtenSources": 2,
