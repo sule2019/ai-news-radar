@@ -2,38 +2,6 @@
   "date": "2026-10-20",
   "stories": [
     {
-      "cat": "policy",
-      "signal": 59,
-      "sources": 2,
-      "ts": "2026-10-20T09:40:02.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets (Bloomberg)",
-      "s": "Bloomberg : The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets Washington has blacklisted a ",
-      "b": [
-        "techmeme.com: The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets (Bloomberg)",
-        "iclg.com: US uses sanctions law to punish theft of Google AI secrets"
-      ],
-      "body": [
-        "techmeme.com: Bloomberg : The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets Washington has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties",
-        "iclg.com: US uses sanctions law to punish theft of Google AI secrets ICLG"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261020/p4#a261020p4"
-        },
-        {
-          "d": "iclg.com",
-          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzNwNEJzRjFtMXlVckVxdFhUNHpJOHMtSU5EdHhKOU5RTU04ZGk4cGNsOFhaZEctWlpKTmVJaWxaZkttTWxtcXduWTBmcFBtZ3Radk5rTUpycHpSV21kM0V6XzE3cXdHLVlvWmJ5c19pVmR4WjVmTHJNREVSckxfS1pwR3JZR1lk?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets (Bloomberg)",
-        "US uses sanctions law to punish theft of Google AI secrets"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 56,
       "sources": 2,
@@ -66,8 +34,40 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 55,
+      "sources": 2,
+      "ts": "2026-10-20T09:40:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets (Bloomberg)",
+      "s": "Bloomberg : The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets Washington has blacklisted a ",
+      "b": [
+        "techmeme.com: The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets (Bloomberg)",
+        "iclg.com: US uses sanctions law to punish theft of Google AI secrets"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets Washington has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties",
+        "iclg.com: US uses sanctions law to punish theft of Google AI secrets ICLG"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261020/p4#a261020p4"
+        },
+        {
+          "d": "iclg.com",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzNwNEJzRjFtMXlVckVxdFhUNHpJOHMtSU5EdHhKOU5RTU04ZGk4cGNsOFhaZEctWlpKTmVJaWxaZkttTWxtcXduWTBmcFBtZ3Radk5rTUpycHpSV21kM0V6XzE3cXdHLVlvWmJ5c19pVmR4WjVmTHJNREVSckxfS1pwR3JZR1lk?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The US sanctions MiraclePlus, a Chinese VC firm founded by ex-Microsoft executive Lu Qi, over alleged ties to Zhisuan, accused of stealing Google's AI secrets (Bloomberg)",
+        "US uses sanctions law to punish theft of Google AI secrets"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-10-20T09:00:00.000Z",
       "writtenSources": 1,
@@ -88,6 +88,136 @@
       ],
       "srcTitles": [
         "A visit to Samsung’s massive new semiconductor hub"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 43,
+      "sources": 3,
+      "ts": "2026-10-20T04:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+      "s": "Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+      "b": [
+        "techcrunch.com: Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+        "techmeme.com: Eka Robotics, which is developing a \"vision-force-action\" architecture for its physical AI models, raised a $150M Series A at a $1.45B post-money valuation (Tim Fernholz/TechCrunch)",
+        "arxiv.org: Robotic Photography System based on Vision-Language-Action Model"
+      ],
+      "body": [
+        "techcrunch.com: Eka Robotics may be the first robotic arm that is actually good at picking a wide range of objects up, and it is so smooth and human-like, it is wowing the industry.",
+        "techmeme.com: Tim Fernholz / TechCrunch : Eka Robotics, which is developing a vision-force-action architecture for its physical AI models, raised a $150M Series A at a $1.45B post-money valuation Robots still aren't that good at picking things up, despite billions of dollars of investment and endless videos fed into deep learning models.",
+        "arxiv.org: arXiv:2610.26287v1 Announce Type: cross Abstract: Modern robotic photography requires understanding photographic intent, planning camera motions, and producing aesthetically pleasing images in complex environments. We present RoboPhoto-VLA, a unified Vision-Language-Action framework that jointly models perception, reasoning, and camera control for autonomous robotic photography. RoboPhoto-VLA incorporates PhotoCoT for structured action planning and Aesthetic Direct Preference Optimization (ADPO) to align camera behaviors with human aesthetic preferences. To facilitate training and evaluation, we construct OpenPhotography, a robotic photography dataset with language-guided demonstrations. Extensive real-world experiments demonstrate that RoboPhoto-VLA produces photographs better aligned with human aesthetic preferences while generalizing effectively to unseen subjects, viewpoints, poses, and complex photographic instructions.",
+        "arxiv.org: arXiv:2610.26487v1 Announce Type: cross Abstract: The limited onboard computing resources of robots make the inference demands of vision-language-action (VLA) models costly to accommodate. Reducing these demands through aggressive compression, however, can degrade manipulation performance beyond what supervised fine-tuning alone recovers. We present SPAR (Structural Pruning and Action Recovery), which simultaneously prunes the hidden and feed-forward intermediate dimensions of the large language model (LLM) backbone through pruning-aware tuning, then applies reinforcement learning (RL) to recover policy performance. Applied to $\\pi_{0.5}$, SPAR reduces the language backbone from 2.34B to 0.09B parameters and the full model from 3.37B to 1.12B, removing approximately 96% and 67% of their parameters, respectively. At this compression level, RL raises average success across the four LIBERO suites from 84.55% to 93.45%, an 8.90-percentage-point gain. The compressed policy achieves a $1.98\\times$ full-policy inference speedup over the unpruned model. These results identify substantial intermediate-dimension redundancy and show that post-pruning RL can recover manipulation performance in compact policies."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261020/p22#a261020p22"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.26287"
+        }
+      ],
+      "srcTitles": [
+        "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
+        "Eka Robotics, which is developing a \"vision-force-action\" architecture for its physical AI models, raised a $150M Series A at a $1.45B post-money valuation (Tim Fernholz/TechCrunch)",
+        "Robotic Photography System based on Vision-Language-Action Model",
+        "SPAR: Structural Pruning and Action Recovery for Vision-Language-Action Models"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-10-20T11:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Otter.ai raises $320 million from General Catalyst s growth fund for its meeting tool",
+      "s": "Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst s Customer Value Fund (CVF), which provides capital to startups without diluting equity and",
+      "b": [
+        "techcrunch.com: Otter.ai raises $320 million from General Catalyst s growth fund for its meeting tool",
+        "techmeme.com: Note-taking tool Otter.ai raised $320M in non-dilutive capital from General Catalyst's Customer Value Fund; PitchBook says it raised $50M prior to this round (Ivan Mehta/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst s Customer Value Fund (CVF), which provides capital to startups without diluting equity and gets returns on the results of marketing spend. Otter.ai said that it will use these funds for enterprise growth, go-to-market strategy, international expansion, and product innovation. [ ]",
+        "techmeme.com: Ivan Mehta / TechCrunch : Note-taking tool Otter.ai raised $320M in non-dilutive capital from General Catalyst's Customer Value Fund; PitchBook says it raised $50M prior to this round Meeting note-taking tool Otter.ai announced on Tuesday that it has raised $320 million from General Catalyst's Customer Value Fund"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/20/otter-ai-raises-320-million-from-general-catalysts-growth-fund-for-its-meeting-tool/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261020/p16#a261020p16"
+        }
+      ],
+      "srcTitles": [
+        "Otter.ai raises $320 million from General Catalyst s growth fund for its meeting tool",
+        "Note-taking tool Otter.ai raised $320M in non-dilutive capital from General Catalyst's Customer Value Fund; PitchBook says it raised $50M prior to this round (Ivan Mehta/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-10-20T15:01:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Researchers develop AI photo tool that estimates age, cancer survival",
+      "s": "Researchers develop AI photo tool that estimates age, cancer survival USA Today",
+      "b": [
+        "usatoday.com: Researchers develop AI photo tool that estimates age, cancer survival",
+        "yahoo.com: Researchers develop AI photo tool that estimates age, cancer survival"
+      ],
+      "body": [
+        "usatoday.com: Researchers develop AI photo tool that estimates age, cancer survival USA Today",
+        "yahoo.com: Researchers develop AI photo tool that estimates age, cancer survival Yahoo"
+      ],
+      "l": [
+        {
+          "d": "usatoday.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbmlvb01WdHZaa1V2dXNOM3hZdHBiQ0ttTk81aUZScGNSUVZoOWEwQ1ZhQXlvcmpxb0lweUtiZXdLMDE3eHh5WDFmSF9DZ2FTVktvTndYeXZYcVphMkNmeHZnd0VBdEcyX1VxSGRlSkNpb25rOHRrR3RUcTl3cXRBbmZfTVI4TDFMbHNXYURrd1J0akRQYnZma0RyQzl0NWx6WENXd1dnOHp2bjk2cU50R1Vva3NBQQ?oc=5"
+        },
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOblR0eV8tUzhWWHZPdmY5VTFETWN1QVhiV3JnYnFJRE0wb1R4Q3QyQTRIandsSGt3Wi1mLUxiNmV4bEZVaHNTcFVzT2dhajNhUm9BYXI0cU4xWllWd1AwS0E5MXRYZjFPdEFiSkNyNzBMdjFNMDRidm9YVGlSTTVody1ldHlOS3BSWVVrLW42bWpQTHhma2NJ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Researchers develop AI photo tool that estimates age, cancer survival",
+        "Researchers develop AI photo tool that estimates age, cancer survival"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-20T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AI adoption by industry shows what other sectors can learn",
+      "s": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tec",
+      "b": [
+        "technologyreview.com: AI adoption by industry shows what other sectors can learn"
+      ],
+      "body": [
+        "technologyreview.com: The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line. As generative AI and automation tools mature, the shifts currently reshaping software engineering and product management will inevitably filter into healthcare, education, retail, and manufacturing. The variation in adoption rates today isn t a sign that non-tech industries are falling behind, but rather a reflection of the different speeds at which industries absorb new workflows. For leaders and their teams outside of tech, this differential pace provides a practical blueprint for how AI adoption unfolds, and where the opportunities lie. The AI adoption spectrum by industry Recent survey data from TripleTen highlights just how stark the current adoption curve is across different sectors of the economy (see Figure 1). Figure 1: The AI adoption curve remains steep across industries, but non-tech industry adoption rates are increasing. Source : TripleTen , 2026 While tech leads the way, finance emerges as a clear second: 48% of finance workers have been asked to use AI chatbots, and 32% have been asked to automate parts of their workflow. This demonstrates how rapidly knowledge work integrates AI once clear use cases emerge. By contrast, sectors like healthcare (18% asked to use chatbots) and education (25%) reflect lower initial exposure. Because these broad industry categories encompass a mix of specialized hands-on professionals, clinical or instructional personnel, and back-office administrative staff, universal adoption was never going to happen overnight. Integrating automated tools into compliance-heavy or human-facing operations requires a more deliberate pace, which is reflected by the lower numbers. The AI skills workers are being asked to learn Across all surveyed industries, 79% of workers report being asked to learn at l"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/"
+        }
+      ],
+      "srcTitles": [
+        "AI adoption by industry shows what other sectors can learn"
       ]
     }
   ]
