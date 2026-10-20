@@ -34,8 +34,40 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-10-20T12:35:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The new economics of enterprise AI",
+      "s": "Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity become",
+      "b": [
+        "technologyreview.com: The new economics of enterprise AI",
+        "techmeme.com: Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027 (Dana Wollman/Bloomberg)"
+      ],
+      "body": [
+        "technologyreview.com: Imagine your company just discovered electricity. At first only a few machines run on it, and nobody worries about efficiency — consumption is low and the value is obvious. But once electricity becomes infrastructure, every process depends on it, and the question changes from can we use it? to how efficiently are we using it? Enterprise AI is going through the same shift. What began as isolated chatbot and copilot experiments is becoming a foundational layer of the business, with models, agents, and data increasingly interconnected in production workloads. The important question stops being what a token or GPU-hour costs. It becomes how efficiently the AI environment converts paid capacity into useful business outcomes. That s the metric worth tracking: effective cost per useful outcome — the total platform, model, operations, and capacity cost required to complete work the business can actually use, whether a resolved request or a completed workflow. Three ways to run AI Utilization is central to the economics. Directing more work to paid-for capacity lowers effective unit cost; idle GPUs, fragmented workloads, and oversized models all raise the cost of every useful result. Enterprises generally choose among three models: A bespoke stack — procuring infrastructure and controls in-house. This approach is flexible, but it creates a continuing burden, since teams must revalidate the environment as models and policies change. On-demand consumption — hyperscalers reduce the assembly burden and suit low or uncertain demand, but charges rise with every prompt or agent action. An integrated private AI platform — owned or dedicated capacity paired with a validated stack. The advantage isn t free inference; it s control over efficiency levers like scheduling, model selection, GPU partitioning, and cache management. The right model depends on the workload. APIs can be rational for experimentation or variable demand. As workloads become sustained and business-critical, enterpr",
+        "techmeme.com: Dana Wollman / Bloomberg : Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027 Salesforce Inc. has agreed to buy Braze Inc., an artificial intelligence-powered platform for marketers, for almost $5.7 billion in enterprise value."
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/20/1146937/the-new-economics-of-enterprise-ai/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261020/p20#a261020p20"
+        }
+      ],
+      "srcTitles": [
+        "The new economics of enterprise AI",
+        "Salesforce agrees to acquire AI-powered marketing platform Braze for nearly $5.7B in enterprise value, paying $47.50 per share, set to close from February 2027 (Dana Wollman/Bloomberg)"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 55,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-10-20T09:40:02.000Z",
       "writtenSources": 2,
@@ -132,8 +164,56 @@
       ]
     },
     {
+      "cat": "research",
+      "signal": 41,
+      "sources": 8,
+      "ts": "2026-10-20T13:43:31.000Z",
+      "writtenSources": 8,
+      "draft": true,
+      "h": "What happens when good AI goes bad? Researchers studying the tipping point",
+      "s": "What happens when good AI goes bad? Researchers studying the tipping point WDBJ7",
+      "b": [
+        "wdbj7.com: What happens when good AI goes bad? Researchers studying the tipping point",
+        "kktv.com: What happens when good AI goes bad?",
+        "kjct8.com: What happens when good AI goes bad?"
+      ],
+      "body": [
+        "wdbj7.com: What happens when good AI goes bad? Researchers studying the tipping point WDBJ7",
+        "kktv.com: What happens when good AI goes bad? KKTV",
+        "kjct8.com: What happens when good AI goes bad? KJCT",
+        "wdbj7.com: What happens when good AI goes bad? WDBJ7"
+      ],
+      "l": [
+        {
+          "d": "wdbj7.com",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZ2p1QjNwTmtOcGpkNzNNVkZLeWRaZzhmdmhNMVdrYW1vS0NsV2JRR0lQUzFYdVFGUTlDa0lscjRQRnpvdTBSX1VoUS1uV3ZzcE4xWm1HUXZMY2hfVTJYaUprQ3VyaHJOZVM5RlpYWV9RVGRWUFBicmw1OGpXeUtadEI2VzFVWHZTMXo5SlhBa1NORmpGTzc3aU40RXFNMjV4MXYxOUFB?oc=5"
+        },
+        {
+          "d": "kktv.com",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5xMkd4djB1OHRITE5oVks2dHdVUVEtT0t6clJMWEduQXgyYXFBNFpLRkNIUWs4RWhhLVUwdXFWYW5tU18wU2tyaFUweXhCUUxaVFI1THB2Z1NOQnl6Z1I2ckJRMlRKNXZVTnBaV3p0Y2tsS1hfZ240Q2lYNUxIZw?oc=5"
+        },
+        {
+          "d": "kjct8.com",
+          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IV1RrLUlnM3kxWExjVnVlalRKb1duc0ZpTzFha0VOeWh1b1hLbEEtNm4yZDhOY2JDX296NUhCQlFSSC1hb0FzVnNCemRGRUxvNy1LMTduRXVUV3BJTXJwaWFDamFnRzdETTIxNXc3dExlZVFDaXYwbEFDOWZTSWM?oc=5"
+        },
+        {
+          "d": "kgns.tv",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05Sm9zbm1hWG5oWDNJMFB0TXBwX3B3d042LVdGMjhSa0JPQXlSX0tpU1NyUXJJNkltblFXRVlLVHFDV3VVSEMzSTVQRGJ6RURSX3luT0pzbnlleDRMb0h2UjliUHZBX3BZeU9LRmwtOElyRHBGX2o4aVhfSDI?oc=5"
+        },
+        {
+          "d": "+4"
+        }
+      ],
+      "srcTitles": [
+        "What happens when good AI goes bad? Researchers studying the tipping point",
+        "What happens when good AI goes bad?",
+        "What happens when good AI goes bad?",
+        "What happens when good AI goes bad?"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 39,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-10-20T11:00:00.000Z",
       "writtenSources": 2,
@@ -165,7 +245,7 @@
     },
     {
       "cat": "research",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-10-20T15:01:00.000Z",
       "writtenSources": 2,
@@ -196,8 +276,45 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-20T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "From discovery to orchestration - how AI is reshaping the channel marketplace",
+      "s": "From discovery to orchestration - how AI is reshaping the channel marketplace IT Pro",
+      "b": [
+        "itpro.com: From discovery to orchestration - how AI is reshaping the channel marketplace",
+        "arxiv.org: MELD: Recursive Self-Improvement via Hierarchical Coordination for Multi-Agent Scientific Discovery",
+        "arxiv.org: CVaR-RMD: CVaR Selection Pressure for Robust Metaheuristic Discovery"
+      ],
+      "body": [
+        "itpro.com: From discovery to orchestration - how AI is reshaping the channel marketplace IT Pro",
+        "arxiv.org: arXiv:2610.24454v1 Announce Type: new Abstract: Multi-agent scientific discovery with large language models raises a coupled learning problem: research assignments determine both which experiments are pursued and the experiences from which agents adapt. We introduce MELD, a unified hierarchical test-time training framework that jointly adapts a team-level Coordinator policy and agent-level individual Scientist policies within a single discovery process. The Coordinator generates a joint portfolio of search branches and research directives over a shared derivation tree, while Scientists develop hypotheses and execution plans implemented by a shared frozen Executor. Both levels receive alternating GRPO-style parameter updates under a shared smooth best-of-budget objective, allowing team organization and individual research behavior to co-evolve in a recursive self-improvement loop. Our analysis establishes objective alignment for the hierarchy, characterizes conditions for coordination gains over independent parallel discovery and the first-order benefit of private adaptation, and derives a finite-budget regret bound for adapted models. On 22 MLGym and MLE-bench tasks, MELD is best on 20 of them and achieves the highest aggregate normalized scores on MLGym, using a 4B backbone for coordination and research. Most baselines use proprietary Scientists, and all systems share one frozen Executor.",
+        "arxiv.org: arXiv:2610.25697v1 Announce Type: new Abstract: Large language models have recently been used to discover heuristics through iterative program search, offering a promising approach to automated algorithm design. However, candidates selected by average performance may degrade across instance families, random seeds, and problem scales because mean-based objectives can obscure rare but severe failures. We propose CVaR-RMD, a risk-sensitive evolutionary framework that uses an LLM to mutate executable heuristic programs and ranks candidates by empirical conditional value-at-risk over heterogeneous evaluation conditions. Across three combinatorial optimization domains, CVaR-based selection improves upper-tail performance and reduces failure rates while maintaining competitive mean performance. These gains persist on larger unseen instances and independently curated within-domain benchmarks",
+        "arxiv.org: arXiv:2610.25867v1 Announce Type: new Abstract: An evidence-review system must allocate additional model judgments and control their use. We study these software decisions on 6,164 frozen manufacturing source-task pairs. Benefit-targeted routing learns recovered agreement minus newly introduced disagreement. On the original 300-case test, 60 consultations yield 202/231 agreements with two human references versus 189/218 for a logistic-risk router. An additional 300 cases were independently annotated twice using equal frozen evidence. Without retraining the historical policies, the corresponding counts are 164/190 versus 163/193; the differences do not resolve an advantage. Strict scalar-Ridge controls share preprocessing, regularization and fitting, and remain inconclusive. Quotation and requested-state replacement gates retain rejected cases and budget costs; their joint gate rejects one original and two additional consultations without changing primary outcomes. Evidence ablations, fusion and bounded updates supply further controls. A completed 200-pair identity audit yields 97.45 percent weighted merge precision after eight author adjudications. This audits a provisional map, while prospective company-disjoint performance remains untested."
+      ],
+      "l": [
+        {
+          "d": "itpro.com",
+          "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMVhncnZqOUZoZlVYcTBOUFRHUWlEMkU5Wk1yVWtiTFhGbWI5OFZwaTFZNWVmdExDWU15U0ZhUklfcDFwUGcweW5KeGVaMlpkWHZrbGNsNWVUdTdRTGFvSkpXS0hGNFZILWRqWlctZl95Tk1jYnY3YjFXaUtfWlVBTjdFUzNjWmd2cW1DQ1ZkLWo3bVFUS0M0OGtNOGx4MGlXRGxSLXEtS21rdkxyaUkwYktRNl8weWRRM1c2cHljajF0NTl1VjJ3NDJIQWw?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.24454"
+        }
+      ],
+      "srcTitles": [
+        "From discovery to orchestration - how AI is reshaping the channel marketplace",
+        "MELD: Recursive Self-Improvement via Hierarchical Coordination for Multi-Agent Scientific Discovery",
+        "CVaR-RMD: CVaR Selection Pressure for Robust Metaheuristic Discovery",
+        "Benefit-Targeted Routing and Bounded Revision for LLM-Based Evidence Screening in Manufacturing Supplier Discovery"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-20T12:00:00.000Z",
       "writtenSources": 1,
