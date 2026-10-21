@@ -3,6 +3,70 @@
   "stories": [
     {
       "cat": "funding",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-10-21T10:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+      "s": "It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+      "b": [
+        "wired.com: OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+        "techmeme.com: Coherence Neuro, which is developing AI models and brain implants to help combat brain tumors, raised a $45M seed from the OpenAI Startup Fund and Founders Fund (Emily Mullin/Wired)"
+      ],
+      "body": [
+        "wired.com: It’s the latest in a growing wave of bets that AI companies are making on brain data.",
+        "techmeme.com: Emily Mullin / Wired : Coherence Neuro, which is developing AI models and brain implants to help combat brain tumors, raised a $45M seed from the OpenAI Startup Fund and Founders Fund It's the latest in a growing wave of bets that AI companies are making on brain data. OpenAI's venture capital arm"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/openai-startup-brain-implants-detect-cancer/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261021/p15#a261021p15"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
+        "Coherence Neuro, which is developing AI models and brain implants to help combat brain tumors, raised a $45M seed from the OpenAI Startup Fund and Founders Fund (Emily Mullin/Wired)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-10-21T12:00:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April (Jordan Novet/CNBC)",
+      "s": "Jordan Novet / CNBC : OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April OpenAI will make ",
+      "b": [
+        "techmeme.com: OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April (Jordan Novet/CNBC)",
+        "cnbc.com: OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft"
+      ],
+      "body": [
+        "techmeme.com: Jordan Novet / CNBC : OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April OpenAI will make its artificial intelligence models available for developers through Google's cloud, following years of competition between the two companies.",
+        "cnbc.com: OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft CNBC"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261021/p21#a261021p21"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXhvUlpRaDlhdjFIa3BDYy12MFBILU1vZFNfa0ZKUlV6cERUd1lVUWtEbEFVcTAxRlVuaGJFTENlYUtyOFloTlhRZ1QwTW5zOUd2UXFwT1pjS0FhX2NfT0R4MUJpNVZ6Z3ItZ05WRklZN2tSX2NUdkhsckYyM1FHbjM4Mi1WeTNvdUI5MkR0LXphNWs5UHFUZGxENXE4NWliZkdQeXR5eW7SAa4BQVVfeXFMTUhXVUF3ZHRsOGJpRnlGR2dKT2FWdk5oaW5zTzVJN1E5aEt5eGM4Wmtyei00T2F4dFBMSm5CWGR1WjYzU3BpVWpKUjdNZkltS3VzdkYyMDNMZWtCbnQwZHUtMVV5dTdmZF9tcVpnVW52aGlqNGJzNlJvaDJyZXRMR19QN293Tzk2NnV0NXVwUmxBUUx6TTA2aDMzaUlTc20zWFg2UkhfdnhCUnpnMm9R?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April (Jordan Novet/CNBC)",
+        "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft"
+      ]
+    },
+    {
+      "cat": "funding",
       "signal": 24,
       "sources": 1,
       "ts": "2026-10-21T04:00:00.000Z",
