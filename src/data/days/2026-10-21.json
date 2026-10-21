@@ -2,9 +2,48 @@
   "date": "2026-10-21",
   "stories": [
     {
-      "cat": "products",
-      "signal": 67,
+      "cat": "research",
+      "signal": 68,
       "sources": 3,
+      "ts": "2026-10-21T19:53:20.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Anthropic takes on Muse with Claude Duet, its new AI agent",
+      "s": "Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,",
+      "b": [
+        "theverge.com: Anthropic takes on Muse with Claude Duet, its new AI agent",
+        "techmeme.com: Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users (Claude)",
+        "cnbc.com: Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots"
+      ],
+      "body": [
+        "theverge.com: Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude Duet. The new agent, designed for professionals and small business owners, is launching as a \"research preview,\" according to Anthropic, and it's available as a standalone app on iOS and Android and through Claude on the web. The AI agent is [ ]",
+        "techmeme.com: Claude : Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users A research preview is available by waitlist today, starting with US Pro and Max subscribers. Join the waitlist ShareCopy link",
+        "cnbc.com: Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots CNBC"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261021/p49#a261021p49"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSFZYTW81ai1KaU91ZGZUV1VlUkFrRkVfWVpraWlRMl9rWXJnUXV2cnZ3dlFBUUtCeldidHR0MVhJdmY3MGVzSzZDYnYxODNQNXdxS1Z5ZVNIcHd4bklybjBOR3hQeEhwUkFBVW1WdVA1Q0V2WTZfbFAwSVdPcVRKdG5jc3dhYzZiYm01X1hqbDR2ZlVtblF6NmZUWVV0TFlVSkZJWHJUeG_SAa4BQVVfeXFMUDZ1eGN2Uncyczl3by1yNFAxQlJfd2JmSDBaX05QaEpFb0tGY3FJWGY4R2RzcXBRMXRYdzFhTWFIVEluT0I5MExZZG9hX3U0MXliVFJYS3hxN0FtME5obUdWOW9CZTBYdkpsVXFHN2d1VXp2VVI2NG5BNFF4MkEwLTlmZkVWZ016RkRtRHNsUi1RSEVERG1SNzB2aFlVLXFNSF80dEtDUnNZN05RSlh3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic takes on Muse with Claude Duet, its new AI agent",
+        "Anthropic unveils Claude Duet, a proactive agent app on iOS, Android, and the web that works in the background, in research preview for US Pro and Max users (Claude)",
+        "Anthropic announces preview of Claude Duet, a personal AI agent to take on Muse, Dots"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 60,
+      "sources": 2,
       "ts": "2026-10-21T12:00:02.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -26,16 +65,11 @@
         {
           "d": "arstechnica.com",
           "u": "https://arstechnica.com/ai/2026/10/openais-latest-ai-models-are-coming-to-google-cloud-and-antigravity/"
-        },
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdFFsdzRKaWF5b0syQTJoaHAwSGZwSnk3OVZmYUtWekZJUlAzQkNTeURnRURjVlFXdVRVM0VHbWNLSjlnZUx3TXdnUzU4SUV0ajR1WGU1X2g0UzNqUndOcEtkVE1RWnpmei05TFpmdEdPd3FhRjJieTlNbWNqdkwxelp3azhUdl9QdnN6YU1TNFhFNUZCY2E1eVNmOGlORHl1SjVZV0Vnb1ZjZVBKdU9F?oc=5"
         }
       ],
       "srcTitles": [
         "OpenAI models are coming to Google Cloud",
-        "OpenAI s latest AI models are coming to Google Cloud and Antigravity",
-        "OpenAI Brings Its Frontier AI Models to Google Cloud"
+        "OpenAI s latest AI models are coming to Google Cloud and Antigravity"
       ]
     },
     {
@@ -72,7 +106,7 @@
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-10-21T13:57:43.000Z",
       "writtenSources": 2,
@@ -104,7 +138,7 @@
     },
     {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-10-21T17:00:00.000Z",
       "writtenSources": 1,
@@ -128,8 +162,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-21T07:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "s": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "b": [
+        "openai.com: How we built ChatGPT’s novel ad stack for user trust and relevance"
+      ],
+      "body": [
+        "openai.com: Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/building-chatgpt-ad-stack"
+        }
+      ],
+      "srcTitles": [
+        "How we built ChatGPT’s novel ad stack for user trust and relevance"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-10-21T10:30:00.000Z",
       "writtenSources": 2,
@@ -160,33 +219,40 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-10-21T07:00:00.000Z",
-      "writtenSources": 1,
+      "cat": "products",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-10-21T19:30:00.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "How we built ChatGPT’s novel ad stack for user trust and relevance",
-      "s": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale.",
+      "h": "Walmart is inviting AI agents to shop for you",
+      "s": "Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review p",
       "b": [
-        "openai.com: How we built ChatGPT’s novel ad stack for user trust and relevance"
+        "theverge.com: Walmart is inviting AI agents to shop for you",
+        "lemonde.fr: Walmart unveils tools allowing AI agents to shop for customers"
       ],
       "body": [
-        "openai.com: Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale."
+        "theverge.com: Walmart will soon let AI agents shop on its website for you. Next month, the retail giant will allow you to connect your own AI agent to the site, with systems in place to let you approve and review purchases and set spending limits. The embrace of AI agents stands in stark contrast to Amazon, [ ]",
+        "lemonde.fr: Walmart unveils tools allowing AI agents to shop for customers Le Monde.fr"
       ],
       "l": [
         {
-          "d": "openai.com",
-          "u": "https://openai.com/index/building-chatgpt-ad-stack"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1015715/walmart-ai-shopping-agents"
+        },
+        {
+          "d": "lemonde.fr",
+          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONUhOU1BONzZmZHJsa0thYXhuNWZ1enBCZ3FOaXpaNUg4NjRSX2dsWmFfalZlNl9Sald4YVhzREhpeXpGeV8tNG1TOG9OT0puYWNLMWpxQWRycXZzUmkwa19CcDV5aDY5SWI0clEtZ1JBNTRkN1RmVDR2cm5MRVJmVkZrTkFmQjFMbXhESFNIU1p5VzY2TndhZDhYM2x3ZmxHNEFDNkM5V2gwNVB0QUZMLWVYOEZBZWl2Sy1iMWhhajRraW45bm9ROTVqNA?oc=5"
         }
       ],
       "srcTitles": [
-        "How we built ChatGPT’s novel ad stack for user trust and relevance"
+        "Walmart is inviting AI agents to shop for you",
+        "Walmart unveils tools allowing AI agents to shop for customers"
       ]
     },
     {
       "cat": "products",
-      "signal": 39,
+      "signal": 35,
       "sources": 2,
       "ts": "2026-10-21T16:35:02.000Z",
       "writtenSources": 2,
@@ -214,6 +280,31 @@
       "srcTitles": [
         "Recursive launches Flint, a laptop coding model it says was largely built by AI",
         "Recursive releases Flint, an open-weight, 40B-parameter coding model developed with its Eureka Machine AI system, which automated most of the development (Will Knight/Wired)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-10-21T21:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Broad access through consistent standards",
+      "s": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
+      "b": [
+        "openai.com: Broad access through consistent standards"
+      ],
+      "body": [
+        "openai.com: How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/broad-access-through-consistent-standards"
+        }
+      ],
+      "srcTitles": [
+        "Broad access through consistent standards"
       ]
     },
     {
@@ -351,7 +442,7 @@
     },
     {
       "cat": "policy",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-10-21T13:09:19.000Z",
       "writtenSources": 2,
