@@ -72,7 +72,7 @@
     },
     {
       "cat": "models",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-10-21T13:57:43.000Z",
       "writtenSources": 2,
@@ -103,8 +103,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-10-21T17:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How AT&T is rethinking in-house legal work with OpenAI",
+      "s": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
+      "b": [
+        "openai.com: How AT&T is rethinking in-house legal work with OpenAI"
+      ],
+      "body": [
+        "openai.com: AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/att-legal"
+        }
+      ],
+      "srcTitles": [
+        "How AT&T is rethinking in-house legal work with OpenAI"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 52,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-10-21T10:30:00.000Z",
       "writtenSources": 2,
@@ -136,31 +161,6 @@
     },
     {
       "cat": "models",
-      "signal": 49,
-      "sources": 1,
-      "ts": "2026-10-21T17:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "How AT&T is rethinking in-house legal work with OpenAI",
-      "s": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "b": [
-        "openai.com: How AT&T is rethinking in-house legal work with OpenAI"
-      ],
-      "body": [
-        "openai.com: AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/att-legal"
-        }
-      ],
-      "srcTitles": [
-        "How AT&T is rethinking in-house legal work with OpenAI"
-      ]
-    },
-    {
-      "cat": "models",
       "signal": 46,
       "sources": 1,
       "ts": "2026-10-21T07:00:00.000Z",
@@ -185,35 +185,67 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 25,
+      "cat": "products",
+      "signal": 39,
       "sources": 2,
-      "ts": "2026-10-21T13:09:19.000Z",
+      "ts": "2026-10-21T16:35:02.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Brown Introduces Legislation to Require Labels on AI-Generated Campaign Content",
-      "s": "Brown Introduces Legislation to Require Labels on AI-Generated Campaign Content Representative Shontel Brown | (.gov)",
+      "h": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "s": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
       "b": [
-        "shontelbrown.house.gov: Brown Introduces Legislation to Require Labels on AI-Generated Campaign Content",
-        "spectrumnews1.com: Shontel Brown introduces legislation to regulate AI-generated campaign content"
+        "techcrunch.com: Recursive launches Flint, a laptop coding model it says was largely built by AI",
+        "techmeme.com: Recursive releases Flint, an open-weight, 40B-parameter coding model developed with its Eureka Machine AI system, which automated most of the development (Will Knight/Wired)"
       ],
       "body": [
-        "shontelbrown.house.gov: Brown Introduces Legislation to Require Labels on AI-Generated Campaign Content Representative Shontel Brown | (.gov)",
-        "spectrumnews1.com: Shontel Brown introduces legislation to regulate AI-generated campaign content Spectrum News"
+        "techcrunch.com: Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+        "techmeme.com: Will Knight / Wired : Recursive releases Flint, an open-weight, 40B-parameter coding model developed with its Eureka Machine AI system, which automated most of the development Recursive makes the case that the benefits of using AI to build AI outweigh the risks. For the past few days I've been testing"
       ],
       "l": [
         {
-          "d": "shontelbrown.house.gov",
-          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1haalIxS1A1bVdXeDhtLUN2SXN0Q2daeG9RNGd2RjktX0xkRWFTaVNGd1RIQ0NFZHNTSWkzZ2t3RDVNNFpSX2poRDBLQV9GZTJtUTRQRFdrdmFGbllSZXctNHcwRHZDcWFCamljYzljMnM5cm9KWVFTcDhvd0cyVE1mSnBqTVM5TEpaSmdaalVCZ1pYbXNBOU5oUE5kaGQ3bHpoZ3hReUhrTzl3VzZKbDQtaXJOM0k0eGdLTENFTDF1Tms?oc=5"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai/"
         },
         {
-          "d": "spectrumnews1.com",
-          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdC1lT3AxenktcHI0WnN5a3FTUTNiSHVJNEZ3Tk9hRGdWOVFsMmhDMjZ4em1jOU9tSGlqR1RVREpnZGo5M29FNFpiSzFpTHJuVHRwS3V1MEYtY0lJc2lRMTdlbGRxRGVtelIwNGU5NFc3M0xPakZRYkNUZUtDRVJicTdjTlBUd25BNzVhdEJXNndQNFRDU0tZTTV3YjAzdw?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261021/p39#a261021p39"
         }
       ],
       "srcTitles": [
-        "Brown Introduces Legislation to Require Labels on AI-Generated Campaign Content",
-        "Shontel Brown introduces legislation to regulate AI-generated campaign content"
+        "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+        "Recursive releases Flint, an open-weight, 40B-parameter coding model developed with its Eureka Machine AI system, which automated most of the development (Will Knight/Wired)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-21T14:56:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Peter Law Group Establishes Artificial Intelligence Specialty Practice",
+      "s": "Peter Law Group Establishes Artificial Intelligence Specialty Practice Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Peter Law Group Establishes Artificial Intelligence Specialty Practice",
+        "citybiz.co: Peter Law Group Launches Artificial Intelligence and Emerging Technology Practice"
+      ],
+      "body": [
+        "finance.yahoo.com: Peter Law Group Establishes Artificial Intelligence Specialty Practice Yahoo Finance",
+        "citybiz.co: Peter Law Group Launches Artificial Intelligence and Emerging Technology Practice citybiz"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdW5MX2pPdkV1bm15enhNY3hwajVRYmR3NDhLWEVnNVQwY1ZsMHJFT294TjY1RVNpaDNlTUdnTFNFRVVZS0FET29ocG9rMWlrQWN6NEdrcWx6bkk2alN1OE9CQWp0VTlZdFE1azU3Qkg4ajJXM3NsREZqdy1xSnZmNlBMRS02ekJTaUxValVkbzgwejhObnFKdGNNRVFlMklSV3k2ZQ?oc=5"
+        },
+        {
+          "d": "citybiz.co",
+          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWUhVZzI2UmszM3FvTG5lcDc2SXNOOW5IdW8xQV8xeHhuZzdTdUc1TTczem14RzR4YUx5TzRfeHFZOHZHLUplUnZjTDNLX3dtdUx1SGhyVDZYX0lwZVBON1JJZUhhNlhndnR2bXdaU2hxVExweXNBWWxlalE0bnNzbjFwRGFIZHZlRHh3aVZVUjlaZ3M1S1Boc3ROMm9uNUZURmZRa1NsVV9DckIweWdKVUMzTTUxLVplWDJBRg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Peter Law Group Establishes Artificial Intelligence Specialty Practice",
+        "Peter Law Group Launches Artificial Intelligence and Emerging Technology Practice"
       ]
     },
     {
@@ -263,6 +295,7 @@
         }
       ],
       "srcTitles": [
+        "Using thousands of AI agents to uncover new leads in biological data",
         "Using thousands of AI agents to uncover new leads in biological data"
       ]
     },
@@ -314,6 +347,38 @@
       ],
       "srcTitles": [
         "Democratic governance of frontier AI, part II: Empowering cyber defenders"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 21,
+      "sources": 2,
+      "ts": "2026-10-21T13:09:19.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Brown Introduces Legislation to Require Labels on AI-Generated Campaign Content",
+      "s": "Brown Introduces Legislation to Require Labels on AI-Generated Campaign Content Representative Shontel Brown | (.gov)",
+      "b": [
+        "shontelbrown.house.gov: Brown Introduces Legislation to Require Labels on AI-Generated Campaign Content",
+        "spectrumnews1.com: Shontel Brown introduces legislation to regulate AI-generated campaign content"
+      ],
+      "body": [
+        "shontelbrown.house.gov: Brown Introduces Legislation to Require Labels on AI-Generated Campaign Content Representative Shontel Brown | (.gov)",
+        "spectrumnews1.com: Shontel Brown introduces legislation to regulate AI-generated campaign content Spectrum News"
+      ],
+      "l": [
+        {
+          "d": "shontelbrown.house.gov",
+          "u": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS1haalIxS1A1bVdXeDhtLUN2SXN0Q2daeG9RNGd2RjktX0xkRWFTaVNGd1RIQ0NFZHNTSWkzZ2t3RDVNNFpSX2poRDBLQV9GZTJtUTRQRFdrdmFGbllSZXctNHcwRHZDcWFCamljYzljMnM5cm9KWVFTcDhvd0cyVE1mSnBqTVM5TEpaSmdaalVCZ1pYbXNBOU5oUE5kaGQ3bHpoZ3hReUhrTzl3VzZKbDQtaXJOM0k0eGdLTENFTDF1Tms?oc=5"
+        },
+        {
+          "d": "spectrumnews1.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdC1lT3AxenktcHI0WnN5a3FTUTNiSHVJNEZ3Tk9hRGdWOVFsMmhDMjZ4em1jOU9tSGlqR1RVREpnZGo5M29FNFpiSzFpTHJuVHRwS3V1MEYtY0lJc2lRMTdlbGRxRGVtelIwNGU5NFc3M0xPakZRYkNUZUtDRVJicTdjTlBUd25BNzVhdEJXNndQNFRDU0tZTTV3YjAzdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Brown Introduces Legislation to Require Labels on AI-Generated Campaign Content",
+        "Shontel Brown introduces legislation to regulate AI-generated campaign content"
       ]
     }
   ]
