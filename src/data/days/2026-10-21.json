@@ -2,82 +2,8 @@
   "date": "2026-10-21",
   "stories": [
     {
-      "cat": "products",
-      "signal": 72,
-      "sources": 4,
-      "ts": "2026-10-21T12:00:02.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April (Jordan Novet/CNBC)",
-      "s": "Jordan Novet / CNBC : OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April OpenAI will make ",
-      "b": [
-        "techmeme.com: OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April (Jordan Novet/CNBC)",
-        "cnbc.com: OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft"
-      ],
-      "body": [
-        "techmeme.com: Jordan Novet / CNBC : OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April OpenAI will make its artificial intelligence models available for developers through Google's cloud, following years of competition between the two companies.",
-        "cnbc.com: OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft CNBC"
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/openai-models-google-cloud"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261021/p21#a261021p21"
-        },
-        {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdFFsdzRKaWF5b0syQTJoaHAwSGZwSnk3OVZmYUtWekZJUlAzQkNTeURnRURjVlFXdVRVM0VHbWNLSjlnZUx3TXdnUzU4SUV0ajR1WGU1X2g0UzNqUndOcEtkVE1RWnpmei05TFpmdEdPd3FhRjJieTlNbWNqdkwxelp3azhUdl9QdnN6YU1TNFhFNUZCY2E1eVNmOGlORHl1SjVZV0Vnb1ZjZVBKdU9F?oc=5"
-        },
-        {
-          "d": "cnbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNXhvUlpRaDlhdjFIa3BDYy12MFBILU1vZFNfa0ZKUlV6cERUd1lVUWtEbEFVcTAxRlVuaGJFTENlYUtyOFloTlhRZ1QwTW5zOUd2UXFwT1pjS0FhX2NfT0R4MUJpNVZ6Z3ItZ05WRklZN2tSX2NUdkhsckYyM1FHbjM4Mi1WeTNvdUI5MkR0LXphNWs5UHFUZGxENXE4NWliZkdQeXR5eW7SAa4BQVVfeXFMTUhXVUF3ZHRsOGJpRnlGR2dKT2FWdk5oaW5zTzVJN1E5aEt5eGM4Wmtyei00T2F4dFBMSm5CWGR1WjYzU3BpVWpKUjdNZkltS3VzdkYyMDNMZWtCbnQwZHUtMVV5dTdmZF9tcVpnVW52aGlqNGJzNlJvaDJyZXRMR19QN293Tzk2NnV0NXVwUmxBUUx6TTA2aDMzaUlTc20zWFg2UkhfdnhCUnpnMm9R?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI models are coming to Google Cloud",
-        "OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April (Jordan Novet/CNBC)",
-        "OpenAI Brings Its Frontier AI Models to Google Cloud",
-        "OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft"
-      ]
-    },
-    {
       "cat": "models",
-      "signal": 63,
-      "sources": 2,
-      "ts": "2026-10-21T13:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "s": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "b": [
-        "openai.com: ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "techmeme.com: OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform's advertiser base is 100K+, up from 20K in August (Alix Coutures/The Information)"
-      ],
-      "body": [
-        "openai.com: From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-        "techmeme.com: Alix Coutures / The Information : OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform's advertiser base is 100K+, up from 20K in August OpenAI is expanding ChatGPT ads to 26 more countries as it tries to turn advertising into a bigger source of revenue to help cover its AI costs."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261021/p26#a261021p26"
-        }
-      ],
-      "srcTitles": [
-        "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform's advertiser base is 100K+, up from 20K in August (Alix Coutures/The Information)"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 62,
+      "signal": 58,
       "sources": 2,
       "ts": "2026-10-21T13:57:43.000Z",
       "writtenSources": 2,
@@ -108,8 +34,40 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-10-21T12:00:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April (Jordan Novet/CNBC)",
+      "s": "Jordan Novet / CNBC : OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April OpenAI will make ",
+      "b": [
+        "techmeme.com: OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April (Jordan Novet/CNBC)",
+        "cnbc.com: OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft"
+      ],
+      "body": [
+        "techmeme.com: Jordan Novet / CNBC : OpenAI says it will make its AI models available on Google Cloud's model garden and Antigravity coding tool in the coming weeks, after launching on AWS in April OpenAI will make its artificial intelligence models available for developers through Google's cloud, following years of competition between the two companies.",
+        "cnbc.com: OpenAI to bring AI models to Google's cloud, in further expansion beyond Microsoft CNBC"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/openai-models-google-cloud"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdFFsdzRKaWF5b0syQTJoaHAwSGZwSnk3OVZmYUtWekZJUlAzQkNTeURnRURjVlFXdVRVM0VHbWNLSjlnZUx3TXdnUzU4SUV0ajR1WGU1X2g0UzNqUndOcEtkVE1RWnpmei05TFpmdEdPd3FhRjJieTlNbWNqdkwxelp3azhUdl9QdnN6YU1TNFhFNUZCY2E1eVNmOGlORHl1SjVZV0Vnb1ZjZVBKdU9F?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI models are coming to Google Cloud",
+        "OpenAI Brings Its Frontier AI Models to Google Cloud"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 60,
+      "signal": 56,
       "sources": 2,
       "ts": "2026-10-21T10:30:00.000Z",
       "writtenSources": 2,
@@ -137,6 +95,33 @@
       "srcTitles": [
         "OpenAI Invests in Startup That Uses Brain Implants to Detect Cancer",
         "Coherence Neuro, which is developing AI models and brain implants to help combat brain tumors, raised a $45M seed from the OpenAI Startup Fund and Founders Fund (Emily Mullin/Wired)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-10-21T13:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "s": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+      "b": [
+        "openai.com: ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "techmeme.com: OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform's advertiser base is 100K+, up from 20K in August (Alix Coutures/The Information)"
+      ],
+      "body": [
+        "openai.com: From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
+        "techmeme.com: Alix Coutures / The Information : OpenAI expands ChatGPT ads to 26 additional countries, taking the total to 83 countries, and says the platform's advertiser base is 100K+, up from 20K in August OpenAI is expanding ChatGPT ads to 26 more countries as it tries to turn advertising into a bigger source of revenue to help cover its AI costs."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/chatgpt-ads-expands-26-new-countries"
+        }
+      ],
+      "srcTitles": [
+        "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform"
       ]
     },
     {
