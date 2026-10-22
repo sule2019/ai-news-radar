@@ -2,6 +2,102 @@
   "date": "2026-10-22",
   "stories": [
     {
+      "cat": "products",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-10-22T18:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+      "s": "For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. ",
+      "b": [
+        "theverge.com: Microsoft says its AI tool is better than doctors at diagnosing conditions",
+        "techmeme.com: Microsoft says its GPT-5-powered Diagnostic Orchestrator uses agents that mimic panels of experts to diagnose conditions up to 4x more accurately than doctors (Robert Hart/The Verge)"
+      ],
+      "body": [
+        "theverge.com: For years, AI leaders have touted healthcare as one of the clearest examples of where their technology will improve lives. Now \"it is finally here,\" Microsoft AI CEO Mustafa Suleyman tells The Verge. The company claims to have developed an AI-powered tool it says can diagnose conditions up to four times more accurately than human [ ]",
+        "techmeme.com: Robert Hart / The Verge : Microsoft says its GPT-5-powered Diagnostic Orchestrator uses agents that mimic panels of experts to diagnose conditions up to 4x more accurately than doctors 'We're going to build something that is indistinguishable from human performance ... in the next couple of years,' Microsoft AI CEO Mustafa Suleyman tells The Verge."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261022/p48#a261022p48"
+        }
+      ],
+      "srcTitles": [
+        "Microsoft says its AI tool is better than doctors at diagnosing conditions",
+        "Microsoft says its GPT-5-powered Diagnostic Orchestrator uses agents that mimic panels of experts to diagnose conditions up to 4x more accurately than doctors (Robert Hart/The Verge)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-22T15:50:30.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "s": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the",
+      "b": [
+        "theverge.com: OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+        "techmeme.com: Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively (Lauren Feiner/The Verge)"
+      ],
+      "body": [
+        "theverge.com: It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, [ ]",
+        "techmeme.com: Lauren Feiner / The Verge : Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively Collectively, they spent nearly $6 million around cybersecurity, child safety, and more. It was a busy summer for AI lobbyists."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261022/p40#a261022p40"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+        "Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively (Lauren Feiner/The Verge)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 60,
+      "sources": 2,
+      "ts": "2026-10-22T00:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "s": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "b": [
+        "openai.com: Uber brings ChatGPT Work to all employees with OpenAI",
+        "techcrunch.com: Uber puts all 30,000 employees on ChatGPT Work"
+      ],
+      "body": [
+        "openai.com: Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+        "techcrunch.com: The ride-share giant previously deployed a much smaller pilot for ChatGPT Work but is now taking the enterprise agent company-wide."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/uber-chatgpt-work-rollout"
+        },
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
+        }
+      ],
+      "srcTitles": [
+        "Uber brings ChatGPT Work to all employees with OpenAI",
+        "Uber puts all 30,000 employees on ChatGPT Work"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 56,
       "sources": 2,
@@ -34,8 +130,8 @@
     },
     {
       "cat": "funding",
-      "signal": 54,
-      "sources": 4,
+      "signal": 52,
+      "sources": 3,
       "ts": "2026-10-22T09:13:02.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -57,10 +153,6 @@
           "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTlJaWE4wMTdlM1gySHFMcjlzbEt2RU9kaGpma0hqa0c3d1J4TE9KN29kMzcza25YYUlTd0Fkb3Y1UGFJQm1Ha29kcTlyeXh2SjBvNVRNaWY5UmVpUEtRRHZxbG5jaVA3TlFfbk1Pd0VzY1ZzOHpsT0Z4a2N4cHhsVnNzNXp0dWhqRXItTVRxQXkzay1XY1pxSlhB?oc=5"
         },
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHpMSlN2SjNMczQ0MDVlQmhKWVV4dFoxcHQwS2tfakxSaHJLMUdPdFRQcmdSZFBtMURPSWVMeHMtVUh0V2MxdFlTN2Z0M3lvdk9CVTJzdHoyWUp4LTRna0o1Qi1RdDFmUkNSTjlsN3czc2hyTTRjUTZFX2tPUkxsYlFuNlhpRTJDNllr?oc=5"
-        },
-        {
           "d": "theglobeandmail.com",
           "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPejhFcWFLRnZMZkdPLTFqQURibkJidjBMMmJQRXhqZi1BNHN1VzVCai1LOHMtTGhmVEhSSE5IR19jYmUxSWxqS1lNakZHQURSREJQbnFyY2JSYTIxUnlxVXUxZDhSSC1pVnpsRF9kSnJJV0o5UTc4blA5Y1FZc1JCVnV6OWVPai1TMzdNeVBoVEYtenlnS2NPQXhNYzEyT0pSemdfVC1URm0xMjBNLTJXa2dLRE9rOG5zS00xX0FzZ0hEZy1ObjR2enozdUlRNG5UYUpCdnprSHRhSzdKY09SSmlHMklKMlBFY1N3M2s2R0lyZ0ZI?oc=5"
         },
@@ -72,13 +164,12 @@
       "srcTitles": [
         "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
         "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
-        "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
         "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks"
       ]
     },
     {
       "cat": "products",
-      "signal": 52,
+      "signal": 48,
       "sources": 3,
       "ts": "2026-10-22T10:00:00.000Z",
       "writtenSources": 3,
@@ -141,8 +232,87 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-10-22T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Browser Company plans to shut down its Arc browser on December 22, as it shifts attention to the AI-focused Dia browser (Jay Peters/The Verge)",
+      "s": "Jay Peters / The Verge : The Browser Company plans to shut down its Arc browser on December 22, as it shifts attention to the AI-focused Dia browser New feature development for the innovative web brow",
+      "b": [
+        "techmeme.com: The Browser Company plans to shut down its Arc browser on December 22, as it shifts attention to the AI-focused Dia browser (Jay Peters/The Verge)",
+        "arxiv.org: First Passage Attention",
+        "arxiv.org: SAKURA: Serving Attention Key-Value State Under Rate Adaptation for Private Image Editing on Phones"
+      ],
+      "body": [
+        "techmeme.com: Jay Peters / The Verge : The Browser Company plans to shut down its Arc browser on December 22, as it shifts attention to the AI-focused Dia browser New feature development for the innovative web browser ended last year. Now The Browser Company is telling users to try Dia, Arc's replacement.",
+        "arxiv.org: arXiv:2610.22714v1 Announce Type: cross Abstract: Augmenting softmax attention with forget gates typically relies on summing decay contributions along the key--query path. Because such accumulation is monotonic, these mechanisms cannot selectively erase intermediate context while preserving older, structurally relevant tokens. We propose First Passage Attention (FPA), which shifts from path summation to path extrema by lowering a key's logit proportionally to the deepest dip of a learned scalar field below that key's level over the intervening span. FPA encompasses the Forgetting Transformer (FoX) as a special case, and when the field and levels follow a shared learned walk, the alive keys with unpenalised logits naturally form a stack. We show that a constant-dimension FPA head realises any subset of keys left alive by subsequent dips, whereas softmax heads with positional biases or token-level forget gates require a head dimension linear in the number of keys. In synthetic experiments, one-layer FPA heads converge to these target sets while comparable softmax and FoX baselines fail on every seed. Scaling to a 110M-parameter language model, FPA matches FoX in perplexity and uniquely achieves perfect passkey retrieval at $8\\times$ the training length, even with its key--value cache compressed to about $25\\%$.",
+        "arxiv.org: arXiv:2610.29733v1 Announce Type: cross Abstract: Diffusion transformers are widely used in image-editing services. To preserve both efficiency and privacy, existing systems commonly rely on cloud-device collaboration. Keeping request-specific inference on the device avoids sending personal images and prompts to the cloud. These workloads often use common templates, such as in face swapping and virtual try-on, enabling KV state to be precomputed and reused across requests. However, this reusable state is large and scales with the number of templates, making it impractical to store all of them on mobile devices. Storing them in the cloud addresses this capacity issue, but cache transfer is placed onto the inference path and can even be slower than on-device computation, especially under fluctuating mobile networks. We introduce SAKURA, a cloud-edge architecture that delivers reusable attention state to mobile devices under a bandwidth budget. It first uses a fine-grained token-importance-aware compression method to preserve image quality under limited transfer budgets. At runtime, SAKURA adaptively selects the cache representation for each upcoming shard based on network bandwidth. To enable efficient execution, we develop a pipelined runtime that overlaps cache transfer and reconstruction with on-device execution. We evaluate SAKURA using three editing tasks and two diffusion models, using a Snapdragon 8 Elite Gen 5 phone. SAKURA reduces latency by 1.82x and 3.27x over CacheGen adapted to DiT and on-device generation, respectively. It also reduces cache storage by 3.06x over uncompressed cache, while preserving image quality.",
+        "arxiv.org: arXiv:2603.18712v3 Announce Type: replace Abstract: The task of multi-channel time series forecasting is ubiquitous in numerous fields such as finance, supply chain management, and energy planning. It is critical to effectively capture complex dynamic dependencies within and between channels for accurate predictions. However, traditional method paid few attentions on learning the interaction among channels. This paper proposes Linear-Network (Li-Net), a novel architecture designed for multi-channel time series forecasting that captures the linear and non-linear dependencies among channels. Li-Net dynamically compresses representations across sequence and channel dimensions, processes the information through a configurable non-linear module and subsequently reconstructs the forecasts. Moreover, Li-Net integrates a sparse Top-K Softmax attention mechanism within a multi-scale projection framework to address these challenges. A core innovation is its ability to seamlessly incorporate and fuse multi-modal embeddings, guiding the sparse attention process to focus on the most informative time steps and feature channels. Through the experiment results on multiple real-world benchmark datasets demonstrate that Li-Net achieves competitive performance compared to state-of-the-art baseline methods. Furthermore, Li-Net provides a superior balance between prediction accuracy and computational burden, exhibiting significantly lower memory usage and faster inference times. Detailed ablation studies and parameter sensitivity analyses validate the effectiveness of each key component in our proposed architecture. Keywords: Multivariate Time Series Forecasting, Sparse Attention Mechanism, Multimodal Information Fusion, Non-linear relationship"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261022/p42#a261022p42"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.22714"
+        }
+      ],
+      "srcTitles": [
+        "The Browser Company plans to shut down its Arc browser on December 22, as it shifts attention to the AI-focused Dia browser (Jay Peters/The Verge)",
+        "First Passage Attention",
+        "SAKURA: Serving Attention Key-Value State Under Rate Adaptation for Private Image Editing on Phones",
+        "Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 4,
+      "ts": "2026-10-22T11:17:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
+      "s": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs The New York Times",
+      "b": [
+        "nytimes.com: Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
+        "computerweekly.com: Barclays to cut 5,000 jobs and employ more artificial intelligence"
+      ],
+      "body": [
+        "nytimes.com: Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs The New York Times",
+        "computerweekly.com: Barclays to cut 5,000 jobs and employ more artificial intelligence Computer Weekly"
+      ],
+      "l": [
+        {
+          "d": "computerweekly.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWE1hejU3MFd4QkgzRzZ2c3F3d3JpY1dwSUhSVGdRbnUzR0JOSVQ1UWF5UjRqY1c1V2xpNTJobUpzSmZ6dUtQWXhpd1hnSTc4QzBLOEdBVmV2RG9uZnRQWGhJMlduOHNCMVR1bklMUFk4aS0yLTNabC1iZ0hJT3NwZ1U2bVFqT01HbnpaRXhKMVI0aVI1NWJiU1c1RFNpbmxOc0RBSnZKN21IZkRzYnZqeQ?oc=5"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHQxRk1BSjdfR1FINEpYaEsxT3QwNWtZSUVOZVl0ZEVrYXl6cDRZWHFaT0V5eW5YeExmVzE1WjlYRXlLek5Qb1NaUnVHQ2djLTgzYk9nb25SVlE1RWdBa3lraUcwN1BlSV9BQXoteUxlYnU1UXFtSFN5b3l6LXNZdWtJVU45cFFQZHVPR25Wak0wRVNieGZfb0pOVmk5VkU?oc=5"
+        },
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxVWkxaS10M1lTMkNibTlEeVNYcVZhQVFNTFNhbmNjSEc5VjV2T0wwOU05TmZmbEN6eFRjb1U0b0N3RWhvTk9IVnBCRnpYM3BIejZYWndkc0VIMTQ?oc=5"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qRTdaNEVEY1g0TW1sQ3Y4bVJjME9nY1BmekJFSEZSVW9oQU5iZjRnWWNIU1laX2FDdzRHVF95THhPNXBMU056LV9LVnBaQVJLYkpOeVVrT1UtbXU5bkVjZVF1U2s5UHpyR2EtVXBtLUlFZTNJc0ptRg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Barclays to cut 5,000 jobs and employ more artificial intelligence",
+        "Barclays Plans 5,000 Job Cuts as AI Push Reshapes Operations",
+        "Barclays cutting 5,000 jobs as it increases reliance on AI",
+        "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-10-22T14:30:24.000Z",
       "writtenSources": 1,
@@ -163,38 +333,6 @@
       ],
       "srcTitles": [
         "Beyond tree cover: mapping the world’s forest types"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 29,
-      "sources": 2,
-      "ts": "2026-10-22T11:17:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
-      "s": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs The New York Times",
-      "b": [
-        "nytimes.com: Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
-        "computerweekly.com: Barclays to cut 5,000 jobs and employ more artificial intelligence"
-      ],
-      "body": [
-        "nytimes.com: Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs The New York Times",
-        "computerweekly.com: Barclays to cut 5,000 jobs and employ more artificial intelligence Computer Weekly"
-      ],
-      "l": [
-        {
-          "d": "computerweekly.com",
-          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWE1hejU3MFd4QkgzRzZ2c3F3d3JpY1dwSUhSVGdRbnUzR0JOSVQ1UWF5UjRqY1c1V2xpNTJobUpzSmZ6dUtQWXhpd1hnSTc4QzBLOEdBVmV2RG9uZnRQWGhJMlduOHNCMVR1bklMUFk4aS0yLTNabC1iZ0hJT3NwZ1U2bVFqT01HbnpaRXhKMVI0aVI1NWJiU1c1RFNpbmxOc0RBSnZKN21IZkRzYnZqeQ?oc=5"
-        },
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qRTdaNEVEY1g0TW1sQ3Y4bVJjME9nY1BmekJFSEZSVW9oQU5iZjRnWWNIU1laX2FDdzRHVF95THhPNXBMU056LV9LVnBaQVJLYkpOeVVrT1UtbXU5bkVjZVF1U2s5UHpyR2EtVXBtLUlFZTNJc0ptRg?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Barclays to cut 5,000 jobs and employ more artificial intelligence",
-        "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs"
       ]
     },
     {
@@ -263,38 +401,6 @@
     },
     {
       "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-10-21T22:16:44.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Artificial intelligence checks the trustworthiness breast cancer AI models",
-      "s": "Artificial intelligence checks the trustworthiness breast cancer AI models Radiology Business",
-      "b": [
-        "radiologybusiness.com: Artificial intelligence checks the trustworthiness breast cancer AI models",
-        "cbsnews.com: How artificial intelligence is helping doctors and patients fight breast cancer"
-      ],
-      "body": [
-        "radiologybusiness.com: Artificial intelligence checks the trustworthiness breast cancer AI models Radiology Business",
-        "cbsnews.com: How artificial intelligence is helping doctors and patients fight breast cancer CBS News"
-      ],
-      "l": [
-        {
-          "d": "radiologybusiness.com",
-          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczh6RDBVWjZSQWtuUUZESmwwMTNfVXRBaFE3NXgyVjAyTjRoT2MtUFZ1T3Rpd0FDOTVqR2Q0Ml9xaEpLWGdVc2lkSC1mVmJLRG5sbUVqYzNDX2lKN1RWV3FjSGJ4R2p0azdybDEwUC1hdXozeUxnOTA2c04zdzY0cURwZEp5OThSTklHb1FRNVFEWG1BM0h0YVA0MGNWY0xUT1VQQmNwZDZjMVpFOFFaeGItZzRXMmxQNWs1M0lIN0t0UTRSYTVUb2JVSQ?oc=5"
-        },
-        {
-          "d": "cbsnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkNteXlvZ2J3WXB6YVA1OW1uenN6ajhrNzl0VUlZb2hsUDdJLW1NLW9Sbk1RRG93ZnJxVHlSelFXQnVfRFFzTjdsMC0tV0JzaEVDcjg4SkpoQmZ3RDhqamZzeFdQWjJrQzRZbk1wWGRpbWtMZXBSWjBTaGVHemxfSnlOLTFMeE9LeUNHMHZ4cXNaMTRnOUxHNlhwSkUycjM1QTE4eHY3UXU4Ylp6ak1oWVEySS16aDFPNzRvOFpobHM?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Artificial intelligence checks the trustworthiness of breast cancer AI models",
-        "How artificial intelligence is helping doctors and patients fight breast cancer"
-      ]
-    },
-    {
-      "cat": "models",
       "signal": 24,
       "sources": 1,
       "ts": "2026-10-22T10:00:00.000Z",
@@ -341,6 +447,38 @@
       ],
       "srcTitles": [
         "AI s hidden storage bill: What inference leaves behind"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-10-21T22:16:44.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial intelligence checks the trustworthiness breast cancer AI models",
+      "s": "Artificial intelligence checks the trustworthiness breast cancer AI models Radiology Business",
+      "b": [
+        "radiologybusiness.com: Artificial intelligence checks the trustworthiness breast cancer AI models",
+        "cbsnews.com: How artificial intelligence is helping doctors and patients fight breast cancer"
+      ],
+      "body": [
+        "radiologybusiness.com: Artificial intelligence checks the trustworthiness breast cancer AI models Radiology Business",
+        "cbsnews.com: How artificial intelligence is helping doctors and patients fight breast cancer CBS News"
+      ],
+      "l": [
+        {
+          "d": "radiologybusiness.com",
+          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczh6RDBVWjZSQWtuUUZESmwwMTNfVXRBaFE3NXgyVjAyTjRoT2MtUFZ1T3Rpd0FDOTVqR2Q0Ml9xaEpLWGdVc2lkSC1mVmJLRG5sbUVqYzNDX2lKN1RWV3FjSGJ4R2p0azdybDEwUC1hdXozeUxnOTA2c04zdzY0cURwZEp5OThSTklHb1FRNVFEWG1BM0h0YVA0MGNWY0xUT1VQQmNwZDZjMVpFOFFaeGItZzRXMmxQNWs1M0lIN0t0UTRSYTVUb2JVSQ?oc=5"
+        },
+        {
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkNteXlvZ2J3WXB6YVA1OW1uenN6ajhrNzl0VUlZb2hsUDdJLW1NLW9Sbk1RRG93ZnJxVHlSelFXQnVfRFFzTjdsMC0tV0JzaEVDcjg4SkpoQmZ3RDhqamZzeFdQWjJrQzRZbk1wWGRpbWtMZXBSWjBTaGVHemxfSnlOLTFMeE9LeUNHMHZ4cXNaMTRnOUxHNlhwSkUycjM1QTE4eHY3UXU4Ylp6ak1oWVEySS16aDFPNzRvOFpobHM?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial intelligence checks the trustworthiness of breast cancer AI models",
+        "How artificial intelligence is helping doctors and patients fight breast cancer"
       ]
     }
   ]
