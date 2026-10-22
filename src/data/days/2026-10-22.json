@@ -1,4 +1,189 @@
 {
   "date": "2026-10-22",
-  "stories": []
+  "stories": [
+    {
+      "cat": "funding",
+      "signal": 58,
+      "sources": 3,
+      "ts": "2026-10-22T09:13:02.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
+      "s": "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
+        "fool.com: Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
+        "theglobeandmail.com: Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks"
+      ],
+      "body": [
+        "finance.yahoo.com: Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks Yahoo Finance",
+        "fool.com: Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks The Motley Fool",
+        "theglobeandmail.com: Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTlJaWE4wMTdlM1gySHFMcjlzbEt2RU9kaGpma0hqa0c3d1J4TE9KN29kMzcza25YYUlTd0Fkb3Y1UGFJQm1Ha29kcTlyeXh2SjBvNVRNaWY5UmVpUEtRRHZxbG5jaVA3TlFfbk1Pd0VzY1ZzOHpsT0Z4a2N4cHhsVnNzNXp0dWhqRXItTVRxQXkzay1XY1pxSlhB?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZHpMSlN2SjNMczQ0MDVlQmhKWVV4dFoxcHQwS2tfakxSaHJLMUdPdFRQcmdSZFBtMURPSWVMeHMtVUh0V2MxdFlTN2Z0M3lvdk9CVTJzdHoyWUp4LTRna0o1Qi1RdDFmUkNSTjlsN3czc2hyTTRjUTZFX2tPUkxsYlFuNlhpRTJDNllr?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSU9kSXlCaGM5RWRTX1ZJWW80T3dHZmZ4bTg1OHNjNDNhYjREbE9xYUpoTmtQblBQV0RwZS1RX2VvU3NlZEhReHRuMFBVcnY4aV9ZYjlQMUhXeWxGUnFnemNEclVmTXZJSTgzSmpYbmszQWdpVTMwWmZCcnZEOHRLQkwyTHZEbWFfX0xmT1lYQTBIOEU5M1dpUHRTdThMdG1nMEFud2pDd2kyN3BqSm9vRVQyVE83MEJxdk9PVkhKeExZVVZDSHdYQjUzQXhtWXlKS1luR3R3eTloVVRCYkVaa2hvZTNwSF9Cd2pXZVE2aVNvTm5sNFE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
+        "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks",
+        "Nvidia Has 80% of Its Portfolio Invested in 2 Artificial Intelligence (AI) Stocks"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-10-22T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Ensemble forecasting with IBM Granite time-series models",
+      "s": "Covered by 2 outlets.",
+      "b": [
+        "huggingface.co: Ensemble forecasting with IBM Granite time-series models",
+        "arxiv.org: Rethinking Agentic Model Orchestration for Time Series Forecasting"
+      ],
+      "body": [
+        "arxiv.org: arXiv:2610.29504v1 Announce Type: cross Abstract: Time series foundation models (TSFMs) perform unevenly across forecasting tasks. Recent work uses agentic model orchestration (AMO) to select or combine TSFMs, often outperforming individual forecasters. Yet these gains may reflect stronger or more complementary candidates rather than better orchestration. To disentangle these effects, we introduce FairAMO, a controlled evaluation protocol with frozen candidate forecasts. Experiments on GIFT-Eval show that AMO improves accuracy, but its gains are bounded by the candidate TSFMs. The best orchestrators reduce MASE by less than 6% relative to the best single TSFM across all tasks. These gains depend on complementarity (different candidates excel on different tasks) rather than the number of candidates. Adding members yields diminishing returns, and a redundant member can erase these gains. The value of historical evidence also saturates quickly. A few recent windows capture all gains, and further history adds none. These findings separate system-level forecasting gains from the contribution of orchestration itself."
+      ],
+      "l": [
+        {
+          "d": "huggingface.co",
+          "u": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.29504"
+        }
+      ],
+      "srcTitles": [
+        "Ensemble forecasting with IBM Granite time-series models",
+        "Rethinking Agentic Model Orchestration for Time Series Forecasting"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-10-22T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Making the case for context-aware AI",
+      "s": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can mis",
+      "b": [
+        "technologyreview.com: Making the case for context-aware AI"
+      ],
+      "body": [
+        "technologyreview.com: Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As companies look to move AI from experimentation into everyday operations, the challenge ahead is giving technology the context to act usefully within complex business processes. For Devavrat Shah, chief scientist of enterprise AI at Celonis, that context is central to what he calls “decision intelligence.” AI agents can support individual tasks within larger decision-making processes, he argues, but they need to understand the role each task plays and the business conditions surrounding it. “You can t just do that in a vacuum,” he says. Without the right operational context, agents risk overlooking important constraints, making costly mistakes, or consuming excessive computing resources as they try to work out what they need to know. The solution begins with connecting AI to the processes and data enterprises already use. A contextual layer can help agents understand workflows, operate within defined guardrails, and produce recommendations that people can review and approve. Shah advises organizations to start with a specific business decision, identify its most difficult steps, and test whether AI can improve them. Measuring gains in speed and value can then help determine whether an application is worth scaling. This approach could also change how employees spend their time. Automating repetitive, manual work and coordinating tasks across teams could free people to focus on more complex strategic decisions. Realizing that benefit, however, will require investment in workforce education, so employees can understand AI outputs and their implications instead of just handing decisions over to agents. Looking to the future, Shah sees opportunities extending from routine operational ta"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/"
+        }
+      ],
+      "srcTitles": [
+        "Making the case for context-aware AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-22T08:41:18.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AI s hidden storage bill: What inference leaves behind",
+      "s": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage ",
+      "b": [
+        "technologyreview.com: AI s hidden storage bill: What inference leaves behind"
+      ],
+      "body": [
+        "technologyreview.com: Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs to be stored. But data storage is one of the harder infrastructure costs to plan for, and it’s often overlooked in initial AI infrastructure planning. As inference scales, the data footprint grows with it Traditionally, AI infrastructure conversations have centered on the compute-intensive process of training a model. Training is finite: a run starts, burns through compute, and ends. But inference runs continuously, every time a model answers a prompt. For infrastructure planning, that difference matters: A training run is a project you can budget for and retire. Inference doesn’t retire; every inference request leaves something behind. Take AI-generated video. In this workload, the back-end spend can be significant. From internal measurements, WD found that an 8-second clip (returned to a user as a 3.97MB 720p file) left more than 500MB of associated data behind on the back end, including logs, cached context, immediate renders, backups, and safety records. That’s a 130x increase over the output file size the user saw. Scale this to an enterprise generating longer, higher resolution video and the back-end footprint grows into the hundreds of gigabytes per clip. And that back-end footprint is growing fast. McKinsey projects AI inference demand will grow at a 35% CAGR through 2030, versus 22% for training, making up more than 40% of total data center demand by the end of the decade. A recent WD-sponsored IDC global white paper that surveyed 763 IT and business decision makers found that nearly 95% of respondents reported an increase in data volume due to generative AI over the past 12 months, with roughly 61% reporting gr"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
+        }
+      ],
+      "srcTitles": [
+        "AI s hidden storage bill: What inference leaves behind"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-22T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Building the agent and securing it",
+      "s": "Building the agent and securing it CIO",
+      "b": [
+        "cio.com: Building the agent and securing it",
+        "arxiv.org: PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust"
+      ],
+      "body": [
+        "cio.com: Building the agent and securing it CIO",
+        "arxiv.org: arXiv:2610.28987v1 Announce Type: new Abstract: Persistent memory is a largely undefended surface for injection and poisoning, and the same risk limits memory sharing among agents. We present PerMIT, a memory architecture with provable integrity guarantees under an explicit trust assumption: only user-typed inputs and values confirmed at a gate are trusted. PerMIT mediates the release and use of untrusted environment-derived values through a finite memory interface, while preserving agent-driven multi-turn planning and tool choice. Over this finite interface, we prove two integrity theorems that are also machine-checked in Lean 4, which together ensure that environment-derived memory reaches a sensitive action only if confirmed at the gate and influences the agent's behavior only through what the gate displays. Every attack in our threat model thereby reduces to a single auditable decision, which a human, an LLM verifier, or both can make in practice. On Trojan Hippo, PerMIT records zero observed attack success with self-verification and lightweight verifiers. Because each confirmation is a logged verdict on exact content, endorsements accumulate across users, and sufficiently endorsed items become community-confirmed with no further verification required. Under explicit assumptions, we prove and corroborate in simulation a co-scaling property: as the community grows, the risks of promoting poison and of wrongly evicting benign knowledge fall, while per-user verification effort does not rise. On $\\tau^2$-bench, communities of up to 90 autonomous agents use PerMIT to build shared knowledge bases with no direct memory injection promoted, and the resulting knowledge significantly improves new agents on held-out tasks, suggesting a path toward agents that safely self-improve at test time."
+      ],
+      "l": [
+        {
+          "d": "cio.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQbXZMb1BYN2xOLTNkUWRCS29CVUIyVm5yc3VLcTFPck5HcnkwV19fbENKbUFOb3RoRGhtelpidGk5ZWhqaGRIMzlrM3JIc29zaVlCRHFkcXBFQ0pyZzNGSDZuUWQxRDVaRUVPeVVtN00xTzgtNVhzd0VoWm9MZ2VkQQ?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.28987"
+        }
+      ],
+      "srcTitles": [
+        "Building the agent and securing it",
+        "PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-21T22:16:44.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial intelligence checks the trustworthiness breast cancer AI models",
+      "s": "Artificial intelligence checks the trustworthiness breast cancer AI models Radiology Business",
+      "b": [
+        "radiologybusiness.com: Artificial intelligence checks the trustworthiness breast cancer AI models",
+        "cbsnews.com: How artificial intelligence is helping doctors and patients fight breast cancer"
+      ],
+      "body": [
+        "radiologybusiness.com: Artificial intelligence checks the trustworthiness breast cancer AI models Radiology Business",
+        "cbsnews.com: How artificial intelligence is helping doctors and patients fight breast cancer CBS News"
+      ],
+      "l": [
+        {
+          "d": "radiologybusiness.com",
+          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPczh6RDBVWjZSQWtuUUZESmwwMTNfVXRBaFE3NXgyVjAyTjRoT2MtUFZ1T3Rpd0FDOTVqR2Q0Ml9xaEpLWGdVc2lkSC1mVmJLRG5sbUVqYzNDX2lKN1RWV3FjSGJ4R2p0azdybDEwUC1hdXozeUxnOTA2c04zdzY0cURwZEp5OThSTklHb1FRNVFEWG1BM0h0YVA0MGNWY0xUT1VQQmNwZDZjMVpFOFFaeGItZzRXMmxQNWs1M0lIN0t0UTRSYTVUb2JVSQ?oc=5"
+        },
+        {
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWkNteXlvZ2J3WXB6YVA1OW1uenN6ajhrNzl0VUlZb2hsUDdJLW1NLW9Sbk1RRG93ZnJxVHlSelFXQnVfRFFzTjdsMC0tV0JzaEVDcjg4SkpoQmZ3RDhqamZzeFdQWjJrQzRZbk1wWGRpbWtMZXBSWjBTaGVHemxfSnlOLTFMeE9LeUNHMHZ4cXNaMTRnOUxHNlhwSkUycjM1QTE4eHY3UXU4Ylp6ak1oWVEySS16aDFPNzRvOFpobHM?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial intelligence checks the trustworthiness breast cancer AI models",
+        "How artificial intelligence is helping doctors and patients fight breast cancer"
+      ]
+    }
+  ]
 }
