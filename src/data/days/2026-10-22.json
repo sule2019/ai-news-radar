@@ -137,38 +137,6 @@
     },
     {
       "cat": "models",
-      "signal": 58,
-      "sources": 2,
-      "ts": "2026-10-22T15:50:30.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-      "s": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the",
-      "b": [
-        "theverge.com: OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-        "techmeme.com: Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively (Lauren Feiner/The Verge)"
-      ],
-      "body": [
-        "theverge.com: It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, [ ]",
-        "techmeme.com: Lauren Feiner / The Verge : Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively Collectively, they spent nearly $6 million around cybersecurity, child safety, and more. It was a busy summer for AI lobbyists."
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261022/p40#a261022p40"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-        "Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively (Lauren Feiner/The Verge)"
-      ]
-    },
-    {
-      "cat": "models",
       "signal": 56,
       "sources": 2,
       "ts": "2026-10-22T04:00:00.000Z",
@@ -231,8 +199,65 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-10-22T15:50:30.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "s": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the",
+      "b": [
+        "theverge.com: OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+        "techmeme.com: Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively (Lauren Feiner/The Verge)"
+      ],
+      "body": [
+        "theverge.com: It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, [ ]",
+        "techmeme.com: Lauren Feiner / The Verge : Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively Collectively, they spent nearly $6 million around cybersecurity, child safety, and more. It was a busy summer for AI lobbyists."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261022/p40#a261022p40"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+        "Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively (Lauren Feiner/The Verge)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-22T06:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "What FDE means at OpenAI",
+      "s": "What forward deployed engineering means at OpenAI",
+      "b": [
+        "openai.com: What FDE means at OpenAI"
+      ],
+      "body": [
+        "openai.com: What forward deployed engineering means at OpenAI"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/forward-deployed-engineering-means"
+        }
+      ],
+      "srcTitles": [
+        "What FDE means at OpenAI"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 48,
+      "signal": 44,
       "sources": 3,
       "ts": "2026-10-22T09:13:02.000Z",
       "writtenSources": 3,
@@ -270,33 +295,40 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-10-22T06:00:00.000Z",
-      "writtenSources": 1,
+      "cat": "products",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-10-22T19:00:00.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "What FDE means at OpenAI",
-      "s": "What forward deployed engineering means at OpenAI",
+      "h": "Canva releases its first image generation model",
+      "s": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "b": [
-        "openai.com: What FDE means at OpenAI"
+        "techcrunch.com: Canva releases its first image generation model",
+        "techmeme.com: Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots (Ivan Mehta/TechCrunch)"
       ],
       "body": [
-        "openai.com: What forward deployed engineering means at OpenAI"
+        "techcrunch.com: Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+        "techmeme.com: Ivan Mehta / TechCrunch : Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots Design platform Canva released its first image generation model, called Canva Craft, developed by its research team to compete"
       ],
       "l": [
         {
-          "d": "openai.com",
-          "u": "https://openai.com/index/forward-deployed-engineering-means"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261022/p51#a261022p51"
         }
       ],
       "srcTitles": [
-        "What FDE means at OpenAI"
+        "Canva releases its first image generation model",
+        "Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots (Ivan Mehta/TechCrunch)"
       ]
     },
     {
       "cat": "products",
-      "signal": 40,
+      "signal": 36,
       "sources": 3,
       "ts": "2026-10-22T10:00:00.000Z",
       "writtenSources": 3,
@@ -331,38 +363,6 @@
         "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
         "Hugging Face releases Carbon-X, an open-source, 14B-parameter multimodal AI model to let users query DNA sequences via natural language, trained on 300B tokens (Emily Mullin/Wired)",
         "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 39,
-      "sources": 2,
-      "ts": "2026-10-22T19:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Canva releases its first image generation model",
-      "s": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-      "b": [
-        "techcrunch.com: Canva releases its first image generation model",
-        "techmeme.com: Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots (Ivan Mehta/TechCrunch)"
-      ],
-      "body": [
-        "techcrunch.com: Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
-        "techmeme.com: Ivan Mehta / TechCrunch : Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots Design platform Canva released its first image generation model, called Canva Craft, developed by its research team to compete"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261022/p51#a261022p51"
-        }
-      ],
-      "srcTitles": [
-        "Canva releases its first image generation model",
-        "Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots (Ivan Mehta/TechCrunch)"
       ]
     },
     {
@@ -403,8 +403,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-10-22T21:17:29.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Designing an AI serving harness built to last",
+      "s": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI con",
+      "b": [
+        "technologyreview.com: Designing an AI serving harness built to last"
+      ],
+      "body": [
+        "technologyreview.com: The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have been extraordinary. But as AI moves from experimentation to production, the question facing enterprise leaders has changed—it’s no longer, “what can the model do?”—it’s now, “Can we deliver that intelligence reliably, economically, and at scale?” Increasingly, the answer depends on the serving harness—the engineering system surrounding the model, including the architecture, memory management , scheduling, and optimization decisions that determine how efficiently model intelligence becomes a production capability. For technical executives, that changes where AI investment should go—and what they should demand from the architecture supporting it. Start with the workload, not the model There is no universally “best” model or AI architecture. There is only the right solution for the business problem. A customer-facing assistant optimized for fast responses has fundamentally different requirements from a document-processing pipeline that can run overnight. An internal knowledge application and a high-volume customer service platform may use the same foundation model but require very different serving architectures. The workload defines the constraints. The constraints should determine the architecture. That sounds simple, but it runs counter to the way many organizations have approached early AI deployments. During a proof of concept, model accuracy naturally dominates the discussion. Production introduces constraints that are much easier to ignore when only a handful of users are involved: latency, concurrency, memory pressure, GPU utilization, infrastructure cost, and unpredictable traffic. A model that produces marginally better"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+        }
+      ],
+      "srcTitles": [
+        "Designing an AI serving harness built to last"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-10-22T13:00:00.000Z",
       "writtenSources": 2,
@@ -432,31 +457,6 @@
       "srcTitles": [
         "1Password launches a way for AI agents to log in on your behalf without seeing your password",
         "1Password lets AI agents use your passwords without seeing them"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 30,
-      "sources": 1,
-      "ts": "2026-10-22T21:17:29.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Designing an AI serving harness built to last",
-      "s": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI con",
-      "b": [
-        "technologyreview.com: Designing an AI serving harness built to last"
-      ],
-      "body": [
-        "technologyreview.com: The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have been extraordinary. But as AI moves from experimentation to production, the question facing enterprise leaders has changed—it’s no longer, “what can the model do?”—it’s now, “Can we deliver that intelligence reliably, economically, and at scale?” Increasingly, the answer depends on the serving harness—the engineering system surrounding the model, including the architecture, memory management , scheduling, and optimization decisions that determine how efficiently model intelligence becomes a production capability. For technical executives, that changes where AI investment should go—and what they should demand from the architecture supporting it. Start with the workload, not the model There is no universally “best” model or AI architecture. There is only the right solution for the business problem. A customer-facing assistant optimized for fast responses has fundamentally different requirements from a document-processing pipeline that can run overnight. An internal knowledge application and a high-volume customer service platform may use the same foundation model but require very different serving architectures. The workload defines the constraints. The constraints should determine the architecture. That sounds simple, but it runs counter to the way many organizations have approached early AI deployments. During a proof of concept, model accuracy naturally dominates the discussion. Production introduces constraints that are much easier to ignore when only a handful of users are involved: latency, concurrency, memory pressure, GPU utilization, infrastructure cost, and unpredictable traffic. A model that produces marginally better"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
-        }
-      ],
-      "srcTitles": [
-        "Designing an AI serving harness built to last"
       ]
     },
     {
@@ -503,17 +503,17 @@
       ],
       "l": [
         {
-          "d": "computerweekly.com",
-          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWE1hejU3MFd4QkgzRzZ2c3F3d3JpY1dwSUhSVGdRbnUzR0JOSVQ1UWF5UjRqY1c1V2xpNTJobUpzSmZ6dUtQWXhpd1hnSTc4QzBLOEdBVmV2RG9uZnRQWGhJMlduOHNCMVR1bklMUFk4aS0yLTNabC1iZ0hJT3NwZ1U2bVFqT01HbnpaRXhKMVI0aVI1NWJiU1c1RFNpbmxOc0RBSnZKN21IZkRzYnZqeQ?oc=5"
-        },
-        {
           "d": "nytimes.com",
           "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qRTdaNEVEY1g0TW1sQ3Y4bVJjME9nY1BmekJFSEZSVW9oQU5iZjRnWWNIU1laX2FDdzRHVF95THhPNXBMU056LV9LVnBaQVJLYkpOeVVrT1UtbXU5bkVjZVF1U2s5UHpyR2EtVXBtLUlFZTNJc0ptRg?oc=5"
+        },
+        {
+          "d": "computerweekly.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWE1hejU3MFd4QkgzRzZ2c3F3d3JpY1dwSUhSVGdRbnUzR0JOSVQ1UWF5UjRqY1c1V2xpNTJobUpzSmZ6dUtQWXhpd1hnSTc4QzBLOEdBVmV2RG9uZnRQWGhJMlduOHNCMVR1bklMUFk4aS0yLTNabC1iZ0hJT3NwZ1U2bVFqT01HbnpaRXhKMVI0aVI1NWJiU1c1RFNpbmxOc0RBSnZKN21IZkRzYnZqeQ?oc=5"
         }
       ],
       "srcTitles": [
-        "Barclays to cut 5,000 jobs and employ more artificial intelligence",
-        "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs"
+        "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
+        "Barclays to cut 5,000 jobs and employ more artificial intelligence"
       ]
     },
     {
