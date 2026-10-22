@@ -154,7 +154,7 @@
         },
         {
           "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPejhFcWFLRnZMZkdPLTFqQURibkJidjBMMmJQRXhqZi1BNHN1VzVCai1LOHMtTGhmVEhSSE5IR19jYmUxSWxqS1lNakZHQURSREJQbnFyY2JSYTIxUnlxVXUxZDhSSC1pVnpsRF9kSnJJV0o5UTc4blA5Y1FZc1JCVnV6OWVPai1TMzdNeVBoVEYtenlnS2NPQXhNYzEyT0pSemdfVC1URm0xMjBNLTJXa2dLRE9rOG5zS00xX0FzZ0hEZy1ObjR2enozdUlRNG5UYUpCdnprSHRhSzdKY09SSmlHMklKMlBFY1N3M2s2R0lyZ0ZI?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSU9kSXlCaGM5RWRTX1ZJWW80T3dHZmZ4bTg1OHNjNDNhYjREbE9xYUpoTmtQblBQV0RwZS1RX2VvU3NlZEhReHRuMFBVcnY4aV9ZYjlQMUhXeWxGUnFnemNEclVmTXZJSTgzSmpYbmszQWdpVTMwWmZCcnZEOHRLQkwyTHZEbWFfX0xmT1lYQTBIOEU5M1dpUHRTdThMdG1nMEFud2pDd2kyN3BqSm9vRVQyVE83MEJxdk9PVkhKeExZVVZDSHdYQjUzQXhtWXlKS1luR3R3eTloVVRCYkVaa2hvZTNwSF9Cd2pXZVE2aVNvTm5sNFE?oc=5"
         },
         {
           "d": "aol.com",
@@ -168,8 +168,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-22T06:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "What FDE means at OpenAI",
+      "s": "What forward deployed engineering means at OpenAI",
+      "b": [
+        "openai.com: What FDE means at OpenAI"
+      ],
+      "body": [
+        "openai.com: What forward deployed engineering means at OpenAI"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/forward-deployed-engineering-means"
+        }
+      ],
+      "srcTitles": [
+        "What FDE means at OpenAI"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 48,
+      "signal": 44,
       "sources": 3,
       "ts": "2026-10-22T10:00:00.000Z",
       "writtenSources": 3,
@@ -208,27 +233,66 @@
     },
     {
       "cat": "models",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-10-22T06:00:00.000Z",
-      "writtenSources": 1,
+      "signal": 42,
+      "sources": 2,
+      "ts": "2026-10-22T18:09:56.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "What FDE means at OpenAI",
-      "s": "What forward deployed engineering means at OpenAI",
+      "h": "The Foundations of Scalable AI",
+      "s": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review s EmTech Future ",
       "b": [
-        "openai.com: What FDE means at OpenAI"
+        "technologyreview.com: The Foundations of Scalable AI",
+        "simonwillison.net: Donating Agent Skills to the Agentic AI Foundation"
       ],
       "body": [
-        "openai.com: What forward deployed engineering means at OpenAI"
+        "technologyreview.com: A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors. About the speaker Jing Wang, Principal, Center for AI and Insights, Vanguard Jing Wang leads Vanguard s Center for AI Insights (CAI), advancing the firm s AI, machine learning, generative AI, and behavioral science capabilities. Her team drives enterprise-wide innovation, research, and delivery, enabling Vanguard to translate emerging technologies into trusted solutions that enhance client experiences, improve investor outcomes, and create measurable business value. Before her current position, Jing served in a range of leadership roles across Vanguard s Financial Services, Workplace Solutions, International, and Corporate Services divisions. Throughout her tenure, she has led teams and enterprise initiatives that advanced strategic priorities, strengthened client outcomes, and drove business performance across the firm. She joined Vanguard in 2009 after several years as a Principal at the Boston Consulting Group. Jing earned a B.S. in Physics from the University of Science and Technology of China, a Ph.D. from the University of Pennsylvania, and an M.B.A. in Finance and Marketing from the Wharton School of Business at the University of Pennsylvania. Jing holds Series 7, 24, and 65 licenses.",
+        "simonwillison.net: Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an \"open standard\": I wouldn't be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun side note: since my blog content is available to Claude via the datasette-mcp plugin I found that post by prompting Claude to \" Use simonwillison.net MCP to find if I ever talked about how I want skills to be donated to a standards body \". Tags: standards , ai , generative-ai , llms , anthropic , model-context-protocol , skills"
       ],
       "l": [
         {
-          "d": "openai.com",
-          "u": "https://openai.com/index/forward-deployed-engineering-means"
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
         }
       ],
       "srcTitles": [
-        "What FDE means at OpenAI"
+        "The Foundations of Scalable AI",
+        "Donating Agent Skills to the Agentic AI Foundation"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-10-22T13:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "s": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "b": [
+        "techcrunch.com: 1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "theverge.com: 1Password lets AI agents use your passwords without seeing them"
+      ],
+      "body": [
+        "techcrunch.com: The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+        "theverge.com: 1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in"
+        }
+      ],
+      "srcTitles": [
+        "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "1Password lets AI agents use your passwords without seeing them"
       ]
     },
     {
@@ -262,7 +326,7 @@
         }
       ],
       "srcTitles": [
-        "The Browser Company plans to shut down its Arc browser on December 22, as it shifts attention to the AI-focused Dia browser (Jay Peters/The Verge)",
+        "The Browser Company says it will shut down its Arc browser on December 22, launched in 2023, shifting attention to its AI-focused Dia browser, launched in 2025 (Jay Peters/The Verge)",
         "First Passage Attention",
         "SAKURA: Serving Attention Key-Value State Under Rate Adaptation for Private Image Editing on Phones",
         "Accurate and Efficient Multi-Channel Time Series Forecasting via Sparse Attention Mechanism"
@@ -270,8 +334,8 @@
     },
     {
       "cat": "models",
-      "signal": 32,
-      "sources": 4,
+      "signal": 30,
+      "sources": 3,
       "ts": "2026-10-22T11:17:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -295,10 +359,6 @@
           "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHQxRk1BSjdfR1FINEpYaEsxT3QwNWtZSUVOZVl0ZEVrYXl6cDRZWHFaT0V5eW5YeExmVzE1WjlYRXlLek5Qb1NaUnVHQ2djLTgzYk9nb25SVlE1RWdBa3lraUcwN1BlSV9BQXoteUxlYnU1UXFtSFN5b3l6LXNZdWtJVU45cFFQZHVPR25Wak0wRVNieGZfb0pOVmk5VkU?oc=5"
         },
         {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxVWkxaS10M1lTMkNibTlEeVNYcVZhQVFNTFNhbmNjSEc5VjV2T0wwOU05TmZmbEN6eFRjb1U0b0N3RWhvTk9IVnBCRnpYM3BIejZYWndkc0VIMTQ?oc=5"
-        },
-        {
           "d": "nytimes.com",
           "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qRTdaNEVEY1g0TW1sQ3Y4bVJjME9nY1BmekJFSEZSVW9oQU5iZjRnWWNIU1laX2FDdzRHVF95THhPNXBMU056LV9LVnBaQVJLYkpOeVVrT1UtbXU5bkVjZVF1U2s5UHpyR2EtVXBtLUlFZTNJc0ptRg?oc=5"
         }
@@ -306,33 +366,7 @@
       "srcTitles": [
         "Barclays to cut 5,000 jobs and employ more artificial intelligence",
         "Barclays Plans 5,000 Job Cuts as AI Push Reshapes Operations",
-        "Barclays cutting 5,000 jobs as it increases reliance on AI",
         "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-10-22T14:30:24.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Beyond tree cover: mapping the world’s forest types",
-      "s": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
-      "b": [
-        "deepmind.google: Beyond tree cover: mapping the world’s forest types"
-      ],
-      "body": [
-        "deepmind.google: A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
-      ],
-      "l": [
-        {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
-        }
-      ],
-      "srcTitles": [
-        "Beyond tree cover: mapping the world’s forest types"
       ]
     },
     {
@@ -400,6 +434,31 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-22T14:30:24.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Beyond tree cover: mapping the world’s forest types",
+      "s": "A global map categorizing every 10-meter patch of land on Earth into distinct forest types.",
+      "b": [
+        "deepmind.google: Beyond tree cover: mapping the world’s forest types"
+      ],
+      "body": [
+        "deepmind.google: A global map categorizing every 10-meter patch of land on Earth into distinct forest types."
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/"
+        }
+      ],
+      "srcTitles": [
+        "Beyond tree cover: mapping the world’s forest types"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 24,
       "sources": 1,
@@ -451,7 +510,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-10-21T22:16:44.000Z",
       "writtenSources": 2,
