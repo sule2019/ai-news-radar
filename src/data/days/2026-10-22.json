@@ -2,8 +2,78 @@
   "date": "2026-10-22",
   "stories": [
     {
+      "cat": "models",
+      "signal": 70,
+      "sources": 3,
+      "ts": "2026-10-22T18:09:56.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Foundations of Scalable AI",
+      "s": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review s EmTech Future ",
+      "b": [
+        "technologyreview.com: The Foundations of Scalable AI",
+        "simonwillison.net: Donating Agent Skills to the Agentic AI Foundation"
+      ],
+      "body": [
+        "technologyreview.com: A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors. About the speaker Jing Wang, Principal, Center for AI and Insights, Vanguard Jing Wang leads Vanguard s Center for AI Insights (CAI), advancing the firm s AI, machine learning, generative AI, and behavioral science capabilities. Her team drives enterprise-wide innovation, research, and delivery, enabling Vanguard to translate emerging technologies into trusted solutions that enhance client experiences, improve investor outcomes, and create measurable business value. Before her current position, Jing served in a range of leadership roles across Vanguard s Financial Services, Workplace Solutions, International, and Corporate Services divisions. Throughout her tenure, she has led teams and enterprise initiatives that advanced strategic priorities, strengthened client outcomes, and drove business performance across the firm. She joined Vanguard in 2009 after several years as a Principal at the Boston Consulting Group. Jing earned a B.S. in Physics from the University of Science and Technology of China, a Ph.D. from the University of Pennsylvania, and an M.B.A. in Finance and Marketing from the Wharton School of Business at the University of Pennsylvania. Jing holds Series 7, 24, and 65 licenses.",
+        "simonwillison.net: Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an \"open standard\": I wouldn't be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun side note: since my blog content is available to Claude via the datasette-mcp plugin I found that post by prompting Claude to \" Use simonwillison.net MCP to find if I ever talked about how I want skills to be donated to a standards body \". Tags: standards , ai , generative-ai , llms , anthropic , model-context-protocol , skills"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261022/p53#a261022p53"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
+        }
+      ],
+      "srcTitles": [
+        "The Foundations of Scalable AI",
+        "Anthropic donates the Agent Skills open standard to the Agentic AI Foundation and says 70+ platforms have integrated it, after donating MCP to the AAIF in 2025 (Anthropic)",
+        "The Foundations of Scalable AI",
+        "Donating Agent Skills to the Agentic AI Foundation"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-22T20:23:08.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "s": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "b": [
+        "techcrunch.com: OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "techmeme.com: Sources: OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an \"opportunistic\" bridge ahead of an IPO (Kate Rooney/CNBC)"
+      ],
+      "body": [
+        "techcrunch.com: Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+        "techmeme.com: Kate Rooney / CNBC : Sources: OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an opportunistic bridge ahead of an IPO OpenAI is closing in on a funding round that could value the artificial intelligence giant at more than $1 trillion ahead"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261022/p52#a261022p52"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+        "Sources: OpenAI nears an up to $30B round led by investors from the UAE and Coatue at a $1.25T pre-money valuation, as an \"opportunistic\" bridge ahead of an IPO (Kate Rooney/CNBC)"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 64,
+      "signal": 61,
       "sources": 2,
       "ts": "2026-10-22T18:00:00.000Z",
       "writtenSources": 2,
@@ -31,38 +101,6 @@
       "srcTitles": [
         "Microsoft says its AI tool is better than doctors at diagnosing conditions",
         "Microsoft says its GPT-5-powered Diagnostic Orchestrator uses agents that mimic panels of experts to diagnose conditions up to 4x more accurately than doctors (Robert Hart/The Verge)"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 61,
-      "sources": 2,
-      "ts": "2026-10-22T15:50:30.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-      "s": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the",
-      "b": [
-        "theverge.com: OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-        "techmeme.com: Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively (Lauren Feiner/The Verge)"
-      ],
-      "body": [
-        "theverge.com: It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, [ ]",
-        "techmeme.com: Lauren Feiner / The Verge : Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively Collectively, they spent nearly $6 million around cybersecurity, child safety, and more. It was a busy summer for AI lobbyists."
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261022/p40#a261022p40"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
-        "Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively (Lauren Feiner/The Verge)"
       ]
     },
     {
@@ -99,6 +137,38 @@
     },
     {
       "cat": "models",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-10-22T15:50:30.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+      "s": "It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the",
+      "b": [
+        "theverge.com: OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+        "techmeme.com: Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively (Lauren Feiner/The Verge)"
+      ],
+      "body": [
+        "theverge.com: It was a busy summer for AI lobbyists. Anthropic, OpenAI, and Nvidia each had their highest-spending lobbying quarter between July and September, federal disclosures show. Nvidia spent the most of the group at $2.2 million, followed by Anthropic's $2.1 million and OpenAI's $1.5 million. Compared to other Big Tech companies with long-established presences in Washington, [ ]",
+        "techmeme.com: Lauren Feiner / The Verge : Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively Collectively, they spent nearly $6 million around cybersecurity, child safety, and more. It was a busy summer for AI lobbyists."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261022/p40#a261022p40"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI, Anthropic, and Nvidia had record lobbying quarters",
+        "Filings: Nvidia, Anthropic, and OpenAI had their highest-spending lobbying quarter between July and September, spending $2.2M, $2.1M, and $1.5M, respectively (Lauren Feiner/The Verge)"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 56,
       "sources": 2,
       "ts": "2026-10-22T04:00:00.000Z",
@@ -130,7 +200,39 @@
     },
     {
       "cat": "funding",
-      "signal": 52,
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-10-21T22:39:50.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+      "s": "Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+      "b": [
+        "wired.com: Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+        "latimes.com: How Meta struck a deal to keep Mark Zuckerberg in California despite looming billionaire tax"
+      ],
+      "body": [
+        "wired.com: Meta’s board feared that its CEO’s departure could disrupt the company’s AI ambitions. A new stock agreement gives him financial incentives to stay put.",
+        "latimes.com: How Meta struck a deal to keep Mark Zuckerberg in California despite looming billionaire tax Los Angeles Times"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/mark-zuckerberg-agrees-to-stay-in-california-despite-billionaires-tax-ballot-measure/"
+        },
+        {
+          "d": "latimes.com",
+          "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSUFMYi0xZEFLbDl5NmtkY1ZkMEhoZTAyNlVfdVpiUEtDTUtZN1BTVlJhMUxZekhJcUt1SmprSVJNWUhVenMtUWZnYmpzenpmZlkzVU9rN3NzSnFnbDBZWlVfVWhlRUQwR1VPZVFQTDJWcW83cWo3VTlGaXZoemF1bWpDa0RNcm1UYlBwQlp1MEJfeGtLa1pTdUlaakxaVXBPVVJUcEItR01PLTRxT3VZSEszV0lHRFpxczl0ZHNZcXk5THhBSkk2MjRGSWJFZk94YnpOS1B2WQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Mark Zuckerberg Agrees to Stay in California Despite Billionaires’ Tax Ballot Measure",
+        "How Meta struck a deal to keep Mark Zuckerberg in California despite looming billionaire tax"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 48,
       "sources": 3,
       "ts": "2026-10-22T09:13:02.000Z",
       "writtenSources": 3,
@@ -194,7 +296,7 @@
     },
     {
       "cat": "products",
-      "signal": 44,
+      "signal": 40,
       "sources": 3,
       "ts": "2026-10-22T10:00:00.000Z",
       "writtenSources": 3,
@@ -232,67 +334,35 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 42,
-      "sources": 2,
-      "ts": "2026-10-22T18:09:56.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "The Foundations of Scalable AI",
-      "s": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review s EmTech Future ",
-      "b": [
-        "technologyreview.com: The Foundations of Scalable AI",
-        "simonwillison.net: Donating Agent Skills to the Agentic AI Foundation"
-      ],
-      "body": [
-        "technologyreview.com: A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment and how a responsible, trustworthy implementation can turn emerging capabilities, including agentic systems, into lasting value for investors. About the speaker Jing Wang, Principal, Center for AI and Insights, Vanguard Jing Wang leads Vanguard s Center for AI Insights (CAI), advancing the firm s AI, machine learning, generative AI, and behavioral science capabilities. Her team drives enterprise-wide innovation, research, and delivery, enabling Vanguard to translate emerging technologies into trusted solutions that enhance client experiences, improve investor outcomes, and create measurable business value. Before her current position, Jing served in a range of leadership roles across Vanguard s Financial Services, Workplace Solutions, International, and Corporate Services divisions. Throughout her tenure, she has led teams and enterprise initiatives that advanced strategic priorities, strengthened client outcomes, and drove business performance across the firm. She joined Vanguard in 2009 after several years as a Principal at the Boston Consulting Group. Jing earned a B.S. in Physics from the University of Science and Technology of China, a Ph.D. from the University of Pennsylvania, and an M.B.A. in Finance and Marketing from the Wharton School of Business at the University of Pennsylvania. Jing holds Series 7, 24, and 65 licenses.",
-        "simonwillison.net: Donating Agent Skills to the Agentic AI Foundation News today from Anthropic: We’re committed to keeping Agent Skills open, community-driven, and vendor-neutral. Today, we are donating the standard to the Agentic AI Foundation (AAIF) under the Linux Foundation, which we co-founded with Block and OpenAI last year, and to which we donated the Model Context Protocol (MCP). I'm pleased to note I called this one last December , when Anthropic first declared skills to be an \"open standard\": I wouldn't be surprised to see this end up in the AAIF , recently the new home of the MCP specification. Fun side note: since my blog content is available to Claude via the datasette-mcp plugin I found that post by prompting Claude to \" Use simonwillison.net MCP to find if I ever talked about how I want skills to be donated to a standards body \". Tags: standards , ai , generative-ai , llms , anthropic , model-context-protocol , skills"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/"
-        },
-        {
-          "d": "simonwillison.net",
-          "u": "https://simonwillison.net/2026/Oct/22/donating-agent-skills/"
-        }
-      ],
-      "srcTitles": [
-        "The Foundations of Scalable AI",
-        "Donating Agent Skills to the Agentic AI Foundation"
-      ]
-    },
-    {
       "cat": "products",
-      "signal": 36,
+      "signal": 39,
       "sources": 2,
-      "ts": "2026-10-22T13:00:00.000Z",
+      "ts": "2026-10-22T19:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-      "s": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "h": "Canva releases its first image generation model",
+      "s": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
       "b": [
-        "techcrunch.com: 1Password launches a way for AI agents to log in on your behalf without seeing your password",
-        "theverge.com: 1Password lets AI agents use your passwords without seeing them"
+        "techcrunch.com: Canva releases its first image generation model",
+        "techmeme.com: Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots (Ivan Mehta/TechCrunch)"
       ],
       "body": [
-        "techcrunch.com: The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
-        "theverge.com: 1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it [ ]"
+        "techcrunch.com: Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+        "techmeme.com: Ivan Mehta / TechCrunch : Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots Design platform Canva released its first image generation model, called Canva Craft, developed by its research team to compete"
       ],
       "l": [
         {
           "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+          "u": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/"
         },
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261022/p51#a261022p51"
         }
       ],
       "srcTitles": [
-        "1Password launches a way for AI agents to log in on your behalf without seeing your password",
-        "1Password lets AI agents use your passwords without seeing them"
+        "Canva releases its first image generation model",
+        "Canva launches Craft, its first image generation model, trained on human-designed templates, available to all users, with plans to support third-party chatbots (Ivan Mehta/TechCrunch)"
       ]
     },
     {
@@ -333,9 +403,91 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-10-22T13:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "s": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "b": [
+        "techcrunch.com: 1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "theverge.com: 1Password lets AI agents use your passwords without seeing them"
+      ],
+      "body": [
+        "techcrunch.com: The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+        "theverge.com: 1Password is introducing a new feature that allows AI agents to sign into your accounts without actually seeing or handling your passwords. The aptly named 1Password for Agents doesn't give bots free reign to access all of your connected accounts - you'll still need to grant approval for sign-in requests - but should make it [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1016399/1password-ai-agent-password-sign-in"
+        }
+      ],
+      "srcTitles": [
+        "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+        "1Password lets AI agents use your passwords without seeing them"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 30,
-      "sources": 3,
+      "sources": 1,
+      "ts": "2026-10-22T21:17:29.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Designing an AI serving harness built to last",
+      "s": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI con",
+      "b": [
+        "technologyreview.com: Designing an AI serving harness built to last"
+      ],
+      "body": [
+        "technologyreview.com: The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context windows, higher benchmark scores. Those advances have been extraordinary. But as AI moves from experimentation to production, the question facing enterprise leaders has changed—it’s no longer, “what can the model do?”—it’s now, “Can we deliver that intelligence reliably, economically, and at scale?” Increasingly, the answer depends on the serving harness—the engineering system surrounding the model, including the architecture, memory management , scheduling, and optimization decisions that determine how efficiently model intelligence becomes a production capability. For technical executives, that changes where AI investment should go—and what they should demand from the architecture supporting it. Start with the workload, not the model There is no universally “best” model or AI architecture. There is only the right solution for the business problem. A customer-facing assistant optimized for fast responses has fundamentally different requirements from a document-processing pipeline that can run overnight. An internal knowledge application and a high-volume customer service platform may use the same foundation model but require very different serving architectures. The workload defines the constraints. The constraints should determine the architecture. That sounds simple, but it runs counter to the way many organizations have approached early AI deployments. During a proof of concept, model accuracy naturally dominates the discussion. Production introduces constraints that are much easier to ignore when only a handful of users are involved: latency, concurrency, memory pressure, GPU utilization, infrastructure cost, and unpredictable traffic. A model that produces marginally better"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/"
+        }
+      ],
+      "srcTitles": [
+        "Designing an AI serving harness built to last"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-22T19:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Build more responsive apps with the Decisions API",
+      "s": "Fast, focused, low-cost decisions for any application.",
+      "b": [
+        "openai.com: Build more responsive apps with the Decisions API"
+      ],
+      "body": [
+        "openai.com: Fast, focused, low-cost decisions for any application."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/decisions-api"
+        }
+      ],
+      "srcTitles": [
+        "Build more responsive apps with the Decisions API"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
       "ts": "2026-10-22T11:17:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -355,17 +507,12 @@
           "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWE1hejU3MFd4QkgzRzZ2c3F3d3JpY1dwSUhSVGdRbnUzR0JOSVQ1UWF5UjRqY1c1V2xpNTJobUpzSmZ6dUtQWXhpd1hnSTc4QzBLOEdBVmV2RG9uZnRQWGhJMlduOHNCMVR1bklMUFk4aS0yLTNabC1iZ0hJT3NwZ1U2bVFqT01HbnpaRXhKMVI0aVI1NWJiU1c1RFNpbmxOc0RBSnZKN21IZkRzYnZqeQ?oc=5"
         },
         {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOHQxRk1BSjdfR1FINEpYaEsxT3QwNWtZSUVOZVl0ZEVrYXl6cDRZWHFaT0V5eW5YeExmVzE1WjlYRXlLek5Qb1NaUnVHQ2djLTgzYk9nb25SVlE1RWdBa3lraUcwN1BlSV9BQXoteUxlYnU1UXFtSFN5b3l6LXNZdWtJVU45cFFQZHVPR25Wak0wRVNieGZfb0pOVmk5VkU?oc=5"
-        },
-        {
           "d": "nytimes.com",
           "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qRTdaNEVEY1g0TW1sQ3Y4bVJjME9nY1BmekJFSEZSVW9oQU5iZjRnWWNIU1laX2FDdzRHVF95THhPNXBMU056LV9LVnBaQVJLYkpOeVVrT1UtbXU5bkVjZVF1U2s5UHpyR2EtVXBtLUlFZTNJc0ptRg?oc=5"
         }
       ],
       "srcTitles": [
         "Barclays to cut 5,000 jobs and employ more artificial intelligence",
-        "Barclays Plans 5,000 Job Cuts as AI Push Reshapes Operations",
         "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs"
       ]
     },
@@ -431,6 +578,38 @@
       "srcTitles": [
         "Building the agent and securing it",
         "PerMIT: Securing Persistent Memory for LLM Agents via Machine-Checked Integrity Theorems and Scalable Community Trust"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-22T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Protecting De-identified Documents from Search-based Linkage Attacks",
+      "s": "arXiv:2510.06383v3 Announce Type: replace-cross Abstract: While de-identification models can help conceal the identity of the individuals mentioned in a document, they fail to address linkage risks, d",
+      "b": [
+        "arxiv.org: Protecting De-identified Documents from Search-based Linkage Attacks",
+        "simonwillison.net: DE STAAT"
+      ],
+      "body": [
+        "arxiv.org: arXiv:2510.06383v3 Announce Type: replace-cross Abstract: While de-identification models can help conceal the identity of the individuals mentioned in a document, they fail to address linkage risks, defined as the potential to map the de-identified text back to its source. One straightforward way to perform such linkages is to extract phrases from the de-identified document and check their presence in the original dataset. This paper presents a method to counter search-based linkage attacks while preserving the semantic integrity of the text. The method proceeds in two steps. We first construct an inverted index of the N-grams occurring in the text collection, making it possible to efficiently determine which N-grams appear in fewer than $k$ documents, either alone or in combination with other N-grams. An LLM-based rewriter is then iteratively queried to reformulate those spans until linkage is no longer possible. Experimental results on two datasets (court cases and Wikipedia biographies) show that the rewriting method can effectively prevent search-based linkages while remaining faithful to the original content. However, we also highlight that linkages remain feasible with the help of more advanced, semantics-oriented approaches.",
+        "simonwillison.net: DE STAAT - FREEDOM (Official Music Video) OK well this is a first for me... at 00:44 in this new music video by Dutch alternative rock band De Staat : The visual effects are credited to Matties Grooten of Fake it or Leave it . Via flir on Hacker News Tags: music , ai , generative-ai , pelican-riding-a-bicycle"
+      ],
+      "l": [
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2510.06383"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Oct/22/de-staat-freedom/"
+        }
+      ],
+      "srcTitles": [
+        "Protecting De-identified Documents from Search-based Linkage Attacks",
+        "DE STAAT"
       ]
     },
     {
@@ -510,7 +689,7 @@
     },
     {
       "cat": "models",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-10-21T22:16:44.000Z",
       "writtenSources": 2,
