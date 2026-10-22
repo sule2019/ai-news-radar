@@ -2,8 +2,78 @@
   "date": "2026-10-22",
   "stories": [
     {
+      "cat": "products",
+      "signal": 56,
+      "sources": 3,
+      "ts": "2026-10-22T10:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+      "s": "The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+      "b": [
+        "wired.com: Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+        "techmeme.com: Hugging Face releases Carbon-X, an open-source, 14B-parameter multimodal AI model to let users query DNA sequences via natural language, trained on 300B tokens (Emily Mullin/Wired)",
+        "reddit.com: Carbon-X is an open 14.8B model trained jointly on DNA and text [R]"
+      ],
+      "body": [
+        "wired.com: The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+        "techmeme.com: Emily Mullin / Wired : Hugging Face releases Carbon-X, an open-source, 14B-parameter multimodal AI model to let users query DNA sequences via natural language, trained on 300B tokens The new open-source model speaks the language of DNA and can help researchers understand the effects of any changes on gene activity and health.",
+        "reddit.com: Carbon-X is a 14.8B parameter decoder-only model that takes raw DNA in a normal chat and answers in English. It shares one token stream for text and DNA, using 6-mer tokens, and was mid-trained on 302B tokens. Hugging Face reports a 66.7% average across five DNA benchmarks with thinking disabled, versus 67.5% for GPT-6.1 Sol. The weights fit on one 80 GB GPU in bfloat16 and are Apache 2.0. It has not been clinically validated, and the model card says exact sequence operations should still be handled by code. the useful part is making sequence analysis local enough for sensitive datasets. has anyone tested whether the benchmark gains hold on private variant datasets? source: https://huggingface.co/HuggingFaceBio/Carbon-X submitted by /u/jatingargiitk [link] [comments]"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261022/p15#a261022p15"
+        },
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/"
+        }
+      ],
+      "srcTitles": [
+        "Hugging Face’s New AI Biology Model Lets You Chat With DNA",
+        "Hugging Face releases Carbon-X, an open-source, 14B-parameter multimodal AI model to let users query DNA sequences via natural language, trained on 300B tokens (Emily Mullin/Wired)",
+        "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-10-22T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Ensemble forecasting with IBM Granite time-series models",
+      "s": "Covered by 2 outlets.",
+      "b": [
+        "huggingface.co: Ensemble forecasting with IBM Granite time-series models",
+        "arxiv.org: Rethinking Agentic Model Orchestration for Time Series Forecasting"
+      ],
+      "body": [
+        "arxiv.org: arXiv:2610.29504v1 Announce Type: cross Abstract: Time series foundation models (TSFMs) perform unevenly across forecasting tasks. Recent work uses agentic model orchestration (AMO) to select or combine TSFMs, often outperforming individual forecasters. Yet these gains may reflect stronger or more complementary candidates rather than better orchestration. To disentangle these effects, we introduce FairAMO, a controlled evaluation protocol with frozen candidate forecasts. Experiments on GIFT-Eval show that AMO improves accuracy, but its gains are bounded by the candidate TSFMs. The best orchestrators reduce MASE by less than 6% relative to the best single TSFM across all tasks. These gains depend on complementarity (different candidates excel on different tasks) rather than the number of candidates. Adding members yields diminishing returns, and a redundant member can erase these gains. The value of historical evidence also saturates quickly. A few recent windows capture all gains, and further history adds none. These findings separate system-level forecasting gains from the contribution of orchestration itself."
+      ],
+      "l": [
+        {
+          "d": "huggingface.co",
+          "u": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.29504"
+        }
+      ],
+      "srcTitles": [
+        "Ensemble forecasting with IBM Granite time-series models",
+        "Rethinking Agentic Model Orchestration for Time Series Forecasting"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 58,
+      "signal": 55,
       "sources": 3,
       "ts": "2026-10-22T09:13:02.000Z",
       "writtenSources": 3,
@@ -42,38 +112,64 @@
     },
     {
       "cat": "models",
-      "signal": 56,
-      "sources": 2,
-      "ts": "2026-10-22T04:00:00.000Z",
-      "writtenSources": 2,
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-22T06:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "Ensemble forecasting with IBM Granite time-series models",
-      "s": "Covered by 2 outlets.",
+      "h": "What FDE means at OpenAI",
+      "s": "What forward deployed engineering means at OpenAI",
       "b": [
-        "huggingface.co: Ensemble forecasting with IBM Granite time-series models",
-        "arxiv.org: Rethinking Agentic Model Orchestration for Time Series Forecasting"
+        "openai.com: What FDE means at OpenAI"
       ],
       "body": [
-        "arxiv.org: arXiv:2610.29504v1 Announce Type: cross Abstract: Time series foundation models (TSFMs) perform unevenly across forecasting tasks. Recent work uses agentic model orchestration (AMO) to select or combine TSFMs, often outperforming individual forecasters. Yet these gains may reflect stronger or more complementary candidates rather than better orchestration. To disentangle these effects, we introduce FairAMO, a controlled evaluation protocol with frozen candidate forecasts. Experiments on GIFT-Eval show that AMO improves accuracy, but its gains are bounded by the candidate TSFMs. The best orchestrators reduce MASE by less than 6% relative to the best single TSFM across all tasks. These gains depend on complementarity (different candidates excel on different tasks) rather than the number of candidates. Adding members yields diminishing returns, and a redundant member can erase these gains. The value of historical evidence also saturates quickly. A few recent windows capture all gains, and further history adds none. These findings separate system-level forecasting gains from the contribution of orchestration itself."
+        "openai.com: What forward deployed engineering means at OpenAI"
       ],
       "l": [
         {
-          "d": "huggingface.co",
-          "u": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2610.29504"
+          "d": "openai.com",
+          "u": "https://openai.com/index/forward-deployed-engineering-means"
         }
       ],
       "srcTitles": [
-        "Ensemble forecasting with IBM Granite time-series models",
-        "Rethinking Agentic Model Orchestration for Time Series Forecasting"
+        "What FDE means at OpenAI"
       ]
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-10-22T11:17:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
+      "s": "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs The New York Times",
+      "b": [
+        "nytimes.com: Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
+        "computerweekly.com: Barclays to cut 5,000 jobs and employ more artificial intelligence"
+      ],
+      "body": [
+        "nytimes.com: Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs The New York Times",
+        "computerweekly.com: Barclays to cut 5,000 jobs and employ more artificial intelligence Computer Weekly"
+      ],
+      "l": [
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qRTdaNEVEY1g0TW1sQ3Y4bVJjME9nY1BmekJFSEZSVW9oQU5iZjRnWWNIU1laX2FDdzRHVF95THhPNXBMU056LV9LVnBaQVJLYkpOeVVrT1UtbXU5bkVjZVF1U2s5UHpyR2EtVXBtLUlFZTNJc0ptRg?oc=5"
+        },
+        {
+          "d": "computerweekly.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWE1hejU3MFd4QkgzRzZ2c3F3d3JpY1dwSUhSVGdRbnUzR0JOSVQ1UWF5UjRqY1c1V2xpNTJobUpzSmZ6dUtQWXhpd1hnSTc4QzBLOEdBVmV2RG9uZnRQWGhJMlduOHNCMVR1bklMUFk4aS0yLTNabC1iZ0hJT3NwZ1U2bVFqT01HbnpaRXhKMVI0aVI1NWJiU1c1RFNpbmxOc0RBSnZKN21IZkRzYnZqeQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Barclays to Cut 5,000 Jobs in A.I.-Driven Push to Lower Costs",
+        "Barclays to cut 5,000 jobs and employ more artificial intelligence"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
       "sources": 1,
       "ts": "2026-10-22T10:00:00.000Z",
       "writtenSources": 1,
@@ -98,27 +194,34 @@
     },
     {
       "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-10-22T08:41:18.000Z",
-      "writtenSources": 1,
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-22T08:32:21.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "AI s hidden storage bill: What inference leaves behind",
-      "s": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage ",
+      "h": "Enterprises don’t need artificial general intelligence. They need artificial specific intelligence",
+      "s": "Enterprises don’t need artificial general intelligence. They need artificial specific intelligence CIO",
       "b": [
-        "technologyreview.com: AI s hidden storage bill: What inference leaves behind"
+        "cio.com: Enterprises don’t need artificial general intelligence. They need artificial specific intelligence",
+        "hackernoon.com: Artificial Intelligence for Enterprise Architecture"
       ],
       "body": [
-        "technologyreview.com: Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs to be stored. But data storage is one of the harder infrastructure costs to plan for, and it’s often overlooked in initial AI infrastructure planning. As inference scales, the data footprint grows with it Traditionally, AI infrastructure conversations have centered on the compute-intensive process of training a model. Training is finite: a run starts, burns through compute, and ends. But inference runs continuously, every time a model answers a prompt. For infrastructure planning, that difference matters: A training run is a project you can budget for and retire. Inference doesn’t retire; every inference request leaves something behind. Take AI-generated video. In this workload, the back-end spend can be significant. From internal measurements, WD found that an 8-second clip (returned to a user as a 3.97MB 720p file) left more than 500MB of associated data behind on the back end, including logs, cached context, immediate renders, backups, and safety records. That’s a 130x increase over the output file size the user saw. Scale this to an enterprise generating longer, higher resolution video and the back-end footprint grows into the hundreds of gigabytes per clip. And that back-end footprint is growing fast. McKinsey projects AI inference demand will grow at a 35% CAGR through 2030, versus 22% for training, making up more than 40% of total data center demand by the end of the decade. A recent WD-sponsored IDC global white paper that surveyed 763 IT and business decision makers found that nearly 95% of respondents reported an increase in data volume due to generative AI over the past 12 months, with roughly 61% reporting gr"
+        "cio.com: Enterprises don’t need artificial general intelligence. They need artificial specific intelligence CIO",
+        "hackernoon.com: Artificial Intelligence for Enterprise Architecture HackerNoon"
       ],
       "l": [
         {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
+          "d": "cio.com",
+          "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVXc3OUZnX2NiVlBZNFlwUWJNTFlIZWgzT253VVVjYkIydDJZR25nQTRQa3BkYnc3eUQtTlFQS3RrVzJ4M1dDYUMxaW1RS0JJMjlrYVBXZ2xYbkp5UGZRei1DNVZhRFNtamV5VWNhd2Y3bWZkYk1sX1ZDZkdrcjVzMGlpOUplLUo5cWxYdlF3X1V4LWl5WVlPR0ZjOGluZEo3Tk5PbUFHOGNaaEpEOXJUdGUyNXc5b2hxX01kXzduWHZubWZfZUt2dmN0U1JHZlljdS1z?oc=5"
+        },
+        {
+          "d": "hackernoon.com",
+          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTE96SE5vTEt4dE13VVhjTWxNeGtsRjdXZnFUR3NITGNpVnQ3T1lXWkFZS09IQXNudGRjbVZMU2M5OWFCR0pyV3RFd1hfVkxReERXR1lUdHV3LWxXekNZM25zWXJ2YTVYUnZpRm9mcmVFLWxETVoxemhZTzc1M2YyU0U?oc=5"
         }
       ],
       "srcTitles": [
-        "AI s hidden storage bill: What inference leaves behind"
+        "Enterprises don’t need artificial general intelligence. They need artificial specific intelligence",
+        "Artificial Intelligence for Enterprise Architecture"
       ]
     },
     {
@@ -181,8 +284,33 @@
         }
       ],
       "srcTitles": [
-        "Artificial intelligence checks the trustworthiness breast cancer AI models",
+        "Artificial intelligence checks the trustworthiness of breast cancer AI models",
         "How artificial intelligence is helping doctors and patients fight breast cancer"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-22T08:41:18.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AI s hidden storage bill: What inference leaves behind",
+      "s": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage ",
+      "b": [
+        "technologyreview.com: AI s hidden storage bill: What inference leaves behind"
+      ],
+      "body": [
+        "technologyreview.com: Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs to be stored. But data storage is one of the harder infrastructure costs to plan for, and it’s often overlooked in initial AI infrastructure planning. As inference scales, the data footprint grows with it Traditionally, AI infrastructure conversations have centered on the compute-intensive process of training a model. Training is finite: a run starts, burns through compute, and ends. But inference runs continuously, every time a model answers a prompt. For infrastructure planning, that difference matters: A training run is a project you can budget for and retire. Inference doesn’t retire; every inference request leaves something behind. Take AI-generated video. In this workload, the back-end spend can be significant. From internal measurements, WD found that an 8-second clip (returned to a user as a 3.97MB 720p file) left more than 500MB of associated data behind on the back end, including logs, cached context, immediate renders, backups, and safety records. That’s a 130x increase over the output file size the user saw. Scale this to an enterprise generating longer, higher resolution video and the back-end footprint grows into the hundreds of gigabytes per clip. And that back-end footprint is growing fast. McKinsey projects AI inference demand will grow at a 35% CAGR through 2030, versus 22% for training, making up more than 40% of total data center demand by the end of the decade. A recent WD-sponsored IDC global white paper that surveyed 763 IT and business decision makers found that nearly 95% of respondents reported an increase in data volume due to generative AI over the past 12 months, with roughly 61% reporting gr"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/"
+        }
+      ],
+      "srcTitles": [
+        "AI s hidden storage bill: What inference leaves behind"
       ]
     }
   ]
