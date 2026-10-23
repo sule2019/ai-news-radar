@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 59,
+      "signal": 56,
       "sources": 2,
       "ts": "2026-10-23T04:50:55.000Z",
       "writtenSources": 2,
@@ -55,12 +55,45 @@
         }
       ],
       "srcTitles": [
+        "OpenAI and Poland’s NASK partner to advance AI safety and security",
         "OpenAI and Poland’s NASK partner to advance AI safety and security"
       ]
     },
     {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-22T22:12:53.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "‘Bumper sticker bill’: AI kill switch rides the midterm elections wave",
+      "s": "‘Bumper sticker bill’: AI kill switch rides the midterm elections wave Politico",
+      "b": [
+        "politico.com: ‘Bumper sticker bill’: AI kill switch rides the midterm elections wave",
+        "punchbowl.news: AI kill switch momentum"
+      ],
+      "body": [
+        "politico.com: ‘Bumper sticker bill’: AI kill switch rides the midterm elections wave Politico",
+        "punchbowl.news: AI kill switch momentum Punchbowl News"
+      ],
+      "l": [
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT3Rhc2J4YTFubEFNTlZKdzBOZGdPVF9nYXBhS01OUVJlX09PS1RtWTdhR0NzMU5HLUNUT21jdnJXODZnVm5ZYkJOaFVtaERvcEVPQnEyZDlOVmdnOS12czkyempuN193aW9COGJQZTJkRXZ6VWJqQ2xPZ1hrNjFHRVlpZ2JtVHVXb0E?oc=5"
+        },
+        {
+          "d": "punchbowl.news",
+          "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kcTlyckJTemw3RmVqZkdxbzEyMDdSc1A2WkFTVjk5WkZaVXRHd21zR2E3WFppTXdud09scHNxbndZalVNLUlHRzZ0RXFyZUt5eEwyZnpTY1ltT2FvY3hETg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "‘Bumper sticker bill’: AI kill switch rides the midterm elections wave",
+        "AI kill switch momentum"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 29,
+      "signal": 25,
       "sources": 2,
       "ts": "2026-10-22T23:03:09.000Z",
       "writtenSources": 2,
