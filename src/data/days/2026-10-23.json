@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-10-23T04:50:55.000Z",
       "writtenSources": 2,
@@ -34,6 +34,31 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-10-23T17:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "s": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "b": [
+        "openai.com: Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
+      ],
+      "body": [
+        "openai.com: Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+        }
+      ],
+      "srcTitles": [
+        "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 46,
       "sources": 1,
@@ -61,7 +86,39 @@
     },
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-10-23T16:05:04.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Layoffs linked to changes in corporate AI spending",
+      "s": "Layoffs linked to changes in corporate AI spending WRAL",
+      "b": [
+        "wral.com: Layoffs linked to changes in corporate AI spending",
+        "ktvn.com: Layoffs linked to changes in corporate AI spending | National News | 2news.com"
+      ],
+      "body": [
+        "wral.com: Layoffs linked to changes in corporate AI spending WRAL",
+        "ktvn.com: Layoffs linked to changes in corporate AI spending | National News | 2news.com KTVN"
+      ],
+      "l": [
+        {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSW5HVWdoNk5sWnZVck1nYmZyWUI4WmlLTWtnSzBZaEg5clVLTHJBVDd1MW11ckEtbkthNmxFcUVoWktUcGZtZTEya19QbHVEQjdmTDNjUkFmSFhRdUxfQ1Niek5IVElCNzh6WFByamh5eFRXaldjY1BtajNVSkFlTVgxZmM4eGtuQ0pyT0RRVQ?oc=5"
+        },
+        {
+          "d": "ktvn.com",
+          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON0k3RFBNRDRKTTlDMngzVk5uQXIxUzZtWVRoMkpEYmdlVlNkTFYtRGVfR1I2YjlGU3U4LWluS2kxaThESC1PbklOXzVaQU5kVzNIVU1jN3lldlFpVHRMM2x2SDgwLXBBTkFTcHFiNTNORzFlUExkZFFibU11NzY5RWNJMUpxb1NwNmZWa00zLVgtUVR5ODVJX3NfN2JWdFF3ajdYbmg4YVNKaWJ2elJmT19OMy1pazJ4UFN4NnkxcFJROS1LRlJ4YV83b085RkE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Layoffs linked to changes in corporate AI spending",
+        "Layoffs linked to changes in corporate AI spending | National News | 2news.com"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
       "sources": 2,
       "ts": "2026-10-22T22:12:53.000Z",
       "writtenSources": 2,
@@ -93,7 +150,7 @@
     },
     {
       "cat": "funding",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-10-22T23:03:09.000Z",
       "writtenSources": 2,
