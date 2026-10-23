@@ -2,6 +2,38 @@
   "date": "2026-10-23",
   "stories": [
     {
+      "cat": "models",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-23T20:20:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI now trains its frontier AI models with no internet access",
+      "s": "OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment ",
+      "b": [
+        "theverge.com: OpenAI now trains its frontier AI models with no internet access",
+        "techmeme.com: OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established (Rachel Metz/Bloomberg)"
+      ],
+      "body": [
+        "theverge.com: OpenAI is now training its most advanced AI models without internet access following a string of rogue hacking incidents. In a blog post on Friday, OpenAI says it built an offline testing environment where AI models can interact with indexed and cached web content \"without risk of affecting external systems.\" OpenAI paused training its frontier [ ]",
+        "techmeme.com: Rachel Metz / Bloomberg : OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established OpenAI has begun cutting off internet access for its most capable artificial intelligence models during the training process"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261023/p20#a261023p20"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI now trains its frontier AI models with no internet access",
+        "OpenAI plans to restrict internet access for its frontier models during training until adequate alignment, monitoring, and security safeguards are established (Rachel Metz/Bloomberg)"
+      ]
+    },
+    {
       "cat": "products",
       "signal": 59,
       "sources": 2,
@@ -35,7 +67,7 @@
     },
     {
       "cat": "models",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-10-23T10:40:01.000Z",
       "writtenSources": 2,
@@ -67,7 +99,7 @@
     },
     {
       "cat": "funding",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-10-23T17:00:00.000Z",
       "writtenSources": 1,
@@ -117,7 +149,7 @@
     },
     {
       "cat": "products",
-      "signal": 44,
+      "signal": 40,
       "sources": 2,
       "ts": "2026-10-23T04:50:55.000Z",
       "writtenSources": 2,
@@ -150,6 +182,31 @@
     {
       "cat": "models",
       "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-23T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Securing our frontier model training environment",
+      "s": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "b": [
+        "openai.com: Securing our frontier model training environment"
+      ],
+      "body": [
+        "openai.com: OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/securing-our-frontier-model-training-environment"
+        }
+      ],
+      "srcTitles": [
+        "Securing our frontier model training environment"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 20,
       "sources": 2,
       "ts": "2026-10-23T16:05:04.000Z",
       "writtenSources": 2,
@@ -177,31 +234,6 @@
       "srcTitles": [
         "Layoffs linked to changes in corporate AI spending",
         "Layoffs linked to changes in corporate AI spending | National News | 2news.com"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-10-23T10:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Securing our frontier model training environment",
-      "s": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
-      "b": [
-        "openai.com: Securing our frontier model training environment"
-      ],
-      "body": [
-        "openai.com: OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/securing-our-frontier-model-training-environment"
-        }
-      ],
-      "srcTitles": [
-        "Securing our frontier model training environment"
       ]
     },
     {
