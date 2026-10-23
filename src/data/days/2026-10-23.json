@@ -2,6 +2,38 @@
   "date": "2026-10-23",
   "stories": [
     {
+      "cat": "products",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-10-23T17:45:05.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Moonshot unveils Kimi K3.1 Pro, a 3T-class open-weight model with a 1M-token context window, and K3.1 Pro Highspeed, with full weights to be released by Nov. 4 (Kimi)",
+      "s": "Kimi : Moonshot unveils Kimi K3.1 Pro, a 3T-class open-weight model with a 1M-token context window, and K3.1 Pro Highspeed, with full weights to be released by Nov. 4 We're introducing Kimi K3.1 Pro, ",
+      "b": [
+        "techmeme.com: Moonshot unveils Kimi K3.1 Pro, a 3T-class open-weight model with a 1M-token context window, and K3.1 Pro Highspeed, with full weights to be released by Nov. 4 (Kimi)",
+        "simonwillison.net: Introducing Kimi K3.1 Pro"
+      ],
+      "body": [
+        "techmeme.com: Kimi : Moonshot unveils Kimi K3.1 Pro, a 3T-class open-weight model with a 1M-token context window, and K3.1 Pro Highspeed, with full weights to be released by Nov. 4 We're introducing Kimi K3.1 Pro, the first model in our new K3.1 series and our most capable 3T-class open-weight model to date, with a 1-million-token context window.",
+        "simonwillison.net: Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster, at twice the price (except for input token cache hits, which are priced the same). The US dollar pricing is $2.00/million tokens for input and $10/million for output - the same as GPT-6.1 Sol and half the price of Claude Opus 5.5. Moonshot's own benchmarks show Kimi as approximately level with Opus 5.5 and GPT-6 Astra - beating them on a few benchmarks, coming close on others. Artificial Analysis scored Kimi at 55 - ahead of Claude Fable 5.1, GPT-6 Astra, and Gemini 4 Argon (all at 53) and behind only Claude Opus 5.5 (58). This is the first time a (soon-to-be) open weight model has scored this highly against the frontier. I tried it out via the Moonshot API using the llm openai endpoint command I added to LLM 0.32 back in August: llm openai endpoint \\ https://api.moonshot.ai/v1 \\ --key kimi \\ -m kimi-k3.1-pro \\ \"Generate an SVG of a pelican riding a bicycle\" \\ --responses \\ -o reasoning_effort low \\ kimi-k3.1-pro-pelican-low.stdout.txt \\ 2 kimi-k3.1-pro-pelican-low.stderr.txt llm openai endpoint can run prompts against any OpenAI-compatible endpoint but doesn't log the results, hence the extra options to save stdout and stderr (the reasoning trace). Here are the pelicans I got for Kimi K3.1 Pro on the three reasoning levels it supports - low, medium, and max. This is max: For comparison, I ran fresh pelicans against Kimi K3 on those three reasoning levels. Via Hacker News Tags: ai , generative-ai , llms , llm , llm-pricing , pelican-riding-a-bicycle , llm-release , ai-in-china , moonshot , kimi"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261023/p15#a261023p15"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/"
+        }
+      ],
+      "srcTitles": [
+        "Moonshot unveils Kimi K3.1 Pro, a 3T-class open-weight model with a 1M-token context window, and K3.1 Pro Highspeed, with full weights to be released by Nov. 4 (Kimi)",
+        "Introducing Kimi K3.1 Pro"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 56,
       "sources": 2,
@@ -35,7 +67,7 @@
     },
     {
       "cat": "funding",
-      "signal": 52,
+      "signal": 49,
       "sources": 1,
       "ts": "2026-10-23T17:00:00.000Z",
       "writtenSources": 1,
@@ -59,8 +91,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-23T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "s": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "b": [
+        "openai.com: OpenAI and Poland’s NASK partner to advance AI safety and security"
+      ],
+      "body": [
+        "openai.com: OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI and Poland’s NASK partner to advance AI safety and security"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-10-23T04:50:55.000Z",
       "writtenSources": 2,
@@ -92,32 +149,7 @@
     },
     {
       "cat": "models",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-10-23T00:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "OpenAI and Poland’s NASK partner to advance AI safety and security",
-      "s": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
-      "b": [
-        "openai.com: OpenAI and Poland’s NASK partner to advance AI safety and security"
-      ],
-      "body": [
-        "openai.com: OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
-        }
-      ],
-      "srcTitles": [
-        "OpenAI and Poland’s NASK partner to advance AI safety and security"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 28,
+      "signal": 24,
       "sources": 2,
       "ts": "2026-10-23T16:05:04.000Z",
       "writtenSources": 2,
@@ -149,34 +181,27 @@
     },
     {
       "cat": "models",
-      "signal": 18,
-      "sources": 2,
-      "ts": "2026-10-22T22:12:53.000Z",
-      "writtenSources": 2,
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-23T10:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "‘Bumper sticker bill’: AI kill switch rides the midterm elections wave",
-      "s": "‘Bumper sticker bill’: AI kill switch rides the midterm elections wave Politico",
+      "h": "Securing our frontier model training environment",
+      "s": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
       "b": [
-        "politico.com: ‘Bumper sticker bill’: AI kill switch rides the midterm elections wave",
-        "punchbowl.news: AI kill switch momentum"
+        "openai.com: Securing our frontier model training environment"
       ],
       "body": [
-        "politico.com: ‘Bumper sticker bill’: AI kill switch rides the midterm elections wave Politico",
-        "punchbowl.news: AI kill switch momentum Punchbowl News"
+        "openai.com: OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming."
       ],
       "l": [
         {
-          "d": "politico.com",
-          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT3Rhc2J4YTFubEFNTlZKdzBOZGdPVF9nYXBhS01OUVJlX09PS1RtWTdhR0NzMU5HLUNUT21jdnJXODZnVm5ZYkJOaFVtaERvcEVPQnEyZDlOVmdnOS12czkyempuN193aW9COGJQZTJkRXZ6VWJqQ2xPZ1hrNjFHRVlpZ2JtVHVXb0E?oc=5"
-        },
-        {
-          "d": "punchbowl.news",
-          "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kcTlyckJTemw3RmVqZkdxbzEyMDdSc1A2WkFTVjk5WkZaVXRHd21zR2E3WFppTXdud09scHNxbndZalVNLUlHRzZ0RXFyZUt5eEwyZnpTY1ltT2FvY3hETg?oc=5"
+          "d": "openai.com",
+          "u": "https://openai.com/index/securing-our-frontier-model-training-environment"
         }
       ],
       "srcTitles": [
-        "‘Bumper sticker bill’: AI kill switch rides the midterm elections wave",
-        "AI kill switch momentum"
+        "Securing our frontier model training environment"
       ]
     },
     {
@@ -209,6 +234,38 @@
       "srcTitles": [
         "US Treasury proposes rules tightening restrictions on US investments in areas including AI and supercomputing in China, Russia, and other \"countries of concern\" (Associated Press)",
         "US Treasury proposes a rule to crack down on high-tech investments in China, other adversaries - ABC News"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-10-22T22:12:53.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "‘Bumper sticker bill’: AI kill switch rides the midterm elections wave",
+      "s": "‘Bumper sticker bill’: AI kill switch rides the midterm elections wave Politico",
+      "b": [
+        "politico.com: ‘Bumper sticker bill’: AI kill switch rides the midterm elections wave",
+        "punchbowl.news: AI kill switch momentum"
+      ],
+      "body": [
+        "politico.com: ‘Bumper sticker bill’: AI kill switch rides the midterm elections wave Politico",
+        "punchbowl.news: AI kill switch momentum Punchbowl News"
+      ],
+      "l": [
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT3Rhc2J4YTFubEFNTlZKdzBOZGdPVF9nYXBhS01OUVJlX09PS1RtWTdhR0NzMU5HLUNUT21jdnJXODZnVm5ZYkJOaFVtaERvcEVPQnEyZDlOVmdnOS12czkyempuN193aW9COGJQZTJkRXZ6VWJqQ2xPZ1hrNjFHRVlpZ2JtVHVXb0E?oc=5"
+        },
+        {
+          "d": "punchbowl.news",
+          "u": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kcTlyckJTemw3RmVqZkdxbzEyMDdSc1A2WkFTVjk5WkZaVXRHd21zR2E3WFppTXdud09scHNxbndZalVNLUlHRzZ0RXFyZUt5eEwyZnpTY1ltT2FvY3hETg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "‘Bumper sticker bill’: AI kill switch rides the midterm elections wave",
+        "AI kill switch momentum"
       ]
     }
   ]
