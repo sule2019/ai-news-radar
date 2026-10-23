@@ -2,8 +2,65 @@
   "date": "2026-10-23",
   "stories": [
     {
-      "cat": "products",
+      "cat": "models",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-10-23T10:40:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: Anthropic and London-based PE firm Hg agree to launch a consultancy by the end of 2026 to embed AI consultants and engineers into European businesses (Financial Times)",
+      "s": "Financial Times : Sources: Anthropic and London-based PE firm Hg agree to launch a consultancy by the end of 2026 to embed AI consultants and engineers into European businesses New company backed by A",
+      "b": [
+        "techmeme.com: Sources: Anthropic and London-based PE firm Hg agree to launch a consultancy by the end of 2026 to embed AI consultants and engineers into European businesses (Financial Times)",
+        "pymnts.com: Anthropic and Hg Form Company to Embed AI Engineers in European Enterprises"
+      ],
+      "body": [
+        "techmeme.com: Financial Times : Sources: Anthropic and London-based PE firm Hg agree to launch a consultancy by the end of 2026 to embed AI consultants and engineers into European businesses New company backed by Anthropic and UK buyout group Hg will advise companies on how to deploy AI",
+        "pymnts.com: Anthropic and Hg Form Company to Embed AI Engineers in European Enterprises PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261023/p7#a261023p7"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQXdyMmotRUxLbzBiZE9IMjllemwxZmZ2b2xKb0VkVm9wNVB0aGdMQUg3ZHpXYjBYVnBKQTJiNUc3b0o0LVp5XzdwY0NhNGFKbzZIanZQUk1mcndWNXpuOWdSRk1WUWVkU1hPU0JZRkp1THNHX1pCRnlTMnpQMGJBQVNjdGJabFBCcTVsbldMSVZXWDdqQlRybUtfLTl1WWd0amIxb0d3TllvM08yOVNjZVc0V3BTSEhUbmxsc3g3THNzdHlpWDN4TG5kc0pCdw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: Anthropic and London-based PE firm Hg agree to launch a consultancy by the end of 2026 to embed AI consultants and engineers into European businesses (Financial Times)",
+        "Anthropic and Hg Form Company to Embed AI Engineers in European Enterprises"
+      ]
+    },
+    {
+      "cat": "funding",
       "signal": 52,
+      "sources": 1,
+      "ts": "2026-10-23T17:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "s": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
+      "b": [
+        "openai.com: Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
+      ],
+      "body": [
+        "openai.com: Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
+        }
+      ],
+      "srcTitles": [
+        "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 48,
       "sources": 2,
       "ts": "2026-10-23T04:50:55.000Z",
       "writtenSources": 2,
@@ -34,31 +91,6 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 52,
-      "sources": 1,
-      "ts": "2026-10-23T17:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "s": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
-      "b": [
-        "openai.com: Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
-      ],
-      "body": [
-        "openai.com: Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/scaling-storage-one-billion-users-part-two"
-        }
-      ],
-      "srcTitles": [
-        "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 46,
       "sources": 1,
@@ -80,13 +112,12 @@
         }
       ],
       "srcTitles": [
-        "OpenAI and Poland’s NASK partner to advance AI safety and security",
         "OpenAI and Poland’s NASK partner to advance AI safety and security"
       ]
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-10-23T16:05:04.000Z",
       "writtenSources": 2,
@@ -118,7 +149,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-10-22T22:12:53.000Z",
       "writtenSources": 2,
@@ -150,7 +181,7 @@
     },
     {
       "cat": "funding",
-      "signal": 17,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-10-22T23:03:09.000Z",
       "writtenSources": 2,
