@@ -2,8 +2,65 @@
   "date": "2026-10-23",
   "stories": [
     {
+      "cat": "products",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-10-23T04:50:55.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls (Bloomberg)",
+      "s": "Bloomberg : Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls DeepSeek and MiniMax Group Inc",
+      "b": [
+        "techmeme.com: Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls (Bloomberg)",
+        "scmp.com: DeepSeek, MiniMax secure open-source licences days after new China export rules"
+      ],
+      "body": [
+        "techmeme.com: Bloomberg : Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls DeepSeek and MiniMax Group Inc. have won approval to deploy models overseas, part of a wave of homegrown AI technologies that Beijing",
+        "scmp.com: DeepSeek, MiniMax secure open-source licences days after new China export rules South China Morning Post"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261023/p2#a261023p2"
+        },
+        {
+          "d": "scmp.com",
+          "u": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdnV4SzNzeVJsZ09SV1IzNVRrOVRYTklVZEJtSVYxWkJFTDhnUzVoeUhwSWJfRXlRVzNEUVVpTzBJdGdPc3ZMbHR6cnZpNmdkbkZ5cmVMV3dXSVgtN1dhVHdBek9hckIzVnd1cnAwLWJpYkI1QlJweVg3dFM0anVuRzBwanFDczBJdXk4QlY4V2ItNEpOd3JDOVpDeElLWlVQempBT2pIME53N3V2ZE95aHJRTEpDakpmbTdPOUVDTzBndjlRVUkzeHVrTDE1bVl5dGgyWTdR0gHWAUFVX3lxTE9LYU1POXJiUWt2RmdwWDd6cUZHdkt5djdMUGNTdXRCcURfbV9pSVp6TFUzZmlnQTBfVHZVRzJwZDRHTjlJSldUeUxpUFgwTDMtaHROWXZiYmpKZ00wSDhvZWtrcnRuMEFvRHUwZW4wN1pkcjFJcjFGMzJzX3pvXzktbjdxWi1qLUZTT1hQNmVaSUhmdWtSSUZnUGl5OXEwQmM2OGQ0YVVEYzI4b1p1RDl3LXQ5NmdHX294ZmhEbTUxUEJOOTctR1phVmZUbUhLUDhPZzROZlE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Chinese state media: DeepSeek and MiniMax completed registration and won approval to open-source and deploy AI models overseas under proposed export controls (Bloomberg)",
+        "DeepSeek, MiniMax secure open-source licences days after new China export rules"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-23T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "s": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
+      "b": [
+        "openai.com: OpenAI and Poland’s NASK partner to advance AI safety and security"
+      ],
+      "body": [
+        "openai.com: OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/openai-nask-ai-safety-security-partnership"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI and Poland’s NASK partner to advance AI safety and security"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 37,
+      "signal": 33,
       "sources": 2,
       "ts": "2026-10-22T23:03:09.000Z",
       "writtenSources": 2,
