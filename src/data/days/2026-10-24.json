@@ -1,4 +1,37 @@
 {
   "date": "2026-10-24",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-10-24T10:24:40.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Block s new voice model sounds eerily human",
+      "s": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "b": [
+        "techcrunch.com: Block s new voice model sounds eerily human",
+        "gizmodo.com: Check Out the Many Uncanny, Human-ish Voices From Block’s New AI Model"
+      ],
+      "body": [
+        "techcrunch.com: Block said that the voice model can run locally on a MacBook M4 Max",
+        "gizmodo.com: Check Out the Many Uncanny, Human-ish Voices From Block’s New AI Model Gizmodo"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/"
+        },
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbXBMaW5TTE14TmQ3WDF0Und5eDRka09adl8zbHJEajdiZzZ0dnpKV2RMZWQ2cXBFTm80Q2J2S1hnS3ppNmJVRHM3TmxuNzhmZ2RBaGhYVkRlM1RjejA4SmFGRGpXTllRaEdJSWRLS1EtQ2hZNU5yQjdBSHItUmhkc0cyNl9WRWZVTk9XR051RjhCWXRIdjY5SmpJX1hHc29U?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Block s new voice model sounds eerily human",
+        "Check Out the Many Uncanny, Human-ish Voices From Block’s New AI Model"
+      ]
+    }
+  ]
 }
