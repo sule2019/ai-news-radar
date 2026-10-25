@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 49,
-      "sources": 4,
+      "signal": 36,
+      "sources": 2,
       "ts": "2026-10-25T07:28:01.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,14 +20,6 @@
       ],
       "l": [
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
-        },
-        {
-          "d": "theatlantic.com",
-          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xT0l3UDNRNU52X3BUNkFfRC1EN094MjRUMFZQRlRFNWI0S0dLS2FwbmRjWFNxd0N4Y0VDQXZ1TjU0VGtRdXlBSEFTMUpmSDJzNTNabzdnVkRHWGNrSTg3YkpPSVkyNmxhT1Q4b0JpZDFweFBwdE4wT0xKdkxzQQ?oc=5"
-        },
-        {
           "d": "finance.yahoo.com",
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHU5T18tS3F5UFdTNEpMc0lONG5EaE56SFQ2V2ZreUtyR1BiTElPUnpVNjZsbngxU3V4YTdKbmpDcV91S0NfQkpuZ25kNkdyUVdGZmh0R01kNl8xYi1VNnBCejltd2Q1TmI3d2dMUS1jcnBPbmZJM0RSZ0JxNFFZNUpETEYwRXVOMjBpRTR6ejI5WExCYUNmVQ?oc=5"
         },
@@ -37,10 +29,40 @@
         }
       ],
       "srcTitles": [
-        "r/opensource just banned AI, non-English speakers, and more",
-        "r/opensource just banned AI, non-English speakers, and more",
-        "AI Terrorism Is Just Terrorism",
+        "SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit",
         "SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-10-25T18:45:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Spanberger Orders Statewide Cybersecurity Plan to Address Growing Threats From Artificial Intelligence",
+      "s": "Spanberger Orders Statewide Cybersecurity Plan to Address Growing Threats From Artificial Intelligence Royal Examiner",
+      "b": [
+        "royalexaminer.com: Spanberger Orders Statewide Cybersecurity Plan to Address Growing Threats From Artificial Intelligence",
+        "scworld.com: Virginia governor orders new cybersecurity plan to address artificial intelligence risks"
+      ],
+      "body": [
+        "royalexaminer.com: Spanberger Orders Statewide Cybersecurity Plan to Address Growing Threats From Artificial Intelligence Royal Examiner",
+        "scworld.com: Virginia governor orders new cybersecurity plan to address artificial intelligence risks SC Media"
+      ],
+      "l": [
+        {
+          "d": "royalexaminer.com",
+          "u": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaDFZZjNacHZKZ0djUThVdDdMSXlHendSWi1vYnNNT1NnYTd0ckFNaFNmdlpodktRZ3VYOXk0dGZ0emxpNGdzN3BiZmhBY0dqOEpra0xRVkFITk5MdHRKa1NQRTRFemhiV0F0bHJLbmU4WTNPbkp2QnYybmFEYzIzNGowcVVBcU9POC1nNUxlNExjUnlQRDVtUkgtVl9MMXdtNHhfOEZLUE1OcU5teXhTTUM4RGxlaFV1dU01NUgtUFlZMUlvSW9MeA?oc=5"
+        },
+        {
+          "d": "scworld.com",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdldKMDlfNGJ4R1pQMURfYlFfc2N4Y0c5eEZDOHVlRUdZTjJ0S2plTTkzc0lCRXdEYURWWFZjZXZtckkxbGFrbFFHc3FsUk9NMzg2ZnRhSEpVMVQySlk2dlA0MHBFc0l2aGI3dUVrUUtvSndyLXZxSk0wTURaaksyckR2ZHRKLUxPdWhnOHhyV0VPbHpqVXB4eXMxYWlYdGxfeFRxTEphMTBBN0h5cEJBNzE3dFJzRXNJcnc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Spanberger Orders Statewide Cybersecurity Plan to Address Growing Threats From Artificial Intelligence",
+        "Virginia governor orders new cybersecurity plan to address artificial intelligence risks"
       ]
     },
     {
