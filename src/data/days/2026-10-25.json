@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 36,
-      "sources": 2,
+      "signal": 49,
+      "sources": 4,
       "ts": "2026-10-25T07:28:01.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,6 +20,14 @@
       ],
       "l": [
         {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban"
+        },
+        {
+          "d": "theatlantic.com",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xT0l3UDNRNU52X3BUNkFfRC1EN094MjRUMFZQRlRFNWI0S0dLS2FwbmRjWFNxd0N4Y0VDQXZ1TjU0VGtRdXlBSEFTMUpmSDJzNTNabzdnVkRHWGNrSTg3YkpPSVkyNmxhT1Q4b0JpZDFweFBwdE4wT0xKdkxzQQ?oc=5"
+        },
+        {
           "d": "finance.yahoo.com",
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVHU5T18tS3F5UFdTNEpMc0lONG5EaE56SFQ2V2ZreUtyR1BiTElPUnpVNjZsbngxU3V4YTdKbmpDcV91S0NfQkpuZ25kNkdyUVdGZmh0R01kNl8xYi1VNnBCejltd2Q1TmI3d2dMUS1jcnBPbmZJM0RSZ0JxNFFZNUpETEYwRXVOMjBpRTR6ejI5WExCYUNmVQ?oc=5"
         },
@@ -29,7 +37,9 @@
         }
       ],
       "srcTitles": [
-        "SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit",
+        "r/opensource just banned AI, non-English speakers, and more",
+        "r/opensource just banned AI, non-English speakers, and more",
+        "AI Terrorism Is Just Terrorism",
         "SpaceX Just Shared Great News for Artificial Intelligence (AI) Investors. Here Are 2 Stocks That Could Benefit"
       ]
     },
