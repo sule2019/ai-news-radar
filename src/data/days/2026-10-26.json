@@ -1,4 +1,37 @@
 {
   "date": "2026-10-26",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-10-26T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Businesses are hooked on AI. Do they know how much it will cost?",
+      "s": "Businesses are hooked on AI. Do they know how much it will cost? The Times",
+      "b": [
+        "thetimes.com: Businesses are hooked on AI. Do they know how much it will cost?",
+        "arxiv.org: Do VLAs Know They Will Fail? Interpretable Success and Failure Patterns in Physical AI Systems"
+      ],
+      "body": [
+        "thetimes.com: Businesses are hooked on AI. Do they know how much it will cost? The Times",
+        "arxiv.org: arXiv:2610.32208v1 Announce Type: cross Abstract: Vision-Language-Action (VLA) models have emerged as powerful general-purpose robot policies, but their successes and failures remain difficult to diagnose and understand. In this work, we show that sparse autoencoder (SAE) representations of OpenVLA activations contain outcome-predictive information and can be used to predict task failure before the robot reaches an unrecoverable state. Moreover, to provide insights into what common behaviors may contribute to these outcomes, we identify individual SAE features whose strong activations are associated with specific stages of success or failure, and uncover recurring behavioral patterns by localizing temporal intervals where these features exhibit significant activation changes. We further develop a VLM-based interpretation pipeline to generate behavioral descriptions of these patterns and validate their correspondence to feature activations on held-out intervals."
+      ],
+      "l": [
+        {
+          "d": "thetimes.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaGE3X1AwSERWUkNTcDI2ekpTdlBTVFhYdVZWRW1Yd2l3T0ExRTZMaEx2SXRPby02QjA1ZkZLZlJHdnRuRnRWdEVINzVxMU8wNW1CS1M0b0szWS0xQmVnNTZWNmFqUzhWbjU2bGt0ZWZENWNGbTRfell2ZEZOWmNvN2tkYTZGMU9xcnVVQy0xRnNaWG16WlZRczZjbmxobHFFMVp6VQ?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.32208"
+        }
+      ],
+      "srcTitles": [
+        "Businesses are hooked on AI. Do they know how much it will cost?",
+        "Do VLAs Know They Will Fail? Interpretable Success and Failure Patterns in Physical AI Systems"
+      ]
+    }
+  ]
 }
