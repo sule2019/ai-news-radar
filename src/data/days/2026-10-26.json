@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 75,
-      "sources": 44,
+      "signal": 72,
+      "sources": 31,
       "ts": "2026-10-26T13:05:26.000Z",
       "writtenSources": 11,
       "draft": true,
@@ -23,35 +23,67 @@
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnhmX1hHXzB1U09oV19TQkkxOHI2UTRVTG1COG9Qc29NWXpRWWRjb0p5UHpTb2hBT005bXlFUTUzdmtmQXpxQUc3QXNDSE91b2VBREZoWDl0ODBGRHJ2TG9NeDd6bzVTSnpSTnk0Rl9pdDVBR1JwQzRZUE1GVHJUN2RzMk5ITXk5dHpnVzRXUjJ2OFJIeEJDTWlqYm1nWmVQSmxET0FRUFBkQ1F5Q0E?oc=5"
-        },
-        {
-          "d": "fredericknewspost.com",
-          "u": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUkRvYV8xMXBTLVNhd21zZmNHeVdaU3dfSXBwMEhWbmhIaW9FMVdWSHQ3WW9nY0k5NndhWVAwZDVPRFVaUGR6UXhQUkZveDdXbVpNakJ6SXBCcW9OUDM3bXRCZ29MNXMwQXpwcXo4V1BqVkw0MEVZRzEzTjgydUlDdHBLQXQ3OTlFbE9KOXl1ekNoalNkT2IyZFJKbnRwQzhfdFVmemRrdndXcktmMzJpSkdUX0JRcFEzelZzcC1KSlN3M3c3NlNWQnBVUDc1QlgwRDFBdXFEa2s4eGJvdTBJdm96RnQzdGhaRzA1Yi1BRXc0WFRBMHZjOS1UaEZ6aWhiMDFMYjdYQmlfbEphcnFNaUxDS2JRVWpENFdTLWF6bmhiUzdrZGlJRWhCbGU5dw?oc=5"
-        },
-        {
-          "d": "greenfieldreporter.com",
-          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQTdZVmlwWlZXLXBlRkRfVzRLLXhWcFBpUzM3bkYxSGFyYnZ0RFQ1NUFyM3JKOXVYTmNVVEVqOTZzbXhjMWtZSDAtV1YwbDJxT1Y3QUxNUlJHRXI4ckNSVmxmVFJSSnVsQ3M0cUM2QkdTZ2NpYjU3Z3UtcGpMQk5wT2p2OXk0NWY1RHg1ZElmWThRd0ZLcjBNaVlvVy1mMlJlbTJDb2g1Y3lTYWJ1VWYtaEhEVE5LdHhBamlHU2ZoVC1Zc19yMjZacld2Q0ppenprbmlZT1JqTFRpRTQ5QlNDWA?oc=5"
+          "d": "ktar.com",
+          "u": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWGdaak9qQ2EtbGNlcW1yempmQ0JDbjE0WmR5bEtYeC1Wa2JiR2dFRUJZUUJFcDFONk1aQ3Nuckt5bWZocHBRZzNBaS1NWnU2UTZOaEJneUFPWnJTeEdreno0TG91elU2X1pyZnFqeWVJYl9aQUdSQWdubTU5NktoQ0hGZ2ptQnY4bnVVUkRJTEttN0FqV0RxUEhuVG1QSm1XWm0wQmJ0WmpoVzEzdVJ2MVFidEZ2ZnVNWThQaEVqaUU1RVRuTldJUnBOMA?oc=5"
         },
         {
           "d": "13newsnow.com",
           "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVWp5SHY1ZTVmYmFVQlNUcnhuckVFOWZtMk5YRE5XWE1Oc1pRWUp5bXNJMGdtbUJtY3p4dnlzZmY2cEhIS3JDUXh5X29kZmY3aVVKR1dVY3l3MHhFdzFacVgycE4tQ0Z6MFdpckVXeHpZZEdVZnhOWWd4MUdXT1ZQMmFyajlENGRWazBqVFhwSzFOVHRuWUFIWmVKNUpLSDgtZFpvckxNZFhZRV9yaTRmcDBrekQ4UGFieGh3cW1fdzNKR0FGYV9jdFZlZTRpTkdpRGRPZVBieXc5TW5LZTFQUzRwY3J6MFBkSWFZak5ONTdnOFV5a0tEZ2hYMzNFN3RTMVNlRlpfRVpNeGZ0M3VrTS1B?oc=5"
         },
         {
-          "d": "+40"
+          "d": "kcentv.com",
+          "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNbEgtWUkxWjhoMGE2WTBwV0l1NUoyQU40ZnZCZURmYXUtZFp5OVJkWnU2ZndfMlFhYmpweTViZUc4QlpLbXREZXlfY2FfVmdJSHZVd2RWbHg4THlvOVpOQUplNGtLUlFQTkJFOUVTTkMxVjc3Y0ZGc3Jod0lNVDIybzVpMGlWRERrUG1KaWtmNmcxWjcxSnRRU05fYnloZGVaeEszQjZWRFN4N3g0Q1FsbnQyNDNRckhJNkt1Q1Z5emloYnJvX1hSRkhGdVIxell2RWpoNFE1bC1oUEJnaXE3bmIyU1BIUXNZaGhQVC1jVEJONm5uWXp2eEJlN2hUNHdKc3R3UUpXSmZHOVJhWWc?oc=5"
+        },
+        {
+          "d": "ktvb.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQR0wzc3Q5aXdYZ3BYMTBRbVZZclJmNkRuTEF4Q1lzM3pDY0JmdGtYcjRqZzJ5N0puOXgzNmpWbXR0S192bkRmLTZ1NDNQaDV2Q3ZuT1BLazBfd1gyNXI4VTlDUnNMXzRZaUUxUTBPRDdzQkFvNldlZHFibTFhTDRtM0R2S080MGdFQ19yTjBDcFhsTk9DVnFFZ2FQOXRINU15X3NwZTZCN2lTV29PUHJzU0x2UHRmQm1YNkdReFU4cVVtWm9tbnZWTW9fa05QQmd2dUtZSWZNLUV5MFdDQk84UVpWSG9MbUdIZ1FTZ2R2a1VPY3lEaXVSV3drWFFUQkhDYzlTV29ZeVhMRUU?oc=5"
+        },
+        {
+          "d": "+27"
         }
       ],
       "srcTitles": [
         "Artificial intelligence giant Anthropic files papers to sell shares to the public for the first time",
-        "Artificial intelligence giant Anthropic files papers to sell shares to the public for the first time - The Frederick News-Post",
-        "Artificial intelligence giant Anthropic files papers to sell shares to the public for the first time - The Daily Reporter",
+        "Artificial intelligence giant Anthropic files to sell shares to the public for the first time",
+        "Artificial intelligence giant Anthropic files to sell shares to the public for the first time",
         "Artificial intelligence giant Anthropic files to sell shares to the public for the first time"
       ]
     },
     {
+      "cat": "models",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-26T21:55:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI announces three big science discoveries and a new way to work with academics",
+      "s": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math,",
+      "b": [
+        "theverge.com: OpenAI announces three big science discoveries and a new way to work with academics",
+        "techmeme.com: OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false (OpenAI)"
+      ],
+      "body": [
+        "theverge.com: Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three more \"major\" discoveries in math, computer science, and physics. What's different this time is the choice to have external experts that OpenAI describes as \"shepherds\" guiding the results in [ ]",
+        "techmeme.com: OpenAI : OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false We are announcing three new discoveries in mathematics, computer science, and physics about harmonic analysis, complexity theory, and quantum field theory."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1019143/openai-eth-kaseya-science-math-physics"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261026/p48#a261026p48"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI announces three big science discoveries and a new way to work with academics",
+        "OpenAI announces three breakthroughs in computer science, math, and physics, including that the Exponential Time Hypothesis, a longstanding conjecture, is false (OpenAI)"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 64,
+      "signal": 61,
       "sources": 2,
       "ts": "2026-10-26T19:30:01.000Z",
       "writtenSources": 2,
@@ -78,7 +110,7 @@
       ],
       "srcTitles": [
         "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
-        "Apple releases iOS 27.2, with Siri AI enhancements for recalling past conversations, understanding more personal context, supporting five new languages, more (Juli Clover/MacRumors)"
+        "Apple debuts iOS 27.2, with Siri AI enhancements for recalling past conversations, understanding more personal context, supporting five more languages, and more (Juli Clover/MacRumors)"
       ]
     },
     {
@@ -116,7 +148,7 @@
     {
       "cat": "models",
       "signal": 59,
-      "sources": 2,
+      "sources": 3,
       "ts": "2026-10-26T15:58:27.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -138,12 +170,17 @@
           "u": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
         },
         {
+          "d": "afr.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTk9HZkpPLXM0UjZic2pkenE5TzdqWGJveUVYRXZ3ZkxybVRsZDdGTE9rOHBDeTBkQ1llR19TdmNmVktGTTBDUmtLU2JKYmJKdkc5LUVXQ2lLUFVjUEt6dllFYzV2aktpVmdaUWJRcjNNTHNBYllIRVhSbzBtczd0Y2FnNVRDeWU2TlFXOTF0RzZRMHZOTVhlMEFaVlFRVk5HcmEzTGQyanBGMXZ4WWVZS2thYkEwNkQzb1Nj?oc=5"
+        },
+        {
           "d": "cbsnews.com",
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXJHaTJ5V1ZSN0VTUnlTaWg2a01sU21ybHExWjdCVDdEcU1QSUF0ZlVDRnd4NjRHOU1fdFl4SlNMc1hhQnN4ZDNiNi1JV2JJZmZ4S0N0SmdRVklSbjFQMnJqMnZjTy1WVTV4SGFZWnVDai1SaGw3RWJxbXR4NDZ6bTFtVUk4YjVvcFJIaHMwend2R1VoQ0JZeQ?oc=5"
         }
       ],
       "srcTitles": [
         "Microsoft offers buyouts to 60,000 employees",
+        "Microsoft to offer redundancy to 60,000 workers in new AI cost cut",
         "Microsoft offers buyouts to 60,000 workers as it pours money into AI"
       ]
     },
@@ -151,46 +188,69 @@
       "cat": "funding",
       "signal": 52,
       "sources": 3,
-      "ts": "2026-10-26T14:54:54.000Z",
-      "writtenSources": 2,
+      "ts": "2026-10-26T13:05:25.000Z",
+      "writtenSources": 3,
       "draft": true,
-      "h": "The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030",
-      "s": "The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030 The National Law Review",
+      "h": "Anthropic warns of AI's 'catastrophic risks' ahead of major IPO",
+      "s": "Anthropic warns of AI's 'catastrophic risks' ahead of major IPO BBC Anthropic files for potentially the biggest IPO ever even as CEO warns of risk to humanity from AI The Boston Globe Anthropic's IPO ",
       "b": [
-        "natlawreview.com: The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030",
-        "natlawreview.com: The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR.",
-        "natlawreview.com: The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030"
+        "bbc.com: Anthropic warns of AI's 'catastrophic risks' ahead of major IPO",
+        "newsnationnow.com: Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+        "finance.yahoo.com: Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI"
       ],
       "body": [
-        "natlawreview.com: The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030 The National Law Review",
-        "natlawreview.com: The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR. The National Law Review",
-        "natlawreview.com: The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030 The National Law Review",
-        "natlawreview.com: The Artificial Intelligence (AI) Robots Market Is Projected to Grow Rapidly at a 16.9% CAGR Until 2030 The National Law Review"
+        "bbc.com: Anthropic warns of AI's 'catastrophic risks' ahead of major IPO BBC Anthropic files for potentially the biggest IPO ever even as CEO warns of risk to humanity from AI The Boston Globe Anthropic's IPO plans: Record losses, AI risks and growth potential outlined in the S-1 CNBC Meet Anthropic’s Seven Founders as the A.I. Firm Prepares for an IPO The New York Times Anthropic’s Massive Revenue Surge Comes With Ballooning Computing Bill Bloomberg.com Artificial intelligence giant Anthropic files to sell shares to the public for the first time KING5.com Anthropic's Deal With Elon Musk's SpaceXAI Is Even Bigger Than We Knew, IPO Filing Shows Gizmodo Artificial intelligence giant Anthropic files papers to sell shares to the public for the first time The Frederick News-Post",
+        "newsnationnow.com: Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI NewsNation",
+        "finance.yahoo.com: Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI Yahoo Finance"
       ],
       "l": [
         {
-          "d": "natlawreview.com",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUpvdEp3cHAzS1dBWkZrVGlGRWxyQWJIOS0yRkVzVW4tbngyZ2puRWU2WTdRNTMwcEdKM1JzSEppVlNpWDh0ZVpYSzByc3lhSmVGWE40RGNRSlpENWp5ZUdsdTV2VEZlWHZRcmpXTk5vdkVhaXFEWXZzRUJiUDNGQTZfeFFrM3Fra2ozekdGc0ZYemxmRkpqMkF1M0NER08zQmZEbUhjY2VINmxuZnlmbXNSMng?oc=5"
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpRThpZzljUDVhR2FLUnEzald0ZTRNU09RTDIyazJvSDVmazJ4NGtleVFjY0dXRFNBX0gzQkZzTFNBQ1N5cEdxbG1jeU1DMXpYRGNTUS1kSHhiNHM?oc=5"
         },
         {
-          "d": "einpresswire.com",
-          "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa2tNbVlSSXJjTDZ2Um5IU1gyeTc4VUJseXQyd0dwcm5fV0lyRmhYQU14Wnk2UmpGYUxEdXZFVUktYnVob2ktZTNubnl5SUd3TmpuczJXSV9NQy1XUWlFMmtGX21PNzNmVHlocXRsX2xXcUl5Wjd0Q2VyRmQ0WG9lVHBhUnVtMGRqck5vaXZqeVMya1lXdzhLa2lMWmpZNkNwY0tmcDJuelRKUXRQN3ZOUzNQUWszMVFkVEs0Y2YzTF8yNUI2TmF4cUNseE9FUVFqUUF1cVQ0RWlqSmJtZVBJ?oc=5"
+          "d": "newsnationnow.com",
+          "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTms2S29td1drTmE0MmxOb3F0OFpkOGNxcHJpOExnYWZadVFNVno1dHMzSjhUR3NqZ21nYXFvWjE3YTNtMEtNQ3g1RGN0UkJ4Yk5LbmJHaUdJNjNZZmlzQm9TeEJLSTBFY3lJQVdiYWZtNkVZOFQ5djVzY1loWU5LcWFIaDdRaUh5UmxJcnBaUDUyZVVSTjhoUDFKdVJnbEI1M09QODVHazQwWkZhYlByQnlvTUtKR3EyU01oaGhGb3JkLXFUR1d3cjVkRTdYSGtXbmdLN0lOR1NjY2NpOG1IcnVpWlJJUdIB6wFBVV95cUxNdHhfWlR4UWxsVTV5cUxQVDdnNUM0MGFRZTE4aF9HVWpKQTFRbUdpLWt2S2RfbDhhaXJBalV6dks2LWx4RjNxNV9jcjFNaGljTDBlTzRBTVdsSjJIU3JwaWlZU21OUGJyMEgzc2pVXzVyMFRzZmtoa3ZYekxYR3VDX1NWTmRFUnJ0VFBfUGxYd3pLRWw1U3RqRVRaUTZBV3ljQTMxZThRbGJVcnVvUjlhYVVkX3JJUHF5eWVLM2Q5cWZXZDZYa2RNU3ZEcHN2bHRiVjcwaXFwZkVSWE9YSVdNQ3Y5UHNOcC1aa1ow?oc=5"
         },
         {
-          "d": "einnews.com",
-          "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYUtCN0pmS1dHNmNoTnhfUUNGd3owSjhUaHVfRG95cXFtS2syMFBubHFDS2tZZTR5YnhZX1NHTXBEN0Z1V2JKMzdSVjMtamR0aHlrcGJpbWNXWUVXUUo1d0pLdThoWmF1ZVpaRnFQb3JtSHZSWS11RlZvdktIRWJvRlFISDZBaGttVTVqMjB3MlEzMXJDUy1oSXJxbURFUVJCcUVBNFZRYnNod2NITkdZVXBaU3Y3bVJhWm40U3BPcXRWUVphYkF0eEFRX3F3Mk1pRFVjNEhhNzdMTWFMQmJ2LW4xLVQwSWctb3JZMFJn?oc=5"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnhmX1hHXzB1U09oV19TQkkxOHI2UTRVTG1COG9Qc29NWXpRWWRjb0p5UHpTb2hBT005bXlFUTUzdmtmQXpxQUc3QXNDSE91b2VBREZoWDl0ODBGRHJ2TG9NeDd6bzVTSnpSTnk0Rl9pdDVBR1JwQzRZUE1GVHJUN2RzMk5ITXk5dHpnVzRXUjJ2OFJIeEJDTWlqYm1nWmVQSmxET0FRUFBkQ1F5Q0E?oc=5"
         }
       ],
       "srcTitles": [
-        "The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030",
-        "The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR.",
-        "The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030",
-        "The Artificial Intelligence (AI) Robots Market Is Projected to Grow Rapidly at a 16.9% CAGR Until 2030"
+        "Anthropic warns of AI's 'catastrophic risks' ahead of major IPO",
+        "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI",
+        "Anthropic files for potentially the biggest IPO ever as CEO warns of risk to humanity from AI"
       ]
     },
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-10-26T22:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "s": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework.",
+      "b": [
+        "openai.com: Greptile takes bug detection beyond code review with GPT-6 Astra"
+      ],
+      "body": [
+        "openai.com: How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/greptile-code-review-codex-astra"
+        }
+      ],
+      "srcTitles": [
+        "Greptile takes bug detection beyond code review with GPT-6 Astra"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 47,
       "sources": 2,
       "ts": "2026-10-26T11:35:03.000Z",
       "writtenSources": 2,
@@ -222,7 +282,7 @@
     },
     {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-10-26T17:45:43.000Z",
       "writtenSources": 1,
@@ -246,35 +306,28 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 48,
-      "sources": 2,
-      "ts": "2026-10-26T13:21:05.000Z",
-      "writtenSources": 2,
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-26T13:45:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
-      "s": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions The New York Times",
+      "h": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases",
+      "s": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes.",
       "b": [
-        "nytimes.com: Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
-        "marketscreener.com: SpaceX Raises $40bn in Debt to Fund Its Artificial Intelligence Ambitions"
+        "openai.com: GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases"
       ],
       "body": [
-        "nytimes.com: Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions The New York Times",
-        "marketscreener.com: SpaceX Raises $40bn in Debt to Fund Its Artificial Intelligence Ambitions marketscreener.com"
+        "openai.com: CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
       ],
       "l": [
         {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkg2dkN4RXhnUnhBdkIzWENQYWJaVWNlb2M0dXVCMFptYVN6TEl3UGFRekt0TGYwRjQwc2V3RVlyaE0ya2xraGFOM1FHMG5EdGdFUmJ6UUJWRHhhaHZydXppeUtNN0swZE1rVFg0bEcyOXhlRWNQbnhQWTFpVDFhTlB4MWRYblZWZGZLNQ?oc=5"
-        },
-        {
-          "d": "marketscreener.com",
-          "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZUdyeWVjd2JSUzNkRk8ycndBQ0VuVzl2LUhLWkhaTkdZeU9YTnhfeXVCTnlIWE5vRjQzZ1lFcG9DVDVDZFNBdjZ2cDNITmhyTnZsTWFjaVJPa0FDdzJ2eDJJYUhQblRVWFFMQkhuUUNrMzN6aGpISm5rNHh2X3U4akxreG9oOG92TDBNNWdhV05ab2dOd1N6U3Z3R0JDUTUxVkJncGQ4eExQQmw5Y1hNLTFkYmZXcHFYS2xjTkk3bWhpc084dUZ0MGlLU1JmQWxrb0xtZDhnVVY2M0NKQ1F5RGMzM3lBZmVteDRjdWFNemlzV1FGZTlhZ0tB?oc=5"
+          "d": "openai.com",
+          "u": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security"
         }
       ],
       "srcTitles": [
-        "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
-        "SpaceX Raises $40bn in Debt to Fund Its Artificial Intelligence Ambitions"
+        "GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases"
       ]
     },
     {
@@ -353,60 +406,76 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-10-26T16:00:00.000Z",
-      "writtenSources": 1,
+      "cat": "funding",
+      "signal": 44,
+      "sources": 2,
+      "ts": "2026-10-26T13:21:05.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "Our newest AI Quest: Mapping the human brain",
-      "s": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "h": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
+      "s": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions The New York Times",
       "b": [
-        "blog.google: Our newest AI Quest: Mapping the human brain"
+        "nytimes.com: Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
+        "marketscreener.com: SpaceX Raises $40bn in Debt to Fund Its Artificial Intelligence Ambitions"
       ],
       "body": [
-        "blog.google: Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
+        "nytimes.com: Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions The New York Times",
+        "marketscreener.com: SpaceX Raises $40bn in Debt to Fund Its Artificial Intelligence Ambitions marketscreener.com"
       ],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkg2dkN4RXhnUnhBdkIzWENQYWJaVWNlb2M0dXVCMFptYVN6TEl3UGFRekt0TGYwRjQwc2V3RVlyaE0ya2xraGFOM1FHMG5EdGdFUmJ6UUJWRHhhaHZydXppeUtNN0swZE1rVFg0bEcyOXhlRWNQbnhQWTFpVDFhTlB4MWRYblZWZGZLNQ?oc=5"
+        },
+        {
+          "d": "marketscreener.com",
+          "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZUdyeWVjd2JSUzNkRk8ycndBQ0VuVzl2LUhLWkhaTkdZeU9YTnhfeXVCTnlIWE5vRjQzZ1lFcG9DVDVDZFNBdjZ2cDNITmhyTnZsTWFjaVJPa0FDdzJ2eDJJYUhQblRVWFFMQkhuUUNrMzN6aGpISm5rNHh2X3U4akxreG9oOG92TDBNNWdhV05ab2dOd1N6U3Z3R0JDUTUxVkJncGQ4eExQQmw5Y1hNLTFkYmZXcHFYS2xjTkk3bWhpc084dUZ0MGlLU1JmQWxrb0xtZDhnVVY2M0NKQ1F5RGMzM3lBZmVteDRjdWFNemlzV1FGZTlhZ0tB?oc=5"
         }
       ],
       "srcTitles": [
-        "Our newest AI Quest: Mapping the human brain"
+        "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
+        "SpaceX Raises $40bn in Debt to Fund Its Artificial Intelligence Ambitions"
       ]
     },
     {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-10-26T12:20:01.000Z",
+      "cat": "funding",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-10-26T14:54:54.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Illustration shows \"AI Artificial Intelligence\" words and keyboard",
-      "s": "Illustration shows \"AI Artificial Intelligence\" words and keyboard The Lufkin Daily News",
+      "h": "The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030",
+      "s": "The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030 The National Law Review",
       "b": [
-        "lufkindailynews.com: Illustration shows \"AI Artificial Intelligence\" words and keyboard",
-        "galvnews.com: FILE PHOTO: Illustration shows \"AI Artificial Intelligence\" words and keyboard"
+        "natlawreview.com: The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030",
+        "natlawreview.com: The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR.",
+        "natlawreview.com: The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030"
       ],
       "body": [
-        "lufkindailynews.com: Illustration shows \"AI Artificial Intelligence\" words and keyboard The Lufkin Daily News",
-        "galvnews.com: FILE PHOTO: Illustration shows \"AI Artificial Intelligence\" words and keyboard The Daily News | Texas' Oldest Newspaper"
+        "natlawreview.com: The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030 The National Law Review",
+        "natlawreview.com: The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR. The National Law Review",
+        "natlawreview.com: The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030 The National Law Review",
+        "natlawreview.com: The Artificial Intelligence (AI) Robots Market Is Projected to Grow Rapidly at a 16.9% CAGR Until 2030 The National Law Review"
       ],
       "l": [
         {
-          "d": "lufkindailynews.com",
-          "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSW5ibl92RHRsRWVBODI2WWQ4b2FXTkxLbHMzcWpIQllFOEtjNHJJSHRaLVhEZ3ZuUU1fZjdWM3RJbl8wc0pkN3hoTl9wX3laUlF6TGNtZm9lOUYxc3lXRUpPbU5WaV8yTWFmZTJoejdLRHZyejBNbEZFVjYtcDZuOTh0U0VCUGZPbWVDc2MtYzA2eFFRZUZnWW1ZT0VmdnJLX1FZSmNFbVNNMTE3S2FWSjQxVm1uZ0hkeGRrUE5neG1rTUw4dnBvdDNHUXlfNG5uMDQ4cmwtVS1TaGtFbi13UGNpSmpMYzdIeG1yZHJYQ1JGNVYw?oc=5"
+          "d": "natlawreview.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUW9CdkZJbFpBeF9sLVVkNEJKSGdMLU9GbVVoYVotamxTWnM5aThBdWNzTlZKRXNhOE9Ua0RSRlNGRmVJVm9ZRzZMcnhBeEw1U0JCV3ZRSUhmemZBYjYwZFkxckFkdTZYVk96bEczemZsN25KUEVJMW93bGdNa3BnaEtYcm81aG5RTnJnU1dzVEpwd0hETmFKa3hDNnhFbGlYVHNsN1lDQ2w3a3ota2hZcHFVSEl1Vzg?oc=5"
         },
         {
-          "d": "galvnews.com",
-          "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORXk5aklOWmxQSFlXRUNlTm1mbW10bWZIZkd4WHJiUXktNFNzM3lyd2s0ZDVqQlBNb3JmMWZjUG5QbVNBbVNDTXhTNmtEQnRneHBWYXU0dktmajFIX1Y4VTNuNXJCbXBTU0FHUl9FLUtYN0hPcFY4bE5OX3lGVFRtOEJlWm1nTEZCRnVjRVlORXI3TW1wcTVrWm83b2dmc0tYUVJFajducDdWclhvOXJSNlRkaDBKLWxrSVE3dnhtR1lsM2s5amtSV3VlTDRXX0JxSnJnQUFEd21yRm9VSE1uMF9UZlBOcm5xVzAwVExwbWkycWZjaENFRlhQU0tHM2c?oc=5"
+          "d": "einpresswire.com",
+          "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa2tNbVlSSXJjTDZ2Um5IU1gyeTc4VUJseXQyd0dwcm5fV0lyRmhYQU14Wnk2UmpGYUxEdXZFVUktYnVob2ktZTNubnl5SUd3TmpuczJXSV9NQy1XUWlFMmtGX21PNzNmVHlocXRsX2xXcUl5Wjd0Q2VyRmQ0WG9lVHBhUnVtMGRqck5vaXZqeVMya1lXdzhLa2lMWmpZNkNwY0tmcDJuelRKUXRQN3ZOUzNQUWszMVFkVEs0Y2YzTF8yNUI2TmF4cUNseE9FUVFqUUF1cVQ0RWlqSmJtZVBJ?oc=5"
+        },
+        {
+          "d": "einnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYUtCN0pmS1dHNmNoTnhfUUNGd3owSjhUaHVfRG95cXFtS2syMFBubHFDS2tZZTR5YnhZX1NHTXBEN0Z1V2JKMzdSVjMtamR0aHlrcGJpbWNXWUVXUUo1d0pLdThoWmF1ZVpaRnFQb3JtSHZSWS11RlZvdktIRWJvRlFISDZBaGttVTVqMjB3MlEzMXJDUy1oSXJxbURFUVJCcUVBNFZRYnNod2NITkdZVXBaU3Y3bVJhWm40U3BPcXRWUVphYkF0eEFRX3F3Mk1pRFVjNEhhNzdMTWFMQmJ2LW4xLVQwSWctb3JZMFJn?oc=5"
         }
       ],
       "srcTitles": [
-        "Illustration shows \"AI Artificial Intelligence\" words and keyboard",
-        "FILE PHOTO: Illustration shows \"AI Artificial Intelligence\" words and keyboard"
+        "Global Generative Artificial Intelligence (AI) in Gaming Market S",
+        "The Artificial Intelligence (AI) Annotation Market is Projected to Experience Robust Growth with a 27.8% CAGR Forecast",
+        "Competitive Analysis of Artificial Intelligence (AI) Applications for Smart Cities Market Among Top Global Companies",
+        "The Artificial Intelligence (AI) in Synthetic Data Market is expected to grow to $9.35 billion by 2030"
       ]
     },
     {
@@ -445,8 +514,115 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-26T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Our newest AI Quest: Mapping the human brain",
+      "s": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "b": [
+        "blog.google: Our newest AI Quest: Mapping the human brain"
+      ],
+      "body": [
+        "blog.google: Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+        }
+      ],
+      "srcTitles": [
+        "Our newest AI Quest: Mapping the human brain"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-26T14:30:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Working with academic communities to build scientific understanding",
+      "s": "OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them.",
+      "b": [
+        "openai.com: Working with academic communities to build scientific understanding"
+      ],
+      "body": [
+        "openai.com: OpenAI shares model results on the Kakeya conjecture, Exponential Time Hypothesis, and quantum chromodynamics—and how researchers can verify and build on them."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/building-scientific-understanding-with-academic-communities"
+        }
+      ],
+      "srcTitles": [
+        "Working with academic communities to build scientific understanding"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-26T09:01:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The focus on AI safety disasters ignores everyday harms",
+      "s": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl",
+      "b": [
+        "technologyreview.com: The focus on AI safety disasters ignores everyday harms"
+      ],
+      "body": [
+        "technologyreview.com: Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl . These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products that leave young people dependent on simulated friendships or trapped in feeds built to keep them scrolling. We have historically allowed the debate over technology to be defined by the worst thing a product might do, with remarkably little discussion of the insidious damage it does every day. As we transition into an era defined by powerful AI products, we should demand that the tech industry do more than merely address catastrophic harms. We should take measures to ensure that its products don’t erode how we think, learn, and interact with one another. A teenager who develops an unhealthy attachment to an AI companion may never appear in a lawsuit or a newspaper, except in the most egregious cases. Neither will the student who begins relying on a chatbot to write every paper, or the young person who measures their life against a social media feed engineered to provoke envy and keep them watching. A product can meet every narrow safety requirement and still leave our entire culture worse off in ways that don’t always make headlines. A narrow definition of success defined around safety is politically convenient for the technology industry, and companies actively promote such definitions. Taking steps to prevent spectacular disasters is good for business: It can mean fewer lawsuits and less pressure for serious regulation. Confronting the everyday consequences of dependence would require something considerably more threatening to their bottom line. It might mean asking companies to add more friction to their products or actively limit engagement or features that lead to negative outcomes, such as addictive attention-hacking "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
+        }
+      ],
+      "srcTitles": [
+        "The focus on AI safety disasters ignores everyday harms"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-10-26T12:20:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Illustration shows \"AI Artificial Intelligence\" words and keyboard",
+      "s": "Illustration shows \"AI Artificial Intelligence\" words and keyboard The Lufkin Daily News",
+      "b": [
+        "lufkindailynews.com: Illustration shows \"AI Artificial Intelligence\" words and keyboard",
+        "galvnews.com: FILE PHOTO: Illustration shows \"AI Artificial Intelligence\" words and keyboard"
+      ],
+      "body": [
+        "lufkindailynews.com: Illustration shows \"AI Artificial Intelligence\" words and keyboard The Lufkin Daily News",
+        "galvnews.com: FILE PHOTO: Illustration shows \"AI Artificial Intelligence\" words and keyboard The Daily News | Texas' Oldest Newspaper"
+      ],
+      "l": [
+        {
+          "d": "lufkindailynews.com",
+          "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSW5ibl92RHRsRWVBODI2WWQ4b2FXTkxLbHMzcWpIQllFOEtjNHJJSHRaLVhEZ3ZuUU1fZjdWM3RJbl8wc0pkN3hoTl9wX3laUlF6TGNtZm9lOUYxc3lXRUpPbU5WaV8yTWFmZTJoejdLRHZyejBNbEZFVjYtcDZuOTh0U0VCUGZPbWVDc2MtYzA2eFFRZUZnWW1ZT0VmdnJLX1FZSmNFbVNNMTE3S2FWSjQxVm1uZ0hkeGRrUE5neG1rTUw4dnBvdDNHUXlfNG5uMDQ4cmwtVS1TaGtFbi13UGNpSmpMYzdIeG1yZHJYQ1JGNVYw?oc=5"
+        },
+        {
+          "d": "galvnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORXk5aklOWmxQSFlXRUNlTm1mbW10bWZIZkd4WHJiUXktNFNzM3lyd2s0ZDVqQlBNb3JmMWZjUG5QbVNBbVNDTXhTNmtEQnRneHBWYXU0dktmajFIX1Y4VTNuNXJCbXBTU0FHUl9FLUtYN0hPcFY4bE5OX3lGVFRtOEJlWm1nTEZCRnVjRVlORXI3TW1wcTVrWm83b2dmc0tYUVJFajducDdWclhvOXJSNlRkaDBKLWxrSVE3dnhtR1lsM2s5amtSV3VlTDRXX0JxSnJnQUFEd21yRm9VSE1uMF9UZlBOcm5xVzAwVExwbWkycWZjaENFRlhQU0tHM2c?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Illustration shows \"AI Artificial Intelligence\" words and keyboard",
+        "FILE PHOTO: Illustration shows \"AI Artificial Intelligence\" words and keyboard"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 20,
       "sources": 2,
       "ts": "2026-10-26T12:41:33.000Z",
       "writtenSources": 2,
@@ -478,32 +654,7 @@
     },
     {
       "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-10-26T09:01:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "The focus on AI safety disasters ignores everyday harms",
-      "s": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl",
-      "b": [
-        "technologyreview.com: The focus on AI safety disasters ignores everyday harms"
-      ],
-      "body": [
-        "technologyreview.com: Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl . These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products that leave young people dependent on simulated friendships or trapped in feeds built to keep them scrolling. We have historically allowed the debate over technology to be defined by the worst thing a product might do, with remarkably little discussion of the insidious damage it does every day. As we transition into an era defined by powerful AI products, we should demand that the tech industry do more than merely address catastrophic harms. We should take measures to ensure that its products don’t erode how we think, learn, and interact with one another. A teenager who develops an unhealthy attachment to an AI companion may never appear in a lawsuit or a newspaper, except in the most egregious cases. Neither will the student who begins relying on a chatbot to write every paper, or the young person who measures their life against a social media feed engineered to provoke envy and keep them watching. A product can meet every narrow safety requirement and still leave our entire culture worse off in ways that don’t always make headlines. A narrow definition of success defined around safety is politically convenient for the technology industry, and companies actively promote such definitions. Taking steps to prevent spectacular disasters is good for business: It can mean fewer lawsuits and less pressure for serious regulation. Confronting the everyday consequences of dependence would require something considerably more threatening to their bottom line. It might mean asking companies to add more friction to their products or actively limit engagement or features that lead to negative outcomes, such as addictive attention-hacking "
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
-        }
-      ],
-      "srcTitles": [
-        "The focus on AI safety disasters ignores everyday harms"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-10-26T12:00:00.000Z",
       "writtenSources": 2,
@@ -535,7 +686,7 @@
     },
     {
       "cat": "products",
-      "signal": 18,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-10-26T06:33:21.000Z",
       "writtenSources": 2,
