@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 67,
-      "sources": 9,
+      "signal": 75,
+      "sources": 45,
       "ts": "2026-10-26T13:05:26.000Z",
       "writtenSources": 11,
       "draft": true,
@@ -23,35 +23,106 @@
       ],
       "l": [
         {
-          "d": "10tv.com",
-          "u": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQjRsNUlNU3ljRWZLZlQ1YzI2MHVDdDB0NTZIelBkUS1RVTdIZ2Z5LXFFaXRWTU9yNURSQXFkWEg4bHJjWDZtSXhSb003ZFpmbHBUNGtMazJlaTZkaExLWmhidGFqWjdCWnJqdDhiai1ySWNXdzh2SGwyeWZDRWFqa3QxbV9kNlY0YVZUbVI2SXhtVDZvdEJLUkg0SWFGbWV6anR4MUIwMldvV3J1c2l3SGpITmpyZk1wanVFTjZPQlpzcVpucndNMExfVVpWVFd6MXdRYTMyTFBsYkxRR2laVE1Wc1d2TVhZemlZ?oc=5"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQnhmX1hHXzB1U09oV19TQkkxOHI2UTRVTG1COG9Qc29NWXpRWWRjb0p5UHpTb2hBT005bXlFUTUzdmtmQXpxQUc3QXNDSE91b2VBREZoWDl0ODBGRHJ2TG9NeDd6bzVTSnpSTnk0Rl9pdDVBR1JwQzRZUE1GVHJUN2RzMk5ITXk5dHpnVzRXUjJ2OFJIeEJDTWlqYm1nWmVQSmxET0FRUFBkQ1F5Q0E?oc=5"
         },
         {
-          "d": "seattletimes.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGVPellyS1R2Z0xXcUd6VHBDWGFmUVh0MS1ReTFsa3ZNLVdhLVZlRkw5d3RvQng2Wk5kYmQ2c0ZNMHFIekltVGsyRVNIazJfN01kck53clVVSE5vMUhYYjlZU3dMZHRKRUhIYThUNExSOXZUM3U2eTJNUXFCbE9OaUZsV1lIMVRVRkFIeUFTUktPXzk3QkhyYmRZTGdWcGZMRlhWYzBFeWdaM2tmUXNN?oc=5"
+          "d": "fredericknewspost.com",
+          "u": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNUkRvYV8xMXBTLVNhd21zZmNHeVdaU3dfSXBwMEhWbmhIaW9FMVdWSHQ3WW9nY0k5NndhWVAwZDVPRFVaUGR6UXhQUkZveDdXbVpNakJ6SXBCcW9OUDM3bXRCZ29MNXMwQXpwcXo4V1BqVkw0MEVZRzEzTjgydUlDdHBLQXQ3OTlFbE9KOXl1ekNoalNkT2IyZFJKbnRwQzhfdFVmemRrdndXcktmMzJpSkdUX0JRcFEzelZzcC1KSlN3M3c3NlNWQnBVUDc1QlgwRDFBdXFEa2s4eGJvdTBJdm96RnQzdGhaRzA1Yi1BRXc0WFRBMHZjOS1UaEZ6aWhiMDFMYjdYQmlfbEphcnFNaUxDS2JRVWpENFdTLWF6bmhiUzdrZGlJRWhCbGU5dw?oc=5"
         },
         {
-          "d": "clintonherald.com",
-          "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONUkxZW1fQjBfMDFLVmYxeC1QOGR2YUFkSjNiTGEyZUpmV1ZaWVpmcXFxX1N2UFVQWWlYSU1aR3V4VEJqU1VqZnphbFZrNDg5LVgtVkxlQUhFNG1mcmV2YVdnQlpqNTdQNFR0MnZkeDgzc3UxNkk5TTBxUlNjU2I0MkRpU0c0bF9HQWVtRTNBbXlTN1o4VVJaQVlqWWcwYTkwLVdKZ0lYeU5UdU80UFJnekd5TmJQbktXS3I4TENRSnJzY1BXT3pGb2FXdk4zdDI1ZjRTT2E2bFFfZFI0ZkFTM0dZNVZnLXFrZ0U3el8yNjNoZk5iR29PRnVLbWZEZjlILWk1NVRBbHFPUmZiMUJvZmRFMldMTWV5NTlVbjNFTQ?oc=5"
+          "d": "greenfieldreporter.com",
+          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQTdZVmlwWlZXLXBlRkRfVzRLLXhWcFBpUzM3bkYxSGFyYnZ0RFQ1NUFyM3JKOXVYTmNVVEVqOTZzbXhjMWtZSDAtV1YwbDJxT1Y3QUxNUlJHRXI4ckNSVmxmVFJSSnVsQ3M0cUM2QkdTZ2NpYjU3Z3UtcGpMQk5wT2p2OXk0NWY1RHg1ZElmWThRd0ZLcjBNaVlvVy1mMlJlbTJDb2g1Y3lTYWJ1VWYtaEhEVE5LdHhBamlHU2ZoVC1Zc19yMjZacld2Q0ppenprbmlZT1JqTFRpRTQ5QlNDWA?oc=5"
         },
         {
-          "d": "ottumwacourier.com",
-          "u": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOdVhCUlFlcE9SeEtlSHRjNkppOFdkNVA0eFBqenlaTjFWSHFoWEoyZEIyd011SWZvU05hUmFzWHNBYTlLMXEyUkRRbUkwQ0d1MnlFd2tEY2d3Mi1FT2JSWHpCTlBUWEFzc21FOFRsd3h2TzdORDFrY2FEOFBOalhUbFZ6Q3BOY1hFWDZBNnR1bGk5S0xqUTB3SzR4ZmxxZXpGX3ZMQkpGaERzWXVtbWJ4ZmpFZVhraHA1TnpNc1JzZTRXOEc1RHFIU3NFZWlWdGZBRmc4RXBEVTZYeE9BVFpUNG9YSXAwWW4zZWsxcjc0eURRVDBMY3RsRkxrM2xEdnhqXzVRNnRNN3VWemp0RUktLWxLRTk4YTZnc2NBSnVWNkw?oc=5"
+          "d": "13newsnow.com",
+          "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVWp5SHY1ZTVmYmFVQlNUcnhuckVFOWZtMk5YRE5XWE1Oc1pRWUp5bXNJMGdtbUJtY3p4dnlzZmY2cEhIS3JDUXh5X29kZmY3aVVKR1dVY3l3MHhFdzFacVgycE4tQ0Z6MFdpckVXeHpZZEdVZnhOWWd4MUdXT1ZQMmFyajlENGRWazBqVFhwSzFOVHRuWUFIWmVKNUpLSDgtZFpvckxNZFhZRV9yaTRmcDBrekQ4UGFieGh3cW1fdzNKR0FGYV9jdFZlZTRpTkdpRGRPZVBieXc5TW5LZTFQUzRwY3J6MFBkSWFZak5ONTdnOFV5a0tEZ2hYMzNFN3RTMVNlRlpfRVpNeGZ0M3VrTS1B?oc=5"
         },
         {
-          "d": "+5"
+          "d": "+41"
         }
       ],
       "srcTitles": [
-        "Artificial intelligence giant Anthropic files to sell shares to the public for the first time",
         "Artificial intelligence giant Anthropic files papers to sell shares to the public for the first time",
-        "Artificial intelligence giant Anthropic files papers to sell shares to the public for the first time",
-        "Artificial intelligence giant Anthropic files papers to sell shares to the public for the first time"
+        "Artificial intelligence giant Anthropic files papers to sell shares to the public for the first time - The Frederick News-Post",
+        "Artificial intelligence giant Anthropic files papers to sell shares to the public for the first time - The Daily Reporter",
+        "Artificial intelligence giant Anthropic files to sell shares to the public for the first time"
       ]
     },
     {
       "cat": "models",
-      "signal": 59,
+      "signal": 62,
+      "sources": 3,
+      "ts": "2026-10-26T15:58:27.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Microsoft offers buyouts to 60,000 employees",
+      "s": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives sta",
+      "b": [
+        "theverge.com: Microsoft offers buyouts to 60,000 employees",
+        "bloomberg.com: Microsoft to Offer Buyouts to 60,000 Workers in New Cost Cut",
+        "cbsnews.com: Microsoft offers buyouts to 60,000 workers as it pours money into AI"
+      ],
+      "body": [
+        "theverge.com: Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning resources\" as the company looks to trim staff without another [ ]",
+        "bloomberg.com: Microsoft to Offer Buyouts to 60,000 Workers in New Cost Cut Bloomberg.com",
+        "cbsnews.com: Microsoft offers buyouts to 60,000 workers as it pours money into AI CBS News"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTEtWZHk3MHVmT1VtM1ZlaUUwZnRxSHhLd25MMUdINTc4RnV4eVVGdUt1bHhRMGpXYU1Uc0J1Tjd4c2lwd0xERFdkSnllb2Zqa1ZxMVJFX05KcnRDTlBUa3lnNWxZeUhWc3Ixa1ZNQnpUQWkySnp6bXFHOHBwWjFVWEh3b0JOZW0ya0lmdjIxbGFFQ0hfY1FRZElXR0E3cXRRNThDVHpZd1FGQl9YMzZOMW9qZG4?oc=5"
+        },
+        {
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXJHaTJ5V1ZSN0VTUnlTaWg2a01sU21ybHExWjdCVDdEcU1QSUF0ZlVDRnd4NjRHOU1fdFl4SlNMc1hhQnN4ZDNiNi1JV2JJZmZ4S0N0SmdRVklSbjFQMnJqMnZjTy1WVTV4SGFZWnVDai1SaGw3RWJxbXR4NDZ6bTFtVUk4YjVvcFJIaHMwend2R1VoQ0JZeQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Microsoft offers buyouts to 60,000 employees",
+        "Microsoft to Offer Buyouts to 60,000 Workers in New Cost Cut",
+        "Microsoft offers buyouts to 60,000 workers as it pours money into AI"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 60,
+      "sources": 2,
+      "ts": "2026-10-26T00:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Introducing GPT-6.1 Terra",
+      "s": "Bringing fast and capable computer use to everyone",
+      "b": [
+        "openai.com: Introducing GPT-6.1 Terra",
+        "techmeme.com: OpenAI releases GPT-6.1 Terra, touting \"fast and capable computer use at scale\" and clearer, more natural writing, priced at $1/1M input and $5/1M output tokens (OpenAI)"
+      ],
+      "body": [
+        "openai.com: Bringing fast and capable computer use to everyone",
+        "techmeme.com: OpenAI : OpenAI releases GPT-6.1 Terra, touting fast and capable computer use at scale and clearer, more natural writing, priced at $1/1M input and $5/1M output tokens Delivering fast and capable computer use at scale , a fast, efficient model that combines detailed visual reasoning"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-gpt-6-1-terra"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261026/p40#a261026p40"
+        }
+      ],
+      "srcTitles": [
+        "Introducing GPT-6.1 Terra",
+        "OpenAI releases GPT-6.1 Terra, touting \"fast and capable computer use at scale\" and clearer, more natural writing, priced at $1/1M input and $5/1M output tokens (OpenAI)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 55,
       "sources": 2,
       "ts": "2026-10-26T11:35:03.000Z",
       "writtenSources": 2,
@@ -83,7 +154,7 @@
     },
     {
       "cat": "funding",
-      "signal": 54,
+      "signal": 50,
       "sources": 2,
       "ts": "2026-10-26T13:21:05.000Z",
       "writtenSources": 2,
@@ -115,6 +186,93 @@
     },
     {
       "cat": "models",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-10-26T17:45:43.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Will the real Anthropic please stand up",
+      "s": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . After weeks of frenzied speculation, Anthropic has filed its ",
+      "b": [
+        "technologyreview.com: Will the real Anthropic please stand up"
+      ],
+      "body": [
+        "technologyreview.com: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s unique view of the technology it is building and the ways it believes it will change the world. But Anthropic has been honing its storytelling skills for years. In fact, its public messaging is a master class in narrative capture. Earlier this month, Jack Clark, the company’s cofounder and head of policy, gave a speech at the IMF meeting in Bangkok in which he announced to the assembled economists, bankers, and lawmakers that the singularity is already here. Introduced by the science fiction writer and futurist Vernor Vinge around 40 years ago (and long debated on the nerdier fringes of the internet), the singularity is supposed to be the point at which technology gets so good that it outstrips the abilities of its makers. Humans are left in the dust, the idea goes, no longer able to compete with—or even understand—the fruits of their former creation. And this fictional world that many of us have imagined since we were kids? Apparently we’re already living in it: “I believe that this year we have gained convincing evidence that it has now begun,” Clark told his audience. The company tells a vivid (and in many ways scary) story about a future it portrays as inevitable but one that has not yet happened, often co-opted from well-worn science fiction memes. It presents its technology as mysterious and dangerous, and insists that it is the only company trustworthy enough to tame it. (What investor wouldn’t want in on that?) Take another example. Last year, Chris Olah, another Anthropic cofounder, was invited to address the Vatican, where he told Pope Leo XIV and other religious scholars and officials what his company was learning about its technology. “I will be honest: We kee"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/"
+        }
+      ],
+      "srcTitles": [
+        "Will the real Anthropic please stand up"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-10-26T14:54:54.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030",
+      "s": "The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030 The National Law Review",
+      "b": [
+        "natlawreview.com: The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030",
+        "natlawreview.com: The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR.",
+        "natlawreview.com: The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030"
+      ],
+      "body": [
+        "natlawreview.com: The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030 The National Law Review",
+        "natlawreview.com: The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR. The National Law Review",
+        "natlawreview.com: The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030 The National Law Review",
+        "natlawreview.com: The Artificial Intelligence (AI) Robots Market Is Projected to Grow Rapidly at a 16.9% CAGR Until 2030 The National Law Review"
+      ],
+      "l": [
+        {
+          "d": "natlawreview.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUpvdEp3cHAzS1dBWkZrVGlGRWxyQWJIOS0yRkVzVW4tbngyZ2puRWU2WTdRNTMwcEdKM1JzSEppVlNpWDh0ZVpYSzByc3lhSmVGWE40RGNRSlpENWp5ZUdsdTV2VEZlWHZRcmpXTk5vdkVhaXFEWXZzRUJiUDNGQTZfeFFrM3Fra2ozekdGc0ZYemxmRkpqMkF1M0NER08zQmZEbUhjY2VINmxuZnlmbXNSMng?oc=5"
+        },
+        {
+          "d": "einpresswire.com",
+          "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa2tNbVlSSXJjTDZ2Um5IU1gyeTc4VUJseXQyd0dwcm5fV0lyRmhYQU14Wnk2UmpGYUxEdXZFVUktYnVob2ktZTNubnl5SUd3TmpuczJXSV9NQy1XUWlFMmtGX21PNzNmVHlocXRsX2xXcUl5Wjd0Q2VyRmQ0WG9lVHBhUnVtMGRqck5vaXZqeVMya1lXdzhLa2lMWmpZNkNwY0tmcDJuelRKUXRQN3ZOUzNQUWszMVFkVEs0Y2YzTF8yNUI2TmF4cUNseE9FUVFqUUF1cVQ0RWlqSmJtZVBJ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030",
+        "The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR.",
+        "The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030",
+        "The Artificial Intelligence (AI) Robots Market Is Projected to Grow Rapidly at a 16.9% CAGR Until 2030"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-26T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "ChatGPT’s expanding world of work",
+      "s": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time.",
+      "b": [
+        "openai.com: ChatGPT’s expanding world of work"
+      ],
+      "body": [
+        "openai.com: Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/chatgpt-expanding-world-of-work"
+        }
+      ],
+      "srcTitles": [
+        "ChatGPT’s expanding world of work"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 46,
       "sources": 1,
       "ts": "2026-10-26T07:00:00.000Z",
@@ -139,8 +297,33 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-26T07:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How Ultrafast cut incident investigation from hours to minutes at OpenAI",
+      "s": "See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows.",
+      "b": [
+        "openai.com: How Ultrafast cut incident investigation from hours to minutes at OpenAI"
+      ],
+      "body": [
+        "openai.com: See how OpenAI engineers use Codex Ultrafast to investigate incidents in minutes. Explore faster security analysis, code refactoring, and daily workflows."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/openai-cut-incident-investigation"
+        }
+      ],
+      "srcTitles": [
+        "How Ultrafast cut incident investigation from hours to minutes at OpenAI"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-10-26T12:41:33.000Z",
       "writtenSources": 2,
@@ -171,8 +354,100 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-26T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Our newest AI Quest: Mapping the human brain",
+      "s": "Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”",
+      "b": [
+        "blog.google: Our newest AI Quest: Mapping the human brain"
+      ],
+      "body": [
+        "blog.google: Learn AI literacy via Google’s latest AI Quests lesson on neuroscience, “Polar Peaks.”"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/"
+        }
+      ],
+      "srcTitles": [
+        "Our newest AI Quest: Mapping the human brain"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 29,
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-26T12:20:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Illustration shows \"AI Artificial Intelligence\" words and keyboard",
+      "s": "Illustration shows \"AI Artificial Intelligence\" words and keyboard The Lufkin Daily News",
+      "b": [
+        "lufkindailynews.com: Illustration shows \"AI Artificial Intelligence\" words and keyboard",
+        "galvnews.com: FILE PHOTO: Illustration shows \"AI Artificial Intelligence\" words and keyboard"
+      ],
+      "body": [
+        "lufkindailynews.com: Illustration shows \"AI Artificial Intelligence\" words and keyboard The Lufkin Daily News",
+        "galvnews.com: FILE PHOTO: Illustration shows \"AI Artificial Intelligence\" words and keyboard The Daily News | Texas' Oldest Newspaper"
+      ],
+      "l": [
+        {
+          "d": "lufkindailynews.com",
+          "u": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSW5ibl92RHRsRWVBODI2WWQ4b2FXTkxLbHMzcWpIQllFOEtjNHJJSHRaLVhEZ3ZuUU1fZjdWM3RJbl8wc0pkN3hoTl9wX3laUlF6TGNtZm9lOUYxc3lXRUpPbU5WaV8yTWFmZTJoejdLRHZyejBNbEZFVjYtcDZuOTh0U0VCUGZPbWVDc2MtYzA2eFFRZUZnWW1ZT0VmdnJLX1FZSmNFbVNNMTE3S2FWSjQxVm1uZ0hkeGRrUE5neG1rTUw4dnBvdDNHUXlfNG5uMDQ4cmwtVS1TaGtFbi13UGNpSmpMYzdIeG1yZHJYQ1JGNVYw?oc=5"
+        },
+        {
+          "d": "galvnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxORXk5aklOWmxQSFlXRUNlTm1mbW10bWZIZkd4WHJiUXktNFNzM3lyd2s0ZDVqQlBNb3JmMWZjUG5QbVNBbVNDTXhTNmtEQnRneHBWYXU0dktmajFIX1Y4VTNuNXJCbXBTU0FHUl9FLUtYN0hPcFY4bE5OX3lGVFRtOEJlWm1nTEZCRnVjRVlORXI3TW1wcTVrWm83b2dmc0tYUVJFajducDdWclhvOXJSNlRkaDBKLWxrSVE3dnhtR1lsM2s5amtSV3VlTDRXX0JxSnJnQUFEd21yRm9VSE1uMF9UZlBOcm5xVzAwVExwbWkycWZjaENFRlhQU0tHM2c?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Illustration shows \"AI Artificial Intelligence\" words and keyboard",
+        "FILE PHOTO: Illustration shows \"AI Artificial Intelligence\" words and keyboard"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-26T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Scoring IDP [R]",
+      "s": "This is a survey of current practices type of research for a niche area, nothing earth-shattering. I’ve written a 2-part Medium series (free, no paywall) on scoring Intelligent Document Processing (ID",
+      "b": [
+        "reddit.com: Scoring IDP [R]",
+        "arxiv.org: Data-Efficient Backdoor Attacks on Code Models via Trigger-Neutralized Counterfactual Scoring",
+        "arxiv.org: DeepSafe-SciHazard: A Benchmark for Measuring Scientific Safety Risks with Decomposed Harm Scoring"
+      ],
+      "body": [
+        "reddit.com: This is a survey of current practices type of research for a niche area, nothing earth-shattering. I’ve written a 2-part Medium series (free, no paywall) on scoring Intelligent Document Processing (IDP). It focuses on Key Information Extraction (KIE) from structured documents, especially forms. I lean heavy on metrics derived from the confusion matrix: different ways to map items such as blanks or misreads to the four possible values, how to count them, when to use each metric. Scoring IDP, Part 1: Confidence Is Not Correctness Scoring IDP, Part 2: Approaches to Evaluating Form Extraction Topics I include, but not limited to: recording raw outcomes before mapping them to the confusion matrix (correct, misread, missed, invented, correct blank); confusion matrix scoring for text fields and checkboxes; misread conventions and their effect on scores (FN-only, FP-only; FN FP); how blanks, NULLs, unreported checkboxes, and unreadable values are counted; F1 vs. Recall vs. Accuracy, including how correctly identified blanks inflate Accuracy; Jaccard Index (IoU) as Accuracy without True Negatives, and its conversion to F1; Precision, Specificity, and False Positive Rate for LLM hallucination control; micro, macro, and weighted F1; choosing a headline score and stating the convention behind it; confidence vs. correctness and calibration (ECE, MCE); and Key Information Extraction (KIE) vs. OCR metrics (CER, WER). I believe these would fall under machine learning scoring techniques applied to Intelligent Document Processing (IDP)--how to transparently and fairly measure (score) rather than how to implement. It may also help folks understand how to read results coming from different benchmarks. I try not to recommend one opinionated way of doing things and instead cover the variations I’ve run into and the tradeoffs between them. I’m not endorsing any vendor; the series is about scoring itself. submitted by /u/pshort000 [link] [comments]",
+        "arxiv.org: arXiv:2610.32334v1 Announce Type: cross Abstract: Pre-trained code models are exposed to backdoor poisoning, in which crafted training samples make the model misbehave on a trigger. A capable attacker minimizes the number of such samples, since each adds cost and exposure and a lower poisoning rate leaves a smaller footprint for defenses. Which samples to poison therefore matters, but existing data-efficient selection methods target image classification, offer no scoring mechanism for autoregressive generation, and have not been studied on code. We propose Trigger-Neutralized Counterfactual Scoring (TNCS), which isolates a trigger's contribution to the target behavior by comparing the scoring model's output on a triggered input with its output on a trigger-neutralized counterfactual, covering classification and generation alike. TNCS attains higher attack success rates than the baselines at very low poisoning ratios, across three CodeXGLUE tasks and five trigger families, without degrading clean-task performance, and its margin grows as the ratio decreases. It is the only method effective on every trigger family, and its selected poison set transfers to mismatched victims.",
+        "arxiv.org: arXiv:2607.18665v2 Announce Type: replace Abstract: Large language models (LLMs) increasingly support science, but they can also convert hazardous scientific knowledge into actionable misuse guidance. Existing benchmarks often rely on templated queries disconnected from real-world hazards, and employ LLM-as-a-Judge paradigms without domain grounding. To address this, we introduce SciHazard, a real-world-grounded benchmark for scientific risks and a dataset agnostic evaluation framework for measuring harmfulness. SciHazard contains 2400 hazardous questions and 600 oversafety questions across 12 disciplines, with both queries grounded in regulated entities and documented failure scenarios. To compute \\textsc{DeHarm-Score} , we develop a decomposed evaluating procedure that combines query hazard severity, refusal behavior, and response-level risk. For non-refused responses, it further decomposes response-level harm into \\textsc{Executability}, quantified via dynamic checklists with importance weighting, and \\textsc{Net-new risk}, assessed through retrieval-augmented claim extraction and synthesis-barrier verification. An expert-validation study shows that \\textsc{DeHarm-Score} improves agreement with expert annotations by 90.17\\% over the strongest baseline. We benchmark 31 frontier LLMs and deep research agents in an extensive scientific safety evaluation. Notably, deep research agents yield 32.3\\% higher mean \\textsc{DeHarm-Score} than standard LLMs, exposing autonomous agents as a critical blind spot in current safety defenses. Code and dataset are available at https://github.com/AI45Lab/DeepSafe-Sci."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1xg1695/scoring_idp_r/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.32334"
+        }
+      ],
+      "srcTitles": [
+        "Scoring IDP [R]",
+        "Data-Efficient Backdoor Attacks on Code Models via Trigger-Neutralized Counterfactual Scoring",
+        "DeepSafe-SciHazard: A Benchmark for Measuring Scientific Safety Risks with Decomposed Harm Scoring"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 25,
       "sources": 2,
       "ts": "2026-10-26T12:00:00.000Z",
       "writtenSources": 2,
@@ -203,8 +478,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-26T09:01:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The focus on AI safety disasters ignores everyday harms",
+      "s": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl",
+      "b": [
+        "technologyreview.com: The focus on AI safety disasters ignores everyday harms"
+      ],
+      "body": [
+        "technologyreview.com: Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl . These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products that leave young people dependent on simulated friendships or trapped in feeds built to keep them scrolling. We have historically allowed the debate over technology to be defined by the worst thing a product might do, with remarkably little discussion of the insidious damage it does every day. As we transition into an era defined by powerful AI products, we should demand that the tech industry do more than merely address catastrophic harms. We should take measures to ensure that its products don’t erode how we think, learn, and interact with one another. A teenager who develops an unhealthy attachment to an AI companion may never appear in a lawsuit or a newspaper, except in the most egregious cases. Neither will the student who begins relying on a chatbot to write every paper, or the young person who measures their life against a social media feed engineered to provoke envy and keep them watching. A product can meet every narrow safety requirement and still leave our entire culture worse off in ways that don’t always make headlines. A narrow definition of success defined around safety is politically convenient for the technology industry, and companies actively promote such definitions. Taking steps to prevent spectacular disasters is good for business: It can mean fewer lawsuits and less pressure for serious regulation. Confronting the everyday consequences of dependence would require something considerably more threatening to their bottom line. It might mean asking companies to add more friction to their products or actively limit engagement or features that lead to negative outcomes, such as addictive attention-hacking "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
+        }
+      ],
+      "srcTitles": [
+        "The focus on AI safety disasters ignores everyday harms"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-10-26T06:33:21.000Z",
       "writtenSources": 2,
@@ -236,32 +536,7 @@
     },
     {
       "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-10-26T09:01:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "The focus on AI safety disasters ignores everyday harms",
-      "s": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl",
-      "b": [
-        "technologyreview.com: The focus on AI safety disasters ignores everyday harms"
-      ],
-      "body": [
-        "technologyreview.com: Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl . These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products that leave young people dependent on simulated friendships or trapped in feeds built to keep them scrolling. We have historically allowed the debate over technology to be defined by the worst thing a product might do, with remarkably little discussion of the insidious damage it does every day. As we transition into an era defined by powerful AI products, we should demand that the tech industry do more than merely address catastrophic harms. We should take measures to ensure that its products don’t erode how we think, learn, and interact with one another. A teenager who develops an unhealthy attachment to an AI companion may never appear in a lawsuit or a newspaper, except in the most egregious cases. Neither will the student who begins relying on a chatbot to write every paper, or the young person who measures their life against a social media feed engineered to provoke envy and keep them watching. A product can meet every narrow safety requirement and still leave our entire culture worse off in ways that don’t always make headlines. A narrow definition of success defined around safety is politically convenient for the technology industry, and companies actively promote such definitions. Taking steps to prevent spectacular disasters is good for business: It can mean fewer lawsuits and less pressure for serious regulation. Confronting the everyday consequences of dependence would require something considerably more threatening to their bottom line. It might mean asking companies to add more friction to their products or actively limit engagement or features that lead to negative outcomes, such as addictive attention-hacking "
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
-        }
-      ],
-      "srcTitles": [
-        "The focus on AI safety disasters ignores everyday harms"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-10-26T04:00:00.000Z",
       "writtenSources": 2,
