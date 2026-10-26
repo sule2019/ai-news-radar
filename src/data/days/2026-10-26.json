@@ -4,7 +4,7 @@
     {
       "cat": "research",
       "signal": 75,
-      "sources": 45,
+      "sources": 44,
       "ts": "2026-10-26T13:05:26.000Z",
       "writtenSources": 11,
       "draft": true,
@@ -39,7 +39,7 @@
           "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVWp5SHY1ZTVmYmFVQlNUcnhuckVFOWZtMk5YRE5XWE1Oc1pRWUp5bXNJMGdtbUJtY3p4dnlzZmY2cEhIS3JDUXh5X29kZmY3aVVKR1dVY3l3MHhFdzFacVgycE4tQ0Z6MFdpckVXeHpZZEdVZnhOWWd4MUdXT1ZQMmFyajlENGRWazBqVFhwSzFOVHRuWUFIWmVKNUpLSDgtZFpvckxNZFhZRV9yaTRmcDBrekQ4UGFieGh3cW1fdzNKR0FGYV9jdFZlZTRpTkdpRGRPZVBieXc5TW5LZTFQUzRwY3J6MFBkSWFZak5ONTdnOFV5a0tEZ2hYMzNFN3RTMVNlRlpfRVpNeGZ0M3VrTS1B?oc=5"
         },
         {
-          "d": "+41"
+          "d": "+40"
         }
       ],
       "srcTitles": [
@@ -50,42 +50,35 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 62,
-      "sources": 3,
-      "ts": "2026-10-26T15:58:27.000Z",
-      "writtenSources": 3,
+      "cat": "products",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-10-26T19:30:01.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "Microsoft offers buyouts to 60,000 employees",
-      "s": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives sta",
+      "h": "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+      "s": "Today, Apple rolled out the 27.2 updates for its operating systems, including iOS, macOS, watchOS, tvOS, visionOS, and so on. Let's start with iOS 27.2. This update is heavily focused on Siri AI. It a",
       "b": [
-        "theverge.com: Microsoft offers buyouts to 60,000 employees",
-        "bloomberg.com: Microsoft to Offer Buyouts to 60,000 Workers in New Cost Cut",
-        "cbsnews.com: Microsoft offers buyouts to 60,000 workers as it pours money into AI"
+        "arstechnica.com: Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+        "techmeme.com: Apple releases iOS 27.2, with Siri AI enhancements for recalling past conversations, understanding more personal context, supporting five new languages, more (Juli Clover/MacRumors)"
       ],
       "body": [
-        "theverge.com: Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning resources\" as the company looks to trim staff without another [ ]",
-        "bloomberg.com: Microsoft to Offer Buyouts to 60,000 Workers in New Cost Cut Bloomberg.com",
-        "cbsnews.com: Microsoft offers buyouts to 60,000 workers as it pours money into AI CBS News"
+        "arstechnica.com: Today, Apple rolled out the 27.2 updates for its operating systems, including iOS, macOS, watchOS, tvOS, visionOS, and so on. Let's start with iOS 27.2. This update is heavily focused on Siri AI. It adds a memory feature to Siri, so it can \"recall your past conversations\" and reference them when chatting with you. It also expands what data sources Siri can access when giving responses to include voicemails, Messages attachments, and more. Read full article Comments",
+        "techmeme.com: Juli Clover / MacRumors : Apple releases iOS 27.2, with Siri AI enhancements for recalling past conversations, understanding more personal context, supporting five new languages, more Apple today released iOS 27.2 and iPadOS 27.2, the first major updates to the iOS 27 and iPadOS 27 operating systems that came"
       ],
       "l": [
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/apple/2026/10/apple-releases-ios-and-macos-27-2-with-new-siri-ai-features-new-music-logo/"
         },
         {
-          "d": "bloomberg.com",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTEtWZHk3MHVmT1VtM1ZlaUUwZnRxSHhLd25MMUdINTc4RnV4eVVGdUt1bHhRMGpXYU1Uc0J1Tjd4c2lwd0xERFdkSnllb2Zqa1ZxMVJFX05KcnRDTlBUa3lnNWxZeUhWc3Ixa1ZNQnpUQWkySnp6bXFHOHBwWjFVWEh3b0JOZW0ya0lmdjIxbGFFQ0hfY1FRZElXR0E3cXRRNThDVHpZd1FGQl9YMzZOMW9qZG4?oc=5"
-        },
-        {
-          "d": "cbsnews.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXJHaTJ5V1ZSN0VTUnlTaWg2a01sU21ybHExWjdCVDdEcU1QSUF0ZlVDRnd4NjRHOU1fdFl4SlNMc1hhQnN4ZDNiNi1JV2JJZmZ4S0N0SmdRVklSbjFQMnJqMnZjTy1WVTV4SGFZWnVDai1SaGw3RWJxbXR4NDZ6bTFtVUk4YjVvcFJIaHMwend2R1VoQ0JZeQ?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261026/p42#a261026p42"
         }
       ],
       "srcTitles": [
-        "Microsoft offers buyouts to 60,000 employees",
-        "Microsoft to Offer Buyouts to 60,000 Workers in New Cost Cut",
-        "Microsoft offers buyouts to 60,000 workers as it pours money into AI"
+        "Apple releases iOS and macOS 27.2 with new Siri AI features, new Music logo",
+        "Apple releases iOS 27.2, with Siri AI enhancements for recalling past conversations, understanding more personal context, supporting five new languages, more (Juli Clover/MacRumors)"
       ]
     },
     {
@@ -122,7 +115,82 @@
     },
     {
       "cat": "models",
-      "signal": 55,
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-10-26T15:58:27.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Microsoft offers buyouts to 60,000 employees",
+      "s": "Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives sta",
+      "b": [
+        "theverge.com: Microsoft offers buyouts to 60,000 employees",
+        "bloomberg.com: Microsoft to Offer Buyouts to 60,000 Workers in New Cost Cut",
+        "cbsnews.com: Microsoft offers buyouts to 60,000 workers as it pours money into AI"
+      ],
+      "body": [
+        "theverge.com: Microsoft is offering voluntary buyouts to up to 60,000 employees across the US, UK, Canada, and India. In a message to employees, Microsoft chief people officer Amy Coleman writes that this gives staff members \"the opportunity to leave Microsoft with financial support and career planning resources\" as the company looks to trim staff without another [ ]",
+        "bloomberg.com: Microsoft to Offer Buyouts to 60,000 Workers in New Cost Cut Bloomberg.com",
+        "cbsnews.com: Microsoft offers buyouts to 60,000 workers as it pours money into AI CBS News"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
+        },
+        {
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMXJHaTJ5V1ZSN0VTUnlTaWg2a01sU21ybHExWjdCVDdEcU1QSUF0ZlVDRnd4NjRHOU1fdFl4SlNMc1hhQnN4ZDNiNi1JV2JJZmZ4S0N0SmdRVklSbjFQMnJqMnZjTy1WVTV4SGFZWnVDai1SaGw3RWJxbXR4NDZ6bTFtVUk4YjVvcFJIaHMwend2R1VoQ0JZeQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Microsoft offers buyouts to 60,000 employees",
+        "Microsoft offers buyouts to 60,000 workers as it pours money into AI"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 52,
+      "sources": 3,
+      "ts": "2026-10-26T14:54:54.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030",
+      "s": "The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030 The National Law Review",
+      "b": [
+        "natlawreview.com: The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030",
+        "natlawreview.com: The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR.",
+        "natlawreview.com: The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030"
+      ],
+      "body": [
+        "natlawreview.com: The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030 The National Law Review",
+        "natlawreview.com: The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR. The National Law Review",
+        "natlawreview.com: The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030 The National Law Review",
+        "natlawreview.com: The Artificial Intelligence (AI) Robots Market Is Projected to Grow Rapidly at a 16.9% CAGR Until 2030 The National Law Review"
+      ],
+      "l": [
+        {
+          "d": "natlawreview.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUpvdEp3cHAzS1dBWkZrVGlGRWxyQWJIOS0yRkVzVW4tbngyZ2puRWU2WTdRNTMwcEdKM1JzSEppVlNpWDh0ZVpYSzByc3lhSmVGWE40RGNRSlpENWp5ZUdsdTV2VEZlWHZRcmpXTk5vdkVhaXFEWXZzRUJiUDNGQTZfeFFrM3Fra2ozekdGc0ZYemxmRkpqMkF1M0NER08zQmZEbUhjY2VINmxuZnlmbXNSMng?oc=5"
+        },
+        {
+          "d": "einpresswire.com",
+          "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa2tNbVlSSXJjTDZ2Um5IU1gyeTc4VUJseXQyd0dwcm5fV0lyRmhYQU14Wnk2UmpGYUxEdXZFVUktYnVob2ktZTNubnl5SUd3TmpuczJXSV9NQy1XUWlFMmtGX21PNzNmVHlocXRsX2xXcUl5Wjd0Q2VyRmQ0WG9lVHBhUnVtMGRqck5vaXZqeVMya1lXdzhLa2lMWmpZNkNwY0tmcDJuelRKUXRQN3ZOUzNQUWszMVFkVEs0Y2YzTF8yNUI2TmF4cUNseE9FUVFqUUF1cVQ0RWlqSmJtZVBJ?oc=5"
+        },
+        {
+          "d": "einnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYUtCN0pmS1dHNmNoTnhfUUNGd3owSjhUaHVfRG95cXFtS2syMFBubHFDS2tZZTR5YnhZX1NHTXBEN0Z1V2JKMzdSVjMtamR0aHlrcGJpbWNXWUVXUUo1d0pLdThoWmF1ZVpaRnFQb3JtSHZSWS11RlZvdktIRWJvRlFISDZBaGttVTVqMjB3MlEzMXJDUy1oSXJxbURFUVJCcUVBNFZRYnNod2NITkdZVXBaU3Y3bVJhWm40U3BPcXRWUVphYkF0eEFRX3F3Mk1pRFVjNEhhNzdMTWFMQmJ2LW4xLVQwSWctb3JZMFJn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030",
+        "The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR.",
+        "The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030",
+        "The Artificial Intelligence (AI) Robots Market Is Projected to Grow Rapidly at a 16.9% CAGR Until 2030"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 51,
       "sources": 2,
       "ts": "2026-10-26T11:35:03.000Z",
       "writtenSources": 2,
@@ -150,38 +218,6 @@
       "srcTitles": [
         "Cathedral, a months-old cybersecurity startup founded by ex-DOGE staffers, says it breached Anthropic's internal systems in under 12 hours using AI agents (Washington Post)",
         "It took just 12 hours for an AI start-up founded by ex-DOGE staffers to break into Anthropic"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 50,
-      "sources": 2,
-      "ts": "2026-10-26T13:21:05.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
-      "s": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions The New York Times",
-      "b": [
-        "nytimes.com: Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
-        "marketscreener.com: SpaceX Raises $40bn in Debt to Fund Its Artificial Intelligence Ambitions"
-      ],
-      "body": [
-        "nytimes.com: Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions The New York Times",
-        "marketscreener.com: SpaceX Raises $40bn in Debt to Fund Its Artificial Intelligence Ambitions marketscreener.com"
-      ],
-      "l": [
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkg2dkN4RXhnUnhBdkIzWENQYWJaVWNlb2M0dXVCMFptYVN6TEl3UGFRekt0TGYwRjQwc2V3RVlyaE0ya2xraGFOM1FHMG5EdGdFUmJ6UUJWRHhhaHZydXppeUtNN0swZE1rVFg0bEcyOXhlRWNQbnhQWTFpVDFhTlB4MWRYblZWZGZLNQ?oc=5"
-        },
-        {
-          "d": "marketscreener.com",
-          "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZUdyeWVjd2JSUzNkRk8ycndBQ0VuVzl2LUhLWkhaTkdZeU9YTnhfeXVCTnlIWE5vRjQzZ1lFcG9DVDVDZFNBdjZ2cDNITmhyTnZsTWFjaVJPa0FDdzJ2eDJJYUhQblRVWFFMQkhuUUNrMzN6aGpISm5rNHh2X3U4akxreG9oOG92TDBNNWdhV05ab2dOd1N6U3Z3R0JDUTUxVkJncGQ4eExQQmw5Y1hNLTFkYmZXcHFYS2xjTkk3bWhpc084dUZ0MGlLU1JmQWxrb0xtZDhnVVY2M0NKQ1F5RGMzM3lBZmVteDRjdWFNemlzV1FGZTlhZ0tB?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
-        "SpaceX Raises $40bn in Debt to Fund Its Artificial Intelligence Ambitions"
       ]
     },
     {
@@ -213,37 +249,32 @@
       "cat": "funding",
       "signal": 48,
       "sources": 2,
-      "ts": "2026-10-26T14:54:54.000Z",
+      "ts": "2026-10-26T13:21:05.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030",
-      "s": "The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030 The National Law Review",
+      "h": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
+      "s": "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions The New York Times",
       "b": [
-        "natlawreview.com: The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030",
-        "natlawreview.com: The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR.",
-        "natlawreview.com: The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030"
+        "nytimes.com: Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
+        "marketscreener.com: SpaceX Raises $40bn in Debt to Fund Its Artificial Intelligence Ambitions"
       ],
       "body": [
-        "natlawreview.com: The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030 The National Law Review",
-        "natlawreview.com: The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR. The National Law Review",
-        "natlawreview.com: The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030 The National Law Review",
-        "natlawreview.com: The Artificial Intelligence (AI) Robots Market Is Projected to Grow Rapidly at a 16.9% CAGR Until 2030 The National Law Review"
+        "nytimes.com: Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions The New York Times",
+        "marketscreener.com: SpaceX Raises $40bn in Debt to Fund Its Artificial Intelligence Ambitions marketscreener.com"
       ],
       "l": [
         {
-          "d": "natlawreview.com",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbUpvdEp3cHAzS1dBWkZrVGlGRWxyQWJIOS0yRkVzVW4tbngyZ2puRWU2WTdRNTMwcEdKM1JzSEppVlNpWDh0ZVpYSzByc3lhSmVGWE40RGNRSlpENWp5ZUdsdTV2VEZlWHZRcmpXTk5vdkVhaXFEWXZzRUJiUDNGQTZfeFFrM3Fra2ozekdGc0ZYemxmRkpqMkF1M0NER08zQmZEbUhjY2VINmxuZnlmbXNSMng?oc=5"
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYkg2dkN4RXhnUnhBdkIzWENQYWJaVWNlb2M0dXVCMFptYVN6TEl3UGFRekt0TGYwRjQwc2V3RVlyaE0ya2xraGFOM1FHMG5EdGdFUmJ6UUJWRHhhaHZydXppeUtNN0swZE1rVFg0bEcyOXhlRWNQbnhQWTFpVDFhTlB4MWRYblZWZGZLNQ?oc=5"
         },
         {
-          "d": "einpresswire.com",
-          "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa2tNbVlSSXJjTDZ2Um5IU1gyeTc4VUJseXQyd0dwcm5fV0lyRmhYQU14Wnk2UmpGYUxEdXZFVUktYnVob2ktZTNubnl5SUd3TmpuczJXSV9NQy1XUWlFMmtGX21PNzNmVHlocXRsX2xXcUl5Wjd0Q2VyRmQ0WG9lVHBhUnVtMGRqck5vaXZqeVMya1lXdzhLa2lMWmpZNkNwY0tmcDJuelRKUXRQN3ZOUzNQUWszMVFkVEs0Y2YzTF8yNUI2TmF4cUNseE9FUVFqUUF1cVQ0RWlqSmJtZVBJ?oc=5"
+          "d": "marketscreener.com",
+          "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOZUdyeWVjd2JSUzNkRk8ycndBQ0VuVzl2LUhLWkhaTkdZeU9YTnhfeXVCTnlIWE5vRjQzZ1lFcG9DVDVDZFNBdjZ2cDNITmhyTnZsTWFjaVJPa0FDdzJ2eDJJYUhQblRVWFFMQkhuUUNrMzN6aGpISm5rNHh2X3U4akxreG9oOG92TDBNNWdhV05ab2dOd1N6U3Z3R0JDUTUxVkJncGQ4eExQQmw5Y1hNLTFkYmZXcHFYS2xjTkk3bWhpc084dUZ0MGlLU1JmQWxrb0xtZDhnVVY2M0NKQ1F5RGMzM3lBZmVteDRjdWFNemlzV1FGZTlhZ0tB?oc=5"
         }
       ],
       "srcTitles": [
-        "The Artificial Intelligence in Games Market is projected to grow at 20.4% CAGR,reaching a value of $7.26 billion by 2030",
-        "The Artificial Intelligence (AI) Copilot Market is projected to grow to 0.12 billion by 2030, experiencing a 12% CAGR.",
-        "The Artificial Intelligence (AI)-Powered Meeting Assistants Market is Projected to Reach $11.86 Billion by 2030",
-        "The Artificial Intelligence (AI) Robots Market Is Projected to Grow Rapidly at a 16.9% CAGR Until 2030"
+        "Meta and SpaceX to Raise Billions More to Fund A.I. Ambitions",
+        "SpaceX Raises $40bn in Debt to Fund Its Artificial Intelligence Ambitions"
       ]
     },
     {
@@ -319,38 +350,6 @@
       ],
       "srcTitles": [
         "How Ultrafast cut incident investigation from hours to minutes at OpenAI"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 28,
-      "sources": 2,
-      "ts": "2026-10-26T12:41:33.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "China welcomes more countries to join World Artificial Intelligence Cooperation Organization: FM spokesman",
-      "s": "China welcomes more countries to join World Artificial Intelligence Cooperation Organization: FM spokesman 巴士的報",
-      "b": [
-        "bastillepost.com: China welcomes more countries to join World Artificial Intelligence Cooperation Organization: FM spokesman",
-        "thesun.ng: China asks more countries to join World Artificial Intelligence Cooperation Organization"
-      ],
-      "body": [
-        "bastillepost.com: China welcomes more countries to join World Artificial Intelligence Cooperation Organization: FM spokesman 巴士的報",
-        "thesun.ng: China asks more countries to join World Artificial Intelligence Cooperation Organization The Sun Nigeria"
-      ],
-      "l": [
-        {
-          "d": "bastillepost.com",
-          "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeEdscE93MjF0WEpsTjA3QW1GWkh6M3lrdklUR2oySDJuU053MWR3RjZhWnYxZTQ5aFVCNXliZjB2clBKUkdWODh1S2MtNGpBajJfRzhuZzBkQnhnVmdhSV9mVXI1QXNfR0F1dWFzY2RsdW1aemp6X0ZCUE1CUFdlMlp6MVNENXV3V2lpdkEtbjhVcld4bkNRZUtta0JkaFBWTHhrclptb0pDZ0o5YjAtNTFzN3o2M2Z2YVQwbWhYM0NVX2FhZEZnckR0QzdKc3lweGVObXFzRHhEdE1hNS1IZWlhV1lZRlVoUDhCdTNB?oc=5"
-        },
-        {
-          "d": "thesun.ng",
-          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdEhlNTNFOWhrYjF0Z2JldEhZSVFkVnF6djF5dTNZd2xiX0hvb0JpMzlzeExCVkFZVDlUUEhwWXBNQk5POWZLREZ2RGVYMVB4TDg2Nl9oWlVkNlQ0TG9LdTZqUkNqOGw1bGJ6OHJSSXhuZjhRTTJnZzdQaDU1bkFKalpLeXA5SzN2V0R4a0ZvZ1hPVURYOGZ2dkM3azkwU3NVcXA5NEhtUV9Kck0?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "China welcomes more countries to join World Artificial Intelligence Cooperation Organization: FM spokesman",
-        "China asks more countries to join World Artificial Intelligence Cooperation Organization"
       ]
     },
     {
@@ -447,7 +446,64 @@
     },
     {
       "cat": "models",
-      "signal": 25,
+      "signal": 24,
+      "sources": 2,
+      "ts": "2026-10-26T12:41:33.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "China welcomes more countries to join World Artificial Intelligence Cooperation Organization: FM spokesman",
+      "s": "China welcomes more countries to join World Artificial Intelligence Cooperation Organization: FM spokesman 巴士的報",
+      "b": [
+        "bastillepost.com: China welcomes more countries to join World Artificial Intelligence Cooperation Organization: FM spokesman",
+        "thesun.ng: China asks more countries to join World Artificial Intelligence Cooperation Organization"
+      ],
+      "body": [
+        "bastillepost.com: China welcomes more countries to join World Artificial Intelligence Cooperation Organization: FM spokesman 巴士的報",
+        "thesun.ng: China asks more countries to join World Artificial Intelligence Cooperation Organization The Sun Nigeria"
+      ],
+      "l": [
+        {
+          "d": "bastillepost.com",
+          "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeEdscE93MjF0WEpsTjA3QW1GWkh6M3lrdklUR2oySDJuU053MWR3RjZhWnYxZTQ5aFVCNXliZjB2clBKUkdWODh1S2MtNGpBajJfRzhuZzBkQnhnVmdhSV9mVXI1QXNfR0F1dWFzY2RsdW1aemp6X0ZCUE1CUFdlMlp6MVNENXV3V2lpdkEtbjhVcld4bkNRZUtta0JkaFBWTHhrclptb0pDZ0o5YjAtNTFzN3o2M2Z2YVQwbWhYM0NVX2FhZEZnckR0QzdKc3lweGVObXFzRHhEdE1hNS1IZWlhV1lZRlVoUDhCdTNB?oc=5"
+        },
+        {
+          "d": "thesun.ng",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdEhlNTNFOWhrYjF0Z2JldEhZSVFkVnF6djF5dTNZd2xiX0hvb0JpMzlzeExCVkFZVDlUUEhwWXBNQk5POWZLREZ2RGVYMVB4TDg2Nl9oWlVkNlQ0TG9LdTZqUkNqOGw1bGJ6OHJSSXhuZjhRTTJnZzdQaDU1bkFKalpLeXA5SzN2V0R4a0ZvZ1hPVURYOGZ2dkM3azkwU3NVcXA5NEhtUV9Kck0?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "China welcomes more countries to join World Artificial Intelligence Cooperation Organization: FM spokesman",
+        "China asks more countries to join World Artificial Intelligence Cooperation Organization"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-26T09:01:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The focus on AI safety disasters ignores everyday harms",
+      "s": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl",
+      "b": [
+        "technologyreview.com: The focus on AI safety disasters ignores everyday harms"
+      ],
+      "body": [
+        "technologyreview.com: Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl . These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products that leave young people dependent on simulated friendships or trapped in feeds built to keep them scrolling. We have historically allowed the debate over technology to be defined by the worst thing a product might do, with remarkably little discussion of the insidious damage it does every day. As we transition into an era defined by powerful AI products, we should demand that the tech industry do more than merely address catastrophic harms. We should take measures to ensure that its products don’t erode how we think, learn, and interact with one another. A teenager who develops an unhealthy attachment to an AI companion may never appear in a lawsuit or a newspaper, except in the most egregious cases. Neither will the student who begins relying on a chatbot to write every paper, or the young person who measures their life against a social media feed engineered to provoke envy and keep them watching. A product can meet every narrow safety requirement and still leave our entire culture worse off in ways that don’t always make headlines. A narrow definition of success defined around safety is politically convenient for the technology industry, and companies actively promote such definitions. Taking steps to prevent spectacular disasters is good for business: It can mean fewer lawsuits and less pressure for serious regulation. Confronting the everyday consequences of dependence would require something considerably more threatening to their bottom line. It might mean asking companies to add more friction to their products or actively limit engagement or features that lead to negative outcomes, such as addictive attention-hacking "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
+        }
+      ],
+      "srcTitles": [
+        "The focus on AI safety disasters ignores everyday harms"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 21,
       "sources": 2,
       "ts": "2026-10-26T12:00:00.000Z",
       "writtenSources": 2,
@@ -478,33 +534,8 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-10-26T09:01:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "The focus on AI safety disasters ignores everyday harms",
-      "s": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl",
-      "b": [
-        "technologyreview.com: The focus on AI safety disasters ignores everyday harms"
-      ],
-      "body": [
-        "technologyreview.com: Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl . These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products that leave young people dependent on simulated friendships or trapped in feeds built to keep them scrolling. We have historically allowed the debate over technology to be defined by the worst thing a product might do, with remarkably little discussion of the insidious damage it does every day. As we transition into an era defined by powerful AI products, we should demand that the tech industry do more than merely address catastrophic harms. We should take measures to ensure that its products don’t erode how we think, learn, and interact with one another. A teenager who develops an unhealthy attachment to an AI companion may never appear in a lawsuit or a newspaper, except in the most egregious cases. Neither will the student who begins relying on a chatbot to write every paper, or the young person who measures their life against a social media feed engineered to provoke envy and keep them watching. A product can meet every narrow safety requirement and still leave our entire culture worse off in ways that don’t always make headlines. A narrow definition of success defined around safety is politically convenient for the technology industry, and companies actively promote such definitions. Taking steps to prevent spectacular disasters is good for business: It can mean fewer lawsuits and less pressure for serious regulation. Confronting the everyday consequences of dependence would require something considerably more threatening to their bottom line. It might mean asking companies to add more friction to their products or actively limit engagement or features that lead to negative outcomes, such as addictive attention-hacking "
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
-        }
-      ],
-      "srcTitles": [
-        "The focus on AI safety disasters ignores everyday harms"
-      ]
-    },
-    {
       "cat": "products",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-10-26T06:33:21.000Z",
       "writtenSources": 2,
@@ -536,7 +567,7 @@
     },
     {
       "cat": "models",
-      "signal": 17,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-10-26T04:00:00.000Z",
       "writtenSources": 2,
