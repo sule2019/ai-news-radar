@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 69,
-      "sources": 11,
+      "signal": 67,
+      "sources": 9,
       "ts": "2026-10-26T13:05:26.000Z",
       "writtenSources": 11,
       "draft": true,
@@ -31,15 +31,15 @@
           "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWGVPellyS1R2Z0xXcUd6VHBDWGFmUVh0MS1ReTFsa3ZNLVdhLVZlRkw5d3RvQng2Wk5kYmQ2c0ZNMHFIekltVGsyRVNIazJfN01kck53clVVSE5vMUhYYjlZU3dMZHRKRUhIYThUNExSOXZUM3U2eTJNUXFCbE9OaUZsV1lIMVRVRkFIeUFTUktPXzk3QkhyYmRZTGdWcGZMRlhWYzBFeWdaM2tmUXNN?oc=5"
         },
         {
-          "d": "lmtonline.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTXlOQkdhN0ktOVZ1aWNLSE5kenJ5bTlBMW15ZlJZNUNmdDN1Uk90cXNDZ1M3c2dZQ1NJY1lmYWVFemNwZVhtLWU5dEswdTJucWNZTGppbkp1TUNPMGdSb1dyNm85OXVBZEpaemk2eDJHV01FeFBRckVNZE1aYVNrUG9rVUZIZkpNRFJvczZFQm1NTDNTeGJGaFYxWDlKS0hjR3g0?oc=5"
-        },
-        {
           "d": "clintonherald.com",
           "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxONUkxZW1fQjBfMDFLVmYxeC1QOGR2YUFkSjNiTGEyZUpmV1ZaWVpmcXFxX1N2UFVQWWlYSU1aR3V4VEJqU1VqZnphbFZrNDg5LVgtVkxlQUhFNG1mcmV2YVdnQlpqNTdQNFR0MnZkeDgzc3UxNkk5TTBxUlNjU2I0MkRpU0c0bF9HQWVtRTNBbXlTN1o4VVJaQVlqWWcwYTkwLVdKZ0lYeU5UdU80UFJnekd5TmJQbktXS3I4TENRSnJzY1BXT3pGb2FXdk4zdDI1ZjRTT2E2bFFfZFI0ZkFTM0dZNVZnLXFrZ0U3el8yNjNoZk5iR29PRnVLbWZEZjlILWk1NVRBbHFPUmZiMUJvZmRFMldMTWV5NTlVbjNFTQ?oc=5"
         },
         {
-          "d": "+7"
+          "d": "ottumwacourier.com",
+          "u": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOdVhCUlFlcE9SeEtlSHRjNkppOFdkNVA0eFBqenlaTjFWSHFoWEoyZEIyd011SWZvU05hUmFzWHNBYTlLMXEyUkRRbUkwQ0d1MnlFd2tEY2d3Mi1FT2JSWHpCTlBUWEFzc21FOFRsd3h2TzdORDFrY2FEOFBOalhUbFZ6Q3BOY1hFWDZBNnR1bGk5S0xqUTB3SzR4ZmxxZXpGX3ZMQkpGaERzWXVtbWJ4ZmpFZVhraHA1TnpNc1JzZTRXOEc1RHFIU3NFZWlWdGZBRmc4RXBEVTZYeE9BVFpUNG9YSXAwWW4zZWsxcjc0eURRVDBMY3RsRkxrM2xEdnhqXzVRNnRNN3VWemp0RUktLWxLRTk4YTZnc2NBSnVWNkw?oc=5"
+        },
+        {
+          "d": "+5"
         }
       ],
       "srcTitles": [
@@ -236,7 +236,32 @@
     },
     {
       "cat": "models",
-      "signal": 25,
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-26T09:01:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The focus on AI safety disasters ignores everyday harms",
+      "s": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl",
+      "b": [
+        "technologyreview.com: The focus on AI safety disasters ignores everyday harms"
+      ],
+      "body": [
+        "technologyreview.com: Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl . These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products that leave young people dependent on simulated friendships or trapped in feeds built to keep them scrolling. We have historically allowed the debate over technology to be defined by the worst thing a product might do, with remarkably little discussion of the insidious damage it does every day. As we transition into an era defined by powerful AI products, we should demand that the tech industry do more than merely address catastrophic harms. We should take measures to ensure that its products don’t erode how we think, learn, and interact with one another. A teenager who develops an unhealthy attachment to an AI companion may never appear in a lawsuit or a newspaper, except in the most egregious cases. Neither will the student who begins relying on a chatbot to write every paper, or the young person who measures their life against a social media feed engineered to provoke envy and keep them watching. A product can meet every narrow safety requirement and still leave our entire culture worse off in ways that don’t always make headlines. A narrow definition of success defined around safety is politically convenient for the technology industry, and companies actively promote such definitions. Taking steps to prevent spectacular disasters is good for business: It can mean fewer lawsuits and less pressure for serious regulation. Confronting the everyday consequences of dependence would require something considerably more threatening to their bottom line. It might mean asking companies to add more friction to their products or actively limit engagement or features that lead to negative outcomes, such as addictive attention-hacking "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
+        }
+      ],
+      "srcTitles": [
+        "The focus on AI safety disasters ignores everyday harms"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 21,
       "sources": 2,
       "ts": "2026-10-26T04:00:00.000Z",
       "writtenSources": 2,
@@ -264,31 +289,6 @@
       "srcTitles": [
         "Businesses are hooked on AI. Do they know how much it will cost?",
         "Do VLAs Know They Will Fail? Interpretable Success and Failure Patterns in Physical AI Systems"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 1,
-      "ts": "2026-10-26T09:01:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "The focus on AI safety disasters ignores everyday harms",
-      "s": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl",
-      "b": [
-        "technologyreview.com: The focus on AI safety disasters ignores everyday harms"
-      ],
-      "body": [
-        "technologyreview.com: Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide . A social media platform makes it more difficult for children to buy fentanyl . These are important protections, and they should have existed all along. But companies can clear these low bars while continuing to make products that leave young people dependent on simulated friendships or trapped in feeds built to keep them scrolling. We have historically allowed the debate over technology to be defined by the worst thing a product might do, with remarkably little discussion of the insidious damage it does every day. As we transition into an era defined by powerful AI products, we should demand that the tech industry do more than merely address catastrophic harms. We should take measures to ensure that its products don’t erode how we think, learn, and interact with one another. A teenager who develops an unhealthy attachment to an AI companion may never appear in a lawsuit or a newspaper, except in the most egregious cases. Neither will the student who begins relying on a chatbot to write every paper, or the young person who measures their life against a social media feed engineered to provoke envy and keep them watching. A product can meet every narrow safety requirement and still leave our entire culture worse off in ways that don’t always make headlines. A narrow definition of success defined around safety is politically convenient for the technology industry, and companies actively promote such definitions. Taking steps to prevent spectacular disasters is good for business: It can mean fewer lawsuits and less pressure for serious regulation. Confronting the everyday consequences of dependence would require something considerably more threatening to their bottom line. It might mean asking companies to add more friction to their products or actively limit engagement or features that lead to negative outcomes, such as addictive attention-hacking "
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/"
-        }
-      ],
-      "srcTitles": [
-        "The focus on AI safety disasters ignores everyday harms"
       ]
     }
   ]
