@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 82,
+      "signal": 76,
       "sources": 4,
       "ts": "2026-10-27T16:00:00.000Z",
       "writtenSources": 4,
@@ -48,38 +48,6 @@
     },
     {
       "cat": "products",
-      "signal": 61,
-      "sources": 2,
-      "ts": "2026-10-27T13:50:51.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-      "s": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document'",
-      "b": [
-        "theverge.com: Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-        "techmeme.com: Apple adds a beta AI assistant built on Apple's and OpenAI's models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers (Emma Roth/The Verge)"
-      ],
-      "body": [
-        "theverge.com: Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, [ ]",
-        "techmeme.com: Emma Roth / The Verge : Apple adds a beta AI assistant built on Apple's and OpenAI's models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers The new AI assistant can draft and restructure content in Pages, while organizing data in Numbers."
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261027/p20#a261027p20"
-        }
-      ],
-      "srcTitles": [
-        "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
-        "Apple adds a beta AI assistant built on Apple's and OpenAI's models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers (Emma Roth/The Verge)"
-      ]
-    },
-    {
-      "cat": "products",
       "signal": 60,
       "sources": 2,
       "ts": "2026-10-27T07:00:00.000Z",
@@ -111,9 +79,89 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 34,
+      "cat": "products",
+      "signal": 58,
       "sources": 2,
+      "ts": "2026-10-27T13:50:51.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "s": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document'",
+      "b": [
+        "theverge.com: Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+        "techmeme.com: Apple adds a beta AI assistant built on Apple's and OpenAI's models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers (Emma Roth/The Verge)"
+      ],
+      "body": [
+        "theverge.com: Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, [ ]",
+        "techmeme.com: Emma Roth / The Verge : Apple adds a beta AI assistant built on Apple's and OpenAI's models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers The new AI assistant can draft and restructure content in Pages, while organizing data in Numbers."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261027/p20#a261027p20"
+        }
+      ],
+      "srcTitles": [
+        "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+        "Apple adds a beta AI assistant built on Apple's and OpenAI's models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers (Emma Roth/The Verge)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 43,
+      "sources": 14,
+      "ts": "2026-10-27T11:55:20.000Z",
+      "writtenSources": 14,
+      "draft": true,
+      "h": "Trump says he will ban term artificial intelligence",
+      "s": "Trump says he will ban term artificial intelligence Reuters Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’ Forbes Trump Wants to Ban Use of the Term 'Art",
+      "b": [
+        "reuters.com: Trump says he will ban term artificial intelligence",
+        "ca.news.yahoo.com: Trump Claims He’ll Soon Officially Ban The Term ‘Artificial Intelligence’",
+        "deadline.com: Trump Says He'll Ban The Use Of The Term \"Artificial Intelligence\""
+      ],
+      "body": [
+        "reuters.com: Trump says he will ban term artificial intelligence Reuters Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’ Forbes Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI' Variety",
+        "ca.news.yahoo.com: Trump Claims He’ll Soon Officially Ban The Term ‘Artificial Intelligence’ Yahoo News Canada",
+        "deadline.com: Trump Says He'll Ban The Use Of The Term \"Artificial Intelligence\" Deadline",
+        "kron4.com: Trump banning the term ‘artificial intelligence,’ he says in social post KRON4"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5"
+        },
+        {
+          "d": "ca.news.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13T18wODdTc29IdzQxWkVjUVRWYmdaQzhxb3lReXJTeDVmaTh5WmtSZUNVaDhRUjV6WDg5dGFXSmNVV3N6R3JLWnpqY0RBcjQtQUJ3V09BNTVobnVlQWNVa3BQS3RBYkRHN19ZLXFfdzNfNmVYc1h3LUtOYzY?oc=5"
+        },
+        {
+          "d": "deadline.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTBMaGQ4bS0yaXBOeXd6bWRRWk9xX2c4ajhITV9qWkFUYTVqUlcxcVloR0dzdFQ0bVI5cGczMGZhQzdHVzZZT1VDZVlwZldCMktoU0lSNlE2NzhuZ2xobXE0aXF5T2kzd3N2ZXJCYkRtUUh3bU1PeWswSGpicUtPQTVaQ3FfMXhybVh4MDkzWQ?oc=5"
+        },
+        {
+          "d": "kron4.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEc1cFhvV3U3Wkx4RHdmMWtaMHc0M1c2M21CREdhWHRJMTV5MUphNVBTQXlEM19CRllYRmpJRWVsWXhZTjhQZWs5M1RSODl3SGFOVzJVNW1NN3lpelBIM1AtNU56UVMwNGlVZE9wcnJscFRpU2R3eXZ0bzRFZXRUX19MNnoxdG9CM2hvS2V4RTh0Ri00MERnNzZUVGszdC04YlhVYV9YRnB2dmN2RHRWTNIBtgFBVV95cUxPOGE0Y0l6T1F2SjRlNENmSmJWWTVpdndVb0FDWXFZaU9DaTZWeVBTQjhBR09BTW1sa2pVQ3Zjeml2VUhzd1RtYUY3blZlS3h2YTBBNTd0azhLRVNwY01ZUUcxTkVsN2dLN3lLNFh5UHJFallabmNGcFJVV2M0X2FNREVxdDJuZlE1cS1fakdldE9iNnl2SkNrd0hxek9hRmZmNTEyUG8zV2g1NkZ4amFzUllrMUV3Zw?oc=5"
+        },
+        {
+          "d": "+10"
+        }
+      ],
+      "srcTitles": [
+        "Trump says he will ban term artificial intelligence",
+        "Trump Claims He’ll Soon Officially Ban The Term ‘Artificial Intelligence’",
+        "Trump Says He'll Ban The Use Of The Term \"Artificial Intelligence\"",
+        "Trump banning the term ‘artificial intelligence,’ he says in social post"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 41,
+      "sources": 5,
       "ts": "2026-10-27T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -138,18 +186,29 @@
         {
           "d": "arxiv.org",
           "u": "https://arxiv.org/abs/2610.17895"
+        },
+        {
+          "d": "jdsupra.com",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTU05TUN0RTkzb1JrdG5PdkdYRUU1ZGU0WjNWeFVPaUFtWEtSTUNYMmg4cVZxSnNXMEpPY1o5QmcyUDR6LWFId1JQSlpBcGZaeDIyZy1LRTRUYzN5cXVOd0NaSkRkVEpndmlTZnJLa25KMkQtMHRXMjNwekctMko3b2dIZ0hOWVdT?oc=5"
+        },
+        {
+          "d": "nychealthandhospitals.org",
+          "u": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPME5UaHVQaWxHQ1FnWDBQU1h1c084VHZWMEU1Qm8zMDVqeklaTlBkVFpibW9iT1JhMnhPT2dFZEdBamxTTWlIWFlBb3lFUUpnS3dBM3RDZkpEcnpTeVJYTUt1WHNWcWlsWC1saVZzQWlXU2xaRFJUeW91a3I4NnBzWFpPNTgtS1B5ZTd2YWxNZnBiYnUyMjN2eU9nMkR2NnI2bE5lWExVNUxyb3VnZ1NqRnpKS1BVeVhfa1g1ZGV1akp2ZG5VaXNyVHBCR0otcWFoSi12RUxEUFl2Q01qcUoxMHBWcEkwdEZUZVIwTENpLWc0VlFlZTBSMkVsRDc5aHl1QlhOTXRnRjNpeTZjaHZGQTRUV2pnWDN1cFo5LVJsZXk3MC15a21wWWVEbWF4eFN2eTE1azlmdzEzYS04QWYwR2M5bkItMnB0QUFEcFFOSUtFSWs?oc=5"
+        },
+        {
+          "d": "+1"
         }
       ],
       "srcTitles": [
         "Can we trust LLMs to judge whether a research idea is novel?",
         "Interaction-as-a-Judge",
         "SANE: Automated Scorer-Specific Metamorphic Testing for LLM Judges",
-        "DIGOM: Disentangled Interaction Graphs for Outcome prediction in Multimodal healthcare"
+        "[Webinar] The Judicious Judge's Guide to Generative Artificial Intelligence and Large Language Models – Session 2"
       ]
     },
     {
       "cat": "funding",
-      "signal": 30,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-10-27T11:10:03.000Z",
       "writtenSources": 2,
@@ -235,8 +294,32 @@
         }
       ],
       "srcTitles": [
-        "Industrial Intelligence: The next growth opportunity for manufacturing",
         "Industrial Intelligence: The next growth opportunity for manufacturing"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-27T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How Check Point accelerates vulnerability research with Daybreak",
+      "s": "With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster.",
+      "b": [
+        "openai.com: How Check Point accelerates vulnerability research with Daybreak"
+      ],
+      "body": [
+        "openai.com: With OpenAI Daybreak, Check Point speeds up the research behind new security protections, enabling its analysts to turn vulnerability intelligence into customer defenses faster."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/check-point-daybreak"
+        }
+      ],
+      "srcTitles": [
+        "How Check Point accelerates vulnerability research with Daybreak"
       ]
     },
     {
