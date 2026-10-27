@@ -79,35 +79,35 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 34,
+      "cat": "products",
+      "signal": 60,
       "sources": 2,
-      "ts": "2026-10-27T11:10:03.000Z",
+      "ts": "2026-10-27T07:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
-      "s": "Saritha Rai / Bloomberg : Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M Hyphenate Inc.",
+      "h": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "s": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
       "b": [
-        "techmeme.com: Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
-        "pymnts.com: Hyphenate Raises $45 Million for Finance-Focused AI Agents"
+        "openai.com: OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "techmeme.com: Oracle adds ChatGPT and Codex to its app stack and expands Oracle Cloud Infrastructure lineup with Google TPUs, OpenAI's Jalapeño chip, and Cerebras hardware (Seema Mody/CNBC)"
       ],
       "body": [
-        "techmeme.com: Saritha Rai / Bloomberg : Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M Hyphenate Inc. has raised $45 million in a funding round led by Nexus Venture Partners, securing capital for an effort",
-        "pymnts.com: Hyphenate Raises $45 Million for Finance-Focused AI Agents PYMNTS.com"
+        "openai.com: OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings.",
+        "techmeme.com: Seema Mody / CNBC : Oracle adds ChatGPT and Codex to its app stack and expands Oracle Cloud Infrastructure lineup with Google TPUs, OpenAI's Jalape o chip, and Cerebras hardware Oracle on Tuesday announced an expanded collaboration with OpenAI that brings the artificial intelligence lab's ChatGPT"
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261027/p10#a261027p10"
+          "d": "openai.com",
+          "u": "https://openai.com/index/oracle-apps-in-chatgpt"
         },
         {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVVtbWtia0p4QnozbnFOUnNFeWYyZ1UtNV9FTWxoWFJJN2ZfWFl5WXJmQjJyTmJoeHhFRU5BT3E5c0JoNVlTX3ZnMDl5dWZ3eWVnOUVnY1ZsQlppUmFHem5iVnNYSnM3OU12VFVpTloxTFRWdDVaMVVJdElaQ0lMRFU2YklnRkRQU2lNZ1k2bHVNV0EtRGJ4MnJWRlNweDUtaEpIcnFJQk5pUUNRNHoyV0stc1oxazVBRWdF?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261027/p24#a261027p24"
         }
       ],
       "srcTitles": [
-        "Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
-        "Hyphenate Raises $45 Million for Finance-Focused AI Agents"
+        "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+        "Oracle adds ChatGPT and Codex to its app stack and expands Oracle Cloud Infrastructure lineup with Google TPUs, OpenAI's Jalapeño chip, and Cerebras hardware (Seema Mody/CNBC)"
       ]
     },
     {
@@ -145,6 +145,38 @@
         "Interaction-as-a-Judge",
         "SANE: Automated Scorer-Specific Metamorphic Testing for LLM Judges",
         "DIGOM: Disentangled Interaction Graphs for Outcome prediction in Multimodal healthcare"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 30,
+      "sources": 2,
+      "ts": "2026-10-27T11:10:03.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
+      "s": "Saritha Rai / Bloomberg : Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M Hyphenate Inc.",
+      "b": [
+        "techmeme.com: Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
+        "pymnts.com: Hyphenate Raises $45 Million for Finance-Focused AI Agents"
+      ],
+      "body": [
+        "techmeme.com: Saritha Rai / Bloomberg : Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M Hyphenate Inc. has raised $45 million in a funding round led by Nexus Venture Partners, securing capital for an effort",
+        "pymnts.com: Hyphenate Raises $45 Million for Finance-Focused AI Agents PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261027/p10#a261027p10"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVVtbWtia0p4QnozbnFOUnNFeWYyZ1UtNV9FTWxoWFJJN2ZfWFl5WXJmQjJyTmJoeHhFRU5BT3E5c0JoNVlTX3ZnMDl5dWZ3eWVnOUVnY1ZsQlppUmFHem5iVnNYSnM3OU12VFVpTloxTFRWdDVaMVVJdElaQ0lMRFU2YklnRkRQU2lNZ1k2bHVNV0EtRGJ4MnJWRlNweDUtaEpIcnFJQk5pUUNRNHoyV0stc1oxazVBRWdF?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
+        "Hyphenate Raises $45 Million for Finance-Focused AI Agents"
       ]
     },
     {
