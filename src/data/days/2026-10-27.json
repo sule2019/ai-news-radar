@@ -111,57 +111,41 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 43,
-      "sources": 14,
-      "ts": "2026-10-27T11:55:20.000Z",
-      "writtenSources": 14,
+      "cat": "funding",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-10-27T15:10:26.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "Trump says he will ban term artificial intelligence",
-      "s": "Trump says he will ban term artificial intelligence Reuters Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’ Forbes Trump Wants to Ban Use of the Term 'Art",
+      "h": "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+      "s": "A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
       "b": [
-        "reuters.com: Trump says he will ban term artificial intelligence",
-        "ca.news.yahoo.com: Trump Claims He’ll Soon Officially Ban The Term ‘Artificial Intelligence’",
-        "deadline.com: Trump Says He'll Ban The Use Of The Term \"Artificial Intelligence\""
+        "wired.com: UK Home Office May Face Investigation Over Use of OpenAI Tech",
+        "pymnts.com: UK Home Office Scrutinized For AI Use in Asylum Cases"
       ],
       "body": [
-        "reuters.com: Trump says he will ban term artificial intelligence Reuters Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’ Forbes Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI' Variety",
-        "ca.news.yahoo.com: Trump Claims He’ll Soon Officially Ban The Term ‘Artificial Intelligence’ Yahoo News Canada",
-        "deadline.com: Trump Says He'll Ban The Use Of The Term \"Artificial Intelligence\" Deadline",
-        "kron4.com: Trump banning the term ‘artificial intelligence,’ he says in social post KRON4"
+        "wired.com: A government watchdog is considering a probe into the Home Office’s use of ChatGPT technology to process asylum claims amid concerns over the tools’ accuracy and secrecy surrounding their use.",
+        "pymnts.com: UK Home Office Scrutinized For AI Use in Asylum Cases PYMNTS.com"
       ],
       "l": [
         {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSTVKYzJuUHVHb1A0cnVGZGdheE5VT1kwWmZVVEV0YVY4RkhQenRfeTA4bHhaWDRJd2o2NVFCa2VPb2duR0dzZUVmOFBSMEFoSUhDQngtN2V1b0l1YVdVNnp4TEF6Y2lVNjlYM29ueVpjMkFxZUdIUklTZDFIdU5QQnVXV1lBOEp2TFZpLVVqZmp1MElLSmoxRg?oc=5"
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/uk-home-office-may-face-investigation-over-use-of-openai-tools/"
         },
         {
-          "d": "ca.news.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13T18wODdTc29IdzQxWkVjUVRWYmdaQzhxb3lReXJTeDVmaTh5WmtSZUNVaDhRUjV6WDg5dGFXSmNVV3N6R3JLWnpqY0RBcjQtQUJ3V09BNTVobnVlQWNVa3BQS3RBYkRHN19ZLXFfdzNfNmVYc1h3LUtOYzY?oc=5"
-        },
-        {
-          "d": "deadline.com",
-          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQTBMaGQ4bS0yaXBOeXd6bWRRWk9xX2c4ajhITV9qWkFUYTVqUlcxcVloR0dzdFQ0bVI5cGczMGZhQzdHVzZZT1VDZVlwZldCMktoU0lSNlE2NzhuZ2xobXE0aXF5T2kzd3N2ZXJCYkRtUUh3bU1PeWswSGpicUtPQTVaQ3FfMXhybVh4MDkzWQ?oc=5"
-        },
-        {
-          "d": "kron4.com",
-          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEc1cFhvV3U3Wkx4RHdmMWtaMHc0M1c2M21CREdhWHRJMTV5MUphNVBTQXlEM19CRllYRmpJRWVsWXhZTjhQZWs5M1RSODl3SGFOVzJVNW1NN3lpelBIM1AtNU56UVMwNGlVZE9wcnJscFRpU2R3eXZ0bzRFZXRUX19MNnoxdG9CM2hvS2V4RTh0Ri00MERnNzZUVGszdC04YlhVYV9YRnB2dmN2RHRWTNIBtgFBVV95cUxPOGE0Y0l6T1F2SjRlNENmSmJWWTVpdndVb0FDWXFZaU9DaTZWeVBTQjhBR09BTW1sa2pVQ3Zjeml2VUhzd1RtYUY3blZlS3h2YTBBNTd0azhLRVNwY01ZUUcxTkVsN2dLN3lLNFh5UHJFallabmNGcFJVV2M0X2FNREVxdDJuZlE1cS1fakdldE9iNnl2SkNrd0hxek9hRmZmNTEyUG8zV2g1NkZ4amFzUllrMUV3Zw?oc=5"
-        },
-        {
-          "d": "+10"
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUDhXdDBocno2T1pIbzdtdllnU2swd3BIa1JHWkc0eDVlaDE1R0t4QTVqTk1qNm1jUmoxcUFwbmN5ZW10ZlNFajczTjdfcGxPVGM2UWZueS1Yb1FDdDFMd0h1VG14YzNWLUkzamU2cklieDJlakdoWFFPd1hKdTFzbXZ5a05fRmZ0NnplQjYtcFQzMEZvMVlXZVB0Qjhsd3dVRHFqbGhZWVNwLVJCWWtxbw?oc=5"
         }
       ],
       "srcTitles": [
-        "Trump says he will ban term artificial intelligence",
-        "Trump Claims He’ll Soon Officially Ban The Term ‘Artificial Intelligence’",
-        "Trump Says He'll Ban The Use Of The Term \"Artificial Intelligence\"",
-        "Trump banning the term ‘artificial intelligence,’ he says in social post"
+        "UK Home Office May Face Investigation Over Use of OpenAI Tech",
+        "UK Home Office Scrutinized For AI Use in Asylum Cases"
       ]
     },
     {
       "cat": "research",
-      "signal": 41,
-      "sources": 5,
+      "signal": 49,
+      "sources": 14,
       "ts": "2026-10-27T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -196,7 +180,7 @@
           "u": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPME5UaHVQaWxHQ1FnWDBQU1h1c084VHZWMEU1Qm8zMDVqeklaTlBkVFpibW9iT1JhMnhPT2dFZEdBamxTTWlIWFlBb3lFUUpnS3dBM3RDZkpEcnpTeVJYTUt1WHNWcWlsWC1saVZzQWlXU2xaRFJUeW91a3I4NnBzWFpPNTgtS1B5ZTd2YWxNZnBiYnUyMjN2eU9nMkR2NnI2bE5lWExVNUxyb3VnZ1NqRnpKS1BVeVhfa1g1ZGV1akp2ZG5VaXNyVHBCR0otcWFoSi12RUxEUFl2Q01qcUoxMHBWcEkwdEZUZVIwTENpLWc0VlFlZTBSMkVsRDc5aHl1QlhOTXRnRjNpeTZjaHZGQTRUV2pnWDN1cFo5LVJsZXk3MC15a21wWWVEbWF4eFN2eTE1azlmdzEzYS04QWYwR2M5bkItMnB0QUFEcFFOSUtFSWs?oc=5"
         },
         {
-          "d": "+1"
+          "d": "+10"
         }
       ],
       "srcTitles": [
@@ -207,35 +191,51 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-10-27T11:10:03.000Z",
-      "writtenSources": 2,
+      "cat": "policy",
+      "signal": 45,
+      "sources": 17,
+      "ts": "2026-10-27T11:55:20.000Z",
+      "writtenSources": 14,
       "draft": true,
-      "h": "Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
-      "s": "Saritha Rai / Bloomberg : Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M Hyphenate Inc.",
+      "h": "Trump says he will ban term artificial intelligence",
+      "s": "Trump says he will ban term artificial intelligence Reuters Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’ Forbes Trump Wants to Ban Use of the Term 'Art",
       "b": [
-        "techmeme.com: Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
-        "pymnts.com: Hyphenate Raises $45 Million for Finance-Focused AI Agents"
+        "reuters.com: Trump says he will ban term artificial intelligence",
+        "ca.news.yahoo.com: Trump Claims He’ll Soon Officially Ban The Term ‘Artificial Intelligence’",
+        "deadline.com: Trump Says He'll Ban The Use Of The Term \"Artificial Intelligence\""
       ],
       "body": [
-        "techmeme.com: Saritha Rai / Bloomberg : Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M Hyphenate Inc. has raised $45 million in a funding round led by Nexus Venture Partners, securing capital for an effort",
-        "pymnts.com: Hyphenate Raises $45 Million for Finance-Focused AI Agents PYMNTS.com"
+        "reuters.com: Trump says he will ban term artificial intelligence Reuters Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’ Forbes Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI' Variety",
+        "ca.news.yahoo.com: Trump Claims He’ll Soon Officially Ban The Term ‘Artificial Intelligence’ Yahoo News Canada",
+        "deadline.com: Trump Says He'll Ban The Use Of The Term \"Artificial Intelligence\" Deadline",
+        "kron4.com: Trump banning the term ‘artificial intelligence,’ he says in social post KRON4"
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261027/p10#a261027p10"
+          "d": "forbes.com",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa3BBOFRzNmhiVi10YzJyUVAwWXdVUlRzOHg3bi0yZENqUWk0VzFxUFFMV2NFWUxtdEhyb1pNaTdLcU9RbWU0TDVBUXBHdnN5emZ4SzdVck8zUE5mbnNwbkdqV2VzTHY1cHdBWjlWUmppbDZyMWk0T3FLOUNKR0hwQmIyWlJ5ZlRFbUM4dFJrVGRnb1d4T2tqNUNXUjZUZzQ?oc=5"
         },
         {
-          "d": "pymnts.com",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVVtbWtia0p4QnozbnFOUnNFeWYyZ1UtNV9FTWxoWFJJN2ZfWFl5WXJmQjJyTmJoeHhFRU5BT3E5c0JoNVlTX3ZnMDl5dWZ3eWVnOUVnY1ZsQlppUmFHem5iVnNYSnM3OU12VFVpTloxTFRWdDVaMVVJdElaQ0lMRFU2YklnRkRQU2lNZ1k2bHVNV0EtRGJ4MnJWRlNweDUtaEpIcnFJQk5pUUNRNHoyV0stc1oxazVBRWdF?oc=5"
+          "d": "variety.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU1NaRHNKaV9MWk9DVTdZSERQX0F5SmwxYS1Jc09JaVMzX1lTV090VVptNi1WcTRKTk9hREs3MVczakIzbzNsbjFLUmxjeTdVWlpGcklXXzZqWmFsLTBsUmFLY2NLLWp4WjJnMk9HTzhMc0psaEpWaU55dlhCRDFRbzF3dV9ib1N5ZER3SEpGcDlXYjlERU1xWE9PdmVtNjFfVDBhRA?oc=5"
+        },
+        {
+          "d": "thehill.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWdCemlqWmdjRWJ3TlVwdVVxQU1Jei1IM2ZMZERVMHBwcUZKdnY4OVhBeFhmV1pSNE9NU29nck5rMWdXbXgzRFVaV0ZHZlBjOUdRTjhGY1VQNFJFUTBRdkpnaVVJQnZZYnRJM1NPbTR1RWtSbVUtSDlHWUtsNVUxaFJhU3FKWkRsZ1BpUzRSeE1waGZrclRj0gGcAUFVX3lxTE9DUHZBbUFob0lyNnJQZjhBZzVrWFYxU2NmQVhDOWFmb2xTMU5JTnpIS3FwejdpdnZmUU5kUDBtaVRkb3h1NkszSVo4by1oRjVtdDlfNklZRFRsRUpjVFJCelhudTRSTnAtSm9OT3UwX2ZMRFpqUE02NExrbEZTeWVsNG0wV0pYVjdnUkxTUFVoYVZfWm0zdGs0RXdlMQ?oc=5"
+        },
+        {
+          "d": "kron4.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMEc1cFhvV3U3Wkx4RHdmMWtaMHc0M1c2M21CREdhWHRJMTV5MUphNVBTQXlEM19CRllYRmpJRWVsWXhZTjhQZWs5M1RSODl3SGFOVzJVNW1NN3lpelBIM1AtNU56UVMwNGlVZE9wcnJscFRpU2R3eXZ0bzRFZXRUX19MNnoxdG9CM2hvS2V4RTh0Ri00MERnNzZUVGszdC04YlhVYV9YRnB2dmN2RHRWTNIBtgFBVV95cUxPOGE0Y0l6T1F2SjRlNENmSmJWWTVpdndVb0FDWXFZaU9DaTZWeVBTQjhBR09BTW1sa2pVQ3Zjeml2VUhzd1RtYUY3blZlS3h2YTBBNTd0azhLRVNwY01ZUUcxTkVsN2dLN3lLNFh5UHJFallabmNGcFJVV2M0X2FNREVxdDJuZlE1cS1fakdldE9iNnl2SkNrd0hxek9hRmZmNTEyUG8zV2g1NkZ4amFzUllrMUV3Zw?oc=5"
+        },
+        {
+          "d": "+13"
         }
       ],
       "srcTitles": [
-        "Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
-        "Hyphenate Raises $45 Million for Finance-Focused AI Agents"
+        "Trump Says He Will Ban Term ‘Artificial Intelligence’ In Latest Push For ‘Super Intelligence’",
+        "Trump Wants to Ban Use of the Term 'Artificial Intelligence' and 'AI'",
+        "Trump says he will ban the term artificial intelligence",
+        "Trump banning the term ‘artificial intelligence,’ he says in social post"
       ]
     },
     {
@@ -320,6 +320,38 @@
       ],
       "srcTitles": [
         "How Check Point accelerates vulnerability research with Daybreak"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-10-27T11:10:03.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
+      "s": "Saritha Rai / Bloomberg : Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M Hyphenate Inc.",
+      "b": [
+        "techmeme.com: Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
+        "pymnts.com: Hyphenate Raises $45 Million for Finance-Focused AI Agents"
+      ],
+      "body": [
+        "techmeme.com: Saritha Rai / Bloomberg : Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M Hyphenate Inc. has raised $45 million in a funding round led by Nexus Venture Partners, securing capital for an effort",
+        "pymnts.com: Hyphenate Raises $45 Million for Finance-Focused AI Agents PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261027/p10#a261027p10"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVVtbWtia0p4QnozbnFOUnNFeWYyZ1UtNV9FTWxoWFJJN2ZfWFl5WXJmQjJyTmJoeHhFRU5BT3E5c0JoNVlTX3ZnMDl5dWZ3eWVnOUVnY1ZsQlppUmFHem5iVnNYSnM3OU12VFVpTloxTFRWdDVaMVVJdElaQ0lMRFU2YklnRkRQU2lNZ1k2bHVNV0EtRGJ4MnJWRlNweDUtaEpIcnFJQk5pUUNRNHoyV0stc1oxazVBRWdF?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
+        "Hyphenate Raises $45 Million for Finance-Focused AI Agents"
       ]
     },
     {
