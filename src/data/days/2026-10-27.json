@@ -2,8 +2,214 @@
   "date": "2026-10-27",
   "stories": [
     {
+      "cat": "products",
+      "signal": 82,
+      "sources": 4,
+      "ts": "2026-10-27T16:00:00.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "Genie 4: A new generation of world simulation",
+      "s": "Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+      "b": [
+        "deepmind.google: Genie 4: A new generation of world simulation",
+        "techmeme.com: Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers (Jay Peters/The Verge)",
+        "techcrunch.com: Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering"
+      ],
+      "body": [
+        "deepmind.google: Genie 4: our new world model unlocking unprecedented realism in real-time simulation.",
+        "techmeme.com: Jay Peters / The Verge : Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers The Genie 4 world model offers more realism and can create audio to accompany its interactive worlds.",
+        "techcrunch.com: Google DeepMind released Genie 4, a world model with real-time audio, more realistic simulations, and mid-simulation text prompts, in research preview for trusted testers.",
+        "theverge.com: Google announced today its Genie 4 world model for generating interactive experiences using AI. The company says the model has four main updates: It allows for more realistic worlds, lets users update an experience in real time with a natural language prompt, can generate audio, and uses Gemini 3.8 Flash under the hood to help [ ]"
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261027/p23#a261027p23"
+        },
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
+        }
+      ],
+      "srcTitles": [
+        "Genie 4: A new generation of world simulation",
+        "Google launches Genie 4, a world model powered by Gemini 3.8 Flash designed to generate interactive AI simulations, initially as a preview to trusted testers (Jay Peters/The Verge)",
+        "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
+        "Google’s next Genie AI model generates more realistic experiences"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-27T13:50:51.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+      "s": "Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document'",
+      "b": [
+        "theverge.com: Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+        "techmeme.com: Apple adds a beta AI assistant built on Apple's and OpenAI's models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers (Emma Roth/The Verge)"
+      ],
+      "body": [
+        "theverge.com: Apple is bringing an AI assistant to its suite of productivity apps, including Keynote, Pages, and Numbers. The assistant, which is built on AI models from Apple and OpenAI, can understand a document's context to perform tasks like designing, animating, and refining slides in Keynote. In Pages, Apple says the AI assistant can draft, restructure, [ ]",
+        "techmeme.com: Emma Roth / The Verge : Apple adds a beta AI assistant built on Apple's and OpenAI's models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers The new AI assistant can draft and restructure content in Pages, while organizing data in Numbers."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1019373/apple-pages-keynote-numbers-ai-chatbot-update"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261027/p20#a261027p20"
+        }
+      ],
+      "srcTitles": [
+        "Apple is adding an AI chatbot to Pages, Keynote, and Numbers",
+        "Apple adds a beta AI assistant built on Apple's and OpenAI's models to Keynote, Pages, Numbers, and Logic Pro, plus MCP support to Keynote, Pages, and Numbers (Emma Roth/The Verge)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-10-27T11:10:03.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
+      "s": "Saritha Rai / Bloomberg : Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M Hyphenate Inc.",
+      "b": [
+        "techmeme.com: Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
+        "pymnts.com: Hyphenate Raises $45 Million for Finance-Focused AI Agents"
+      ],
+      "body": [
+        "techmeme.com: Saritha Rai / Bloomberg : Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M Hyphenate Inc. has raised $45 million in a funding round led by Nexus Venture Partners, securing capital for an effort",
+        "pymnts.com: Hyphenate Raises $45 Million for Finance-Focused AI Agents PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261027/p10#a261027p10"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeVVtbWtia0p4QnozbnFOUnNFeWYyZ1UtNV9FTWxoWFJJN2ZfWFl5WXJmQjJyTmJoeHhFRU5BT3E5c0JoNVlTX3ZnMDl5dWZ3eWVnOUVnY1ZsQlppUmFHem5iVnNYSnM3OU12VFVpTloxTFRWdDVaMVVJdElaQ0lMRFU2YklnRkRQU2lNZ1k2bHVNV0EtRGJ4MnJWRlNweDUtaEpIcnFJQk5pUUNRNHoyV0stc1oxazVBRWdF?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Hyphenate, which develops reinforcement-learning-driven AI agents to automate corporate finance tasks, raised a $45M Series A, taking its total funding to $54M (Saritha Rai/Bloomberg)",
+        "Hyphenate Raises $45 Million for Finance-Focused AI Agents"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-10-27T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Can we trust LLMs to judge whether a research idea is novel?",
+      "s": "Covered by 2 outlets.",
+      "b": [
+        "huggingface.co: Can we trust LLMs to judge whether a research idea is novel?",
+        "arxiv.org: Interaction-as-a-Judge",
+        "arxiv.org: SANE: Automated Scorer-Specific Metamorphic Testing for LLM Judges"
+      ],
+      "body": [
+        "arxiv.org: arXiv:2610.17895v3 Announce Type: replace-cross Abstract: Coding agents are tasked with producing sophisticated interactive applications such as websites, desktop applications, and games. While humans assess these applications interactively, current automated LLM evaluations primarily focus on code analysis and unit tests. This mismatch can cause LLM judges to miss failures that are immediately apparent to human users. We study Interaction-as-a-Judge, an evaluation paradigm where computer-use agents (CUAs) directly interact with an application. We demonstrate that Interaction-as-a-Judge can improve both evaluation and generation of interactive applications. To this end, we collect and release two complementary datasets: $6,858$ pairs of applications with human preferences and corresponding agent traces, and $222$ applications with human-verified requirement labels. Relative to standard non-interactive approaches, we find that Interaction-as-a-Judge improves evaluation in terms of predicting human preferences ($65.6\\% \\to 69.1\\%$) and requirement verification ($77.0\\% \\to 81.6\\%$). We also observe scaling benefits: across both preference alignment and requirement verification, higher-quality interactions improve performance. Finally, through both inference- and training-time experiments, we demonstrate that Interaction-as-a-Judge can also improve the quality of generated artifacts. At inference time, Interaction-as-a-Judge repairs $75.5\\%$ of broken requirements within five attempts, compared to $55.4\\%$ for code-only self-feedback. At training time, using Interaction-as-a-Judge as a reward signal improves win-rate over the base model by $6.7$pp while reducing both generated code length by $35.7\\%$ and build failure rates by $7.2$pp compared to a code-only reward signal.",
+        "arxiv.org: arXiv:2610.28886v2 Announce Type: replace-cross Abstract: LLM judges increasingly mediate benchmark evaluation, model selection, data curation, and training. Their decisions are useful only when each judge responds reliably to changes affecting its scoring criterion. Existing methods for reliability testing perturb inputs with known expected effects on judge scores. Prominent LLM-judge testing harnesses combine human-authored perturbation recipes with synthetic test generation, leaving scorer-specific recipe ideation outside the automated pipeline. This limits their use to fixed perturbations and pre-assumed scorer types. We introduce SANE, an agent-based framework that encodes behavioral requirements for stochastic evaluators as reusable agent instructions. Given a scorer specification, implementation, and representative inputs, the pipeline first identifies scorer-specific capabilities, then automatically derives perturbation recipes and expected score relations for each. SANE also defines a scorer-independent validation framework for generated judge tests. It determines whether each recipe agrees with scorer intent and whether each instantiated case realizes the recipe and supports its expected relation. Because SANE generates a recipe inventory tailored to each scorer, the number of aligned recipes grows as scorers are added. Across five domains, SANE produces 3.7 times as many validated test families as the Judge Reliability Harness (JRH) at comparable end-to-end validity and detects scorer deficiencies in every domain, including professionalism and toxicity, where JRH detects none. On faithfulness, SANE achieves strong human alignment in judge ranking: its test-suite scores rank 11 judge models consistently with human-labeled FaithBench performance (Spearman rho = 0.852), while JRH does not (rho = 0.100).",
+        "arxiv.org: arXiv:2610.32451v1 Announce Type: cross Abstract: Multimodal healthcare data contain relational information that extends beyond individual patient observations. Effective clinical outcome prediction therefore requires not only integrating information from multiple modalities, but also modeling the relationships between them. Standard fusion approaches do not explicitly capture these interactions, while existing graph-based approaches typically model only a subset of them. We propose DIGOM (Disentangled Interaction Graphs for Outcome prediction in Multimodal healthcare), a graph-based framework that jointly models three complementary interaction types: Intra-patient cross-modal, Cross-patient same-modal, and Cross-patient cross-modal interactions. DIGOM learns a sparse multiplex graph with disentangled views, each encoding interactions between pairs of modalities across patients. Discrete adjacency matrices with patient-adaptive connectivity are sampled via a differentiable mechanism, enabling end-to-end learning and allowing the model to select informative relationships without imposing a fixed number of neighbors. A regularization objective maintains overall graph sparsity, while message passing integrates this relational context into patient representations for outcome prediction. We evaluate DIGOM on two multimodal healthcare datasets, MIMIC-IV and NIH-TB, across five clinical prediction tasks. DIGOM achieves the highest AUROC on all five tasks while using fewer connections than existing multi-interaction approaches. Ablation studies reveal that each interaction type's contribution varies across tasks, highlighting the need to adapt relational structures per task. DIGOM also demonstrates greater robustness to missing modalities, suggesting learned relationships provide complementary information when modalities are unavailable. Post-hoc analyses further reveal task- and outcome-specific connectivity patterns in the learned graphs.",
+        "arxiv.org: arXiv:2610.21624v2 Announce Type: replace Abstract: Real-world tasks are often complex and noisy, posing substantial challenges for LLM agents. Yet existing evaluations lack a systematic framework for jointly characterizing potential perturbation targets and types. We use this two-dimensional view to conduct a unified study that quantifies the robustness of current frontier models, traces the mechanisms behind perturbation-induced failures, and draws implications for robustness-oriented training. Through controlled evaluations on APEX-Agents and Toolathlon, we find that perturbations consistently degrade performance, while the dominant vulnerabilities vary across task environments. Trajectory-level analysis reveals that agents rarely recognize altered inputs and often propagate corrupted information without verification. A focused cost analysis further shows that successful perturbed trajectories can require substantially more computation. These findings motivate training objectives that cover diverse forms of noise and reward verification, uncertainty awareness, and recovery. We provide a rigorous benchmark-construction pipeline. Code and data will be released at https://github.com/xuyj233/AgentPerturb."
+      ],
+      "l": [
+        {
+          "d": "huggingface.co",
+          "u": "https://huggingface.co/blog/allenai/novelty-bench"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.17895"
+        }
+      ],
+      "srcTitles": [
+        "Can we trust LLMs to judge whether a research idea is novel?",
+        "Interaction-as-a-Judge",
+        "SANE: Automated Scorer-Specific Metamorphic Testing for LLM Judges",
+        "DIGOM: Disentangled Interaction Graphs for Outcome prediction in Multimodal healthcare"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 18,
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-27T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
+      "s": "Chain-of-thought transformed AI reasoning, but it is limited to words. What s the physical-world analogue? Introducing Ψ-0.6, one model that reasons in *streams of thought*: words, depth, motion, came",
+      "b": [
+        "reddit.com: Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
+        "arxiv.org: $\\Psi$-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model"
+      ],
+      "body": [
+        "reddit.com: Chain-of-thought transformed AI reasoning, but it is limited to words. What s the physical-world analogue? Introducing Ψ-0.6, one model that reasons in *streams of thought*: words, depth, motion, camera pose, and imagined scenes. And it learns when to use which! Ψ-0.6 surpasses leading open-weight models on complex spatial reasoning (MindCube, zero-shot). On FlowBench, it outperforms other world models at predicting how objects move. Trained on simulated rooms, it transfers to real robot tabletops. One model as perceiver, VLM, world model, reasoner, and policy. RL learns which representation to reason through. Thread (with video): https://x.com/khai_loong_aw/status/2115099953433600011 Paper: https://arxiv.org/abs/2610.32177 Website: https://neuroailab.github.io/psi-website/blog/psi-0-6.html Code: https://github.com/neuroailab/psi-0.6 submitted by /u/FaeriaManic [link] [comments]",
+        "arxiv.org: arXiv:2610.32177v1 Announce Type: new Abstract: Humans reason about the physical world by flexibly combining different forms of inference as a problem unfolds. Achieving this flexibility is a major open challenge in AI: capabilities often remain separated across specialized models, limiting how they can be composed and jointly adapted to a task. We introduce $\\Psi$-0.6, a unified vision-language world model that adaptively composes perception, language, geometry, and simulation within a shared reasoning process we call streams of thought. These streams interleave images, text, and explicit representations of geometry and motion, all of which the model can generate and interpret through a shared token interface. $\\Psi$-0.6 surpasses leading open-weight models zero-shot on multi-view spatial reasoning, with further gains from reasoning through geometric intermediates. It also supports counterfactual simulation: generating and interpreting imagined scenes to determine, for example, whether moving an object would obstruct a pathway. Reinforcement learning from task feedback jointly optimizes the selection, generation, and use of intermediate representations, improving visual question-answering accuracy with gains that transfer to unseen benchmarks. $\\Psi$-0.6 offers a path toward adaptive physical reasoning -- not only predicting the physical world but also choosing the representations through which to reason."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1xgwq9u/ψ06_adaptive_streams_of_thought_in_a_unified/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.32177"
+        }
+      ],
+      "srcTitles": [
+        "Ψ-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model [R]",
+        "$\\Psi$-0.6: Adaptive Streams of Thought in a Unified Vision-Language World Model"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-27T11:19:18.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "s": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after",
+      "b": [
+        "technologyreview.com: Industrial Intelligence: The next growth opportunity for manufacturing",
+        "technologyreview.com: Industrial Intelligence: The next growth opportunity for manufacturing"
+      ],
+      "body": [
+        "technologyreview.com: Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves, what happened during the previous shift, and when an apparently minor variation deserves a closer look. A procedure can describe the sequence, but successful execution depends on the judgment that comes from experience and the organization’s accumulated know-how. That combination is industrial intelligence: a manufacturer’s accumulated know-how, operating practices, production data, and understanding of its own business. The opportunity now is to make more of that intelligence available wherever decisions are made, then connect it to the physical world of manufacturing. The strategic destination is not more agents, but rather to turn the existing business intelligence into an engine for profitable growth. Individual knowledge can be translated into organizational advantage Expertise has limited reach when it stays with one person, inside one system, or within one plant. Leaders now must determine how to extend that reach without stripping away the context that makes the knowledge useful. For example, an engineer evaluating a process change needs more than a production record. They need to understand the circumstances behind it: the equipment configuration, the quality requirements, and the trade-offs an operator made. Connecting those elements can help people apply experience beyond the place where it originated. When individual knowledge becomes widely accessible, innovation can spread to the maintenance workshop, the planning office, the engineering team, and the production floor. More people can contribute because more people can work with what the organization knows. But access to knowledge is only part of the opportunity. Manufacturing ultimately is physical, and it d",
+        "technologyreview.com: Industrial Intelligence: The next growth opportunity for manufacturing MIT Technology Review"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/"
+        }
+      ],
+      "srcTitles": [
+        "Industrial Intelligence: The next growth opportunity for manufacturing",
+        "Industrial Intelligence: The next growth opportunity for manufacturing"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 15,
       "sources": 2,
       "ts": "2026-10-27T00:00:53.000Z",
       "writtenSources": 2,
