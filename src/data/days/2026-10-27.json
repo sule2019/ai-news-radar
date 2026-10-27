@@ -1,4 +1,37 @@
 {
   "date": "2026-10-27",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-27T00:00:53.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Australia warns of 'unprecedented' AI threat",
+      "s": "Australia warns of 'unprecedented' AI threat France 24",
+      "b": [
+        "france24.com: Australia warns of 'unprecedented' AI threat",
+        "rfi.fr: Australia warns of 'unprecedented' AI threat"
+      ],
+      "body": [
+        "france24.com: Australia warns of 'unprecedented' AI threat France 24",
+        "rfi.fr: Australia warns of 'unprecedented' AI threat RFI"
+      ],
+      "l": [
+        {
+          "d": "france24.com",
+          "u": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2FTSGwxSVhyRHpRSFZseF9IQTQ2c1dNdkhkbTBZVFh4dW8wdWxhZ2pvNTFxUDVITmZ1WWZOUWlTSFFuUnZzVWtETDh0NkxZSzdlMlpua2FaVXJTN2Q1UDhLU1ZxeXlpUklKQVYtOVZUN2JHdlZ3cXBaVXM3cXIxTmpPajJaRUZRcExuR2Q4MEdTMzQ?oc=5"
+        },
+        {
+          "d": "rfi.fr",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVVdUcWQ4ZHRaaHlXcUFCQ1RJVl9BUnBpcHBGNTZaUGljOHNrbXgtT1hhbEpEWUFsVXBtVlBmelk0STFYSkdlMDRYSlpVT3IzdHpDdHMwQTQ1cW00aF9uTXF4bFU2aXE1bnUyY1Bic0drZVl0Rkg0SUNyWENhbEVDY0RlY0o4RFk4MVFtXzdtb0N4cHpfS2hj?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Australia warns of 'unprecedented' AI threat",
+        "Australia warns of 'unprecedented' AI threat"
+      ]
+    }
+  ]
 }
