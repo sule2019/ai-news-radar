@@ -3,6 +3,44 @@
   "stories": [
     {
       "cat": "products",
+      "signal": 73,
+      "sources": 3,
+      "ts": "2026-10-28T14:58:17.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "s": "Covered by 3 outlets.",
+      "b": [
+        "huggingface.co: NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "techmeme.com: Nvidia debuts Nemotron 3.5 Transcribe, an open-weight model for multilingual audio transcription and translation, and Granary v2, its open-source speech dataset (Kyt Dotson/SiliconANGLE)",
+        "techcrunch.com: Voice AI in vogue: Nvidia releases new open transcription model"
+      ],
+      "body": [
+        "techmeme.com: Kyt Dotson / SiliconANGLE : Nvidia debuts Nemotron 3.5 Transcribe, an open-weight model for multilingual audio transcription and translation, and Granary v2, its open-source speech dataset Nvidia Corp. today released a leaderboard-winning open artificial intelligence model for multilingual audio transcription and translation",
+        "techcrunch.com: Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs."
+      ],
+      "l": [
+        {
+          "d": "huggingface.co",
+          "u": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261028/p33#a261028p33"
+        },
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/"
+        }
+      ],
+      "srcTitles": [
+        "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "Nvidia debuts Nemotron 3.5 Transcribe, an open-weight model for multilingual audio transcription and translation, and Granary v2, its open-source speech dataset (Kyt Dotson/SiliconANGLE)",
+        "Voice AI in vogue: Nvidia releases new open transcription model"
+      ]
+    },
+    {
+      "cat": "products",
       "signal": 61,
       "sources": 2,
       "ts": "2026-10-28T11:27:30.000Z",
@@ -35,7 +73,7 @@
     },
     {
       "cat": "research",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-10-28T02:12:07.000Z",
       "writtenSources": 2,
@@ -67,7 +105,39 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-10-28T13:23:05.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Using artificial intelligence to step up the fight against doping",
+      "s": "Using artificial intelligence to step up the fight against doping Yahoo",
+      "b": [
+        "malaysia.news.yahoo.com: Using artificial intelligence to step up the fight against doping",
+        "euronews.com: Using artificial intelligence to step up the fight against doping"
+      ],
+      "body": [
+        "malaysia.news.yahoo.com: Using artificial intelligence to step up the fight against doping Yahoo",
+        "euronews.com: Using artificial intelligence to step up the fight against doping Euronews.com"
+      ],
+      "l": [
+        {
+          "d": "malaysia.news.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR3VsY0pkZnhwSXVSVmpKSkJrODQ5a0Rud3ZJSG1KaTlkbTdLdWhVUDdoMmZuNWpjOU11RDFtUlNXNjljLUtEaFA1U1pvLWtaX1F5bng4b0hial9MUGVXS0hGN0dqY1JObzFlODZqdkFTLUc2NUhvYTh5cklCTlNSZE5nNXp0OGxIRF9oSmpEOXI?oc=5"
+        },
+        {
+          "d": "euronews.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVBCZGpLZnF4UjFnT1JyUTFjYWF2d0Q4clcwdVZueGFiOXlSOEU0WEczVmdTeHQ5NG8zVl90a2FLR2tHam5ScmZISzFkYV9TSEJlZGpHSS03MmlBbEtYVElfOFQ3OVRJdUc5dC1GT3l2c1NvVGN3UXFnYVYyVTNiMUlCOTVqWFJQQlF6UnlVT0sxXy1TTC1TQl9SWHQ0SERnc3Bn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Using artificial intelligence to step up the fight against doping",
+        "Using artificial intelligence to step up the fight against doping"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
       "sources": 1,
       "ts": "2026-10-28T12:00:00.000Z",
       "writtenSources": 1,
@@ -90,7 +160,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-28T09:30:00.000Z",
       "writtenSources": 1,
@@ -110,6 +180,7 @@
         }
       ],
       "srcTitles": [
+        "Legora is building the agentic operating system for legal work",
         "Legora is building the agentic operating system for legal work"
       ]
     }
