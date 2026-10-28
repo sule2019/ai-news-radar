@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 70,
+      "signal": 66,
       "sources": 3,
       "ts": "2026-10-28T14:58:17.000Z",
       "writtenSources": 3,
@@ -57,8 +57,8 @@
       ],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/"
         },
         {
           "d": "arstechnica.com",
@@ -72,7 +72,7 @@
     },
     {
       "cat": "products",
-      "signal": 57,
+      "signal": 53,
       "sources": 2,
       "ts": "2026-10-28T11:27:30.000Z",
       "writtenSources": 2,
@@ -103,8 +103,81 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 50,
+      "sources": 33,
+      "ts": "2026-10-28T13:46:00.000Z",
+      "writtenSources": 33,
+      "draft": true,
+      "h": "Artificial Intelligence is killing and creating jobs",
+      "s": "Artificial Intelligence is killing and creating jobs Gray TV",
+      "b": [
+        "localnewslive.com: Artificial Intelligence is killing and creating jobs",
+        "wjhg.com: Artificial Intelligence is killing and creating jobs",
+        "foxcarolina.com: Artificial Intelligence is killing and creating jobs"
+      ],
+      "body": [
+        "localnewslive.com: Artificial Intelligence is killing and creating jobs Gray TV",
+        "wjhg.com: Artificial Intelligence is killing and creating jobs WJHG",
+        "foxcarolina.com: Artificial Intelligence is killing and creating jobs FOX Carolina News",
+        "13abc.com: Artificial Intelligence is killing and creating jobs WTVG"
+      ],
+      "l": [
+        {
+          "d": "localnewslive.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX3JhODdqNFRkTlBlU2Q2SFExVkRQOGZhX2NGNklQWkxVTTNzY2VacDRUVlVLbHphQzdiSHVxT2pVaVNCX2pFMGNNQXZrNnJpNllKenhaRTBkbUxrYUVadDRDOERnU0U2SXhVeUd4YmFmT0FLamVuTDkzZENYak1WbWk3LW9EWTN3MW5nMm5yMWFXM2JNSEo5TGVDRC0?oc=5"
+        },
+        {
+          "d": "wjhg.com",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRHlHVS1IRTV0X0ZBdmxJdE5HM0tIcFNQQVNqRzRTcDgxU2tGWFhxSnFSSDZ5ci1BZWFHNWFkaWhxbjhxWVJkSUx1NDBXb1pXb3JrV1hrODF3bEw5cGlnN2s2a3JfUVgwd2JlSGFKUF82MmdTZUMtMWlOb3dzX2UxcTBaMEFUcnhqUVJTNUxjQ3Q?oc=5"
+        },
+        {
+          "d": "foxcarolina.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc2J2cjl5N0RNNEhacFd2V2RPclpMcWpWQVFzNXVDbHF6WHZqb3RjSnFMbnpleXg2VThRdGlIazNFNFJXVE9jeTg0TkRRc3Zqdk1Oeng5d19CMW9XakxWaXJSSFlZTGZlTGZYQ2hSaF9aUERkVzdpQjBCc1VVSWJRU2VkcnkwcnpoZzVITVRTWDltUDBxUEUyUkJB?oc=5"
+        },
+        {
+          "d": "13abc.com",
+          "u": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWk8wbkktY2RDRThEY1pxd0RBSlpMU1ljWHNiWjR2aS1ZVFZlbHlTZHBKdHE0MHlWczZ2U21FMUc3cmxTRnhIWUwyRnhUX1U5YXZpdzRpTXpmZ0FCeUYyZFEtZ0tsX25hb0lpUmNVZFJ3S3dIOW5LNkoxYno0cDJNUUhsdjhBYUx2M2ZLOUdkdmhQdw?oc=5"
+        },
+        {
+          "d": "+29"
+        }
+      ],
+      "srcTitles": [
+        "Artificial Intelligence is killing and creating jobs",
+        "Artificial Intelligence is killing and creating jobs",
+        "Artificial Intelligence is killing and creating jobs",
+        "Artificial Intelligence is killing and creating jobs"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-10-28T13:15:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "s": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+      "b": [
+        "openai.com: OpenAI and ServiceNow expand partnership across enterprise workflows"
+      ],
+      "body": [
+        "openai.com: OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/openai-servicenow-partnership-expansion"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI and ServiceNow expand partnership across enterprise workflows"
+      ]
+    },
+    {
       "cat": "research",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-10-28T02:12:07.000Z",
       "writtenSources": 2,
@@ -205,66 +278,27 @@
     },
     {
       "cat": "models",
-      "signal": 29,
-      "sources": 2,
-      "ts": "2026-10-28T14:52:00.000Z",
-      "writtenSources": 2,
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-10-28T20:32:02.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "When artificial intelligence wears a famous face | Newswise",
-      "s": "When artificial intelligence wears a famous face | Newswise Newswise",
+      "h": "Creating AI value with enterprise context",
+      "s": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automati",
       "b": [
-        "newswise.com: When artificial intelligence wears a famous face | Newswise",
-        "miragenews.com: When Artificial Intelligence Wears Famous Face"
+        "technologyreview.com: Creating AI value with enterprise context"
       ],
       "body": [
-        "newswise.com: When artificial intelligence wears a famous face | Newswise Newswise",
-        "miragenews.com: When Artificial Intelligence Wears Famous Face Mirage News"
+        "technologyreview.com: Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a proper understanding of the business. Many organizations find themselves in this situation—and it could be one of key reasons they struggle to extract returns on their AI investments. DOWNLOAD THE REPORT An MIT Technology Review Insights poll finds that while every organization surveyed is using AI today to some degree, fewer than one in five (16%) are extracting transformative value from their deployments. The largest percentage of respondents (40%) say they are seeing moderate gains in specific tasks or teams, while 21% report meaningful gains, leaving 23% that are seeing minimal returns or none at all. Companies are mostly still piloting AI use cases (according to 38% of respondents) or using it to assist employees’ work with tools like co-pilots or chat assistants (35%). Just 12% of enterprises have AI agents in production and 3% say they are using AI to do most of the work in key processes. “There’s a big gap between what the models are capable of and how the models are actually being useful inside organizations,” says Prukalpa Sankar, co-founder of Atlan. “For every real-life intent and purpose, artificial general intelligence is already here. It’s just not really useful in most companies today.” The missing layer, Sankar says, is context, or how well AI understands a business. A context layer is the architectural infrastructure that sits between an organization’s business systems (for example, systems of record and data, and its AI platforms). It translates enterprise intelligence into governed, machine-usable context for AI agents or models and helps knowledge compound. “Without a context layer for "
       ],
       "l": [
         {
-          "d": "newswise.com",
-          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWnRVOVAzeVhhbm1HSzRiV2ZGbkprNDdSR2xobWtqLVhrWHNaMU4tUTl1QUVabHd6Z3R0SE9SV2hCR0xJOWFmOG45enhpQXNwc3g3QVcxMWo2aXo4NVY4VTJWdVhGdFhoN2NiU1cwWnhrX0JYNXliRmFhMkk0X0V0dWR6THJPdjI5WlHSAYoBQVVfeXFMTVp0VTlQM3lYYW5tR0s0YldmRm5KazQ3UkdsaG1rai1Ya1hzWjFOLVE5dUFFWmx3emd0dEhPUldoQkdMSTlhZjhuOXp4aUFzcHN4N0FXMTFqNml6ODVWOFUyVnVYRnRYaDdjYlNXMFp4a19CWDV5YkZhYTJJNF9FdHVkekxyT3YyOVpR?oc=5"
-        },
-        {
-          "d": "miragenews.com",
-          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPek1JQXpqU2ZabXlocXFFVE9seGdhMFNFU296YmhUMUJwWDB1SHlhb0IyR3F2bGYwRXd3enB5UXdrcnBCclUtRUQxWjFiSW5tNFhSYjFxUTZTOXJ0WC1MN3VJQkwxYzRqM2YyM2dFejFweWFhYk93aEVoM2d2aWZzbGZQNExMNmZmNlE?oc=5"
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/"
         }
       ],
       "srcTitles": [
-        "When artificial intelligence wears a famous face | Newswise",
-        "When Artificial Intelligence Wears Famous Face"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-10-28T04:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Why (and How to) Do Science in an Age of AI",
-      "s": "Why (and How to) Do Science in an Age of AI AMS Headlines",
-      "b": [
-        "headlines.ametsoc.org: Why (and How to) Do Science in an Age of AI",
-        "arxiv.org: Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction"
-      ],
-      "body": [
-        "headlines.ametsoc.org: Why (and How to) Do Science in an Age of AI AMS Headlines",
-        "arxiv.org: arXiv:2610.36116v1 Announce Type: new Abstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should humans keep doing science, and \\emph{how} should they use AI when they do? This paper argues that the second can be answered only by answering the first. It holds that one indispensable aim of science is \\emph{durable, collective human understanding of the world, pursued in service of human ends and values}. From this principle it derives a two-part test for when a research task can be delegated to AI. The first part, \\emph{human understanding}, requires that the scientific community remain able to explain, defend and contest the resulting claims, and retain the skills to do so. The second, \\emph{human direction}, requires that judgments about which questions matter and what findings mean stay with accountable humans. Applying the test to each phase of research in the Contributor Roles Taxonomy (CRediT) yields recommendations that fields can tailor to their questions and methods. The framework differs from existing guidance in three ways. It rests on an account of what science is for rather than on integrity norms. It holds even if AI outperforms human researchers, rather than depending on AI's current limitations. And it judges each use of AI by its effects on human understanding and direction rather than by the type of tool, across every phase of research, including peer review and the training of new researchers. It closes with the reforms needed to keep science aimed at human understanding and direction."
-      ],
-      "l": [
-        {
-          "d": "headlines.ametsoc.org",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZlZ0RXNKeHM2ZzNteWM1MzM4Z3JqWFQxZUpGQU9YX2dxeDEtVFJaUXpDREdXdjZVNE5ETG9pT0FUMzNma1Q4QjdUbmEteGdKOGhQNnczZDNfb3dvS25vMUxXRkh5SUl1ODBxZ2VtQ1lybDFESUgyYUVucDkzTTdkRVptWFQwLTRta2JZ?oc=5"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2610.36116"
-        }
-      ],
-      "srcTitles": [
-        "Why (and How to) Do Science in an Age of AI",
-        "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction"
+        "Creating AI value with enterprise context"
       ]
     },
     {
@@ -303,32 +337,32 @@
       "cat": "models",
       "signal": 25,
       "sources": 2,
-      "ts": "2026-10-28T13:23:05.000Z",
+      "ts": "2026-10-28T14:52:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Using artificial intelligence to step up the fight against doping",
-      "s": "Using artificial intelligence to step up the fight against doping Yahoo",
+      "h": "When artificial intelligence wears a famous face | Newswise",
+      "s": "When artificial intelligence wears a famous face | Newswise Newswise",
       "b": [
-        "malaysia.news.yahoo.com: Using artificial intelligence to step up the fight against doping",
-        "euronews.com: Using artificial intelligence to step up the fight against doping"
+        "newswise.com: When artificial intelligence wears a famous face | Newswise",
+        "miragenews.com: When Artificial Intelligence Wears Famous Face"
       ],
       "body": [
-        "malaysia.news.yahoo.com: Using artificial intelligence to step up the fight against doping Yahoo",
-        "euronews.com: Using artificial intelligence to step up the fight against doping Euronews.com"
+        "newswise.com: When artificial intelligence wears a famous face | Newswise Newswise",
+        "miragenews.com: When Artificial Intelligence Wears Famous Face Mirage News"
       ],
       "l": [
         {
-          "d": "malaysia.news.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR3VsY0pkZnhwSXVSVmpKSkJrODQ5a0Rud3ZJSG1KaTlkbTdLdWhVUDdoMmZuNWpjOU11RDFtUlNXNjljLUtEaFA1U1pvLWtaX1F5bng4b0hial9MUGVXS0hGN0dqY1JObzFlODZqdkFTLUc2NUhvYTh5cklCTlNSZE5nNXp0OGxIRF9oSmpEOXI?oc=5"
+          "d": "newswise.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWnRVOVAzeVhhbm1HSzRiV2ZGbkprNDdSR2xobWtqLVhrWHNaMU4tUTl1QUVabHd6Z3R0SE9SV2hCR0xJOWFmOG45enhpQXNwc3g3QVcxMWo2aXo4NVY4VTJWdVhGdFhoN2NiU1cwWnhrX0JYNXliRmFhMkk0X0V0dWR6THJPdjI5WlHSAYoBQVVfeXFMTVp0VTlQM3lYYW5tR0s0YldmRm5KazQ3UkdsaG1rai1Ya1hzWjFOLVE5dUFFWmx3emd0dEhPUldoQkdMSTlhZjhuOXp4aUFzcHN4N0FXMTFqNml6ODVWOFUyVnVYRnRYaDdjYlNXMFp4a19CWDV5YkZhYTJJNF9FdHVkekxyT3YyOVpR?oc=5"
         },
         {
-          "d": "euronews.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVBCZGpLZnF4UjFnT1JyUTFjYWF2d0Q4clcwdVZueGFiOXlSOEU0WEczVmdTeHQ5NG8zVl90a2FLR2tHam5ScmZISzFkYV9TSEJlZGpHSS03MmlBbEtYVElfOFQ3OVRJdUc5dC1GT3l2c1NvVGN3UXFnYVYyVTNiMUlCOTVqWFJQQlF6UnlVT0sxXy1TTC1TQl9SWHQ0SERnc3Bn?oc=5"
+          "d": "miragenews.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPek1JQXpqU2ZabXlocXFFVE9seGdhMFNFU296YmhUMUJwWDB1SHlhb0IyR3F2bGYwRXd3enB5UXdrcnBCclUtRUQxWjFiSW5tNFhSYjFxUTZTOXJ0WC1MN3VJQkwxYzRqM2YyM2dFejFweWFhYk93aEVoM2d2aWZzbGZQNExMNmZmNlE?oc=5"
         }
       ],
       "srcTitles": [
-        "Using artificial intelligence to step up the fight against doping",
-        "Using artificial intelligence to step up the fight against doping"
+        "When artificial intelligence wears a famous face | Newswise",
+        "When Artificial Intelligence Wears Famous Face"
       ]
     },
     {
@@ -377,6 +411,70 @@
       ],
       "srcTitles": [
         "Legora is building the agentic operating system for legal work"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-10-28T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Why (and How to) Do Science in an Age of AI",
+      "s": "Why (and How to) Do Science in an Age of AI AMS Headlines",
+      "b": [
+        "headlines.ametsoc.org: Why (and How to) Do Science in an Age of AI",
+        "arxiv.org: Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction"
+      ],
+      "body": [
+        "headlines.ametsoc.org: Why (and How to) Do Science in an Age of AI AMS Headlines",
+        "arxiv.org: arXiv:2610.36116v1 Announce Type: new Abstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should humans keep doing science, and \\emph{how} should they use AI when they do? This paper argues that the second can be answered only by answering the first. It holds that one indispensable aim of science is \\emph{durable, collective human understanding of the world, pursued in service of human ends and values}. From this principle it derives a two-part test for when a research task can be delegated to AI. The first part, \\emph{human understanding}, requires that the scientific community remain able to explain, defend and contest the resulting claims, and retain the skills to do so. The second, \\emph{human direction}, requires that judgments about which questions matter and what findings mean stay with accountable humans. Applying the test to each phase of research in the Contributor Roles Taxonomy (CRediT) yields recommendations that fields can tailor to their questions and methods. The framework differs from existing guidance in three ways. It rests on an account of what science is for rather than on integrity norms. It holds even if AI outperforms human researchers, rather than depending on AI's current limitations. And it judges each use of AI by its effects on human understanding and direction rather than by the type of tool, across every phase of research, including peer review and the training of new researchers. It closes with the reforms needed to keep science aimed at human understanding and direction."
+      ],
+      "l": [
+        {
+          "d": "headlines.ametsoc.org",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZlZ0RXNKeHM2ZzNteWM1MzM4Z3JqWFQxZUpGQU9YX2dxeDEtVFJaUXpDREdXdjZVNE5ETG9pT0FUMzNma1Q4QjdUbmEteGdKOGhQNnczZDNfb3dvS25vMUxXRkh5SUl1ODBxZ2VtQ1lybDFESUgyYUVucDkzTTdkRVptWFQwLTRta2JZ?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.36116"
+        }
+      ],
+      "srcTitles": [
+        "Why (and How to) Do Science in an Age of AI",
+        "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 21,
+      "sources": 2,
+      "ts": "2026-10-28T13:23:05.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Using artificial intelligence to step up the fight against doping",
+      "s": "Using artificial intelligence to step up the fight against doping Yahoo",
+      "b": [
+        "malaysia.news.yahoo.com: Using artificial intelligence to step up the fight against doping",
+        "euronews.com: Using artificial intelligence to step up the fight against doping"
+      ],
+      "body": [
+        "malaysia.news.yahoo.com: Using artificial intelligence to step up the fight against doping Yahoo",
+        "euronews.com: Using artificial intelligence to step up the fight against doping Euronews.com"
+      ],
+      "l": [
+        {
+          "d": "malaysia.news.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQR3VsY0pkZnhwSXVSVmpKSkJrODQ5a0Rud3ZJSG1KaTlkbTdLdWhVUDdoMmZuNWpjOU11RDFtUlNXNjljLUtEaFA1U1pvLWtaX1F5bng4b0hial9MUGVXS0hGN0dqY1JObzFlODZqdkFTLUc2NUhvYTh5cklCTlNSZE5nNXp0OGxIRF9oSmpEOXI?oc=5"
+        },
+        {
+          "d": "euronews.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVBCZGpLZnF4UjFnT1JyUTFjYWF2d0Q4clcwdVZueGFiOXlSOEU0WEczVmdTeHQ5NG8zVl90a2FLR2tHam5ScmZISzFkYV9TSEJlZGpHSS03MmlBbEtYVElfOFQ3OVRJdUc5dC1GT3l2c1NvVGN3UXFnYVYyVTNiMUlCOTVqWFJQQlF6UnlVT0sxXy1TTC1TQl9SWHQ0SERnc3Bn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Using artificial intelligence to step up the fight against doping",
+        "Using artificial intelligence to step up the fight against doping"
       ]
     }
   ]
