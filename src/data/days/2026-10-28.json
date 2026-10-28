@@ -1,4 +1,117 @@
 {
   "date": "2026-10-28",
-  "stories": []
+  "stories": [
+    {
+      "cat": "products",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-10-28T11:27:30.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Meta quietly launched an AI pet journal app",
+      "s": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store l",
+      "b": [
+        "theverge.com: Meta quietly launched an AI pet journal app",
+        "techmeme.com: Meta quietly launched Waddle World, a Tamagotchi-like, AI pet-rearing game, in the Philippines in September, calling it a \"daily journal disguised as a pet\" (Mariella Moon/Engadget)"
+      ],
+      "body": [
+        "theverge.com: Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with [ ]",
+        "techmeme.com: Mariella Moon / Engadget : Meta quietly launched Waddle World, a Tamagotchi-like, AI pet-rearing game, in the Philippines in September, calling it a daily journal disguised as a pet But it's only available in the Philippines for now. Looks like a big part of Meta's AI strategy is to rely on"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261028/p22#a261028p22"
+        }
+      ],
+      "srcTitles": [
+        "Meta quietly launched an AI pet journal app",
+        "Meta quietly launched Waddle World, a Tamagotchi-like, AI pet-rearing game, in the Philippines in September, calling it a \"daily journal disguised as a pet\" (Mariella Moon/Engadget)"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-10-28T02:12:07.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial Analysis launches the Intelligence Index v5, with new coding and science benchmarks, built on private datasets; Claude Opus 5.5 (max) leads at 58 (@artificialanlys)",
+      "s": "@artificialanlys : Artificial Analysis launches the Intelligence Index v5, with new coding and science benchmarks, built on private datasets; Claude Opus 5.5 (max) leads at 58 Announcing Artificial An",
+      "b": [
+        "techmeme.com: Artificial Analysis launches the Intelligence Index v5, with new coding and science benchmarks, built on private datasets; Claude Opus 5.5 (max) leads at 58 (@artificialanlys)",
+        "linkedin.com: Announcing Artificial Analysis Intelligence Index v5"
+      ],
+      "body": [
+        "techmeme.com: @artificialanlys : Artificial Analysis launches the Intelligence Index v5, with new coding and science benchmarks, built on private datasets; Claude Opus 5.5 (max) leads at 58 Announcing Artificial Analysis Intelligence Index v5, featuring 2 new benchmarks and 3 upgrades. For the first time, the majority of the Index is built on private datasets The Artificial Analysis Intelligence Index is our composite measure of model capabilities across tasks reflecting real-world u...",
+        "linkedin.com: Announcing Artificial Analysis Intelligence Index v5 LinkedIn"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261028/p27#a261028p27"
+        },
+        {
+          "d": "linkedin.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOU2JZaWFyOUljNzJFQjUwQ1BESFZnbW1qVjlmRU12cDZSb2s2LU1IZF9ILTVrZVpnUkFxNTRpNkhpQzZHakZ4enRJeGdXNnIzd3QzanoyUUNBRGZBTG5IX3dQVWNvY1ljSjMzcXdpcjNvZHNuMk9xUW9lV0UyOUdqcFF5NVA3cEM2OFV0V0FaYw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial Analysis launches the Intelligence Index v5, with new coding and science benchmarks, built on private datasets; Claude Opus 5.5 (max) leads at 58 (@artificialanlys)",
+        "Announcing Artificial Analysis Intelligence Index v5"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-10-28T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Pairing industrial AI autonomy and human control",
+      "s": "Covered by 1 outlet.",
+      "b": [
+        "technologyreview.com: Pairing industrial AI autonomy and human control"
+      ],
+      "body": [],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/"
+        }
+      ],
+      "srcTitles": [
+        "Pairing industrial AI autonomy and human control"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-28T09:30:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Legora is building the agentic operating system for legal work",
+      "s": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+      "b": [
+        "openai.com: Legora is building the agentic operating system for legal work"
+      ],
+      "body": [
+        "openai.com: See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+        }
+      ],
+      "srcTitles": [
+        "Legora is building the agentic operating system for legal work"
+      ]
+    }
+  ]
 }
