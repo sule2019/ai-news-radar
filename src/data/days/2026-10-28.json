@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 73,
+      "signal": 70,
       "sources": 3,
       "ts": "2026-10-28T14:58:17.000Z",
       "writtenSources": 3,
@@ -40,8 +40,39 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 63,
+      "sources": 2,
+      "ts": "2026-10-28T17:00:58.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Gemini 4 Carbon: Our next frontier model",
+      "s": "Covered by 2 outlets.",
+      "b": [
+        "blog.google: Gemini 4 Carbon: Our next frontier model",
+        "arstechnica.com: Google announces Gemini 4 Carbon, its latest frontier AI model that you can t use"
+      ],
+      "body": [
+        "arstechnica.com: It's almost like Google's got something to prove after taking a break from releasing new frontier AI models earlier this year. Just two weeks after rolling out Gemini 4 Argon , Google has announced Gemini 4 Carbon . This isn't the Flash model equivalent we've been waiting for but, rather, is an improvement on Argon, and like that model, Google is working on a staged release that could take a while. Stop me if you've heard this one before: Google says its latest AI model reaches a new threshold in coding, agentic tasks, and scientific analysis. It's so capable, in fact, that Google can't let you use it just yet. Gemini 4 Carbon reportedly makes big gains in cybersecurity applications. Google says the model shows a \"significant leap\" in vulnerability detection, validation, and remediation. Carbon is also apparently twice as likely to generate code that is free of vulnerabilities versus Argon. Meanwhile, the Chrome team claims that Carbon is 10 times better at generating \"high-quality\" patches compared to non-Google models. Google also notes that Carbon has increased its score by 89 points on WebDev Arena , now ranking at number four on the leaderboard. Read full article Comments"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/"
+        }
+      ],
+      "srcTitles": [
+        "Gemini 4 Carbon: Our next frontier model",
+        "Google announces Gemini 4 Carbon, its latest frontier AI model that you can t use"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 61,
+      "signal": 57,
       "sources": 2,
       "ts": "2026-10-28T11:27:30.000Z",
       "writtenSources": 2,
@@ -73,7 +104,7 @@
     },
     {
       "cat": "research",
-      "signal": 52,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-10-28T02:12:07.000Z",
       "writtenSources": 2,
@@ -105,7 +136,172 @@
     },
     {
       "cat": "models",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-10-28T17:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Chrome s AI-powered Autofill can now dig through your Gmail to fill out forms",
+      "s": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+      "b": [
+        "techcrunch.com: Chrome s AI-powered Autofill can now dig through your Gmail to fill out forms",
+        "theverge.com: Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms"
+      ],
+      "body": [
+        "techcrunch.com: The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+        "theverge.com: Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence"
+        }
+      ],
+      "srcTitles": [
+        "Chrome s AI-powered Autofill can now dig through your Gmail to fill out forms",
+        "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-10-28T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+      "s": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+      "b": [
+        "wired.com: I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+        "arxiv.org: Evolving Agent Teams",
+        "arxiv.org: TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information"
+      ],
+      "body": [
+        "wired.com: To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+        "arxiv.org: arXiv:2610.36848v1 Announce Type: new Abstract: The rapid progress of software engineering agents drives interest in applying them to open-ended problems such as GPU kernel optimization. However, we find that existing coding agents converge to local optima on real-world, expert-written kernels (e.g., FlashInfer). We introduce Evolving Agent Teams, a multi-agent framework that escapes such local optima. It features (1) a central supervisor that diagnoses each local optimum and restructures a team of agents; and (2) a persistent file system that comprises a learning document, an evolution history, and per-team artifacts, grounding restructuring with accumulated experience. Under a matched token budget, Evolving Agent Teams consistently outperforms strong coding-agent baselines. With an extended token budget, Evolving Agent Teams generates a CUDA kernel that reaches 1.2x mean speedup over the production FlashInfer MLA paged decode kernel from scratch and wins on 36 of 47 production workloads from FlashInfer-Bench (0.86-0.99x on the remaining 11). It also demonstrates superior performance on tasks such as KDA prefill on AMD MI350X (3.01x over vLLM) and NVIDIA B200 (3.44x over FlashKDA), MoE expert-offload serving on Apple silicon (30.3 tokens/s decode for Qwen3.8-Flash-Next in MLX 4-bit on a 48 GB M4 Pro), and RoboDojo robot manipulation (62.1 on held-out seeds vs. 55.3 for the best leaderboard entry). Code is available at https://github.com/caoshiyi/EAT.",
+        "arxiv.org: arXiv:2610.37571v1 Announce Type: new Abstract: Many real-world decisions require teams to integrate information distributed across participants. Yet AI agents are still primarily trained and benchmarked in isolation. We introduce TeamGym, an environment for evaluating and training language model-based agents on team decision-making problems constructed from real-world legal, finance, medical, and software engineering corpora. TeamGym introduces a method to identify a minimal set of facts, each element of which is necessary and all of which are collectively sufficient for a correct final decision, which we call pivotal information. This enables TeamGym to both control the distribution of pivotal information and track how well agents identify and integrate pivotal information when making team decisions. Examining 8 language models on 12 source corpora, we find that current AI agents often fail to effectively share information: Distributing pivotal information across participants lowers success rate by 22.9 percentage points on average relative to giving the same information to a single model (a communication gap). We also document that participants do not effectively retrieve decision-relevant information on their own: A team's success rate is lowered by a further 19.9 points when participants must identify and extract pivotal information from source material rather than receiving it directly (a retrieval gap). To help remedy these deficits, we use TeamGym to train policies through reinforcement learning on team decision loss. Across two policy-training experiments, we find that training improves final-decision quality and induces emergent coordination in participation, speaker selection, and communication, even though the reward evaluates only the final decision.",
+        "arxiv.org: arXiv:2610.35997v1 Announce Type: cross Abstract: One-person companies (OPCs) are emerging enterprises operated by individual entrepreneurs through digital platforms and LLM-based AI agents. These highly skilled entrepreneurs are characterized by being digital nomads, with limited reliance on local ecosystems. Governments in China use distinct regional support policies to attract mobile OPCs, turning local support into a cross-regional coordination problem. OPCs compare regions to maximize their own utility, but imperfect policy perceptions may cause them to reject otherwise suitable locations. Existing policy-learning methods optimize resources under fixed perceptions, while consensus-formation methods aggregate views without feeding cognitive changes back into policy learning. This disconnect produces mismatched location choices and inefficient regional policy adjustment. We introduce PolicyMediator, a cognition-constrained leader-multi-follower Stackelberg framework with bilateral mediation. The mediator explains verified policies to OPCs to build awareness and trust, and reports their needs and unresolved concerns to governments for policy learning. Its self-evolving skills retain, revise, or prune strategies using verification, allocation, capacity, and objective trajectories rather than mediation success alone. Across six-region simulations in China with five OPC types, five scenarios, and three OPC-simulator backbones, PolicyMediator ranks first in all 15 OPC-backbone--scenario combinations. Over the eight-baseline mean, it improves the aggregate government objective, combining economic performance, employment benefit, and policy-access equality, by 42.4% and average OPC utility by 40.9%."
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.36848"
+        }
+      ],
+      "srcTitles": [
+        "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+        "Evolving Agent Teams",
+        "TeamGym: A Gym for Team Decision-Making by AI Agents with Distributed Information",
+        "PolicyMediator: Multi-Regional Policy Learning through Mediation Agents with Evolving Skills in OPC Ecosystems"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 29,
+      "sources": 2,
+      "ts": "2026-10-28T14:52:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "When artificial intelligence wears a famous face | Newswise",
+      "s": "When artificial intelligence wears a famous face | Newswise Newswise",
+      "b": [
+        "newswise.com: When artificial intelligence wears a famous face | Newswise",
+        "miragenews.com: When Artificial Intelligence Wears Famous Face"
+      ],
+      "body": [
+        "newswise.com: When artificial intelligence wears a famous face | Newswise Newswise",
+        "miragenews.com: When Artificial Intelligence Wears Famous Face Mirage News"
+      ],
+      "l": [
+        {
+          "d": "newswise.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWnRVOVAzeVhhbm1HSzRiV2ZGbkprNDdSR2xobWtqLVhrWHNaMU4tUTl1QUVabHd6Z3R0SE9SV2hCR0xJOWFmOG45enhpQXNwc3g3QVcxMWo2aXo4NVY4VTJWdVhGdFhoN2NiU1cwWnhrX0JYNXliRmFhMkk0X0V0dWR6THJPdjI5WlHSAYoBQVVfeXFMTVp0VTlQM3lYYW5tR0s0YldmRm5KazQ3UkdsaG1rai1Ya1hzWjFOLVE5dUFFWmx3emd0dEhPUldoQkdMSTlhZjhuOXp4aUFzcHN4N0FXMTFqNml6ODVWOFUyVnVYRnRYaDdjYlNXMFp4a19CWDV5YkZhYTJJNF9FdHVkekxyT3YyOVpR?oc=5"
+        },
+        {
+          "d": "miragenews.com",
+          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPek1JQXpqU2ZabXlocXFFVE9seGdhMFNFU296YmhUMUJwWDB1SHlhb0IyR3F2bGYwRXd3enB5UXdrcnBCclUtRUQxWjFiSW5tNFhSYjFxUTZTOXJ0WC1MN3VJQkwxYzRqM2YyM2dFejFweWFhYk93aEVoM2d2aWZzbGZQNExMNmZmNlE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "When artificial intelligence wears a famous face | Newswise",
+        "When Artificial Intelligence Wears Famous Face"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-28T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Why (and How to) Do Science in an Age of AI",
+      "s": "Why (and How to) Do Science in an Age of AI AMS Headlines",
+      "b": [
+        "headlines.ametsoc.org: Why (and How to) Do Science in an Age of AI",
+        "arxiv.org: Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction"
+      ],
+      "body": [
+        "headlines.ametsoc.org: Why (and How to) Do Science in an Age of AI AMS Headlines",
+        "arxiv.org: arXiv:2610.36116v1 Announce Type: new Abstract: As AI begins to match or exceed human researchers at core scientific tasks, two questions become pressing: \\emph{why} should humans keep doing science, and \\emph{how} should they use AI when they do? This paper argues that the second can be answered only by answering the first. It holds that one indispensable aim of science is \\emph{durable, collective human understanding of the world, pursued in service of human ends and values}. From this principle it derives a two-part test for when a research task can be delegated to AI. The first part, \\emph{human understanding}, requires that the scientific community remain able to explain, defend and contest the resulting claims, and retain the skills to do so. The second, \\emph{human direction}, requires that judgments about which questions matter and what findings mean stay with accountable humans. Applying the test to each phase of research in the Contributor Roles Taxonomy (CRediT) yields recommendations that fields can tailor to their questions and methods. The framework differs from existing guidance in three ways. It rests on an account of what science is for rather than on integrity norms. It holds even if AI outperforms human researchers, rather than depending on AI's current limitations. And it judges each use of AI by its effects on human understanding and direction rather than by the type of tool, across every phase of research, including peer review and the training of new researchers. It closes with the reforms needed to keep science aimed at human understanding and direction."
+      ],
+      "l": [
+        {
+          "d": "headlines.ametsoc.org",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZlZ0RXNKeHM2ZzNteWM1MzM4Z3JqWFQxZUpGQU9YX2dxeDEtVFJaUXpDREdXdjZVNE5ETG9pT0FUMzNma1Q4QjdUbmEteGdKOGhQNnczZDNfb3dvS25vMUxXRkh5SUl1ODBxZ2VtQ1lybDFESUgyYUVucDkzTTdkRVptWFQwLTRta2JZ?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.36116"
+        }
+      ],
+      "srcTitles": [
+        "Why (and How to) Do Science in an Age of AI",
+        "Why and How to Do Science When AI Is Better at It: A Framework Grounded in Human Understanding and Direction"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-28T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
+      "s": "We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B. The student finds its own first wrong step and writes a critique. A frozen copy, conditioned on the prefix plus ",
+      "b": [
+        "reddit.com: How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
+        "arxiv.org: How Much Does the Hint Matter? Scope Conditions for Hindsight Self-Distillation in Financial Reasoning"
+      ],
+      "body": [
+        "reddit.com: We study hindsight self-distillation for multi-step financial reasoning on GPT-OSS-20B. The student finds its own first wrong step and writes a critique. A frozen copy, conditioned on the prefix plus the critique, is distilled back into the student under reverse KL. Notably, replacing the critique with a fixed generic feedback line matches the full gain of about 3 points, and critiques from a 6x larger model do not materially improve performance, suggesting that the positional information provided by hindsight distillation significantly decreases the privileged information needed for effective training. Fin-SD matches OPSD from full reference solutions with 9.5% fewer tokens. Paper: https://arxiv.org/abs/2610.36082 | Code: https://github.com/johnnyhyu/fin-sd We d love to find the limits of this approach. Let us know your thoughts! submitted by /u/jhzyu [link] [comments]",
+        "arxiv.org: arXiv:2610.36082v1 Announce Type: cross Abstract: Financial institutions operating under data-residency constraints are restricted to open-weight models small enough to locally host, which trail frontier systems on multi-step quantitative reasoning. On-policy distillation narrows such gaps by supervising a student on its own rollouts, but traditional OPD requires a strong external teacher, and on-policy self-distillation (OPSD) conditions on a full reference solution. We ask how much of that signal is necessary. We present Fin-SD, a localized hindsight self-distillation recipe for multi-step reasoning. Given a problem the student fails, the student itself identifies the first incorrect reasoning step and writes a short critique of that step. We truncate the student's trajectory immediately before the error (aiming to obtain a correct prefix), condition a frozen copy of the student on the same prefix plus the hint, and distill that hint-conditioned teacher into the student over a short rollout under reverse KL. No external model contributes a gradient. We apply Fin-SD to GPT-OSS-20B on a custom multi-step financial reasoning benchmark that requires deriving formula inputs from realistic scenarios via accounting conventions. We find: (i) replacing the critique with a generic-feedback control matches Fin-SD's entire 3.03 pp accuracy gain over the base model on the FinanceReasoning Hard subset, suggesting the gain comes from where supervision is applied, not hint content; (ii) the model writing the hint does not need to be stronger than the model receiving it: hints from same-family GPT-OSS-120B, at roughly 6x the parameters, yield no materially greater benefits than self-written hints; and (iii) Fin-SD matches on-policy self-distillation from full reference solutions on accuracy while generating 9.5% fewer tokens. With Fin-SD, general reasoning on MMLU-Pro and a fourteen-metric compliance audit on FinTrust show no material regression."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1xhv8yp/how_much_does_the_hint_matter_a_generic_feedback/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.36082"
+        }
+      ],
+      "srcTitles": [
+        "How Much Does the Hint Matter? A generic feedback line matches self-written critiques in hindsight self-distillation (ACM ICAIF '26) [R]",
+        "How Much Does the Hint Matter? Scope Conditions for Hindsight Self-Distillation in Financial Reasoning"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 25,
       "sources": 2,
       "ts": "2026-10-28T13:23:05.000Z",
       "writtenSources": 2,
@@ -137,7 +333,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-28T12:00:00.000Z",
       "writtenSources": 1,
@@ -176,11 +372,10 @@
       "l": [
         {
           "d": "openai.com",
-          "u": "https://openai.com/index/legora-agentic-operating-system-for-legal-work"
+          "u": "https://openai.com/index/legora"
         }
       ],
       "srcTitles": [
-        "Legora is building the agentic operating system for legal work",
         "Legora is building the agentic operating system for legal work"
       ]
     }
