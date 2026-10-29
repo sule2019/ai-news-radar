@@ -1,4 +1,62 @@
 {
   "date": "2026-10-29",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-10-29T06:51:43.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "I Gave My Blood to the AI Death Clock",
+      "s": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+      "b": [
+        "wired.com: I Gave My Blood to the AI Death Clock",
+        "dw.com: My therapist is AI - Artificial intelligence and psychotherapy"
+      ],
+      "body": [
+        "wired.com: Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+        "dw.com: My therapist is AI - Artificial intelligence and psychotherapy DW.com"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/"
+        },
+        {
+          "d": "dw.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWTZ4bDFBcU91OU5tcDh2V1IwOWUtc1dOXzlLenVqcUR4cTQtd05DVVFIWEtIS3FMd0hSMXVBaHhQdHdYemZGdFpKb3BXZmNhcDhPUWhPTXhJX1RhU3F6MmZIWkdrN0ZISXhxMktzUUV4bWRyVUFZNUtsVzZEZlFZZGNXSld1UGpUSFp0N2cwSmlDSzBFb3VjZnR1bmlRQQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "I Gave My Blood to the AI Death Clock",
+        "My therapist is AI - Artificial intelligence and psychotherapy"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-10-29T10:11:12.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "We urgently need to monitor AI agents’ actions in real time",
+      "s": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about",
+      "b": [
+        "technologyreview.com: We urgently need to monitor AI agents’ actions in real time"
+      ],
+      "body": [
+        "technologyreview.com: This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem that’s by no means confined to OpenAI. In the months since, Anthropic, Google, and Meta have also disclosed incidents in which their agents have gone off track. And worryingly, in many cases the agents eluded the very researchers and safety teams tasked with monitoring them. AI agents are taking unauthorized actions, and the companies building and running them are mostly relying on luck and hindsight to mitigate any harmful impacts. They must do more to ensure safety. That’s why EU regulators and US agencies are rightfully calling for agent developers and deployers to monitor agents in real time. But these rules assume that companies can see what their agents are doing and why—when in reality, they lack sufficient visibility. Imagine a bank hiring a thousand new employees who can access customer accounts and sensitive information, but the employees’ ID badges change every day, it’s not clear whether a manager ever reviewed or authorized their work, and nobody logs the changes employees make to approval processes. That lack of visibility is where we are with agents today. As agents roll out across critical sectors, from finance to government to medicine , we must be able to monitor them in real time to prevent wide-ranging and potentially devastating consequences. And while safety depends on monitoring, monitoring requires observability : the capacity to capture what the system did, process it into signals, and present those to humans or automated oversight systems. In other words, we need to know what the agent did and why it did it. And as our recent research shows, current agent frameworks—the software that runs agents— do not "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/"
+        }
+      ],
+      "srcTitles": [
+        "We urgently need to monitor AI agents’ actions in real time"
+      ]
+    }
+  ]
 }
