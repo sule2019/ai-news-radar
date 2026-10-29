@@ -2,6 +2,81 @@
   "date": "2026-10-29",
   "stories": [
     {
+      "cat": "products",
+      "signal": 67,
+      "sources": 3,
+      "ts": "2026-10-29T00:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "s": "Covered by 3 outlets.",
+      "b": [
+        "huggingface.co: Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+        "techmeme.com: Mistral releases the weights for Mistral Large 4, or Le Chonk, and says it rivals top open models such as GLM-5.3 on the Artificial Analysis Coding Agent Index (Radhika Rajkumar/ZDNET)",
+        "wired.com: Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race"
+      ],
+      "body": [
+        "techmeme.com: Radhika Rajkumar / ZDNET : Mistral releases the weights for Mistral Large 4, or Le Chonk, and says it rivals top open models such as GLM-5.3 on the Artificial Analysis Coding Agent Index Mistral has released the weights for Large 4, along with some impressive Artificial Analysis scores. ZDNET's key takeaways",
+        "wired.com: The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity."
+      ],
+      "l": [
+        {
+          "d": "huggingface.co",
+          "u": "https://huggingface.co/blog/mistral-large4"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261029/p30#a261029p30"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/"
+        }
+      ],
+      "srcTitles": [
+        "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+        "Mistral releases the weights for Mistral Large 4, or Le Chonk, and says it rivals top open models such as GLM-5.3 on the Artificial Analysis Coding Agent Index (Radhika Rajkumar/ZDNET)",
+        "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 44,
+      "sources": 2,
+      "ts": "2026-10-29T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+      "s": "rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
+      "b": [
+        "techcrunch.com: Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+        "arxiv.org: Semantic World Models",
+        "arxiv.org: What Makes Video World Model Latents Action-Relevant: Prediction over Reconstruction"
+      ],
+      "body": [
+        "techcrunch.com: rained on 100 million square feet of building permits, dream wants to disrupt Autodesk with AI.",
+        "arxiv.org: arXiv:2510.19818v2 Announce Type: replace-cross Abstract: Planning with world models offers a powerful paradigm for robotic control. Conventional approaches train a model to predict future frames conditioned on current frames and actions, which can then be used for planning. However, the objective of predicting future pixels is often at odds with the actual planning objective; strong pixel reconstruction does not always correlate with good planning decisions. This paper posits that instead of reconstructing future frames as pixels, world models only need to predict task-relevant semantic information about the future. For such prediction the paper poses world modeling as a visual question answering problem about semantic information in future frames. This perspective allows world modeling to be approached with the same tools underlying vision language models. Thus, vision-language models can be trained as \"semantic\" world models through a supervised finetuning process on image-action-text data, enabling planning for decision-making while inheriting many of the generalization and robustness properties from the pretrained vision-language models. In this paper, we introduce this new method and validate it on simulated robotic tasks leading to improvements over typical paradigms of reconstruction-based action-conditional world modeling. Website available at https://weirdlabuw.github.io/swm.",
+        "arxiv.org: arXiv:2606.07687v2 Announce Type: replace-cross Abstract: Video world models are increasingly used to provide predictive visual representations, yet it remains unclear which pretraining signals induce action-relevant structure in their latent spaces. We study this question through a unified probe-based evaluation across diverse encoder families, including image-only self-supervision, video pretraining with and without latent prediction, reconstruction-based autoencoders, diffusion models, and shortcut-forcing dynamics models. Using a common inverse-dynamics probing objective, we find that action-relevant structure is driven primarily by temporal video pretraining rather than pixel reconstruction fidelity: models with strong pixel decoding quality can exhibit near-zero action recoverability, while video-pretrained self-supervised encoders consistently achieve the best Pareto trade-off between visual fidelity and action prediction. Comparing V-JEPA and VideoMAE further shows that most gains arise from natural-video temporal context, with feature-level latent prediction providing a smaller additional benefit. These trends transfer across robotic benchmarks, though CALVIN reveals that static-environment tasks can partially mask the importance of temporal structure by allowing strong image priors to suffice. Finally, inverse-dynamics supervision substantially improves robustness to visual corruption, suggesting that action-aware objectives regularize latent geometry beyond clean-setting performance. Our results identify temporal predictive structure -- not reconstruction fidelity -- as the primary ingredient underlying action-relevant video representations.",
+        "arxiv.org: arXiv:2609.15113v3 Announce Type: replace-cross Abstract: As robotic systems grow more general, legal norms are needed to integrate them into society. This paper extends the isomorphism problem of aligning legal source texts with their encodings, and measures two key challenges to robot normative control: (1) the grounding isomorphism gap, where perception error grounds false atoms for legal reasoning, and (2) the ontological isomorphism gap, where one legal conclusion admits many faithful translations into planning constraints. The paper introduces a legal planning stack that employs Defeasible Deontic Logic (DDL) to constrain a motion planner. The stack leverages learned world models to plan and to provide legal context, enabling ex ante governance that intervenes before an illegal action is executed. It was deployed on a simulated robot arm pushing a cube across a 3x3 grid. The findings were (1) the legislated agent abided substantially more often than the non-legislated one, and modeling perception uncertainty lifted abidance even further, (2) the legal reasoning ran efficiently at runtime and its verdicts were auditable, and (3) the stack adapted to exogenous signals and endogenous rule changes. Both gaps were measured: (4) world model and probe error corrupted the factual input for the DDL reasoner, and (5) a single law admitted several faithful metric interpretations yielding drastically different abidance. Thus, ex ante legislation functions as intended, and closing these gaps with a standardized mapping from the law to runtime constraints and improved fact grounding from perception will yield robust laws that align robot behavior with society's norms. Project page: https://dylanwaldner-cail.github.io/Legislated-Planner/."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2510.19818"
+        }
+      ],
+      "srcTitles": [
+        "Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction",
+        "Semantic World Models",
+        "What Makes Video World Model Latents Action-Relevant: Prediction over Reconstruction",
+        "Legislating World-Model-Based Planning with Legal Reasoning"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 34,
       "sources": 2,
@@ -35,7 +110,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-10-29T10:11:12.000Z",
       "writtenSources": 1,
@@ -56,6 +131,31 @@
       ],
       "srcTitles": [
         "We urgently need to monitor AI agents’ actions in real time"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-29T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How we detect frontier model misalignment",
+      "s": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "b": [
+        "openai.com: How we detect frontier model misalignment"
+      ],
+      "body": [
+        "openai.com: OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/how-we-detect-frontier-model-misalignment"
+        }
+      ],
+      "srcTitles": [
+        "How we detect frontier model misalignment"
       ]
     }
   ]
