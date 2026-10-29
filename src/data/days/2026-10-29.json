@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 67,
+      "signal": 63,
       "sources": 3,
       "ts": "2026-10-29T00:00:00.000Z",
       "writtenSources": 3,
@@ -40,9 +40,73 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 44,
+      "cat": "funding",
+      "signal": 59,
       "sources": 2,
+      "ts": "2026-10-29T16:20:17.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "US investigated Chinese spy plot aimed at Nvidia CEO",
+      "s": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "b": [
+        "techcrunch.com: US investigated Chinese spy plot aimed at Nvidia CEO",
+        "gizmodo.com: Nvidia CEO Jensen Huang reportedly targeted by Chinese spy"
+      ],
+      "body": [
+        "techcrunch.com: A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+        "gizmodo.com: Nvidia CEO Jensen Huang reportedly targeted by Chinese spy Gizmodo"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo/"
+        },
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRURNNGFJSUV2ZUYxV3pTYXpxSkF5TGtUZUxtOTB2ZFE5bWItSDFZUkxENWdzZzNBYWoySWtiNU9RdDkzTzFmQlFmZXNWbmNjc1VxQ1FDejMzQmttMkNGRG4xZ0pqUU9MZGpLbnQtQ2k5U3h3c0FNVXR0UWlTRUlEQV9HWkwtOFU?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "US investigated Chinese spy plot aimed at Nvidia CEO",
+        "Nvidia CEO Jensen Huang reportedly targeted by Chinese spy"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-10-29T15:00:07.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+      "s": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+      "b": [
+        "techcrunch.com: Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+        "reuters.com: Mistral AI publicly releases Large 4, targets cybersecurity users"
+      ],
+      "body": [
+        "techcrunch.com: Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
+        "reuters.com: Mistral AI publicly releases Large 4, targets cybersecurity users Reuters"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORGVVeXl0bmw1cnBiUkdkU2VRT2VPcWtxSHdNTmQxQ2xlOUxiSW1aY0J5eVd2T2RPYXJQdlEwdWpSSzBuRlZmcHlHU1F3LTVCVmo3ZzZqbXRDZ1pmaDdEMkd0OFIycWhkWXhydlQ4Z0UzZ3FHbUdaaXJOMGVSRFhwSkZRYmFGcWoxeUlQUWtBUVBlZXM3NkgtRGN0dE81LWxkMTRGVnFSSnJWUU83SXRONUJPQm84a0pl?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Mistral releases weights for its trillion-parameter AI model, targeting cybersecurity",
+        "Mistral AI publicly releases Large 4, targets cybersecurity users"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 47,
+      "sources": 3,
       "ts": "2026-10-29T04:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -67,6 +131,10 @@
         {
           "d": "arxiv.org",
           "u": "https://arxiv.org/abs/2510.19818"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/"
         }
       ],
       "srcTitles": [
@@ -106,6 +174,31 @@
       "srcTitles": [
         "I Gave My Blood to the AI Death Clock",
         "My therapist is AI - Artificial intelligence and psychotherapy"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-10-29T17:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "An updated Model Spec for more capable and beneficial AI",
+      "s": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "b": [
+        "openai.com: An updated Model Spec for more capable and beneficial AI"
+      ],
+      "body": [
+        "openai.com: OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/updated-model-spec"
+        }
+      ],
+      "srcTitles": [
+        "An updated Model Spec for more capable and beneficial AI"
       ]
     },
     {
@@ -156,6 +249,31 @@
       ],
       "srcTitles": [
         "How we detect frontier model misalignment"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-29T07:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How Ropes & Gray is developing AI for transactional diligence",
+      "s": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
+      "b": [
+        "openai.com: How Ropes & Gray is developing AI for transactional diligence"
+      ],
+      "body": [
+        "openai.com: Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/ropes-gray-ai-diligence"
+        }
+      ],
+      "srcTitles": [
+        "How Ropes & Gray is developing AI for transactional diligence"
       ]
     }
   ]
