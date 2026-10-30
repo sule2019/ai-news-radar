@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 58,
+      "signal": 55,
       "sources": 3,
       "ts": "2026-10-30T14:42:36.000Z",
       "writtenSources": 3,
@@ -22,16 +22,16 @@
       ],
       "l": [
         {
-          "d": "crossroadstoday.com",
-          "u": "https://news.google.com/rss/articles/CBMingJBVV95cUxQQWF0MEpWdHRaNEZqaVBDM2NCX29zeTdQSkxSWVhrUDhudGhDczN0ZzdFTTlTZG1lY2JoOElkb1JILS1WaFZBR0hCeTE1dWZrRHhObDZ5Y0NtTnRLcms3SEtSMHdBeTJqWGNERDlXVkFPNzQyYnh3NHV5Zmc4YmFXMkNwaEtTS3doc2sxX3NYNV9sU191TjNmOG9CMlNkcHA4SFJOOS1RRlliX2trY0QySFJJdzFnakh2M0Z2ZFlLbFY5M3lOOElYeUhWd0dWRjBWa05jclVYWmt1T2doeUpUOTRvd0lxLXVLOEllWmphaVdyRzJsY0pfUDhLeExkci1xaUY0dUFrNlVIWkR3STc1bXFLM1ZhQXdtX2V6a3lB?oc=5"
-        },
-        {
-          "d": "roanoke.com",
-          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcFg3d3BoVVN0cW5vYm9FMmJZLXl0Ri12OUxfRFR2ZXgwQU5vSE9uZFBNNGw5TUN5Mnh6QV9rcjZoanNnQnVzRTlEaHVIS2FjMmw2aGRXZ0l6TUNpd051Yy1kUkc5RWJwTkRmSVJoY05EN2EwRTNTNDRtZU5Rb09ub0s3YUdZc2FNQzNWUjFqcmFSYy02Um9KYUttcDA?oc=5"
+          "d": "applevalleynewsnow.com",
+          "u": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQQW9ST2RZdlFnNDhzX0JTLUU3OVRiR1hfVmgwakxVT09yUG14OHA2STVQeURTN2tQblo0d05WYnJZSmVlMW13TmpMM005WENPMkM0ZFJ5SjBmZDdkeGZoWDFRbWNxTG95aVVveFhVZ3BieUVxYjlZSmItUWlBalNpM05CV1F0TU5vVjM0UXhHVjgxcFNMbVhvaGtpNWVXUk5nUDdweGdVS2tLbG5ZbG5nT1NaR1Q0RkFaMjZiZVJqSnZSeDVtUXpka0dnVjNLc1VpUGMxbDhlc1VkOGd2b05Md1BtZ0tmSEpVREtwbVp4TkxSWUowTzE0TFhabzBFS283VUFTMGwtbGNfM2VVQzh6X2tJLXl1QmlMZFBCQ0JNWEV0UQ?oc=5"
         },
         {
           "d": "pressofatlanticcity.com",
           "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWDBpbEVtZGFZQUFoN2pKRTRId1poVDVkcnRER0VGNWpiZFYwYlN1M2oycHhaeWJrUUpNVkdWOFZheTk3dTJkX1Z3U1BRS2lUSFNpTEhvUlI2T2hvQlVpNk41dTBpbG1MZkEyX1puUGpqZUY3TVV1T3NnNExEMGZaQmlqRDhiR1dULXlnb3ZmbWQ4UUc3TURTVlh4T1BwRnRsb0hJeERyQk8yY2hl?oc=5"
+        },
+        {
+          "d": "chippewa.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN01XV3JPNHl2Z1M2OFlhLVhIQXBJNllCd3ZGcy1RWU5FTFB6S29ub1BDZkh4S1V6NlduNzFSODd3TDFZZTBYLXdpTlNXU3A5WFRVTjBZbG5mS1QxQTd1M3JsamVqaEhGQXFiRmZPTnBRZkpaZlJDVzlnS3ZYZUVoNHVfMUdSQ1RZSTFNOU9BaGdhaUJqdmNvUmFWNmlBQQ?oc=5"
         }
       ],
       "srcTitles": [
@@ -42,7 +42,7 @@
     },
     {
       "cat": "models",
-      "signal": 50,
+      "signal": 46,
       "sources": 2,
       "ts": "2026-10-30T12:10:04.000Z",
       "writtenSources": 2,
@@ -70,6 +70,37 @@
       "srcTitles": [
         "Buy This Incredible Artificial Intelligence (AI) Stock Before It Soars 144% (Hint: It Will Outpace Nvidia’s Growth)",
         "Buy This Incredible Artificial Intelligence (AI) Stock Before It Soars 144% (Hint: It Will Outpace Nvidia’s Growth)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-10-30T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "nemotron-halloween",
+      "s": "Covered by 2 outlets.",
+      "b": [
+        "huggingface.co: nemotron-halloween",
+        "arxiv.org: Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI"
+      ],
+      "body": [
+        "arxiv.org: arXiv:2610.38095v1 Announce Type: cross Abstract: We introduce Nemotron 3.5 Super and Nemotron 3.5 Lightning, open and efficient Mixture-of-Experts Hybrid Mamba-Transformer models designed for reasoning, long-context understanding, and agentic workloads. Super is a 120B-parameter, 12B-active multimodal model, while Lightning is a smaller 30B-parameter, 3B-active text model; both designed for efficient deployment. Both models combine large-scale distillation, long-context training, and native speculative decoding, while Super further incorporates Indic continued pretraining and agentic software-engineering mid-training. We develop a comprehensive post-training pipeline spanning supervised fine-tuning and reinforcement learning (RLVR and RLHF), complemented in Super by specialized teacher training and multi- teacher on-policy distillation (MOPD). This transforms Super from a text-only base model into a multimodal agent capable of reasoning over text, images, video, and interactive tool environments. We further explore test-time scaling through parallel agent execution and self-verification. Across training and deployment, we jointly optimize capability and efficiency. Indic continued pretraining improves Indian-language benchmarks by up to 9.82 percentage points, while agentic mid-training strengthens software-engineering capabilities and robustness across agent harnesses. The post-trained Super model achieves 51.78% on SWE-bench Pro, surpassing Nemotron 3 Ultra despite using approximately 4.6x fewer active parameters. Post-training MTP boosting improves speculative- decoding acceptance length by up to 21.8% under probabilistic draft sampling, while NVFP4 quantization achieves 99.62% median accuracy recovery relative to BF16. Inference optimizations enable up to 4,856 output tokens/s/GPU on GB200 while sustaining at least 50 tokens/s/user."
+      ],
+      "l": [
+        {
+          "d": "huggingface.co",
+          "u": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.38095"
+        }
+      ],
+      "srcTitles": [
+        "nemotron-halloween",
+        "Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI"
       ]
     },
     {
@@ -108,32 +139,32 @@
       "cat": "models",
       "signal": 29,
       "sources": 2,
-      "ts": "2026-10-30T11:30:00.000Z",
+      "ts": "2026-10-30T16:13:02.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Radiology, Mathematics, Artificial Intelligence, And Human Understanding",
-      "s": "Radiology, Mathematics, Artificial Intelligence, And Human Understanding Forbes",
+      "h": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "s": "US tech stocks see sharp falls as AI spending nears $1tn BBC",
       "b": [
-        "forbes.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding",
-        "tech.yahoo.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding"
+        "bbc.com: US tech stocks see sharp falls as AI spending nears $1tn",
+        "bbc.co.uk: US tech stocks see sharp falls over AI cost fears"
       ],
       "body": [
-        "forbes.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding Forbes",
-        "tech.yahoo.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding Yahoo Tech"
+        "bbc.com: US tech stocks see sharp falls as AI spending nears $1tn BBC",
+        "bbc.co.uk: Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 173 # Comments: 150"
       ],
       "l": [
         {
-          "d": "forbes.com",
-          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNHZqVmVXay0tUmE1Y3B3MVdtTDhfUndkcWhpZExaT1pybUVYLTkxZ05UQWNUZHI1YTJuR1Y3VjJoWDA3RmkxbFVYSjRzWkhDMktIN0o1Z1BLRVd5Q3hwN1BHclplc2dSNUx3VFZ2aE9UeExtRFVBb0IxRGZZWHcwTF9rX1NkN0ZCX2l6YV9zMTJpWVpoZVVxYXd2YzVQcEh6bWhvMnNpY0N0WGZXQmNmVDZfeFZMTnZCT3JTUw?oc=5"
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MGFhZ3ltOEs3NFpDUTRDQ2ZPbmxPcXFvbWtkSm9kS0pnOW82MjlDbTY4dnlGNkYwSkUxMVJPZU1ZeGVqUFk3YkdZeTUxQzhLemlBbldWVld5NU0?oc=5"
         },
         {
-          "d": "tech.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGJ3dGN4YWNEZGZ4VnRIQzY5MVhmcTZIUTRzUmRyX0dubnJSRmlDbWlJd01ZU1JVbW0zWWlyek1fX2RUM09ZbEhNYmpreEVkbnMxVUpCYWZvSkdfeE5pUnR5TEhtcEhRUGRFbjZtY3o3dlkzcUI4S3JQdDFKa1RCZVFyRkhab09HOTNsLUYtRFZ0SjdfVjl0M2dFTjI2WGJqbmdPQjZybFF2Z2xMNmc?oc=5"
+          "d": "bbc.co.uk",
+          "u": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
         }
       ],
       "srcTitles": [
-        "Radiology, Mathematics, Artificial Intelligence And Human Understanding",
-        "Radiology, Mathematics, Artificial Intelligence, And Human Understanding"
+        "US tech stocks see sharp falls as AI spending nears $1tn",
+        "US tech stocks see sharp falls over AI cost fears"
       ]
     },
     {
@@ -172,7 +203,89 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 25,
+      "sources": 2,
+      "ts": "2026-10-30T11:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Radiology, Mathematics, Artificial Intelligence, And Human Understanding",
+      "s": "Radiology, Mathematics, Artificial Intelligence, And Human Understanding Forbes",
+      "b": [
+        "forbes.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding",
+        "tech.yahoo.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding"
+      ],
+      "body": [
+        "forbes.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding Forbes",
+        "tech.yahoo.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding Yahoo Tech"
+      ],
+      "l": [
+        {
+          "d": "forbes.com",
+          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNHZqVmVXay0tUmE1Y3B3MVdtTDhfUndkcWhpZExaT1pybUVYLTkxZ05UQWNUZHI1YTJuR1Y3VjJoWDA3RmkxbFVYSjRzWkhDMktIN0o1Z1BLRVd5Q3hwN1BHclplc2dSNUx3VFZ2aE9UeExtRFVBb0IxRGZZWHcwTF9rX1NkN0ZCX2l6YV9zMTJpWVpoZVVxYXd2YzVQcEh6bWhvMnNpY0N0WGZXQmNmVDZfeFZMTnZCT3JTUw?oc=5"
+        },
+        {
+          "d": "tech.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGJ3dGN4YWNEZGZ4VnRIQzY5MVhmcTZIUTRzUmRyX0dubnJSRmlDbWlJd01ZU1JVbW0zWWlyek1fX2RUM09ZbEhNYmpreEVkbnMxVUpCYWZvSkdfeE5pUnR5TEhtcEhRUGRFbjZtY3o3dlkzcUI4S3JQdDFKa1RCZVFyRkhab09HOTNsLUYtRFZ0SjdfVjl0M2dFTjI2WGJqbmdPQjZybFF2Z2xMNmc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Radiology, Mathematics, Artificial Intelligence And Human Understanding",
+        "Radiology, Mathematics, Artificial Intelligence, And Human Understanding"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-30T09:30:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Making it easier for websites to express AI training preferences",
+      "s": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "b": [
+        "openai.com: Making it easier for websites to express AI training preferences"
+      ],
+      "body": [
+        "openai.com: OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/helping-websites-express-ai-training-preferences"
+        }
+      ],
+      "srcTitles": [
+        "Making it easier for websites to express AI training preferences"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-30T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Community safety report and new protections for teens",
+      "s": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "b": [
+        "openai.com: Community safety report and new protections for teens"
+      ],
+      "body": [
+        "openai.com: OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/community-safety-report-and-new-protections-for-teens"
+        }
+      ],
+      "srcTitles": [
+        "Community safety report and new protections for teens"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 18,
       "sources": 2,
       "ts": "2026-10-30T05:05:20.000Z",
       "writtenSources": 2,
