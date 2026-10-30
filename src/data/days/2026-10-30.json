@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 51,
+      "signal": 47,
       "sources": 3,
       "ts": "2026-10-30T14:42:36.000Z",
       "writtenSources": 3,
@@ -42,7 +42,43 @@
     },
     {
       "cat": "models",
-      "signal": 42,
+      "signal": 43,
+      "sources": 3,
+      "ts": "2026-10-30T04:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "nemotron-halloween",
+      "s": "Covered by 2 outlets.",
+      "b": [
+        "huggingface.co: nemotron-halloween",
+        "arxiv.org: Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI"
+      ],
+      "body": [
+        "arxiv.org: arXiv:2610.38095v1 Announce Type: cross Abstract: We introduce Nemotron 3.5 Super and Nemotron 3.5 Lightning, open and efficient Mixture-of-Experts Hybrid Mamba-Transformer models designed for reasoning, long-context understanding, and agentic workloads. Super is a 120B-parameter, 12B-active multimodal model, while Lightning is a smaller 30B-parameter, 3B-active text model; both designed for efficient deployment. Both models combine large-scale distillation, long-context training, and native speculative decoding, while Super further incorporates Indic continued pretraining and agentic software-engineering mid-training. We develop a comprehensive post-training pipeline spanning supervised fine-tuning and reinforcement learning (RLVR and RLHF), complemented in Super by specialized teacher training and multi- teacher on-policy distillation (MOPD). This transforms Super from a text-only base model into a multimodal agent capable of reasoning over text, images, video, and interactive tool environments. We further explore test-time scaling through parallel agent execution and self-verification. Across training and deployment, we jointly optimize capability and efficiency. Indic continued pretraining improves Indian-language benchmarks by up to 9.82 percentage points, while agentic mid-training strengthens software-engineering capabilities and robustness across agent harnesses. The post-trained Super model achieves 51.78% on SWE-bench Pro, surpassing Nemotron 3 Ultra despite using approximately 4.6x fewer active parameters. Post-training MTP boosting improves speculative- decoding acceptance length by up to 21.8% under probabilistic draft sampling, while NVFP4 quantization achieves 99.62% median accuracy recovery relative to BF16. Inference optimizations enable up to 4,856 output tokens/s/GPU on GB200 while sustaining at least 50 tokens/s/user."
+      ],
+      "l": [
+        {
+          "d": "huggingface.co",
+          "u": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+        },
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.38095"
+        }
+      ],
+      "srcTitles": [
+        "nemotron-halloween",
+        "Last-minute Halloween costumes for tech nerds",
+        "Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 38,
       "sources": 2,
       "ts": "2026-10-30T12:10:04.000Z",
       "writtenSources": 2,
@@ -74,38 +110,73 @@
     },
     {
       "cat": "models",
-      "signal": 34,
+      "signal": 32,
       "sources": 2,
-      "ts": "2026-10-30T04:00:00.000Z",
+      "ts": "2026-10-30T16:13:02.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "nemotron-halloween",
-      "s": "Covered by 2 outlets.",
+      "h": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "s": "US tech stocks see sharp falls as AI spending nears $1tn BBC",
       "b": [
-        "huggingface.co: nemotron-halloween",
-        "arxiv.org: Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI"
+        "bbc.com: US tech stocks see sharp falls as AI spending nears $1tn",
+        "bbc.co.uk: US tech stocks see sharp falls over AI cost fears"
       ],
       "body": [
-        "arxiv.org: arXiv:2610.38095v1 Announce Type: cross Abstract: We introduce Nemotron 3.5 Super and Nemotron 3.5 Lightning, open and efficient Mixture-of-Experts Hybrid Mamba-Transformer models designed for reasoning, long-context understanding, and agentic workloads. Super is a 120B-parameter, 12B-active multimodal model, while Lightning is a smaller 30B-parameter, 3B-active text model; both designed for efficient deployment. Both models combine large-scale distillation, long-context training, and native speculative decoding, while Super further incorporates Indic continued pretraining and agentic software-engineering mid-training. We develop a comprehensive post-training pipeline spanning supervised fine-tuning and reinforcement learning (RLVR and RLHF), complemented in Super by specialized teacher training and multi- teacher on-policy distillation (MOPD). This transforms Super from a text-only base model into a multimodal agent capable of reasoning over text, images, video, and interactive tool environments. We further explore test-time scaling through parallel agent execution and self-verification. Across training and deployment, we jointly optimize capability and efficiency. Indic continued pretraining improves Indian-language benchmarks by up to 9.82 percentage points, while agentic mid-training strengthens software-engineering capabilities and robustness across agent harnesses. The post-trained Super model achieves 51.78% on SWE-bench Pro, surpassing Nemotron 3 Ultra despite using approximately 4.6x fewer active parameters. Post-training MTP boosting improves speculative- decoding acceptance length by up to 21.8% under probabilistic draft sampling, while NVFP4 quantization achieves 99.62% median accuracy recovery relative to BF16. Inference optimizations enable up to 4,856 output tokens/s/GPU on GB200 while sustaining at least 50 tokens/s/user."
+        "bbc.com: US tech stocks see sharp falls as AI spending nears $1tn BBC",
+        "bbc.co.uk: Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 173 # Comments: 150"
       ],
       "l": [
         {
-          "d": "huggingface.co",
-          "u": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+          "d": "latimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTURmZTNlejNMcUxUZFJlZm9WY2t5VVpyOU5XdHNFWmx5ajRKSkxJTmRILWR0ZUVyT2RTdVFESGV5NTJmbC1QMkNHdVh4LVFpQkNoQVllLWlLQnNoSDliaWNQTUJaeDZPMVgtdUp0QnVLLVNyTWVNUDVPelVUOURvM1Nfd2Q0eUtKNmdJR3J5aHVWcnJvOV9pbV81MUpjQk5GdVplNXlLT0YxSHZuUjBCZjVLeFJINHdXS0U0?oc=5"
         },
         {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2610.38095"
+          "d": "lemonde.fr",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUV9HVk91NlhYX1lmZWJKUjd5dTRJUzFnSTVWN0xaYWROMERpSzl3U1Q3N3dCelctRmxkZ24xTHoybjlCTjhGc3JQYnRGMjEtTmpGb0RlWDZQRDNjNFF3Q1U2bGVXblpoSVhBakxjaFU3aHNfNkI5UHNLSXQwdEdJbHVUTTlaLTc1WTlNTzVDQ0sxb1U4a1huS3hrMUl1OVVjYUJ2dnZ3R2tSb01IWVNqaXhGNWRRQ0t2cDNkUFp3?oc=5"
         }
       ],
       "srcTitles": [
-        "nemotron-halloween",
-        "Nemotron 3.5 Super and Lightning: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Models for Agentic AI"
+        "AI stock selloffs fuel fears Big Tech’s best quarters are over",
+        "Earnings stoke AI fears and send tech stocks tumbling"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-10-30T07:11:59.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
+      "s": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
+        "fool.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
+        "theglobeandmail.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies"
+      ],
+      "body": [
+        "finance.yahoo.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies Yahoo Finance",
+        "fool.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies The Motley Fool",
+        "theglobeandmail.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb1lUazRxc29MNFd1MG5SZW1VWlM1alZoeXZmTGNwQXpfcVptRFhJSmwtb3NJd2RCWlBEYnk3bGtwS1EwR1kzQ19JTmItY1J1blNuRXJYTU43bFFlbmI5Ty14em5FYmc0RzhlRDZfRlhYTS15RWpvNUQza2RfenVrZjFmN3dSYlo4Yzg0MUpaeV9aa0cwQkJONjZ2bnlKcmZ6aS1HX1ZreHlyZw?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVkJ5M0RleDdQbkQyZWs0UUF1V3BITUs1Yzk3Sjd3QWxUQWxDQnBQLWU4dERDYWJMcEMtUzRyRXBCRzRWQ3N5djRsSHdlWE5TeU0wMi0tdVVHMktaNVVFb1dXMG5Mc291MWJteGVKQVA2TlpybE5qWGxjbktxNzg0Y3BWWXRyLVB3V0g5WTZVWnMtcWVsZDhjMDJIQmhUUXFwOUhXN01pdGF2VDNnN2JFQ28wNWU3eHdsdXNMZVhMcWxlcGIzbTF0YzE1U0VmZVU2QUhUTGtoQmVYc2xPYWZTdUJtV3Q3SFZiYjVreVZtTjAyTW9MM2twSmw1UzJQa1FSSkRJOW5STVFCQjR1ekI3SDFn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
+        "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies"
       ]
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-10-30T01:20:48.000Z",
       "writtenSources": 2,
@@ -133,38 +204,6 @@
       "srcTitles": [
         "You don t need to believe in a god to get a religious exemption from using AI at work",
         "Man Granted Religious Exemption Against Using AI at Work"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 25,
-      "sources": 2,
-      "ts": "2026-10-30T16:13:02.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "s": "US tech stocks see sharp falls as AI spending nears $1tn BBC",
-      "b": [
-        "bbc.com: US tech stocks see sharp falls as AI spending nears $1tn",
-        "bbc.co.uk: US tech stocks see sharp falls over AI cost fears"
-      ],
-      "body": [
-        "bbc.com: US tech stocks see sharp falls as AI spending nears $1tn BBC",
-        "bbc.co.uk: Article URL: https://www.bbc.co.uk/news/articles/cvwy72e0n72yo Comments URL: https://news.ycombinator.com/item?id=50306008 Points: 173 # Comments: 150"
-      ],
-      "l": [
-        {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03MGFhZ3ltOEs3NFpDUTRDQ2ZPbmxPcXFvbWtkSm9kS0pnOW82MjlDbTY4dnlGNkYwSkUxMVJPZU1ZeGVqUFk3YkdZeTUxQzhLemlBbldWVld5NU0?oc=5"
-        },
-        {
-          "d": "bbc.co.uk",
-          "u": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo"
-        }
-      ],
-      "srcTitles": [
-        "US tech stocks see sharp falls as AI spending nears $1tn",
-        "US tech stocks see sharp falls over AI cost fears"
       ]
     },
     {
@@ -218,42 +257,33 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 22,
-      "sources": 2,
-      "ts": "2026-10-30T07:11:59.000Z",
-      "writtenSources": 3,
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-10-30T00:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
-      "s": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies Yahoo Finance",
+      "h": "Fair use benefits everyone",
+      "s": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation.",
       "b": [
-        "finance.yahoo.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
-        "fool.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
-        "theglobeandmail.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies"
+        "openai.com: Fair use benefits everyone"
       ],
       "body": [
-        "finance.yahoo.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies Yahoo Finance",
-        "fool.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies The Motley Fool",
-        "theglobeandmail.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies The Globe and Mail"
+        "openai.com: OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training and innovation."
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb1lUazRxc29MNFd1MG5SZW1VWlM1alZoeXZmTGNwQXpfcVptRFhJSmwtb3NJd2RCWlBEYnk3bGtwS1EwR1kzQ19JTmItY1J1blNuRXJYTU43bFFlbmI5Ty14em5FYmc0RzhlRDZfRlhYTS15RWpvNUQza2RfenVrZjFmN3dSYlo4Yzg0MUpaeV9aa0cwQkJONjZ2bnlKcmZ6aS1HX1ZreHlyZw?oc=5"
-        },
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVkJ5M0RleDdQbkQyZWs0UUF1V3BITUs1Yzk3Sjd3QWxUQWxDQnBQLWU4dERDYWJMcEMtUzRyRXBCRzRWQ3N5djRsSHdlWE5TeU0wMi0tdVVHMktaNVVFb1dXMG5Mc291MWJteGVKQVA2TlpybE5qWGxjbktxNzg0Y3BWWXRyLVB3V0g5WTZVWnMtcWVsZDhjMDJIQmhUUXFwOUhXN01pdGF2VDNnN2JFQ28wNWU3eHdsdXNMZVhMcWxlcGIzbTF0YzE1U0VmZVU2QUhUTGtoQmVYc2xPYWZTdUJtV3Q3SFZiYjVreVZtTjAyTW9MM2twSmw1UzJQa1FSSkRJOW5STVFCQjR1ekI3SDFn?oc=5"
+          "d": "openai.com",
+          "u": "https://openai.com/index/fair-use-benefits-everyone"
         }
       ],
       "srcTitles": [
-        "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
-        "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies"
+        "Fair use benefits everyone"
       ]
     },
     {
       "cat": "models",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-10-30T11:30:00.000Z",
       "writtenSources": 2,
