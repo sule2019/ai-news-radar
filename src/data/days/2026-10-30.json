@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "funding",
-      "signal": 55,
+      "signal": 51,
       "sources": 3,
       "ts": "2026-10-30T14:42:36.000Z",
       "writtenSources": 3,
@@ -42,7 +42,7 @@
     },
     {
       "cat": "models",
-      "signal": 46,
+      "signal": 42,
       "sources": 2,
       "ts": "2026-10-30T12:10:04.000Z",
       "writtenSources": 2,
@@ -105,7 +105,7 @@
     },
     {
       "cat": "models",
-      "signal": 34,
+      "signal": 30,
       "sources": 2,
       "ts": "2026-10-30T01:20:48.000Z",
       "writtenSources": 2,
@@ -137,7 +137,7 @@
     },
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 25,
       "sources": 2,
       "ts": "2026-10-30T16:13:02.000Z",
       "writtenSources": 2,
@@ -165,72 +165,6 @@
       "srcTitles": [
         "US tech stocks see sharp falls as AI spending nears $1tn",
         "US tech stocks see sharp falls over AI cost fears"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-10-30T07:11:59.000Z",
-      "writtenSources": 3,
-      "draft": true,
-      "h": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
-      "s": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies Yahoo Finance",
-      "b": [
-        "finance.yahoo.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
-        "fool.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
-        "theglobeandmail.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies"
-      ],
-      "body": [
-        "finance.yahoo.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies Yahoo Finance",
-        "fool.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies The Motley Fool",
-        "theglobeandmail.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies The Globe and Mail"
-      ],
-      "l": [
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb1lUazRxc29MNFd1MG5SZW1VWlM1alZoeXZmTGNwQXpfcVptRFhJSmwtb3NJd2RCWlBEYnk3bGtwS1EwR1kzQ19JTmItY1J1blNuRXJYTU43bFFlbmI5Ty14em5FYmc0RzhlRDZfRlhYTS15RWpvNUQza2RfenVrZjFmN3dSYlo4Yzg0MUpaeV9aa0cwQkJONjZ2bnlKcmZ6aS1HX1ZreHlyZw?oc=5"
-        },
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVkJ5M0RleDdQbkQyZWs0UUF1V3BITUs1Yzk3Sjd3QWxUQWxDQnBQLWU4dERDYWJMcEMtUzRyRXBCRzRWQ3N5djRsSHdlWE5TeU0wMi0tdVVHMktaNVVFb1dXMG5Mc291MWJteGVKQVA2TlpybE5qWGxjbktxNzg0Y3BWWXRyLVB3V0g5WTZVWnMtcWVsZDhjMDJIQmhUUXFwOUhXN01pdGF2VDNnN2JFQ28wNWU3eHdsdXNMZVhMcWxlcGIzbTF0YzE1U0VmZVU2QUhUTGtoQmVYc2xPYWZTdUJtV3Q3SFZiYjVreVZtTjAyTW9MM2twSmw1UzJQa1FSSkRJOW5STVFCQjR1ekI3SDFn?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
-        "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 25,
-      "sources": 2,
-      "ts": "2026-10-30T11:30:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Radiology, Mathematics, Artificial Intelligence, And Human Understanding",
-      "s": "Radiology, Mathematics, Artificial Intelligence, And Human Understanding Forbes",
-      "b": [
-        "forbes.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding",
-        "tech.yahoo.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding"
-      ],
-      "body": [
-        "forbes.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding Forbes",
-        "tech.yahoo.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding Yahoo Tech"
-      ],
-      "l": [
-        {
-          "d": "forbes.com",
-          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNHZqVmVXay0tUmE1Y3B3MVdtTDhfUndkcWhpZExaT1pybUVYLTkxZ05UQWNUZHI1YTJuR1Y3VjJoWDA3RmkxbFVYSjRzWkhDMktIN0o1Z1BLRVd5Q3hwN1BHclplc2dSNUx3VFZ2aE9UeExtRFVBb0IxRGZZWHcwTF9rX1NkN0ZCX2l6YV9zMTJpWVpoZVVxYXd2YzVQcEh6bWhvMnNpY0N0WGZXQmNmVDZfeFZMTnZCT3JTUw?oc=5"
-        },
-        {
-          "d": "tech.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGJ3dGN4YWNEZGZ4VnRIQzY5MVhmcTZIUTRzUmRyX0dubnJSRmlDbWlJd01ZU1JVbW0zWWlyek1fX2RUM09ZbEhNYmpreEVkbnMxVUpCYWZvSkdfeE5pUnR5TEhtcEhRUGRFbjZtY3o3dlkzcUI4S3JQdDFKa1RCZVFyRkhab09HOTNsLUYtRFZ0SjdfVjl0M2dFTjI2WGJqbmdPQjZybFF2Z2xMNmc?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Radiology, Mathematics, Artificial Intelligence And Human Understanding",
-        "Radiology, Mathematics, Artificial Intelligence, And Human Understanding"
       ]
     },
     {
@@ -284,8 +218,74 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-10-30T07:11:59.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
+      "s": "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
+        "fool.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
+        "theglobeandmail.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies"
+      ],
+      "body": [
+        "finance.yahoo.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies Yahoo Finance",
+        "fool.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies The Motley Fool",
+        "theglobeandmail.com: Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPb1lUazRxc29MNFd1MG5SZW1VWlM1alZoeXZmTGNwQXpfcVptRFhJSmwtb3NJd2RCWlBEYnk3bGtwS1EwR1kzQ19JTmItY1J1blNuRXJYTU43bFFlbmI5Ty14em5FYmc0RzhlRDZfRlhYTS15RWpvNUQza2RfenVrZjFmN3dSYlo4Yzg0MUpaeV9aa0cwQkJONjZ2bnlKcmZ6aS1HX1ZreHlyZw?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPVkJ5M0RleDdQbkQyZWs0UUF1V3BITUs1Yzk3Sjd3QWxUQWxDQnBQLWU4dERDYWJMcEMtUzRyRXBCRzRWQ3N5djRsSHdlWE5TeU0wMi0tdVVHMktaNVVFb1dXMG5Mc291MWJteGVKQVA2TlpybE5qWGxjbktxNzg0Y3BWWXRyLVB3V0g5WTZVWnMtcWVsZDhjMDJIQmhUUXFwOUhXN01pdGF2VDNnN2JFQ28wNWU3eHdsdXNMZVhMcWxlcGIzbTF0YzE1U0VmZVU2QUhUTGtoQmVYc2xPYWZTdUJtV3Q3SFZiYjVreVZtTjAyTW9MM2twSmw1UzJQa1FSSkRJOW5STVFCQjR1ekI3SDFn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies",
+        "Applied Materials vs. Taiwan Semiconductor Manufacturing: Comparing Revenue Growth Trends Between These Artificial Intelligence Companies"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 18,
+      "signal": 21,
+      "sources": 2,
+      "ts": "2026-10-30T11:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Radiology, Mathematics, Artificial Intelligence, And Human Understanding",
+      "s": "Radiology, Mathematics, Artificial Intelligence, And Human Understanding Forbes",
+      "b": [
+        "forbes.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding",
+        "tech.yahoo.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding"
+      ],
+      "body": [
+        "forbes.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding Forbes",
+        "tech.yahoo.com: Radiology, Mathematics, Artificial Intelligence, And Human Understanding Yahoo Tech"
+      ],
+      "l": [
+        {
+          "d": "forbes.com",
+          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNHZqVmVXay0tUmE1Y3B3MVdtTDhfUndkcWhpZExaT1pybUVYLTkxZ05UQWNUZHI1YTJuR1Y3VjJoWDA3RmkxbFVYSjRzWkhDMktIN0o1Z1BLRVd5Q3hwN1BHclplc2dSNUx3VFZ2aE9UeExtRFVBb0IxRGZZWHcwTF9rX1NkN0ZCX2l6YV9zMTJpWVpoZVVxYXd2YzVQcEh6bWhvMnNpY0N0WGZXQmNmVDZfeFZMTnZCT3JTUw?oc=5"
+        },
+        {
+          "d": "tech.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUGJ3dGN4YWNEZGZ4VnRIQzY5MVhmcTZIUTRzUmRyX0dubnJSRmlDbWlJd01ZU1JVbW0zWWlyek1fX2RUM09ZbEhNYmpreEVkbnMxVUpCYWZvSkdfeE5pUnR5TEhtcEhRUGRFbjZtY3o3dlkzcUI4S3JQdDFKa1RCZVFyRkhab09HOTNsLUYtRFZ0SjdfVjl0M2dFTjI2WGJqbmdPQjZybFF2Z2xMNmc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Radiology, Mathematics, Artificial Intelligence And Human Understanding",
+        "Radiology, Mathematics, Artificial Intelligence, And Human Understanding"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 15,
       "sources": 2,
       "ts": "2026-10-30T05:05:20.000Z",
       "writtenSources": 2,
