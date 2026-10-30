@@ -2,8 +2,47 @@
   "date": "2026-10-30",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 58,
+      "sources": 3,
+      "ts": "2026-10-30T14:42:36.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Google value plummets by $500 billion as artificial intelligence searches impact ad revenue.",
+      "s": "Google value plummets by $500 billion as artificial intelligence searches impact ad revenue. crossroadstoday.com",
+      "b": [
+        "crossroadstoday.com: Google value plummets by $500 billion as artificial intelligence searches impact ad revenue.",
+        "roanoke.com: Google value plummets by $500 billion as artificial intelligence searches impact ad revenue.",
+        "pressofatlanticcity.com: Google value plummets by $500 billion as artificial intelligence searches impact ad revenue."
+      ],
+      "body": [
+        "crossroadstoday.com: Google value plummets by $500 billion as artificial intelligence searches impact ad revenue. crossroadstoday.com",
+        "roanoke.com: Google value plummets by $500 billion as artificial intelligence searches impact ad revenue. Roanoke Times",
+        "pressofatlanticcity.com: Google value plummets by $500 billion as artificial intelligence searches impact ad revenue. Press of Atlantic City"
+      ],
+      "l": [
+        {
+          "d": "crossroadstoday.com",
+          "u": "https://news.google.com/rss/articles/CBMingJBVV95cUxQQWF0MEpWdHRaNEZqaVBDM2NCX29zeTdQSkxSWVhrUDhudGhDczN0ZzdFTTlTZG1lY2JoOElkb1JILS1WaFZBR0hCeTE1dWZrRHhObDZ5Y0NtTnRLcms3SEtSMHdBeTJqWGNERDlXVkFPNzQyYnh3NHV5Zmc4YmFXMkNwaEtTS3doc2sxX3NYNV9sU191TjNmOG9CMlNkcHA4SFJOOS1RRlliX2trY0QySFJJdzFnakh2M0Z2ZFlLbFY5M3lOOElYeUhWd0dWRjBWa05jclVYWmt1T2doeUpUOTRvd0lxLXVLOEllWmphaVdyRzJsY0pfUDhLeExkci1xaUY0dUFrNlVIWkR3STc1bXFLM1ZhQXdtX2V6a3lB?oc=5"
+        },
+        {
+          "d": "roanoke.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcFg3d3BoVVN0cW5vYm9FMmJZLXl0Ri12OUxfRFR2ZXgwQU5vSE9uZFBNNGw5TUN5Mnh6QV9rcjZoanNnQnVzRTlEaHVIS2FjMmw2aGRXZ0l6TUNpd051Yy1kUkc5RWJwTkRmSVJoY05EN2EwRTNTNDRtZU5Rb09ub0s3YUdZc2FNQzNWUjFqcmFSYy02Um9KYUttcDA?oc=5"
+        },
+        {
+          "d": "pressofatlanticcity.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWDBpbEVtZGFZQUFoN2pKRTRId1poVDVkcnRER0VGNWpiZFYwYlN1M2oycHhaeWJrUUpNVkdWOFZheTk3dTJkX1Z3U1BRS2lUSFNpTEhvUlI2T2hvQlVpNk41dTBpbG1MZkEyX1puUGpqZUY3TVV1T3NnNExEMGZaQmlqRDhiR1dULXlnb3ZmbWQ4UUc3TURTVlh4T1BwRnRsb0hJeERyQk8yY2hl?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Google value plummets by $500 billion as artificial intelligence searches impact ad revenue.",
+        "Google value plummets by $500 billion as artificial intelligence searches impact ad revenue.",
+        "Google value plummets by $500 billion as artificial intelligence searches impact ad revenue."
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 54,
+      "signal": 50,
       "sources": 2,
       "ts": "2026-10-30T12:10:04.000Z",
       "writtenSources": 2,
@@ -35,7 +74,39 @@
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-10-30T01:20:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "You don t need to believe in a god to get a religious exemption from using AI at work",
+      "s": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+      "b": [
+        "techcrunch.com: You don t need to believe in a god to get a religious exemption from using AI at work",
+        "futurism.com: Man Granted Religious Exemption Against Using AI at Work"
+      ],
+      "body": [
+        "techcrunch.com: David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+        "futurism.com: Man Granted Religious Exemption Against Using AI at Work Futurism"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/"
+        },
+        {
+          "d": "futurism.com",
+          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZm1nSjF5ZXBvWVAtUzd2Q2xtamk4VFEteE5nekl2TVpCUGlYZGIxWHBWVTZfd3BEblBTdHB1eUVwTmJoY2U2R0NSUTh4MDNkSXlwVThrQzBMV0pMWFctSURWalhQSmpmdV8tZXloOEhIU2JSUl9qaERlaFNJdW1GeDBR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "You don t need to believe in a god to get a religious exemption from using AI at work",
+        "Man Granted Religious Exemption Against Using AI at Work"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 29,
       "sources": 2,
       "ts": "2026-10-30T11:30:00.000Z",
       "writtenSources": 2,
@@ -61,7 +132,7 @@
         }
       ],
       "srcTitles": [
-        "Radiology, Mathematics, Artificial Intelligence, And Human Understanding",
+        "Radiology, Mathematics, Artificial Intelligence And Human Understanding",
         "Radiology, Mathematics, Artificial Intelligence, And Human Understanding"
       ]
     },
@@ -101,7 +172,7 @@
     },
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-10-30T05:05:20.000Z",
       "writtenSources": 2,
