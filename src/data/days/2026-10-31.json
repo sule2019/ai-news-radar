@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 59,
+      "signal": 56,
       "sources": 2,
       "ts": "2026-10-31T10:00:00.000Z",
       "writtenSources": 2,
@@ -31,6 +31,38 @@
       "srcTitles": [
         "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
         "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet-controlled motorized surgery rig — Opus 5.5 refused to conduct biological experiment, Sonnet given free rein to treat epilepsy with a range of gene therapy vectors after"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-10-31T12:20:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic takes steps to block Claude from reverse-engineering video games",
+      "s": "Anthropic takes steps to block Claude from reverse-engineering video games Mashable",
+      "b": [
+        "mashable.com: Anthropic takes steps to block Claude from reverse-engineering video games",
+        "tomshardware.com: Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks"
+      ],
+      "body": [
+        "mashable.com: Anthropic takes steps to block Claude from reverse-engineering video games Mashable",
+        "tomshardware.com: Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks Tom's Hardware"
+      ],
+      "l": [
+        {
+          "d": "mashable.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0V2cUVWOVl0eFNNN0tEVjluRlliOHR0MkVQbXdWaERXUzhTSFZfend2OTVmZldaT3k0b3pINTlacGEtdmNXV243bnZUbXFqVW1sZ3ZnT2t2REdyaENNOEJuS3ZlV3VwbGhxZEZnYTJKa2NlOHRTd1RubTZuVlA2bElhQ24yS2VvLWV6MlBMU0RnOU9nSGRjaXhQNG9DVmly?oc=5"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQQVBYaTFvbkpGT0FNbXhiUmMwdHR3SlRQYVdwbWFRalZ0SEtSd0pSQ2FOOFhsazRtY1VCX19heHpvTzEwSkJGNFQ1b1lBOXJmU1M2NGdvRnZyMEVNaW9YbnpBS1pSMC1ET3JnR0s1WFE0WmluRldpemhYUUM0elI2YzFfQWFQWDZ5UlFWQUplbVBId1JDNGtCQUoyMHROcVlSbXZHMUxremtlaFd2cy1qRmc0eVJfYmM0Rm95SHdScVVUS2NBMW1vMFRsNUZsUk5ILXZ4dWdsVVFIRjZhU0ZxaGNyRkFtZnFUS2FpbUpDQ25ydWtoZkF6SHdiT252SDhTOWdGeERvNTU5SkxWRlFGOWluZGM3SEVGVW14ZHNtWTVmR2VkUlh1UFFZcjM3akFuRENWT3VhQTJ5clNnQ1JyNVpibU1oNlRm?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic takes steps to block Claude from reverse-engineering video games",
+        "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks"
       ]
     }
   ]
