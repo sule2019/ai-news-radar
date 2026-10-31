@@ -2,6 +2,38 @@
   "date": "2026-10-31",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-10-31T02:30:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI reportedly lowers funding target for new round",
+      "s": "OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+      "b": [
+        "techcrunch.com: OpenAI reportedly lowers funding target for new round",
+        "techmeme.com: Sources: OpenAI has secured ~$11B in commitments for its latest funding round, less than half its initial $30B target, and expects to raise more in coming weeks (Berber Jin/Wall Street Journal)"
+      ],
+      "body": [
+        "techcrunch.com: OpenAI’s latest funding round doesn't seem to be living up to expectations.",
+        "techmeme.com: Berber Jin / Wall Street Journal : Sources: OpenAI has secured ~$11B in commitments for its latest funding round, less than half its initial $30B target, and expects to raise more in coming weeks The ChatGPT maker's latest funding round values it at $1.25 trillion, less than its $1.4 trillion target"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261030/p31#a261030p31"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI reportedly lowers funding target for new round",
+        "Sources: OpenAI has secured ~$11B in commitments for its latest funding round, less than half its initial $30B target, and expects to raise more in coming weeks (Berber Jin/Wall Street Journal)"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 56,
       "sources": 2,
@@ -35,7 +67,7 @@
     },
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-10-31T12:20:00.000Z",
       "writtenSources": 2,
@@ -63,6 +95,38 @@
       "srcTitles": [
         "Anthropic takes steps to block Claude from reverse-engineering video games",
         "Anthropic's Claude AI blocks video game cloning and reverse-engineering — sweeping new restrictions also hit legitimate developers and basic troubleshooting tasks"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-10-31T18:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Trump's AI push faces a local ballot test",
+      "s": "Trump's AI push faces a local ballot test Politico",
+      "b": [
+        "politico.com: Trump's AI push faces a local ballot test",
+        "yahoo.com: Trump's AI push faces a local ballot test"
+      ],
+      "body": [
+        "politico.com: Trump's AI push faces a local ballot test Politico",
+        "yahoo.com: Trump's AI push faces a local ballot test Yahoo"
+      ],
+      "l": [
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSXJYSjlaY2l6b1lXd2g3NkszMnJkLWZMWS12YWZiYTdBSmxoRGU4MEE4NlJFT1N2N2daN0Z3OWJQcm9OdUpCQ182blF5a3VOLWhkQS1tV3U5M2tnOG92N200U2ZCNHd0XzFVU09OTjI4LUZKQnJsNWNLQUdFVDNpc2NuUnA2X1N1emRmSnZpYTNDMU1I?oc=5"
+        },
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPc3FKSmUtVTdnek1lQWlxLS1vQkRxMFB2VnBtXzRJWGJXdVZZOWEyc2RBVFlGMmdlMkV3TGFjUTdoVXhyeWNQRE42M1hMeDNQbFRTWmowRi1QS3ozVjdWN0JUVGtfd0doU2xRNjh2Ykg1NDd0eDdMaWVWaFFmMDF1M0wzZ1c5MEZ5QXl2VlpYNA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump's AI push faces a local ballot test",
+        "Trump's AI push faces a local ballot test"
       ]
     }
   ]
