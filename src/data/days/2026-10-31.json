@@ -1,4 +1,37 @@
 {
   "date": "2026-10-31",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-10-31T10:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+      "s": "A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+      "b": [
+        "wired.com: An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+        "tomshardware.com: AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet-controlled motorized surgery rig — Opus 5.5 refused to conduct biological experiment, Sonnet given free rein to treat epilepsy with a range of gene therapy vectors after"
+      ],
+      "body": [
+        "wired.com: A biotech startup let an agent choose a gene therapy and successfully inject the treatment, offering a startling glimpse of the future of research labs.",
+        "tomshardware.com: AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet-controlled motorized surgery rig — Opus 5.5 refused to conduct biological experiment, Sonnet given free rein to treat epilepsy with a range of gene therapy vectors after Tom's Hardware"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/an-ai-agent-did-brain-surgery-on-live-mouse/"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPRzRlX1FTdGl2RVpEQnROZ1pSYTJ6dEZweEZDemRUNl9lcEd4eUxHS3hGNUlqUk5JcEEtNmhYOFdOQU1ZNHYzcTlDb0xkdUo1N0t4TEMzWkpBaENGTlNNbDhmNjNONlk1aEM2TUdyclFEVEtjcGMtY0U0YVZ2TVBVUC1IX2M4b3huWlU0WGwtLTRBSEVKNS0teGU4d1FuV1ZmOE5sSmxTbTFZX3Z4TzhvQ0N3TGdJQWVKVjNqU2dWSnIwQTFyMEFYN3dia2FMQ3JieElERXhYYS1PcExrSk4zSDd4anlHYUttR2pJdkttTG94WDVaemw5VWllc21KeFZIY1ZGc0FTRDN6THdQMV9xV0ZrYnRIRTZxS1dOWUNGQVE3Q0V2RDcyZi1nSVRCRWg2cE4xY3R6TGpmWC1ua2RMdEw5cDN1S1o1Vnh5R2s3NVlzU2c5MmxETEZOazM5WGJBREVCa0p6VF9OQmxKdVdMY0ZyNGZCMWxHTTh6TURyYXlFMEN5TTM1dGZ3djRxM0pCQl9zRWRwNjdzTmVhN0NtUmpDWC1qUjM5Q0hPSDdhb0xJNnI3WW5CSktiRF92YWI5UE5vaWdB?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "An AI Agent Injected Drugs Into a Live Mouse’s Brain",
+        "AI agent used to perform controversial brain surgery on a mouse, Anthropic Sonnet-controlled motorized surgery rig — Opus 5.5 refused to conduct biological experiment, Sonnet given free rein to treat epilepsy with a range of gene therapy vectors after"
+      ]
+    }
+  ]
 }
