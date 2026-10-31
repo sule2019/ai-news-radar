@@ -2,6 +2,38 @@
   "date": "2026-10-31",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-10-31T04:30:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "s": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "b": [
+        "techcrunch.com: Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "techmeme.com: John Ternus says Apple doesn't \"want to ship AI for AI's sake\" and that Tim Cook is \"available to help wherever I ask\" on policy; Ternus has yet to meet Trump (Steven Levy/Wired)"
+      ],
+      "body": [
+        "techcrunch.com: Apple's new CEO defended the company's current position in the AI landscape.",
+        "techmeme.com: Steven Levy / Wired : John Ternus says Apple doesn't want to ship AI for AI's sake and that Tim Cook is available to help wherever I ask on policy; Ternus has yet to meet Trump Apple doesn't need fixing, and it doesn't want drama. Its new leader is a product guy who bleeds six colors."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261031/p1#a261031p1"
+        }
+      ],
+      "srcTitles": [
+        "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+        "John Ternus says Apple doesn't \"want to ship AI for AI's sake\" and that Tim Cook is \"available to help wherever I ask\" on policy; Ternus has yet to meet Trump (Steven Levy/Wired)"
+      ]
+    },
+    {
       "cat": "funding",
       "signal": 58,
       "sources": 2,
@@ -99,7 +131,7 @@
     },
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 25,
       "sources": 2,
       "ts": "2026-10-31T18:00:00.000Z",
       "writtenSources": 2,
