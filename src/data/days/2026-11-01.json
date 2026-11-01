@@ -2,6 +2,38 @@
   "date": "2026-11-01",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-11-01T21:30:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "s": "Data centers are deeply unpopular. But what if we called them something else?",
+      "b": [
+        "techcrunch.com: OpenAI might rebrand its data centers as ‘AI compute campuses’",
+        "techmeme.com: OpenAI plans a post-midterms policy and PR blitz, pushing mandatory \"speed limits\" for powerful AI and rebranding its data centers as \"AI compute campuses\" (Axios)"
+      ],
+      "body": [
+        "techcrunch.com: Data centers are deeply unpopular. But what if we called them something else?",
+        "techmeme.com: Axios : OpenAI plans a post-midterms policy and PR blitz, pushing mandatory speed limits for powerful AI and rebranding its data centers as AI compute campuses Right after Tuesday's midterms, OpenAI will unleash a policy and PR blitz to try to get in sync with the new Washington"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261101/p16#a261101p16"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+        "OpenAI plans a post-midterms policy and PR blitz, pushing mandatory \"speed limits\" for powerful AI and rebranding its data centers as \"AI compute campuses\" (Axios)"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 30,
       "sources": 3,
