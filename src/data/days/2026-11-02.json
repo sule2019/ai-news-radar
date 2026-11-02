@@ -2,8 +2,72 @@
   "date": "2026-11-02",
   "stories": [
     {
+      "cat": "models",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-11-02T13:57:53.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI is finally merging ChatGPT s Chat and Work tabs",
+      "s": "OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+      "b": [
+        "techcrunch.com: OpenAI is finally merging ChatGPT s Chat and Work tabs",
+        "techmeme.com: Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop for select users before rolling it out widely; Codex \"will remain a separate experience\" (Ivan Mehta/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: OpenAI said that ChatGPT and Codex will draw usage from the same allocation pool after this change.",
+        "techmeme.com: Ivan Mehta / TechCrunch : Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop for select users before rolling it out widely; Codex will remain a separate experience The ChatGPT desktop app can be a confusing piece of software, given that there are ChatGPT and Codex sections, and within the former, there are Chat and Work tabs."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/02/openai-is-finally-merging-chatgpts-chat-and-work-tabs/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261102/p21#a261102p21"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI is finally merging ChatGPT s Chat and Work tabs",
+        "Email: OpenAI plans to merge ChatGPT's Chat and Work tabs on desktop for select users before rolling it out widely; Codex \"will remain a separate experience\" (Ivan Mehta/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-11-02T13:10:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Elon Musk throttles Grok Bot limits due to unsustainably high costs",
+      "s": "Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+      "b": [
+        "techcrunch.com: Elon Musk throttles Grok Bot limits due to unsustainably high costs",
+        "techmeme.com: Elon Musk says the cost of serving Grok Bot was \"unsustainably high relative to revenue\", in response to subscribers complaining about SpaceX's usage limits (Siladitya Ray/Forbes)"
+      ],
+      "body": [
+        "techcrunch.com: Musk recently referred to Grok Bot as having \"the fastest growth of a product that I've ever seen in my life.\"",
+        "techmeme.com: Siladitya Ray / Forbes : Elon Musk says the cost of serving Grok Bot was unsustainably high relative to revenue , in response to subscribers complaining about SpaceX's usage limits Topline Elon Musk acknowledged on Sunday that the cost of running SpaceX's AI agent Grok Bot was unsustainably high"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/02/elon-musk-throttles-grok-bot-limits-due-to-unsustainably-high-costs/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261102/p20#a261102p20"
+        }
+      ],
+      "srcTitles": [
+        "Elon Musk throttles Grok Bot limits due to unsustainably high costs",
+        "Elon Musk says the cost of serving Grok Bot was \"unsustainably high relative to revenue\", in response to subscribers complaining about SpaceX's usage limits (Siladitya Ray/Forbes)"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-11-02T07:06:00.000Z",
       "writtenSources": 2,
@@ -35,7 +99,39 @@
     },
     {
       "cat": "models",
-      "signal": 34,
+      "signal": 42,
+      "sources": 2,
+      "ts": "2026-11-02T16:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "42AI comes out of stealth with $62.5M and a world model that can predict human behavior",
+      "s": "Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+      "b": [
+        "techcrunch.com: 42AI comes out of stealth with $62.5M and a world model that can predict human behavior",
+        "techmeme.com: Israeli startup 42AI, which is developing a \"behavioral world model\" that tries to predict human behavior, emerges from stealth with a $62.5M seed (Ram Iyer/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?",
+        "techmeme.com: Ram Iyer / TechCrunch : Israeli startup 42AI, which is developing a behavioral world model that tries to predict human behavior, emerges from stealth with a $62.5M seed Here's a question straight out of sci-fi: What if AI could predict what you were going to do before you decided to, even in a completely new situation?"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261102/p30#a261102p30"
+        }
+      ],
+      "srcTitles": [
+        "42AI comes out of stealth with $62.5M and a world model that can predict human behavior",
+        "Israeli startup 42AI, which is developing a \"behavioral world model\" that tries to predict human behavior, emerges from stealth with a $62.5M seed (Ram Iyer/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
       "sources": 2,
       "ts": "2026-11-02T04:05:02.000Z",
       "writtenSources": 2,
@@ -69,6 +165,217 @@
       "cat": "models",
       "signal": 30,
       "sources": 1,
+      "ts": "2026-11-02T17:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Raising the quality of insights in agentic analytics",
+      "s": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automa",
+      "b": [
+        "technologyreview.com: Raising the quality of insights in agentic analytics"
+      ],
+      "body": [
+        "technologyreview.com: In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The quality of insights that agents currently generate leaves much to be desired. Fewer than half of agent-generated insights at the organizations surveyed for this report lead to business improvement. And while most respondents praise the quality of their agents’ descriptive insights, reviews of their prescriptive insights—those on which actions are based—are decidedly mixed. DOWNLOAD THE REPORT Failure to produce insights that improve the business deprives organizations of their desired return on investment in agentic analytics. Worse, flawed insights that trigger incorrect actions can cause reputational or financial damage. This report gauges how companies view the quality of the outputs produced by their analytics agents and explores how organizations are seeking to boost insight quality and get their agents working harder for the business. Some key findings from the report include the following: Agentic analytics is only just starting to deliver. On average, 48% of insights generated by analytics agents at the surveyed companies lead to actions that improve the business. That is a marked advance from the 37% average the respondents say generated such actions one year ago. But it means that more than half of the insights generated by analytics agents today are still failing to help businesses. Better quality of insights leads to clear business advantage. At a small cohort of organizations, which we term “insight leaders,” AI agents perform much better than the average. In this group, more than 70% of agent insights lead to actions that improve the business. The insight leaders also give the quality of their agents’ insights higher marks than do the total respondents overall. Th"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/"
+        }
+      ],
+      "srcTitles": [
+        "Raising the quality of insights in agentic analytics"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-11-02T15:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Introducing the Grid Protectors Program",
+      "s": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "b": [
+        "openai.com: Introducing the Grid Protectors Program"
+      ],
+      "body": [
+        "openai.com: OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/grid-protectors-program"
+        }
+      ],
+      "srcTitles": [
+        "Introducing the Grid Protectors Program"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-11-02T13:10:32.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Stop counting tokens, start counting what ships",
+      "s": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 ",
+      "b": [
+        "technologyreview.com: Stop counting tokens, start counting what ships"
+      ],
+      "body": [
+        "technologyreview.com: When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls it makes. With per-token pricing, the workflows creating the most value can also become the most expensive. The financial pressure is already visible. Uber reportedly exhausted its entire 2026 AI budget by April after expanding its use of Claude Code. GitHub Copilot moved from flat-rate pricing to metered credits. Gartner predicts that AI coding token costs will surpass average developer salaries by 2028. The natural response is rationing usage caps, seat limits, and approvals before developers launch agents. But blanket limits can restrict the workflows delivering value. They also optimize the wrong number. Cost per token measures consumption, not results. Some spending reflects waste, including retries and runaway loops. Some represents the work of shipping software. A meter cannot distinguish them, and neither can a spending cap. Measure the software that ships A better measure is cost per merged pull request: total AI-assisted development cost divided by the number of changes that pass review and are merged. Track rework and defects alongside it so cheaper changes do not conceal lower quality. If that cost falls as AI usage rises, without compromising quality, developers are converting more consumption into useful software. The question is not how many tokens they use, but how much finished work the investment produces. Improving that equation requires two changes: reserve expensive inference for tasks that need it, and lower the cost of routine work. Match the model to the task Agentic coding does not require the most powerful model at every step. Use a frontier model, or an on-premises flagship when policy requires it, for difficult planning and novel reasoning. Route sui"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
+        }
+      ],
+      "srcTitles": [
+        "Stop counting tokens, start counting what ships"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-02T11:13:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial Intelligence Technology Solutions Launches Campaign to Expand SARA AI Security Platform Adoption",
+      "s": "Artificial Intelligence Technology Solutions Launches Campaign to Expand SARA AI Security Platform Adoption Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Artificial Intelligence Technology Solutions Launches Campaign to Expand SARA AI Security Platform Adoption",
+        "tradingview.com: Artificial Intelligence Technology Solutions Launches SARA #OpenToWork Campaign"
+      ],
+      "body": [
+        "finance.yahoo.com: Artificial Intelligence Technology Solutions Launches Campaign to Expand SARA AI Security Platform Adoption Yahoo Finance",
+        "tradingview.com: Artificial Intelligence Technology Solutions Launches SARA #OpenToWork Campaign TradingView"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMFl4bllFcVdxR0JMd09LaWp5VjJMbTc4Y2N6bC1ZNkZ4dFozVm05MF9NaXhhNjdVcVZrcU16eS1qQXczaTh4X1F2TTZoUnNMQWVoZnladXh6REVzUDBuVEtHTmpBNE5qQWtzVHFuZDFiWHZzZDBTZGsxTjZ6V09nWWdXTHJTZEtHbVp3R3U0cnRnS2t2RGdSVl9oSzREWHZoZUU3Tl8xOXp2R2NkS1VES2g3bjIwcEVi?oc=5"
+        },
+        {
+          "d": "tradingview.com",
+          "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY1RvS04tMEhwLS1MQXBHRkNwYjMtdjJpTGxJc1RJMXdjeHhZbW96dUdnQzQ4R3c0VTZGbWx3WFBXbEpxTGtEWnkzREJXUkNGRjBGRGlSOWtrd2dSbkNTa2paejdkZnFJZW9YM3RFMndzOV9Rdm1xR1hOWWZlVXBlWHl1b3d1WU81MlRCcnJqVDJyNFplenM3b1cwd2dUMjA2d201clVUWEpDUVpZN3loYkVQSHhXS0poX1g0M2JiTWZOM3VDY0NuajJnQXNrdzhmd1BmOVE3Yw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial Intelligence Technology Solutions Launches Campaign to Expand SARA AI Security Platform Adoption",
+        "Artificial Intelligence Technology Solutions Launches SARA #OpenToWork Campaign"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-02T05:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Generative Artificial Intelligence in Clinical Reasoning Education: A Focused Review and Framework",
+      "s": "Generative Artificial Intelligence in Clinical Reasoning Education: A Focused Review and Framework Cureus",
+      "b": [
+        "cureus.com: Generative Artificial Intelligence in Clinical Reasoning Education: A Focused Review and Framework",
+        "arxiv.org: Generative Recursive Reasoning",
+        "arxiv.org: Safin-1.5: Safety-Native Architecture and Verifiable Reasoning for Recursive Safety Improvement"
+      ],
+      "body": [
+        "cureus.com: Generative Artificial Intelligence in Clinical Reasoning Education: A Focused Review and Framework Cureus",
+        "arxiv.org: arXiv:2605.19376v5 Announce Type: replace Abstract: How should future neural reasoning systems implement extended computation? Recursive Reasoning Models (RRMs) offer a promising alternative to autoregressive sequence extension by performing iterative latent-state refinement with shared transition functions. Yet existing RRMs are largely deterministic, following a single latent trajectory and converging to a single prediction. We introduce Generative Recursive reAsoning Models (GRAM), a framework that turns recursive latent reasoning into probabilistic multi-trajectory computation. GRAM models reasoning as a stochastic latent trajectory, enabling multiple hypotheses, alternative solution strategies, and inference-time scaling through both recursive depth and parallel trajectory sampling. This yields a latent-variable generative model supporting conditional reasoning via $p_\\theta(y \\mid x)$ and, with fixed or absent inputs, unconditional generation via $p_\\theta(x)$. Trained with amortized variational inference, GRAM improves over deterministic recurrent and recursive baselines on structured reasoning and multi-solution constraint satisfaction tasks, while demonstrating an unconditional generation capability. https://ahn-ml.github.io/gram-website",
+        "arxiv.org: arXiv:2610.40751v1 Announce Type: cross Abstract: Recursive self-improvement (RSI) enables large language models to advance their capabilities through successive updates, but these updates can also introduce new risks and weaken existing safeguards. In line with the AI-45{\\deg} Law, we pursue Safety RSI, in which safety develops as an intrinsic capability alongside general model capabilities through continual risk discovery and repair, while preserving utility and limiting over-refusal. We introduce Safin-1.5, a model built on a safety architecture and trained through recursive safety improvement, with an inference-time harness that extends its capabilities to formal reasoning. Our approach comprises three components: i) The safety architecture combines persistent safety states with hazardous-knowledge disentanglement. The former retains and selectively invokes safety knowledge, while the latter relocates targeted hazardous knowledge into removable experts, enabling its removal with minimal impact on general capabilities. ii) Recursive safety improvement establishes a discovery-evaluation-repair loop. The loop identifies new vulnerabilities and uses experimental feedback to develop repair strategies. It accepts updates only when they improve safety while preserving general capabilities and limiting over-refusal. iii) The formal reasoning harness combines the model's language understanding with symbolic inference and verification. Proof-obligation-guided semantic bridging recovers missing relations in formal representations, enabling symbolic solvers to construct checkable proofs under formalized premises and accepted semantic bridges. Experimental results demonstrate that Safin-1.5 achieves safety and reasoning performance, outperforming frontier models."
+      ],
+      "l": [
+        {
+          "d": "cureus.com",
+          "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTjdmaWJjVHEwYlVXTnFjZTVaMTZlalRTYXQ4LTc3NS1UUnpQQVQ0clJPLVVyZ3ZOZG1ZRVlzbUduWTVzSERLaWIzMjJoLVpHaFVlcmg1Q0U0TzF6NGVvX3ZMMzdNQWZhVUpsanpld01XcGVva2k2Ung2Z19va3E5bHBxWl8wTjRLblBIX082U1UzczZTTWl5d202djJEUVEtSzQxWlNmUGhsT1F6THZaWVZlLTU4c1RGMGwzdFRDS2VTSnlwN1BRamRIamZCLVFnenc?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2605.19376"
+        }
+      ],
+      "srcTitles": [
+        "Generative Artificial Intelligence in Clinical Reasoning Education: A Focused Review and Framework",
+        "Generative Recursive Reasoning",
+        "Safin-1.5: Safety-Native Architecture and Verifiable Reasoning for Recursive Safety Improvement"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-02T05:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Q&A: How are AI and religion connected?",
+      "s": "Q&A: How are AI and religion connected? University of Washington",
+      "b": [
+        "washington.edu: Q&A: How are AI and religion connected?",
+        "arxiv.org: Clinical-Protocol-Aware Cyber Resilience for Connected Clinical Technologies Under AI-Enabled Adversarial Conditions"
+      ],
+      "body": [
+        "washington.edu: Q&A: How are AI and religion connected? University of Washington",
+        "arxiv.org: arXiv:2610.41784v1 Announce Type: new Abstract: Healthcare increasingly relies on connected medical devices, clinical information systems, cloud services, and distributed-care technologies, creating cybersecurity risks across clinical workflows. AI-enabled capabilities can accelerate vulnerability discovery and attack-path analysis, increasing the need to limit compromise propagation. This paper proposes a clinical-protocol-aware cyber-resilience framework based on bounded clinical micro-networks and controlled interconnections. The framework integrates clinical factors into cybersecurity design, management, and evaluation, covering prevention, containment, and incident response. A parameterized Monte Carlo simulation distinguishes technical cyber exposure from modeled clinical consequence. Experiments investigate architectural connectivity, adversarial capability, security controls, protocol dependency, risk alignment, communication directionality, lifecycle integration, and response timing. Under the simulation assumptions, connected architecture increases mean cyber exposure by 56.3% relative to segmented architecture, while combined prevention and containment reduce exposure by 60.1% relative to no controls. Increasing protocol dependency raises the modeled clinical-impact index from 1.021 to 7.567 without changing mean cyber exposure, demonstrating that technical exposure and clinical consequence can diverge. Risk-alignment experiments further indicate higher modeled clinical impact when greater technical risk corresponds to greater clinical significance. The findings support comparative architectural analysis, not calibrated estimates of real-world cyber risk, control effectiveness, or patient harm. The framework provides a clinical-context-aware approach to security-boundary design, control prioritization, and coordinated containment in connected healthcare environments."
+      ],
+      "l": [
+        {
+          "d": "washington.edu",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN3RyQjZzQmdZR0FtbTlFSmxtVDVaXzRDY0U2LUdNMGY3ZFVpRTVOUHFsOFgwM0RjYi12WmxtUjFlZEZtOTd0QnFsX1NBQThVTHdCZFhqVjJWeTFqcnE2cGp5SjlOMnJGaXc5OGQ4Y1dPazEydFdfcklUdFRGRng5UmJjbw?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.41784"
+        }
+      ],
+      "srcTitles": [
+        "Q&A: How are AI and religion connected?",
+        "Clinical-Protocol-Aware Cyber Resilience for Connected Clinical Technologies Under AI-Enabled Adversarial Conditions"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-01T23:45:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030",
+      "s": "The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030 EIN Presswire",
+      "b": [
+        "einpresswire.com: The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030",
+        "einnews.com: The Artificial Intelligence (AI) Facial Skin Analyzer Market is projected to grow at a 10.8% CAGR",
+        "einnews.com: The Artificial Intelligence (AI) Market in Aging and Elderly Care Is Projected to Grow Rapidly at a 23.8% CAGR"
+      ],
+      "body": [
+        "einpresswire.com: The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030 EIN Presswire",
+        "einnews.com: The Artificial Intelligence (AI) Facial Skin Analyzer Market is projected to grow at a 10.8% CAGR EIN News",
+        "einnews.com: The Artificial Intelligence (AI) Market in Aging and Elderly Care Is Projected to Grow Rapidly at a 23.8% CAGR EIN News",
+        "einnews.com: The Artificial Intelligence (AI) Enhanced Remote Physiotherapy Market Is Projected to Grow to $6.44 Billion by 2030 EIN News"
+      ],
+      "l": [
+        {
+          "d": "einpresswire.com",
+          "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYW1KSWdtZm1DQTJYUEZvempRYkItbXpfa0dUTndKc0dRamVLYk5JQm81dUhlbmQ3blFfQk1JRGRXVnlIZlNkV0JtZDRKaFpnQlhwczhsNkVqVDd4cU1JeW40eVdwc2V3TjduZWNQdnpzY1Z2dkduM2xHUWI3UU9GWllXNTZJYm9hdkswZkR3VDVfcFdTVFhsUEpLaTBPd3p0WGsxbDZqX1pxTDR4SEt0cE1EY2NKWTlQZzlMLU9HUUtsUTdwOGNjUW5MaWNkMzlVWkxoTmtfSFBoTVJwUzZkZlFIUjBmd1BKWXI2cmZR?oc=5"
+        },
+        {
+          "d": "einnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYzRlOEJpcmRtNUpsRVd1bjBOdFZKdU50SncxVHpvNE1xY0NLTmZxZlljb0tEWkFSSXFnX0c3akVpbHdGNjZIcGlGeWJZdnJYdlN6RFZrcHhUZVUtYnVVQlFNUEowbm53ZzRlOFNjX1lFbm94Um9ocTJFR2h3MEliNkVYU1owYU5BMkRRY1hlOVQwLUthOFJIZTlIamIwbEJKRTA4S25QdmF5NzFGVEVEUEl5eGJRSHFUZkt4ajZmcTUyTXVkcHp2Z2hrNVU1TWRTMUE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030",
+        "The Artificial Intelligence (AI) Facial Skin Analyzer Market is projected to grow at a 10.8% CAGR",
+        "The Artificial Intelligence (AI) Market in Aging and Elderly Care Is Projected to Grow Rapidly at a 23.8% CAGR",
+        "The Artificial Intelligence (AI) Enhanced Remote Physiotherapy Market Is Projected to Grow to $6.44 Billion by 2030"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
       "ts": "2026-11-02T09:35:19.000Z",
       "writtenSources": 1,
       "draft": true,
@@ -89,13 +396,12 @@
         }
       ],
       "srcTitles": [
-        "The agentic web is here",
         "The agentic web is here"
       ]
     },
     {
       "cat": "products",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-11-01T23:08:00.000Z",
       "writtenSources": 2,
