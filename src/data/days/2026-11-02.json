@@ -2,8 +2,40 @@
   "date": "2026-11-02",
   "stories": [
     {
+      "cat": "models",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-11-02T04:05:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount (Reuters)",
+      "s": "Reuters : South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount South Korean President Lee Jae Myung",
+      "b": [
+        "techmeme.com: South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount (Reuters)",
+        "japantimes.co.jp: South Korea to double spending on AI and chips in 2027"
+      ],
+      "body": [
+        "techmeme.com: Reuters : South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount South Korean President Lee Jae Myung vowed on Monday to make bold investments in artificial intelligence to boost",
+        "japantimes.co.jp: South Korea to double spending on AI and chips in 2027 The Japan Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261101/p26#a261101p26"
+        },
+        {
+          "d": "japantimes.co.jp",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT01fOXk3eUJBYjRmZnBYUmpGdVk1WjVCc2VfLWJ1ZmxpQXdQVGNIei12QzBzQlk5eDktazhVdnlLNTFvQUk1ZWJaM1A3X3VZT0FiRjNlSm1pSTNrblR3UjlBSGhvNkNlc05jM09OdG1lNnhRWWxQdTN0eXlKeHhKTnJPUnVPYlZwUk1UMw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount (Reuters)",
+        "South Korea to double spending on AI and chips in 2027"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 29,
+      "signal": 25,
       "sources": 2,
       "ts": "2026-11-01T23:08:00.000Z",
       "writtenSources": 2,
