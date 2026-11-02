@@ -3,7 +3,74 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 61,
+      "signal": 69,
+      "sources": 3,
+      "ts": "2026-11-02T15:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Introducing the Grid Protectors Program",
+      "s": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
+      "b": [
+        "openai.com: Introducing the Grid Protectors Program"
+      ],
+      "body": [
+        "openai.com: OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/grid-protectors-program"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261102/p34#a261102p34"
+        },
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/"
+        }
+      ],
+      "srcTitles": [
+        "Introducing the Grid Protectors Program",
+        "OpenAI launches the Grid Protectors Program, a US effort for its future data center campuses meant \"to reduce electricity demand when the grid is under strain\" (OpenAI)",
+        "OpenAI might rebrand its data centers as ‘AI compute campuses’"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-11-02T20:00:53.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math (Rikiya Takehi)",
+      "s": "Rikiya Takehi : Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math TL;DR If you were asked to ",
+      "b": [
+        "techmeme.com: Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math (Rikiya Takehi)",
+        "reddit.com: Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]"
+      ],
+      "body": [
+        "techmeme.com: Rikiya Takehi : Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math TL;DR If you were asked to handcraft a neural network that plays Go, what would you do? If you were handed raw neural network weights",
+        "reddit.com: Link: https://rikiyat.github.io/blog/weight-space-programming/ Snippet: “We find that frontier LLMs are surprisingly good at natively reading and writing neural network weights , well past what we’d expect from humans or conventional algorithms. This might be a big deal for both optimization and interpretability. Just by looking at the raw weights, GPT-6 Astra can tell what a network was trained to do . And without any environment feedback, it has no trouble writing, from scratch, small game-playing networks that outplay networks trained with PPO for 100 million steps.” Very surprising result, I didn’t expect frontier models to have this capability that has not been optimized for, and it’s something humans cannot do either. submitted by /u/RobbinDeBank [link] [comments]"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261102/p36#a261102p36"
+        },
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1xm89ef/sparks_of_weightspace_programming_llms_can/"
+        }
+      ],
+      "srcTitles": [
+        "Researchers say LLMs can be good at natively reading and writing neural network weights; GPT-6 Astra edited Qwen3.5-0.8B's weights to make it better at math (Rikiya Takehi)",
+        "Sparks of Weight-Space Programming: LLMs can natively read & write neural network weights [R]"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 57,
       "sources": 2,
       "ts": "2026-11-02T13:57:53.000Z",
       "writtenSources": 2,
@@ -35,7 +102,7 @@
     },
     {
       "cat": "models",
-      "signal": 61,
+      "signal": 57,
       "sources": 2,
       "ts": "2026-11-02T13:10:02.000Z",
       "writtenSources": 2,
@@ -67,7 +134,7 @@
     },
     {
       "cat": "funding",
-      "signal": 47,
+      "signal": 43,
       "sources": 2,
       "ts": "2026-11-02T07:06:00.000Z",
       "writtenSources": 2,
@@ -99,7 +166,39 @@
     },
     {
       "cat": "models",
-      "signal": 42,
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-11-02T17:51:19.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+      "s": "The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Pe",
+      "b": [
+        "techcrunch.com: New York Times and other outlets sue web browser Brave over alleged content scraping",
+        "theverge.com: The New York Times sues Brave web browser for AI scraping and bypassing paywalls"
+      ],
+      "body": [
+        "techcrunch.com: The New York Times is suing privacy-focused web browser company Brave for allegedly scraping the outlet’s copyrighted content and unlawfully distributing it to its own customers, like Anthropic and Perplexity.",
+        "theverge.com: The New York Times and a group of other publications have filed lawsuits against the company that makes the Brave web browser over alleged unlawful scraping to train AI and also letting users bypass their paywalls, as reported by Reuters. According to a complaint filed by the New York Daily News, the Chicago Tribune, and [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times"
+        }
+      ],
+      "srcTitles": [
+        "New York Times and other outlets sue web browser Brave over alleged content scraping",
+        "The New York Times sues Brave web browser for AI scraping and bypassing paywalls"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 36,
       "sources": 2,
       "ts": "2026-11-02T16:30:00.000Z",
       "writtenSources": 2,
@@ -126,44 +225,138 @@
       ],
       "srcTitles": [
         "42AI comes out of stealth with $62.5M and a world model that can predict human behavior",
-        "Israeli startup 42AI, which is developing a \"behavioral world model\" that tries to predict human behavior, emerges from stealth with a $62.5M seed (Ram Iyer/TechCrunch)"
+        "Tel Aviv-based 42AI, which is developing a \"behavioral world model\" that tries to predict how humans will act, emerges from stealth with a $62.5M seed (Ram Iyer/TechCrunch)"
       ]
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 29,
       "sources": 2,
-      "ts": "2026-11-02T04:05:02.000Z",
+      "ts": "2026-11-02T19:42:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount (Reuters)",
-      "s": "Reuters : South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount South Korean President Lee Jae Myung",
+      "h": "The 3 Best Artificial Intelligence (AI) Stocks to Buy in November",
+      "s": "The 3 Best Artificial Intelligence (AI) Stocks to Buy in November The Motley Fool",
       "b": [
-        "techmeme.com: South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount (Reuters)",
-        "japantimes.co.jp: South Korea to double spending on AI and chips in 2027"
+        "fool.com: The 3 Best Artificial Intelligence (AI) Stocks to Buy in November",
+        "finance.yahoo.com: The 3 Best Artificial Intelligence (AI) Stocks to Buy in November"
       ],
       "body": [
-        "techmeme.com: Reuters : South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount South Korean President Lee Jae Myung vowed on Monday to make bold investments in artificial intelligence to boost",
-        "japantimes.co.jp: South Korea to double spending on AI and chips in 2027 The Japan Times"
+        "fool.com: The 3 Best Artificial Intelligence (AI) Stocks to Buy in November The Motley Fool",
+        "finance.yahoo.com: The 3 Best Artificial Intelligence (AI) Stocks to Buy in November Yahoo Finance"
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261101/p26#a261101p26"
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVVgyclEzYW9fSDdrWUljZzJvMXpMU0JkcTRQOXcwWGNGeWNqUWllVGo3RHBhMnJ6cF9HSy1MbEtia0dQamdqdkpFd093d3RoaGxCUW9MVWxNem1CR0E3VVdsMjJxanpsVHoyWElDSzVuQWRDamsyRWNUMHdEdjdYRThvQ1NKdURlTi1HZnV2b2RhNDkxeHpV?oc=5"
         },
         {
-          "d": "japantimes.co.jp",
-          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT01fOXk3eUJBYjRmZnBYUmpGdVk1WjVCc2VfLWJ1ZmxpQXdQVGNIei12QzBzQlk5eDktazhVdnlLNTFvQUk1ZWJaM1A3X3VZT0FiRjNlSm1pSTNrblR3UjlBSGhvNkNlc05jM09OdG1lNnhRWWxQdTN0eXlKeHhKTnJPUnVPYlZwUk1UMw?oc=5"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcjc3U3RxeFFGc0ZHUHl1TVZjWWZFcVdIOFdHWnNjT2t5d2lLOE8zdGd3Ukdjb0tXMkpzNlA1NW1neG5pbGllSGNFZ1JrMkNjTU5Jb2xYUllqVXBpRlpvNkpaZ3FjR2dLVUpna3dvdDFlMVRTRjhOTHlQQkRjZVo0dHFReF9KWkJmZW00cVFwbXU1VHRMd1FuQk5kaVlOZUU?oc=5"
         }
       ],
       "srcTitles": [
-        "South Korean President Lee Jae Myung vows to dedicate ~$16B for AI, chips, physical AI, and data centers in the country's 2027 budget, ~2x the 2026 allocation (Reuters)",
-        "South Korea to double spending on AI and chips in 2027"
+        "The 3 Best Artificial Intelligence (AI) Stocks to Buy in November",
+        "The 3 Best Artificial Intelligence (AI) Stocks to Buy in November"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-11-02T17:45:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Market Forecast Report on Artificial Intelligence (AI) in Regulatory Affairs Including Segment Analysis",
+      "s": "Market Forecast Report on Artificial Intelligence (AI) in Regulatory Affairs Including Segment Analysis The National Law Review",
+      "b": [
+        "natlawreview.com: Market Forecast Report on Artificial Intelligence (AI) in Regulatory Affairs Including Segment Analysis",
+        "einnews.com: Artificial Intelligence (AI) in Wound Care Market Report Analyzes Market Trends, Segment Details, and Business Strategy"
+      ],
+      "body": [
+        "natlawreview.com: Market Forecast Report on Artificial Intelligence (AI) in Regulatory Affairs Including Segment Analysis The National Law Review",
+        "einnews.com: Artificial Intelligence (AI) in Wound Care Market Report Analyzes Market Trends, Segment Details, and Business Strategy EIN News"
+      ],
+      "l": [
+        {
+          "d": "natlawreview.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSnRYSTlHUThrVTZmU3hoZEl2bjNSd2Y2cHlnNkU0bnU0WWJoY1Jxb1hfU0V0VmJUX0NtWlV6NE41R2Mxd1ZMX1ZQekhRbUlRMThxNDI3X1JkRlhET21lc0lmSnNyUElzSUpkbEQxb0JIUUZyQUN1RmUzMmR6YzBuM3huLV9IMGVjYWh3SEtrQmdMZWx5UkN3NVUzX3dmN1Bvd0tSc2twRmliQk1I?oc=5"
+        },
+        {
+          "d": "einnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORkZ3UG9MXzh0SjBzZnF6Q1JocS1FQUg3cHZnd1E5ajNRV21xRGkwX1FHcmRlZWR6RHNneFQwYVY5cTBzcHFfanhXZ240UUpxTHZKMEd4bjNsN3A2b2VJcHJlN1Jvd3B1U251elhQenJ5em9KSTlnbVJOcldOM252eTZkNEFHTEtNVGRzQ1hRNUlHM0FMa1ZrUkd0S3k1NUoxMXlWeXpwZXpoM3NkS0lsVlp2d25rSDFtcE5oY0RXVXBDT1pLNzRGdk9PWFdUTEd0Um5MajJISTM2bU8xVmZFWkZabldxN1pWS3RsSFBn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Market Forecast Report on Artificial Intelligence (AI) in Regulatory Affairs Including Segment Analysis",
+        "Artificial Intelligence (AI) in Wound Care Market Report Analyzes Market Trends, Segment Details, and Business Strategy"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-11-01T23:45:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030",
+      "s": "The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030 EIN Presswire",
+      "b": [
+        "einpresswire.com: The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030",
+        "einnews.com: The Artificial Intelligence (AI) Facial Skin Analyzer Market is projected to grow at a 10.8% CAGR",
+        "einnews.com: The Artificial Intelligence (AI) Market in Aging and Elderly Care Is Projected to Grow Rapidly at a 23.8% CAGR"
+      ],
+      "body": [
+        "einpresswire.com: The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030 EIN Presswire",
+        "einnews.com: The Artificial Intelligence (AI) Facial Skin Analyzer Market is projected to grow at a 10.8% CAGR EIN News",
+        "einnews.com: The Artificial Intelligence (AI) Market in Aging and Elderly Care Is Projected to Grow Rapidly at a 23.8% CAGR EIN News",
+        "einnews.com: The Artificial Intelligence (AI) Enhanced Remote Physiotherapy Market Is Projected to Grow to $6.44 Billion by 2030 EIN News"
+      ],
+      "l": [
+        {
+          "d": "einpresswire.com",
+          "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYW1KSWdtZm1DQTJYUEZvempRYkItbXpfa0dUTndKc0dRamVLYk5JQm81dUhlbmQ3blFfQk1JRGRXVnlIZlNkV0JtZDRKaFpnQlhwczhsNkVqVDd4cU1JeW40eVdwc2V3TjduZWNQdnpzY1Z2dkduM2xHUWI3UU9GWllXNTZJYm9hdkswZkR3VDVfcFdTVFhsUEpLaTBPd3p0WGsxbDZqX1pxTDR4SEt0cE1EY2NKWTlQZzlMLU9HUUtsUTdwOGNjUW5MaWNkMzlVWkxoTmtfSFBoTVJwUzZkZlFIUjBmd1BKWXI2cmZR?oc=5"
+        },
+        {
+          "d": "einnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOY29GMkdTZ2t3dDJVNDY2REFlSkdXT0MtdDhWVzZIY1hoM3poYXZoVmRFdzBXS0lrN1V2MzZ6UDUtNFMxSVNHdHJONDFwWmZ6SGRUWncxdDVTRFQwR2ZGZEpqZFNQWnRNX25HM3F6ZW9qdEpEZFd6dGxXbVdFRExzanVpVnl0LU1FaGxVMktqUWNodm5jZ1ppdU95Tnh0OTZDV01peXN4VWppQ18xa04zekh4V0piM1c5dEZYUS1iQ0dBYjhLQWctbHVnY3lWZkxVYzVDb3pVRlZTOXBqTFdCaGxhUQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030",
+        "The Artificial Intelligence (AI) Market in Aging and Elderly Care Is Projected to Grow Rapidly at a 23.8% CAGR",
+        "The Artificial Intelligence (AI) Facial Skin Analyzer Market is projected to grow at a 10.8% CAGR",
+        "Artificial Intelligence (AI) Heart Sound Digital Twin Analytics Market Projected to Reach $1.91 Billion by 2030"
       ]
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-11-02T17:45:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The latest AI news we announced in October 2026",
+      "s": "Here are Google’s latest AI updates from October 2026",
+      "b": [
+        "blog.google: The latest AI news we announced in October 2026"
+      ],
+      "body": [
+        "blog.google: Here are Google’s latest AI updates from October 2026"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/"
+        }
+      ],
+      "srcTitles": [
+        "The latest AI news we announced in October 2026"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
       "sources": 1,
       "ts": "2026-11-02T17:00:00.000Z",
       "writtenSources": 1,
@@ -184,56 +377,6 @@
       ],
       "srcTitles": [
         "Raising the quality of insights in agentic analytics"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-11-02T15:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Introducing the Grid Protectors Program",
-      "s": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "b": [
-        "openai.com: Introducing the Grid Protectors Program"
-      ],
-      "body": [
-        "openai.com: OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs."
-      ],
-      "l": [
-        {
-          "d": "openai.com",
-          "u": "https://openai.com/index/grid-protectors-program"
-        }
-      ],
-      "srcTitles": [
-        "Introducing the Grid Protectors Program"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-11-02T13:10:32.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Stop counting tokens, start counting what ships",
-      "s": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 ",
-      "b": [
-        "technologyreview.com: Stop counting tokens, start counting what ships"
-      ],
-      "body": [
-        "technologyreview.com: When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls it makes. With per-token pricing, the workflows creating the most value can also become the most expensive. The financial pressure is already visible. Uber reportedly exhausted its entire 2026 AI budget by April after expanding its use of Claude Code. GitHub Copilot moved from flat-rate pricing to metered credits. Gartner predicts that AI coding token costs will surpass average developer salaries by 2028. The natural response is rationing usage caps, seat limits, and approvals before developers launch agents. But blanket limits can restrict the workflows delivering value. They also optimize the wrong number. Cost per token measures consumption, not results. Some spending reflects waste, including retries and runaway loops. Some represents the work of shipping software. A meter cannot distinguish them, and neither can a spending cap. Measure the software that ships A better measure is cost per merged pull request: total AI-assisted development cost divided by the number of changes that pass review and are merged. Track rework and defects alongside it so cheaper changes do not conceal lower quality. If that cost falls as AI usage rises, without compromising quality, developers are converting more consumption into useful software. The question is not how many tokens they use, but how much finished work the investment produces. Improving that equation requires two changes: reserve expensive inference for tasks that need it, and lower the cost of routine work. Match the model to the task Agentic coding does not require the most powerful model at every step. Use a frontier model, or an on-premises flagship when policy requires it, for difficult planning and novel reasoning. Route sui"
-      ],
-      "l": [
-        {
-          "d": "technologyreview.com",
-          "u": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
-        }
-      ],
-      "srcTitles": [
-        "Stop counting tokens, start counting what ships"
       ]
     },
     {
@@ -307,69 +450,57 @@
       "cat": "models",
       "signal": 26,
       "sources": 2,
-      "ts": "2026-11-02T05:00:00.000Z",
+      "ts": "2026-11-02T04:05:02.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Q&A: How are AI and religion connected?",
-      "s": "Q&A: How are AI and religion connected? University of Washington",
+      "h": "South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount (Reuters)",
+      "s": "Reuters : South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount South Korean President Lee Jae Myung",
       "b": [
-        "washington.edu: Q&A: How are AI and religion connected?",
-        "arxiv.org: Clinical-Protocol-Aware Cyber Resilience for Connected Clinical Technologies Under AI-Enabled Adversarial Conditions"
+        "techmeme.com: South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount (Reuters)",
+        "japantimes.co.jp: South Korea to double spending on AI and chips in 2027"
       ],
       "body": [
-        "washington.edu: Q&A: How are AI and religion connected? University of Washington",
-        "arxiv.org: arXiv:2610.41784v1 Announce Type: new Abstract: Healthcare increasingly relies on connected medical devices, clinical information systems, cloud services, and distributed-care technologies, creating cybersecurity risks across clinical workflows. AI-enabled capabilities can accelerate vulnerability discovery and attack-path analysis, increasing the need to limit compromise propagation. This paper proposes a clinical-protocol-aware cyber-resilience framework based on bounded clinical micro-networks and controlled interconnections. The framework integrates clinical factors into cybersecurity design, management, and evaluation, covering prevention, containment, and incident response. A parameterized Monte Carlo simulation distinguishes technical cyber exposure from modeled clinical consequence. Experiments investigate architectural connectivity, adversarial capability, security controls, protocol dependency, risk alignment, communication directionality, lifecycle integration, and response timing. Under the simulation assumptions, connected architecture increases mean cyber exposure by 56.3% relative to segmented architecture, while combined prevention and containment reduce exposure by 60.1% relative to no controls. Increasing protocol dependency raises the modeled clinical-impact index from 1.021 to 7.567 without changing mean cyber exposure, demonstrating that technical exposure and clinical consequence can diverge. Risk-alignment experiments further indicate higher modeled clinical impact when greater technical risk corresponds to greater clinical significance. The findings support comparative architectural analysis, not calibrated estimates of real-world cyber risk, control effectiveness, or patient harm. The framework provides a clinical-context-aware approach to security-boundary design, control prioritization, and coordinated containment in connected healthcare environments."
+        "techmeme.com: Reuters : South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount South Korean President Lee Jae Myung vowed on Monday to make bold investments in artificial intelligence to boost",
+        "japantimes.co.jp: South Korea to double spending on AI and chips in 2027 The Japan Times"
       ],
       "l": [
         {
-          "d": "washington.edu",
-          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN3RyQjZzQmdZR0FtbTlFSmxtVDVaXzRDY0U2LUdNMGY3ZFVpRTVOUHFsOFgwM0RjYi12WmxtUjFlZEZtOTd0QnFsX1NBQThVTHdCZFhqVjJWeTFqcnE2cGp5SjlOMnJGaXc5OGQ4Y1dPazEydFdfcklUdFRGRng5UmJjbw?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261101/p26#a261101p26"
         },
         {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2610.41784"
+          "d": "japantimes.co.jp",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT01fOXk3eUJBYjRmZnBYUmpGdVk1WjVCc2VfLWJ1ZmxpQXdQVGNIei12QzBzQlk5eDktazhVdnlLNTFvQUk1ZWJaM1A3X3VZT0FiRjNlSm1pSTNrblR3UjlBSGhvNkNlc05jM09OdG1lNnhRWWxQdTN0eXlKeHhKTnJPUnVPYlZwUk1UMw?oc=5"
         }
       ],
       "srcTitles": [
-        "Q&A: How are AI and religion connected?",
-        "Clinical-Protocol-Aware Cyber Resilience for Connected Clinical Technologies Under AI-Enabled Adversarial Conditions"
+        "South Korean President Lee Jae Myung vows to dedicate ~$16B for AI, chips, physical AI, and data centers in the country's 2027 budget, ~2x the 2026 allocation (Reuters)",
+        "South Korea to double spending on AI and chips in 2027"
       ]
     },
     {
-      "cat": "funding",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-11-01T23:45:00.000Z",
-      "writtenSources": 2,
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-02T13:10:32.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030",
-      "s": "The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030 EIN Presswire",
+      "h": "Stop counting tokens, start counting what ships",
+      "s": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 ",
       "b": [
-        "einpresswire.com: The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030",
-        "einnews.com: The Artificial Intelligence (AI) Facial Skin Analyzer Market is projected to grow at a 10.8% CAGR",
-        "einnews.com: The Artificial Intelligence (AI) Market in Aging and Elderly Care Is Projected to Grow Rapidly at a 23.8% CAGR"
+        "technologyreview.com: Stop counting tokens, start counting what ships"
       ],
       "body": [
-        "einpresswire.com: The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030 EIN Presswire",
-        "einnews.com: The Artificial Intelligence (AI) Facial Skin Analyzer Market is projected to grow at a 10.8% CAGR EIN News",
-        "einnews.com: The Artificial Intelligence (AI) Market in Aging and Elderly Care Is Projected to Grow Rapidly at a 23.8% CAGR EIN News",
-        "einnews.com: The Artificial Intelligence (AI) Enhanced Remote Physiotherapy Market Is Projected to Grow to $6.44 Billion by 2030 EIN News"
+        "technologyreview.com: When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls it makes. With per-token pricing, the workflows creating the most value can also become the most expensive. The financial pressure is already visible. Uber reportedly exhausted its entire 2026 AI budget by April after expanding its use of Claude Code. GitHub Copilot moved from flat-rate pricing to metered credits. Gartner predicts that AI coding token costs will surpass average developer salaries by 2028. The natural response is rationing usage caps, seat limits, and approvals before developers launch agents. But blanket limits can restrict the workflows delivering value. They also optimize the wrong number. Cost per token measures consumption, not results. Some spending reflects waste, including retries and runaway loops. Some represents the work of shipping software. A meter cannot distinguish them, and neither can a spending cap. Measure the software that ships A better measure is cost per merged pull request: total AI-assisted development cost divided by the number of changes that pass review and are merged. Track rework and defects alongside it so cheaper changes do not conceal lower quality. If that cost falls as AI usage rises, without compromising quality, developers are converting more consumption into useful software. The question is not how many tokens they use, but how much finished work the investment produces. Improving that equation requires two changes: reserve expensive inference for tasks that need it, and lower the cost of routine work. Match the model to the task Agentic coding does not require the most powerful model at every step. Use a frontier model, or an on-premises flagship when policy requires it, for difficult planning and novel reasoning. Route sui"
       ],
       "l": [
         {
-          "d": "einpresswire.com",
-          "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYW1KSWdtZm1DQTJYUEZvempRYkItbXpfa0dUTndKc0dRamVLYk5JQm81dUhlbmQ3blFfQk1JRGRXVnlIZlNkV0JtZDRKaFpnQlhwczhsNkVqVDd4cU1JeW40eVdwc2V3TjduZWNQdnpzY1Z2dkduM2xHUWI3UU9GWllXNTZJYm9hdkswZkR3VDVfcFdTVFhsUEpLaTBPd3p0WGsxbDZqX1pxTDR4SEt0cE1EY2NKWTlQZzlMLU9HUUtsUTdwOGNjUW5MaWNkMzlVWkxoTmtfSFBoTVJwUzZkZlFIUjBmd1BKWXI2cmZR?oc=5"
-        },
-        {
-          "d": "einnews.com",
-          "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYzRlOEJpcmRtNUpsRVd1bjBOdFZKdU50SncxVHpvNE1xY0NLTmZxZlljb0tEWkFSSXFnX0c3akVpbHdGNjZIcGlGeWJZdnJYdlN6RFZrcHhUZVUtYnVVQlFNUEowbm53ZzRlOFNjX1lFbm94Um9ocTJFR2h3MEliNkVYU1owYU5BMkRRY1hlOVQwLUthOFJIZTlIamIwbEJKRTA4S25QdmF5NzFGVEVEUEl5eGJRSHFUZkt4ajZmcTUyTXVkcHp2Z2hrNVU1TWRTMUE?oc=5"
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/"
         }
       ],
       "srcTitles": [
-        "The Artificial Intelligence (AI) Market in Remote Patient Monitoring Is Projected to Grow at a 23.5% CAGR by 2030",
-        "The Artificial Intelligence (AI) Facial Skin Analyzer Market is projected to grow at a 10.8% CAGR",
-        "The Artificial Intelligence (AI) Market in Aging and Elderly Care Is Projected to Grow Rapidly at a 23.8% CAGR",
-        "The Artificial Intelligence (AI) Enhanced Remote Physiotherapy Market Is Projected to Grow to $6.44 Billion by 2030"
+        "Stop counting tokens, start counting what ships"
       ]
     },
     {
@@ -400,8 +531,65 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-02T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Qodo builds context into AI code review with Codex",
+      "s": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request.",
+      "b": [
+        "openai.com: Qodo builds context into AI code review with Codex"
+      ],
+      "body": [
+        "openai.com: Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/qodo-codex-plugin"
+        }
+      ],
+      "srcTitles": [
+        "Qodo builds context into AI code review with Codex"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-11-02T05:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Q&A: How are AI and religion connected?",
+      "s": "Q&A: How are AI and religion connected? University of Washington",
+      "b": [
+        "washington.edu: Q&A: How are AI and religion connected?",
+        "arxiv.org: Clinical-Protocol-Aware Cyber Resilience for Connected Clinical Technologies Under AI-Enabled Adversarial Conditions"
+      ],
+      "body": [
+        "washington.edu: Q&A: How are AI and religion connected? University of Washington",
+        "arxiv.org: arXiv:2610.41784v1 Announce Type: new Abstract: Healthcare increasingly relies on connected medical devices, clinical information systems, cloud services, and distributed-care technologies, creating cybersecurity risks across clinical workflows. AI-enabled capabilities can accelerate vulnerability discovery and attack-path analysis, increasing the need to limit compromise propagation. This paper proposes a clinical-protocol-aware cyber-resilience framework based on bounded clinical micro-networks and controlled interconnections. The framework integrates clinical factors into cybersecurity design, management, and evaluation, covering prevention, containment, and incident response. A parameterized Monte Carlo simulation distinguishes technical cyber exposure from modeled clinical consequence. Experiments investigate architectural connectivity, adversarial capability, security controls, protocol dependency, risk alignment, communication directionality, lifecycle integration, and response timing. Under the simulation assumptions, connected architecture increases mean cyber exposure by 56.3% relative to segmented architecture, while combined prevention and containment reduce exposure by 60.1% relative to no controls. Increasing protocol dependency raises the modeled clinical-impact index from 1.021 to 7.567 without changing mean cyber exposure, demonstrating that technical exposure and clinical consequence can diverge. Risk-alignment experiments further indicate higher modeled clinical impact when greater technical risk corresponds to greater clinical significance. The findings support comparative architectural analysis, not calibrated estimates of real-world cyber risk, control effectiveness, or patient harm. The framework provides a clinical-context-aware approach to security-boundary design, control prioritization, and coordinated containment in connected healthcare environments."
+      ],
+      "l": [
+        {
+          "d": "washington.edu",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN3RyQjZzQmdZR0FtbTlFSmxtVDVaXzRDY0U2LUdNMGY3ZFVpRTVOUHFsOFgwM0RjYi12WmxtUjFlZEZtOTd0QnFsX1NBQThVTHdCZFhqVjJWeTFqcnE2cGp5SjlOMnJGaXc5OGQ4Y1dPazEydFdfcklUdFRGRng5UmJjbw?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.41784"
+        }
+      ],
+      "srcTitles": [
+        "Q&A: How are AI and religion connected?",
+        "Clinical-Protocol-Aware Cyber Resilience for Connected Clinical Technologies Under AI-Enabled Adversarial Conditions"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 17,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-11-01T23:08:00.000Z",
       "writtenSources": 2,
