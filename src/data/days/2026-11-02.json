@@ -2,8 +2,40 @@
   "date": "2026-11-02",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-11-02T07:06:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
+      "s": "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment CNBC",
+      "b": [
+        "cnbc.com: OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
+        "kfgo.com: Abu Dhabi’s ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE"
+      ],
+      "body": [
+        "cnbc.com: OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment CNBC",
+        "kfgo.com: Abu Dhabi’s ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE The Mighty 790 KFGO"
+      ],
+      "l": [
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9wUjRZTkJfQlQyYTZaZXpoY2I1VHF4c2tfbnBYVFZYSFN6OVdnd2ZBbklvbGpQbTBLN0w2cFd3QmpkTTFRdmg5R2V6SW1WaE10cGthc3d3dExXNEZsbEhORDFZUXhMMkdYakhTZWZmRdIBdEFVX3lxTE80dkJmcFRkS2MyMG9iRWlVcXpRQjVqc0pPcmRZQVdyUmFkdXhENERaNEx6T0VWOThSRVZjTkwwZmNnNW95dHljUkdPbmVEQ2FXUll3ZjhVV0pzcWRraHFEb0VaLVlwSlFPWkRFTG9jNnQ4WFFi?oc=5"
+        },
+        {
+          "d": "kfgo.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVlaQ1lrVWF0MTZ6Q281WEdXZEFRQkV6QlBCcDl0TEJ2NDlLUjd0ajhQbi1vTlp2WnRhRlhPNlZSdHNlWmxlcGo5dkcxbG5qQ2JPY2xYYU9VSC1OcDNxMTQzYjVmR0ttOGxVV1J1RmxqVU1LaHd5ZENsd09Jb1BmVm9KM1pycjJDYnFMMnVaTDhSRVIzMkM0MTdzcEhQR0VKenc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI deepens Abu Dhabi foothold as Sam Altman inks deals spanning energy, government and investment",
+        "Abu Dhabi’s ADNOC, G42 sign deal with OpenAI as Sam Altman travels to UAE"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 37,
+      "signal": 34,
       "sources": 2,
       "ts": "2026-11-02T04:05:02.000Z",
       "writtenSources": 2,
@@ -29,13 +61,41 @@
         }
       ],
       "srcTitles": [
-        "South Korean President Lee Jae Myung vows $15.97B for AI, chips, physical AI, and data centers in the country's 2027 budget, nearly twice the 2026 amount (Reuters)",
+        "South Korean President Lee Jae Myung vows to dedicate ~$16B for AI, chips, physical AI, and data centers in the country's 2027 budget, ~2x the 2026 allocation (Reuters)",
         "South Korea to double spending on AI and chips in 2027"
       ]
     },
     {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-11-02T09:35:19.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "The agentic web is here",
+      "s": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he ",
+      "b": [
+        "technologyreview.com: The agentic web is here",
+        "technologyreview.com: The agentic web is here"
+      ],
+      "body": [
+        "technologyreview.com: In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web” : an internet designed to be navigated by autonomous software agents that could address our every need, without requiring us to muck about with browsers and search engines ourselves. To illustrate what this might look like, Berners-Lee and his colleagues told a story about a pair of siblings who use their agents to automatically research and book a physical therapy appointment for their mother, making sure it would be covered by insurance and fit their busy calendars. At the turn of the millennium, this vision seemed far-fetched: Google had only been online for a couple of years, and most people were still on dial-up connections. But a quarter-century on, the dream of autonomous software agents that use the internet and carry out tasks for us has finally been realized. New tools such as Meta’s blockbuster Muse agent and OpenAI’s Dots are logging record downloads and being given access to people’s bank accounts and email inboxes, and Anthropic launched a research preview of its own Claude Duet agent in October. And in a worrying incident, agents created by OpenAI broke free of their badly protected sandbox and caused havoc on the open web. Just as the rise of smartphones sparked the development of a more atomized and attention-grabbing internet, the advent of powerful AI systems heralds a new era: We’re facing not the semantic web but the agentic web. This new web is developing out of sight and in ways that might not be entirely within our control. As it grows, the agentic web will inevitably transform the human web—and whether the human web survives this transition is anyone’s guess. For Berners-Lee’s original vision to work, internet users would have had to annotate the pages they built with special tags so that a software age",
+        "technologyreview.com: The agentic web is here MIT Technology Review"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/"
+        }
+      ],
+      "srcTitles": [
+        "The agentic web is here",
+        "The agentic web is here"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 25,
+      "signal": 21,
       "sources": 2,
       "ts": "2026-11-01T23:08:00.000Z",
       "writtenSources": 2,
