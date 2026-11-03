@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 61,
+      "signal": 58,
       "sources": 2,
       "ts": "2026-11-03T03:30:00.000Z",
       "writtenSources": 2,
@@ -34,8 +34,72 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-11-03T09:48:32.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says",
+      "s": "Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says Reuters",
+      "b": [
+        "reuters.com: Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says",
+        "wsau.com: Google’s use of press by AI chatbot may infringe copyright rules, EU court adviser says"
+      ],
+      "body": [
+        "reuters.com: Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says Reuters",
+        "wsau.com: Google’s use of press by AI chatbot may infringe copyright rules, EU court adviser says WSAU"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3A5SlVKWVF6XzVHRldMWS1qd1FqWV9sVnF6RFJiMTIzd18wZUgtc1VtOXJabjY3LThCR045bFBrVzcyUmxJUDFWajYtX1l4RkVxY0xHTUZlRUFlR2dkcmtqOXI5MzIxMS16VEVBSE1JcExxbkJrVkk1S3NGa2g5WjhVZEJXczA3S0NUOVFudElESjBaMExucVBLQzRCLUJrVU9icU9fSkkyb1FoR2NfT29hT2JSbmhaMW9Z?oc=5"
+        },
+        {
+          "d": "wsau.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU05JaEx2MFdFV1ExaUtTbmdqeGVxMWNaWE9lR0dTMjNESGtFZHVGVFBGcG90ckRFbjFVV1NmaG9EQmdyOVZtbmRSSWUyRVZZVHRjdEFrWXpWNHA1Z1M1SkFBSUxuQTRucTVhZXl5ZU9EMEtNRTV4VS1GVkVidkNWazF2QmhLaVM5eTllLS1BUTd0RjNWSVZxdXNJV1Z6a24weEpqLXlwckJWWGpaX1RQbV9lOTU?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says",
+        "Google’s use of press by AI chatbot may infringe copyright rules, EU court adviser says"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 36,
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-11-03T08:28:11.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 (Kai Nicol-Schwarz/CNBC)",
+      "s": "Kai Nicol-Schwarz / CNBC : UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 Brookfield is ta",
+      "b": [
+        "techmeme.com: UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 (Kai Nicol-Schwarz/CNBC)",
+        "cnbc.com: Brookfield plans for a $27 billion AI data center at UK power station"
+      ],
+      "body": [
+        "techmeme.com: Kai Nicol-Schwarz / CNBC : UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 Brookfield is targeting a massive artificial intelligence data center in the north of England, as Europe scrambles to develop infrastructure",
+        "cnbc.com: Brookfield plans for a $27 billion AI data center at UK power station CNBC"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261103/p4#a261103p4"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzl3ZVM5cV9NUzBldS1OeUM1RkVtLUdNQ0dJM0g4eGJ2NTEyVURocFcwZkVlUkFWbVd6ZUx5dC1yRTVtSFczTG5qcTBLNW0tUVhXUTRpRGxHVWdJZUNWbFZuaFUydDN3SHNlX2E2M2J4RGFZN3ZWcGs3S053bVA3U0toTdIBiAFBVV95cUxQQzE3TVNBeTY0dkx5b1k1M21hVnZRM241R3hfR2NpejBLRHRPM1ZmQWROMnI3TUtvTDUwT3VJVE1jWm1STjVwcHNlNEdJdzg5b0JPVHc2ZG81Qmw2YXhMdlp6QVRwd3h5LVFTR3JobWkwNTFxaXBpRXpVRkU2a3hUVmhTblZkLXJS?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 (Kai Nicol-Schwarz/CNBC)",
+        "Brookfield plans for a $27 billion AI data center at UK power station"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 32,
       "sources": 2,
       "ts": "2026-11-02T23:13:53.000Z",
       "writtenSources": 2,
@@ -67,7 +131,57 @@
     },
     {
       "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-11-03T10:43:41.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How “reverse game theory” could keep AI agents in check",
+      "s": "A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety research",
+      "b": [
+        "technologyreview.com: How “reverse game theory” could keep AI agents in check"
+      ],
+      "body": [
+        "technologyreview.com: A new approach known as “reverse game theory” aims to create incentives for powerful AI models that make following the rules the most rational choice. As AI models become more capable, safety researchers are scrambling to ensure they are “aligned” with human desires—to make sure, in other words, that rogue agents don’t break the law, hack into unauthorized servers, or release poison gas into major cities and kill us all. Until now, this work has mostly focused on trying to peer into an AI’s “brain” to understand what it is “thinking,” or training models to hew to values that we hold dear. Claude, for instance, has its constitution —a sort of moral code. The trouble is, these techniques don’t seem to work particularly well: Models have been shown to deliberately underperform on tests, hide their intentions , and mislead their evaluators . Now some alignment researchers believe that reverse game theory, also known as mechanism design, might get better results. Where game theory tries to predict how rational actors will behave when given a particular set of rules, reverse game theory attempts to design rules that will elicit the kinds of behavior we want to encourage. An example of mechanism design in the real world might be the classic strategy for splitting a piece of cake in two: One person cuts the cake and the other gets the first choice of pieces. This incentivizes the cutter to make the pieces as even as possible. Other examples include surge pricing in ride-hailing apps, which encourages drivers to be available at busy times, and second-price auctions, where the winning bidder pays the price of the second-highest bid instead of the highest. Platforms use these auctions to sell online advertising because they encourage buyers to bid close to the maximum they are willing to pay. In AI, mechanism design starts from the premise that we may never be able to understand enough about the internal workings of frontier models to make sure they are aligned. This means we "
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/"
+        }
+      ],
+      "srcTitles": [
+        "How “reverse game theory” could keep AI agents in check"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 27,
+      "sources": 1,
+      "ts": "2026-11-03T08:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Heimstaden is changing residential real estate management with AI",
+      "s": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "b": [
+        "openai.com: Heimstaden is changing residential real estate management with AI"
+      ],
+      "body": [
+        "openai.com: Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/heimstaden"
+        }
+      ],
+      "srcTitles": [
+        "Heimstaden is changing residential real estate management with AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
       "sources": 1,
       "ts": "2026-11-03T04:18:47.000Z",
       "writtenSources": 1,
@@ -87,6 +201,7 @@
         }
       ],
       "srcTitles": [
+        "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
         "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test"
       ]
     }
