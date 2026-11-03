@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 82,
-      "sources": 6,
+      "signal": 78,
+      "sources": 5,
       "ts": "2026-11-03T15:25:47.000Z",
       "writtenSources": 6,
       "draft": true,
@@ -39,7 +39,7 @@
           "u": "https://www.techmeme.com/261103/p18#a261103p18"
         },
         {
-          "d": "+2"
+          "d": "+1"
         }
       ],
       "srcTitles": [
@@ -50,8 +50,97 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 60,
+      "sources": 2,
+      "ts": "2026-11-03T00:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "s": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+      "b": [
+        "openai.com: OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+        "techmeme.com: OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman (Mike Allen/Axios)"
+      ],
+      "body": [
+        "openai.com: Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
+        "techmeme.com: Mike Allen / Axios : OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman Jill Hazelbaker, Uber's president and chief corporate affairs officer, is moving to OpenAI in the new role of chief corporate affairs officer"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261103/p31#a261103p31"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+        "OpenAI hires Jill Hazelbaker, Uber's president and chief corporate affairs officer, as its new chief corporate affairs officer, reporting to Greg Brockman (Mike Allen/Axios)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-11-03T01:49:52.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Apple may try to increase revenue by doing something with third-party AI apps",
+      "s": "Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+      "b": [
+        "techcrunch.com: Apple may try to increase revenue by doing something with third-party AI apps",
+        "theverge.com: Apple starts giving Siri AI access to third-party apps"
+      ],
+      "body": [
+        "techcrunch.com: Apple hinted at ways that it could spur revenue through third-party \"opportunities\" during its Monday night earnings call.",
+        "theverge.com: Apple will now let Siri AI perform actions across third-party apps. As part of the iOS 27.3 update rolling out on Tuesday, Apple announced developers can now integrate Siri AI's new features in \"all apps,\" allowing the voice assistant to draw on a user's personal context, process natural language prompts, and use on-screen awareness to [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+        }
+      ],
+      "srcTitles": [
+        "Apple may try to increase revenue by doing something with third-party AI apps",
+        "Apple starts giving Siri AI access to third-party apps"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 50,
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-11-03T17:01:49.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Agentic cheminformatics with Google Antigravity",
+      "s": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "b": [
+        "deepmind.google: Agentic cheminformatics with Google Antigravity"
+      ],
+      "body": [
+        "deepmind.google: Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+        }
+      ],
+      "srcTitles": [
+        "Agentic cheminformatics with Google Antigravity"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
       "sources": 2,
       "ts": "2026-11-03T03:30:00.000Z",
       "writtenSources": 2,
@@ -83,64 +172,32 @@
     },
     {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
-      "ts": "2026-11-03T17:01:49.000Z",
+      "ts": "2026-11-03T08:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
-      "h": "Agentic cheminformatics with Google Antigravity",
-      "s": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "h": "How Cisco defends at machine speed with OpenAI",
+      "s": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
       "b": [
-        "deepmind.google: Agentic cheminformatics with Google Antigravity"
+        "openai.com: How Cisco defends at machine speed with OpenAI"
       ],
       "body": [
-        "deepmind.google: Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
+        "openai.com: Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses."
       ],
       "l": [
         {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+          "d": "openai.com",
+          "u": "https://openai.com/index/cisco-cyber"
         }
       ],
       "srcTitles": [
-        "Agentic cheminformatics with Google Antigravity"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 43,
-      "sources": 2,
-      "ts": "2026-11-03T09:48:32.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says",
-      "s": "Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says Reuters",
-      "b": [
-        "reuters.com: Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says",
-        "wsau.com: Google’s use of press by AI chatbot may infringe copyright rules, EU court adviser says"
-      ],
-      "body": [
-        "reuters.com: Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says Reuters",
-        "wsau.com: Google’s use of press by AI chatbot may infringe copyright rules, EU court adviser says WSAU"
-      ],
-      "l": [
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3A5SlVKWVF6XzVHRldMWS1qd1FqWV9sVnF6RFJiMTIzd18wZUgtc1VtOXJabjY3LThCR045bFBrVzcyUmxJUDFWajYtX1l4RkVxY0xHTUZlRUFlR2dkcmtqOXI5MzIxMS16VEVBSE1JcExxbkJrVkk1S3NGa2g5WjhVZEJXczA3S0NUOVFudElESjBaMExucVBLQzRCLUJrVU9icU9fSkkyb1FoR2NfT29hT2JSbmhaMW9Z?oc=5"
-        },
-        {
-          "d": "wsau.com",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU05JaEx2MFdFV1ExaUtTbmdqeGVxMWNaWE9lR0dTMjNESGtFZHVGVFBGcG90ckRFbjFVV1NmaG9EQmdyOVZtbmRSSWUyRVZZVHRjdEFrWXpWNHA1Z1M1SkFBSUxuQTRucTVhZXl5ZU9EMEtNRTV4VS1GVkVidkNWazF2QmhLaVM5eTllLS1BUTd0RjNWSVZxdXNJV1Z6a24weEpqLXlwckJWWGpaX1RQbV9lOTU?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says",
-        "Google’s use of press by AI chatbot may infringe copyright rules, EU court adviser says"
+        "How Cisco defends at machine speed with OpenAI"
       ]
     },
     {
       "cat": "funding",
-      "signal": 42,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-11-03T18:10:04.000Z",
       "writtenSources": 2,
@@ -172,7 +229,7 @@
     },
     {
       "cat": "models",
-      "signal": 42,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-11-03T18:00:00.000Z",
       "writtenSources": 2,
@@ -203,9 +260,41 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-11-03T09:48:32.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says",
+      "s": "Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says Reuters",
+      "b": [
+        "reuters.com: Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says",
+        "wsau.com: Google’s use of press by AI chatbot may infringe copyright rules, EU court adviser says"
+      ],
+      "body": [
+        "reuters.com: Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says Reuters",
+        "wsau.com: Google’s use of press by AI chatbot may infringe copyright rules, EU court adviser says WSAU"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3A5SlVKWVF6XzVHRldMWS1qd1FqWV9sVnF6RFJiMTIzd18wZUgtc1VtOXJabjY3LThCR045bFBrVzcyUmxJUDFWajYtX1l4RkVxY0xHTUZlRUFlR2dkcmtqOXI5MzIxMS16VEVBSE1JcExxbkJrVkk1S3NGa2g5WjhVZEJXczA3S0NUOVFudElESjBaMExucVBLQzRCLUJrVU9icU9fSkkyb1FoR2NfT29hT2JSbmhaMW9Z?oc=5"
+        },
+        {
+          "d": "wsau.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNU05JaEx2MFdFV1ExaUtTbmdqeGVxMWNaWE9lR0dTMjNESGtFZHVGVFBGcG90ckRFbjFVV1NmaG9EQmdyOVZtbmRSSWUyRVZZVHRjdEFrWXpWNHA1Z1M1SkFBSUxuQTRucTVhZXl5ZU9EMEtNRTV4VS1GVkVidkNWazF2QmhLaVM5eTllLS1BUTd0RjNWSVZxdXNJV1Z6a24weEpqLXlwckJWWGpaX1RQbV9lOTU?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Google AI chatbot's use of press items may infringe copyright rules, EU court adviser says",
+        "Google’s use of press by AI chatbot may infringe copyright rules, EU court adviser says"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 30,
-      "sources": 3,
+      "signal": 26,
+      "sources": 2,
       "ts": "2026-11-03T12:18:38.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -230,21 +319,16 @@
         {
           "d": "gjsentinel.com",
           "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOaGlaSHh6SzNRbmJvNWhtdWthVWtCbnRlMWkyaHZwLWwyanZCYTZXclVWWHJuVDh1UUdlNlY2d3lxUnBzUXNrYW53aEtBTjVLTU1Hc2xQcUVUYjNxQVpsZE1wM2M0MW5YM0l0UjIyUDVJazQwd0V2VzZjXzRJZy1YRUpuTHZIeHp2QzI4MC1pUXZaa3BHTFNzcHhONEtXWHJVNjFpeFlpVWJiRFpHbVZFWXNtLTl4M1ZZYXpqQ3hRR0NqRHpocUp6S3hCYW5xNlEzanZrb0pONDczcnJydV8tdzBnY3lITHRjRTVtTFBGQmlTd0tadDhNTGtJSVluR0NlajNmcW1rd08xenY2WVFSbkRXQk56bWJ1ekVaVjBuSdIBpAJBVV95cUxNMG1jQmxVNDlGYy1FazhKUTJINWQwQVdQc3ZDX3N5R1c0bFJFY3RpRlp5bjR3OFNIRThtS0M2STI5eU0wU3RUMXhxN1hpd2NOOXVsTnVNLXZlQ1Z5eTBuSm1JQVB5OFd0cjk1NEdYcjc3cmJwNzJZQVV2N1hGRVRhZGZsRzZtMHRIV2xOYUJNeVJlVDdSZk5GMnpmeEpzUWRKdmlDeUI5UDVEWVloTS1Od3RLUERHYlpYaUFRazh2bENwS0pzdlctRWR6VVFySXN5eVB0cUJYeWNpMUhjbEpmNkMzUDA0QUtOV19ybWo4dGVVTzJwclF5WDRzVGxGZGR6a0FLNHprSVdhcmh3ZURkWFJmQWdkZkEtcG1LbWdyQ0l5aGFR?oc=5"
-        },
-        {
-          "d": "eagletribune.com",
-          "u": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPT2xqb1E4UFBqREF4aVBlcEMzY01FYmVzSU9CMGR5TzRoekJORFRic0w4Z09QeVJ6WHdjRWZYV3ozRmhMV2kxVFQwdWFDZk85MEpUYnZ0RThmM2ZOa1dwWXRKWXYzMENHcWxDRDkwSk5FaHZvelczLTVDNVhQV1lzSjhPODF5V2d3UFdpMmtxNVhNSWhqYWFlblRfX3JDUXd6QTk5ZldtSWVMaUZXWFo0WVhMY241c1RuTjBSMGZRblZnY1docnJMN0lzLWxSMm93a1dNcjZ4VllYR2I1UEZVT2I2YldrcjdFTEFiXzdKek5jRXRZSm5zbXJjTDZlcDdITmxteDBqeG0tczNWZHo3TTVrblpyRUJpalBaS2JrcnM?oc=5"
         }
       ],
       "srcTitles": [
         "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’",
-        "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’",
-        "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’ - Eagle-Tribune"
+        "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’"
       ]
     },
     {
       "cat": "funding",
-      "signal": 29,
+      "signal": 25,
       "sources": 2,
       "ts": "2026-11-03T08:28:11.000Z",
       "writtenSources": 2,
@@ -272,38 +356,6 @@
       "srcTitles": [
         "UK energy company Drax partners with Brookfield and neocloud Radiant to develop an AI data center in North Yorkshire, targeting 100MW of capacity by Q1 2028 (Kai Nicol-Schwarz/CNBC)",
         "Brookfield plans for a $27 billion AI data center at UK power station"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 24,
-      "sources": 2,
-      "ts": "2026-11-02T23:13:53.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-      "s": "The one-year-old startup is now valued at $300 million.",
-      "b": [
-        "techcrunch.com: Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-        "techmeme.com: Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)"
-      ],
-      "body": [
-        "techcrunch.com: The one-year-old startup is now valued at $300 million.",
-        "techmeme.com: Marina Temkin / TechCrunch : Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation Whether developed by OpenAI, Anthropic, or built on open-source alternatives, current AI models share a critical limitation"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261102/p45#a261102p45"
-        }
-      ],
-      "srcTitles": [
-        "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
-        "Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)"
       ]
     },
     {
@@ -405,6 +457,38 @@
       "srcTitles": [
         "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
         "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 20,
+      "sources": 2,
+      "ts": "2026-11-02T23:13:53.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "s": "The one-year-old startup is now valued at $300 million.",
+      "b": [
+        "techcrunch.com: Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+        "techmeme.com: Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: The one-year-old startup is now valued at $300 million.",
+        "techmeme.com: Marina Temkin / TechCrunch : Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation Whether developed by OpenAI, Anthropic, or built on open-source alternatives, current AI models share a critical limitation"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261102/p45#a261102p45"
+        }
+      ],
+      "srcTitles": [
+        "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+        "Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)"
       ]
     }
   ]
