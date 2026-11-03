@@ -2,8 +2,40 @@
   "date": "2026-11-03",
   "stories": [
     {
+      "cat": "models",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-11-03T03:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "s": "Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+      "b": [
+        "techcrunch.com: Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+        "techmeme.com: Google expands Dreambeans to India, its first market outside the US, offering AI-generated visual stories from users' digital activity in 13 local languages (Jagmeet Singh/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Google's Dreambeans, its latest AI experiment, now supports 13 Indian languages.",
+        "techmeme.com: Jagmeet Singh / TechCrunch : Google expands Dreambeans to India, its first market outside the US, offering AI-generated visual stories from users' digital activity in 13 local languages Google has launched its experimental AI app Dreambeans in India, its first market outside the U.S., as the company looks to tap"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261102/p51#a261102p51"
+        }
+      ],
+      "srcTitles": [
+        "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+        "Google expands Dreambeans to India, its first market outside the US, offering AI-generated visual stories from users' digital activity in 13 local languages (Jagmeet Singh/TechCrunch)"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 39,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-11-02T23:13:53.000Z",
       "writtenSources": 2,
@@ -31,6 +63,31 @@
       "srcTitles": [
         "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
         "Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-11-03T04:18:47.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "s": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . At the end of September, President Trump signed an executive ",
+      "b": [
+        "technologyreview.com: Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test"
+      ],
+      "body": [
+        "technologyreview.com: This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been calling artificial intelligence as “Super Intelligence.” That term beat out other contenders, including “Extreme Intelligence” and “Supreme Intelligence,” offered by the president in a poll on X a couple of weeks earlier. Rebrands are, of course, now a White House tradition: Trump has changed names to project US dominance of certain bodies of water (the Gulf of America and Lake America), to signal new institutional priorities (Department of War), or simply to leave his mark on storied places (see the ongoing fight over renaming the Kennedy Center). The stated reason for this name change is that today’s AI systems “amplify human ingenuity” rather than merely “imitate” intelligence, and the government’s terminology should reflect that. But if this rebrand follows the pattern of others, its effects will extend beyond government. It will turn a choice of words into a political loyalty test: Those who use the new term demonstrate allegiance to the administration, and those who don’t become marks for attacks (recall that the Trump administration barred the Associated Press from some White House press events after the news outlet did not adopt the term “Gulf of America”). But most Americans go months without ever pondering what to call the major lake between New York and Canada. AI, on the other hand, is at the center of our national conversation and a technology two-thirds of Americans report interacting with multiple times a week. It might be the boldest rebrand yet. So one month in, who’s on board? Let’s start with the government itself. The term “Super Intelligence”—or simply “SI”—now appears more often on government solicitations, like a new request by Immigration and Custo"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/"
+        }
+      ],
+      "srcTitles": [
+        "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test"
       ]
     }
   ]
