@@ -1,4 +1,37 @@
 {
   "date": "2026-11-03",
-  "stories": []
+  "stories": [
+    {
+      "cat": "funding",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-11-02T23:13:53.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+      "s": "The one-year-old startup is now valued at $300 million.",
+      "b": [
+        "techcrunch.com: Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+        "techmeme.com: Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: The one-year-old startup is now valued at $300 million.",
+        "techmeme.com: Marina Temkin / TechCrunch : Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation Whether developed by OpenAI, Anthropic, or built on open-source alternatives, current AI models share a critical limitation"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261102/p45#a261102p45"
+        }
+      ],
+      "srcTitles": [
+        "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+        "Trajectory, which is developing AI model post-training tools for nontechnical customers, raised a $45M Series A led by Sequoia at a $300M valuation (Marina Temkin/TechCrunch)"
+      ]
+    }
+  ]
 }
