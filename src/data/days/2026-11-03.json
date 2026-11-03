@@ -2,8 +2,56 @@
   "date": "2026-11-03",
   "stories": [
     {
+      "cat": "products",
+      "signal": 82,
+      "sources": 6,
+      "ts": "2026-11-03T15:25:47.000Z",
+      "writtenSources": 6,
+      "draft": true,
+      "h": "Google will let schools disable its AI tools, but not without sacrificing Search",
+      "s": "Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+      "b": [
+        "techcrunch.com: Google will let schools disable its AI tools, but not without sacrificing Search",
+        "theverge.com: Google is entirely disabling Search in schools that don t want AI",
+        "arstechnica.com: Google will let schools skip AI tools, but they have to give up search, too"
+      ],
+      "body": [
+        "techcrunch.com: Schools choosing to restrict AI altogether will no longer be able to access Google Search, as AI features are now integrated into the search engine.",
+        "theverge.com: Google is completely turning off Search in schools that reject its AI features, the company told The New York Times. The decision was also shared in a broader education-related update from Google on Tuesday, saying that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search \"will be entirely off\" for K-12 student accounts [ ]",
+        "arstechnica.com: While Google is trying to move beyond Chromebooks , the ubiquity of these devices has made the company's education products huge in schools. Now, Google says it will let educators choose whether to allow its AI tools in the classroom. However, blocking AI tools also means giving up search, leaving schools with a difficult decision. Google's new overarching approach to AI in K-12 classrooms sounds good on the surface. After consulting educators, researchers, and lawmakers, Google has decided that schools using its education products will be opted out of AI tools by default. It will be up to administrators to manually enable them when these changes roll out in the coming months. When you look at what Google considers to be an AI tool, the nature of the Faustian bargain becomes clear. The affected products are Gemini, Gemini Notebook, Gemini in Classroom, and Google Search . There's no picking and choosing—you either allow all the AI or none of it. Read full article Comments",
+        "techmeme.com: New York Times : Google plans to make it easier to restrict its AI tools for students in early 2027, but says schools that block AI entirely will lose student access to Search Google is making it easier to restrict its A.I. tools for students. But schools that block A.I. entirely will lose student access to Google's search engine."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/03/google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261103/p18#a261103p18"
+        },
+        {
+          "d": "+2"
+        }
+      ],
+      "srcTitles": [
+        "Google will let schools disable its AI tools, but not without sacrificing Search",
+        "Google is entirely disabling Search in schools that don t want AI",
+        "Google will let schools skip AI tools, but they have to give up search, too",
+        "Google plans to make it easier to restrict its AI tools for students in early 2027, but says schools that block AI entirely will lose student access to Search (New York Times)"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 54,
+      "signal": 50,
       "sources": 2,
       "ts": "2026-11-03T03:30:00.000Z",
       "writtenSources": 2,
@@ -34,8 +82,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-11-03T17:01:49.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Agentic cheminformatics with Google Antigravity",
+      "s": "Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles.",
+      "b": [
+        "deepmind.google: Agentic cheminformatics with Google Antigravity"
+      ],
+      "body": [
+        "deepmind.google: Learn how Google Antigravity and our Cheminformatics Skills accelerate drug discovery workflows, search compounds, and propose novel rigidified macrocycles."
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/"
+        }
+      ],
+      "srcTitles": [
+        "Agentic cheminformatics with Google Antigravity"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 47,
+      "signal": 43,
       "sources": 2,
       "ts": "2026-11-03T09:48:32.000Z",
       "writtenSources": 2,
@@ -66,9 +139,73 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 42,
+      "sources": 2,
+      "ts": "2026-11-03T18:10:04.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI inference startup Fal doubles its valuation to $16B as demand surges",
+      "s": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+      "b": [
+        "techcrunch.com: AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "techmeme.com: AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; a source says it hit $800M in annualized revenue this year (Natasha Mascarenhas/Bloomberg)"
+      ],
+      "body": [
+        "techcrunch.com: The five-year-old startup raised a $1.3 billion round led by Bessemer.",
+        "techmeme.com: Natasha Mascarenhas / Bloomberg : AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; a source says it hit $800M in annualized revenue this year Fal, an AI inference startup that hosts image, video and audio models for creators and developers, has doubled its valuation to $16 billion in a new round of funding."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261103/p24#a261103p24"
+        }
+      ],
+      "srcTitles": [
+        "AI inference startup Fal doubles its valuation to $16B as demand surges",
+        "AI inference startup Fal raised $1.3B led by Bessemer at a $16B valuation, up from $8B in April; a source says it hit $800M in annualized revenue this year (Natasha Mascarenhas/Bloomberg)"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 37,
-      "sources": 5,
+      "signal": 42,
+      "sources": 2,
+      "ts": "2026-11-03T18:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Netflix s new AI Discover tab helps you find something to watch based on your mood",
+      "s": "The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+      "b": [
+        "techcrunch.com: Netflix s new AI Discover tab helps you find something to watch based on your mood",
+        "theverge.com: Netflix will show you themed recommendations through a new ‘AI Discover’ tab"
+      ],
+      "body": [
+        "techcrunch.com: The first experimental feature under the tab will allow users to get recommendations based on what they're currently in the mood for.",
+        "theverge.com: Netflix's TV app is getting a new \"AI Discover\" tab where the company will show experimental, AI-powered features to help you find new shows and movies to watch. The first of these experiments surfaces content based around themes, like \"Something Light,\" \"Family Movie Night,\" or \"Quick Watches.\" When you pick a theme, Netflix will show [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/03/netflixs-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your-mood/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/streaming/1025029/netflix-ai-discover-recommendations"
+        }
+      ],
+      "srcTitles": [
+        "Netflix s new AI Discover tab helps you find something to watch based on your mood",
+        "Netflix will show you themed recommendations through a new ‘AI Discover’ tab"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 3,
       "ts": "2026-11-03T12:18:38.000Z",
       "writtenSources": 5,
       "draft": true,
@@ -87,8 +224,8 @@
       ],
       "l": [
         {
-          "d": "starbeacon.com",
-          "u": "https://news.google.com/rss/articles/CBMingJBVV95cUxObmNvNFFZd1BSTHZlbERPNzNsbnlyX29lMldaUmFwb1pMcUViZ1c0RU1TSmxMNnM4OVlKVzQ4VkVFSEhBSnpfSW45NGxMbDlsYUMwMFA4NVpMVU1ZU3hVRTE2NG5zMlM2bUlGOV9PMjZrTkY4QW9lLXJiY1FvbzhNSGV1a2w3WngxTWFBT2d2QndQOVQxakljLVlsVlpMNEJNRWY4Vnl5QTlrengzSDBHekl2VG1nT2w3cjhqZnI2aTdHWW82SHYtREhLU0VFYzkyRi1xb3VtTHQxQU5iUktFaURKdlcwdFZKbjh4dEwwckJPcUhWWGc5TUNCMnlMM25oTkVldmg0QWx6a1NEM3JESjMwOXJ1S1A1bXBhMG5B?oc=5"
+          "d": "ottumwacourier.com",
+          "u": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPZldqc2tpTUpYa0g1aDd3V0pPUzZQdXF3bUwzbWRzOGVsbVhyUVdvS1dWTEIxTi0yZnZJeXFza2UteHBDZjhpTHJOS1FLbEQzcmoyaV91NWVaVElMMVpkODlCOUtOS1ZLYWlIVTFSYkl2TDYtNjIteElIOWJZTkFaZW9jNUxzaGF0RFZhb0pMTmFSUTR1bkN4UlhLV3BNOVk3THgzbHFFc3BUN3AzejF4ZVJRRFRQNVBVVU1feGZVUU44Nmx0dUdQbjhMcmkySjlYdUVKU1k2akFKNEp5X1MyOVB0VFl3V3Facm9WX0dHelp0eDBQTkZwN3A5eDhUeVRaaTIwYXRLU09XN19XR0lWTlRQUE0xcE15MnNaTnBwdnJzVkV1SjVXUFpIY0QyX01OS3RB?oc=5"
         },
         {
           "d": "gjsentinel.com",
@@ -97,25 +234,17 @@
         {
           "d": "eagletribune.com",
           "u": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPT2xqb1E4UFBqREF4aVBlcEMzY01FYmVzSU9CMGR5TzRoekJORFRic0w4Z09QeVJ6WHdjRWZYV3ozRmhMV2kxVFQwdWFDZk85MEpUYnZ0RThmM2ZOa1dwWXRKWXYzMENHcWxDRDkwSk5FaHZvelczLTVDNVhQV1lzSjhPODF5V2d3UFdpMmtxNVhNSWhqYWFlblRfX3JDUXd6QTk5ZldtSWVMaUZXWFo0WVhMY241c1RuTjBSMGZRblZnY1docnJMN0lzLWxSMm93a1dNcjZ4VllYR2I1UEZVT2I2YldrcjdFTEFiXzdKek5jRXRZSm5zbXJjTDZlcDdITmxteDBqeG0tczNWZHo3TTVrblpyRUJpalBaS2JrcnM?oc=5"
-        },
-        {
-          "d": "couriernews.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVUI2MnlfWDRkNndCTk9ENXl4Z1VwOUpaS3RRX1dLdVM4NWJpUzlWNHpLdndFc0p0blRnLUdzVGI0ekRpUkFzMVo4bllrcDJiYkNXb2o3b09HTEwwTm9odjI1UXMwWnpqd0NZY0hfbkd2TkR0N09tMDNvSjY4SFJYeFBjOFRHMHNBY3hoYXdLNkpHcXVySHhEelRHNVl4UExkR21PTnBSWUFpR1JPVDV3a0tIMzRMN2t1eWtLOGI5NGtTSExRMUxVYmoxb2s5LU9wTjVhN0FJc2UyZkJyaVdiOVZyaDIzSk9yUHlZbUNCNFdWQWVfSVZpTTZkaWJjMjZLR3dtLUVDX2tjMjFTX2FpcVJ3U0FQTEp3SFlaUG9FZ1V4QUpiSWZadw?oc=5"
-        },
-        {
-          "d": "+1"
         }
       ],
       "srcTitles": [
         "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’",
         "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’",
-        "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’ - Eagle-Tribune",
-        "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’"
+        "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’ - Eagle-Tribune"
       ]
     },
     {
       "cat": "funding",
-      "signal": 33,
+      "signal": 29,
       "sources": 2,
       "ts": "2026-11-03T08:28:11.000Z",
       "writtenSources": 2,
@@ -147,7 +276,7 @@
     },
     {
       "cat": "funding",
-      "signal": 28,
+      "signal": 24,
       "sources": 2,
       "ts": "2026-11-02T23:13:53.000Z",
       "writtenSources": 2,
@@ -179,7 +308,32 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-03T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Accelerating engineering for the physical world",
+      "s": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "b": [
+        "openai.com: Accelerating engineering for the physical world"
+      ],
+      "body": [
+        "openai.com: Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/accelerating-engineering-for-the-physical-world"
+        }
+      ],
+      "srcTitles": [
+        "Accelerating engineering for the physical world"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
       "sources": 1,
       "ts": "2026-11-03T10:43:41.000Z",
       "writtenSources": 1,
