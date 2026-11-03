@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 58,
+      "signal": 54,
       "sources": 2,
       "ts": "2026-11-03T03:30:00.000Z",
       "writtenSources": 2,
@@ -35,7 +35,7 @@
     },
     {
       "cat": "policy",
-      "signal": 51,
+      "signal": 47,
       "sources": 2,
       "ts": "2026-11-03T09:48:32.000Z",
       "writtenSources": 2,
@@ -66,8 +66,56 @@
       ]
     },
     {
-      "cat": "funding",
+      "cat": "models",
       "signal": 37,
+      "sources": 5,
+      "ts": "2026-11-03T12:18:38.000Z",
+      "writtenSources": 5,
+      "draft": true,
+      "h": "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’",
+      "s": "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’ Star Beacon",
+      "b": [
+        "starbeacon.com: Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’",
+        "gjsentinel.com: Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’",
+        "eagletribune.com: Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’ - Eagle-Tribune"
+      ],
+      "body": [
+        "starbeacon.com: Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’ Star Beacon",
+        "gjsentinel.com: Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’ The Grand Junction Daily Sentinel",
+        "eagletribune.com: Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’ Eagle-Tribune",
+        "couriernews.com: Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’ couriernews.com"
+      ],
+      "l": [
+        {
+          "d": "starbeacon.com",
+          "u": "https://news.google.com/rss/articles/CBMingJBVV95cUxObmNvNFFZd1BSTHZlbERPNzNsbnlyX29lMldaUmFwb1pMcUViZ1c0RU1TSmxMNnM4OVlKVzQ4VkVFSEhBSnpfSW45NGxMbDlsYUMwMFA4NVpMVU1ZU3hVRTE2NG5zMlM2bUlGOV9PMjZrTkY4QW9lLXJiY1FvbzhNSGV1a2w3WngxTWFBT2d2QndQOVQxakljLVlsVlpMNEJNRWY4Vnl5QTlrengzSDBHekl2VG1nT2w3cjhqZnI2aTdHWW82SHYtREhLU0VFYzkyRi1xb3VtTHQxQU5iUktFaURKdlcwdFZKbjh4dEwwckJPcUhWWGc5TUNCMnlMM25oTkVldmg0QWx6a1NEM3JESjMwOXJ1S1A1bXBhMG5B?oc=5"
+        },
+        {
+          "d": "gjsentinel.com",
+          "u": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOaGlaSHh6SzNRbmJvNWhtdWthVWtCbnRlMWkyaHZwLWwyanZCYTZXclVWWHJuVDh1UUdlNlY2d3lxUnBzUXNrYW53aEtBTjVLTU1Hc2xQcUVUYjNxQVpsZE1wM2M0MW5YM0l0UjIyUDVJazQwd0V2VzZjXzRJZy1YRUpuTHZIeHp2QzI4MC1pUXZaa3BHTFNzcHhONEtXWHJVNjFpeFlpVWJiRFpHbVZFWXNtLTl4M1ZZYXpqQ3hRR0NqRHpocUp6S3hCYW5xNlEzanZrb0pONDczcnJydV8tdzBnY3lITHRjRTVtTFBGQmlTd0tadDhNTGtJSVluR0NlajNmcW1rd08xenY2WVFSbkRXQk56bWJ1ekVaVjBuSdIBpAJBVV95cUxNMG1jQmxVNDlGYy1FazhKUTJINWQwQVdQc3ZDX3N5R1c0bFJFY3RpRlp5bjR3OFNIRThtS0M2STI5eU0wU3RUMXhxN1hpd2NOOXVsTnVNLXZlQ1Z5eTBuSm1JQVB5OFd0cjk1NEdYcjc3cmJwNzJZQVV2N1hGRVRhZGZsRzZtMHRIV2xOYUJNeVJlVDdSZk5GMnpmeEpzUWRKdmlDeUI5UDVEWVloTS1Od3RLUERHYlpYaUFRazh2bENwS0pzdlctRWR6VVFySXN5eVB0cUJYeWNpMUhjbEpmNkMzUDA0QUtOV19ybWo4dGVVTzJwclF5WDRzVGxGZGR6a0FLNHprSVdhcmh3ZURkWFJmQWdkZkEtcG1LbWdyQ0l5aGFR?oc=5"
+        },
+        {
+          "d": "eagletribune.com",
+          "u": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPT2xqb1E4UFBqREF4aVBlcEMzY01FYmVzSU9CMGR5TzRoekJORFRic0w4Z09QeVJ6WHdjRWZYV3ozRmhMV2kxVFQwdWFDZk85MEpUYnZ0RThmM2ZOa1dwWXRKWXYzMENHcWxDRDkwSk5FaHZvelczLTVDNVhQV1lzSjhPODF5V2d3UFdpMmtxNVhNSWhqYWFlblRfX3JDUXd6QTk5ZldtSWVMaUZXWFo0WVhMY241c1RuTjBSMGZRblZnY1docnJMN0lzLWxSMm93a1dNcjZ4VllYR2I1UEZVT2I2YldrcjdFTEFiXzdKek5jRXRZSm5zbXJjTDZlcDdITmxteDBqeG0tczNWZHo3TTVrblpyRUJpalBaS2JrcnM?oc=5"
+        },
+        {
+          "d": "couriernews.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOVUI2MnlfWDRkNndCTk9ENXl4Z1VwOUpaS3RRX1dLdVM4NWJpUzlWNHpLdndFc0p0blRnLUdzVGI0ekRpUkFzMVo4bllrcDJiYkNXb2o3b09HTEwwTm9odjI1UXMwWnpqd0NZY0hfbkd2TkR0N09tMDNvSjY4SFJYeFBjOFRHMHNBY3hoYXdLNkpHcXVySHhEelRHNVl4UExkR21PTnBSWUFpR1JPVDV3a0tIMzRMN2t1eWtLOGI5NGtTSExRMUxVYmoxb2s5LU9wTjVhN0FJc2UyZkJyaVdiOVZyaDIzSk9yUHlZbUNCNFdWQWVfSVZpTTZkaWJjMjZLR3dtLUVDX2tjMjFTX2FpcVJ3U0FQTEp3SFlaUG9FZ1V4QUpiSWZadw?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’",
+        "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’",
+        "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’ - Eagle-Tribune",
+        "Calvin Engen Explores the Intersection of Consciousness, Artificial Intelligence, and the Search for Meaning in ‘The Infinity Formula’"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 33,
       "sources": 2,
       "ts": "2026-11-03T08:28:11.000Z",
       "writtenSources": 2,
@@ -99,7 +147,7 @@
     },
     {
       "cat": "funding",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-11-02T23:13:53.000Z",
       "writtenSources": 2,
@@ -131,7 +179,7 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
       "ts": "2026-11-03T10:43:41.000Z",
       "writtenSources": 1,
@@ -156,7 +204,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-11-03T08:00:00.000Z",
       "writtenSources": 1,
