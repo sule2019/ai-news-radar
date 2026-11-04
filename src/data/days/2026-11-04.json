@@ -1,4 +1,112 @@
 {
   "date": "2026-11-04",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-11-04T14:30:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "s": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "b": [
+        "openai.com: OpenAI to acquire Pierre Computer Company, Inc."
+      ],
+      "body": [
+        "openai.com: OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/openai-to-acquire-pierre"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI to acquire Pierre Computer Company, Inc."
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-11-04T07:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "s": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "b": [
+        "openai.com: Daybreak Red is now available in AWS GovCloud (US-East)"
+      ],
+      "body": [
+        "openai.com: Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/daybreak-red-aws-govcloud"
+        }
+      ],
+      "srcTitles": [
+        "Daybreak Red is now available in AWS GovCloud (US-East)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-11-04T12:12:25.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Emirates SkyCargo launches AI Tech to move infrastructure powering Artificial Intelligence",
+      "s": "Emirates SkyCargo launches AI Tech to move infrastructure powering Artificial Intelligence AiThority",
+      "b": [
+        "aithority.com: Emirates SkyCargo launches AI Tech to move infrastructure powering Artificial Intelligence",
+        "tanzaniatimes.net: Emirates SkyCargo launches AI Tech to move infrastructure powering Artificial Intelligence"
+      ],
+      "body": [
+        "aithority.com: Emirates SkyCargo launches AI Tech to move infrastructure powering Artificial Intelligence AiThority",
+        "tanzaniatimes.net: Emirates SkyCargo launches AI Tech to move infrastructure powering Artificial Intelligence The Tanzania Times"
+      ],
+      "l": [
+        {
+          "d": "aithority.com",
+          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV0QxbWJqeWRHMnJ2QzNlRFNvclRTUFhMc1F4R1J1VjdYWkV3endyeTZtRHhCcFhuT1V5QXYyOE9RM1NVeDNkTzFUdl9aaDcwREhOWVpCanVicmxpXzQyOUUtQTRkUG13V195WHVFS1BQaVFQdjNQTy1FcFFodnN5RWZGOFBkWVN3Z0lhRE1vNkVNNk4wWDRjVk5YTEEwMXhYbi1KWnNCYXRlRmR2STAzTTlDeW5uS1pTbzE4ZDh5d3k3YTFpSHZxWEhB?oc=5"
+        },
+        {
+          "d": "tanzaniatimes.net",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY1BZTDFTZWE3TU9Nak1Jamc5aHpyUFpTbW0ySDhCUHFVN1lJelluWFlXMmNwRGpzamJZZ1JJSHVoU2VQWUZqTW5EZGRPbHhxWmNWQUlmQlI1V3lQb0llODEyZ3RFbnpxYVEtZGZ4TkwtdzJqc0ZocFlSZHdkN0gtbjlNekdrUTVSTVZZdmJhM1dLd3ZMVFIyZFdtYkx2cWtOdHVaTmZsWk5VRUNpQkc5WUREMXRUUmUy?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Emirates SkyCargo launches AI Tech to move infrastructure powering Artificial Intelligence",
+        "Emirates SkyCargo launches AI Tech to move infrastructure powering Artificial Intelligence"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-11-04T13:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Securing the agentic enterprise with data lineage",
+      "s": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks",
+      "b": [
+        "technologyreview.com: Securing the agentic enterprise with data lineage"
+      ],
+      "body": [
+        "technologyreview.com: A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No human checks either handoff. When it’s discovered that the proposal includes unapproved, confidential, and sensitive information, no one can trace where the problematic data entered the workflow or how it spread across systems, files, and agents. DOWNLOAD THE REPORT This scenario illustrates why AI governance needs to evolve, rapidly and dynamically. As more enterprises begin to use agentic AI in daily workflows, they’re realizing that they must manage more than static files; they must manage moving and fragmented data that is continuously ingested, copied, summarized, transformed, reused, and redistributed in new forms. In short, AI security isn’t a tool problem; it’s a data visibility problem. Consequently, traditional security approaches built solely around applications, systems, networks, or endpoints are no longer sufficient. Securing agentic AI at scale requires understanding how data moves. Teams, therefore, need to establish data lineage in order to effectively manage governance, accountability, and trust across human, agentic, and hybrid workflows. Download the report This content was produced by Insights, MIT Technology Review’s custom content arm, not its editorial staff. It was researched and written by humans, with any AI tools that may have been used limited to production processes under human oversight."
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/"
+        }
+      ],
+      "srcTitles": [
+        "Securing the agentic enterprise with data lineage"
+      ]
+    }
+  ]
 }
