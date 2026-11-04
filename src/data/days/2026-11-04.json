@@ -2,8 +2,40 @@
   "date": "2026-11-04",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-11-04T18:50:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Meta acquires AI coding startup Conductor",
+      "s": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+      "b": [
+        "techcrunch.com: Meta acquires AI coding startup Conductor",
+        "techmeme.com: Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs (Madison Mills/Axios)"
+      ],
+      "body": [
+        "techcrunch.com: The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
+        "techmeme.com: Madison Mills / Axios : Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs Meta has acquired Conductor, an AI coding startup that lets software engineers manage multiple coding agents simultaneously"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261104/p46#a261104p46"
+        }
+      ],
+      "srcTitles": [
+        "Meta acquires AI coding startup Conductor",
+        "Meta acquires Conductor, which lets developers run multiple AI coding agents in parallel; CEO Charlie Holtz says the team will join Meta Superintelligence Labs (Madison Mills/Axios)"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-11-04T14:30:00.000Z",
       "writtenSources": 1,
@@ -53,7 +85,96 @@
     },
     {
       "cat": "products",
-      "signal": 29,
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-11-04T18:26:07.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Nothing CEO says company s mysterious AI-first device is dropping next month",
+      "s": "While it's not yet clear what kind of product the smart phone startup is cooking up, Nothing's CEO said that product is designed to leverage AI for productivity gains.",
+      "b": [
+        "techcrunch.com: Nothing CEO says company s mysterious AI-first device is dropping next month",
+        "theverge.com: Nothing teases a screen-free AI device ahead of launch next month"
+      ],
+      "body": [
+        "techcrunch.com: While it's not yet clear what kind of product the smart phone startup is cooking up, Nothing's CEO said that product is designed to leverage AI for productivity gains.",
+        "theverge.com: Nothing CEO Carl Pei said in a post on X that the company's launching its first AI device in December. That's just a little over a year after Pei announced plans for \"AI-native\" devices and an AI operating system. He didn't give away much about what exactly the new device is, only that one feature [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1026586/nothing-screen-free-ai-device-carl-pei"
+        }
+      ],
+      "srcTitles": [
+        "Nothing CEO says company s mysterious AI-first device is dropping next month",
+        "Nothing teases a screen-free AI device ahead of launch next month"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-11-04T16:05:39.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Data centers lost the midterms",
+      "s": "Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles ",
+      "b": [
+        "theverge.com: Data centers lost the midterms",
+        "cbsnews.com: Midterm elections could zap the data center buildout, experts say"
+      ],
+      "body": [
+        "theverge.com: Data center developers are poised to face a more restrictive building environment after voters across the country voted in candidates who favor moratoriums and ballot measures that put more obstacles on their expansion, delivering a stinging blow to a central pillar of the AI industry. Of voters polled by NBC News on Election Day, 76 [ ]",
+        "cbsnews.com: Midterm elections could zap the data center buildout, experts say CBS News"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/policy/1026365/data-centers-midterms-results"
+        },
+        {
+          "d": "cbsnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1h1WndNRHlPQVRFdUZ4TlRpR0lHX0R3SExsN0lQQkcwN2J1R3h5SEdWcVVqdkJwUjZ5Z19qTXl5YkJuSjNKSG9TWEI3QXYzbXpSN2RtNDBSYUIzUGJxQTJLaHVTX3FqT3V2b0p1bW8zMzVBM3dWa1ZDU2JSdHVDZWVFTF9Gc1FUNXlUOVJhSk4yU1c1WVYwenV0Mm1OX2RkN3lYdkV2NDk?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Data centers lost the midterms",
+        "Midterm elections could zap the data center buildout, experts say"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-11-04T18:50:55.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+      "s": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat J",
+      "b": [
+        "technologyreview.com: Texas was the new epicenter of the AI data center buildout. That might be kaput."
+      ],
+      "body": [
+        "technologyreview.com: Texas is the fastest-growing data center market in the US and ground zero for Big Tech s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for governor against the Republican incumbent, Greg Abbott. At the state level, Democrats will take control of the Texas House for the first time in 24 years. Talarico and Hinojosa made data centers a central issue, discussing them constantly on the campaign trail. Even before the polls closed, insiders in the data center industry noticed that the times were changing. At the industry s DCD conference in Ashburn, Virginia, on Tuesday, panelists lamented that Texas had been the easiest place to build for years—until September. That s when Abbott, perhaps seeing the increasingly bipartisan distaste for these facilities , began changing course himself. Developers said the governor’s office had stopped responding to their emails. On September 21, Abbott directed a key state regulator to halt data center permits. Many panelists at the conference were expecting this to mean that existing projects might be slowed and new ones could be halted altogether. The governor-elect indeed seems eager to do that. Hinojosa supported tax breaks for data centers in 2023 as a way to boost construction jobs, but during her campaign she began pushing for a full-fledged moratorium. That would be a problem for the hyperscalers of Big Tech, which have ambitious plans for AI training facilities in the state. The scale of projects already underway in Texas is massive. The Stargate Frontier data center in Shackelford County is projected to serve 1,820 megawatts—about as much as the nation’s largest data center, SpaceX’s Colossus 2 in Tennessee, and more than twice as much as the largest data center currently operating in Texas. Nexus Hubbard, also under construction and intended mostly to serve Anthropic, has a planne"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/"
+        }
+      ],
+      "srcTitles": [
+        "Texas was the new epicenter of the AI data center buildout. That might be kaput."
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 26,
       "sources": 2,
       "ts": "2026-11-04T12:12:25.000Z",
       "writtenSources": 2,
@@ -85,7 +206,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-11-04T13:00:00.000Z",
       "writtenSources": 1,
