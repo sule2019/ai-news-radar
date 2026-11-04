@@ -34,6 +34,38 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-11-04T16:13:08.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending",
+      "s": "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending Bloomberg.com",
+      "b": [
+        "bloomberg.com: Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending",
+        "appleworld.today: Apple cuts employee budgets for artificial intelligence usage"
+      ],
+      "body": [
+        "bloomberg.com: Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending Bloomberg.com",
+        "appleworld.today: Apple cuts employee budgets for artificial intelligence usage Apple World Today"
+      ],
+      "l": [
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlpwLUc1MHh4TnNOVk9HY3BLVUlLS2ZwTjRIUEtqb0VKa2JYZG13VTc2TzdZZ2dlOUUtTmlZYTdmeGJIUVVpcWFBeS1PWGQ5X3FFS3lBMzJ0WjJsRjMzWmpaRl9KRUZzSWRpTHVaQ3lUeU5wNnM0S3dZLTVaMWo3RWNnMmZqcTBCY3NOajRvSk13UmM4R2VBUjNtT2w0NU96aU9FelhEZ1BJcHNWTExwYVRNczg?oc=5"
+        },
+        {
+          "d": "appleworld.today",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd2FabHFUZ2RrSzFrWDJPYjdvbnhYb01wWDR6aTA0b0oyQjlfWmdaNy1XUW81TGxWVXk4UmFqVmlCSktNakJyS2lYZDFndHdQN0RBUlpYejRwLVZPeDN4RFBzTU5ITUxaVHJSLWZwUDRWbXFEQ0ZZanZHOWg0NGhGbWVBWDdTNTNmV25mM3RoTWNKejV0MnVRM1RRWQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Apple Cuts Internal AI Usage Budgets in Move to Reduce Spending",
+        "Apple cuts employee budgets for artificial intelligence usage"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 46,
       "sources": 1,
@@ -84,6 +116,31 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-11-04T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "s": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
+      "b": [
+        "openai.com: DevRev delivers autonomous self-service with GPT-6.1 Sol"
+      ],
+      "body": [
+        "openai.com: DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/devrev-enterprise-self-service"
+        }
+      ],
+      "srcTitles": [
+        "DevRev delivers autonomous self-service with GPT-6.1 Sol"
+      ]
+    },
+    {
       "cat": "products",
       "signal": 39,
       "sources": 2,
@@ -117,7 +174,7 @@
     },
     {
       "cat": "models",
-      "signal": 34,
+      "signal": 30,
       "sources": 2,
       "ts": "2026-11-04T16:05:39.000Z",
       "writtenSources": 2,
@@ -227,6 +284,31 @@
       ],
       "srcTitles": [
         "Securing the agentic enterprise with data lineage"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-04T08:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "A thousand fewer paths to root",
+      "s": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "b": [
+        "openai.com: A thousand fewer paths to root"
+      ],
+      "body": [
+        "openai.com: OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/a-thousand-fewer-paths-to-root"
+        }
+      ],
+      "srcTitles": [
+        "A thousand fewer paths to root"
       ]
     }
   ]
