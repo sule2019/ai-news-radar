@@ -2,8 +2,138 @@
   "date": "2026-11-05",
   "stories": [
     {
+      "cat": "products",
+      "signal": 67,
+      "sources": 3,
+      "ts": "2026-11-05T14:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Aina s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+      "s": "Aina's ring can also take calls and help you dictate notes on your Mac.",
+      "b": [
+        "techcrunch.com: Aina s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+        "wired.com: Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+        "techmeme.com: Aina, which raised $5.5M, launches an \"AI ring\" with a screen, joystick, and mic to let users talk to their AI agents, take notes, control Apple TV, and more (Ivan Mehta/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Aina's ring can also take calls and help you dictate notes on your Mac.",
+        "wired.com: The startup Aina bets you won’t need to rely on your phone to control virtual assistants. It’s making a smart ring that lets you control the actions of your autonomous agents with one tap.",
+        "techmeme.com: Ivan Mehta / TechCrunch : Aina, which raised $5.5M, launches an AI ring with a screen, joystick, and mic to let users talk to their AI agents, take notes, control Apple TV, and more Hardware startup Aina released a smart ring today that features a screen, a joystick, and a mic so that you can talk to your agents and take notes."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/aina-smart-ring/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261105/p38#a261105p38"
+        }
+      ],
+      "srcTitles": [
+        "Aina s smart ring has a screen, a joystick, and a mic so you can talk to AI agents",
+        "Exclusive: Aina’s Smart Ring Wants to Be a Remote Control for Your AI Agent",
+        "Aina, which raised $5.5M, launches an \"AI ring\" with a screen, joystick, and mic to let users talk to their AI agents, take notes, control Apple TV, and more (Ivan Mehta/TechCrunch)"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 51,
+      "signal": 65,
+      "sources": 2,
+      "ts": "2026-11-05T17:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "s": "Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing.",
+      "b": [
+        "blog.google: Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "blog.google: Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
+      ],
+      "body": [
+        "blog.google: Gemini Omni 1.2 Flash brings native 15-second video generation and editing, stronger consistency, and 30% lower pricing."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+        }
+      ],
+      "srcTitles": [
+        "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+        "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-11-05T18:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Claude can now analyze your spending with its new Personal Finance tool",
+      "s": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "b": [
+        "techcrunch.com: Claude can now analyze your spending with its new Personal Finance tool",
+        "techmeme.com: Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends (Radhika Rajkumar/ZDNET)"
+      ],
+      "body": [
+        "techcrunch.com: With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+        "techmeme.com: Radhika Rajkumar / ZDNET : Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends Anthropic has released what appears to be its answer to ChatGPT Finances. ZDNET's key takeaways"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261105/p44#a261105p44"
+        }
+      ],
+      "srcTitles": [
+        "Claude can now analyze your spending with its new Personal Finance tool",
+        "Anthropic launches Personal Finance in Claude, letting users connect bank and credit card accounts via Plaid with read-only access to analyze spending trends (Radhika Rajkumar/ZDNET)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 47,
+      "sources": 2,
+      "ts": "2026-11-05T15:45:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Mercedes-Benz rolls out conversational models that run directly on its cars instead of the cloud through a partnership with MIT spinout Liquid AI (Isabelle Bousquette/Wall Street Journal)",
+      "s": "Isabelle Bousquette / Wall Street Journal : Mercedes-Benz rolls out conversational models that run directly on its cars instead of the cloud through a partnership with MIT spinout Liquid AI The automa",
+      "b": [
+        "techmeme.com: Mercedes-Benz rolls out conversational models that run directly on its cars instead of the cloud through a partnership with MIT spinout Liquid AI (Isabelle Bousquette/Wall Street Journal)",
+        "pymnts.com: Mercedes Hopes to Woo Motorists With In-Car Conversational AI"
+      ],
+      "body": [
+        "techmeme.com: Isabelle Bousquette / Wall Street Journal : Mercedes-Benz rolls out conversational models that run directly on its cars instead of the cloud through a partnership with MIT spinout Liquid AI The automaker is working with Liquid AI, a startup that spun out of MIT, to run AI models directly in the car, rather than the cloud",
+        "pymnts.com: Mercedes Hopes to Woo Motorists With In-Car Conversational AI PYMNTS.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261105/p32#a261105p32"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYXU1dF9PRXV2TFVqeFJBeWVPUk83S2t6TlNiY3JiVzhBRmNLOFZOQ1ZPaEtUeVpKVmZSLWxPb2lvb2xULVlIU3Z1ZlI3V1ZTS0RsbVptLUNWT2s5dTR5X0dSWWJyNU1BUi1fc0FVcnI0Q2lwZmFoQTlLeThtRzdKVnBOZGhKWk1QMTNhN1JkS3NkV3M1QmtwX2N1UzNWRlFqN1lwQ2k2bVhfaFZHZDVHRlJFc2VfbFIyYno4?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Mercedes-Benz rolls out conversational models that run directly on its cars instead of the cloud through a partnership with MIT spinout Liquid AI (Isabelle Bousquette/Wall Street Journal)",
+        "Mercedes Hopes to Woo Motorists With In-Car Conversational AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 47,
       "sources": 2,
       "ts": "2026-11-05T00:00:00.000Z",
       "writtenSources": 2,
@@ -31,6 +161,211 @@
       "srcTitles": [
         "Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content (Mark Stenberg/Adweek)",
         "Anthropic Strikes Its First Licensing Deal, With the AP, for Election Coverage"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-11-05T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
+      "s": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
+      "b": [
+        "openai.com: GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents"
+      ],
+      "body": [
+        "openai.com: Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-gpt-6-cyber"
+        }
+      ],
+      "srcTitles": [
+        "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 4,
+      "ts": "2026-11-05T10:13:48.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "Responsible use of artificial intelligence",
+      "s": "Responsible use of artificial intelligence Nature",
+      "b": [
+        "nature.com: Responsible use of artificial intelligence",
+        "mackinac.org: Michigan can use artificial intelligence to improve lives",
+        "employmentlawworldview.com: When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US)"
+      ],
+      "body": [
+        "nature.com: Responsible use of artificial intelligence Nature",
+        "mackinac.org: Michigan can use artificial intelligence to improve lives Mackinac Center",
+        "employmentlawworldview.com: When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US) Employment Law Worldview",
+        "romania-insider.com: Social Monitor: Romania ranks last in EU for artificial intelligence use Romania Insider"
+      ],
+      "l": [
+        {
+          "d": "nature.com",
+          "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1MWNlUnlUc3NDTjV5dk5zQUZHYkU4aVk1N1B0ZFAxRVYyR3V4T2ttS2x2SEZhdXNfSnBrZElyM2J0OVJCUEdqX0pRaHhFa25MY2FxOGpodVZEX2ltYnVR?oc=5"
+        },
+        {
+          "d": "mackinac.org",
+          "u": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEZKNXRhRHlsaDNzd21DZF9XcERZN2ZaRkZHSHp1UTNZZHVIbDFCbE85emFWaFkxMjN0MWFvOHBoRGpWUWNoMFI4VllsdUI5THczRVZpc0RETWtIeXlzcVAyVVBaSlI5ZW5fR3JJS1FlU29vREV4Nk82Unh2MTBpcGk2YUo2NEp6S3BhYXJsNjlLbzRTNWMw?oc=5"
+        },
+        {
+          "d": "employmentlawworldview.com",
+          "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTU5Jb0Jta1hQdDNxTmtGc3ZBN0FfNmJDX3g5SGFFa1Z6c0hmUEh1WGVIeXRvaHFLS0sxNHJrcm9CWjU5UG1tWTNiQXU5U1Zsemh2SVA2dGFyX05WamtneC1JMGh0MkdlaDJHU0EzbnFFQWh4U2JwUGlnYnZBdWVBT0JRZzhUd1VRRjlfT2dqSjc2VFZfRzlGdEd1QmpmejhtLXBtZHhZNVk4MTlCOHdFY2RmV2dhQUJaV3JxTG9VZjZLTjV2eEsyTkRrdU5BaVBnU2c?oc=5"
+        },
+        {
+          "d": "romania-insider.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOWZIS3ZiNkM5LUhDSHJxSl8zak8tZGdCRGlNTldiVGZZRnVoQ2dKTFdUdVpuX25jdkpnYXp2R3BsZEZVNUhueDVROEZYYmV4dWdnbnM2cGdCSDF1bFIzR0R4d1U2SG5aSFVqOFdtT1Y4SnN1YXNZaUVFQ2I0eXZORVliUTMxZ3dMcEQ4Qm01R3lVdGdpcU9keHJnY2tfWms0WFE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Responsible use of artificial intelligence",
+        "Michigan can use artificial intelligence to improve lives",
+        "When Use of Artificial Intelligence Conflicts With Employees’ Sincerely Held Religious Beliefs (US)",
+        "Social Monitor: Romania ranks last in EU for artificial intelligence use"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-11-05T13:30:16.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Congresswoman calls for artificial superintelligence ban after Democrats' seismic midterm sweep — demands regulation of 'out of control' industry and pause on advanced AI",
+      "s": "Congresswoman calls for artificial superintelligence ban after Democrats' seismic midterm sweep — demands regulation of 'out of control' industry and pause on advanced AI Tom's Hardware",
+      "b": [
+        "tomshardware.com: Congresswoman calls for artificial superintelligence ban after Democrats' seismic midterm sweep — demands regulation of 'out of control' industry and pause on advanced AI",
+        "reddit.com: Industry to academia [D]",
+        "futurism.com: Tech Industry in Denial That the Midterms Show Everyone Hates Them"
+      ],
+      "body": [
+        "tomshardware.com: Congresswoman calls for artificial superintelligence ban after Democrats' seismic midterm sweep — demands regulation of 'out of control' industry and pause on advanced AI Tom's Hardware",
+        "reddit.com: I have always had the desire to move to academia but I am not exactly sure how the process or profile building for academia works in general. Yeah, surely, I can ask AI and get answers but I don’t have much confidence in that . I did my PhD from a mid-tier school. My research focus was mostly on LLM model efficiency and some RL work (meta learning and bandit ) . The research direction I went with was totally out of my professor’s scope . As a result, I don’t have grant writing or funding related experience or don’t have those innovative idea of how do you create a research program or more specifically a niche sort of a program which I feel is required for Tenure track positions. During my PhD , I was able to hit top 3 ML( ICML,ICLR,Neurips )and top 3 NLP conferences ( ACL,EMNLP,NAACl) (in case having paper helps) . Being a grad student dictating his research, it went a bit scattered and not much concentrated on one research topic . For that I ended up joining a FAANG but still I want to get back to academia. I am looking for advice on how to build up my profile for academia and if it is possible to get into the top 150 US schools as tenure-track faculty and all . Thanks for your time ! submitted by /u/malakulmout347 [link] [comments]",
+        "futurism.com: Tech Industry in Denial That the Midterms Show Everyone Hates Them Futurism"
+      ],
+      "l": [
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPWG9WZEdKLTRqb3hpWkpMWG8wbWp6Ry1QX01xTmF1RFJta2VqRTdZWHlDc2VucElHYTZid3k5Q3JkN1dQQ3RvbkhCc2p6c0lvWXA2RkdfbkNmNmtBZ2c2N0hVOS1Xc0tBaTJRWHJuR2E4T2dxSEhKbzBNZEczSVhyN2ZtNzZSR0NPMTlIcW1TMkVDa09xbWxfYVRKTVd3andabHpKQWVialNuTFlIMkpCMERPT1h6dHpRaWEzLXptWW9zTmlZbVVOZjZ0alpuSHVjQldCUGNTelhjOXNISG5EQVJRRVNZc0tBQndIOUtKV3ZSeEdkZWkwNGdmY204SkJkZ2Q0Wks4TVNxR0JnUzRJUE5ubEZLNjZTZTNkdDVEcFBfc1BMRC14UmdNaTI0bENuZk5kd0p2THNYckNCdEZoZFhLS3gyZmJrNTNKQzdiR1hVQQ?oc=5"
+        },
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1xol3vf/industry_to_academia_d/"
+        },
+        {
+          "d": "futurism.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORzBoQXpQdl9INWRPbTdOVXU2bl9iRjJVTTV0dHM5bXJkXy04YUk1MlM4dnBYQlFmbEd5S0x2eWo1NnNBY2p3R2U1VklTWDFPSUppYlMtTG1LM1VlenBHVFB0WG5hc0xRTzd1b0lKZXNqYlZyVVdHaDY3MDBYRThkRTduVQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Congresswoman calls for artificial superintelligence ban after Democrats' seismic midterm sweep — demands regulation of 'out of control' industry and pause on advanced AI",
+        "Industry to academia [D]",
+        "Tech Industry in Denial That the Midterms Show Everyone Hates Them"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-05T12:23:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The real test for the artificial-intelligence buildout is what happens in 2028, analysts say",
+      "s": "The real test for the artificial-intelligence buildout is what happens in 2028, analysts say MarketWatch",
+      "b": [
+        "marketwatch.com: The real test for the artificial-intelligence buildout is what happens in 2028, analysts say",
+        "moomoo.com: The Real Test for the Artificial Intelligence Build-out Is What Happens in 2028, Analysts Say"
+      ],
+      "body": [
+        "marketwatch.com: The real test for the artificial-intelligence buildout is what happens in 2028, analysts say MarketWatch",
+        "moomoo.com: The Real Test for the Artificial Intelligence Build-out Is What Happens in 2028, Analysts Say Moomoo"
+      ],
+      "l": [
+        {
+          "d": "marketwatch.com",
+          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMGZBcGxPaGptOGFleTZTbVo4SU5QMEJxWExVRy0tY2p0WVUtLUJLNmRjNnl3VHdNa19fcXBzNGo3NGdTbm5mMUEydkJEME1JZ1dycndTdDZ3VkJrd3lfU29nMjFUeklyS0ZMdExJV2dMR096NTFLZzZUSVU0TUVPQWVpNDNLdG1oaTNXS0RzRnkwSUU3d0VPb2pmQzZoUTRFY2dLR2hIbGlmRzZXcVhmSGlKSVFUSWNuU3kyQmFNZDJsMVF5anVzdHFCUkRBbjJh?oc=5"
+        },
+        {
+          "d": "moomoo.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZkpKbG9yV21jczNiNTJrcERhSGVMM01MTHMtTko3a2VpX194OVVKVE8tZ2VfMHpCbnRpX3FPVkJtbWVsZmxNT1NPQWRqWWJBbEFXT3NIYm1nUFBTSGtJSmRqQ1U5YTRLWUNmX09fSnJ2M3hmbjR3WlkwZU8xM3QxX0lxb0NwU3Q1T3o2VnlxdGNKcEk5ZnRseWl4NndnLURrQUMxUQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The real test for the artificial-intelligence buildout is what happens in 2028, analysts say",
+        "The Real Test for the Artificial Intelligence Build-out Is What Happens in 2028, Analysts Say"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-05T11:06:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Wait Is Over: 2 Historic Artificial Intelligence (AI) Stock Splits Were Just Announced",
+      "s": "The Wait Is Over: 2 Historic Artificial Intelligence (AI) Stock Splits Were Just Announced The Motley Fool",
+      "b": [
+        "fool.com: The Wait Is Over: 2 Historic Artificial Intelligence (AI) Stock Splits Were Just Announced",
+        "theglobeandmail.com: The Wait Is Over: 2 Historic Artificial Intelligence (AI) Stock Splits Were Just Announced"
+      ],
+      "body": [
+        "fool.com: The Wait Is Over: 2 Historic Artificial Intelligence (AI) Stock Splits Were Just Announced The Motley Fool",
+        "theglobeandmail.com: The Wait Is Over: 2 Historic Artificial Intelligence (AI) Stock Splits Were Just Announced The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbzh4VXh0Mml6VkI2SkVZXzJEWndqSUlVblBBaWI3bjFYYXZoRTRkUEp1SlFMTjZkdzJ4YXJjQVVBbFIxSVlHQkRJTVdTWi1SSzJSS3dsNkhSN0FvYVFQWFlhSklQRUk4d1g3M3FtNzhTRWpvN0ZlejJTLXFXMkRubTI3NzItWU03dFo5b2NVbkxQemV1MFJNRGxMTUhRTmJjYTNXNjFsaUdfMjB6Nk83aXpzOERwMnlHcVgtUmg0cXp4WUhzVGpjbGtn?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMihAJBVV95cUxObW0xczk5Sk9ocTlYdC1aNWI0Vy1BZFh1S3JWSkNwNWVHNVBsX3NhRTVfRF80eURTMlE1UlFmVWZQNjBfMEVIR0VDblZtbG1DMDNZR05pdUdVYkNiekNfUTlDdy0wd3V1WGZ6b1FrTFg1NzRNQU03dXlLSlFUSGV6b2ZSMEZKVHBCVUdvdTlIV2txSGxuM3I4YnBGVktCZGo1QUZkaTJQMFFhSl92ZXZSN1NMZkpJOFNmY3JFdkhOVlhaU1Jtb2N5REh2VUZWbUZmTXYtRzF1SHdYRWhMTDZ1TXl4WmVSMUF3MXJfZTUtQ01DVU9Za2tuMmlxS1hKUFh6UnpkZA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The Wait Is Over: 2 Historic Artificial Intelligence (AI) Stock Splits Were Just Announced",
+        "The Wait Is Over: 2 Historic Artificial Intelligence (AI) Stock Splits Were Just Announced"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-05T09:01:56.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "US voters back data center restrictions amid backlash over artificial intelligence expansion",
+      "s": "US voters back data center restrictions amid backlash over artificial intelligence expansion Anadolu Ajansı",
+      "b": [
+        "aa.com.tr: US voters back data center restrictions amid backlash over artificial intelligence expansion",
+        "facebook.com: After two years of little oversight, voters slammed the brakes on A.I. data centers on Tuesday, electing Democratic candidates who have promised to protect individuals from threats posed by artificial intelligence."
+      ],
+      "body": [
+        "aa.com.tr: US voters back data center restrictions amid backlash over artificial intelligence expansion Anadolu Ajansı",
+        "facebook.com: After two years of little oversight, voters slammed the brakes on A.I. data centers on Tuesday, electing Democratic candidates who have promised to protect individuals from threats posed by artificial intelligence. Facebook"
+      ],
+      "l": [
+        {
+          "d": "aa.com.tr",
+          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZm9HV0F5Tlg2ZUd3MDNLVnhTUnBRTWtWMzRGWjI3d0h6M3cwRWZlSkY0ZW5kSjZ6NDZtcXpoTi1WbVpxcms1LXU5anVvZ1JtT3U0WHBSZkt6cVBpb1hVRTMteG5lLTNIdFpMTVEwSHlyMVE1OEtFbXozeDg1VEdHRDNEVDAzSUVjOVZxQ1QzTDNWQmNYLU9HTmNFU01XLUJYbnN4Q1J4dUJ0VWE0ZFdQeUgtVnJWZkgtWklpUVFxXy1WUm1Va0VHRm93?oc=5"
+        },
+        {
+          "d": "facebook.com",
+          "u": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOU3BVMWNialVxLUp2OHRMNlZwSEhadGthdklMQjZWU25CZ2lxTXBYR282REtWLVRlLTB2eE5iQzFjMjhqd0ZmNTBYSU1yd0lFeWt0TmY4SW9mNGhLdGw5WFF5amIySkh6S2MwSFlfMFltTzBJbEN0UDBET3NfRndiU2N2NzVjNmdMR2xvT2FFSUdKNEtSZGRVMi1uTG5OcFRCWVFQQ2s5Nldsam9OeXVjMnJIQTdvU3ZrRTZ6VHdTUmJiQ0FGc2UwVlp4QnRxcWxIU1RJ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "US voters back data center restrictions amid backlash over artificial intelligence expansion",
+        "After two years of little oversight, voters slammed the brakes on A.I. data centers on Tuesday, electing Democratic candidates who have promised to protect individuals from threats posed by artificial intelligence."
       ]
     },
     {
