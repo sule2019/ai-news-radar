@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 59,
+      "signal": 55,
       "sources": 2,
       "ts": "2026-11-05T00:00:00.000Z",
       "writtenSources": 2,
@@ -31,6 +31,31 @@
       "srcTitles": [
         "Sources: Anthropic and AP struck a licensing deal just before the midterms, marking the first time Anthropic paid a digital news publisher to license content (Mark Stenberg/Adweek)",
         "Anthropic Strikes Its First Licensing Deal, With the AP, for Election Coverage"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-05T02:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Setting a new standard for responsible AI infrastructure",
+      "s": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development.",
+      "b": [
+        "openai.com: Setting a new standard for responsible AI infrastructure"
+      ],
+      "body": [
+        "openai.com: OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastructure development."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure"
+        }
+      ],
+      "srcTitles": [
+        "Setting a new standard for responsible AI infrastructure"
       ]
     }
   ]
