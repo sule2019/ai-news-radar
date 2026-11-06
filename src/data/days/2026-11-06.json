@@ -3,6 +3,38 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-11-06T14:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+      "s": "Amazon said that the feature will roll out to millions of users in coming weeks.",
+      "b": [
+        "techcrunch.com: After blocking Muse, Amazon now lets users text Alexa to help them shop",
+        "theverge.com: Amazon will let you text Alexa your shopping list"
+      ],
+      "body": [
+        "techcrunch.com: Amazon said that the feature will roll out to millions of users in coming weeks.",
+        "theverge.com: Amazon is adding a new feature to Alexa for Shopping that allows customers to purchase items by texting the AI shopping assistant. Users can describe the products they're looking to buy and/or provide a photograph of the item, and Alexa for Shopping will search for matching results in Amazon listings, text back with recommendations, and [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1028587/amazon-alexa-shopping-ai-text-orders"
+        }
+      ],
+      "srcTitles": [
+        "After blocking Muse, Amazon now lets users text Alexa to help them shop",
+        "Amazon will let you text Alexa your shopping list"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 36,
       "sources": 2,
       "ts": "2026-11-05T22:40:55.000Z",
@@ -35,7 +67,7 @@
     },
     {
       "cat": "products",
-      "signal": 36,
+      "signal": 32,
       "sources": 2,
       "ts": "2026-11-05T22:04:13.000Z",
       "writtenSources": 2,
@@ -63,6 +95,171 @@
       "srcTitles": [
         "US DOJ combines AI efforts with new Super Intelligence Task Force",
         "DOJ Launches ‘Super Intelligence’ Task Force Because Apparently We’re Still Doing This"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-11-06T01:26:42.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "‘Total bloodbath’: Democrats‘ sweeping wins rock Wall Street over AI fears",
+      "s": "‘Total bloodbath’: Democrats‘ sweeping wins rock Wall Street over AI fears Politico",
+      "b": [
+        "politico.com: ‘Total bloodbath’: Democrats‘ sweeping wins rock Wall Street over AI fears",
+        "lemonde.fr: On Wall Street, Democrats' midterm victory bursts the AI bubble",
+        "bloomberg.com: Wall Street Peers Into Abyss of AI Trade as Midterms Expose Risk"
+      ],
+      "body": [
+        "politico.com: ‘Total bloodbath’: Democrats‘ sweeping wins rock Wall Street over AI fears Politico",
+        "lemonde.fr: On Wall Street, Democrats' midterm victory bursts the AI bubble Le Monde.fr",
+        "bloomberg.com: Wall Street Peers Into Abyss of AI Trade as Midterms Expose Risk Bloomberg.com"
+      ],
+      "l": [
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMGg1V00tZTJORndpUWZOcGY4cThWaW1qSHhDa0pFZ2ZXbDJ5cm9lYXNaeWZOcG96UkNla3FuY2dzN2Q4bDB0aFFZcW5DNU9MOFR1Qy1hM25BaE9DUFVmQU5wZXRjTlR6Tldydmk1UWhTand1V2xiVmxRNU1lOGZFckVrYm4yWk94a09J?oc=5"
+        },
+        {
+          "d": "lemonde.fr",
+          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdGQ1b1JCY21WYUJnVHpoUklyVUtMLVMzNk5aX2l3ZUd4T0RSWFU3MWJ0RnRneHF4THJXOXQtMlNsOS1QcUZzd05DTTg4Mmthem5meUxTVGJsSlFZQ0U1OFc2Mjk0SDdFZkF3VXgtTTZXc3NlMUZUYUdUaWpGaUprNVByMjl2LTA5T1ItcHBLQnRNUXVESnJScTVDdFE0Rm5kanJFUzAwZnZ5emc1SjFBX1RwOXJvQnV5cTNQd25fOWZvRVRqMjNSVGVB?oc=5"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSHRneVBqUEM0WkQ4V0lWUWxfaC1hb2RxWlUwSm50bGlHZjdJSUxrX1RFeHRXWkFVd09FY0ZLX1JtcEJYeTIxZm1BTGUwd1ppZDNHV3ljakFSYVJuS1o2M2FvNVlIRFpXdjZ3Z1F3XzBMSmUxTjZIbmpaQzFZNTZCTWNhLURtWk94dE14cWExNTNOdk51M1BwejBkQURucDZJYnF0cWVxYklZR3BtU3pOSDVwbGlwUQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "‘Total bloodbath’: Democrats‘ sweeping wins rock Wall Street over AI fears",
+        "On Wall Street, Democrats' midterm victory bursts the AI bubble",
+        "Wall Street Peers Into Abyss of AI Trade as Midterms Expose Risk"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-06T05:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Can an AI ‘Co-Scientist’ Accelerate Cancer Research?",
+      "s": "Can an AI ‘Co-Scientist’ Accelerate Cancer Research? Harvard Medical School",
+      "b": [
+        "hms.harvard.edu: Can an AI ‘Co-Scientist’ Accelerate Cancer Research?",
+        "arxiv.org: MIND: AI Co-Scientist for Material Research"
+      ],
+      "body": [
+        "hms.harvard.edu: Can an AI ‘Co-Scientist’ Accelerate Cancer Research? Harvard Medical School",
+        "arxiv.org: arXiv:2604.13699v2 Announce Type: replace-cross Abstract: Large language models (LLMs) have enabled agentic AI systems for scientific discovery, but most approaches remain limited to textbased reasoning without automated experimental verification. We propose MIND, an LLM-driven framework for automated hypothesis validation in materials research. MIND organizes the scientific discovery process into hypothesis refinement, experimentation, and debate-based validation within a multi-agent pipeline. For experimental verification, the system integrates Machine Learning Interatomic Potentials, particularly SevenNet-Omni, enabling scalable in-silico experiments. We also provide a web-based user interface for automated hypothesis testing. The modular design allows additional experimental modules to be integrated, making the framework adaptable to broader scientific workflows. The code is available at: https://github.com/IMMS-Ewha/MIND, and a demonstration video at: https://youtu.be/lqiFe1OQzN4."
+      ],
+      "l": [
+        {
+          "d": "hms.harvard.edu",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTUxPbi1qYy0wWWtZbGV5NUlCLUpLbndHZ2plZW40ajBNVzQyU3Mzcng4cF92c3BLbUkzT0M5d0NZMkwzSjBCajhkNS1wY3ktaGlfZHdObURXWUJab2pVdXpnbW1leGp5ZlRNTWlsOTRWQkY4OGN6SjB1c0dNclI0LQ?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2604.13699"
+        }
+      ],
+      "srcTitles": [
+        "Can an AI ‘Co-Scientist’ Accelerate Cancer Research?",
+        "MIND: AI Co-Scientist for Material Research"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-06T00:44:42.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "ICLR 2027 Reviews are out [D]",
+      "s": "How did it go? I will start: 3/3/2 submitted by /u/mr_carlduke [link] [comments]",
+      "b": [
+        "reddit.com: ICLR 2027 Reviews are out [D]",
+        "reddit.com: ICLR 2027 Review Scores [N]",
+        "reddit.com: ICLR Review [D]"
+      ],
+      "body": [
+        "reddit.com: How did it go? I will start: 3/3/2 submitted by /u/mr_carlduke [link] [comments]",
+        "reddit.com: submitted by /u/No-Lab4175 [link] [comments]",
+        "reddit.com: About to be released. Anybody got them so far ? I have two submissions #35k+ 50k+, waiting. submitted by /u/Invariant_n_Cauchy [link] [comments]",
+        "arxiv.org: arXiv:2611.06950v1 Announce Type: cross Abstract: Continuous integration and AI-assisted review spend the same budget on every commit, although few commits introduce bugs. We study KG-AST, which scores each commit risk from git history and code-graph features before heavy tests or AI review run, so the budget goes to the riskiest commits first, and which hands the AI reviewer only a graph slice around the change. On 155 open-source projects in 11 languages, a single cross-language model trained on other projects ranks commits so that heavy testing of the riskiest 20% covers 49-64% of bug-introducing commits depending on the language, against 20% for random selection and 40-55% for testing the biggest change first. Every language beats the biggest-change baseline, by 3.8 to 13.2 points. In 20 Java projects the gain at a 20% budget is 15.1 points (64.6% vs 49.5%, 95% interval +11.6 to +18.4), and the model wins in 19 of the 20 projects. About twelve training projects suffice; richer features, tuning and cleaner labels did not help. An AI reviewer that sees only a commit's diff finds 26% of later-fixed defects exactly (32% with graph context), and about half of its findings that did not match a later fix were judged real by independent AI judges. A static call-graph selector runs about 8% of a test suite while including a test written for the fix in 85% of 67 fix commits. The Poincare embedding used in our retrieval work adds nothing measurable here: commit-risk AUC, bug review and severity ranking are unchanged or worse. The labels are noisy and the budget metric assumes a heavy test catches the bug it covers; no CI minutes were measured."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1xpc9sh/iclr_2027_reviews_are_out_d/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2611.06950"
+        }
+      ],
+      "srcTitles": [
+        "ICLR 2027 Reviews are out [D]",
+        "ICLR 2027 Review Scores [N]",
+        "ICLR Review [D]",
+        "KG-AST for Cheaper CI/CD: Budgeted Test Selection and AI Bug Review"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-05T23:44:09.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Tech Rout Wipes Out $2.5 Trillion, With AI Investors Anticipating Heavier Scrutiny From Dems",
+      "s": "Tech Rout Wipes Out $2.5 Trillion, With AI Investors Anticipating Heavier Scrutiny From Dems Gizmodo",
+      "b": [
+        "gizmodo.com: Tech Rout Wipes Out $2.5 Trillion, With AI Investors Anticipating Heavier Scrutiny From Dems",
+        "nytimes.com: After a $2.5 Trillion Wipeout, Tech Investors Brace for More Pain"
+      ],
+      "body": [
+        "gizmodo.com: Tech Rout Wipes Out $2.5 Trillion, With AI Investors Anticipating Heavier Scrutiny From Dems Gizmodo",
+        "nytimes.com: After a $2.5 Trillion Wipeout, Tech Investors Brace for More Pain The New York Times"
+      ],
+      "l": [
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUt5OGFJR1FqOXMzUmNzd2s2UWxjeXFpRGlmbkdwRXpJby1vVmdLNnhzRG43b0JXY3ctdW94OFdFYzJuRERNZE9KUU9DcGNrMHU0SUhPbnZrRzQzV3B1Ym1xX0RlNThRRE5xRlB1eERPekpLUzMwclhtSTUyWTNtQ2xLNnVjUHUycmhCUjNsR2hlMTVkSFhiRGxNNVBGVXRNTHJYOWdidUlkYkhNRnVWZQ?oc=5"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNV0RtZTA3ajR1V0lZM093OFhQclhEZDByU25PY3VRM3NOcW1BUi1oajYzVjY0d3FRckx6Rk1UZW1qRlcycEZkVHJWV050clFWNlN5eDBNOTI2Tk83NXRLMHFZdVk1MWtWdklKQl80MXZQcVpWRHcwT0o5SkFpakhHMjFKTTdQOTg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Tech Rout Wipes Out $2.5 Trillion, With AI Investors Anticipating Heavier Scrutiny From Dems",
+        "After a $2.5 Trillion Wipeout, Tech Investors Brace for More Pain"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-06T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "I watched a humanoid robot clean my apartment. It felt like a taste of the future.",
+      "s": "I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post ab",
+      "b": [
+        "technologyreview.com: I watched a humanoid robot clean my apartment. It felt like a taste of the future."
+      ],
+      "body": [
+        "technologyreview.com: I’m not the sort of person who typically pays for a house cleaner. I’m too frugal, and I kind of enjoy putting on a podcast and going to town on my tub with a Magic Eraser. But when I saw an X post about a new humanoid-robot cleaning service in San Francisco, I immediately signed up for the waitlist. I wanted my apartment to feel like The Jetsons , even if just for an hour. I was also motivated by journalistic interest. In order to ensure an authentic experience, I didn’t tell Tau Robotics, the startup behind the X post, that I was a journalist—though I did use my real name, so it’s possible someone looked me up. Tau’s long-term goal is to make autonomous cleaning robots a reality, but they’re not quite there yet: For now, the robots are piloted remotely by humans, who watch what’s going on via cameras mounted in the robots’ heads and wrists. As the robots clean, they collect data that Tau will use to train up their more independent descendants. Every counter successfully wiped and T-shirt successfully folded will help the models that power the robots learn to do better on the next go-round. Because this data is so valuable to Tau, the company charges less for cleaning than one might expect for such a cutting-edge product. At the time I booked, Tau was offering $30 for an hourlong cleaning with a single robot; now the charge is $60 per weekly cleaning with two robots, or $100 for a one-time visit. But even at the cheaper rate of $30 per hour, Tau’s robots aren’t a great bargain. They are thorough but slow, so if you, like me, are tempted to stand around watching them for their entire visit, it would probably be a better use of your time to just take care of the cleaning yourself. But the robots are physically capable of cleaning, and they’re undeniably cute. Tau has armed each four-and-a-half-foot-tall robot with a 3D-printed “head” with antennae that allow it to communicate with Tau’s headquarters, as well as two 3D-printed claw “hands” (the more humanlike alternat"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/"
+        }
+      ],
+      "srcTitles": [
+        "I watched a humanoid robot clean my apartment. It felt like a taste of the future."
       ]
     }
   ]
