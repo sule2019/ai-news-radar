@@ -3,7 +3,54 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 61,
+      "signal": 63,
+      "sources": 5,
+      "ts": "2026-11-06T10:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Big Tech lost big in the 2026 election",
+      "s": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data cente",
+      "b": [
+        "theverge.com: Big Tech lost big in the 2026 election",
+        "politico.com: How Big Tech Lost the Midterms",
+        "bbc.com: Global tech stocks plunge as US midterms add to AI slowdown fears"
+      ],
+      "body": [
+        "theverge.com: On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David [ ]",
+        "politico.com: How Big Tech Lost the Midterms Politico",
+        "bbc.com: Global tech stocks plunge as US midterms add to AI slowdown fears BBC"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmEySUJ0aE1vd1N5bWF3TFRPWGVLNmRVQnhXaUZQTWRjWHZIa0tIR2Q4VXh3LWxIOXd0cDVFVTNkVFhwQmtVS2F1dzVDNVU1QnF0bHVGNDVlSEV4QnpRX0pMSG0yUTJNU1BZZFFEUXhRdm96VVd2MUFSQ0ExN0JKRWVhdFE4WDBXYVlRWVdLU19JUEdHQ1BlMENlVEtZalh1azZN?oc=5"
+        },
+        {
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNX3NGMHFJQlQwNk4yNzFPblZsOHRFS0FBcmc0b3JxbGRoSnUzUC00WGctejhmNllYa094VGFmMHJrSWYyaUhBRlFERkdKbktXSmRkcWhhc21JVUp5Z29kbFVtTE11YjZnc3ZkZU5jM3BvbmRqUVVyUDBveF9OTmJXd1poLVI1LVhlRUVfUjhzczh2b2t3cnZuTUc4UDExWXFmVWlQZ2R4MHVQaGllbnljdlR2UQ?oc=5"
+        },
+        {
+          "d": "bbc.com",
+          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdkJGRE8yWFZFWXBDYzA4WXRyM1doblZVak9PRjFMNGszT1NCSEx0UEQ1QWduQjlvZ1Bnd21qcEc5MDU3cjRxRXFtTV8xd3BPdURJaENhUDdUMms?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "Big Tech lost big in the 2026 election",
+        "How Big Tech Lost the Midterms",
+        "AI data centers took a beating in the midterm elections. A reckoning may be ahead for tech giants",
+        "Global tech stocks plunge as US midterms add to AI slowdown fears"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 58,
       "sources": 2,
       "ts": "2026-11-06T14:00:00.000Z",
       "writtenSources": 2,
@@ -36,7 +83,7 @@
     {
       "cat": "models",
       "signal": 51,
-      "sources": 36,
+      "sources": 35,
       "ts": "2026-11-06T01:26:42.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -54,69 +101,87 @@
       ],
       "l": [
         {
-          "d": "yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSnE1d0pNdlVnYVFPU2dhX0pHMzFPWmsteG1WbFJqdWVVRnBNbUdLYUw5bzVVRWQ3MndRYXRlUmlBSTNxTzJNWkpzWWNaWjBvTGc5SFMtNTdyS3U4YW5QVnZxbmFkSFdxOFdTQ0lhV2o5VjBwbkROUlcySUY5TWdYMTR5ZS15SFZsUGFqdVF6RldocTItalE?oc=5"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjZ4RWJiRVZPeUdvemVDcHVpZHRTWUNkWnRXTzI3aERJZWl6NHVBaExrWUo5Sy14dExReUhjeWFzYnhnWHBvSzdOVmhpUV9aemlfaE4wYmxHeng5Ykl2Vm5YZVdkTUZYRlFqNXVRd0FxVGR3djNrenJPcU1qcG8tZWxDUzEwMi10Ti1EbUF4Y2VESlF4ZWFlbV9WNkVaWk8y?oc=5"
         },
         {
           "d": "huntingdondailynews.com",
           "u": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON2ZWNEVlZ2c5TDZvb1F4VDBUa0dEckxCTjh6ZVF5SlBTTWtEdnB2c1N3N3VDNXZuZHhsMDFlV3FfalNoS092dy1VMHpJbFNWbHdOekpCQzNDNlNpaEZPMmF4SGluYnBRMTJkdVVPUWpySEQ4N0NvOEVmVDg1eWFhNTRMTHBDSTVmSEhyQkdXTlN4OGZ3QWFMLWo0c2xmQlQ1bGtqekFUSmp4OHA0LVZmTG1hWkNSbGJrZFdCcTdDODdhWXBIYTltWXM0dU5PZw?oc=5"
         },
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcjZ4RWJiRVZPeUdvemVDcHVpZHRTWUNkWnRXTzI3aERJZWl6NHVBaExrWUo5Sy14dExReUhjeWFzYnhnWHBvSzdOVmhpUV9aemlfaE4wYmxHeng5Ykl2Vm5YZVdkTUZYRlFqNXVRd0FxVGR3djNrenJPcU1qcG8tZWxDUzEwMi10Ti1EbUF4Y2VESlF4ZWFlbV9WNkVaWk8y?oc=5"
+          "d": "nbcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQRXlNZzFDNDc1dHRFN05zeTVQOVF2TEZGVWhEcmt3SlRaSWhQcTdNbDAwVGZCZHRnTDdPTHBORVRheER2bmNYRkdYa2FocVE0aW1pbVRZRElFYkJyWFZHd0VMX2xhTV9QM0dxM3BRNVQzUXRSejhjQUhFRHMzdkg3YUF4UmlvZ0JiZUtrLTByc2hlMzN1ZUpkeGppUktEcGFXSC1yZmFKbVZMY3QyQ2IxVE1NTVp3Zw?oc=5"
         },
         {
-          "d": "securitytoday.com",
-          "u": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNlZHVXhmVmhwZVZYNFNIVXMtVHZxYzBRX2k2WFF2ckJIMjdyaTdkTFNUTEZGWE9EREYxdXJYbjc4ZEpWaGd0ZDNBOGNMa1Brb1Y2WlhOUlVacXZUUFA2RHVSNE5OYnZDdTdTdS0wdlhrcEFKUmlUODhzSlUtc3lHSEhkcjRRd2NkanFPRTdzMEtwN2ZwOTY2eVc1NDI2UXM0djBEUUV3V3ZGNF9sVWVSYnFhcWRZeHIyS0hoRw?oc=5"
+          "d": "firehouse.com",
+          "u": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOczczamwxaDk2NVJRUmd1N2szSEFsUU1scmFwYU91RmZtdEpnYy1rb1NLSGF3YmpaZXRtTkVJWUR4OTJ3V2s5dXhPaWs4S2pSSzhaaFBMZ0RLTldqUXRwTTRKQjE2ODh4SzI4VGw5SUZMNVZ6OWRTUTN5a2lxT3hnV3Fhc2h4dkNKTE1PMXdUY1AycWd5RkZvTmhRaktHLXA2MHBpZzVXLVoxam1hdDI2QzRwTENVaU5ySnJHNkRZT1hwajVIZ2ZIM1R1cmtESzJJN21QSU93TjBzaHk1VE90NkdIX28?oc=5"
         },
         {
-          "d": "+32"
+          "d": "+31"
         }
       ],
       "srcTitles": [
-        "Kansas Board of Education set to vote on artificial intelligence policy, discuss elementary recess policies",
-        "Artificial Intelligence in JVHS",
         "Prediction: Wall Street Has the Post-Midterm Artificial Intelligence (AI) Trade Completely Wrong",
-        "Three Charged In Massive Artificial Intelligence Impersonation Scheme"
+        "Artificial Intelligence in JVHS",
+        "Watch live: Stock market reacts amid concerns about artificial intelligence spending",
+        "Did Artificial Intelligence Solve the Fire Department Recruitment Conundrum?"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 47,
+      "sources": 2,
+      "ts": "2026-11-06T09:54:51.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "3 charged with using AI to commit $129 million in fraud",
+      "s": "3 charged with using AI to commit $129 million in fraud upi",
+      "b": [
+        "upi.com: 3 charged with using AI to commit $129 million in fraud",
+        "abcnews.com: 3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million - ABC News"
+      ],
+      "body": [
+        "upi.com: 3 charged with using AI to commit $129 million in fraud upi",
+        "abcnews.com: 3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million ABC News - Breaking News, Latest News and Videos"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261106/p17#a261106p17"
+        },
+        {
+          "d": "nbcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcnlYNEQ4eG9Qd0ZUVUFNV0pzOVdtVm1GVWpDWlA1R0VnZXFwelRhLTd5R1MtM05tQzdrUGszbWprS1YxZWYtSEdzOU5IVTlnNE1PWC1RaTBkQTNSbVZYa3VVdnloYUU0bENLMFZPWWtVZDhZQVlFazVUNjBTNFZtTUdJVFZ2Y3UwUjBhVGxqSWdxdHNMaTN1VEU2MzZWdDYwMnlVSk1iMTFIalNPVl9SNVpYUkxBVWx2?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The US DOJ indicts three foreign nationals for allegedly using AI to impersonate CEOs and attorneys at major international law firms in a $129M+ fraud scheme (Rebecca Cohen/NBC News)",
+        "3 foreign nationals allegedly used AI to mimic CEOs in $129M scheme, DOJ says"
       ]
     },
     {
       "cat": "models",
-      "signal": 37,
-      "sources": 3,
-      "ts": "2026-11-06T10:00:00.000Z",
-      "writtenSources": 3,
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-11-06T08:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "Big Tech lost big in the 2026 election",
-      "s": "On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data cente",
+      "h": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "s": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
       "b": [
-        "theverge.com: Big Tech lost big in the 2026 election",
-        "politico.com: How Big Tech Lost the Midterms",
-        "bbc.com: Global tech stocks plunge as US midterms add to AI slowdown fears"
+        "openai.com: Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
       ],
       "body": [
-        "theverge.com: On Tuesday, millions of American voters went to the polls and voted overwhelmingly for Democrats and against AI. The fight against Big Tech is about to come roaring back, and the fight over data centers is looking even harder for the folks trying to build them. On this episode of The Vergecast, Nilay and David [ ]",
-        "politico.com: How Big Tech Lost the Midterms Politico",
-        "bbc.com: Global tech stocks plunge as US midterms add to AI slowdown fears BBC"
+        "openai.com: OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI."
       ],
       "l": [
         {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/podcast/1028731/2026-midterms-tech-ai-vergecast"
-        },
-        {
-          "d": "politico.com",
-          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmEySUJ0aE1vd1N5bWF3TFRPWGVLNmRVQnhXaUZQTWRjWHZIa0tIR2Q4VXh3LWxIOXd0cDVFVTNkVFhwQmtVS2F1dzVDNVU1QnF0bHVGNDVlSEV4QnpRX0pMSG0yUTJNU1BZZFFEUXhRdm96VVd2MUFSQ0ExN0JKRWVhdFE4WDBXYVlRWVdLU19JUEdHQ1BlMENlVEtZalh1azZN?oc=5"
-        },
-        {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XdkJGRE8yWFZFWXBDYzA4WXRyM1doblZVak9PRjFMNGszT1NCSEx0UEQ1QWduQjlvZ1Bnd21qcEc5MDU3cjRxRXFtTV8xd3BPdURJaENhUDdUMms?oc=5"
+          "d": "openai.com",
+          "u": "https://openai.com/index/partnering-with-hacktron"
         }
       ],
       "srcTitles": [
-        "Big Tech lost big in the 2026 election",
-        "How Big Tech Lost the Midterms",
-        "Global tech stocks plunge as US midterms add to AI slowdown fears"
+        "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems"
       ]
     },
     {
@@ -149,70 +214,6 @@
       "srcTitles": [
         "Airbnb says it s launching an AI travel agent in the first half of 2027",
         "Airbnb is working on an AI travel agent"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 28,
-      "sources": 2,
-      "ts": "2026-11-05T22:04:13.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "US DOJ combines AI efforts with new Super Intelligence Task Force",
-      "s": "US DOJ combines AI efforts with new Super Intelligence Task Force MLex",
-      "b": [
-        "mlex.com: US DOJ combines AI efforts with new Super Intelligence Task Force",
-        "gizmodo.com: DOJ Launches ‘Super Intelligence’ Task Force Because Apparently We’re Still Doing This"
-      ],
-      "body": [
-        "mlex.com: US DOJ combines AI efforts with new Super Intelligence Task Force MLex",
-        "gizmodo.com: DOJ Launches ‘Super Intelligence’ Task Force Because Apparently We’re Still Doing This Gizmodo"
-      ],
-      "l": [
-        {
-          "d": "mlex.com",
-          "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTNZRnR6UWNDOHBCVHo5S3d3SG5wdlItLVhoZEN3UE45ZUZLcW1CdWJrVmZwUUxQZzVhU2RxU3dyeWs1Zk1tdlplQ29oakUtTVJkNXVQNS04QnJwMVRLMXM3cXRYY1duZU9JbTlranhnZVltbS1wVWhlN1BhYk13bUlnMHlEWDUyaE5NdmFBa2FrcFNPVkIzQmduSmkxNlVpUUlULV81N1d4cVplWHVLaWFUTlBSWVhMZmd5dGRuejEtLUVYMEgwS29UYmnSAVpBVV95cUxOWDFubFJUam54a3F3bnR0Q0hEcUVYNm9QRUkyd1hjZzJVZFhFTU5zaFBqejZBNVI4UlppZjNhOVRZTHhBa2VveWJjcUlpYWpPYV9JVWE1R0ZUMXc?oc=5"
-        },
-        {
-          "d": "gizmodo.com",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlVLRUhyRlRqenVTM2xtbHNGOXZRdlcxRU1SYmdvSXFmQzdBRzMzeFVXUWcwRXhLZHh4MC1XN3RuQTNxbkZVVjJsam4xOFpiM09kWW5kM2J0a1JHVTZCOEhQY3ZXelJKUWpoeGJNNmNpbllRSDk4LXhNU2pnSTZlYXR0bF80U0NPd2hESDNzdDgxbzZFM2F6ZWttbEFpRVRYd2tHOHdwY1Y1SFBSaFdiOHdvSkw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "US DOJ combines AI efforts with new Super Intelligence Task Force",
-        "DOJ Launches ‘Super Intelligence’ Task Force Because Apparently We’re Still Doing This"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-11-06T09:54:51.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "3 charged with using AI to commit $129 million in fraud",
-      "s": "3 charged with using AI to commit $129 million in fraud upi",
-      "b": [
-        "upi.com: 3 charged with using AI to commit $129 million in fraud",
-        "abcnews.com: 3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million - ABC News"
-      ],
-      "body": [
-        "upi.com: 3 charged with using AI to commit $129 million in fraud upi",
-        "abcnews.com: 3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million ABC News - Breaking News, Latest News and Videos"
-      ],
-      "l": [
-        {
-          "d": "upi.com",
-          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaEdXSTU4OWl4ODVKbDlCY21GM0tBeWdCbXlkc0tDWkNxWmxRSnZ4Vzh1am14VFkwTEdoSnB5dUZjYm9USWIwVllaNWZvMDE1US1jdmFpZjJwdTNOcWJCd3BmMjBJZWFoaHRLODVaUE42Y2Etb1A4N19PdTFsaG85dEVB0gGHAUFVX3lxTE5aeGx3TVJMMzFHeklHUG5LajJGd2FqT042dk9vakZmbmVNSTJ0TGJYOEo5U3lYYUozakM0SkFrTmNuRWUtUnpIZTFFVGNiM0czdVN2RUxheWVQMUt3OVl2bnJqVk1IUElBY2RabmpfMzR1R3J1eDFUei1fSjdmbUpHZkdjRzc2cw?oc=5"
-        },
-        {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWWhnZC1sTnFEQnRzbkp0RTdSQVhQU1d6UGtyZjMyRVpGa3hFank2NTNScVpsRFJBWDZTZ1RwcFNaLUlnY083YUlZdld0VWtDNWY0R1haS2N3bThCdktlcF9XUVlyMThGUm9ib2liSkhRMlZsTmZuTnplOTNLS3ItS0lBN2JZeUlsbUJOeDU0bDIzaXF3bUZ4ZDVhTUhPclhuNktKVVVn0gGrAUFVX3lxTE1xeWhOMGxaYzA0aGRwZU5lYnR3SU1MeXpxVlRZU0hKWDFYcy1RN3FJcFFhNVJ0TS0xUUZrOWMwQzJQQXd4WHY2VDJfdUptaEtiMGlFNkZHS0ZMNXU5cnZVc3Y3cHI0Q1gwNGFrc3FpclBKTHBfM1VSRC1fYTQ0MFpmeWtOdVF2ZW1EVE4zZGI3LXRId2wyWVpwQS1lMU1HdnViWXhfVWU4aldLSQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "3 charged with using AI to commit $129 million in fraud",
-        "3 charged in scheme to use AI to impersonate CEOs and attorneys to steal $129 million - ABC News"
       ]
     },
     {
@@ -255,6 +256,38 @@
     {
       "cat": "products",
       "signal": 24,
+      "sources": 2,
+      "ts": "2026-11-05T22:04:13.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "US DOJ combines AI efforts with new Super Intelligence Task Force",
+      "s": "US DOJ combines AI efforts with new Super Intelligence Task Force MLex",
+      "b": [
+        "mlex.com: US DOJ combines AI efforts with new Super Intelligence Task Force",
+        "gizmodo.com: DOJ Launches ‘Super Intelligence’ Task Force Because Apparently We’re Still Doing This"
+      ],
+      "body": [
+        "mlex.com: US DOJ combines AI efforts with new Super Intelligence Task Force MLex",
+        "gizmodo.com: DOJ Launches ‘Super Intelligence’ Task Force Because Apparently We’re Still Doing This Gizmodo"
+      ],
+      "l": [
+        {
+          "d": "mlex.com",
+          "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTNZRnR6UWNDOHBCVHo5S3d3SG5wdlItLVhoZEN3UE45ZUZLcW1CdWJrVmZwUUxQZzVhU2RxU3dyeWs1Zk1tdlplQ29oakUtTVJkNXVQNS04QnJwMVRLMXM3cXRYY1duZU9JbTlranhnZVltbS1wVWhlN1BhYk13bUlnMHlEWDUyaE5NdmFBa2FrcFNPVkIzQmduSmkxNlVpUUlULV81N1d4cVplWHVLaWFUTlBSWVhMZmd5dGRuejEtLUVYMEgwS29UYmnSAVpBVV95cUxOWDFubFJUam54a3F3bnR0Q0hEcUVYNm9QRUkyd1hjZzJVZFhFTU5zaFBqejZBNVI4UlppZjNhOVRZTHhBa2VveWJjcUlpYWpPYV9JVWE1R0ZUMXc?oc=5"
+        },
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlVLRUhyRlRqenVTM2xtbHNGOXZRdlcxRU1SYmdvSXFmQzdBRzMzeFVXUWcwRXhLZHh4MC1XN3RuQTNxbkZVVjJsam4xOFpiM09kWW5kM2J0a1JHVTZCOEhQY3ZXelJKUWpoeGJNNmNpbllRSDk4LXhNU2pnSTZlYXR0bF80U0NPd2hESDNzdDgxbzZFM2F6ZWttbEFpRVRYd2tHOHdwY1Y1SFBSaFdiOHdvSkw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "US DOJ combines AI efforts with new Super Intelligence Task Force",
+        "DOJ Launches ‘Super Intelligence’ Task Force Because Apparently We’re Still Doing This"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 24,
       "sources": 1,
       "ts": "2026-11-06T10:00:00.000Z",
       "writtenSources": 1,
@@ -278,8 +311,33 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-06T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Measuring how AI agents handle everyday wet-lab science",
+      "s": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+      "b": [
+        "openai.com: Measuring how AI agents handle everyday wet-lab science"
+      ],
+      "body": [
+        "openai.com: OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science"
+        }
+      ],
+      "srcTitles": [
+        "Measuring how AI agents handle everyday wet-lab science"
+      ]
+    },
+    {
       "cat": "research",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-11-06T05:00:00.000Z",
       "writtenSources": 2,
@@ -311,7 +369,7 @@
     },
     {
       "cat": "funding",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-11-05T23:44:09.000Z",
       "writtenSources": 2,
