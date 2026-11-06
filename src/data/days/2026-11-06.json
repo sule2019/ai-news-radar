@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 39,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-11-05T22:40:55.000Z",
       "writtenSources": 2,
@@ -31,6 +31,38 @@
       "srcTitles": [
         "Airbnb says it s launching an AI travel agent in the first half of 2027",
         "Airbnb is working on an AI travel agent"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-11-05T22:04:13.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "US DOJ combines AI efforts with new Super Intelligence Task Force",
+      "s": "US DOJ combines AI efforts with new Super Intelligence Task Force MLex",
+      "b": [
+        "mlex.com: US DOJ combines AI efforts with new Super Intelligence Task Force",
+        "gizmodo.com: DOJ Launches ‘Super Intelligence’ Task Force Because Apparently We’re Still Doing This"
+      ],
+      "body": [
+        "mlex.com: US DOJ combines AI efforts with new Super Intelligence Task Force MLex",
+        "gizmodo.com: DOJ Launches ‘Super Intelligence’ Task Force Because Apparently We’re Still Doing This Gizmodo"
+      ],
+      "l": [
+        {
+          "d": "mlex.com",
+          "u": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNaTNZRnR6UWNDOHBCVHo5S3d3SG5wdlItLVhoZEN3UE45ZUZLcW1CdWJrVmZwUUxQZzVhU2RxU3dyeWs1Zk1tdlplQ29oakUtTVJkNXVQNS04QnJwMVRLMXM3cXRYY1duZU9JbTlranhnZVltbS1wVWhlN1BhYk13bUlnMHlEWDUyaE5NdmFBa2FrcFNPVkIzQmduSmkxNlVpUUlULV81N1d4cVplWHVLaWFUTlBSWVhMZmd5dGRuejEtLUVYMEgwS29UYmnSAVpBVV95cUxOWDFubFJUam54a3F3bnR0Q0hEcUVYNm9QRUkyd1hjZzJVZFhFTU5zaFBqejZBNVI4UlppZjNhOVRZTHhBa2VveWJjcUlpYWpPYV9JVWE1R0ZUMXc?oc=5"
+        },
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWlVLRUhyRlRqenVTM2xtbHNGOXZRdlcxRU1SYmdvSXFmQzdBRzMzeFVXUWcwRXhLZHh4MC1XN3RuQTNxbkZVVjJsam4xOFpiM09kWW5kM2J0a1JHVTZCOEhQY3ZXelJKUWpoeGJNNmNpbllRSDk4LXhNU2pnSTZlYXR0bF80U0NPd2hESDNzdDgxbzZFM2F6ZWttbEFpRVRYd2tHOHdwY1Y1SFBSaFdiOHdvSkw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "US DOJ combines AI efforts with new Super Intelligence Task Force",
+        "DOJ Launches ‘Super Intelligence’ Task Force Because Apparently We’re Still Doing This"
       ]
     }
   ]
