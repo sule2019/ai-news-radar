@@ -1,4 +1,69 @@
 {
   "date": "2026-11-07",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-11-07T06:07:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Environmental groups embrace AI, even as they warn of data center impacts",
+      "s": "Environmental groups embrace AI, even as they warn of data center impacts Reuters",
+      "b": [
+        "reuters.com: Environmental groups embrace AI, even as they warn of data center impacts",
+        "yahoo.com: Environmental groups embrace AI, even as they warn of data center impacts"
+      ],
+      "body": [
+        "reuters.com: Environmental groups embrace AI, even as they warn of data center impacts Reuters",
+        "yahoo.com: Environmental groups embrace AI, even as they warn of data center impacts Yahoo"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSmxyU3I5VWJjVjhxTjhobWVHa2MwT3p3NlliNUZsVG14VkVsMHI4cGhsOXNfY1Q3TDRoQ09Hc3RwR0xNaUZvejFKLWU0dUtzelVaeEtucU9Sa3JOVUhKcDNqcFpxZ2tnZms0cEFuM0hqUzM0SC1lTXdIM1EzX09lRE0wd3pkYVVqYXFYaE5iOFVoV0R2aWhGM3hIM3ZnR2lNQjhJVDBxSWJpbFFORkpISGh2SmgyZE1SRmhjcXFn?oc=5"
+        },
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTlJxYjZ4ZWhlWFc1enFrRVJubjRaVDNXamQzUGVJd0FDVzE4aGdia0t1MU1xZEh1ZkI2V2czNmVOcC1BNUliaDJqcmtqaDJkV29tMUJGeWM4ZTFRSDBNVE9JQUZYRW9YUGlBN0VMakt4cFBKdjNlWWhINllpaXpVbjJjRkRNY1gxWGVjYjF2cjlDbXRIdjd1WU1KTQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Environmental groups embrace AI, even as they warn of data center impacts",
+        "Environmental groups embrace AI, even as they warn of data center impacts"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-07T02:46:40.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "LA Council seeks citywide data privacy policy amid AI, ALRP tech",
+      "s": "LA Council seeks citywide data privacy policy amid AI, ALRP tech Los Angeles Daily News",
+      "b": [
+        "dailynews.com: LA Council seeks citywide data privacy policy amid AI, ALRP tech",
+        "shattered.io: LA Council Wants 1 Citywide AI & ALPR Privacy Policy [2026]"
+      ],
+      "body": [
+        "dailynews.com: LA Council seeks citywide data privacy policy amid AI, ALRP tech Los Angeles Daily News",
+        "shattered.io: LA Council Wants 1 Citywide AI & ALPR Privacy Policy [2026] shattered.io"
+      ],
+      "l": [
+        {
+          "d": "dailynews.com",
+          "u": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd3VUZmkyWXk3WEQ3d2tzbDRBYkFzQWVCUFlVZGVzTFgwLUZjQlRZY2owekIzNWRkU1pJSDFZd04xY05kdm5DZzdsUS04NjNUSE9pT3lmRUU4eW5jbkJ2b3ZKT3RYVl9BMGdTR3NHcFhYRlMtdVBQLTdZZ0hqSUJPajVMZlJEWXJaaE15bENhMy1iWFlVdENIb3RtZVNTejgwMFdB?oc=5"
+        },
+        {
+          "d": "shattered.io",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMmFzMjlSd2hFemZUWmsxTG12QmVDeHltZUs2ekR0a05FaTJidDF5Z3d6SFotRlJicmpaX3p4VmVyZkhFM3pOREpTOFBwNGY1eVVFUnFJUE9yeE52UTlvYlpiTl9xbE1SaWYwZHNaemhTY21Hc2N2ZG96QVMxbXJzWW5SLU82RDZocmRLLQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "LA Council seeks citywide data privacy policy amid AI, ALRP tech",
+        "LA Council Wants 1 Citywide AI & ALPR Privacy Policy [2026]"
+      ]
+    }
+  ]
 }
