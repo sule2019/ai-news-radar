@@ -3,7 +3,39 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-11-06T23:00:44.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "s": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean inf",
+      "b": [
+        "theverge.com: China reportedly recruited AI exec to spy on Jensen Huang",
+        "gizmodo.com: Chinese Spy Who Targeted Jensen Huang Worked Directly for China's Top Spy Agency: Report"
+      ],
+      "body": [
+        "theverge.com: China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed [ ]",
+        "gizmodo.com: Chinese Spy Who Targeted Jensen Huang Worked Directly for China's Top Spy Agency: Report Gizmodo"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy"
+        },
+        {
+          "d": "gizmodo.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYUdraHhlX3BEQktaeTlVYk0tMml0aUl0eEwwWEg0QS1nYTJicUFLcUpjaDdmMmFnSlp5U0U1ZWFIU25ITUpQNWlkTzM2cEpmOHJGS2s2OWJIUW0yejZPWkJQdWtZWnRCNUFla2E2VFk1RXhpUEhjY3hTWmtpYmsyQ1psdlBZRlhVV1JxZ0tfb3NWMHByc3pZRVBudFFTM3V2azhtREU3V2dsTE1qS0M2VmRnWVJ5Smlq?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "China reportedly recruited AI exec to spy on Jensen Huang",
+        "Chinese Spy Who Targeted Jensen Huang Worked Directly for China's Top Spy Agency: Report"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 28,
       "sources": 2,
       "ts": "2026-11-07T06:07:00.000Z",
       "writtenSources": 2,
@@ -35,7 +67,7 @@
     },
     {
       "cat": "policy",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-11-07T02:46:40.000Z",
       "writtenSources": 2,
