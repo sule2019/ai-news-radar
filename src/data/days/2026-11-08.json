@@ -1,4 +1,37 @@
 {
   "date": "2026-11-08",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-11-08T08:12:35.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+      "s": "Staff at the US center for AI safety are reporting to the White House, raising independence concerns WRAL",
+      "b": [
+        "wral.com: Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+        "abcnews.com: Staff at the US center for AI safety are reporting to the White House, raising independence concerns - ABC News"
+      ],
+      "body": [
+        "wral.com: Staff at the US center for AI safety are reporting to the White House, raising independence concerns WRAL",
+        "abcnews.com: Staff at the US center for AI safety are reporting to the White House, raising independence concerns ABC News - Breaking News, Latest News and Videos"
+      ],
+      "l": [
+        {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2FsSHh0LUNMNEVQMHEtS0pNSkF4ZGhFS2NkSlpSdGxOTlBkR042Rm5wVlZITm0xakJoRHZWRDRYa1N4VmNCZmRZNXhUc2V2UjdzdXI1SmN6dTByaU5nd2dzZHhfaDFDNzRPTHEzV0Zlcmw5SHRLNHgzbVRQRnJLTmp1V2xuX29Cejlqd0hlWnljMlE5NXR3c25veUUyUnViSjhLekRPMG5fMGJNYUJqSUdQYl9PSmFRMmpXOS1ST0xKY2RpeVJWR3p1Qy1iQ0FE?oc=5"
+        },
+        {
+          "d": "abcnews.com",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQXZEMF9qNDZwUm0ydWZWbVlzWjdET3J3SFBYMzkzbFJnNnhrbFJibXE2WTg5NHNUZHZ3ZnF0WlBBRi1hMXl2S01IemRrNUQyOEFPOTJqMXJnZ3RoUEpycGNjV0hlRGxFQUllekUyem1IcXpqQUl0cUdldGZqTGdHbkZPN1dwQUo2S1huLWFETVQwamxs0gGaAUFVX3lxTFBpVGVvaVZPR1dZNW1jNXl3eURReWs3b3UxMU1qekJmd0NvamJXdFJkU0E3ek5rMUdrbVpZOEZnUnctYnhpQmd6MEFkRHUtYU51aTVRV3BPVEh4RGVrZVVLdEtQX2VIUkVjZ1Q5VFJvT0xnSXhOOEFpZm0wTlBQWllpMXZFWVlhSUlDRnRsaHNhUUZDRDdyekR2TGc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
+        "Staff at the US center for AI safety are reporting to the White House, raising independence concerns - ABC News"
+      ]
+    }
+  ]
 }
