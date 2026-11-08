@@ -3,7 +3,39 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 51,
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-11-08T20:35:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "s": "On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Di",
+      "b": [
+        "theverge.com: Here’s the full text of Jensen Huang’s memo to Nvidia",
+        "techmeme.com: Email to staff: Jensen Huang admits an affair, takes \"full responsibility\", and says he fell short of his duties to Nvidia's board, shareholders, and employees (Madison Mills/Axios)"
+      ],
+      "body": [
+        "theverge.com: On Sunday, Nvidia announced it was launching an investigation into CEO Jensen Huang's relationship with Alice Huang, an AI executive and agent of the Chinese government. In addition to the Board of Directors announcing the investigation, Huang sent a memo to Nvidia employees acknowledging the affair. You can read the full text below. To my [ ]",
+        "techmeme.com: Madison Mills / Axios : Email to staff: Jensen Huang admits an affair, takes full responsibility , and says he fell short of his duties to Nvidia's board, shareholders, and employees Nvidia CEO Jensen Huang admitted to having a romantic relationship with a suspected Chinese spy in a message to his company."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261108/p14#a261108p14"
+        }
+      ],
+      "srcTitles": [
+        "Here’s the full text of Jensen Huang’s memo to Nvidia",
+        "Email to staff: Jensen Huang admits an affair, takes \"full responsibility\", and says he fell short of his duties to Nvidia's board, shareholders, and employees (Madison Mills/Axios)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 56,
       "sources": 2,
       "ts": "2026-11-08T08:12:35.000Z",
       "writtenSources": 2,
@@ -20,8 +52,8 @@
       ],
       "l": [
         {
-          "d": "foxnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NcGlRZm42NkFGVnVmZFBkQXE5SGpKR2dtV2o0dkFwVG9OM0lhcDBkZWJwVFRyaDRldWdsVDZIOWpmeTJBYjdfYUQtSF9vZUpUemluai1xdldDZzA3R1hWeWZhUjhyU2Iy?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261108/p16#a261108p16"
         },
         {
           "d": "pbs.org",
@@ -29,13 +61,13 @@
         }
       ],
       "srcTitles": [
-        "AI safety center faces White House oversight questions",
+        "Sources: officials at the Commerce Department's AI safety center CAISSI were asked to informally report to a White House office, raising independence concerns (Garance Burke/Associated Press)",
         "AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns"
       ]
     },
     {
       "cat": "products",
-      "signal": 47,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-11-08T15:00:00.000Z",
       "writtenSources": 2,
@@ -67,6 +99,38 @@
     },
     {
       "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-11-08T21:37:59.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The American Pakistan Foundation (APF) Announces 2026 Rising Stars in Artificial Intelligence",
+      "s": "The American Pakistan Foundation (APF) Announces 2026 Rising Stars in Artificial Intelligence The Detroit News",
+      "b": [
+        "detroitnews.com: The American Pakistan Foundation (APF) Announces 2026 Rising Stars in Artificial Intelligence",
+        "freep.com: The American Pakistan Foundation (APF) Announces 2026 Rising Stars in Artificial Intelligence"
+      ],
+      "body": [
+        "detroitnews.com: The American Pakistan Foundation (APF) Announces 2026 Rising Stars in Artificial Intelligence The Detroit News",
+        "freep.com: The American Pakistan Foundation (APF) Announces 2026 Rising Stars in Artificial Intelligence Detroit Free Press"
+      ],
+      "l": [
+        {
+          "d": "detroitnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMGFWTmNMaUVTRlFfR3hoeHVoWG9IVjBhYVY3TGZINDgwQWVZcGVTLVljNzNWZkRuVU52cU9NSUozZzZIOXVpMHdrRzluMUQ3UXMzblR6UDRwLUJQWXBqZ2hqZGhhbzdWRnhCaVBPNHZUVnZGcXZ4MHE2VTVrT3AtZV8wOGt3WkZFNjgyeDZqT3hqelQwUXJZVmQ2MzRHM0RPazF5NWpicjBaZlpRNG5vX29LaFhWSUJ5S0s2R0dVWFBaSVJwNkJ2eHFFTGUtNU5tcklaYldId0hkczk4M3Babw?oc=5"
+        },
+        {
+          "d": "freep.com",
+          "u": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR0Jqa1l6TXpIZHNNb3ZyN1N2a2dISDEyOENoTU14cjk4U1NFc0NaZVl0T2RfZ2U0TzA3dHZuZDFWUVMxTHAya1Bad3ZHRlhnRmNWdjlrVzlrcllkNzBaTThKY2tnVnRFdkEwVzdzMmVOTUIxSlJUcks4MmhIRUdtdGt1SnFJVHhDOENOMFk1enp4MnlOZVBHM3B0M3VnSFVlV2dkVkc1ckhKVGJnZVo1eGtlaGNtZnV4MmplczNjTDExZWdaWTFBWjFLa0VyNUs1bjhtNzNHYUs?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The American Pakistan Foundation (APF) Announces 2026 Rising Stars in Artificial Intelligence",
+        "The American Pakistan Foundation (APF) Announces 2026 Rising Stars in Artificial Intelligence"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 26,
       "sources": 2,
       "ts": "2026-11-08T09:07:00.000Z",
@@ -84,12 +148,12 @@
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZFNoNVUwVHF2QVBHTW51c1MySXlrR2ZjNk1panpUcFJhSzg2VzJkYVRjM1djOWptQThzZGFpdVJOcTJxdTRvUEI4RVhaMF9uemY5ckcxc0hrTmFWRjkzU2VYQTZRUklXUEpoenYwZzk0OUIzY0stRXVTNFlpQmNGcHl1aUxoRHdmbVE?oc=5"
-        },
-        {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWF96TUtjYnVnRXpMQ0NoanM2b3Z0UHNFMlJNdWJGVWRRdDN1Y2F1Y2duQ1NmTUVZMzlsZXlPSHl6TE1yMjhBM3ZQTzlPbU9lQzlYUTdBQ0dWQkhuVy1KLURHMmNTU3B5c1lIVkRQc25QejBEeGlMWG85bTlmN0RSdVZva2U0VXEwSlFPUkJreTNtRHBxME1EdQ?oc=5"
+        },
+        {
+          "d": "aol.com",
+          "u": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxU3FXdWNEZWF0d2FPREJDYldUeFBmNWh5VzEwVUxRdVY4MEdwa1BxZXhkdVFicW5Ub1dDUEl1WUY0cWdYbGJZYWwwT203eVp6eWpZQmkxQnZSMnY0c0hRSFZvdzRtdlhWU0hVbzk2UQ?oc=5"
         }
       ],
       "srcTitles": [
@@ -128,8 +192,7 @@
       ],
       "srcTitles": [
         "Data Precedes Artificial Intelligence",
-        "How Generative Artificial Intelligence Is Transforming Spatial-Temporal Data Mining",
-        "OpenEHR Conference Demonstrates Advances in Clinical Data Interoperability and Artificial Intelligence"
+        "How Generative Artificial Intelligence Is Transforming Spatial-Temporal Data Mining"
       ]
     }
   ]
