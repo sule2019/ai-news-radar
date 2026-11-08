@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 54,
+      "signal": 50,
       "sources": 2,
       "ts": "2026-11-08T08:12:35.000Z",
       "writtenSources": 2,
@@ -31,6 +31,73 @@
       "srcTitles": [
         "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
         "Staff at the US center for AI safety are reporting to the White House, raising independence concerns - ABC News"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-08T09:07:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI).",
+      "s": "Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI). The Motley Fool",
+      "b": [
+        "fool.com: Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI).",
+        "theglobeandmail.com: Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI)."
+      ],
+      "body": [
+        "fool.com: Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI). The Motley Fool",
+        "theglobeandmail.com: Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI). The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWF96TUtjYnVnRXpMQ0NoanM2b3Z0UHNFMlJNdWJGVWRRdDN1Y2F1Y2duQ1NmTUVZMzlsZXlPSHl6TE1yMjhBM3ZQTzlPbU9lQzlYUTdBQ0dWQkhuVy1KLURHMmNTU3B5c1lIVkRQc25QejBEeGlMWG85bTlmN0RSdVZva2U0VXEwSlFPUkJreTNtRHBxME1EdQ?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNZkNtZXZyV0xyLWJDaHZvNW9GMmdLTU93VHBHaXY1cEF1ZVl2RUpOSWlETWl5WFRrLTRwc3MzZjNNX3lIaDlianNrRTRSczZHcVRBalNsZXUtX3owa3pzV01RckZ0SExUMGtMcEtYSVJUZFB5MWVoRm95WVpaLWFhcWF6Y25GM0RpSlNkblZHRjRMcHhJS0Zob1U4ZnpTMHMxR1JqMzlkRDdhQnJRcTRxdEw3RnFzRlJQMmN1b3lPOThzUlo4S1VDczBMS2EyaDFsb1V3OXNDUUFiVU9PMUhFWklJaHl1LW5VMkVIX3ZnbFF0ZWlHVmUyS1B3UUpiZUU?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI).",
+        "Got $5,000? 2 Growth Stocks Building the Software Backbone of Artificial Intelligence (AI)."
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-07T23:40:05.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Data Precedes Artificial Intelligence",
+      "s": "Data Precedes Artificial Intelligence Defense.info",
+      "b": [
+        "defense.info: Data Precedes Artificial Intelligence",
+        "bioengineer.org: How Generative Artificial Intelligence Is Transforming Spatial-Temporal Data Mining",
+        "bioengineer.org: OpenEHR Conference Demonstrates Advances in Clinical Data Interoperability and Artificial Intelligence"
+      ],
+      "body": [
+        "defense.info: Data Precedes Artificial Intelligence Defense.info",
+        "bioengineer.org: How Generative Artificial Intelligence Is Transforming Spatial-Temporal Data Mining Bioengineer.org",
+        "bioengineer.org: OpenEHR Conference Demonstrates Advances in Clinical Data Interoperability and Artificial Intelligence Bioengineer.org"
+      ],
+      "l": [
+        {
+          "d": "defense.info",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZUhsc09Tcmo3em9WZkI1WTJjOWJlYVhzQTF4Sm1UWVZqbV96MUJqdkJ0d3hsYW9Xb1JHUzB4Sk9CV0hQS1pfUkJMN19BZ3RpRXdVWE9lUkt2YW80ZDZaRG4yN0VkRmxLSG5EMDBvVGtnOGx0VXlUQ1lkRzNRQ1hlcGxKZw?oc=5"
+        },
+        {
+          "d": "bioengineer.org",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY3RJNUtsT2xhaEpjcHYtVTZ1c3VDZkh4dnNFR3l4OTZqb1F2VlJPNVhGdFRzY1BCMkk2RmZPLTBYN0VNZzJtRTNlZjBzN05uRzA2TXg4TnNpZzBiTEdiWnhXWUFOUk9YUVllR2xsejU4dTBiNjlyd0YwcXVZckNHMlRoc3BKdzFxRTFhbmY4VlJQaDVKVHZ3TEdLREF6QXozUHFEN2hlZWhaQW84?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Data Precedes Artificial Intelligence",
+        "How Generative Artificial Intelligence Is Transforming Spatial-Temporal Data Mining",
+        "OpenEHR Conference Demonstrates Advances in Clinical Data Interoperability and Artificial Intelligence"
       ]
     }
   ]
