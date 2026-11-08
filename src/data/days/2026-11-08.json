@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 46,
-      "sources": 2,
+      "signal": 52,
+      "sources": 3,
       "ts": "2026-11-08T08:12:35.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,17 +20,54 @@
       ],
       "l": [
         {
-          "d": "wral.com",
-          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2FsSHh0LUNMNEVQMHEtS0pNSkF4ZGhFS2NkSlpSdGxOTlBkR042Rm5wVlZITm0xakJoRHZWRDRYa1N4VmNCZmRZNXhUc2V2UjdzdXI1SmN6dTByaU5nd2dzZHhfaDFDNzRPTHEzV0Zlcmw5SHRLNHgzbVRQRnJLTmp1V2xuX29Cejlqd0hlWnljMlE5NXR3c25veUUyUnViSjhLekRPMG5fMGJNYUJqSUdQYl9PSmFRMmpXOS1ST0xKY2RpeVJWR3p1Qy1iQ0FE?oc=5"
+          "d": "foxnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NcGlRZm42NkFGVnVmZFBkQXE5SGpKR2dtV2o0dkFwVG9OM0lhcDBkZWJwVFRyaDRldWdsVDZIOWpmeTJBYjdfYUQtSF9vZUpUemluai1xdldDZzA3R1hWeWZhUjhyU2Iy?oc=5"
         },
         {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQXZEMF9qNDZwUm0ydWZWbVlzWjdET3J3SFBYMzkzbFJnNnhrbFJibXE2WTg5NHNUZHZ3ZnF0WlBBRi1hMXl2S01IemRrNUQyOEFPOTJqMXJnZ3RoUEpycGNjV0hlRGxFQUllekUyem1IcXpqQUl0cUdldGZqTGdHbkZPN1dwQUo2S1huLWFETVQwamxs0gGaAUFVX3lxTFBpVGVvaVZPR1dZNW1jNXl3eURReWs3b3UxMU1qekJmd0NvamJXdFJkU0E3ek5rMUdrbVpZOEZnUnctYnhpQmd6MEFkRHUtYU51aTVRV3BPVEh4RGVrZVVLdEtQX2VIUkVjZ1Q5VFJvT0xnSXhOOEFpZm0wTlBQWllpMXZFWVlhSUlDRnRsaHNhUUZDRDdyekR2TGc?oc=5"
+          "d": "pbs.org",
+          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdmZYc2w5LXZFeVMtNEtZWUR2cURFcUhqbVA4Rk5sNXZBVnlFOWdXZ3RSenBJVG5YLWwtM2hNUWcwaUo0aFVMdTNlLTdxQVRMM1k0RlBwSVJmMk1wbWRyeHdkX19nUGZ2TGhKdTl3eWxBdG10bU1iMHU1dTYxeGpYYk5rZF9JejdRbjllTGdSRW1FNUNnVHhiUzZITGxiRlk4OW95bkN6V0wwYzFWYXZFNWxkU1I2c1RLYzBMVnhlX2ZNaWUzQ3hIRDM4TzBhLXPSAdQBQVVfeXFMTnU1Q19ObTZjMTdYTHZseGk4ek1GMHNsaEs0REFFRE85Y013bzNmVU5PMXVOdk9KMWZZdUNkSlRJZ1VvN1FFdHRJY0llWmMySHJ3WThkYzFBcW1jSXhBSU1OV3cyRFZLYUxEQ09mdHRQNlllSmE3dU5TWjNWU1A2MGh4TC1rRm5lQzRiWlJOQmlNT3ZOaXphdWJ1ZXNLVmxWamNvcFdXODJlb0p3Y1VDbFlzTVdYRGZkY3ZsUHdGUGFWNXdQQnlGOThSVmNTaXhiS1NITFE?oc=5"
+        },
+        {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU2FsSHh0LUNMNEVQMHEtS0pNSkF4ZGhFS2NkSlpSdGxOTlBkR042Rm5wVlZITm0xakJoRHZWRDRYa1N4VmNCZmRZNXhUc2V2UjdzdXI1SmN6dTByaU5nd2dzZHhfaDFDNzRPTHEzV0Zlcmw5SHRLNHgzbVRQRnJLTmp1V2xuX29Cejlqd0hlWnljMlE5NXR3c25veUUyUnViSjhLekRPMG5fMGJNYUJqSUdQYl9PSmFRMmpXOS1ST0xKY2RpeVJWR3p1Qy1iQ0FE?oc=5"
         }
       ],
       "srcTitles": [
-        "Staff at the US center for AI safety are reporting to the White House, raising independence concerns",
-        "Staff at the US center for AI safety are reporting to the White House, raising independence concerns - ABC News"
+        "AI safety center faces White House oversight questions",
+        "AP sources: Staff at U.S. center for AI safety are reporting to the White House, raising independence concerns",
+        "Staff at the US center for AI safety are reporting to the White House, raising independence concerns"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-11-08T15:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google’s new AI ‘ultimatum’ sparks concern over tech giant’s power in California schools",
+      "s": "Google’s new AI ‘ultimatum’ sparks concern over tech giant’s power in California schools Times of San Diego",
+      "b": [
+        "timesofsandiego.com: Google’s new AI ‘ultimatum’ sparks concern over tech giant’s power in California schools",
+        "tech-insider.org: Google’s AI Ultimatum in CA Schools: 4 Tools Off [2026] - https://tech-insider.org/"
+      ],
+      "body": [
+        "timesofsandiego.com: Google’s new AI ‘ultimatum’ sparks concern over tech giant’s power in California schools Times of San Diego",
+        "tech-insider.org: Google’s AI Ultimatum in CA Schools: 4 Tools Off [2026] https://tech-insider.org/"
+      ],
+      "l": [
+        {
+          "d": "timesofsandiego.com",
+          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYktXc19ZQ2RYckl5bUZIYWtyMldRZ2o5eTJueDRNemlSUk5BWmphS3l3TWpaT1pTV3A4NmxzN04xMXVZSFRpbk1LU1lQMHlWcjk1WkwtdG5iUkdPRThpOUNYOUhJNnF0SzAtcEJxLWFEaFRzZ3BKd0pfV1hzandIU1pLWU1GRWFiZm1nVWRTNWtLUEg1Y3BlcmROU2E5b3ZLVmZEUC1BTmJ0R3BIZXdtd1NtNHIzd3V1U0l6UnJ5bGlGbHJLaTRfaTV4MEhDdXc?oc=5"
+        },
+        {
+          "d": "tech-insider.org",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOT1phUk5qT0FEWFNhWHhTVHo3eXB2dXF6ZTRqWGVRdVZDVTJhRktEZHJEN0RLelkyVEpQRmp2OWl1STBjYmlRcGxkeWxsbjVHajN4WHp6bjRoVjBaajlUbXd4NWtpV3h0NldhcVJHVlRDMmRDU1Y3ZHVtdVhaTFBSS0ZjWlo4VVNPM3E0bzVIQUNtTEF3MVJyVDVYTQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Google’s new AI ‘ultimatum’ sparks concern over tech giant’s power in California schools",
+        "Google’s AI Ultimatum in CA Schools: 4 Tools Off [2026] - https://tech-insider.org/"
       ]
     },
     {
