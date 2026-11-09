@@ -2,38 +2,6 @@
   "date": "2026-11-09",
   "stories": [
     {
-      "cat": "products",
-      "signal": 52,
-      "sources": 2,
-      "ts": "2026-11-09T15:38:56.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Disney and Adobe are building generative AI tools together",
-      "s": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multi-year partnership was announced today at Ado",
-      "b": [
-        "theverge.com: Disney and Adobe are building generative AI tools together",
-        "techmeme.com: Disney and Adobe sign a multiyear deal to build proprietary \"artist-led\" generative AI models with Adobe Firefly Foundry to support Disney's production pipeline (Jess Weatherbed/The Verge)"
-      ],
-      "body": [
-        "theverge.com: The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multi-year partnership was announced today at Adobe's MAX conference, and will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to ESPN [ ]",
-        "techmeme.com: Jess Weatherbed / The Verge : Disney and Adobe sign a multiyear deal to build proprietary artist-led generative AI models with Adobe Firefly Foundry to support Disney's production pipeline The partnership will give Disney early access to AI tech for its resorts, cruise line, ESPN graphics, and more."
-      ],
-      "l": [
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261109/p29#a261109p29"
-        }
-      ],
-      "srcTitles": [
-        "Disney and Adobe are building generative AI tools together",
-        "Disney and Adobe sign a multiyear deal to build proprietary \"artist-led\" generative AI models with Adobe Firefly Foundry to support Disney's production pipeline (Jess Weatherbed/The Verge)"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 51,
       "sources": 2,
@@ -70,7 +38,7 @@
     },
     {
       "cat": "models",
-      "signal": 50,
+      "signal": 49,
       "sources": 2,
       "ts": "2026-11-09T15:50:38.000Z",
       "writtenSources": 2,
@@ -87,17 +55,50 @@
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261109/p31#a261109p31"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1029802/trump-60-minutes-ai"
         },
         {
-          "d": "theverge.com",
-          "u": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSVZoQ3ZReW5xOGJPdnVGR0NDbUtFR05uNkE3TURzTndzRU1iSG1PMmM0WTJIbmhhWUcxazFqSG9YTDNhTnlUVE9sZEU5WjU2RmtNaF9HbUd1UlJWZWt4VExWNXUyZF9rOVgyQkRDQ2lJZUtwOW5xODRYWU1vb3RBZi04VGRsUQ?oc=5"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261109/p31#a261109p31"
         }
       ],
       "srcTitles": [
+        "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec",
         "In a 60 Minutes interview, Trump says the DOJ threatened a top exec at \"one of the big\" AI companies over \"bad\" activities and this \"person totally changed\" (Stevie Bonifield/The Verge)",
         "Trump’s 60 Minutes interview touched on AI safety, threat to arrest an AI exec"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 49,
+      "sources": 2,
+      "ts": "2026-11-09T15:38:56.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Disney and Adobe are building generative AI tools together",
+      "s": "The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multi-year partnership was announced today at Ado",
+      "b": [
+        "theverge.com: Disney and Adobe are building generative AI tools together",
+        "techmeme.com: Disney and Adobe sign a multiyear deal to build proprietary \"artist-led\" generative AI models with Adobe Firefly Foundry to support Disney's production pipeline (Jess Weatherbed/The Verge)"
+      ],
+      "body": [
+        "theverge.com: The Walt Disney Company has teamed up with Adobe to develop proprietary \"artist-led\" generative AI models to support Disney's production pipeline. The multi-year partnership was announced today at Adobe's MAX conference, and will see Adobe providing Disney with early access to its latest technologies for everything from Disney's theme parks and cruise line to ESPN [ ]",
+        "techmeme.com: Jess Weatherbed / The Verge : Disney and Adobe sign a multiyear deal to build proprietary artist-led generative AI models with Adobe Firefly Foundry to support Disney's production pipeline The partnership will give Disney early access to AI tech for its resorts, cruise line, ESPN graphics, and more."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1029773/disney-adobe-generative-ai-partnership"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261109/p29#a261109p29"
+        }
+      ],
+      "srcTitles": [
+        "Disney and Adobe are building generative AI tools together",
+        "Disney and Adobe sign a multiyear deal to build proprietary \"artist-led\" generative AI models with Adobe Firefly Foundry to support Disney's production pipeline (Jess Weatherbed/The Verge)"
       ]
     },
     {
