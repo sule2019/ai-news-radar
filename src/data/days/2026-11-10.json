@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 64,
-      "sources": 2,
+      "signal": 77,
+      "sources": 4,
       "ts": "2026-11-10T16:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -20,6 +20,14 @@
       ],
       "l": [
         {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+        },
+        {
+          "d": "fiercehealthcare.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2VJTXRQNTNRWVF0RU5JSmlZUTlzY1lLbW1WQVIydnhkRnktS0syRU5DeWxEUUdSZ01uNUlLbmhVN0Q5VVZabm5IMFI3MnltTm5tdWRkZ2FjX2lRekI0a2ZmSGJ3ejF5MnlmOWVEVnJVY3o5MW5EazhrTWNYWFlYM1ctYVhnN2swMVBzZVU0ZkxuejNERHlzX2xaT0xEdw?oc=5"
+        },
+        {
           "d": "theverge.com",
           "u": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
         },
@@ -29,40 +37,49 @@
         }
       ],
       "srcTitles": [
+        "Google Cloud launches Gemini for healthcare.",
+        "Google Cloud rolls out Gemini for healthcare",
         "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
         "Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity (Koray Kavukcuoglu/Google)"
       ]
     },
     {
-      "cat": "policy",
-      "signal": 52,
-      "sources": 2,
-      "ts": "2026-11-10T04:40:00.000Z",
-      "writtenSources": 2,
+      "cat": "funding",
+      "signal": 68,
+      "sources": 3,
+      "ts": "2026-11-10T14:01:39.000Z",
+      "writtenSources": 3,
       "draft": true,
-      "h": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
-      "s": "James Mayger / Bloomberg : Australia is drafting legislation for an AI safety regulator empowered to impose significant penalties after an OpenAI model hacked a government site in Sept. Australia will",
+      "h": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+      "s": "The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
       "b": [
-        "techmeme.com: Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
-        "apnews.com: Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
+        "techcrunch.com: Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "theverge.com: Anthropic targets $1.4 trillion IPO",
+        "taipeitimes.com: Anthropic targets valuation of up to US$1.4 trillion in blockbuster IPO"
       ],
       "body": [
-        "techmeme.com: James Mayger / Bloomberg : Australia is drafting legislation for an AI safety regulator empowered to impose significant penalties after an OpenAI model hacked a government site in Sept. Australia will create a new artificial-intelligence safety regulator that will have the power to impose",
-        "apnews.com: Australia to launch AI safety regulator after OpenAI’s breach of a government portal AP News"
+        "techcrunch.com: The company could end up being worth a hefty $1.404 trillion if its shares list at the top of the price range, on a fully diluted basis.",
+        "theverge.com: Anthropic confirmed on Tuesday that its IPO could be one of the biggest ever, even while falling short of previous expectations. Its IPO price is expected to be between $70.00 and $78.00 per share, which would put its valuation as high as $1.4 trillion, according to the The New York Times. The Wall Street Journal [ ]",
+        "taipeitimes.com: Anthropic targets valuation of up to US$1.4 trillion in blockbuster IPO Taipei Times"
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261109/p53#a261109p53"
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
         },
         {
-          "d": "apnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ01VX2RRcFVIUlZEYy1Ra3o1cjV1RkR1QlhhQ2FYdExZWFNtU0tBRW1zRVZrc1FEa2huTE1BMlNIWVJmTXoxemFyX1JwVVM2OXRnTzdsVjFvTjNSbE9xZXBaUG5NZDhwcnFRRnZ0R0xPaVVka3FQazFsaUNoa3F3NGphQXd5U2ZHYTZpSWE5MThRZUNhc0cySkZEQTVkcnR5TDRlM2ZFbkJfSC1aOEtHWWpLR2xmNUp4Ql9BQmhvS2o?oc=5"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1030703/anthropic-ipo-1-4-trillion"
+        },
+        {
+          "d": "taipeitimes.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYS05aQ1NFU1JRclhCNVc5aGM5Q1JVWkNfaC1GNTJqOTFUc3FGMXFva2NNZE5vdzhNSEV2b19tVVpSX0kxaUtGSWNTckNUYWVvcmd3RG85bTcyU2p4RGx3TXpUUzVSZmFOR0pFMW5nc0k2OTNCVVE?oc=5"
         }
       ],
       "srcTitles": [
-        "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
-        "Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
+        "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
+        "Anthropic targets $1.4 trillion IPO",
+        "Anthropic targets valuation of up to US$1.4 trillion in blockbuster IPO"
       ]
     },
     {
@@ -80,44 +97,12 @@
       "body": [],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
         }
       ],
       "srcTitles": [
         "Gemini 4 Carbon is now available"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 51,
-      "sources": 2,
-      "ts": "2026-11-10T13:01:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
-      "s": "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company Pioneer Press",
-      "b": [
-        "twincities.com: Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
-        "usnews.com: Anthropic Seeks Valuation of About $1.3 Trillion When It Becomes a Publicly Traded Company"
-      ],
-      "body": [
-        "twincities.com: Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company Pioneer Press",
-        "usnews.com: Anthropic Seeks Valuation of About $1.3 Trillion When It Becomes a Publicly Traded Company U.S. News & World Report"
-      ],
-      "l": [
-        {
-          "d": "twincities.com",
-          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONnlUUzBwMVVuS1IzZ2pmUFhqenJxMkk4c051RGQxVGhlanE4Zl8ycnNJMjFzUThKWVd3dzh2bzAzdjFmbl92ZlN2dThiX2o5S3NUX1pubFAxSjM3V2lhMDY4RHdjQzUtb0s0N0dET2pJTkZMamdvQUJlbGxTaU10UjZBaDR6dktXY2tqT0l0RQ?oc=5"
-        },
-        {
-          "d": "usnews.com",
-          "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaGxhUEZWd1JkS3pXdnlXQlhhSUNfR1VUUzRxdWRfTXNfcW5iQ0N5VUN0S1RlSGQ1ak94RHU1MkR1cFRIc1RKcy1iLVI2RUp3UDU4NVZVNlVMdXRlMWRRWndiQmZ6UHlQV0RjSEUxUGthTnhEZHV1QWJWN2gzMzYzeW1od3FqLXZ3YnJfdy1rd0FYWUdKY2tXeHZTWUh2cDNQa01WNVk2UVYwN0lnTE1tWDRUZDRyVmlZN29LcWM1RXdGaFlETmk4VUc2OUdFNkJlUlN3bUhIZmVGVkdKRDdR?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
-        "Anthropic Seeks Valuation of About $1.3 Trillion When It Becomes a Publicly Traded Company"
       ]
     },
     {
@@ -146,28 +131,35 @@
       ]
     },
     {
-      "cat": "products",
-      "signal": 49,
-      "sources": 1,
-      "ts": "2026-11-10T13:00:00.000Z",
-      "writtenSources": 1,
+      "cat": "policy",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-11-10T04:40:00.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "Google Cloud launches Gemini for healthcare.",
-      "s": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "h": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
+      "s": "James Mayger / Bloomberg : Australia is drafting legislation for an AI safety regulator empowered to impose significant penalties after an OpenAI model hacked a government site in Sept. Australia will",
       "b": [
-        "blog.google: Google Cloud launches Gemini for healthcare."
+        "techmeme.com: Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
+        "apnews.com: Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
       ],
       "body": [
-        "blog.google: Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+        "techmeme.com: James Mayger / Bloomberg : Australia is drafting legislation for an AI safety regulator empowered to impose significant penalties after an OpenAI model hacked a government site in Sept. Australia will create a new artificial-intelligence safety regulator that will have the power to impose",
+        "apnews.com: Australia to launch AI safety regulator after OpenAI’s breach of a government portal AP News"
       ],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261109/p53#a261109p53"
+        },
+        {
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ01VX2RRcFVIUlZEYy1Ra3o1cjV1RkR1QlhhQ2FYdExZWFNtU0tBRW1zRVZrc1FEa2huTE1BMlNIWVJmTXoxemFyX1JwVVM2OXRnTzdsVjFvTjNSbE9xZXBaUG5NZDhwcnFRRnZ0R0xPaVVka3FQazFsaUNoa3F3NGphQXd5U2ZHYTZpSWE5MThRZUNhc0cySkZEQTVkcnR5TDRlM2ZFbkJfSC1aOEtHWWpLR2xmNUp4Ql9BQmhvS2o?oc=5"
         }
       ],
       "srcTitles": [
-        "Google Cloud launches Gemini for healthcare."
+        "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
+        "Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
       ]
     },
     {
@@ -203,28 +195,99 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-11-10T12:00:00.000Z",
-      "writtenSources": 1,
+      "cat": "funding",
+      "signal": 47,
+      "sources": 2,
+      "ts": "2026-11-10T13:01:00.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "Helping caregivers use AI in everyday life",
-      "s": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "h": "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
+      "s": "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company Pioneer Press",
       "b": [
-        "openai.com: Helping caregivers use AI in everyday life"
+        "twincities.com: Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
+        "usnews.com: Anthropic Seeks Valuation of About $1.3 Trillion When It Becomes a Publicly Traded Company"
       ],
       "body": [
-        "openai.com: OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+        "twincities.com: Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company Pioneer Press",
+        "usnews.com: Anthropic Seeks Valuation of About $1.3 Trillion When It Becomes a Publicly Traded Company U.S. News & World Report"
       ],
       "l": [
         {
-          "d": "openai.com",
-          "u": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+          "d": "twincities.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONnlUUzBwMVVuS1IzZ2pmUFhqenJxMkk4c051RGQxVGhlanE4Zl8ycnNJMjFzUThKWVd3dzh2bzAzdjFmbl92ZlN2dThiX2o5S3NUX1pubFAxSjM3V2lhMDY4RHdjQzUtb0s0N0dET2pJTkZMamdvQUJlbGxTaU10UjZBaDR6dktXY2tqT0l0RQ?oc=5"
+        },
+        {
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaGxhUEZWd1JkS3pXdnlXQlhhSUNfR1VUUzRxdWRfTXNfcW5iQ0N5VUN0S1RlSGQ1ak94RHU1MkR1cFRIc1RKcy1iLVI2RUp3UDU4NVZVNlVMdXRlMWRRWndiQmZ6UHlQV0RjSEUxUGthTnhEZHV1QWJWN2gzMzYzeW1od3FqLXZ3YnJfdy1rd0FYWUdKY2tXeHZTWUh2cDNQa01WNVk2UVYwN0lnTE1tWDRUZDRyVmlZN29LcWM1RXdGaFlETmk4VUc2OUdFNkJlUlN3bUhIZmVGVkdKRDdR?oc=5"
         }
       ],
       "srcTitles": [
-        "Helping caregivers use AI in everyday life"
+        "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
+        "Anthropic Seeks Valuation of About $1.3 Trillion When It Becomes a Publicly Traded Company"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-11-10T17:19:24.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B (Mark Gurman/Bloomberg)",
+      "s": "Mark Gurman / Bloomberg : Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B Oura Inc. agree",
+      "b": [
+        "techmeme.com: Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B (Mark Gurman/Bloomberg)",
+        "statnews.com: Oura to acquire Counsel Health for $625 million, a big bet on AI care"
+      ],
+      "body": [
+        "techmeme.com: Mark Gurman / Bloomberg : Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B Oura Inc. agreed to acquire artificial intelligence and on-demand doctor service Counsel Health Inc. for $625 million",
+        "statnews.com: Oura to acquire Counsel Health for $625 million, a big bet on AI care STAT"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261110/p37#a261110p37"
+        },
+        {
+          "d": "statnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQc3pXMEd1Y2otU05qQ0daeElmb3JKOUw3VDgzQ0dSZVhESm5ZVjFic3hxSy1mci1Dc0w3d0V3SDR5UVhuNWhWblg5Q0gxOGJ3NXdUdXZ1WFowRzZNU3NXbG5RbHAxSUJKMzBoM0YtU1UtSGhNR1ZzcU4zSVJnTnR6cG8teGhMUzZz?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B (Mark Gurman/Bloomberg)",
+        "Oura to acquire Counsel Health for $625 million, a big bet on AI care"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 39,
+      "sources": 2,
+      "ts": "2026-11-10T13:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "s": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "b": [
+        "techcrunch.com: Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+        "theverge.com: Hands-on with Ring’s new AI drone camera for your home"
+      ],
+      "body": [
+        "techcrunch.com: Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+        "theverge.com: Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
+        }
+      ],
+      "srcTitles": [
+        "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+        "Hands-on with Ring’s new AI drone camera for your home"
       ]
     },
     {
@@ -364,6 +427,31 @@
       "cat": "models",
       "signal": 24,
       "sources": 1,
+      "ts": "2026-11-10T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Helping caregivers use AI in everyday life",
+      "s": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
+      "b": [
+        "openai.com: Helping caregivers use AI in everyday life"
+      ],
+      "body": [
+        "openai.com: OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
+        }
+      ],
+      "srcTitles": [
+        "Helping caregivers use AI in everyday life"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
       "ts": "2026-11-10T08:52:28.080Z",
       "writtenSources": 1,
       "draft": true,
@@ -412,7 +500,7 @@
     },
     {
       "cat": "policy",
-      "signal": 17,
+      "signal": 15,
       "sources": 2,
       "ts": "2026-11-09T22:30:00.000Z",
       "writtenSources": 2,
