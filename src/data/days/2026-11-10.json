@@ -2,8 +2,40 @@
   "date": "2026-11-10",
   "stories": [
     {
+      "cat": "products",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-11-10T16:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "s": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"stronges",
+      "b": [
+        "theverge.com: Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+        "techmeme.com: Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity (Koray Kavukcuoglu/Google)"
+      ],
+      "body": [
+        "theverge.com: Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes [ ]",
+        "techmeme.com: Koray Kavukcuoglu / Google : Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity Developers, enterprises, scientists, and consumers can now try our latest frontier model. SVP, Google DeepMind and Chief AI Architect, Google"
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261110/p30#a261110p30"
+        }
+      ],
+      "srcTitles": [
+        "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+        "Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity (Koray Kavukcuoglu/Google)"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-11-10T04:40:00.000Z",
       "writtenSources": 2,
@@ -31,6 +63,111 @@
       "srcTitles": [
         "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
         "Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-11-10T16:03:47.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Gemini 4 Carbon is now available",
+      "s": "Covered by 1 outlet.",
+      "b": [
+        "blog.google: Gemini 4 Carbon is now available"
+      ],
+      "body": [],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
+        }
+      ],
+      "srcTitles": [
+        "Gemini 4 Carbon is now available"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 51,
+      "sources": 2,
+      "ts": "2026-11-10T13:01:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
+      "s": "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company Pioneer Press",
+      "b": [
+        "twincities.com: Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
+        "usnews.com: Anthropic Seeks Valuation of About $1.3 Trillion When It Becomes a Publicly Traded Company"
+      ],
+      "body": [
+        "twincities.com: Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company Pioneer Press",
+        "usnews.com: Anthropic Seeks Valuation of About $1.3 Trillion When It Becomes a Publicly Traded Company U.S. News & World Report"
+      ],
+      "l": [
+        {
+          "d": "twincities.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONnlUUzBwMVVuS1IzZ2pmUFhqenJxMkk4c051RGQxVGhlanE4Zl8ycnNJMjFzUThKWVd3dzh2bzAzdjFmbl92ZlN2dThiX2o5S3NUX1pubFAxSjM3V2lhMDY4RHdjQzUtb0s0N0dET2pJTkZMamdvQUJlbGxTaU10UjZBaDR6dktXY2tqT0l0RQ?oc=5"
+        },
+        {
+          "d": "usnews.com",
+          "u": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPaGxhUEZWd1JkS3pXdnlXQlhhSUNfR1VUUzRxdWRfTXNfcW5iQ0N5VUN0S1RlSGQ1ak94RHU1MkR1cFRIc1RKcy1iLVI2RUp3UDU4NVZVNlVMdXRlMWRRWndiQmZ6UHlQV0RjSEUxUGthTnhEZHV1QWJWN2gzMzYzeW1od3FqLXZ3YnJfdy1rd0FYWUdKY2tXeHZTWUh2cDNQa01WNVk2UVYwN0lnTE1tWDRUZDRyVmlZN29LcWM1RXdGaFlETmk4VUc2OUdFNkJlUlN3bUhIZmVGVkdKRDdR?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic seeks valuation of about $1.3 trillion when it becomes a publicly traded company",
+        "Anthropic Seeks Valuation of About $1.3 Trillion When It Becomes a Publicly Traded Company"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-11-10T14:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "s": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "b": [
+        "blog.google: We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps."
+      ],
+      "body": [
+        "blog.google: Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+        }
+      ],
+      "srcTitles": [
+        "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps."
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-11-10T13:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Google Cloud launches Gemini for healthcare.",
+      "s": "Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "b": [
+        "blog.google: Google Cloud launches Gemini for healthcare."
+      ],
+      "body": [
+        "blog.google: Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+        }
+      ],
+      "srcTitles": [
+        "Google Cloud launches Gemini for healthcare."
       ]
     },
     {
@@ -67,27 +204,64 @@
     },
     {
       "cat": "models",
-      "signal": 30,
+      "signal": 27,
       "sources": 1,
-      "ts": "2026-11-10T08:52:28.080Z",
+      "ts": "2026-11-10T12:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
-      "h": "Closing the AI guidance gap in education",
-      "s": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "h": "Helping caregivers use AI in everyday life",
+      "s": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
       "b": [
-        "openai.com: Closing the AI guidance gap in education"
+        "openai.com: Helping caregivers use AI in everyday life"
       ],
       "body": [
-        "openai.com: Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning."
+        "openai.com: OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life."
       ],
       "l": [
         {
           "d": "openai.com",
-          "u": "https://openai.com/index/closing-ai-guidance-gap-education"
+          "u": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life"
         }
       ],
       "srcTitles": [
-        "Closing the AI guidance gap in education"
+        "Helping caregivers use AI in everyday life"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-10T05:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "China touts tech, AI cred at world Web Summit",
+      "s": "China touts tech, AI cred at world Web Summit Yahoo Finance Singapore",
+      "b": [
+        "sg.finance.yahoo.com: China touts tech, AI cred at world Web Summit",
+        "arxiv.org: Web World Models",
+        "arxiv.org: Imperfect World Models are Exploitable"
+      ],
+      "body": [
+        "sg.finance.yahoo.com: China touts tech, AI cred at world Web Summit Yahoo Finance Singapore",
+        "arxiv.org: arXiv:2512.23676v2 Announce Type: replace Abstract: Language agents increasingly require persistent worlds in which they can act, remember, and learn. Existing approaches sit at two extremes: conventional web frameworks provide reliable but fixed contexts backed by databases, while fully generative world models aim for unlimited environments, but the world is constructed primarily through generation, making it harder to maintain a fixed, deterministic global framework and reducing controllability. In this work, we introduce the Web World Model (WWM), a middle ground where world state and ``physics'' are implemented in ordinary web code to ensure logical consistency, while large language models generate context, narratives, and high-level decisions on top of this structured latent state. We build a suite of WWMs on a realistic web stack, including an infinite travel atlas grounded in real geography, fictional galaxy explorers, web-scale encyclopedic and narrative worlds, and simulation- and game-like environments. Across these systems, we identify practical design principles for WWMs: separating code-defined rules from model-driven imagination, representing latent state as typed web interfaces, and utilizing deterministic generation to achieve unlimited but structured exploration. Our results suggest that web stacks themselves can serve as a scalable substrate for world models, enabling controllable yet open-ended environments.",
+        "arxiv.org: arXiv:2605.15960v3 Announce Type: replace Abstract: We propose a novel definition of model exploitation in reinforcement learning. Informally, a world model is exploitable if it implies that one policy should be strictly preferred over another while the environment's true transition model implies the reverse. We analogize our definition with a prior characterization of reward hacking but show that the associated proof of inevitability does not transfer to exploitation. To overcome this obstruction, we develop a general theory of reward hacking and model exploitation that proves that exploitation is essentially unavoidable on large policy sets and yields the corresponding claim for hacking as a special case. Unfortunately, we also find that the conditions that guarantee unhackability in finite policy sets have no counterpart that precludes exploitation. Consequently, we introduce a relaxed notion of exploitation and derive a safe horizon within which it can be avoided. Taken together, our results establish a formal bridge between reward hacking and model exploitation and elucidate the limits of safe planning in world models.",
+        "arxiv.org: arXiv:2606.04627v3 Announce Type: replace Abstract: Mobile agents are increasingly expected to operate everyday applications from screenshots and language goals, where reliable control requires reasoning over screen affordances, multi-step navigation, and future state changes. However, many agents externalize this computation as long textual chains of thought, which slows interaction, increases supervision cost, and complicates deployment. We introduce MIRAGE, a framework that learns continuous latent reasoning representations from visible textual reasoning traces. MIRAGE transfers explicit reasoning into compact hidden states, enabling the agent to reason internally without decoding long rationales. It also incorporates a generative world-model objective: latent reasoning vectors are aligned with future screenshots, encouraging the agent to anticipate upcoming interface states before acting. This turns hidden computation into both a compressed thought representation and a forward-looking model of environment dynamics. At inference time, MIRAGE reasons in continuous latent space, reducing token generation while improving execution efficiency. On AndroidWorld, MIRAGE matches explicit chain-of-thought supervised fine-tuning in the 4B ablation with a 3-5x lower decoded-token budget and improves a comparable instruction-tuned baseline by 10.2 points; on AndroidControl, it improves action grounding while generating over 75% fewer tokens."
+      ],
+      "l": [
+        {
+          "d": "sg.finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LdGd0YnBsYXBXc01pTE9FQ0k3QlhQZ3FtNGdHVTY0NmR2NzdoZl9PbC1RanFXZGYtZVY5d1FYMnlQVFZCTEVmalJIZTZmV2RWWTJCYkxJLVpYSGhib3o4c2VzZ29jbGlBa2oxZE04cG1pWV85azB2Y1FkMldwUQ?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2512.23676"
+        }
+      ],
+      "srcTitles": [
+        "China touts tech, AI cred at world Web Summit",
+        "Web World Models",
+        "Imperfect World Models are Exploitable",
+        "MIRAGE: Mobile Agents with Implicit Reasoning and Generative World Models"
       ]
     },
     {
@@ -109,17 +283,49 @@
       ],
       "l": [
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObFJVMzhzQVVWbGxyZGdXcTV6YnVsVG05cUp4T083ekE5alZnMUVKSXVlZnJCMGhBN3p2SXVtOUlrd0IybXJGUUtzd3V2WWF5aGlocGdxUGt5U1k5SzJZX2R5eUtOeTBBQmdQSmZiQVpma0c5aXNQWTIzWm1lcFU5YlBMdE5Ubzc1TUhyVnNocGk4VjM3TE1NYnRkTk5SS3FnWTdoLTVLVG9xcTN6a09YUmJYd3FpS1N5eUxpTGNTR0ZYQ1ExNkwzRkR1cHhmUGRqeDRFaXlWYW5McFE1ZzlXOHhjd1pzSGR6bHpBYXgyVmE2bTYtQmpQeUZoRjFENVJmWW5ZemhPRQ?oc=5"
-        },
-        {
           "d": "finance.yahoo.com",
           "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXJnQV9qN3hzblgybEhvTU5aRkpmOTF4NmpQN2JZamxzWUxJd0lSR0dvU0tuMzd4MldpZXMtMmVoTS1wc3JJSzJibjZqNVVTQlZxYlliMUtOMjVoNkVlVWE1OTI1bTZfeEwwLVdUcXhZMVloTGRSdnZZUEljakJWRVpwSXVyRG9yNWVnOEdyR2xnVEg4NnFnYy1hYnZqTExRNEM1TEtn?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObFJVMzhzQVVWbGxyZGdXcTV6YnVsVG05cUp4T083ekE5alZnMUVKSXVlZnJCMGhBN3p2SXVtOUlrd0IybXJGUUtzd3V2WWF5aGlocGdxUGt5U1k5SzJZX2R5eUtOeTBBQmdQSmZiQVpma0c5aXNQWTIzWm1lcFU5YlBMdE5Ubzc1TUhyVnNocGk4VjM3TE1NYnRkTk5SS3FnWTdoLTVLVG9xcTN6a09YUmJYd3FpS1N5eUxpTGNTR0ZYQ1ExNkwzRkR1cHhmUGRqeDRFaXlWYW5McFE1ZzlXOHhjd1pzSGR6bHpBYXgyVmE2bTYtQmpQeUZoRjFENVJmWW5ZemhPRQ?oc=5"
         }
       ],
       "srcTitles": [
         "Applied Materials vs. Dell Technologies: Comparing Stable vs. Accelerating Revenue Between These Artificial Intelligence Companies",
         "Applied Materials vs. Dell Technologies: Comparing Stable vs. Accelerating Revenue Between These Artificial Intelligence Companies"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-10T03:20:06.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "CoreWeave bond yield tops 16% as AI credit stress rises",
+      "s": "Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 186 # Comments: 173",
+      "b": [
+        "cnbc.com: CoreWeave bond yield tops 16% as AI credit stress rises",
+        "simonwillison.net: Yonkers Rises"
+      ],
+      "body": [
+        "cnbc.com: Article URL: https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html Comments URL: https://news.ycombinator.com/item?id=50435660 Points: 186 # Comments: 173",
+        "simonwillison.net: Tool: Yonkers Rises I realized I didn't know where Yonkers was, so I looked it up on Google Maps and then, to help embed its location and shape in my head (and to try out Claude Fable 5.2's 3D modeling and animation skills), I prompted Fable 5.2 Medium to: Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and átomos around manhattan and queens and Brooklyn, use openstreetmap mapping data It correctly deduced that \"átomos\" was a mobile keyboard typo for \"stomps\": Tags: three-js , llms , ai , generative-ai , claude-mythos-fable"
+      ],
+      "l": [
+        {
+          "d": "cnbc.com",
+          "u": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Nov/10/yonkers-rises/"
+        }
+      ],
+      "srcTitles": [
+        "CoreWeave bond yield tops 16% as AI credit stress rises",
+        "Yonkers Rises"
       ]
     },
     {
@@ -155,8 +361,58 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-10T08:52:28.080Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Closing the AI guidance gap in education",
+      "s": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "b": [
+        "openai.com: Closing the AI guidance gap in education"
+      ],
+      "body": [
+        "openai.com: Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/closing-ai-guidance-gap-education"
+        }
+      ],
+      "srcTitles": [
+        "Closing the AI guidance gap in education"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-10T07:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Work at the Frontier: AI’s effect on freelance work",
+      "s": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
+      "b": [
+        "openai.com: Work at the Frontier: AI’s effect on freelance work"
+      ],
+      "body": [
+        "openai.com: New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/ai-effect-on-freelance-work"
+        }
+      ],
+      "srcTitles": [
+        "Work at the Frontier: AI’s effect on freelance work"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-11-09T22:30:00.000Z",
       "writtenSources": 2,
