@@ -2,50 +2,8 @@
   "date": "2026-11-10",
   "stories": [
     {
-      "cat": "products",
-      "signal": 77,
-      "sources": 4,
-      "ts": "2026-11-10T16:00:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-      "s": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"stronges",
-      "b": [
-        "theverge.com: Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-        "techmeme.com: Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity (Koray Kavukcuoglu/Google)"
-      ],
-      "body": [
-        "theverge.com: Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes [ ]",
-        "techmeme.com: Koray Kavukcuoglu / Google : Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity Developers, enterprises, scientists, and consumers can now try our latest frontier model. SVP, Google DeepMind and Chief AI Architect, Google"
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
-        },
-        {
-          "d": "fiercehealthcare.com",
-          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR2VJTXRQNTNRWVF0RU5JSmlZUTlzY1lLbW1WQVIydnhkRnktS0syRU5DeWxEUUdSZ01uNUlLbmhVN0Q5VVZabm5IMFI3MnltTm5tdWRkZ2FjX2lRekI0a2ZmSGJ3ejF5MnlmOWVEVnJVY3o5MW5EazhrTWNYWFlYM1ctYVhnN2swMVBzZVU0ZkxuejNERHlzX2xaT0xEdw?oc=5"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261110/p30#a261110p30"
-        }
-      ],
-      "srcTitles": [
-        "Google Cloud launches Gemini for healthcare.",
-        "Google Cloud rolls out Gemini for healthcare",
-        "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
-        "Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity (Koray Kavukcuoglu/Google)"
-      ]
-    },
-    {
       "cat": "funding",
-      "signal": 68,
+      "signal": 64,
       "sources": 3,
       "ts": "2026-11-10T14:01:39.000Z",
       "writtenSources": 3,
@@ -84,8 +42,8 @@
     },
     {
       "cat": "models",
-      "signal": 52,
-      "sources": 1,
+      "signal": 58,
+      "sources": 2,
       "ts": "2026-11-10T16:03:47.000Z",
       "writtenSources": 1,
       "draft": true,
@@ -99,67 +57,118 @@
         {
           "d": "deepmind.google",
           "u": "https://deepmind.google/blog/gemini-4-carbon-is-now-available/"
+        },
+        {
+          "d": "blog.google",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcFFDTTNsamEzRWp6RmVZemczQjAwQTlCMGhneldpY0gwUnpsS1JQY3o4NnZiSDd3bm56ZkZfM1lEZ1Y1WFN1MUNoTjV3cGNMOHdPc1NfcEhtbVNyMVlTdVpFYjlEZjczN29BUzdOdl9rUDhkNVZHY3ZIUjd1b0lOSEVhN3dMcWgxaVprSDAySnpIZWItVjhRcUg4c3NhbjBmRmh1dw?oc=5"
         }
       ],
       "srcTitles": [
+        "Gemini 4 Carbon is now available",
         "Gemini 4 Carbon is now available"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 53,
+      "sources": 3,
+      "ts": "2026-11-10T14:05:10.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+      "s": "Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+      "b": [
+        "techcrunch.com: Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+        "pymnts.com: Adobe Opens Photoshop and Premiere to Third-Party AI Agents",
+        "theverge.com: eBay appears to have shut the door on third-party AI agents"
+      ],
+      "body": [
+        "techcrunch.com: Adobe is taking on Figma with a new prototype builder tool in Firefly.",
+        "pymnts.com: Adobe Opens Photoshop and Premiere to Third-Party AI Agents PYMNTS.com",
+        "theverge.com: eBay appears to have blocked AI agents, including Meta's Muse, from browsing on the platform - the latest speed bump in the AI agent race. A reader tells The Verge that for several weeks he's had his Muse agent browse and curate a daily digest of watches for sale on platforms like eBay, including a [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/"
+        },
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYVpxaDRBUVZOb2dKdzVvLWZnNXpZazNwVXliUWN2b3dwSU5Yb0JJYTdVcGdpSlFWZ0cyN0ltMmR5UWdSM1ZrQ2c0bkpWc29nVEEyZXBmZGVJMXpYd2I3M1pXZXM0QlBkQkpweUFkUGY1TVpvZXl2WlByVTY3a21DRS0wU1R1TzVrN0ZjZVp2MVd3UGpfdmZEMzh5X0tSbXotOG9xUnJEU3ZQTzhlR3EzVjJVLXFtTmRS?oc=5"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1030838/ebay-ai-agents-meta-muse-agentic-shopping"
+        }
+      ],
+      "srcTitles": [
+        "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefly",
+        "Adobe Opens Photoshop and Premiere to Third-Party AI Agents",
+        "eBay appears to have shut the door on third-party AI agents"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 52,
+      "sources": 3,
+      "ts": "2026-11-10T13:52:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now?",
+      "s": "AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now? Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now?",
+        "fool.com: AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now?",
+        "theglobeandmail.com: AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now?"
+      ],
+      "body": [
+        "finance.yahoo.com: AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now? Yahoo Finance",
+        "fool.com: AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now? The Motley Fool",
+        "theglobeandmail.com: AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now? The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNnp2ZlM5Yk9kTFNWVWt4UHBnVFYyZVVlVzBhRUptaHJxeHFKZHJJbVlROW1YeE9jOVVHRVZHNjFESkZ1UXFrRkxCc2s0YjFUSUVLU0VhejRlanNnR2hPRWxWZTN5VVhmcXV3dDdMVFhvZDlCOTEwall6ekJ2VlZ6SzBBbllsSkNEZExrcTh4QU02bkczWWwwTVNn?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNal81S2Q0LVVWX3p5UkFSeTFmRjZCUUNjaVA4eTVqVmFDYUpJT3g1NHE1MDhqUWFRcjJXUzZDa0Vkd2pLUDJqVXRfYVNORWt6SS1rT2FxUmcxSzBYQW1pS2VyUGhPV0toYnNHbWdNME5mUWNJOUtlVzZNTFVsMzZYQmg0RmJucl9sWHBVRVdEVlV2Q3dtclBzX1ZuMTIxNzlkYlB6Qkg3eGxndEFBMDJsQnJNdFdtSG5RSGNQMDJwbld3UEhUU2RlM09R?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSThwMTIyUWZjTjljN0VzUE1rU2RNcGtlR19QaFh4LV9iQ1pVLWc1dEFvVnlXUkVJOE9MMk1wdkZWRkdRa083LXJnTVRaOEdUOU9heHVqSy1PZERnOEVscnZ2TEIyQUpoTDl1eDZOSTZuU19oOG4xSFVlcHM5UnpFV0JZQVNkQkJCeHhxbXZRS0FIYzhxT2VtZE1wS1o4bnMxYVdTM1I5d2hxd09FWlNlbEVWOXlEdDJKS3I1dHpqeW4xOGRvVy1lWnpDSkdIbHlnUEQtbm1hRUp4em4zeFZlOHkxcW91MXQ3R0plS3ZhODF1YlVsWWdvUkhYWjFackl0QUE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now?",
+        "AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now?",
+        "AMD vs. Intel: Which Is the Better Artificial Intelligence (AI) Chip Stock to Buy Right Now?"
       ]
     },
     {
       "cat": "products",
       "signal": 49,
       "sources": 1,
-      "ts": "2026-11-10T14:00:00.000Z",
+      "ts": "2026-11-10T19:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
-      "h": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "s": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "h": "Gemini Intelligence: New features, on more devices",
+      "s": "Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "b": [
-        "blog.google: We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps."
+        "blog.google: Gemini Intelligence: New features, on more devices"
       ],
       "body": [
-        "blog.google: Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
+        "blog.google: Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more."
       ],
       "l": [
         {
           "d": "blog.google",
-          "u": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+          "u": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/"
         }
       ],
       "srcTitles": [
-        "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps."
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 48,
-      "sources": 2,
-      "ts": "2026-11-10T04:40:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
-      "s": "James Mayger / Bloomberg : Australia is drafting legislation for an AI safety regulator empowered to impose significant penalties after an OpenAI model hacked a government site in Sept. Australia will",
-      "b": [
-        "techmeme.com: Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
-        "apnews.com: Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
-      ],
-      "body": [
-        "techmeme.com: James Mayger / Bloomberg : Australia is drafting legislation for an AI safety regulator empowered to impose significant penalties after an OpenAI model hacked a government site in Sept. Australia will create a new artificial-intelligence safety regulator that will have the power to impose",
-        "apnews.com: Australia to launch AI safety regulator after OpenAI’s breach of a government portal AP News"
-      ],
-      "l": [
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261109/p53#a261109p53"
-        },
-        {
-          "d": "apnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ01VX2RRcFVIUlZEYy1Ra3o1cjV1RkR1QlhhQ2FYdExZWFNtU0tBRW1zRVZrc1FEa2huTE1BMlNIWVJmTXoxemFyX1JwVVM2OXRnTzdsVjFvTjNSbE9xZXBaUG5NZDhwcnFRRnZ0R0xPaVVka3FQazFsaUNoa3F3NGphQXd5U2ZHYTZpSWE5MThRZUNhc0cySkZEQTVkcnR5TDRlM2ZFbkJfSC1aOEtHWWpLR2xmNUp4Ql9BQmhvS2o?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
-        "Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
+        "Gemini Intelligence: New features, on more devices"
       ]
     },
     {
@@ -195,8 +204,131 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-11-10T16:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+      "s": "Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"stronges",
+      "b": [
+        "theverge.com: Google releases Gemini 4 Carbon with agent ‘swarm’ feature",
+        "techmeme.com: Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity (Koray Kavukcuoglu/Google)"
+      ],
+      "body": [
+        "theverge.com: Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after releasing it to a select group of \"cybersecurity defenders\" two weeks ago. Google claims Carbon is its \"strongest model\" yet, and capable of competing with the very best systems from Anthropic and OpenAI. Google says Gemini 4 Carbon \"pushes [ ]",
+        "techmeme.com: Koray Kavukcuoglu / Google : Google rolls out Gemini 4 Carbon to paid API and AI Ultra users two weeks after releasing it to cyber defenders, and previews a swarm feature in Antigravity Developers, enterprises, scientists, and consumers can now try our latest frontier model. SVP, Google DeepMind and Chief AI Architect, Google"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/"
+        }
+      ],
+      "srcTitles": [
+        "Google Cloud launches Gemini for healthcare."
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-11-10T14:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "s": "Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "b": [
+        "blog.google: We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps."
+      ],
+      "body": [
+        "blog.google: Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/"
+        }
+      ],
+      "srcTitles": [
+        "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps."
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 44,
+      "sources": 2,
+      "ts": "2026-11-10T04:40:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
+      "s": "James Mayger / Bloomberg : Australia is drafting legislation for an AI safety regulator empowered to impose significant penalties after an OpenAI model hacked a government site in Sept. Australia will",
+      "b": [
+        "techmeme.com: Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
+        "apnews.com: Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
+      ],
+      "body": [
+        "techmeme.com: James Mayger / Bloomberg : Australia is drafting legislation for an AI safety regulator empowered to impose significant penalties after an OpenAI model hacked a government site in Sept. Australia will create a new artificial-intelligence safety regulator that will have the power to impose",
+        "apnews.com: Australia to launch AI safety regulator after OpenAI’s breach of a government portal AP News"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261109/p53#a261109p53"
+        },
+        {
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ01VX2RRcFVIUlZEYy1Ra3o1cjV1RkR1QlhhQ2FYdExZWFNtU0tBRW1zRVZrc1FEa2huTE1BMlNIWVJmTXoxemFyX1JwVVM2OXRnTzdsVjFvTjNSbE9xZXBaUG5NZDhwcnFRRnZ0R0xPaVVka3FQazFsaUNoa3F3NGphQXd5U2ZHYTZpSWE5MThRZUNhc0cySkZEQTVkcnR5TDRlM2ZFbkJfSC1aOEtHWWpLR2xmNUp4Ql9BQmhvS2o?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
+        "Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 43,
+      "sources": 3,
+      "ts": "2026-11-10T19:10:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead?",
+      "s": "Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead? Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead?",
+        "fool.com: Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead?",
+        "aol.com: Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead?"
+      ],
+      "body": [
+        "finance.yahoo.com: Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead? Yahoo Finance",
+        "fool.com: Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead? The Motley Fool",
+        "aol.com: Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead? AOL.com"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEFQUlF5ejBFT3pFYzB6aVRiNlZnR0hNeW5GUko4RGl4cjBlLTNVZU5FNWV6cTE2emtjU2FBbERYZVVNRm4yNVB0SGt4TlE5YXJmQjFaMjNPOTVCdkk4OUMxWFNBTjhtcHRIS1paMUVBQnExMGFSc2FxQXpkcWVuTHZkVElnbURDWTk4cTlqRVdpczNnWm5sa0FB?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMjNTVExHOXNVMzNGNzBKQWdlUmYxVm8wYmF5cS1UOXRUNGdqeFlESThWUmt3T2gxeVVVTzYweW1XUG53YnlDVkROSG96U3JCV0lwcDd0bjBReEtsSWRONWVTQ3FsM3I0czFHT2drWDdYMUp1TWU1WDZmamZubXVaajRMV3d4VVRHUVNHSmhxb29lamh2OFBfWg?oc=5"
+        },
+        {
+          "d": "aol.com",
+          "u": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrT283XzE0a2lGQTQ5Yy1TbUdmV2NtWXBhOWNrWHEwNTlDYkxvdDVoaWE2RUZVR0laZVVwck9CV0FPd05tQlZyR0lzR3BzbS1xNFNDMDkwQTZyVHNKRXBEYTBiXzBPRTF1ZmQzcmZmMngxdVVKSExLbkJ3TEZXcjg?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead?",
+        "Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead?",
+        "Should You Forget SpaceX and Buy These 2 Artificial Intelligence (AI) Stocks Instead?"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 47,
+      "signal": 43,
       "sources": 2,
       "ts": "2026-11-10T13:01:00.000Z",
       "writtenSources": 2,
@@ -228,7 +360,7 @@
     },
     {
       "cat": "funding",
-      "signal": 40,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-11-10T17:19:24.000Z",
       "writtenSources": 2,
@@ -260,7 +392,7 @@
     },
     {
       "cat": "products",
-      "signal": 39,
+      "signal": 36,
       "sources": 2,
       "ts": "2026-11-10T13:30:00.000Z",
       "writtenSources": 2,
@@ -291,40 +423,70 @@
       ]
     },
     {
-      "cat": "funding",
+      "cat": "models",
       "signal": 26,
       "sources": 2,
-      "ts": "2026-11-10T05:00:00.000Z",
+      "ts": "2026-11-10T15:03:46.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "China touts tech, AI cred at world Web Summit",
-      "s": "China touts tech, AI cred at world Web Summit Yahoo Finance Singapore",
+      "h": "Pending: AI In The Workplace : 1A",
+      "s": "Pending: AI In The Workplace : 1A NPR",
       "b": [
-        "sg.finance.yahoo.com: China touts tech, AI cred at world Web Summit",
-        "arxiv.org: Web World Models",
-        "arxiv.org: Imperfect World Models are Exploitable"
+        "npr.org: Pending: AI In The Workplace : 1A",
+        "wamu.org: Pending: AI in the workplace"
       ],
       "body": [
-        "sg.finance.yahoo.com: China touts tech, AI cred at world Web Summit Yahoo Finance Singapore",
-        "arxiv.org: arXiv:2512.23676v2 Announce Type: replace Abstract: Language agents increasingly require persistent worlds in which they can act, remember, and learn. Existing approaches sit at two extremes: conventional web frameworks provide reliable but fixed contexts backed by databases, while fully generative world models aim for unlimited environments, but the world is constructed primarily through generation, making it harder to maintain a fixed, deterministic global framework and reducing controllability. In this work, we introduce the Web World Model (WWM), a middle ground where world state and ``physics'' are implemented in ordinary web code to ensure logical consistency, while large language models generate context, narratives, and high-level decisions on top of this structured latent state. We build a suite of WWMs on a realistic web stack, including an infinite travel atlas grounded in real geography, fictional galaxy explorers, web-scale encyclopedic and narrative worlds, and simulation- and game-like environments. Across these systems, we identify practical design principles for WWMs: separating code-defined rules from model-driven imagination, representing latent state as typed web interfaces, and utilizing deterministic generation to achieve unlimited but structured exploration. Our results suggest that web stacks themselves can serve as a scalable substrate for world models, enabling controllable yet open-ended environments.",
-        "arxiv.org: arXiv:2605.15960v3 Announce Type: replace Abstract: We propose a novel definition of model exploitation in reinforcement learning. Informally, a world model is exploitable if it implies that one policy should be strictly preferred over another while the environment's true transition model implies the reverse. We analogize our definition with a prior characterization of reward hacking but show that the associated proof of inevitability does not transfer to exploitation. To overcome this obstruction, we develop a general theory of reward hacking and model exploitation that proves that exploitation is essentially unavoidable on large policy sets and yields the corresponding claim for hacking as a special case. Unfortunately, we also find that the conditions that guarantee unhackability in finite policy sets have no counterpart that precludes exploitation. Consequently, we introduce a relaxed notion of exploitation and derive a safe horizon within which it can be avoided. Taken together, our results establish a formal bridge between reward hacking and model exploitation and elucidate the limits of safe planning in world models.",
-        "arxiv.org: arXiv:2606.04627v3 Announce Type: replace Abstract: Mobile agents are increasingly expected to operate everyday applications from screenshots and language goals, where reliable control requires reasoning over screen affordances, multi-step navigation, and future state changes. However, many agents externalize this computation as long textual chains of thought, which slows interaction, increases supervision cost, and complicates deployment. We introduce MIRAGE, a framework that learns continuous latent reasoning representations from visible textual reasoning traces. MIRAGE transfers explicit reasoning into compact hidden states, enabling the agent to reason internally without decoding long rationales. It also incorporates a generative world-model objective: latent reasoning vectors are aligned with future screenshots, encouraging the agent to anticipate upcoming interface states before acting. This turns hidden computation into both a compressed thought representation and a forward-looking model of environment dynamics. At inference time, MIRAGE reasons in continuous latent space, reducing token generation while improving execution efficiency. On AndroidWorld, MIRAGE matches explicit chain-of-thought supervised fine-tuning in the 4B ablation with a 3-5x lower decoded-token budget and improves a comparable instruction-tuned baseline by 10.2 points; on AndroidControl, it improves action grounding while generating over 75% fewer tokens."
+        "npr.org: Pending: AI In The Workplace : 1A NPR",
+        "wamu.org: Pending: AI in the workplace WAMU"
       ],
       "l": [
         {
-          "d": "sg.finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LdGd0YnBsYXBXc01pTE9FQ0k3QlhQZ3FtNGdHVTY0NmR2NzdoZl9PbC1RanFXZGYtZVY5d1FYMnlQVFZCTEVmalJIZTZmV2RWWTJCYkxJLVpYSGhib3o4c2VzZ29jbGlBa2oxZE04cG1pWV85azB2Y1FkMldwUQ?oc=5"
+          "d": "npr.org",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYWJsLVhlMmpwc0RnZ3NWR05WZ0FQYm9LRmVrTm1ZS19tNWhVWkxxSGlEcTE5RWd6N2JDTHItcEtkNGRBN1V0Zy05ZXpCanNLTnJNN0RacUpIRTg1WThUMVBEd1loUFZ4a2RvYWRWbXB2YVZMaFMyY3gwV3I?oc=5"
         },
         {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2512.23676"
+          "d": "wamu.org",
+          "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfVVp6RlJMX2UzNGM5V0E4VnZMSXdLdFlSNENjdjFQVnE0UDBRN2FEMGNndDRLOWRLOGhVejE0azZ6Q1N4SER0M0hfLVQ3MElGRzdDUERyUTRUZFd3T0h1SF9heG1pRlZLNGJvSw?oc=5"
         }
       ],
       "srcTitles": [
-        "China touts tech, AI cred at world Web Summit",
-        "Web World Models",
-        "Imperfect World Models are Exploitable",
-        "MIRAGE: Mobile Agents with Implicit Reasoning and Generative World Models"
+        "Pending: AI In The Workplace : 1A",
+        "Pending: AI in the workplace"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-10T09:31:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI-powered hacking demands response within minutes, cybersecurity experts warn",
+      "s": "AI-powered hacking demands response within minutes, cybersecurity experts warn The Jerusalem Post",
+      "b": [
+        "jpost.com: AI-powered hacking demands response within minutes, cybersecurity experts warn",
+        "jpost.com: AI-powered cyberattacks outpace security patches, expert warns",
+        "calcalistech.com: Israel warns Iran is seeking AI-powered cyberattack capabilities"
+      ],
+      "body": [
+        "jpost.com: AI-powered hacking demands response within minutes, cybersecurity experts warn The Jerusalem Post",
+        "jpost.com: AI-powered cyberattacks outpace security patches, expert warns The Jerusalem Post",
+        "calcalistech.com: Israel warns Iran is seeking AI-powered cyberattack capabilities CTech"
+      ],
+      "l": [
+        {
+          "d": "jpost.com",
+          "u": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OcmE5ZFZpZUNzRUJoZ1RYcGZ5LTVSU1UwZklBMDN3SHB6a3Iyb2ItVzNpTDlfd2s0dFQtanJHa3JoN0lxYWlZTm03R2JRaThhem03MW81TnhRUHEtb2tJaW9ycw?oc=5"
+        },
+        {
+          "d": "calcalistech.com",
+          "u": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9hTlp5cFA0bDRVVmxid1JOckNZMk5rZXJoSE9DbmFtRF9sY254c2JYTFZKRmtqZm5DVjJaUFpORWVYNVNXVHZiTzBwamFNdkwwYmplbU42ODJSbUtxZjZkZUJ1MUNTT0pt?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI-powered hacking demands response within minutes, cybersecurity experts warn",
+        "AI-powered cyberattacks outpace security patches, expert warns",
+        "Israel warns Iran is seeking AI-powered cyberattack capabilities"
       ]
     },
     {
@@ -389,38 +551,6 @@
       "srcTitles": [
         "CoreWeave bond yield tops 16% as AI credit stress rises",
         "Yonkers Rises"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-11-10T00:10:55.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Large language models show potential in MRI protocoling",
-      "s": "Large language models show potential in MRI protocoling Radiology Business",
-      "b": [
-        "radiologybusiness.com: Large language models show potential in MRI protocoling",
-        "arxiv.org: Large language models show systematic failures in incorporating evolving medical knowledge"
-      ],
-      "body": [
-        "radiologybusiness.com: Large language models show potential in MRI protocoling Radiology Business",
-        "arxiv.org: arXiv:2610.30631v2 Announce Type: replace Abstract: Medical knowledge evolves, yet whether large language models (LLMs) faithfully incorporate revisions into clinical recommendations remains unclear. We introduce ChronoEvo, comprising 1,709 recommendation-level revisions across 12 forms of medical knowledge change and 275 guideline lineages, to distinguish recognition of revised guidance from its full incorporation. With updated guideline evidence explicitly provided, revision recognition exceeded full incorporation across 14 models, with a 20.1-percentage-point gap in the strongest model. For Qwen3-4B, 90.8% of responses recognized revisions, 80.2% were clinically correct, and 58.5% fully incorporated them, yielding a 32.3-percentage-point gap. Two clinicians' adjudicated assessment of 300 responses yielded a 40.3-percentage-point gap in this enriched validation sample; 61 of 144 responses with incomplete incorporation were clinically incorrect. Prompting Qwen3-4B to prioritize revised evidence reduced outdated-content retention and improved clinical correctness without significantly improving full incorporation. These findings identify faithful incorporation of revised guidance as a distinct challenge for clinical LLM reliability."
-      ],
-      "l": [
-        {
-          "d": "radiologybusiness.com",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTTJ2bVBJN1VhQ0N2TXd6UnE5N0VXUVdTVjNqanJmcXZDeEptelZfZ3owWUVnRzJEQkVhbm9YWEdBZTVpUHlnazVFNnVBWXNLZUlaS1labVA2dU4yMlpkZWF3U0dlREtybUQ0LVBoUlBGYVlxdE9Ycml5OTRaZEJ6aVN6N1dLU3lXbDNVSmhrdTBQVzlKUG1zLTQ5a2RhTjQ0RE1LWGU4SUdnb1pNVkJqb21aTQ?oc=5"
-        },
-        {
-          "d": "arxiv.org",
-          "u": "https://arxiv.org/abs/2610.30631"
-        }
-      ],
-      "srcTitles": [
-        "Large language models show potential in MRI protocoling",
-        "Large language models show systematic failures in incorporating evolving medical knowledge"
       ]
     },
     {
@@ -496,6 +626,75 @@
       ],
       "srcTitles": [
         "Work at the Frontier: AI’s effect on freelance work"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-11-10T05:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "China touts tech, AI cred at world Web Summit",
+      "s": "China touts tech, AI cred at world Web Summit Yahoo Finance Singapore",
+      "b": [
+        "sg.finance.yahoo.com: China touts tech, AI cred at world Web Summit",
+        "arxiv.org: Web World Models",
+        "arxiv.org: Imperfect World Models are Exploitable"
+      ],
+      "body": [
+        "sg.finance.yahoo.com: China touts tech, AI cred at world Web Summit Yahoo Finance Singapore",
+        "arxiv.org: arXiv:2512.23676v2 Announce Type: replace Abstract: Language agents increasingly require persistent worlds in which they can act, remember, and learn. Existing approaches sit at two extremes: conventional web frameworks provide reliable but fixed contexts backed by databases, while fully generative world models aim for unlimited environments, but the world is constructed primarily through generation, making it harder to maintain a fixed, deterministic global framework and reducing controllability. In this work, we introduce the Web World Model (WWM), a middle ground where world state and ``physics'' are implemented in ordinary web code to ensure logical consistency, while large language models generate context, narratives, and high-level decisions on top of this structured latent state. We build a suite of WWMs on a realistic web stack, including an infinite travel atlas grounded in real geography, fictional galaxy explorers, web-scale encyclopedic and narrative worlds, and simulation- and game-like environments. Across these systems, we identify practical design principles for WWMs: separating code-defined rules from model-driven imagination, representing latent state as typed web interfaces, and utilizing deterministic generation to achieve unlimited but structured exploration. Our results suggest that web stacks themselves can serve as a scalable substrate for world models, enabling controllable yet open-ended environments.",
+        "arxiv.org: arXiv:2605.15960v3 Announce Type: replace Abstract: We propose a novel definition of model exploitation in reinforcement learning. Informally, a world model is exploitable if it implies that one policy should be strictly preferred over another while the environment's true transition model implies the reverse. We analogize our definition with a prior characterization of reward hacking but show that the associated proof of inevitability does not transfer to exploitation. To overcome this obstruction, we develop a general theory of reward hacking and model exploitation that proves that exploitation is essentially unavoidable on large policy sets and yields the corresponding claim for hacking as a special case. Unfortunately, we also find that the conditions that guarantee unhackability in finite policy sets have no counterpart that precludes exploitation. Consequently, we introduce a relaxed notion of exploitation and derive a safe horizon within which it can be avoided. Taken together, our results establish a formal bridge between reward hacking and model exploitation and elucidate the limits of safe planning in world models.",
+        "arxiv.org: arXiv:2606.04627v3 Announce Type: replace Abstract: Mobile agents are increasingly expected to operate everyday applications from screenshots and language goals, where reliable control requires reasoning over screen affordances, multi-step navigation, and future state changes. However, many agents externalize this computation as long textual chains of thought, which slows interaction, increases supervision cost, and complicates deployment. We introduce MIRAGE, a framework that learns continuous latent reasoning representations from visible textual reasoning traces. MIRAGE transfers explicit reasoning into compact hidden states, enabling the agent to reason internally without decoding long rationales. It also incorporates a generative world-model objective: latent reasoning vectors are aligned with future screenshots, encouraging the agent to anticipate upcoming interface states before acting. This turns hidden computation into both a compressed thought representation and a forward-looking model of environment dynamics. At inference time, MIRAGE reasons in continuous latent space, reducing token generation while improving execution efficiency. On AndroidWorld, MIRAGE matches explicit chain-of-thought supervised fine-tuning in the 4B ablation with a 3-5x lower decoded-token budget and improves a comparable instruction-tuned baseline by 10.2 points; on AndroidControl, it improves action grounding while generating over 75% fewer tokens."
+      ],
+      "l": [
+        {
+          "d": "sg.finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5LdGd0YnBsYXBXc01pTE9FQ0k3QlhQZ3FtNGdHVTY0NmR2NzdoZl9PbC1RanFXZGYtZVY5d1FYMnlQVFZCTEVmalJIZTZmV2RWWTJCYkxJLVpYSGhib3o4c2VzZ29jbGlBa2oxZE04cG1pWV85azB2Y1FkMldwUQ?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2512.23676"
+        }
+      ],
+      "srcTitles": [
+        "China touts tech, AI cred at world Web Summit",
+        "Web World Models",
+        "Imperfect World Models are Exploitable",
+        "MIRAGE: Mobile Agents with Implicit Reasoning and Generative World Models"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-11-10T00:10:55.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Large language models show potential in MRI protocoling",
+      "s": "Large language models show potential in MRI protocoling Radiology Business",
+      "b": [
+        "radiologybusiness.com: Large language models show potential in MRI protocoling",
+        "arxiv.org: Large language models show systematic failures in incorporating evolving medical knowledge"
+      ],
+      "body": [
+        "radiologybusiness.com: Large language models show potential in MRI protocoling Radiology Business",
+        "arxiv.org: arXiv:2610.30631v2 Announce Type: replace Abstract: Medical knowledge evolves, yet whether large language models (LLMs) faithfully incorporate revisions into clinical recommendations remains unclear. We introduce ChronoEvo, comprising 1,709 recommendation-level revisions across 12 forms of medical knowledge change and 275 guideline lineages, to distinguish recognition of revised guidance from its full incorporation. With updated guideline evidence explicitly provided, revision recognition exceeded full incorporation across 14 models, with a 20.1-percentage-point gap in the strongest model. For Qwen3-4B, 90.8% of responses recognized revisions, 80.2% were clinically correct, and 58.5% fully incorporated them, yielding a 32.3-percentage-point gap. Two clinicians' adjudicated assessment of 300 responses yielded a 40.3-percentage-point gap in this enriched validation sample; 61 of 144 responses with incomplete incorporation were clinically incorrect. Prompting Qwen3-4B to prioritize revised evidence reduced outdated-content retention and improved clinical correctness without significantly improving full incorporation. These findings identify faithful incorporation of revised guidance as a distinct challenge for clinical LLM reliability."
+      ],
+      "l": [
+        {
+          "d": "radiologybusiness.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTTJ2bVBJN1VhQ0N2TXd6UnE5N0VXUVdTVjNqanJmcXZDeEptelZfZ3owWUVnRzJEQkVhbm9YWEdBZTVpUHlnazVFNnVBWXNLZUlaS1labVA2dU4yMlpkZWF3U0dlREtybUQ0LVBoUlBGYVlxdE9Ycml5OTRaZEJ6aVN6N1dLU3lXbDNVSmhrdTBQVzlKUG1zLTQ5a2RhTjQ0RE1LWGU4SUdnb1pNVkJqb21aTQ?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.30631"
+        }
+      ],
+      "srcTitles": [
+        "Large language models show potential in MRI protocoling",
+        "Large language models show systematic failures in incorporating evolving medical knowledge"
       ]
     },
     {
