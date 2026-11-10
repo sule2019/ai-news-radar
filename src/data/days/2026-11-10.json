@@ -2,8 +2,45 @@
   "date": "2026-11-10",
   "stories": [
     {
+      "cat": "products",
+      "signal": 67,
+      "sources": 3,
+      "ts": "2026-11-10T13:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+      "s": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+      "b": [
+        "techcrunch.com: Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+        "theverge.com: Hands-on with Ring’s new AI drone camera for your home"
+      ],
+      "body": [
+        "techcrunch.com: Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
+        "theverge.com: Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/11/ring-cameras-go-mobile-as-amazon-debuts-ai-powered-security-drone-and-robot/"
+        }
+      ],
+      "srcTitles": [
+        "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
+        "Hands-on with Ring’s new AI drone camera for your home",
+        "Ring cameras go mobile as Amazon debuts AI-powered security drone and robot"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 64,
+      "signal": 60,
       "sources": 3,
       "ts": "2026-11-10T14:01:39.000Z",
       "writtenSources": 3,
@@ -38,6 +75,38 @@
         "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valuation of $1.404 trillion",
         "Anthropic targets $1.4 trillion IPO",
         "Anthropic targets valuation of up to US$1.4 trillion in blockbuster IPO"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-11-10T20:03:29.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI acquires Odessia, travel startup created by Sonder founder",
+      "s": "OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+      "b": [
+        "techcrunch.com: OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "phocuswire.com: OpenAI acquires AI travel agent Odessia"
+      ],
+      "body": [
+        "techcrunch.com: OpenAI has not yet said what its plans are for the future of travel. But Sonder founder Francis Davidson is a well-known figure in the travel industry.",
+        "phocuswire.com: OpenAI acquires AI travel agent Odessia PhocusWire"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/"
+        },
+        {
+          "d": "phocuswire.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVS1HcFNFU3laT3lqWTQ0cnNlSFN0Wko3a0w1dTNrRi1QZjQwV0ZmV1NyQjVzX1hpZWttTXdhSG1RZ2NIY2UxdERKS01fLURYMVg2aHlXVE5udUNKRnRkeTFaNE9GSW1QczVMV3VyVFVYT0lXUnBoX3RvOXFkM0gtM19NaWtCb00?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI acquires Odessia, travel startup created by Sonder founder",
+        "OpenAI acquires AI travel agent Odessia"
       ]
     },
     {
@@ -172,38 +241,6 @@
       ]
     },
     {
-      "cat": "policy",
-      "signal": 48,
-      "sources": 2,
-      "ts": "2026-11-10T02:31:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
-      "s": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ The Guardian",
-      "b": [
-        "theguardian.com: Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
-        "asia.nikkei.com: Australia plans new regulator for artificial intelligence after OpenAI hack"
-      ],
-      "body": [
-        "theguardian.com: Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ The Guardian",
-        "asia.nikkei.com: Australia plans new regulator for artificial intelligence after OpenAI hack Nikkei Asia"
-      ],
-      "l": [
-        {
-          "d": "theguardian.com",
-          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnBiX0Z2cUluNEtMVUJhSG83U09OQUo0ZzVxSUQtTXpxa2FMOWNvN1JZNVdMT1FUbW9tenFYOGNIWmxuLWZpOFc1bkFSN1d6Nk9kaklCczUwYjZXNkktT3NkX2hDOTRzT1prb0pmWWlObm9nbGJVa0NmWlZ4dU5NRS1XNXNHMkFLbDFreGxmd05EY3BZczR5NS1aYkdtSTAyQXl2eA?oc=5"
-        },
-        {
-          "d": "asia.nikkei.com",
-          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2V1VXBUemdrc3RZUEVkdWhqN1paUkN0bzBhQ3BXZUQ3RU95ZFh0VExqMnM2VTg1TUtob0MyNXZpdGJyRTZhZkpzNTIxal9DTFVFUC0xUHVBUUJvd056VDhtZlZRSnl2RFNpN3p0OW83SldCVHhZZ3dscTdUeHg5eGpMMjJnUTZWYzNCSURtT0psY2I1dldZWllVRkNldEp1bFU0Y0Q2ZXAxVzVTUFVrSWJfc25jeVdJbHdqSFVvTk9uSlFsdm85YlBJTE4xWDY0cV8tLVJtdGpqbGc?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
-        "Australia plans new regulator for artificial intelligence after OpenAI hack"
-      ]
-    },
-    {
       "cat": "products",
       "signal": 46,
       "sources": 1,
@@ -259,32 +296,32 @@
       "cat": "policy",
       "signal": 44,
       "sources": 2,
-      "ts": "2026-11-10T04:40:00.000Z",
+      "ts": "2026-11-10T02:31:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
-      "s": "James Mayger / Bloomberg : Australia is drafting legislation for an AI safety regulator empowered to impose significant penalties after an OpenAI model hacked a government site in Sept. Australia will",
+      "h": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+      "s": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ The Guardian",
       "b": [
-        "techmeme.com: Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
-        "apnews.com: Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
+        "theguardian.com: Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+        "asia.nikkei.com: Australia plans new regulator for artificial intelligence after OpenAI hack"
       ],
       "body": [
-        "techmeme.com: James Mayger / Bloomberg : Australia is drafting legislation for an AI safety regulator empowered to impose significant penalties after an OpenAI model hacked a government site in Sept. Australia will create a new artificial-intelligence safety regulator that will have the power to impose",
-        "apnews.com: Australia to launch AI safety regulator after OpenAI’s breach of a government portal AP News"
+        "theguardian.com: Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ The Guardian",
+        "asia.nikkei.com: Australia plans new regulator for artificial intelligence after OpenAI hack Nikkei Asia"
       ],
       "l": [
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261109/p53#a261109p53"
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnBiX0Z2cUluNEtMVUJhSG83U09OQUo0ZzVxSUQtTXpxa2FMOWNvN1JZNVdMT1FUbW9tenFYOGNIWmxuLWZpOFc1bkFSN1d6Nk9kaklCczUwYjZXNkktT3NkX2hDOTRzT1prb0pmWWlObm9nbGJVa0NmWlZ4dU5NRS1XNXNHMkFLbDFreGxmd05EY3BZczR5NS1aYkdtSTAyQXl2eA?oc=5"
         },
         {
-          "d": "apnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ01VX2RRcFVIUlZEYy1Ra3o1cjV1RkR1QlhhQ2FYdExZWFNtU0tBRW1zRVZrc1FEa2huTE1BMlNIWVJmTXoxemFyX1JwVVM2OXRnTzdsVjFvTjNSbE9xZXBaUG5NZDhwcnFRRnZ0R0xPaVVka3FQazFsaUNoa3F3NGphQXd5U2ZHYTZpSWE5MThRZUNhc0cySkZEQTVkcnR5TDRlM2ZFbkJfSC1aOEtHWWpLR2xmNUp4Ql9BQmhvS2o?oc=5"
+          "d": "asia.nikkei.com",
+          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2V1VXBUemdrc3RZUEVkdWhqN1paUkN0bzBhQ3BXZUQ3RU95ZFh0VExqMnM2VTg1TUtob0MyNXZpdGJyRTZhZkpzNTIxal9DTFVFUC0xUHVBUUJvd056VDhtZlZRSnl2RFNpN3p0OW83SldCVHhZZ3dscTdUeHg5eGpMMjJnUTZWYzNCSURtT0psY2I1dldZWllVRkNldEp1bFU0Y0Q2ZXAxVzVTUFVrSWJfc25jeVdJbHdqSFVvTk9uSlFsdm85YlBJTE4xWDY0cV8tLVJtdGpqbGc?oc=5"
         }
       ],
       "srcTitles": [
-        "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
-        "Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
+        "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+        "Australia plans new regulator for artificial intelligence after OpenAI hack"
       ]
     },
     {
@@ -327,8 +364,40 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-11-10T04:40:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
+      "s": "James Mayger / Bloomberg : Australia is drafting legislation for an AI safety regulator empowered to impose significant penalties after an OpenAI model hacked a government site in Sept. Australia will",
+      "b": [
+        "techmeme.com: Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
+        "apnews.com: Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
+      ],
+      "body": [
+        "techmeme.com: James Mayger / Bloomberg : Australia is drafting legislation for an AI safety regulator empowered to impose significant penalties after an OpenAI model hacked a government site in Sept. Australia will create a new artificial-intelligence safety regulator that will have the power to impose",
+        "apnews.com: Australia to launch AI safety regulator after OpenAI’s breach of a government portal AP News"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261109/p53#a261109p53"
+        },
+        {
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ01VX2RRcFVIUlZEYy1Ra3o1cjV1RkR1QlhhQ2FYdExZWFNtU0tBRW1zRVZrc1FEa2huTE1BMlNIWVJmTXoxemFyX1JwVVM2OXRnTzdsVjFvTjNSbE9xZXBaUG5NZDhwcnFRRnZ0R0xPaVVka3FQazFsaUNoa3F3NGphQXd5U2ZHYTZpSWE5MThRZUNhc0cySkZEQTVkcnR5TDRlM2ZFbkJfSC1aOEtHWWpLR2xmNUp4Ql9BQmhvS2o?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
+        "Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 43,
+      "signal": 39,
       "sources": 2,
       "ts": "2026-11-10T13:01:00.000Z",
       "writtenSources": 2,
@@ -360,7 +429,7 @@
     },
     {
       "cat": "funding",
-      "signal": 36,
+      "signal": 32,
       "sources": 2,
       "ts": "2026-11-10T17:19:24.000Z",
       "writtenSources": 2,
@@ -388,70 +457,6 @@
       "srcTitles": [
         "Oura agrees to acquire AI and on-demand doctor service Counsel Health for $625M, says Q4 revenue grew 153% YoY to $533M and FY 2026 revenue grew 92% to $1.75B (Mark Gurman/Bloomberg)",
         "Oura to acquire Counsel Health for $625 million, a big bet on AI care"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 36,
-      "sources": 2,
-      "ts": "2026-11-10T13:30:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-      "s": "Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-      "b": [
-        "techcrunch.com: Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-        "theverge.com: Hands-on with Ring’s new AI drone camera for your home"
-      ],
-      "body": [
-        "techcrunch.com: Amazon-owned Ring is pushing into robotics with the launch of a home security drone and a rolling robot designed to patrol and protect businesses.",
-        "theverge.com: Ring is finally shipping a flying indoor drone camera. For real this time. The Ring Drone Cam will arrive on January 27th, 2027, for $249.99, Ring founder Jamie Siminoff said at a launch event in New York City this week. If it does actually ship, it will arrive almost six years after the company announced [ ]"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/1030601/ring-drone-cam-hands-on-price-release-date-ai-pilot"
-        }
-      ],
-      "srcTitles": [
-        "Ring, known for its doorbell cameras, launches a home security drone and an enterprise security robot",
-        "Hands-on with Ring’s new AI drone camera for your home"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-11-10T15:03:46.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Pending: AI In The Workplace : 1A",
-      "s": "Pending: AI In The Workplace : 1A NPR",
-      "b": [
-        "npr.org: Pending: AI In The Workplace : 1A",
-        "wamu.org: Pending: AI in the workplace"
-      ],
-      "body": [
-        "npr.org: Pending: AI In The Workplace : 1A NPR",
-        "wamu.org: Pending: AI in the workplace WAMU"
-      ],
-      "l": [
-        {
-          "d": "npr.org",
-          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYWJsLVhlMmpwc0RnZ3NWR05WZ0FQYm9LRmVrTm1ZS19tNWhVWkxxSGlEcTE5RWd6N2JDTHItcEtkNGRBN1V0Zy05ZXpCanNLTnJNN0RacUpIRTg1WThUMVBEd1loUFZ4a2RvYWRWbXB2YVZMaFMyY3gwV3I?oc=5"
-        },
-        {
-          "d": "wamu.org",
-          "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfVVp6RlJMX2UzNGM5V0E4VnZMSXdLdFlSNENjdjFQVnE0UDBRN2FEMGNndDRLOWRLOGhVejE0azZ6Q1N4SER0M0hfLVQ3MElGRzdDUERyUTRUZFd3T0h1SF9heG1pRlZLNGJvSw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Pending: AI In The Workplace : 1A",
-        "Pending: AI in the workplace"
       ]
     },
     {
@@ -629,8 +634,40 @@
       ]
     },
     {
-      "cat": "funding",
+      "cat": "models",
       "signal": 22,
+      "sources": 2,
+      "ts": "2026-11-10T15:03:46.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Pending: AI In The Workplace : 1A",
+      "s": "Pending: AI In The Workplace : 1A NPR",
+      "b": [
+        "npr.org: Pending: AI In The Workplace : 1A",
+        "wamu.org: Pending: AI in the workplace"
+      ],
+      "body": [
+        "npr.org: Pending: AI In The Workplace : 1A NPR",
+        "wamu.org: Pending: AI in the workplace WAMU"
+      ],
+      "l": [
+        {
+          "d": "npr.org",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4yYWJsLVhlMmpwc0RnZ3NWR05WZ0FQYm9LRmVrTm1ZS19tNWhVWkxxSGlEcTE5RWd6N2JDTHItcEtkNGRBN1V0Zy05ZXpCanNLTnJNN0RacUpIRTg1WThUMVBEd1loUFZ4a2RvYWRWbXB2YVZMaFMyY3gwV3I?oc=5"
+        },
+        {
+          "d": "wamu.org",
+          "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBfVVp6RlJMX2UzNGM5V0E4VnZMSXdLdFlSNENjdjFQVnE0UDBRN2FEMGNndDRLOWRLOGhVejE0azZ6Q1N4SER0M0hfLVQ3MElGRzdDUERyUTRUZFd3T0h1SF9heG1pRlZLNGJvSw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Pending: AI In The Workplace : 1A",
+        "Pending: AI in the workplace"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 18,
       "sources": 2,
       "ts": "2026-11-10T05:00:00.000Z",
       "writtenSources": 2,
@@ -667,7 +704,7 @@
     },
     {
       "cat": "models",
-      "signal": 22,
+      "signal": 18,
       "sources": 2,
       "ts": "2026-11-10T00:10:55.000Z",
       "writtenSources": 2,
