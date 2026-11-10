@@ -3,7 +3,160 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 29,
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-11-10T04:40:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
+      "s": "James Mayger / Bloomberg : Australia is drafting legislation for an AI safety regulator empowered to impose significant penalties after an OpenAI model hacked a government site in Sept. Australia will",
+      "b": [
+        "techmeme.com: Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
+        "apnews.com: Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
+      ],
+      "body": [
+        "techmeme.com: James Mayger / Bloomberg : Australia is drafting legislation for an AI safety regulator empowered to impose significant penalties after an OpenAI model hacked a government site in Sept. Australia will create a new artificial-intelligence safety regulator that will have the power to impose",
+        "apnews.com: Australia to launch AI safety regulator after OpenAI’s breach of a government portal AP News"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261109/p53#a261109p53"
+        },
+        {
+          "d": "apnews.com",
+          "u": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ01VX2RRcFVIUlZEYy1Ra3o1cjV1RkR1QlhhQ2FYdExZWFNtU0tBRW1zRVZrc1FEa2huTE1BMlNIWVJmTXoxemFyX1JwVVM2OXRnTzdsVjFvTjNSbE9xZXBaUG5NZDhwcnFRRnZ0R0xPaVVka3FQazFsaUNoa3F3NGphQXd5U2ZHYTZpSWE5MThRZUNhc0cySkZEQTVkcnR5TDRlM2ZFbkJfSC1aOEtHWWpLR2xmNUp4Ql9BQmhvS2o?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Australia is drafting legislation for an AI safety regulator empowered to impose \"significant penalties\" after an OpenAI model hacked a government site in Sept. (James Mayger/Bloomberg)",
+        "Australia to launch AI safety regulator after OpenAI’s breach of a government portal"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 48,
+      "sources": 2,
+      "ts": "2026-11-10T02:31:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+      "s": "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ The Guardian",
+      "b": [
+        "theguardian.com: Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+        "asia.nikkei.com: Australia plans new regulator for artificial intelligence after OpenAI hack"
+      ],
+      "body": [
+        "theguardian.com: Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’ The Guardian",
+        "asia.nikkei.com: Australia plans new regulator for artificial intelligence after OpenAI hack Nikkei Asia"
+      ],
+      "l": [
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdnBiX0Z2cUluNEtMVUJhSG83U09OQUo0ZzVxSUQtTXpxa2FMOWNvN1JZNVdMT1FUbW9tenFYOGNIWmxuLWZpOFc1bkFSN1d6Nk9kaklCczUwYjZXNkktT3NkX2hDOTRzT1prb0pmWWlObm9nbGJVa0NmWlZ4dU5NRS1XNXNHMkFLbDFreGxmd05EY3BZczR5NS1aYkdtSTAyQXl2eA?oc=5"
+        },
+        {
+          "d": "asia.nikkei.com",
+          "u": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPM2V1VXBUemdrc3RZUEVkdWhqN1paUkN0bzBhQ3BXZUQ3RU95ZFh0VExqMnM2VTg1TUtob0MyNXZpdGJyRTZhZkpzNTIxal9DTFVFUC0xUHVBUUJvd056VDhtZlZRSnl2RFNpN3p0OW83SldCVHhZZ3dscTdUeHg5eGpMMjJnUTZWYzNCSURtT0psY2I1dldZWllVRkNldEp1bFU0Y0Q2ZXAxVzVTUFVrSWJfc25jeVdJbHdqSFVvTk9uSlFsdm85YlBJTE4xWDY0cV8tLVJtdGpqbGc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Australia to introduce mandatory reporting after OpenAI hack to combat artificial intelligence ‘going rogue’",
+        "Australia plans new regulator for artificial intelligence after OpenAI hack"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-11-10T08:52:28.080Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Closing the AI guidance gap in education",
+      "s": "Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning.",
+      "b": [
+        "openai.com: Closing the AI guidance gap in education"
+      ],
+      "body": [
+        "openai.com: Lessons from OpenAI’s EMEA education partnerships and new ThinkYoung research. Supporting teachers, AI literacy and independent learning."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/closing-ai-guidance-gap-education"
+        }
+      ],
+      "srcTitles": [
+        "Closing the AI guidance gap in education"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-10T03:25:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Applied Materials vs. Dell Technologies: Comparing Stable vs. Accelerating Revenue Between These Artificial Intelligence Companies",
+      "s": "Applied Materials vs. Dell Technologies: Comparing Stable vs. Accelerating Revenue Between These Artificial Intelligence Companies The Motley Fool",
+      "b": [
+        "fool.com: Applied Materials vs. Dell Technologies: Comparing Stable vs. Accelerating Revenue Between These Artificial Intelligence Companies",
+        "finance.yahoo.com: Applied Materials vs. Dell Technologies: Comparing Stable vs. Accelerating Revenue Between These Artificial Intelligence Companies"
+      ],
+      "body": [
+        "fool.com: Applied Materials vs. Dell Technologies: Comparing Stable vs. Accelerating Revenue Between These Artificial Intelligence Companies The Motley Fool",
+        "finance.yahoo.com: Applied Materials vs. Dell Technologies: Comparing Stable vs. Accelerating Revenue Between These Artificial Intelligence Companies Yahoo Finance"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObFJVMzhzQVVWbGxyZGdXcTV6YnVsVG05cUp4T083ekE5alZnMUVKSXVlZnJCMGhBN3p2SXVtOUlrd0IybXJGUUtzd3V2WWF5aGlocGdxUGt5U1k5SzJZX2R5eUtOeTBBQmdQSmZiQVpma0c5aXNQWTIzWm1lcFU5YlBMdE5Ubzc1TUhyVnNocGk4VjM3TE1NYnRkTk5SS3FnWTdoLTVLVG9xcTN6a09YUmJYd3FpS1N5eUxpTGNTR0ZYQ1ExNkwzRkR1cHhmUGRqeDRFaXlWYW5McFE1ZzlXOHhjd1pzSGR6bHpBYXgyVmE2bTYtQmpQeUZoRjFENVJmWW5ZemhPRQ?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXJnQV9qN3hzblgybEhvTU5aRkpmOTF4NmpQN2JZamxzWUxJd0lSR0dvU0tuMzd4MldpZXMtMmVoTS1wc3JJSzJibjZqNVVTQlZxYlliMUtOMjVoNkVlVWE1OTI1bTZfeEwwLVdUcXhZMVloTGRSdnZZUEljakJWRVpwSXVyRG9yNWVnOEdyR2xnVEg4NnFnYy1hYnZqTExRNEM1TEtn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Applied Materials vs. Dell Technologies: Comparing Stable vs. Accelerating Revenue Between These Artificial Intelligence Companies",
+        "Applied Materials vs. Dell Technologies: Comparing Stable vs. Accelerating Revenue Between These Artificial Intelligence Companies"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-10T00:10:55.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Large language models show potential in MRI protocoling",
+      "s": "Large language models show potential in MRI protocoling Radiology Business",
+      "b": [
+        "radiologybusiness.com: Large language models show potential in MRI protocoling",
+        "arxiv.org: Large language models show systematic failures in incorporating evolving medical knowledge"
+      ],
+      "body": [
+        "radiologybusiness.com: Large language models show potential in MRI protocoling Radiology Business",
+        "arxiv.org: arXiv:2610.30631v2 Announce Type: replace Abstract: Medical knowledge evolves, yet whether large language models (LLMs) faithfully incorporate revisions into clinical recommendations remains unclear. We introduce ChronoEvo, comprising 1,709 recommendation-level revisions across 12 forms of medical knowledge change and 275 guideline lineages, to distinguish recognition of revised guidance from its full incorporation. With updated guideline evidence explicitly provided, revision recognition exceeded full incorporation across 14 models, with a 20.1-percentage-point gap in the strongest model. For Qwen3-4B, 90.8% of responses recognized revisions, 80.2% were clinically correct, and 58.5% fully incorporated them, yielding a 32.3-percentage-point gap. Two clinicians' adjudicated assessment of 300 responses yielded a 40.3-percentage-point gap in this enriched validation sample; 61 of 144 responses with incomplete incorporation were clinically incorrect. Prompting Qwen3-4B to prioritize revised evidence reduced outdated-content retention and improved clinical correctness without significantly improving full incorporation. These findings identify faithful incorporation of revised guidance as a distinct challenge for clinical LLM reliability."
+      ],
+      "l": [
+        {
+          "d": "radiologybusiness.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTTJ2bVBJN1VhQ0N2TXd6UnE5N0VXUVdTVjNqanJmcXZDeEptelZfZ3owWUVnRzJEQkVhbm9YWEdBZTVpUHlnazVFNnVBWXNLZUlaS1labVA2dU4yMlpkZWF3U0dlREtybUQ0LVBoUlBGYVlxdE9Ycml5OTRaZEJ6aVN6N1dLU3lXbDNVSmhrdTBQVzlKUG1zLTQ5a2RhTjQ0RE1LWGU4SUdnb1pNVkJqb21aTQ?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2610.30631"
+        }
+      ],
+      "srcTitles": [
+        "Large language models show potential in MRI protocoling",
+        "Large language models show systematic failures in incorporating evolving medical knowledge"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 25,
       "sources": 2,
       "ts": "2026-11-09T22:30:00.000Z",
       "writtenSources": 2,
