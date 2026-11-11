@@ -2,8 +2,40 @@
   "date": "2026-11-11",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-11-11T12:50:51.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic's IPO roadshow video: Dario Amodei says cancer, Alzheimer's, heart disease, and mental illness will be \"relics of the past\" in \"less than a decade\" (@firesidealpha)",
+      "s": "@firesidealpha : Anthropic's IPO roadshow video: Dario Amodei says cancer, Alzheimer's, heart disease, and mental illness will be relics of the past in less than a decade Dario Amodei says cancer, Alz",
+      "b": [
+        "techmeme.com: Anthropic's IPO roadshow video: Dario Amodei says cancer, Alzheimer's, heart disease, and mental illness will be \"relics of the past\" in \"less than a decade\" (@firesidealpha)",
+        "simonwillison.net: Anthropic's IPO roadshow video"
+      ],
+      "body": [
+        "techmeme.com: @firesidealpha : Anthropic's IPO roadshow video: Dario Amodei says cancer, Alzheimer's, heart disease, and mental illness will be relics of the past in less than a decade Dario Amodei says cancer, Alzheimer's, heart disease, and mental illness will be relics of the past in less than a decade, and that we can create an age of miracles",
+        "simonwillison.net: Anthropic s IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom Brown is particularly interesting, describing how Anthropic train and serve Claude across AWS Trainium, Google TPUs, NVIDIA GPUs, and AMD GPUs. I'm not sure why there's no official video transcript, but here's one that I extracted using MacWhisper. Highlights below: We train and serve Claude now across all four major chip families. That's only possible because early on we made an unconventional bet on a multi-chip strategy. At the time, many people thought that running AI models on different chips wasn't worth the effort. Each chip needs its own tailored software stack and inference stack, which is expensive and difficult to build. We've now been doing it for years, and we've gotten incredibly good at it. [...] As an example, this year, we started working with AMD GPUs for the first time. In the past, bringing on a new chip platform took dozens of engineers months of work This time, we had Mythos try it out. It got Claude running on AMD in just three days, with basically no human intervention . Claude ported or wrote almost 100% of the kernels. [...] The second driver of our compute advantage is our rate of discovery of compute multipliers. We focus on total effective compute, which is the multiplicative product of physical capacity times the compute multipliers that we discover. Each one we discover makes our pool of total effective compute bigger. For example, say you need 100 units of compute to train a model of a certain intelligence. A 4x compute multiplier means you can use 25 units of compute to train the exact same model. Or you can use those hundred physical units to train an even more intelligent model that would have previously required 400 units. Compute multipliers create a competitive advantage for us that's hard to r"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261111/p23#a261111p23"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic's IPO roadshow video: Dario Amodei says cancer, Alzheimer's, heart disease, and mental illness will be \"relics of the past\" in \"less than a decade\" (@firesidealpha)",
+        "Anthropic's IPO roadshow video"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-11-10T23:14:00.000Z",
       "writtenSources": 2,
@@ -35,7 +67,7 @@
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 46,
       "sources": 1,
       "ts": "2026-11-11T06:44:20.887Z",
       "writtenSources": 1,
@@ -62,25 +94,25 @@
       "cat": "models",
       "signal": 30,
       "sources": 1,
-      "ts": "2026-11-11T09:00:00.000Z",
+      "ts": "2026-11-11T15:00:15.000Z",
       "writtenSources": 1,
       "draft": true,
-      "h": "Experience the art and legacy of Dr. Esther Mahlangu",
-      "s": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+      "h": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "s": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
       "b": [
-        "blog.google: Experience the art and legacy of Dr. Esther Mahlangu"
+        "deepmind.google: AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
       ],
       "body": [
-        "blog.google: A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
+        "deepmind.google: Predicting how DNA sequences and their variations impact specific human cell types and disease."
       ],
       "l": [
         {
-          "d": "blog.google",
-          "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
         }
       ],
       "srcTitles": [
-        "Experience the art and legacy of Dr. Esther Mahlangu"
+        "AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
       ]
     },
     {
@@ -106,6 +138,31 @@
       ],
       "srcTitles": [
         "Gilbert + Tobin rethinks the business of law with AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-11T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "s": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+      "b": [
+        "blog.google: Experience the art and legacy of Dr. Esther Mahlangu"
+      ],
+      "body": [
+        "blog.google: A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
+        }
+      ],
+      "srcTitles": [
+        "Experience the art and legacy of Dr. Esther Mahlangu"
       ]
     }
   ]
