@@ -3,6 +3,38 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-11-10T23:14:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls (Owen Walker/Financial Times)",
+      "s": "Owen Walker / Financial Times : The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls A suspected C",
+      "b": [
+        "techmeme.com: The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls (Owen Walker/Financial Times)",
+        "politico.com: Nvidia’s spy scandal threatens America’s AI edge"
+      ],
+      "body": [
+        "techmeme.com: Owen Walker / Financial Times : The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls A suspected Chinese spy and Singaporean chip deal reveal the Asian networks testing Washington's grip on AI technology",
+        "politico.com: Nvidia’s spy scandal threatens America’s AI edge Politico"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261111/p7#a261111p7"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1tUnRhLTd0OV9sOXkybXVjb0NLVlNUX09mZkpnb0JCRVpLU0t1cWhGY3Myeks5YlJTYmRjQ2xDaUVaa0ZPRnV2WDdRMHJMUmIwcDQ3MkxuRWluMHlTWndlTWI2VVg4NGdka3I5RU5JdlVSbHFnbnpkeTJPYw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "The Nvidia spy scandal exposes networks operating in Singapore that help Chinese tech companies access advanced US AI chips and circumvent export controls (Owen Walker/Financial Times)",
+        "Nvidia’s spy scandal threatens America’s AI edge"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 52,
       "sources": 1,
       "ts": "2026-11-11T06:44:20.887Z",
@@ -24,6 +56,31 @@
       ],
       "srcTitles": [
         "ChatGPT Plus for veterans and servicemembers"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 1,
+      "ts": "2026-11-11T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Experience the art and legacy of Dr. Esther Mahlangu",
+      "s": "A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture.",
+      "b": [
+        "blog.google: Experience the art and legacy of Dr. Esther Mahlangu"
+      ],
+      "body": [
+        "blog.google: A new online archive of Esther Mahlangu’s life and art is now on Google Arts & Culture."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/"
+        }
+      ],
+      "srcTitles": [
+        "Experience the art and legacy of Dr. Esther Mahlangu"
       ]
     },
     {
