@@ -2,8 +2,118 @@
   "date": "2026-11-11",
   "stories": [
     {
+      "cat": "products",
+      "signal": 70,
+      "sources": 3,
+      "ts": "2026-11-11T18:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "s": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+      "b": [
+        "blog.google: Gemini Decisions API: Fast, calibrated multimodal decisions",
+        "simonwillison.net: Gemini Decisions API",
+        "techmeme.com: Google launches Gemini Decisions API, powered by its new Gemini Decision 1 model, to return predefined answers with confidence scores, at $0.10/1M input tokens (Google)"
+      ],
+      "body": [
+        "blog.google: Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.",
+        "simonwillison.net: Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three types of questions (yes/no, choice, and rubric-scoring) and even reuses Jev's term \"Noul\" for a yes/no question. It's priced the same as the GPT-6 Luna decision model: 10 cents per million input tokens, and output is free. Jev remains the cheapest of the three, at 4.2 cents per million. Jev is text (and JSON) only. OpenAI can handle text and images. Gemini Decision 1 is fully multi-model: it covers text, images, audio, video, and PDFs. I tested it against video by passing these questions to it along with my Yonkers stomping robot video file: dragon: Does this video have a dragon in it? robot: Does this video have a robot in it? france: Is this video set in France? usa: Is this video set in the USA? Jev and OpenAI both return 1.0 or 0.0 for yes/no questions, but Gemini insists on being a little less confident than that: { \"dragon\" : { \"type\" : \" yes_no \" , \"probability\" : 0.04976021841520312 }, \"robot\" : { \"type\" : \" yes_no \" , \"probability\" : 0.9234055387792485 }, \"france\" : { \"type\" : \" yes_no \" , \"probability\" : 0.08329171353166241 }, \"usa\" : { \"type\" : \" yes_no \" , \"probability\" : 0.9230459995157706 } } Via Hacker News Tags: ai , generative-ai , gemini , llm-release , jev , decision-models",
+        "techmeme.com: Google : Google launches Gemini Decisions API, powered by its new Gemini Decision 1 model, to return predefined answers with confidence scores, at $0.10/1M input tokens Introducing the Gemini Decisions API, powered by our new Gemini Decision 1 model. Evaluate up to 1,000 yes/no, choice"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261111/p40#a261111p40"
+        }
+      ],
+      "srcTitles": [
+        "Gemini Decisions API: Fast, calibrated multimodal decisions",
+        "Gemini Decisions API",
+        "Google launches Gemini Decisions API, powered by its new Gemini Decision 1 model, to return predefined answers with confidence scores, at $0.10/1M input tokens (Google)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 62,
+      "sources": 3,
+      "ts": "2026-11-11T18:51:56.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code (Todd Bishop/GeekWire)",
+      "s": "Todd Bishop / GeekWire : AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code AWS says its eng",
+      "b": [
+        "techmeme.com: AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code (Todd Bishop/GeekWire)",
+        "simonwillison.net: aws-emulator",
+        "geekwire.com: AWS gives developers a free local stand-in for its cloud, built from scratch by AI agents"
+      ],
+      "body": [
+        "techmeme.com: Todd Bishop / GeekWire : AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code AWS says its engineers didn't write or review a single line of code in its newest developer tool, and the company is touting that as a selling point.",
+        "simonwillison.net: aws-emulator Finally, an official emulator from AWS to run tests against a local clone of their many different services without having to provision a paid API key to do so. It's written in Rust by a huge swarm of agents - 29,684 commits in the first three weeks of the project. Swaminathan (Swami) Sivasubramanian wrote about how it came to be in a guest post on Werner Vogels' blog. It currently requires Docker to run on macOS or Windows. I'm hoping they fix that in the future - it would be great if you could download a single binary and use that as part of a standard test suite in other languages and on other platforms. Tags: amazon , amazon-web-services , testing , werner-vogels , ai , rust , docker , generative-ai , llms , agentic-engineering",
+        "geekwire.com: AWS gives developers a free local stand-in for its cloud, built from scratch by AI agents GeekWire"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261111/p41#a261111p41"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Nov/11/aws-emulator/"
+        },
+        {
+          "d": "geekwire.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObk95bFN4Zjg5OVdqUGNDenV6WlYteUZGc2l0V241elh4WDViNkZ3NzhMX1hfWlJqTm13RTlKLTZkRVhqRHF6ZWgwQWFoLVpsRVdxZ3JmbmRaemxIdG4zN0hwWkNTQnk2ZG9mVmVVR1VjV1l2Rm9MN0JfVE9VUmJSSUFHQWFELWIybGN3OC1VSEw3TExVQ29CZ1Q5QUtRMjVaY3AwOFdXeWZyeXZVN3haUEQ1cnpiOVVhTFUw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AWS releases AWS Emulator, a free tool that simulates 200+ of its services locally, saying AI agents wrote it and its team hasn't written or reviewed any code (Todd Bishop/GeekWire)",
+        "aws-emulator",
+        "AWS gives developers a free local stand-in for its cloud, built from scratch by AI agents"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-11-11T21:55:36.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: Jensen Huang had an extramarital relationship with Nvidia's VP of healthcare, Kimberly Powell, who reports to him; it was discussed inside the company (New York Times)",
+      "s": "New York Times : Sources: Jensen Huang had an extramarital relationship with Nvidia's VP of healthcare, Kimberly Powell, who reports to him; it was discussed inside the company Mr. Huang, Nvidia's chi",
+      "b": [
+        "techmeme.com: Sources: Jensen Huang had an extramarital relationship with Nvidia's VP of healthcare, Kimberly Powell, who reports to him; it was discussed inside the company (New York Times)",
+        "nytimes.com: Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him"
+      ],
+      "body": [
+        "techmeme.com: New York Times : Sources: Jensen Huang had an extramarital relationship with Nvidia's VP of healthcare, Kimberly Powell, who reports to him; it was discussed inside the company Mr. Huang, Nvidia's chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.",
+        "nytimes.com: Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him The New York Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261111/p43#a261111p43"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPV0NCNjVPR0M2THpMdkhiTW5jZUlmVXJzNHk4YjZYeWtGZHc3Vk81V3czUXBBVjktcXlSLWs3MFdyWkRtcmRpV1BmY1hKckhyU3RYWEdsTWlGcnhFVFVNakRLLWZvREpURHJnRVVSdmZEcHJWU2p5YWJZX1pEWGRWRDB1aw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: Jensen Huang had an extramarital relationship with Nvidia's VP of healthcare, Kimberly Powell, who reports to him; it was discussed inside the company (New York Times)",
+        "Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-11-11T12:50:51.000Z",
       "writtenSources": 2,
@@ -35,7 +145,32 @@
     },
     {
       "cat": "models",
-      "signal": 48,
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-11-11T06:44:20.887Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "ChatGPT Plus for veterans and servicemembers",
+      "s": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "b": [
+        "openai.com: ChatGPT Plus for veterans and servicemembers"
+      ],
+      "body": [
+        "openai.com: More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/chatgpt-plus-for-veterans"
+        }
+      ],
+      "srcTitles": [
+        "ChatGPT Plus for veterans and servicemembers"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 44,
       "sources": 2,
       "ts": "2026-11-10T23:14:00.000Z",
       "writtenSources": 2,
@@ -66,28 +201,35 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 46,
-      "sources": 1,
-      "ts": "2026-11-11T06:44:20.887Z",
-      "writtenSources": 1,
+      "cat": "policy",
+      "signal": 40,
+      "sources": 2,
+      "ts": "2026-11-11T21:24:35.000Z",
+      "writtenSources": 2,
       "draft": true,
-      "h": "ChatGPT Plus for veterans and servicemembers",
-      "s": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "h": "United won’t let your AI agent book your flight",
+      "s": "United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book t",
       "b": [
-        "openai.com: ChatGPT Plus for veterans and servicemembers"
+        "theverge.com: United won’t let your AI agent book your flight",
+        "cbsnews.com: United Airlines bans AI agents from booking flights on behalf of travelers"
       ],
       "body": [
-        "openai.com: More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers."
+        "theverge.com: United says it won't let personal AI assistants book tickets on the airline, citing both privacy and regulatory concerns. The company says it hasn't yet seen many people try to use AI agents to book their flights, The Wall Street Journal reports, in line with observations from other businesses like Doordash. But United is concerned [ ]",
+        "cbsnews.com: Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 155 # Comments: 138"
       ],
       "l": [
         {
-          "d": "openai.com",
-          "u": "https://openai.com/index/chatgpt-plus-for-veterans"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+        },
+        {
+          "d": "cbsnews.com",
+          "u": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
         }
       ],
       "srcTitles": [
-        "ChatGPT Plus for veterans and servicemembers"
+        "United won’t let your AI agent book your flight",
+        "United Airlines bans AI agents from booking flights on behalf of travelers"
       ]
     },
     {
@@ -113,56 +255,6 @@
       ],
       "srcTitles": [
         "Gilbert + Tobin rethinks the business of law with AI"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-11-11T16:00:00.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
-      "s": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
-      "b": [
-        "blog.google: Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together."
-      ],
-      "body": [
-        "blog.google: Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
-      ],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
-        }
-      ],
-      "srcTitles": [
-        "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together."
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 27,
-      "sources": 1,
-      "ts": "2026-11-11T15:00:15.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
-      "s": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
-      "b": [
-        "deepmind.google: AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
-      ],
-      "body": [
-        "deepmind.google: Predicting how DNA sequences and their variations impact specific human cell types and disease."
-      ],
-      "l": [
-        {
-          "d": "deepmind.google",
-          "u": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
-        }
-      ],
-      "srcTitles": [
-        "AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
       ]
     },
     {
@@ -201,6 +293,56 @@
       "cat": "models",
       "signal": 24,
       "sources": 1,
+      "ts": "2026-11-11T16:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
+      "s": "Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist.",
+      "b": [
+        "blog.google: Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together."
+      ],
+      "body": [
+        "blog.google: Tabletop is a new Google Labs experiment for group collaboration. Build interactive itineraries, polls, and brackets with your team. Join the waitlist."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/"
+        }
+      ],
+      "srcTitles": [
+        "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together."
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-11T15:00:15.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+      "s": "Predicting how DNA sequences and their variations impact specific human cell types and disease.",
+      "b": [
+        "deepmind.google: AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
+      ],
+      "body": [
+        "deepmind.google: Predicting how DNA sequences and their variations impact specific human cell types and disease."
+      ],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/"
+        }
+      ],
+      "srcTitles": [
+        "AlphaGenome 2: Deciphering how cells read DNA to better understand disease"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
       "ts": "2026-11-11T09:00:00.000Z",
       "writtenSources": 1,
       "draft": true,
@@ -220,6 +362,31 @@
       ],
       "srcTitles": [
         "Experience the art and legacy of Dr. Esther Mahlangu"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-11T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "s": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
+      "b": [
+        "openai.com: JioStar’s chief architect on AI discovery at 500M-user scale"
+      ],
+      "body": [
+        "openai.com: JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/jiostar-vijay-seshadri"
+        }
+      ],
+      "srcTitles": [
+        "JioStar’s chief architect on AI discovery at 500M-user scale"
       ]
     }
   ]
