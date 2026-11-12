@@ -2,56 +2,8 @@
   "date": "2026-11-12",
   "stories": [
     {
-      "cat": "models",
-      "signal": 83,
-      "sources": 11,
-      "ts": "2026-11-11T22:32:14.000Z",
-      "writtenSources": 4,
-      "draft": true,
-      "h": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "s": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "b": [
-        "techcrunch.com: Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-        "theverge.com: Nvidia is reportedly preparing to fire Jensen Huang",
-        "techmeme.com: Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search (Bloomberg)"
-      ],
-      "body": [
-        "techcrunch.com: As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-        "theverge.com: Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [ ]",
-        "techmeme.com: Bloomberg : Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search Nvidia Corp.'s board has been working with an outside firm to identify potential replacements for Chief Executive Officer Jensen",
-        "techmeme.com: Wall Street Journal : Sources: Nvidia's board is preparing to oust Jensen Huang and is meeting on Wednesday to determine his future; NVDA drops 7%+ after hours Move follows company investigation into an affair with a Chinese woman alleged to be a spy Nvidia's board is preparing to oust CEO Jensen Huang"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
-        },
-        {
-          "d": "wired.com",
-          "u": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261112/p38#a261112p38"
-        },
-        {
-          "d": "+7"
-        }
-      ],
-      "srcTitles": [
-        "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-        "Nvidia CEO Jensen Huang has resigned. What happens next?",
-        "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
-        "Nvidia is reportedly preparing to fire Jensen Huang"
-      ]
-    },
-    {
       "cat": "products",
-      "signal": 77,
+      "signal": 74,
       "sources": 4,
       "ts": "2026-11-12T14:14:33.000Z",
       "writtenSources": 4,
@@ -91,12 +43,12 @@
         "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
         "Meet Colette Kress, Nvidia’s New Interim CEO",
         "Colette Kress may take a more conservative approach than Jensen Huang; sources say she sometimes pushed back on his riskier deals like backstopping OpenAI (Phoebe Liu/The Information)",
-        "Staff email: interim Nvidia CEO Colette Kress cites \"an extraordinarily difficult period\" and sets a meeting to \"hear more from leadership\" on November 18 (Terrence O'Brien/The Verge)"
+        "Staff email: interim Nvidia CEO Colette Kress cites \"an extraordinarily difficult period\" and promises \"more from leadership\" and a company November 18 meeting (Terrence O'Brien/The Verge)"
       ]
     },
     {
       "cat": "policy",
-      "signal": 68,
+      "signal": 59,
       "sources": 3,
       "ts": "2026-11-12T14:40:36.000Z",
       "writtenSources": 3,
@@ -120,19 +72,54 @@
           "u": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261112/p32#a261112p32"
-        },
-        {
           "d": "scientificamerican.com",
           "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmJBdUxCTmFMc1YzNXl4LUVoRE40dDlJMVFzZFlOOWVJZllndmxjUzU1VGVTcDU1NEZBeVNsSE5OY0c1bTkyWGRYRTQ4SmJhcFVGc08zd1JkTEplcFJ5YjAxMmpEbDJ1MUtoaUJidWZCd0E3MUFMZHpDOHI5Y2szQ0J0Q2tCY195Rk1zc3l2akpkdTRfOFNVQ3czRGR5ZDlTVVBMM1dCVjNoNDFmOVFyYi1adw?oc=5"
+        },
+        {
+          "d": "sg.news.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTNCUmJZWEpfTHN5TnpvNXZQdDlNcjRrWHdXLXdHazRPbEU4R3hqazdtYURHRDNlY1pOdHM1Wi1lMzhHcWZGZUpLeVlwZVFOUFBuMlA3dzdRNGZPX2kyVlBNbGFka0Q5b1Zwcy1zb1Z3NXVVYTkwcnJZbDhsazdBUFlQT3o?oc=5"
         }
       ],
       "srcTitles": [
         "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-        "Jensen Huang's Nvidia ploughed its vast profits into bankrolling AI startups, suppliers, and chip customers, a web of dependencies that could now unravel (Financial Times)",
         "What Jensen Huang leaving Nvidia means for AI",
-        "Jensen Huang's resignation caps a 33-year career, growing Nvidia from a GPU maker to AI giant; born in Taiwan, he moved to the US at 10 and owns 3.6% of Nvidia (Amrith Ramkumar/Wall Street Journal)"
+        "AI industry reassesses future without Jensen Huang at Nvidia"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-11-11T22:32:14.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "s": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "b": [
+        "techcrunch.com: Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "theverge.com: Nvidia is reportedly preparing to fire Jensen Huang",
+        "techmeme.com: Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search (Bloomberg)"
+      ],
+      "body": [
+        "techcrunch.com: As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+        "theverge.com: Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [ ]",
+        "techmeme.com: Bloomberg : Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search Nvidia Corp.'s board has been working with an outside firm to identify potential replacements for Chief Executive Officer Jensen",
+        "techmeme.com: Wall Street Journal : Sources: Nvidia's board is preparing to oust Jensen Huang and is meeting on Wednesday to determine his future; NVDA drops 7%+ after hours Move follows company investigation into an affair with a Chinese woman alleged to be a spy Nvidia's board is preparing to oust CEO Jensen Huang"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "Nvidia CEO Jensen Huang has resigned. What happens next?",
+        "Nvidia is reportedly preparing to fire Jensen Huang"
       ]
     },
     {
@@ -154,28 +141,53 @@
       ],
       "l": [
         {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc3lpYVhYczd5SEx0TUhPM3JTbkRETzZjSzE3SjFzR0tlRERObFdzdUxSbUZ1MTBzUVFVZ3UybmlSaExWNk5IOWhzbWd5MFJ1VHBGTXJ6MkNObEo5MWV5VzBpY3VKZXZBUmZtQWRsQVhsdmRGcmdHNDdSVmhHckFKd0E4bG5PeWZwWnU5amNsbEdxak9Mcmpva2Z4NWJ3UQ?oc=5"
-        },
-        {
           "d": "fool.com",
           "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeUFRelQ3SHo1eld4ZGloSnNYNkdmcGpVdHg2WFczR1Jib3BJMG80a0xYRlU4amE5UFZqeXJNa0lscVVOdkhsek9TNHdrZFQyU0huYjZQUEtYTW9pYTA3NXhSZkloV28wSWNZbjVMTW9vRnNoSjZDdE9VWTc5ODZJNS1kdUlEVU5kdDlnXzF3c2xWV1d2bGZXNHJ4eko2cC1HNFNSSENoV0xHLW9BTFJMcjgzM3BvQUxvT3JMd244NHBVNktvYm5HR25DZmdZVDNXQmJtOE12UGJ3UQ?oc=5"
         },
         {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbmVtdWp0SlNrQVlnN1ppSEdZUkZnRFNTckV1V1l6cHBEdWhVMkdFVll1QVdGclAzLVZTRFUzd2hub2lNY1VzSm1ZVjFxaWNyT2piRG5SdlAxbWtyYWpRY2VEaDRuRnlqcW5CTjAweHh1QnBlQ01vVVBybDdxM0pFNGJXUnNvTXkxa0dwTDYtQnI0RC1ZVFYyTG4ySQ?oc=5"
+        },
+        {
           "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMm1vREJQazlKYXlaaHNFRDJJdVlrWktscGplZWdQamZaczBjMVNDN09QTEpDMXVPQ0x2MUtfTGh1c244azMwR1VqcjhDRzBjUl9MN29CVjVIVmVoN3RqaGFaWUtBa2hDRmQ4RnhJVi1GaThITW9XTUxyaG1xbDFMY1RUVU1rWF80RjhITUwtalRrQlpFQXFWQXZybkZ6MUJJOUxZN2pmTmFYWXJIeUY5ckFXTGhxMExYYml4S2JsU2IteUhOMjlFNTBFMHVIV3VVZ0tRWDlMb2kwbVNxekQ5UmRUVHdMZWdBLW9VLVdDOXk2cGg2dEg0ZEstNzVCZG50MnZRR1VTZFVJeVNVdVJRWWhBMVV6QjBRU2lmM2V2bU9xYlU?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOcVpaSS10T0NYYVNmV1dGUUtSOTNKc2VydkVhMmtRcXBCQXlfUDg2QnpPR0ZwR1A2eE9yeG5RX21yMFV0bEhUYW9vcUxFM01fcG9jRFQ1QW1ITHpqVmpBTVJVOTItTDRwaHptYzl4c01FeDNCV0lJT2hlYW1PWUNnamN2MWZKdmduNFd2S1ZwZVQ0NHpzYVd0NWU1SnllYTBZWWk4UFpEUlotUExqUEhQVzYyY0Z4a1ZQaG9ISTZzSHhPVHZpX1BLWXE5LVd3VnFmNk1NTWIxYjNKX1NTM1lXemFlOU9aWTEzSk4zVHR0Y1RCTzlXNlZEdjVaNzVzbmZiWjBRLUpvVnB2NG8tc0UxWA?oc=5"
         }
       ],
       "srcTitles": [
+        "Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off?",
         "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
         "Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off?",
-        "Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off?",
-        "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?"
+        "Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 52,
+      "sources": 1,
+      "ts": "2026-11-12T20:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "s": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+      "b": [
+        "openai.com: How Amplitude ships product improvements in 1–2 days with OpenAI"
+      ],
+      "body": [
+        "openai.com: Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/amplitude"
+        }
+      ],
+      "srcTitles": [
+        "How Amplitude ships product improvements in 1–2 days with OpenAI"
       ]
     },
     {
       "cat": "research",
-      "signal": 29,
+      "signal": 26,
       "sources": 2,
       "ts": "2026-11-12T14:45:43.000Z",
       "writtenSources": 2,
@@ -207,7 +219,7 @@
     },
     {
       "cat": "models",
-      "signal": 28,
+      "signal": 24,
       "sources": 2,
       "ts": "2026-11-12T11:15:28.000Z",
       "writtenSources": 2,
