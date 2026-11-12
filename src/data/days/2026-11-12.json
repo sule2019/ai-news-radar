@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 67,
-      "sources": 3,
+      "signal": 58,
+      "sources": 2,
       "ts": "2026-11-11T22:32:14.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -29,16 +29,68 @@
         {
           "d": "theverge.com",
           "u": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261111/p48#a261111p48"
         }
       ],
       "srcTitles": [
         "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-        "Nvidia is reportedly preparing to fire Jensen Huang",
-        "Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search (Bloomberg)"
+        "Nvidia is reportedly preparing to fire Jensen Huang"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-11-12T11:15:28.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "French army ministry to set up centre for defence-related AI",
+      "s": "French army ministry to set up centre for defence-related AI Yahoo News Singapore",
+      "b": [
+        "sg.news.yahoo.com: French army ministry to set up centre for defence-related AI",
+        "reuters.com: French army ministry to set up centre for defence-related AI"
+      ],
+      "body": [
+        "sg.news.yahoo.com: French army ministry to set up centre for defence-related AI Yahoo News Singapore",
+        "reuters.com: French army ministry to set up centre for defence-related AI Reuters"
+      ],
+      "l": [
+        {
+          "d": "sg.news.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Xa3RuZHV4QXNrT0JLdEwtc1ZxNS1HV3ZpQ3RRcG00RnczSlNrdVAyNzlHZ0toWWNON0I1dkkzOFA5aGZEamxzWVg5NEs3SDBodFE1ZlhBUTFjTDVJQW1Kck5vTTFmVmstcDI3b0ZnNERPZExUWmxvREJfMVA?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSk02WVl5aUx2TTl0QmJjZEpSVUkySGFQSkZqYTZpRXc3c0V4RlViNWhJVkE3b2szcC1Qai1sWWRVTDVhVlRyVWxYUW91cVFpSW5TZ0xSTnJRclZBWWFEaXBKaXBORTV3blJrOTN5ZXNOdFpHUnozc0x2LTRZdndDWjNjM3lhb2RjRU1xSTBiYWhuV213WGUyNFItdURucG81T0E?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "French army ministry to set up centre for defence-related AI",
+        "French army ministry to set up centre for defence-related AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-11-12T09:30:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Holiday Extras is rethinking what it can build with Codex",
+      "s": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "b": [
+        "openai.com: Holiday Extras is rethinking what it can build with Codex"
+      ],
+      "body": [
+        "openai.com: With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/business/customer-stories/holidays-extras-codex"
+        }
+      ],
+      "srcTitles": [
+        "Holiday Extras is rethinking what it can build with Codex"
       ]
     },
     {
@@ -71,6 +123,31 @@
       "srcTitles": [
         "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
         "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-12T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Supporting research on AI and children’s safety",
+      "s": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+      "b": [
+        "openai.com: Supporting research on AI and children’s safety"
+      ],
+      "body": [
+        "openai.com: OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/children-first-declaration"
+        }
+      ],
+      "srcTitles": [
+        "Supporting research on AI and children’s safety"
       ]
     }
   ]
