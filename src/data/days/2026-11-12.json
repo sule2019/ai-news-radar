@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 72,
-      "sources": 4,
+      "signal": 67,
+      "sources": 3,
       "ts": "2026-11-11T22:32:14.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -33,17 +33,44 @@
         {
           "d": "techmeme.com",
           "u": "https://www.techmeme.com/261111/p48#a261111p48"
-        },
-        {
-          "d": "asia.nikkei.com",
-          "u": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ3BxNkwwaFkwbi1YcFpvMTQ2a0RoYjdEQWxFVjVfQm5BVVZZTHJPdW1LNDdIYTJTdnRpTU5sMThoOXRmcjd5VU5LSzRvYWNXdjIyek1ReUdEdWJlZVhweVRrWl9RRUVBcFNpdUVkV2Y4Tzhmd0FpQl9ZVHlmNVMwM1BVUmRtN1lYdG84MVJzSTU0ZmtnQVJzQjJTY3BLeVdjMnZnTW1IZlJFSWkzb2xSaWJtUzJBSWdqaG9KYUp1bGlpUXN2WjVrbjBoV0hwTnFNdGc?oc=5"
         }
       ],
       "srcTitles": [
         "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
         "Nvidia is reportedly preparing to fire Jensen Huang",
-        "Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search (Bloomberg)",
-        "Sources: Nvidia's board is preparing to oust Jensen Huang and is meeting on Wednesday to determine his future; NVDA drops 7%+ after hours (Wall Street Journal)"
+        "Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search (Bloomberg)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-12T03:32:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
+      "s": "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? The Motley Fool",
+      "b": [
+        "fool.com: Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
+        "theglobeandmail.com: Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?"
+      ],
+      "body": [
+        "fool.com: Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? The Motley Fool",
+        "theglobeandmail.com: Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZm5UNzM2cm91UHVZZzZZWDhJN1RkSkp4OGlKcFBBRzBnOWV1Rk1rU1VGMkVESkNqYTFkUHZ3bDFJOU5Fck5SbHNxYWZHYUlIZUNWejhQcFh3LVk2VHVWWmZDeTZId1lyX1BZYklFMUN3RnNseEdERXZWRDhKbndlaTJzd1VMR1NNb3R2S3o5QVhDN0h3aHA0WWlFRkw2UGIzN2R4LXpOSk5JOWpzX0dRekVBNDI0UHBzVVY5YktxVkNxclgwcnBTYU1mWklOalNlb294TFFYaHRiajVnLXpSV0VUNzFTUGJ4ZjhfMXM2ZURXVEliMkc0UA?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQTlBmRncyN0NMLTY0Y0FfTURYWWhHU18xdjJDdW1SY3NhT0Fnel9jNE1DSTRDbmtxYVB2UHlXSllKNF9EamlNbjlLSV9lQ3ZGTXZ2UGh0bVkyNkdIVnh2NVBCM1JEVWFwWV9Wdmx4dmtTSy1kajZoektvUkZuUjFHN1FORDFFVHo0OHFHVVZ5VEQ2bDd2SjNoQXNBU1NtejhpSVVNN0ljWkt1N2tvWXg5eWE1YURNUHVPOXBEWUlTZHM2N3pQX000VGlsWENZa2tUTFhYblphWmFocWJhVTFtYl9fNmVYTnI3ckpydFdGSm1yc1dhSkZJQ3lPZFFiTGVyVVNPdnhGTjBMRmtaa0R5MlZhNXdiNUNORTBoY05GN1NtZw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
+        "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?"
       ]
     }
   ]
