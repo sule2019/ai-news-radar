@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 58,
-      "sources": 2,
+      "signal": 83,
+      "sources": 11,
       "ts": "2026-11-11T22:32:14.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -28,17 +28,186 @@
         },
         {
           "d": "theverge.com",
-          "u": "https://www.theverge.com/tech/1031652/jensen-huang-rumor"
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261112/p38#a261112p38"
+        },
+        {
+          "d": "+7"
         }
       ],
       "srcTitles": [
         "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "Nvidia CEO Jensen Huang has resigned. What happens next?",
+        "Nvidia CEO Jensen Huang resigns amid spy, affair scandals",
         "Nvidia is reportedly preparing to fire Jensen Huang"
       ]
     },
     {
+      "cat": "products",
+      "signal": 77,
+      "sources": 4,
+      "ts": "2026-11-12T14:14:33.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+      "s": "Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+      "b": [
+        "techcrunch.com: Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+        "wired.com: Meet Colette Kress, Nvidia’s New Interim CEO",
+        "techmeme.com: Colette Kress may take a more conservative approach than Jensen Huang; sources say she sometimes pushed back on his riskier deals like backstopping OpenAI (Phoebe Liu/The Information)"
+      ],
+      "body": [
+        "techcrunch.com: Nvidia CFO Colette Kress is taking over as an interim replacement for longtime CEO Jensen Huang, who is embroiled in scandal.",
+        "wired.com: Nvidia’s longtime chief financial officer helped transform the company into an AI powerhouse. Now she’s taking the reins following Jensen Huang’s resignation on Thursday.",
+        "techmeme.com: Phoebe Liu / The Information : Colette Kress may take a more conservative approach than Jensen Huang; sources say she sometimes pushed back on his riskier deals like backstopping OpenAI Nvidia's appointment Thursday of its longtime chief financial officer Colette Kress as interim CEO will force the finance veteran",
+        "techmeme.com: Terrence O'Brien / The Verge : Staff email: interim Nvidia CEO Colette Kress cites an extraordinarily difficult period and sets a meeting to hear more from leadership on November 18 Nvidia's board and interim CEO Colette Kress told employees they're ready to move forward together."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/12/jensen-huang-is-out-at-nvidia-who-is-colette-kress-his-interim-replacement/"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261112/p43#a261112p43"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang"
+        }
+      ],
+      "srcTitles": [
+        "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
+        "Meet Colette Kress, Nvidia’s New Interim CEO",
+        "Colette Kress may take a more conservative approach than Jensen Huang; sources say she sometimes pushed back on his riskier deals like backstopping OpenAI (Phoebe Liu/The Information)",
+        "Staff email: interim Nvidia CEO Colette Kress cites \"an extraordinarily difficult period\" and sets a meeting to \"hear more from leadership\" on November 18 (Terrence O'Brien/The Verge)"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 68,
+      "sources": 3,
+      "ts": "2026-11-12T14:40:36.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "s": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "b": [
+        "techcrunch.com: Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+        "techmeme.com: Jensen Huang's Nvidia ploughed its vast profits into bankrolling AI startups, suppliers, and chip customers, a web of dependencies that could now unravel (Financial Times)",
+        "scientificamerican.com: What Jensen Huang leaving Nvidia means for AI"
+      ],
+      "body": [
+        "techcrunch.com: Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+        "techmeme.com: Financial Times : Jensen Huang's Nvidia ploughed its vast profits into bankrolling AI startups, suppliers, and chip customers, a web of dependencies that could now unravel Nvidia chief's fall could unravel the web of financial dependencies that helped fuel the AI boom With Jensen Huang at the helm",
+        "scientificamerican.com: What Jensen Huang leaving Nvidia means for AI Scientific American",
+        "techmeme.com: Amrith Ramkumar / Wall Street Journal : Jensen Huang's resignation caps a 33-year career, growing Nvidia from a GPU maker to AI giant; born in Taiwan, he moved to the US at 10 and owns 3.6% of Nvidia As Nvidia's first and only CEO, Huang turned semiconductors designed for videogames into the engine of the next technology revolution."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261112/p32#a261112p32"
+        },
+        {
+          "d": "scientificamerican.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmJBdUxCTmFMc1YzNXl4LUVoRE40dDlJMVFzZFlOOWVJZllndmxjUzU1VGVTcDU1NEZBeVNsSE5OY0c1bTkyWGRYRTQ4SmJhcFVGc08zd1JkTEplcFJ5YjAxMmpEbDJ1MUtoaUJidWZCd0E3MUFMZHpDOHI5Y2szQ0J0Q2tCY195Rk1zc3l2akpkdTRfOFNVQ3czRGR5ZDlTVVBMM1dCVjNoNDFmOVFyYi1adw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+        "Jensen Huang's Nvidia ploughed its vast profits into bankrolling AI startups, suppliers, and chip customers, a web of dependencies that could now unravel (Financial Times)",
+        "What Jensen Huang leaving Nvidia means for AI",
+        "Jensen Huang's resignation caps a 33-year career, growing Nvidia from a GPU maker to AI giant; born in Taiwan, he moved to the US at 10 and owns 3.6% of Nvidia (Amrith Ramkumar/Wall Street Journal)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 52,
+      "sources": 3,
+      "ts": "2026-11-12T03:32:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
+      "s": "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? The Motley Fool",
+      "b": [
+        "fool.com: Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
+        "theglobeandmail.com: Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?"
+      ],
+      "body": [
+        "fool.com: Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? The Motley Fool",
+        "theglobeandmail.com: Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxOc3lpYVhYczd5SEx0TUhPM3JTbkRETzZjSzE3SjFzR0tlRERObFdzdUxSbUZ1MTBzUVFVZ3UybmlSaExWNk5IOWhzbWd5MFJ1VHBGTXJ6MkNObEo5MWV5VzBpY3VKZXZBUmZtQWRsQVhsdmRGcmdHNDdSVmhHckFKd0E4bG5PeWZwWnU5amNsbEdxak9Mcmpva2Z4NWJ3UQ?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeUFRelQ3SHo1eld4ZGloSnNYNkdmcGpVdHg2WFczR1Jib3BJMG80a0xYRlU4amE5UFZqeXJNa0lscVVOdkhsek9TNHdrZFQyU0huYjZQUEtYTW9pYTA3NXhSZkloV28wSWNZbjVMTW9vRnNoSjZDdE9VWTc5ODZJNS1kdUlEVU5kdDlnXzF3c2xWV1d2bGZXNHJ4eko2cC1HNFNSSENoV0xHLW9BTFJMcjgzM3BvQUxvT3JMd244NHBVNktvYm5HR25DZmdZVDNXQmJtOE12UGJ3UQ?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOMm1vREJQazlKYXlaaHNFRDJJdVlrWktscGplZWdQamZaczBjMVNDN09QTEpDMXVPQ0x2MUtfTGh1c244azMwR1VqcjhDRzBjUl9MN29CVjVIVmVoN3RqaGFaWUtBa2hDRmQ4RnhJVi1GaThITW9XTUxyaG1xbDFMY1RUVU1rWF80RjhITUwtalRrQlpFQXFWQXZybkZ6MUJJOUxZN2pmTmFYWXJIeUY5ckFXTGhxMExYYml4S2JsU2IteUhOMjlFNTBFMHVIV3VVZ0tRWDlMb2kwbVNxekQ5UmRUVHdMZWdBLW9VLVdDOXk2cGg2dEg0ZEstNzVCZG50MnZRR1VTZFVJeVNVdVJRWWhBMVV6QjBRU2lmM2V2bU9xYlU?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
+        "Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off?",
+        "Nvidia vs. AMD: Which Is the Better Artificial Intelligence (AI) Stock for 2027 After the Tech Sell-Off?",
+        "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-11-12T14:45:43.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI",
+      "s": "Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI Detroit Free Press",
+      "b": [
+        "freep.com: Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI",
+        "lohud.com: Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI"
+      ],
+      "body": [
+        "freep.com: Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI Detroit Free Press",
+        "lohud.com: Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI The Journal News | lohud.com"
+      ],
+      "l": [
+        {
+          "d": "freep.com",
+          "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOM1o1RUJRYmRTM3ZIM1N3M0NhRG1qYmR1VXBnVFRrRVJUbGZuOTQ4dGpxbFRYMkRUZEo0ZjNTV1I0UHRWR0kza2NtQ190TXdGQ1hMMko4YUhJOTJKejFQdXUzdlQ0aEZPcVNBOElZRFQ1VDFMNEdtTVBQYWxzSHc3VUxST1J4R2d5QVNRbnpsaHFKckF0UUxwNHFzZkptWVdaSERvUHExUEtNdnMwWktqbjhlU0c3MGEwV0NZemtNOHc1UjRwQzJIVTh3OW9xUExRVG5jQUlYdjJ3Ui0xWDlrMXdNVmY5ZTRVcExXY2NsclVZeDFhSjk3V1d3?oc=5"
+        },
+        {
+          "d": "lohud.com",
+          "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNXJ0ZzhkZ0tTa0p5aVpWSVpaMjZnX2M0a0t2d0ZwZmNMRk1BMkgzclowTDhoNW1PZHYya2tuZTh5czNfNU5uSjh4b1FGSGU0SHIzSUpWdVlSLUsyY0xJYmh1MV90S1NaeWhZZEx1bm9hTV9idHNOd00tZXotOV9nNjdLcldzZEIxUU95SWI1bVp5LXVBbEt0cWlQR3h4ZHpuRlFPMGxuV21hdXNWSXlzRktyY0tLYy1VWm5QRXlnckZtM0xWMTRDMEhVSTdrRHh3Rm9BbTBWUmhLR2xGaU9pc0pFN2FuYm9vYXBxempEbjBtU3NrNzBWUkFn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI",
+        "Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-11-12T11:15:28.000Z",
       "writtenSources": 2,
@@ -70,7 +239,7 @@
     },
     {
       "cat": "models",
-      "signal": 27,
+      "signal": 24,
       "sources": 1,
       "ts": "2026-11-12T09:30:00.000Z",
       "writtenSources": 1,
@@ -91,38 +260,6 @@
       ],
       "srcTitles": [
         "Holiday Extras is rethinking what it can build with Codex"
-      ]
-    },
-    {
-      "cat": "products",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-11-12T03:32:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
-      "s": "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? The Motley Fool",
-      "b": [
-        "fool.com: Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
-        "theglobeandmail.com: Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?"
-      ],
-      "body": [
-        "fool.com: Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? The Motley Fool",
-        "theglobeandmail.com: Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027? The Globe and Mail"
-      ],
-      "l": [
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZm5UNzM2cm91UHVZZzZZWDhJN1RkSkp4OGlKcFBBRzBnOWV1Rk1rU1VGMkVESkNqYTFkUHZ3bDFJOU5Fck5SbHNxYWZHYUlIZUNWejhQcFh3LVk2VHVWWmZDeTZId1lyX1BZYklFMUN3RnNseEdERXZWRDhKbndlaTJzd1VMR1NNb3R2S3o5QVhDN0h3aHA0WWlFRkw2UGIzN2R4LXpOSk5JOWpzX0dRekVBNDI0UHBzVVY5YktxVkNxclgwcnBTYU1mWklOalNlb294TFFYaHRiajVnLXpSV0VUNzFTUGJ4ZjhfMXM2ZURXVEliMkc0UA?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQTlBmRncyN0NMLTY0Y0FfTURYWWhHU18xdjJDdW1SY3NhT0Fnel9jNE1DSTRDbmtxYVB2UHlXSllKNF9EamlNbjlLSV9lQ3ZGTXZ2UGh0bVkyNkdIVnh2NVBCM1JEVWFwWV9Wdmx4dmtTSy1kajZoektvUkZuUjFHN1FORDFFVHo0OHFHVVZ5VEQ2bDd2SjNoQXNBU1NtejhpSVVNN0ljWkt1N2tvWXg5eWE1YURNUHVPOXBEWUlTZHM2N3pQX000VGlsWENZa2tUTFhYblphWmFocWJhVTFtYl9fNmVYTnI3ckpydFdGSm1yc1dhSkZJQ3lPZFFiTGVyVVNPdnhGTjBMRmtaa0R5MlZhNXdiNUNORTBoY05GN1NtZw?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?",
-        "Advanced Micro Devices vs. Marvell Technology: Which Artificial Intelligence Stock Is a Better Buy Going into 2027?"
       ]
     },
     {
