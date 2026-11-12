@@ -2,9 +2,175 @@
   "date": "2026-11-12",
   "stories": [
     {
-      "cat": "products",
-      "signal": 74,
+      "cat": "models",
+      "signal": 81,
       "sources": 4,
+      "ts": "2026-11-12T18:00:00.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "s": "We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "b": [
+        "blog.google: Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "blog.google: Introducing Gemini 4 Hydrogen",
+        "arstechnica.com: Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash"
+      ],
+      "body": [
+        "blog.google: We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+        "arstechnica.com: Google is continuing its elemental AI naming scheme with the new Gemini 4 Hydrogen . These names are less descriptive than the Pro/Flash monikers of earlier releases, but Hydrogen's purpose is clear: It replaces the faster, more economical Flash models most people in Google's ecosystem use. With Google's recent Argon and Carbon releases, the rollout was staged and began with cybersecurity researchers. Even when general availability began, Google restricted access to users paying for its most expensive AI subscription. The limits for Hydrogen are much more relaxed, with access beginning immediately. This model has replaced Gemini 3.8 Flash across the company's products. Google claims that Hydrogen represents a major improvement versus the previous Flash model. It runs in one of four thinking levels (low, medium, high, and the new xhigh), and even in high mode, it's 2.5 times faster than Flash 3.8. Plus, it reduces \"fabricated claims\" by more than 5x, according to Google's analysis. Users will also see gains in code generation, with Hydrogen more than tripling 3.8 Flash's score in Terminal-Bench. In some cases, Hydrogen even trades blows with Argon. It managed a score of 54 in the popular Artificial Analysis Intelligence Index with xhigh mode versus 50 for Argon. Read full article Comments",
+        "techmeme.com: @artificialanlys : Artificial Analysis' Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of Sol Google's new Gemini 4 Hydrogen has Intelligence just below Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of GPT-6.1 Sol @GoogleDeepMind has released their third new model in six weeks. Gemini 4 Hydrogen introduces an xhigh reasoning level and scores 54 on the Artifi...",
+        "blog.google: Introducing Gemini 4 Hydrogen for Agentic Workflows blog.google"
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261112/p60#a261112p60"
+        }
+      ],
+      "srcTitles": [
+        "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+        "Introducing Gemini 4 Hydrogen",
+        "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+        "Artificial Analysis' Intelligence Index: Gemini 4 Hydrogen nearly ties Claude Sonnet 5.5 and GPT-6.1 Sol, at a third of Sonnet's cost but ~2.5x that of Sol (@artificialanlys)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 80,
+      "sources": 14,
+      "ts": "2026-11-11T22:32:14.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+      "s": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+      "b": [
+        "techcrunch.com: Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+        "theverge.com: Nvidia is reportedly preparing to fire Jensen Huang",
+        "techmeme.com: Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search (Bloomberg)"
+      ],
+      "body": [
+        "techcrunch.com: As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
+        "theverge.com: Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [ ]",
+        "techmeme.com: Bloomberg : Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search Nvidia Corp.'s board has been working with an outside firm to identify potential replacements for Chief Executive Officer Jensen",
+        "techmeme.com: Wall Street Journal : Sources: Nvidia's board is preparing to oust Jensen Huang and is meeting on Wednesday to determine his future; NVDA drops 7%+ after hours Move follows company investigation into an affair with a Chinese woman alleged to be a spy Nvidia's board is preparing to oust CEO Jensen Huang"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/12/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1032069/jensen-huang-resignation-affair-chips-smuggling"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/nvidia-ceo-jensen-huang-steps-down/"
+        },
+        {
+          "d": "kstp.com",
+          "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdXJvcGNzS2ZVWGROQm9ZMV9FcUI2U2VCOUhWWmZ2T1JzeF9UYVh2LXVsWmdmV1ZFcGI3emgzX1ZWUVh0d0M3SmpVRmdsZ1JoVUVQSzVQSTd4RTY0bTdHT09TdUdEdkV6ZlN5TXZ6eHlmdGRjblRfWDVWSF8zNmh6M203eDV4TmlHT1U4RE5IbXgzWFdyaS1YdHhmRVVhT3AwNFhOSWh5d1Z6aXQzT2UyS01rcFlJa19Jel9pLUJQdGoxX1pLRHRPTDlRX2stN2R2MnMzSlF3TGk4Zw?oc=5"
+        },
+        {
+          "d": "+10"
+        }
+      ],
+      "srcTitles": [
+        "The unfolding Jensen Huang scandal: a timeline",
+        "The Jensen Huang scandal is hardly over",
+        "Nvidia CEO Jensen Huang has resigned. What happens next?",
+        "Jensen Huang Resigns as Nvidia CEO"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 61,
+      "sources": 4,
+      "ts": "2026-11-12T14:40:36.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+      "s": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+      "b": [
+        "techcrunch.com: Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+        "techmeme.com: Jensen Huang's Nvidia ploughed its vast profits into bankrolling AI startups, suppliers, and chip customers, a web of dependencies that could now unravel (Financial Times)",
+        "scientificamerican.com: What Jensen Huang leaving Nvidia means for AI"
+      ],
+      "body": [
+        "techcrunch.com: Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
+        "techmeme.com: Financial Times : Jensen Huang's Nvidia ploughed its vast profits into bankrolling AI startups, suppliers, and chip customers, a web of dependencies that could now unravel Nvidia chief's fall could unravel the web of financial dependencies that helped fuel the AI boom With Jensen Huang at the helm",
+        "scientificamerican.com: What Jensen Huang leaving Nvidia means for AI Scientific American",
+        "techmeme.com: Amrith Ramkumar / Wall Street Journal : Jensen Huang's resignation caps a 33-year career, growing Nvidia from a GPU maker to AI giant; born in Taiwan, he moved to the US at 10 and owns 3.6% of Nvidia As Nvidia's first and only CEO, Huang turned semiconductors designed for videogames into the engine of the next technology revolution."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
+        },
+        {
+          "d": "bostonherald.com",
+          "u": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYlpMWnlrVkVvRVA2bFlZS01YRGNrVXNEWC1XWjlNbnZDVGRzNnk3YVlNZWo1cWlrUFZPaGwzTzVicWx1U1FVZjNNSDRYTWdna2ZoSlVsNkJHSUplSWJpelpoVkRKLUt4X19ydnd0QWtiMDNraUZ3b2JIZ0RaN25pLTNrb2ZySE5vRFhQbm9ZN20?oc=5"
+        },
+        {
+          "d": "scientificamerican.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmJBdUxCTmFMc1YzNXl4LUVoRE40dDlJMVFzZFlOOWVJZllndmxjUzU1VGVTcDU1NEZBeVNsSE5OY0c1bTkyWGRYRTQ4SmJhcFVGc08zd1JkTEplcFJ5YjAxMmpEbDJ1MUtoaUJidWZCd0E3MUFMZHpDOHI5Y2szQ0J0Q2tCY195Rk1zc3l2akpkdTRfOFNVQ3czRGR5ZDlTVVBMM1dCVjNoNDFmOVFyYi1adw?oc=5"
+        },
+        {
+          "d": "sg.news.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTNCUmJZWEpfTHN5TnpvNXZQdDlNcjRrWHdXLXdHazRPbEU4R3hqazdtYURHRDNlY1pOdHM1Wi1lMzhHcWZGZUpLeVlwZVFOUFBuMlA3dzdRNGZPX2kyVlBNbGFka0Q5b1Zwcy1zb1Z3NXVVYTkwcnJZbDhsazdBUFlQT3o?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
+        "Jensen Huang built the company that powers AI. Now Nvidia must find a way forward without him",
+        "What Jensen Huang leaving Nvidia means for AI",
+        "AI industry reassesses future without Jensen Huang at Nvidia"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-11-12T19:27:45.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google s latest Search upgrade promises better answers to your most complicated questions",
+      "s": "Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+      "b": [
+        "techcrunch.com: Google s latest Search upgrade promises better answers to your most complicated questions",
+        "theverge.com: Google’s new Gemini model is better at understanding complicated questions"
+      ],
+      "body": [
+        "techcrunch.com: Powered by Gemini 4 Hydrogen, Google's AI Mode is getting better at understanding complex queries, surfacing relevant links, and delivering richer visual responses.",
+        "theverge.com: Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its responses. It's available starting today in search, the Gemini app, all tiers of Google [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/12/googles-latest-search-upgrade-promises-better-answers-to-your-most-complicated-questions/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen"
+        }
+      ],
+      "srcTitles": [
+        "Google s latest Search upgrade promises better answers to your most complicated questions",
+        "Google’s new Gemini model is better at understanding complicated questions"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 58,
+      "sources": 2,
       "ts": "2026-11-12T14:14:33.000Z",
       "writtenSources": 4,
       "draft": true,
@@ -28,98 +194,13 @@
         },
         {
           "d": "wired.com",
-          "u": "https://www.wired.com/story/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261112/p43#a261112p43"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang"
+          "u": "https://www.wired.com/story/uncanny-valley-podcast-jensen-huang-is-out-will-nvidias-rivals-cash-in/"
         }
       ],
       "srcTitles": [
         "Jensen Huang is out at Nvidia — who is Colette Kress, his interim replacement?",
-        "Meet Colette Kress, Nvidia’s New Interim CEO",
-        "Colette Kress may take a more conservative approach than Jensen Huang; sources say she sometimes pushed back on his riskier deals like backstopping OpenAI (Phoebe Liu/The Information)",
-        "Staff email: interim Nvidia CEO Colette Kress cites \"an extraordinarily difficult period\" and promises \"more from leadership\" and a company November 18 meeting (Terrence O'Brien/The Verge)"
-      ]
-    },
-    {
-      "cat": "policy",
-      "signal": 59,
-      "sources": 3,
-      "ts": "2026-11-12T14:40:36.000Z",
-      "writtenSources": 3,
-      "draft": true,
-      "h": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-      "s": "Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-      "b": [
-        "techcrunch.com: Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-        "techmeme.com: Jensen Huang's Nvidia ploughed its vast profits into bankrolling AI startups, suppliers, and chip customers, a web of dependencies that could now unravel (Financial Times)",
-        "scientificamerican.com: What Jensen Huang leaving Nvidia means for AI"
-      ],
-      "body": [
-        "techcrunch.com: Nvidia's ousted CEO Jensen Huang's downfall isn’t just your run-of-the-mill salacious billionaire sex scandal. He was using his influence to push the AI industry in some very specific ways.",
-        "techmeme.com: Financial Times : Jensen Huang's Nvidia ploughed its vast profits into bankrolling AI startups, suppliers, and chip customers, a web of dependencies that could now unravel Nvidia chief's fall could unravel the web of financial dependencies that helped fuel the AI boom With Jensen Huang at the helm",
-        "scientificamerican.com: What Jensen Huang leaving Nvidia means for AI Scientific American",
-        "techmeme.com: Amrith Ramkumar / Wall Street Journal : Jensen Huang's resignation caps a 33-year career, growing Nvidia from a GPU maker to AI giant; born in Taiwan, he moved to the US at 10 and owns 3.6% of Nvidia As Nvidia's first and only CEO, Huang turned semiconductors designed for videogames into the engine of the next technology revolution."
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/11/12/five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry/"
-        },
-        {
-          "d": "scientificamerican.com",
-          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUmJBdUxCTmFMc1YzNXl4LUVoRE40dDlJMVFzZFlOOWVJZllndmxjUzU1VGVTcDU1NEZBeVNsSE5OY0c1bTkyWGRYRTQ4SmJhcFVGc08zd1JkTEplcFJ5YjAxMmpEbDJ1MUtoaUJidWZCd0E3MUFMZHpDOHI5Y2szQ0J0Q2tCY195Rk1zc3l2akpkdTRfOFNVQ3czRGR5ZDlTVVBMM1dCVjNoNDFmOVFyYi1adw?oc=5"
-        },
-        {
-          "d": "sg.news.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTNCUmJZWEpfTHN5TnpvNXZQdDlNcjRrWHdXLXdHazRPbEU4R3hqazdtYURHRDNlY1pOdHM1Wi1lMzhHcWZGZUpLeVlwZVFOUFBuMlA3dzdRNGZPX2kyVlBNbGFka0Q5b1Zwcy1zb1Z3NXVVYTkwcnJZbDhsazdBUFlQT3o?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry",
-        "What Jensen Huang leaving Nvidia means for AI",
-        "AI industry reassesses future without Jensen Huang at Nvidia"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 58,
-      "sources": 2,
-      "ts": "2026-11-11T22:32:14.000Z",
-      "writtenSources": 4,
-      "draft": true,
-      "h": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "s": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "b": [
-        "techcrunch.com: Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-        "theverge.com: Nvidia is reportedly preparing to fire Jensen Huang",
-        "techmeme.com: Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search (Bloomberg)"
-      ],
-      "body": [
-        "techcrunch.com: As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-        "theverge.com: Nvidia's board is preparing to dismiss CEO Jensen Huang following a report from the New York Times about a second alleged extramarital affair, just days after he admitted to a separate affair with a woman alleged to be a Chinese spy, The Wall Street Journal reports. The second alleged affair was with an executive who [ ]",
-        "techmeme.com: Bloomberg : Source: Nvidia's board is working with an outside firm to identify possible replacements for Jensen Huang and weighs naming a temporary CEO during the search Nvidia Corp.'s board has been working with an outside firm to identify potential replacements for Chief Executive Officer Jensen",
-        "techmeme.com: Wall Street Journal : Sources: Nvidia's board is preparing to oust Jensen Huang and is meeting on Wednesday to determine his future; NVDA drops 7%+ after hours Move follows company investigation into an affair with a Chinese woman alleged to be a spy Nvidia's board is preparing to oust CEO Jensen Huang"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/"
-        },
-        {
-          "d": "theverge.com",
-          "u": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang"
-        }
-      ],
-      "srcTitles": [
-        "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-        "Nvidia CEO Jensen Huang has resigned. What happens next?",
-        "Nvidia is reportedly preparing to fire Jensen Huang"
+        "Jensen Huang Is Out. Will Nvidia’s Rivals Cash In?",
+        "Meet Colette Kress, Nvidia’s New Interim CEO"
       ]
     },
     {
@@ -162,7 +243,32 @@
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-11-12T20:16:24.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+      "s": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT",
+      "b": [
+        "technologyreview.com: Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility"
+      ],
+      "body": [
+        "technologyreview.com: Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were “potentially infeasible.” Foster, a Democrat who serves on the Committee on Science, Space, and Technology, is a cosponsor of the act, which would introduce geotracking requirements to verify the location of advanced AI chips in order to prevent their smuggling to China. It is one of three chip-security bills under consideration for inclusion in the Senate’s National Defense Authorization Act, each of which is drawing renewed attention after Nvidia CEO Jensen Huang’s resignation and reported affair with an alleged Chinese spy. When the Chip Security Act was introduced, in May 2025, lawmakers said the technology to implement it existed, something Nvidia has not publicly confirmed. In March 2026, the Semiconductor Industry Association, of which Nvidia is a member, explicitly opposed the bill and wrote that its mandates for chip tracking were “new, untested, and potentially infeasible.” But privately, Nvidia representatives working with Foster told the lawmaker that the company could implement them. “They never put anything in writing,” Foster says, but during technical discussions on the possibility of such safeguards, their reaction was “yeah, of course we can do this.” This private acknowledgment to Foster goes further than anything Nvidia has previously made public. Other technology Nvidia has built for its customers suggests that the company can indeed offer accurate tracking of its chips’ locations. In December 2025, for example, it announced a new tool called Fleet Intelligence that would allow customers to monitor how its advanced chips were performing across different data center locations. In doing so, the tool could indicate which country chips were in, Nvidia confirme"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 49,
       "sources": 1,
       "ts": "2026-11-12T20:00:00.000Z",
       "writtenSources": 1,
@@ -186,67 +292,35 @@
       ]
     },
     {
-      "cat": "research",
-      "signal": 26,
+      "cat": "funding",
+      "signal": 32,
       "sources": 2,
-      "ts": "2026-11-12T14:45:43.000Z",
+      "ts": "2026-11-12T21:30:00.000Z",
       "writtenSources": 2,
       "draft": true,
-      "h": "Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI",
-      "s": "Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI Detroit Free Press",
+      "h": "DGEN TECHNOLOGIES ACQUIRES EXCLUSIVE LICENCE TO HUMANOS ARTIFICIAL INTELLIGENCE TECHNOLOGY",
+      "s": "DGEN TECHNOLOGIES ACQUIRES EXCLUSIVE LICENCE TO HUMANOS ARTIFICIAL INTELLIGENCE TECHNOLOGY Yahoo Finance",
       "b": [
-        "freep.com: Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI",
-        "lohud.com: Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI"
+        "finance.yahoo.com: DGEN TECHNOLOGIES ACQUIRES EXCLUSIVE LICENCE TO HUMANOS ARTIFICIAL INTELLIGENCE TECHNOLOGY",
+        "tradingview.com: DGEN TECHNOLOGIES ACQUIRES EXCLUSIVE LICENCE TO HUMANOS ARTIFICIAL INTELLIGENCE TECHNOLOGY"
       ],
       "body": [
-        "freep.com: Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI Detroit Free Press",
-        "lohud.com: Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI The Journal News | lohud.com"
+        "finance.yahoo.com: DGEN TECHNOLOGIES ACQUIRES EXCLUSIVE LICENCE TO HUMANOS ARTIFICIAL INTELLIGENCE TECHNOLOGY Yahoo Finance",
+        "tradingview.com: DGEN TECHNOLOGIES ACQUIRES EXCLUSIVE LICENCE TO HUMANOS ARTIFICIAL INTELLIGENCE TECHNOLOGY TradingView"
       ],
       "l": [
         {
-          "d": "freep.com",
-          "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOM1o1RUJRYmRTM3ZIM1N3M0NhRG1qYmR1VXBnVFRrRVJUbGZuOTQ4dGpxbFRYMkRUZEo0ZjNTV1I0UHRWR0kza2NtQ190TXdGQ1hMMko4YUhJOTJKejFQdXUzdlQ0aEZPcVNBOElZRFQ1VDFMNEdtTVBQYWxzSHc3VUxST1J4R2d5QVNRbnpsaHFKckF0UUxwNHFzZkptWVdaSERvUHExUEtNdnMwWktqbjhlU0c3MGEwV0NZemtNOHc1UjRwQzJIVTh3OW9xUExRVG5jQUlYdjJ3Ui0xWDlrMXdNVmY5ZTRVcExXY2NsclVZeDFhSjk3V1d3?oc=5"
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYVZkYzUyTVJyVzFYM1dJM1lBRXR1eUNGYTh4dV9QNkg4Y0pxOWNwQ1BIaFlTN092MmhzWDhxbHRGN2J3ZGtMX1lzU3hkQlN0QWZ4ZTBFSXZnd2ZVUzJvc0ZfLVI1bDZ1b3pLZE9NajY5Z2JSWHE2cDdDYTdOSXJuYlpTam1wMTlUaTlEeXdTUjh6QVFxTnE5SkV2dXJHYng4bm9jQ0U1Y1dkNG1J?oc=5"
         },
         {
-          "d": "lohud.com",
-          "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNXJ0ZzhkZ0tTa0p5aVpWSVpaMjZnX2M0a0t2d0ZwZmNMRk1BMkgzclowTDhoNW1PZHYya2tuZTh5czNfNU5uSjh4b1FGSGU0SHIzSUpWdVlSLUsyY0xJYmh1MV90S1NaeWhZZEx1bm9hTV9idHNOd00tZXotOV9nNjdLcldzZEIxUU95SWI1bVp5LXVBbEt0cWlQR3h4ZHpuRlFPMGxuV21hdXNWSXlzRktyY0tLYy1VWm5QRXlnckZtM0xWMTRDMEhVSTdrRHh3Rm9BbTBWUmhLR2xGaU9pc0pFN2FuYm9vYXBxempEbjBtU3NrNzBWUkFn?oc=5"
+          "d": "tradingview.com",
+          "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaG96aTNkYnJLZnBLU25MM0VNUjlCSDQ5QU5RMTJkdE50SW9aN2F0TjJtUzBUb3l0WW96SXlCQzJxLUlXWGtWRXhUTlZFWmVTalVFMm9YXzJycF9FSGpaaF8zVm9idkFSUDVnVEs1LVFJZU03Tm91elljcjlLSHBuTUZGZnBRUGlMWTZNcHhhSzh1aF9JUGxPdTVQdDVhM0lDT2ZwVngyY1l6WWppckhDRWdYM0VXMFMxczMwclZWYU4tLTU2ckdaTVhDZ1RISWFSTUpMVFlnSWFkak1RdXRFNFdYRGlfZw?oc=5"
         }
       ],
       "srcTitles": [
-        "Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI",
-        "Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 24,
-      "sources": 2,
-      "ts": "2026-11-12T11:15:28.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "French army ministry to set up centre for defence-related AI",
-      "s": "French army ministry to set up centre for defence-related AI Yahoo News Singapore",
-      "b": [
-        "sg.news.yahoo.com: French army ministry to set up centre for defence-related AI",
-        "reuters.com: French army ministry to set up centre for defence-related AI"
-      ],
-      "body": [
-        "sg.news.yahoo.com: French army ministry to set up centre for defence-related AI Yahoo News Singapore",
-        "reuters.com: French army ministry to set up centre for defence-related AI Reuters"
-      ],
-      "l": [
-        {
-          "d": "sg.news.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Xa3RuZHV4QXNrT0JLdEwtc1ZxNS1HV3ZpQ3RRcG00RnczSlNrdVAyNzlHZ0toWWNON0I1dkkzOFA5aGZEamxzWVg5NEs3SDBodFE1ZlhBUTFjTDVJQW1Kck5vTTFmVmstcDI3b0ZnNERPZExUWmxvREJfMVA?oc=5"
-        },
-        {
-          "d": "reuters.com",
-          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSk02WVl5aUx2TTl0QmJjZEpSVUkySGFQSkZqYTZpRXc3c0V4RlViNWhJVkE3b2szcC1Qai1sWWRVTDVhVlRyVWxYUW91cVFpSW5TZ0xSTnJRclZBWWFEaXBKaXBORTV3blJrOTN5ZXNOdFpHUnozc0x2LTRZdndDWjNjM3lhb2RjRU1xSTBiYWhuV213WGUyNFItdURucG81T0E?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "French army ministry to set up centre for defence-related AI",
-        "French army ministry to set up centre for defence-related AI"
+        "DGEN TECHNOLOGIES ACQUIRES EXCLUSIVE LICENCE TO HUMANOS ARTIFICIAL INTELLIGENCE TECHNOLOGY",
+        "DGEN TECHNOLOGIES ACQUIRES EXCLUSIVE LICENCE TO HUMANOS ARTIFICIAL INTELLIGENCE TECHNOLOGY"
       ]
     },
     {
@@ -297,6 +371,70 @@
       ],
       "srcTitles": [
         "Supporting research on AI and children’s safety"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 22,
+      "sources": 2,
+      "ts": "2026-11-12T14:45:43.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI",
+      "s": "Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI Detroit Free Press",
+      "b": [
+        "freep.com: Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI",
+        "lohud.com: Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI"
+      ],
+      "body": [
+        "freep.com: Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI Detroit Free Press",
+        "lohud.com: Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI The Journal News | lohud.com"
+      ],
+      "l": [
+        {
+          "d": "freep.com",
+          "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOM1o1RUJRYmRTM3ZIM1N3M0NhRG1qYmR1VXBnVFRrRVJUbGZuOTQ4dGpxbFRYMkRUZEo0ZjNTV1I0UHRWR0kza2NtQ190TXdGQ1hMMko4YUhJOTJKejFQdXUzdlQ0aEZPcVNBOElZRFQ1VDFMNEdtTVBQYWxzSHc3VUxST1J4R2d5QVNRbnpsaHFKckF0UUxwNHFzZkptWVdaSERvUHExUEtNdnMwWktqbjhlU0c3MGEwV0NZemtNOHc1UjRwQzJIVTh3OW9xUExRVG5jQUlYdjJ3Ui0xWDlrMXdNVmY5ZTRVcExXY2NsclVZeDFhSjk3V1d3?oc=5"
+        },
+        {
+          "d": "lohud.com",
+          "u": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNXJ0ZzhkZ0tTa0p5aVpWSVpaMjZnX2M0a0t2d0ZwZmNMRk1BMkgzclowTDhoNW1PZHYya2tuZTh5czNfNU5uSjh4b1FGSGU0SHIzSUpWdVlSLUsyY0xJYmh1MV90S1NaeWhZZEx1bm9hTV9idHNOd00tZXotOV9nNjdLcldzZEIxUU95SWI1bVp5LXVBbEt0cWlQR3h4ZHpuRlFPMGxuV21hdXNWSXlzRktyY0tLYy1VWm5QRXlnckZtM0xWMTRDMEhVSTdrRHh3Rm9BbTBWUmhLR2xGaU9pc0pFN2FuYm9vYXBxempEbjBtU3NrNzBWUkFn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI",
+        "Global Nursing AI Alliance and American Board of Nursing Artificial Intelligence Present Nursing AI Research at AAAI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 20,
+      "sources": 2,
+      "ts": "2026-11-12T11:15:28.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "French army ministry to set up centre for defence-related AI",
+      "s": "French army ministry to set up centre for defence-related AI Yahoo News Singapore",
+      "b": [
+        "sg.news.yahoo.com: French army ministry to set up centre for defence-related AI",
+        "reuters.com: French army ministry to set up centre for defence-related AI"
+      ],
+      "body": [
+        "sg.news.yahoo.com: French army ministry to set up centre for defence-related AI Yahoo News Singapore",
+        "reuters.com: French army ministry to set up centre for defence-related AI Reuters"
+      ],
+      "l": [
+        {
+          "d": "sg.news.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Xa3RuZHV4QXNrT0JLdEwtc1ZxNS1HV3ZpQ3RRcG00RnczSlNrdVAyNzlHZ0toWWNON0I1dkkzOFA5aGZEamxzWVg5NEs3SDBodFE1ZlhBUTFjTDVJQW1Kck5vTTFmVmstcDI3b0ZnNERPZExUWmxvREJfMVA?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSk02WVl5aUx2TTl0QmJjZEpSVUkySGFQSkZqYTZpRXc3c0V4RlViNWhJVkE3b2szcC1Qai1sWWRVTDVhVlRyVWxYUW91cVFpSW5TZ0xSTnJRclZBWWFEaXBKaXBORTV3blJrOTN5ZXNOdFpHUnozc0x2LTRZdndDWjNjM3lhb2RjRU1xSTBiYWhuV213WGUyNFItdURucG81T0E?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "French army ministry to set up centre for defence-related AI",
+        "French army ministry to set up centre for defence-related AI"
       ]
     }
   ]
