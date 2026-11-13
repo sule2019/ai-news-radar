@@ -3,7 +3,46 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 72,
+      "sources": 3,
+      "ts": "2026-11-13T15:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Introducing ChatGPT Wallet",
+      "s": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+      "b": [
+        "openai.com: Introducing ChatGPT Wallet",
+        "techcrunch.com: ChatGPT s new Wallet lets AI agents shop and check out for you",
+        "techmeme.com: OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18 (Ashley Capoot/CNBC)"
+      ],
+      "body": [
+        "openai.com: Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+        "techcrunch.com: ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
+        "techmeme.com: Ashley Capoot / CNBC : OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18 OpenAI on Friday announced ChatGPT Wallet, a new payment feature that enables its dots artificial intelligence agents to make purchases on behalf of users."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-chatgpt-wallet"
+        },
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261113/p15#a261113p15"
+        }
+      ],
+      "srcTitles": [
+        "Introducing ChatGPT Wallet",
+        "ChatGPT s new Wallet lets AI agents shop and check out for you",
+        "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18 (Ashley Capoot/CNBC)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
       "sources": 2,
       "ts": "2026-11-12T22:18:59.000Z",
       "writtenSources": 2,
