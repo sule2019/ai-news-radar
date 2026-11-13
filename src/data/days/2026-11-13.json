@@ -42,6 +42,38 @@
     },
     {
       "cat": "models",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-11-13T19:08:57.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+      "s": "The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+      "b": [
+        "wired.com: Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+        "reddit.com: Back Propagation [D]"
+      ],
+      "body": [
+        "wired.com: The company says a bad update—not a cyberattack or AI—caused its servers around the world to crash.",
+        "reddit.com: Hello everyone I am currently studying neural network development in graduate school and I’m having a hard time conceptualizing the stages of training. I understand that forward propagation is how we calculate the output given input but in terms of how we adjust weights during backpropagation, it’s not very intuitive to me. Does anyone have a good suggestion for how to visualize this to make it more intuitive? Cheers! submitted by /u/Heavy-Rough-3790 [link] [comments]"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/microsoft-365-crawls-back-to-life-after-a-24-hour-outage/"
+        },
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1xvnob6/back_propagation_d/"
+        }
+      ],
+      "srcTitles": [
+        "Microsoft 365 Crawls Back to Life After a 24-Hour Outage",
+        "Back Propagation [D]"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 58,
       "sources": 2,
       "ts": "2026-11-13T14:00:00.000Z",
