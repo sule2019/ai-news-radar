@@ -1,4 +1,37 @@
 {
   "date": "2026-11-13",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-12T22:18:59.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial intelligence summit at WMU",
+      "s": "Artificial intelligence summit at WMU WOODTV.com",
+      "b": [
+        "woodtv.com: Artificial intelligence summit at WMU",
+        "siliconrepublic.com: EU leaders set for Dublin artificial intelligence summit"
+      ],
+      "body": [
+        "woodtv.com: Artificial intelligence summit at WMU WOODTV.com",
+        "siliconrepublic.com: EU leaders set for Dublin artificial intelligence summit Silicon Republic"
+      ],
+      "l": [
+        {
+          "d": "woodtv.com",
+          "u": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaHdiVEh2VjM5S0d0dGNBRm1pbUxfbUc5WDhKVjVIdXF1a203X0YwMHA1eW5vUjNJSXBnWS1uUEF4TV9JVWtyLVUzbWRvdEliaDlNT2RVMVV6WVRDTkVIdGQydHBQbk5ua2NwUC0tMFpUTU9SVFFoOS1rWmp4UDhxX2RR?oc=5"
+        },
+        {
+          "d": "siliconrepublic.com",
+          "u": "https://news.google.com/rss/articles/CBMingFBVV95cUxONC0ycGkzbVBhT2tpV2xqcm1UVXRoOUMzV01HVnFyRDJCMjFMZ1RPZlRWOFluRmpkV0EwbW1Ia2M4eUhYelVIXzhlVWZrV3YxYkY0M1d5ZzJiNHhENHlEbXF2NUJ4Vkpja1Jwd240bTh4WEZWXzM0VWMtNE82cnRHclJ1T0dpblQ1ZEk4RkRZckw3aUpaLV9BdExiMURGQQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Artificial intelligence summit at WMU",
+        "EU leaders set for Dublin artificial intelligence summit"
+      ]
+    }
+  ]
 }
