@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 72,
+      "signal": 69,
       "sources": 3,
       "ts": "2026-11-13T15:00:00.000Z",
       "writtenSources": 3,
@@ -30,19 +30,202 @@
           "u": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261113/p15#a261113p15"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet"
         }
       ],
       "srcTitles": [
         "Introducing ChatGPT Wallet",
         "ChatGPT s new Wallet lets AI agents shop and check out for you",
-        "OpenAI announces ChatGPT Wallet, which lets its dots AI agents make purchases on behalf of users, available to ChatGPT Pro subscribers in the US who are over 18 (Ashley Capoot/CNBC)"
+        "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you"
       ]
     },
     {
       "cat": "models",
-      "signal": 18,
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-11-13T14:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "s": "Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try ",
+      "b": [
+        "theverge.com: Claude’s Duet agent is a little neurotic and surprisingly helpful",
+        "techmeme.com: Claude Duet review: user-friendly, sends a helpful morning brief, and spots scheduling conflicts, but can feel like a neurotic personal assistant that nags (Allison Johnson/The Verge)"
+      ],
+      "body": [
+        "theverge.com: Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Anthropic's AI agent for consumers, the latest attempt by an AI company to try to convince us that agents can be useful for people who don't write code. It's been an interesting couple [ ]",
+        "techmeme.com: Allison Johnson / The Verge : Claude Duet review: user-friendly, sends a helpful morning brief, and spots scheduling conflicts, but can feel like a neurotic personal assistant that nags Normally, the products I test don't offer to help me write up my experience with them. Duet is different."
+      ],
+      "l": [
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261113/p23#a261113p23"
+        }
+      ],
+      "srcTitles": [
+        "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+        "Claude Duet review: user-friendly, sends a helpful morning brief, and spots scheduling conflicts, but can feel like a neurotic personal assistant that nags (Allison Johnson/The Verge)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 46,
+      "sources": 3,
+      "ts": "2026-11-13T21:20:47.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+      "s": "The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced s",
+      "b": [
+        "arstechnica.com: FAA expands AI advice to manage air traffic congestion across entire US airspace",
+        "techmeme.com: The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US (Jeremy Hsu/Ars Technica)",
+        "futurism.com: Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence?"
+      ],
+      "body": [
+        "arstechnica.com: The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system. Airline executives have voiced support for the rollout, but the US labor union representing air traffic controllers has said it was not involved in designing or testing the AI-driven system. The Federal Aviation Administration (FAA) says the $875 million SMART system has helped reroute 180 flights since being implemented in airspace over Washington, DC, on September 21. The agency claims that this saved an average of 10 minutes per flight and almost 80 gallons of fuel per flight—and it is apparently hoping such results can be replicated nationwide through the expanded deployment. “After a successful initial rollout to the National Capital Region in September, the FAA will now use SMART in the airspace of all 22 centers across the country to reduce delays, reduce fuel consumption and improve the travel experience for the flying public,” according to the agency statement posted on November 10. Read full article Comments",
+        "techmeme.com: Jeremy Hsu / Ars Technica : The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US The US government has expanded the use of an AI tool for advising air traffic controllers to assist in managing air traffic across the entire national airspace system.",
+        "futurism.com: Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence? Futurism"
+      ],
+      "l": [
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/features/2026/11/faa-expands-ai-advice-to-manage-air-traffic-congestion-across-entire-us-airspace/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261113/p32#a261113p32"
+        },
+        {
+          "d": "futurism.com",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRDFpcDBqNkNOV0JPcjFPQVI0VUpIaE9EaE84Ni1BZU43cjRkOHlzUWpmOE9hZGZBX2pSN3FST3BEbzFPZTh1dkZSZWNPVU9wekdIdnVObjRVcFplRDNILUlZMklEOUNaOUtpbk1TaE5qS3hsSnF2ZW1oSVlzSkR5Yk1mQWFySGpyM25weDJn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "FAA expands AI advice to manage air traffic congestion across entire US airspace",
+        "The FAA announced on November 10 that it has expanded the use of SMART, an AI tool for advising air traffic controllers to manage congestion, across the US (Jeremy Hsu/Ars Technica)",
+        "Entire US Airspace Shut Down Days After the FAA Rolled Out an AI Air Traffic Tool. Was It a Coincidence?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 33,
+      "sources": 3,
+      "ts": "2026-11-13T21:00:12.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "AI risks are the biggest threat to the financial system, Fed survey finds",
+      "s": "AI risks are the biggest threat to the financial system, Fed survey finds CNBC",
+      "b": [
+        "cnbc.com: AI risks are the biggest threat to the financial system, Fed survey finds",
+        "reuters.com: AI rockets to top of worries about financial system in latest Fed survey",
+        "gvwire.com: AI Rockets to Top of Worries About Financial System in Latest Fed Survey"
+      ],
+      "body": [
+        "cnbc.com: AI risks are the biggest threat to the financial system, Fed survey finds CNBC",
+        "reuters.com: AI rockets to top of worries about financial system in latest Fed survey Reuters",
+        "gvwire.com: AI Rockets to Top of Worries About Financial System in Latest Fed Survey GV Wire"
+      ],
+      "l": [
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd1luSGcydUl6NE15cEcydlNhSnRuNjNjVHdMQldrQjRYcXpLZ3FfbnNrWndndDNTaUowRWJ6NDg0dUdaN084LW00YU4tNEhPTXh6Ymx3WVFpZk5MQTgwVFpMX1o4cFdXT2lCQi1xSzlncG9mUkpDa0xTUF9BY2E3cXVnS2fSAYoBQVVfeXFMTmZFcVNQMElxVkdHNTFNMVBOYTg0SGVKNm5ISHM5N3pGUUxKSE5Za2ZuMmZNb3RnY0FpVWxNbWtIdXFIdm0wOWVIa3FXWVJJaVhhTHBzOVpJbzVnY2VGZk04WE5aRHVBdjdkRlVpSm1VQXo1ckRPRTV4aDNjNGJNeGlhSXZ4ZEhIa1dR?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNa05md1paYmE4WGRIS2pmdGhmS3ZkQUhQdnFNUHNpTURuUmNXc3A1OUNvQkQxamNhUmROd3o4a09ENzhkamVvSlJMUDcyR1FYVW5MOXhid3RjNEtLLVY0NDVTMWlxdGZxYWJ3YVVuRmhRSEQzbDJvSk9VakI2d3lORXZZbFdkdlJHcEpPdmpxOWh5Z1J1UjJQbG96S016ck1MSk1VVzJ4SFliWkhUMng3NEJuYVpEWjQ?oc=5"
+        },
+        {
+          "d": "gvwire.com",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVUNEZ2dVR1NTcTI0cWRPeEQ2T1piaW1FS3BCQkczTjk0RVJ4b0tTQU40and0bjJEUlB5NkdMMGdqanUzalI4T3dVaHFiMDE0VEJPNzV5WDBibW9GZi1pcHZBRnBGT0p2ZFoxMlNIS09LMUxyNnFBX2NtOF9ZMjk3MGxTaGE0UUpKRDcyaVE5R3hkN1NfREYyUFliYWZPRDk4Q0ZoN3d3?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI risks are the biggest threat to the financial system, Fed survey finds",
+        "AI rockets to top of worries about financial system in latest Fed survey",
+        "AI Rockets to Top of Worries About Financial System in Latest Fed Survey"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 33,
+      "sources": 3,
+      "ts": "2026-11-13T20:05:01.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Sen. John Curtis pens bipartisan letter urging tighter export controls on Artificial Intelligence",
+      "s": "Sen. John Curtis pens bipartisan letter urging tighter export controls on Artificial Intelligence KVNU News Talk",
+      "b": [
+        "kvnutalk.com: Sen. John Curtis pens bipartisan letter urging tighter export controls on Artificial Intelligence",
+        "gzeromedia.com: The race to control artificial intelligence",
+        "yahoo.com: The race to control artificial intelligence"
+      ],
+      "body": [
+        "kvnutalk.com: Sen. John Curtis pens bipartisan letter urging tighter export controls on Artificial Intelligence KVNU News Talk",
+        "gzeromedia.com: The race to control artificial intelligence GZERO Media",
+        "yahoo.com: The race to control artificial intelligence Yahoo",
+        "yahoo.com: The race to control artificial intelligence | Ian Bremmer Explains Yahoo"
+      ],
+      "l": [
+        {
+          "d": "kvnutalk.com",
+          "u": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQa0hOOTg0ZDcwRzlyb3ZhanlzbVAwNm41MGF0bmlSRktCdlR4d2R4OUV3b0RyVVhaUHVOTFdFTTFjenpUeW1CYU5rSkswZGZTSmJUM1dHNVRlQlMwVlczVTduMm1MWXhhWVJVQ1poX2pxbWN2Y2czRTBscm1oUDhxOU9rcTNNSzBCNVBTeUE2UjY3Nm41Z0IzUG9PWFFINDVUdmZfcWs2SndEdlFTZ18zU2ZFOVZrRnMxS0E?oc=5"
+        },
+        {
+          "d": "gzeromedia.com",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMnAtTGplODBtY25vSFZxajE2YlFySmpvTjVfdG1LYy1IVWNOR1VTSmhodVBCaWk0dnpjYzdTM2RwMkhSVkxHUTJMVy05ZWRPZ1otR2Vab0d4eElHbVdMRHRJM2MzcVJzUkd4Rml2REFHbFRWVW8xUW1zUnhYTmxuNVhISDd1bFBHVEo2V2tB0gGIAUFVX3lxTE0tSDJXR1ptZkZyM2JuVWxpX1g2b1ZqTkJhLXgwN1dZV05JV04ycjRsRTlFNlJkdFltMzR3RmlqZGFNZWtvMUROSlJnRHd3MElzLUZOWV9rc29hd2EwSnR4Z19DWFJGSE5oX1NndXJGVWhOalpDZkltM3dBdEpfT0U2b0prV2wwMzk?oc=5"
+        },
+        {
+          "d": "yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYTlZMGxOR3Zadml2LXN4eEtFLXVsYXgtR040ZGJxaFZRRTliRDZGMFVJVmVtaU1FUzhBTWhkREpqeEp4aUFBWDI0eHh4MUNIcGNMQXRjVncxeWVuQnozWktEWGhKSE9HU2t0SWVzdHJTVVppNUp6QVJzRW5kRk1iakt2WE5yTW5CQmhyV2NNMk9nakl4?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sen. John Curtis pens bipartisan letter urging tighter export controls on Artificial Intelligence",
+        "The race to control artificial intelligence",
+        "The race to control artificial intelligence",
+        "The race to control artificial intelligence | Ian Bremmer Explains"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-11-13T19:08:47.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Fact Check Team: Is AI replacing American workers and how hard is it to find a new job?",
+      "s": "Fact Check Team: Is AI replacing American workers and how hard is it to find a new job? The National Desk",
+      "b": [
+        "thenationaldesk.com: Fact Check Team: Is AI replacing American workers and how hard is it to find a new job?",
+        "nbc25news.com: Fact Check Team: Is AI replacing American workers and how hard is it to find a new job?"
+      ],
+      "body": [
+        "thenationaldesk.com: Fact Check Team: Is AI replacing American workers and how hard is it to find a new job? The National Desk",
+        "nbc25news.com: Fact Check Team: Is AI replacing American workers and how hard is it to find a new job? WSMH"
+      ],
+      "l": [
+        {
+          "d": "thenationaldesk.com",
+          "u": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQlg3dlFheE9oS0diX0ZKQXpTT1FlWTVtbUFkWGYxcmViZjhYMW9ucm1nc3gyS21zbkhFN3ZaQ05JN0xkQTlvOGllS0NlbUZzZ0V3ajNtWnY5ZTFVVUVlUGEwbWdtZlJWUVphQ0xlalVudWZTN3lNNktZX2N0Nl9yLUdLdmJBb2gtdTc1NE55RVBkZ0UxY3dKakREd1JmVWhSMUVjdHF2OUZ6YVlMMDBOR3Bad1pvQ3puTS1uT05NaXROUGhoeG8zaUJDMVowcGc2UjhzRENBNl9kbU1oVnEyVTNKbFNaak5YczVGU3QyOVppWEZqU3NEUjFZckpmZw?oc=5"
+        },
+        {
+          "d": "nbc25news.com",
+          "u": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxObDRZUWNzX2c1S2EtcjdrbjdqSEh2RkhVRDk3dW01LXFsMmM0Wkh0WGdwV1JsQ1NGU04xbjYxZTQ3QjlZWl92dWNMZ0xjZ1laU0xMQlhFRk1tajM2QW16LW9YYUd6aTZYUXlIQ0tieElpR3UzTXBHSEpwY0hDOGQ5eTRyTlZnSnFoM3VqV3R1eDk0b1VKX3BxZFZxT0RDV1huc0F1WEk5eVA0TnZLSHBhVHVXWDdrWnJDeEhWSEE5VlppRWxQem5ZMnlSMmxmclp5V0VCMzRfcFVvZ3ZiWHBmY2NIb1hWeVlWdmcxb2VTVWE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Fact Check Team: Is AI replacing American workers and how hard is it to find a new job?",
+        "Fact Check Team: Is AI replacing American workers and how hard is it to find a new job?"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 15,
       "sources": 2,
       "ts": "2026-11-12T22:18:59.000Z",
       "writtenSources": 2,
