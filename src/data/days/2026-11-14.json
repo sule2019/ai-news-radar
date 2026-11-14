@@ -2,8 +2,47 @@
   "date": "2026-11-14",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 68,
+      "sources": 3,
+      "ts": "2026-11-14T16:30:01.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "s": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "b": [
+        "techcrunch.com: Asian governments react to Nvidia CEO Jensen Huang’s exit",
+        "techmeme.com: A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed (Lauren Edmonds/Business Insider)",
+        "geekwire.com: Nvidia’s CEO meltdown, who could replace Jensen Huang, and our latest AI tips and tricks"
+      ],
+      "body": [
+        "techcrunch.com: Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+        "techmeme.com: Lauren Edmonds / Business Insider : A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed Some people aren't ready to let former CEO Jensen Huang go. A petition to reinstate Huang as Nvidia's CEO has some 97,000 signatures",
+        "geekwire.com: Nvidia’s CEO meltdown, who could replace Jensen Huang, and our latest AI tips and tricks GeekWire"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261114/p17#a261114p17"
+        },
+        {
+          "d": "geekwire.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRnlSaUNucE1BRVZfU1M3Uy1iMVZweV92WElqMDlQbmNFaXVUUzZ2Qnk3cHlxektlQWR0ai1ybjEwbVVIN0hGRUZPMnpzaDl6NUFXaFJVSVBJZE9iTG1mYUhOTUJJX1RLNWtJcVBIR3ZjdE1vZkpJWVFjSG5QaWtDamxmdGFNaVVaZkU0eHlXbThfd0QyaHZkWTlER1BRVFFLS0dMZC1HXzlOLWFXMnF4OEZqclhNaEE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+        "A petition to reinstate Jensen Huang as Nvidia CEO tops 100K signatures, including Elon Musk, Tim Sweeney, and Garry Tan; organizers say 5K+ Nvidia staff signed (Lauren Edmonds/Business Insider)",
+        "Nvidia’s CEO meltdown, who could replace Jensen Huang, and our latest AI tips and tricks"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 46,
+      "signal": 42,
       "sources": 2,
       "ts": "2026-11-14T02:43:21.000Z",
       "writtenSources": 5,
