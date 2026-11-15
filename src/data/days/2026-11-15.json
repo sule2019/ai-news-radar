@@ -1,4 +1,44 @@
 {
   "date": "2026-11-15",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-11-15T04:29:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Top scorer on South Korean tax exam confesses to cheating with AI",
+      "s": "Top scorer on South Korean tax exam confesses to cheating with AI Reuters",
+      "b": [
+        "reuters.com: Top scorer on South Korean tax exam confesses to cheating with AI",
+        "theguardian.com: 160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+        "bloomberg.com: Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating"
+      ],
+      "body": [
+        "reuters.com: Top scorer on South Korean tax exam confesses to cheating with AI Reuters",
+        "theguardian.com: 160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating The Guardian",
+        "bloomberg.com: Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating Bloomberg.com"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVjJtaVF1ZGdVTmRVNlB2Mk5GeEVtaTk2UHIxbW16RHU2M0hNQ1hTZW1XTkVPTzlYQnNYV2FDMlZGQjZpMXdySHZhMDFUMDkxOWJybnE4ekV6LVRuV3p5bHZiU3dTVWsyNkpOTkdaV3gxR3plNTF1TTdyVDlIUklCekFkNG5yaFdQZ3lQVjhyQXNxX09UQnVuYlhLMjNoMVVDZFk4R2xhQVd4T2xjaWNfdVZFZW4?oc=5"
+        },
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOTJZbzJTbkZObVJJNzkyOExaejBHV2s4X2VON2x1Y0tvb3F2UFJJYU1URnRHdENVSEstSi1ScEw0OVEwTlRfTUFONEdTYl9YYlpNa2RUQXU2VTl2R1RWM0F4MXJ4aUFlNWk0TTJtOTh0ZWNyNGZfNVNuRF9fcnpiYmlkNDhLcUJSNF9wcUF3Y2RQdWZ4YUdnc1RMMHo?oc=5"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTBkMHVFbnVDOWNRajdDT204QVNpM1h5aWJaNEdINjl5OWMyOWY4WVZVRUwxbC12RUlXUmltSFRsZzZ5Qnc5N2kyX1M1RXdiS1h5eHVIS2Nnam93Sk5laE5BUGdWTEtTYnljM192WjdWUU4ya3gzajVMTnJMZV9USk1oRmFUUUhfS09wN2JFNW5ZRkk3SHdXLUh1Z2Y3bnByd05CRnlWVGlkdlAwaVZoN254dE8?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Top scorer on South Korean tax exam confesses to cheating with AI",
+        "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+        "Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating"
+      ]
+    }
+  ]
 }
