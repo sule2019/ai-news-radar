@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 30,
-      "sources": 3,
+      "signal": 32,
+      "sources": 4,
       "ts": "2026-11-15T04:29:00.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -32,12 +32,17 @@
         {
           "d": "bloomberg.com",
           "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQTBkMHVFbnVDOWNRajdDT204QVNpM1h5aWJaNEdINjl5OWMyOWY4WVZVRUwxbC12RUlXUmltSFRsZzZ5Qnc5N2kyX1M1RXdiS1h5eHVIS2Nnam93Sk5laE5BUGdWTEtTYnljM192WjdWUU4ya3gzajVMTnJMZV9USk1oRmFUUUhfS09wN2JFNW5ZRkk3SHdXLUh1Z2Y3bnByd05CRnlWVGlkdlAwaVZoN254dE8?oc=5"
+        },
+        {
+          "d": "hurriyetdailynews.com",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLU4xSm9iMTdpN2JlN2ZyN0V4UDZDUnFjOUZjdXJoNUlLYWNDMXVBRldVU01GVTJrZnUzQWQ4YzZNcDFHVVZ2QVRBNUxzU1RqVHNkUlhfY2dMUUVFQkpfZUVRbmRfRFVkVlJvMnQxWG9SWWN3YUhUUHJRVWc4V1h2bEp2YXRIZnhYR2JKck00QlIwQjNrRVp6TDlLQ2R5elZVSmN0ZmMzdw?oc=5"
         }
       ],
       "srcTitles": [
         "Top scorer on South Korean tax exam confesses to cheating with AI",
         "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
-        "Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating"
+        "Korea’s Top Scorer in Tax Accountant Exam Admits to AI Cheating",
+        "South Korea probes top exam scorer after AI cheating confession"
       ]
     }
   ]
