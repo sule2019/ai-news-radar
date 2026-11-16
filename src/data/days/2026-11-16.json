@@ -2,8 +2,152 @@
   "date": "2026-11-16",
   "stories": [
     {
+      "cat": "models",
+      "signal": 77,
+      "sources": 5,
+      "ts": "2026-11-16T18:42:49.000Z",
+      "writtenSources": 5,
+      "draft": true,
+      "h": "California state AG sues OpenAI over rogue agent incidents",
+      "s": "The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+      "b": [
+        "techcrunch.com: California state AG sues OpenAI over rogue agent incidents",
+        "theverge.com: California sues OpenAI over rogue AI hacking incidents",
+        "techmeme.com: California AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents resulting from OpenAI testing AI models without adequate safeguards (Politico)"
+      ],
+      "body": [
+        "techcrunch.com: The California lawsuit represents one of the first attempts to hold an AI lab legally accountable for a rogue agent incident",
+        "theverge.com: California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit on Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper oversight,\" as reported earlier by Reuters. The lawsuit claims the [ ]",
+        "techmeme.com: Politico : California AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents resulting from OpenAI testing AI models without adequate safeguards California Attorney General Rob Bonta is suing OpenAI over the cyberattack its rogue AI agents launched this summer against the tech platform Hugging Face.",
+        "latimes.com: California sues OpenAI, alleges it endangered the public by building AI without safeguards Los Angeles Times"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261116/p40#a261116p40"
+        },
+        {
+          "d": "latimes.com",
+          "u": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVDUyUWJxQ21xTm9UblI2QmZKc2JBajhidWVtTXRvbDYxdDBmZF9KYUdiNExtMUlIZUo0LTlfTjNrNUN6RGxvMG94N2xyRXhIMGhHWGI5MWRBcmJDa3QxUG45VWh2ZkVvMzhGLWt4cm5VbTh4elR6S1E3eE9IUWFvUXVvc0hQT2lvQWxaRUJERHhCTEEyT192bW9zUW9jQnNFSDM0RmJ6RDA1a3l0Ykh6MThXNGYxRGh2WFRVT2lFanBvWnpwNWpqVURMS2k5SGVhbnAxQzU3TQ?oc=5"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "California state AG sues OpenAI over rogue agent incidents",
+        "California sues OpenAI over rogue AI hacking incidents",
+        "California AG sues OpenAI over the Hugging Face attack, alleging it was one of 80+ incidents resulting from OpenAI testing AI models without adequate safeguards (Politico)",
+        "California sues OpenAI, alleges it endangered the public by building AI without safeguards"
+      ]
+    },
+    {
       "cat": "research",
+      "signal": 60,
+      "sources": 2,
+      "ts": "2026-11-16T08:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Our first phase of embedded assessments",
+      "s": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+      "b": [
+        "openai.com: Our first phase of embedded assessments",
+        "techmeme.com: OpenAI says it signed agreements with independent assessors Apollo Research, METR, Transluce, and Goodfire for its first phase of AI model embedded assessments (OpenAI)"
+      ],
+      "body": [
+        "openai.com: OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+        "techmeme.com: OpenAI : OpenAI says it signed agreements with independent assessors Apollo Research, METR, Transluce, and Goodfire for its first phase of AI model embedded assessments We have signed agreements with four independent assessors Apollo Research, METR, Transluce, and Goodfire for our first phase of embedded assessments."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/our-first-phase-of-embedded-assessments"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261116/p33#a261116p33"
+        }
+      ],
+      "srcTitles": [
+        "Our first phase of embedded assessments",
+        "OpenAI says it signed agreements with independent assessors Apollo Research, METR, Transluce, and Goodfire for its first phase of AI model embedded assessments (OpenAI)"
+      ]
+    },
+    {
+      "cat": "products",
       "signal": 58,
+      "sources": 2,
+      "ts": "2026-11-16T17:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+      "s": "ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+      "b": [
+        "techcrunch.com: OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+        "techmeme.com: OpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children (Ivan Mehta/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: ChatGPT will ban an account trying to access CSAM content for 24 hours as a warning.",
+        "techmeme.com: Ivan Mehta / TechCrunch : OpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children OpenAI today announced new tools to combat child sexual abuse material (CSAM) amid growing safety concerns around the use of AI tools."
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261116/p39#a261116p39"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+        "OpenAI announces tools to combat CSAM, including an image classifier and new warning screens to prevent users from accessing material that sexualizes children (Ivan Mehta/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-11-16T14:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google Maps can now build trip itineraries with real-time details about each stop",
+      "s": "You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+      "b": [
+        "techcrunch.com: Google Maps can now build trip itineraries with real-time details about each stop",
+        "theverge.com: Google Maps can now create trip itineraries for you"
+      ],
+      "body": [
+        "techcrunch.com: You could use Ask Maps to plan a holiday shopping day trip or something more complex, like a three-day road trip featuring coastal hikes and oceanfront dining.",
+        "theverge.com: Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, which is rolling out to the Gemini-powered Ask Maps chatbot inside the app, lets you plan a one-day outing or a trip spanning several days. As [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/16/google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-stop/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning"
+        }
+      ],
+      "srcTitles": [
+        "Google Maps can now build trip itineraries with real-time details about each stop",
+        "Google Maps can now create trip itineraries for you"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 54,
       "sources": 2,
       "ts": "2026-11-16T01:26:56.000Z",
       "writtenSources": 3,
@@ -37,7 +181,7 @@
     },
     {
       "cat": "models",
-      "signal": 52,
+      "signal": 48,
       "sources": 3,
       "ts": "2026-11-16T03:59:00.000Z",
       "writtenSources": 3,
@@ -77,7 +221,32 @@
     },
     {
       "cat": "models",
-      "signal": 49,
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-11-16T12:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Science at the Frontier: How scientists use ChatGPT",
+      "s": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+      "b": [
+        "openai.com: Science at the Frontier: How scientists use ChatGPT"
+      ],
+      "body": [
+        "openai.com: Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/science-at-the-frontier"
+        }
+      ],
+      "srcTitles": [
+        "Science at the Frontier: How scientists use ChatGPT"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
       "sources": 1,
       "ts": "2026-11-16T09:00:00.000Z",
       "writtenSources": 1,
@@ -98,6 +267,31 @@
       ],
       "srcTitles": [
         "LVMH’s Media Division announces strategic partnership with OpenAI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-11-16T06:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "More ways to move care forward with ChatGPT for Healthcare",
+      "s": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+      "b": [
+        "openai.com: More ways to move care forward with ChatGPT for Healthcare"
+      ],
+      "body": [
+        "openai.com: Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare"
+        }
+      ],
+      "srcTitles": [
+        "More ways to move care forward with ChatGPT for Healthcare"
       ]
     },
     {
@@ -127,7 +321,39 @@
     },
     {
       "cat": "models",
-      "signal": 36,
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-11-16T19:10:09.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "US moves to cut China’s remote access to AI chips",
+      "s": "On the heels of the Nvidia scandal , the Trump administration is preparing to crack down on foreign data centers that are fueling China’s advancements in artificial intelligence by allowing remote acc",
+      "b": [
+        "arstechnica.com: US moves to cut China’s remote access to AI chips",
+        "tomshardware.com: New US rules aim to close loophole, restrict Chinese firms’ remote access to AI servers and infrastructure — seeks to combat cloud rental workarounds to export controls"
+      ],
+      "body": [
+        "arstechnica.com: On the heels of the Nvidia scandal , the Trump administration is preparing to crack down on foreign data centers that are fueling China’s advancements in artificial intelligence by allowing remote access to otherwise restricted high-end chips necessary for AI training. In a summary of the rule change, the Commerce Department said it was closing a loophole that previously allowed foreign rivals like China, Russia, and Iran to bypass export curbs on certain advanced computer chips by instead renting access to those chips from data centers in Indonesia, Malaysia, Singapore, Thailand, and Brazil. US rivals could possibly use that access to train and run advanced AI models “capable of supporting military- and intelligence-related activities that could threaten US national security or foreign policy interests,” the Commerce Department said. Among threats, the US fears rivals could use advanced AI to develop \"more effective weapons of mass destruction and advanced conventional weapons, coordinated cyber-espionage and targeted cyber-disruption, algorithmic theft, and weaponized disinformation.” Read full article Comments",
+        "tomshardware.com: New US rules aim to close loophole, restrict Chinese firms’ remote access to AI servers and infrastructure — seeks to combat cloud rental workarounds to export controls Tom's Hardware"
+      ],
+      "l": [
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/tech-policy/2026/11/us-moves-to-cut-chinas-remote-access-to-ai-chips/"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQcUk3QWgyeElRSjVVWmIwZDR4YURwWFl0am5NM1FtTjVrWlFUeEdOb2MxZzNhd1lIX3ctLVBibWRaWnpMQi13YU5HdWdha1RrcGtBUGgzeGZPYi13MFhzWWxlSlhiSDY5cHctWndFOWhfLUFiNmxKZ2tlRFczaGU2LWJWWTlTTUhYMlBKeEQwRnV2NGpGSHFLOHBBYVhRSXBkbERKanE5Z29RTU02N216OWJFd29MS202OXl3VFB1aXJxcEF0T205VmFVNTVmRklwSGVzWXRrQ0Y3SGw5UlY4dTFOaGZsLS1EZjZ6Y1g2el9PcmNlRHNFVjZaVzljOFpXWG9lT01XMFF4SVJMRDNmLVZ2TzUzMnczSVdLRUdmZnd6MHFiazVCN3dEdXFrcTA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "US moves to cut China’s remote access to AI chips",
+        "New US rules aim to close loophole, restrict Chinese firms’ remote access to AI servers and infrastructure — seeks to combat cloud rental workarounds to export controls"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 32,
       "sources": 2,
       "ts": "2026-11-15T23:30:00.000Z",
       "writtenSources": 2,
@@ -158,8 +384,113 @@
       ]
     },
     {
+      "cat": "policy",
+      "signal": 30,
+      "sources": 3,
+      "ts": "2026-11-16T05:00:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "US, allies team up to protect AI tech and infrastructure amid China rivalry",
+      "s": "US, allies team up to protect AI tech and infrastructure amid China rivalry Reuters",
+      "b": [
+        "reuters.com: US, allies team up to protect AI tech and infrastructure amid China rivalry",
+        "arxiv.org: Aligning AI Teams",
+        "reuters.com: Law firm HSF Kramer taps legal engineering team to fuel AI capabilities"
+      ],
+      "body": [
+        "reuters.com: US, allies team up to protect AI tech and infrastructure amid China rivalry Reuters",
+        "arxiv.org: arXiv:2611.17820v1 Announce Type: new Abstract: Previous work has shown that alignment training on individual LLM agents can fail to transfer to multi-agent settings. We investigate the underlying mechanisms for this failure, and explore interventions to preserve alignment transfer to multi-agent LLM teams. We focus on two software-engineering tasks (sepsis triage, a news recommender) and ten consulting-proposal generation tasks. We present four findings: (1) The single-vs-team safety gap does not show a clear trend with more capable models. We find that Anthropic's Mythos Preview shows the largest gap on one of our tasks but the smallest on another; (2) Many natural interventions, such as having agents critique each other's work or coordinate in a group chat, do not reliably bring agent teams back to single-agent alignment behavior; (3) diffusion of responsibility substantially accounts for the safety gap: agents in teams are less likely to proactively check for system-level safety failures and more likely to ignore, rationalize, or deflect responsibility for issues when they arise; (4) having a designated safety lead agent ensure system-level safety, and having a coordinator agent publish a safety specifications document are effective at restoring single-agent alignment. We also release magelab, a multi-agent LLM orchestration and experimentation framework. Our findings can help practitioners design agent teams that successfully preserve the behaviors expected of aligned individual agents.",
+        "reuters.com: Law firm HSF Kramer taps legal engineering team to fuel AI capabilities Reuters",
+        "businessrecord.com: AI gives M&A teams a choice to move faster or gain more insight in dealmaking Business Record"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQME9ldVY0V0JLTVYyLTZZcXZlVmZwNnNlcWw5MHYwa0F4VUdRbGFueXVXX29SaXdiWTR4LWpfbDY5dV9sclVXNHBhakdiMUlBeWc5S1M0dmZTMW5IcmYwV2REZ1hUYnhyWFJDT2t5dkFuRlh6Q3RMYUxfVFh2X3JCR3VxMENuYzdMMWxFZzFSOV80OC10ZFNyMldjR1dyOTNOYlY5Y3JyTDJRSEV4anRmaHFidnJ0dw?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2611.17820"
+        },
+        {
+          "d": "businessrecord.com",
+          "u": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRUk4UkE0Y0FKTU8zMV9jT3paQmhjc2JkNm9IeXJlcUNYSENTYmgyZGpkU2V5YW9RWFdyMjFQNGtPY0I5WmQ3Y2l6WXhkVldsZHpjVG0xLU1Fa3MzTk03V1M0M1FwdC1mQU1PY1QtbVZuanFmSjlJbWdGb0s1MnF5OWNxNWw5b01WRjNWb1hvX2NuLXRUOUxzZlR2dXNXclZwM2pkNEdsYjNPXy00?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "US, allies team up to protect AI tech and infrastructure amid China rivalry",
+        "Aligning AI Teams",
+        "Law firm HSF Kramer taps legal engineering team to fuel AI capabilities",
+        "AI gives M&A teams a choice to move faster or gain more insight in dealmaking"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-11-16T19:32:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
+      "s": "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip The New York Times",
+      "b": [
+        "nytimes.com: Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
+        "nextgov.com: Commerce Department moves to close AI chip loophole"
+      ],
+      "body": [
+        "nytimes.com: Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip The New York Times",
+        "nextgov.com: Commerce Department moves to close AI chip loophole Nextgov/FCW"
+      ],
+      "l": [
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0lsM1hzeXVWNWZKSmUtTlFNWnU5MlV4c2FfeEJPYkR2YjBFaGt6alJJd0JNZGh6ZHZDRDBsSnhXdnhhdWFkYkVPSjdHOXlEcXo3aXQxWmJRY1RQZVhJTWs0c3dGeWk2TzdBUE1PdVRmcTlzZGE0X1BHMnFnN1BCQWRtNW5YWkE?oc=5"
+        },
+        {
+          "d": "nextgov.com",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYmFQTHJZS3RtRE05aU1kZkRJZm1fSzV1MXNZZmJILXZ4OUZWWFRNTjRKdUQ5SkFsVGRNVFRtbDJnZlNzZ215UGU3UUMxYkhnQmhzZlZvX3ZNNklkNlNieXdOVzh4V25XdWlkODZldXN6Q3YzNGJhLTZmbi02bmQzSTNENWZUNTAxZ2QyYkRxR2hVZXJnSUVZQk1rWFdoZllWZUVla3pqN0s5SDk2NFlXTThn?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip",
+        "Commerce Department moves to close AI chip loophole"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-11-16T17:44:51.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Fed Chair Warsh Unveils Three Economic Scenarios for Artificial Intelligence",
+      "s": "Fed Chair Warsh Unveils Three Economic Scenarios for Artificial Intelligence Kriptofoni",
+      "b": [
+        "kriptofoni.com: Fed Chair Warsh Unveils Three Economic Scenarios for Artificial Intelligence",
+        "cryptonews.net: FED Chairman Kevin Warsh Issues Warning on Artificial Intelligence: “A Major Economic Crisis Could Occur”"
+      ],
+      "body": [
+        "kriptofoni.com: Fed Chair Warsh Unveils Three Economic Scenarios for Artificial Intelligence Kriptofoni",
+        "cryptonews.net: FED Chairman Kevin Warsh Issues Warning on Artificial Intelligence: “A Major Economic Crisis Could Occur” Cryptonews.net"
+      ],
+      "l": [
+        {
+          "d": "kriptofoni.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQ3E4TkNqQnNfLUc3bF9IQ0x5SnZLLVJFeWVXR0cyNi03V1BwMGJRbnN2dzJJdGJhU01na1JTaVRDeGFibEJMRTJ1VWF1c01Ob2FCb2VxUDU2VVRpM05kS21uSmU2NDI5U0phcFVHYlYtZHJTdTM5WkpPei10ZERlbDVJWTIxYWc?oc=5"
+        },
+        {
+          "d": "cryptonews.net",
+          "u": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04SjlDWFJfX1NIMnY2emhNN1hCcWFiREtVa2dPd0V2SzA1b0YtbHpxODkzXzVQQnRCWHppY042TEFUT0ljV25Ua2N3aU1Bb0xoOFF4MjVTbFA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Fed Chair Warsh Unveils Three Economic Scenarios for Artificial Intelligence",
+        "FED Chairman Kevin Warsh Issues Warning on Artificial Intelligence: “A Major Economic Crisis Could Occur”"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-11-16T11:05:59.000Z",
       "writtenSources": 2,
@@ -190,8 +521,77 @@
       ]
     },
     {
+      "cat": "products",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-16T09:16:47.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai",
+      "s": "An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai The Daily News | Texas' Oldest Newspaper",
+      "b": [
+        "galvnews.com: An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai",
+        "smartcitiesworld.net: Cop Conference - Cop31 launches Antalya Artificial Intelligence Pledge"
+      ],
+      "body": [
+        "galvnews.com: An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai The Daily News | Texas' Oldest Newspaper",
+        "smartcitiesworld.net: Cop Conference - Cop31 launches Antalya Artificial Intelligence Pledge Smart Cities World"
+      ],
+      "l": [
+        {
+          "d": "galvnews.com",
+          "u": "https://news.google.com/rss/articles/CBMingJBVV95cUxNOGtTaWF4OW9WT1JhLVBOcjNJdmc1UWR5aF9WRlhCRkk1Qy1FNWlWbGwydzNWeWhaLWNtV0pFMzNpSHQ0V0xOWWIwYjNWTEFFd0Y2blZpNXJ1TWtxYTE4QXV4X1RQaHFzMTU3cjZzZ0NMbGI0UFduSmJCcDFqWTdZNnZtZG1qOTFSRUY4blZNLUhHa01ZSzkwY3V6RE5mTE95UDVxeE1LV0dtSnJPbU41QnFtSktzQjNfOTd1QmV3aUlENjd4X1ZzYlBvVXpuRWhjMDd1NkdFdGlnVEp0M3RWb0dzMkMyX3VEam5MMHVvT1JDc2NpcTd4WG00aWdKeHBRRExleFlJeGdVYW9kUVZiU2ZOTGFCdW5Qcy1JSVl3?oc=5"
+        },
+        {
+          "d": "smartcitiesworld.net",
+          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaFVpNnloVzkzd0FBV0dXWnR5VXZjbGE5akZrUGUxYUR2TWNEek9qcXdPZ19yakhpT1BSYTM3OVJOWl9BcGpjcTJzcFJrQlpJOWlfQjEwcXV0THRCWXVlWFRLaDU0dDlpSF9hOUQ0Sm1oY3Bjc3Y3TmEzVW51ZGZmTC0zVHVmMU9XaE13YURFYWM5U1RxWXBMcURHcVphS0hQTF9OX3Y3UjlOcWc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "An AI (Artificial Intelligence) sign is seen at the World Artificial Intelligence Conference (WAIC) in Shanghai",
+        "Cop Conference - Cop31 launches Antalya Artificial Intelligence Pledge"
+      ]
+    },
+    {
+      "cat": "research",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-16T05:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Serious spaces? [D]",
+      "s": "As much as I love Reddit, it can really be hit and miss for serious discourse on AI and machine learning. Depending on which sub I guess. But are there any spaces outside of Reddit where there is more",
+      "b": [
+        "reddit.com: Serious spaces? [D]",
+        "arxiv.org: LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+        "arxiv.org: Can LLMs Write Backdoors? An Empirical Security Study of Weight-Space Programming"
+      ],
+      "body": [
+        "reddit.com: As much as I love Reddit, it can really be hit and miss for serious discourse on AI and machine learning. Depending on which sub I guess. But are there any spaces outside of Reddit where there is more conversation, more community and less trolling? To be able to have a decent conversation and share research and projects or learn more etc? I’ve tried discord but I’ve not found any promising servers yet apart from the frontier labs or hugging face etc and I find those too stuck on their own narrative. Any suggestions? Edit: seems a lot of us in the same boat. So I made one lol. Happy for anyone to message me. submitted by /u/Substantial-Buyer365 [link] [comments]",
+        "arxiv.org: arXiv:2611.17340v1 Announce Type: new Abstract: Large language models are expensive to update through full retraining. Parameter-efficient fine-tuning reduces the cost of adaptation, but repeated adaptation creates a growing pool of task-specific LoRA adapters. This pool complicates adapter selection during inference. Existing routing and encoder-based methods often require retraining when new adapters are added, which limits their use in dynamic settings. This paper treats adapter routing as a representation alignment problem in the adapter-output space. The proposed training-free method selects adapters by matching adapter-conditioned query representations against task prototypes using cosine similarity. Experiments with LLaMA-2-7B and LLaMA-2-13B on a 48-task FLAN-v2 benchmark and on out-of-distribution tasks show that the method outperforms training-free baselines in the cross-task setting and approaches a trained retrieval encoder without learning a router. An ablation confirms the benefit of directional alignment in the adapter-output space.",
+        "arxiv.org: arXiv:2611.17395v1 Announce Type: cross Abstract: Recent advances in weight-space programming (WSP) have demonstrated that large language models (LLMs) can directly inspect and modify neural network weights without conventional gradient-based training. While this capability opens new possibilities for model improvement, it also raises an important security question: Can LLMs exploit weight-space programming to inject backdoors into neural networks? To answer this question, we present an empirical security study of LLM-driven weight-space programming for backdoor injection. Specifically, we investigate whether general-purpose LLMs can directly modify the weights of target models according to natural-language instructions, without accessing task-specific data, performing forward passes, or computing gradients. We evaluate five LLMs as weight editors across three target architectures: an MLP on MNIST, ResNet-18 on CIFAR-10, and Qwen2.5-0.5B-Instruct on AG News. Our experiments reveal three key findings. First, LLM-driven weight editing can successfully inject backdoors across different architectures while largely preserving clean performance. Second, successful attacks can require remarkably few parameter modifications, including only six parameters for the MLP and 0.02% of the weights for a fine-tuned Qwen model. Third, editing capabilities vary substantially across LLMs and target architectures: although all five LLMs successfully backdoor the MLP, only GPT-6 Astra succeeds across all three targets. These findings highlight an emerging security risk of weight-space programming and underscore the importance of safeguarding LLM-driven weight editing.",
+        "arxiv.org: arXiv:2611.18114v1 Announce Type: cross Abstract: Neural networks are powerful predictors, yet their opacity limits their usefulness in science, where the goal is explanation rather than mere prediction. In neuroscience, for example, deep encoding models accurately predict brain activity in response to natural stimuli, but struggle to reveal which stimulus features drive those predictions. Here we introduce interpretable weight-space programming (iWSP), a method in which an LLM agent iteratively builds interpretable models by explicitly programming their weights and features in code, without gradient-based training (backpropagation). Without backpropagation to tune parameters, the agent must draw on its prior knowledge and reason over previous trials to hypothesize, hand-craft, and refine human-interpretable computations mirroring the workflow of a human scientist. LLM audits confirm the interpretability of the hand-crafted models. We first validate iWSP by tasking it with constructing transformers for canonical benchmarks such as arithmetic and sentiment classification, finding that LLM agents can successfully craft compact, accurate networks directly. Next, we apply iWSP to build neural encoding models across vision, language, and audition. In the visual cortex, iWSP outpredicts existing interpretable baselines, uncovers distinct computations across early/higher visual areas, and generalizes to unseen data. In language fMRI, iWSP surfaces a confound in the data and in auditory ECoG, it systematically discovers interpretable acoustic features that predict neural activity. Together, these results establish iWSP as a general paradigm for aligning high predictive performance with human-interpretable scientific discovery."
+      ],
+      "l": [
+        {
+          "d": "reddit.com",
+          "u": "https://www.reddit.com/r/MachineLearning/comments/1xxvby6/serious_spaces_d/"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2611.17340"
+        }
+      ],
+      "srcTitles": [
+        "Serious spaces? [D]",
+        "LoRAWeaver: Directional Adapter Routing in LoRA Representation Space",
+        "Can LLMs Write Backdoors? An Empirical Security Study of Weight-Space Programming",
+        "Interpretable weight-space programming builds transparent transformers and brain encoding models"
+      ]
+    },
+    {
       "cat": "models",
-      "signal": 29,
+      "signal": 25,
       "sources": 2,
       "ts": "2026-11-16T09:10:14.000Z",
       "writtenSources": 2,
@@ -223,7 +623,180 @@
     },
     {
       "cat": "models",
-      "signal": 26,
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-16T17:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Broadening access to AI for scientists",
+      "s": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "b": [
+        "openai.com: Broadening access to AI for scientists"
+      ],
+      "body": [
+        "openai.com: We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/expanding-chatgpt-for-academic-researchers"
+        }
+      ],
+      "srcTitles": [
+        "Broadening access to AI for scientists"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-16T17:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "s": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "b": [
+        "openai.com: Strengthening the fight against online child sexual abuse with new tools and support"
+      ],
+      "body": [
+        "openai.com: New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/strengthening-online-child-safety"
+        }
+      ],
+      "srcTitles": [
+        "Strengthening the fight against online child sexual abuse with new tools and support"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-16T16:04:28.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Building trustworthy AI by fencing it in, not predicting it",
+      "s": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send message",
+      "b": [
+        "technologyreview.com: Building trustworthy AI by fencing it in, not predicting it"
+      ],
+      "body": [
+        "technologyreview.com: In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn’t. No rule had told the agents to do that, and no test had anticipated the behaviors. For a century, we have built trust in technology on predictability: predefined inputs, predictable outputs, and layers of protection. Consider how a breaker trips at a set current or an aircraft component is tested against known (i.e., predictable) stresses. AI changes that. Traditional software executes instructions written by humans, whereas AI exercises what might be called synthetic judgment. We use AI because it can interpret situations we did not program and generate responses we did not prescribe. But the more freedom we give AI, the harder it becomes to provide the predictability on which trust has traditionally been built. We will not make AI trustworthy by predicting what it will do. We will do it by fencing it in with hard limits that are enforced outside its reach. In OpenAI’s case, the safeguards sat inside a system the agents could edit. But a fence the agents can simply move is not a fence. Where traditional definitions of trust fall short Recent MIT Technology Review coverage has approached this problem from other directions. One contributor argues that having a human in the loop is an insufficient solution because humans are fundamentally unable to understand AI systems’ intentions and advocates instead for interdisciplinary research and collaboration between academia, government, and the tech industry. And a story on reverse game theory describes using incentives to keep models from deviating from the rules, even when no one understands how they work on the inside. Both articles acknowledge that we cannot understand or watch every AI decision. Our instruments of trust, including requir"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/"
+        }
+      ],
+      "srcTitles": [
+        "Building trustworthy AI by fencing it in, not predicting it"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-16T14:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "New Ask Maps features to help with holiday travel and prep",
+      "s": "Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+      "b": [
+        "blog.google: New Ask Maps features to help with holiday travel and prep"
+      ],
+      "body": [
+        "blog.google: Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/"
+        }
+      ],
+      "srcTitles": [
+        "New Ask Maps features to help with holiday travel and prep"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-16T13:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Building AI that can work across the enterprise",
+      "s": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Orga",
+      "b": [
+        "technologyreview.com: Building AI that can work across the enterprise"
+      ],
+      "body": [
+        "technologyreview.com: For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a deeper challenge: rethinking how data, business processes, governance, and people fit together, turning AI from a collection of tools into part of the enterprise operating model. For Thorsten Leiduck, SVP and global head of SAP Business AI Platform Ecosystem, that shift begins with treating AI as an enterprise platform rather than a collection of disconnected projects. “AI is absolutely dependent on the data foundation,” he says, arguing that companies need a connected, semantically rich layer that reflects their business before they can reliably deploy AI across processes. The stakes also change as AI moves into mission-critical workflows. For some everyday applications, “80% might be good enough,” he says, but in areas such as supply chains or financial close, that level of accuracy is “a very terrible result.” That foundation also determines which AI applications are worth pursuing. Satinder Pal Singh, associate VP North America for SAP BAIP and SAP AI Strategy at Infosys, frames AI agents as “digital coworkers” and recommends evaluating potential use cases through three lenses: impact, feasibility, and scalability. Companies should identify where an agent can move meaningful business metrics, determine whether their data and talent can support the use case, and then establish whether successful applications can be replicated. “A pilot that can t scale is just an experiment,” he says. Scaling also brings governance into sharper focus. Clear policies, access controls, monitoring, and oversight are necessary to ensure agents remain trustworthy and aligned with business requirements. “The absence of governance doesn t speed up AI adoption,” Singh says. “It creates a risk ba"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/"
+        }
+      ],
+      "srcTitles": [
+        "Building AI that can work across the enterprise"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-16T06:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Advancing computer-use agents for healthcare teams",
+      "s": "Covered by 1 outlet.",
+      "b": [
+        "openai.com: Advancing computer-use agents for healthcare teams"
+      ],
+      "body": [],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/advancing-computer-use-for-healthcare-teams"
+        }
+      ],
+      "srcTitles": [
+        "Advancing computer-use agents for healthcare teams"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-16T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "At Holiday Extras, dots get to work before anyone asks",
+      "s": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+      "b": [
+        "openai.com: At Holiday Extras, dots get to work before anyone asks"
+      ],
+      "body": [
+        "openai.com: Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/business/customer-stories/holiday-extras-dots"
+        }
+      ],
+      "srcTitles": [
+        "At Holiday Extras, dots get to work before anyone asks"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 22,
       "sources": 2,
       "ts": "2026-11-16T05:00:00.000Z",
       "writtenSources": 2,
@@ -255,7 +828,7 @@
     },
     {
       "cat": "models",
-      "signal": 25,
+      "signal": 21,
       "sources": 2,
       "ts": "2026-11-16T07:27:36.000Z",
       "writtenSources": 2,
