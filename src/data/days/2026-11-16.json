@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "research",
-      "signal": 71,
-      "sources": 3,
+      "signal": 58,
+      "sources": 2,
       "ts": "2026-11-16T01:26:56.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -28,16 +28,235 @@
         {
           "d": "theverge.com",
           "u": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools"
-        },
-        {
-          "d": "fiercehealthcare.com",
-          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQS2g1VE5ncFdqMWNXbnZRUGVOejhFT21maHpyQ2hxRkxzajhWaS1NRDM5bFU2LVlEMkJKTURxcVh2SzBLdGJmdW1nY25SNmpBNFpiY3JNVF9zT3NnbnpDd2pjbERrM3M1enVvelBxd1cwWGtKdk1NbHhwZWZOOG5ERU1vOTBLdmhSSjEwTkFaVllKRzFjcmJuWW5CTzRfY3ZqdF9ZXy1hcmdIMExoR1o4XzcxZ2wtZFE?oc=5"
         }
       ],
       "srcTitles": [
         "Apple launches new app to study how people use AI for health",
-        "Apple’s new study looks to improve the effectiveness of AI health tools",
-        "HLTH26: Apple launches 200K-person study to examine how consumers use health AI"
+        "Apple’s new study looks to improve the effectiveness of AI health tools"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 52,
+      "sources": 3,
+      "ts": "2026-11-16T03:59:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’",
+      "s": "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’ WSJ",
+      "b": [
+        "wsj.com: Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’",
+        "finance.yahoo.com: Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports",
+        "reuters.com: Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports"
+      ],
+      "body": [
+        "wsj.com: Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’ WSJ",
+        "finance.yahoo.com: Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports Yahoo Finance",
+        "reuters.com: Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports Reuters"
+      ],
+      "l": [
+        {
+          "d": "wsj.com",
+          "u": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbVZuRkZvWWp2cTVZRkh3Tm96YThHTGFtSmk4TjhOMWZqT0xsSXZkbEFQRzRZcWFaMHlzNGYxZHBzTF9YYUZJa0ktNFNua1ZiLTVvNDRNZGViZlFxMVVsQlZXM09faWZOSDZkNDRiaTJjYXFfMUgxN3p1UWZkZXVuOEQxUFJRSHI4TG9yRU1kT0Rlb2ZoUGQtQUNndkdnajdTZmc?oc=5"
+        },
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTGRqaWdiSHpFSExKRlhZdGxUMndOYnVlZUhUVFpFajV4RXpFZ0FuaDRfbkF6aGFzd3ctdFNfLTdhbWdUc092aDJjOXE4V1RxVy0tdlpVV0pxNG43Zk13d29Id0V3RnlKY2hsWnJMby1RMDBqYU1KWVJUWms3UEdsbU1VTTE0UWw5UzkyRA?oc=5"
+        },
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbzFERGNkd2ZLODdReVZtV3pnNVdJT3RyNDdpbUZQRXZHUEgzbVYtZTBwelhfV1hRbVVfOGsxeDJURWd2bEJubFlFUjFXZC1HM2Z4U3l2TXVhTXR3OTFPZ2xUaDhOVlBDWF93dDE0V2lsOEI3bGFGWXlmbnVldjNCQkJKQlFNbDVfaWR6cGpJdktZWlJXcEdNQkZnWWsxSlZGX19tQTIxYW5NVWQxb2NQclEza1JHaHBma3lmaFNzQWRtQld0UkRwT01IZEY0eUk?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Exclusive | Trump Administration to Name Nvidia Among AI ‘National Champions’",
+        "Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports",
+        "Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 49,
+      "sources": 1,
+      "ts": "2026-11-16T09:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "LVMH’s Media Division announces strategic partnership with OpenAI",
+      "s": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "b": [
+        "openai.com: LVMH’s Media Division announces strategic partnership with OpenAI"
+      ],
+      "body": [
+        "openai.com: LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/lvmh-media-division-partnership"
+        }
+      ],
+      "srcTitles": [
+        "LVMH’s Media Division announces strategic partnership with OpenAI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 36,
+      "sources": 2,
+      "ts": "2026-11-15T23:30:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+      "s": "Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+      "b": [
+        "techcrunch.com: Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+        "techmeme.com: Delhi-based Bharat Semi, which is developing programmable image sensors combining capture, processing, and AI capabilities on a single chip, raised a $24M seed (Jagmeet Singh/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Bharat Semi says it has secured design wins for its AI-enabled sensor technology with companies including General Atomics.",
+        "techmeme.com: Jagmeet Singh / TechCrunch : Delhi-based Bharat Semi, which is developing programmable image sensors combining capture, processing, and AI capabilities on a single chip, raised a $24M seed Bharat Semi, an Indian semiconductor startup, has raised $24 million in seed funding to develop AI-enabled image sensors"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261116/p6#a261116p6"
+        }
+      ],
+      "srcTitles": [
+        "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI sensor market",
+        "Delhi-based Bharat Semi, which is developing programmable image sensors combining capture, processing, and AI capabilities on a single chip, raised a $24M seed (Jagmeet Singh/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 32,
+      "sources": 2,
+      "ts": "2026-11-16T11:05:59.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI selloff has investors scrambling to measure their true exposure",
+      "s": "AI selloff has investors scrambling to measure their true exposure Reuters",
+      "b": [
+        "reuters.com: AI selloff has investors scrambling to measure their true exposure",
+        "sg.news.yahoo.com: Analysis-AI selloff has investors scrambling to measure their true exposure"
+      ],
+      "body": [
+        "reuters.com: AI selloff has investors scrambling to measure their true exposure Reuters",
+        "sg.news.yahoo.com: Analysis-AI selloff has investors scrambling to measure their true exposure Yahoo News Singapore"
+      ],
+      "l": [
+        {
+          "d": "reuters.com",
+          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcHdOczVVbVFPLUNVbGtXQjhqRmNnMWN3eVlUOG5vRFpnM05ScWdkakZQTWhCTTh3T0JKcFlXN2k3d3ZEemxqbGRBUDZkTGtxMUg0SzlvRGxGUS1aWHNEVldEQ1dRVFU2RXVRdlhjZ3ZLRmN2Z3VkMjlTOUs2M0Z1MElIZklXT1dJejUtVTdxc3hXSFc5VXFhOWotQl9HV2ZKdEtfaDhZc2ZLWGRhQV9XVC1vb0REOW5IYmxF?oc=5"
+        },
+        {
+          "d": "sg.news.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQWV1cVl2RW5xZmpqV1NTS090RDRKdllMbmFxMVgwM05PRnQ4NngwRUwtc0N4SHdaZFo1MHNlTW1WZnNOUk1uUy1qSFM1X1U1Q0JkUk4zeEtaNEgtYk1kUXVrbXpMODVvSF9DaUdIeWJlcVByNFdpS0FwalR2RWxuN1UxZC1mTnUx?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI selloff has investors scrambling to measure their true exposure",
+        "Analysis-AI selloff has investors scrambling to measure their true exposure"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-11-16T09:10:14.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
+      "s": "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion CNBC",
+      "b": [
+        "cnbc.com: ‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
+        "aa.com.tr: Global economy 'standing on one leg' as AI financing risks mount: IMF chief"
+      ],
+      "body": [
+        "cnbc.com: ‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion CNBC",
+        "aa.com.tr: Global economy 'standing on one leg' as AI financing risks mount: IMF chief Anadolu Ajansı"
+      ],
+      "l": [
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2Y4OFJIb3ZGWnNHQmZicjBxSlV3cmRoVmppVm01OXJFM2FrUFltdjR5bkVpRjkyRVdQUE5WcXRQdFViSnh2VWFLbm83YlM4ck1NRWFIc2R2bE9WZjQ4bzBGVll0MG8ySXdwSnRLTE4ta21yVWYwTGJOYmdfNFhtVU5fRnNWbWvSAYwBQVVfeXFMTVJ3aHB1VkxySHItTS1FeWJjbWE1VmlQWElKb0xjRDJBbzFnX0UtTk1PV1JKVklpdVpsU2Q0SHd6XzJwYTVMVWw5bExaMk41V2JFcjZQeVowdWh3Q254QjRwb2lacmxMeGRLc04wcnpYenlmODJhTGt5Z3c3OUpUcW5fOGRQRjY1VnNILWE?oc=5"
+        },
+        {
+          "d": "aa.com.tr",
+          "u": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdENPcVVrTVZ6U3owZ3RBVlZNZVFvNDdSTTM0SkNQTWdpR3FXZTk2Rlo2d0h4Y0hkcVE2Vl9tVUp6VlRhNEJfeFpEUExFVWVYdGlRTGlRMktyb0Z6bU5jNWR2ZEYxYTVCRU9zT1hhSU9QUTk1b1NOQm9vYlpxdTRGaEVTMklJcklLNzFfZHVJVmNyNkEyZVdIcjc4am9keFVPcVdiTUYzX0xQWU0teXc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "‘Standing on one leg’: IMF chief warns about global economy as AI circular financing hits $1 trillion",
+        "Global economy 'standing on one leg' as AI financing risks mount: IMF chief"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-11-16T07:27:36.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop",
+      "s": "Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop WRAL",
+      "b": [
+        "wral.com: Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop",
+        "ktvn.com: Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop"
+      ],
+      "body": [
+        "wral.com: Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop WRAL",
+        "ktvn.com: Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop KTVN"
+      ],
+      "l": [
+        {
+          "d": "wral.com",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa08xTkRnVkNIRmhrZ0Z5ZUh1Wmt4NzRjdm02R0tqcmt0b01lZ2N2b0FZb0RUWEt0UjBYaWdNemxXRXBlOTVnTUdsaS1JZlRaZFM1N1hGZldseDRBZ05TV1ZETWxOeW02UkV0V3dFQ2VvVWRKNFlHZGtLM2g0ak51bDM5blB2OW1jaXlQTWZuVC1pVlNLcUthSkNnVG9Yb0NtRGNUc0FVYW9BeU45NTYycm5EbDU5Vmo0NVRFMXA0cElfM3FBTnc?oc=5"
+        },
+        {
+          "d": "ktvn.com",
+          "u": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSGFVdTRtb3czekEySEdMaG9jeEluSjlyRU9CMUl6bXhBUU1ESDFtVjZvRkp4Zzc5QnJVNkpKSEZGZWItRE1pTldScGw1ajRvSVN2b1dnZTM2R3J3Qk5RODdYVDlHbzVXOUdPZ09QblBJaV9uSzJIZS00VDlzU0l3TDJ3eW5SZU9Td0FrXzNfSzZORjRqSjdRNUFlV1cxOE9PSXZubTJieGd5OW1sVFlNaHA1YklvS01hcG1nd2Vwd0F4OGp3Wlh5VUtKbWtzR2dhTVFwRk9zZjJ6UE1VRGdfX2pTdHRPMm85OHh6Y3ZQWFBSSUR3eEE5Q1dVbC1fNVE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop",
+        "Questions swirl around FAA's new SMART AI system, though officials say no link to ground stop"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-16T05:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Doctor-Driven AI, and AI-Driven Doctors",
+      "s": "Doctor-Driven AI, and AI-Driven Doctors Digital Health Wire",
+      "b": [
+        "digitalhealthwire.com: Doctor-Driven AI, and AI-Driven Doctors",
+        "arxiv.org: Causal AI-Driven Secure mmWave Beam Alignment with Defensive Variational Autoencoders"
+      ],
+      "body": [
+        "digitalhealthwire.com: Doctor-Driven AI, and AI-Driven Doctors Digital Health Wire",
+        "arxiv.org: arXiv:2611.18321v1 Announce Type: new Abstract: Efficient and secure beam alignment is essential for mmWave communication systems. However, existing deep learning (DL)-based beam alignment methods often neglect causal relationships between inputs and outputs, resulting in limited interpretability, poor generalization, and excessive beam sweeping. Moreover, these DL solutions are vulnerable to adversarial attacks, where small perturbations in received power measurements can mislead beam classifiers. To overcome these issues, we propose a causally-aware DL framework integrating causal discovery into beam alignment. A two-stage causal beam selection algorithm learns a Bayesian graph capturing dependencies between received signal strength indicators (RSSI) as inputs and the optimal beam index as the target variable, then uses it to select a minimal set of relevant input features for the DL classifier. To mitigate adversarial attacks, we introduce a defensive variational autoencoder (DVAE) that maps potentially perturbed inputs back to their clean versions. End-to-end fine-tuning of the downstream beam classifier on the DVAE-reconstructed RSSI representations further boosts prediction accuracy. Simulation results show that causal beam selection achieves accuracy comparable to conventional methods while providing an \\(\\mathbf{829\\times}\\) lower per-sample computational cost than SHAP (Shapley Additive Explanations), a widely used explainable AI (XAI)-based feature selection method. It further reduces beam-sweeping overhead by \\(\\mathbf{59.4\\%}\\) and \\(\\mathbf{89.8\\%}\\), compared to conventional DL-based beam selection and exhaustive search, respectively. The DVAE-based defense effectively denoises adversarial inputs, sustaining 85\\% accuracy across different perturbation bounds, retains baseline performance on unperturbed RSSI inputs and surpasses defensive distillation defense scheme by 15--20\\% on average under different attack scenarios."
+      ],
+      "l": [
+        {
+          "d": "digitalhealthwire.com",
+          "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05cHdkSUFRX1BIS2tJQlFPeHhqaUdISFU2dUNrUjZzSkc0enp1MWdsX2l1RzJsaGl1R2pLUGo3X3RJM05hMEJFZUtpXzR1SG9ON244MTRFWVJ1YkZ3V0hFUk5kTDI4WC1HN3ZlNHdyVkZmWS1Ock5vNQ?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2611.18321"
+        }
+      ],
+      "srcTitles": [
+        "Doctor-Driven AI, and AI-Driven Doctors",
+        "Causal AI-Driven Secure mmWave Beam Alignment with Defensive Variational Autoencoders"
       ]
     }
   ]
