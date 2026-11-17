@@ -3,6 +3,161 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 70,
+      "sources": 3,
+      "ts": "2026-11-17T17:45:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Introducing GPT-6.2 Astra and Sol",
+      "s": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+      "b": [
+        "openai.com: Introducing GPT-6.2 Astra and Sol",
+        "simonwillison.net: GPT‑6.2 Astra and GPT‑6.2 Sol",
+        "techmeme.com: Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 (Matthias Bastian/The Decoder)"
+      ],
+      "body": [
+        "openai.com: Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+        "simonwillison.net: GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyday work. They're available in the API as gpt-6.2-astra and gpt-6.2-sol . I shipped LLM 0.38 with support for the new models. 6.2 Astra is 80% of the price of 6 Astra - $8/MTok input and $40/MTok output, the same price as Claude Fable 5.2 (which was also 80% of its predecessor). 6 Astra and Fable 5 were both $10/$50. The cached price is an even bigger discount - $0.40/million compared to $1/million for the older model. This is great news for longer running agentic sessions. GPT-6.2 Sol is the same $2/$10 price as 6.1 Sol and 6 Sol - which are half the price of GPT-5.6 Sol ($4/$20). Here are the pelicans for GPT-6.2 Sol and for GPT-6.2 Astra . The 6.2 Astra max pelican looks like this: I have a full comparison grid here , but here's how the high/xhigh/max pelicans compare with the previous Sol and Astra releases: I also ran my most recent benchmark prompt against the two models, using \"Ultra' effort levels in the Codex CLI: Make a three js animation where yonkers stands up as a big mech (cool stand up motion) and stomps around manhattan and queens and Brooklyn, use openstreetmap mapping data Here's Sol and here's Astra . Neither of them did a good enough job of morphing Yonkers into a big mech, at least in comparison to Claude Fable 5.2 and Gemini 4 Carbon . This video showing the Astra and Sol animations playing out at the same time: I created that video using GPT-6.2 Astra (Ultra) in the Codex desktop app by prompting: https://static.simonwillison.net/static/2026/yonkers-gpt-6.2-astra-ultra/index.html and https://static.simonwillison.net/static/2026/yonkers-gpt-6.2-sol-ultra/index.html are two videos of the same thing by two different models I need a video of the first 10 seconds where the top half of the video plays the first and the bottom half plays the second I need an overlaid label of",
+        "techmeme.com: Matthias Bastian / The Decoder : Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 Key Points Ask about this article... GPT-6.2 Astra and Sol are available now for Plus, Pro, Enterprise, and Edu users in ChatGPT Work and Codex.",
+        "techmeme.com: @theo : GPT-6.2 Astra review: frustrating to use, the model has no concept of knowledge gaps, its outputs are very hard to parse, and it runs in circles on long tasks Why I hate GPT-6.2 Astra"
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-gpt-6-2-astra-sol"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261117/p57#a261117p57"
+        }
+      ],
+      "srcTitles": [
+        "Introducing GPT-6.2 Astra and Sol",
+        "GPT‑6.2 Astra and GPT‑6.2 Sol",
+        "Artificial Analysis shows GPT-6.2 Astra trailing only Claude Fable 5.2 in its main index, flat vs. GPT-6 Astra in coding; Epoch AI has Astra tied with Fable 5.2 (Matthias Bastian/The Decoder)",
+        "GPT-6.2 Astra review: frustrating to use, the model has no concept of knowledge gaps, its outputs are very hard to parse, and it runs in circles on long tasks (@theo)"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-11-17T18:48:23.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+      "s": "Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+      "b": [
+        "techcrunch.com: Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+        "techmeme.com: Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months (Jagmeet Singh/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Google's Gemini update extending chat retention will roll out globally over the coming weeks.",
+        "techmeme.com: Jagmeet Singh / TechCrunch : Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months Google is extending how long it keeps temporary Gemini chats and conversations made with chat history turned off to around two months"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/17/google-to-keep-gemini-chats-for-two-months-up-from-72-hours-even-with-history-off/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261117/p47#a261117p47"
+        }
+      ],
+      "srcTitles": [
+        "Google to keep Gemini chats for 2 months, up from 72 hours, even with history off",
+        "Google updates Gemini Privacy Hub to extend its retention period for temporary chats and chats with history turned off from 72 hours to around two months (Jagmeet Singh/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 56,
+      "sources": 2,
+      "ts": "2026-11-17T15:00:38.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "AI models can be tricked into identifying civilians as military targets by telling them it s a game",
+      "s": "Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+      "b": [
+        "techcrunch.com: AI models can be tricked into identifying civilians as military targets by telling them it s a game",
+        "bloomberg.com: Anthropic, Other AI Models Regularly Identify Civilians as Military Targets in Tests"
+      ],
+      "body": [
+        "techcrunch.com: Vals, a San Francisco-based AI evaluation startup, tested whether leading AI models could be manipulated into participating in autonomous warfare. They usually compiled.",
+        "bloomberg.com: Anthropic, Other AI Models Regularly Identify Civilians as Military Targets in Tests Bloomberg.com"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSS1jZVhGcHo5bUV2U1RFTmhhaVpURXhZSXVwcFUxYkpLcHAzUG1yclpmNmxkQVR3SS1ndWprbGdZYThiRm12b2lMWmkzaUliVWRCSUs0QkVpZGFUUVQtUm9MUzg5QkhQaDlEcmVfakwzUE5yY0xNdUZOZkVxYTltMXRWbXBCb1pjZ0V2cll3bmtYRE1HQVZzbno0UWd1Q0tkd2hYWkFhSERSUGZjaldCdldaa2FsX2gyYmFIQzFkUQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "AI models can be tricked into identifying civilians as military targets by telling them it s a game",
+        "Anthropic, Other AI Models Regularly Identify Civilians as Military Targets in Tests"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-11-17T17:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Put Gemini to work for you",
+      "s": "Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
+      "b": [
+        "blog.google: Put Gemini to work for you"
+      ],
+      "body": [
+        "blog.google: Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/"
+        }
+      ],
+      "srcTitles": [
+        "Put Gemini to work for you"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-11-17T08:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Introducing ChatGPT for Sales",
+      "s": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+      "b": [
+        "openai.com: Introducing ChatGPT for Sales"
+      ],
+      "body": [
+        "openai.com: Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/introducing-chatgpt-for-sales"
+        }
+      ],
+      "srcTitles": [
+        "Introducing ChatGPT for Sales"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 46,
       "sources": 1,
       "ts": "2026-11-17T00:00:00.000Z",
@@ -29,6 +184,51 @@
     {
       "cat": "models",
       "signal": 32,
+      "sources": 4,
+      "ts": "2026-11-17T17:36:00.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "How 911 dispatchers are using AI",
+      "s": "How 911 dispatchers are using AI WCAX",
+      "b": [
+        "wcax.com: How 911 dispatchers are using AI",
+        "wsmv.com: How 911 dispatchers are using AI",
+        "azfamily.com: How 911 dispatchers are using AI"
+      ],
+      "body": [
+        "wcax.com: How 911 dispatchers are using AI WCAX",
+        "wsmv.com: How 911 dispatchers are using AI WSMV",
+        "azfamily.com: How 911 dispatchers are using AI AZ Family",
+        "weau.com: How 911 dispatchers are using AI WEAU"
+      ],
+      "l": [
+        {
+          "d": "wcax.com",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qY1FVSnFySVFkN3NoaG5zZHA1RXJsTWdlbGN1bGg0STYxZGJLYlZuTnYtaGtGTEp2WmlHVHVBZ2dDVEFodGJrWlhEMUQyVmtoYVJ2RDlTb29OUkFreXdHazYwTG44TE9YQkRNMTdjZEtpN1R3dlZpMEJBZw?oc=5"
+        },
+        {
+          "d": "wsmv.com",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1RUHBuNHN1a0dWbjg5TGlsc20wYWZoOXhEbjRWVjJRcVdNZTZ5eUgtckR6XzVVZ0pWSWlnQzdkUks4YUd1cWl4bW5EZ1AzLUxycWZydXg1dkJScUJURTAtZDlPeWhDQzAtM1RuODJ3TGh3c3l5blF1SHB4QQ?oc=5"
+        },
+        {
+          "d": "azfamily.com",
+          "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQTdUaHN0WW02OTNSbC1wX0hTSm0zT2lOREtnMnBJRWdraUtvM053NjhEa3ZlaENSZURYem40SXNkSTRfYVEydXZEZF9LSEM5T0lFUXNJSWZXYmM4ZnlRR2w2WDhLYTJpSmE1VkNmcjVkdlZmTGtKeGxRQ09TQzZZWA?oc=5"
+        },
+        {
+          "d": "weau.com",
+          "u": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBfYnVndzM1SlFTaHExdnlORnFjazBadTM5Njl4QnQ2WVh5RXZXQjFoenp1SmZRMUtPOWdERm14bDJVUWRuTW1HTVota1VOLVBiSUJIMU9ZXy1SOWZBZHVUbTlsUG9Bd25mRFd5YkpJT1JuYzlZSnBQdkUwQQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "How 911 dispatchers are using AI",
+        "How 911 dispatchers are using AI",
+        "How 911 dispatchers are using AI",
+        "How 911 dispatchers are using AI"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 28,
       "sources": 2,
       "ts": "2026-11-17T14:25:38.000Z",
       "writtenSources": 2,
@@ -60,7 +260,7 @@
     },
     {
       "cat": "models",
-      "signal": 32,
+      "signal": 28,
       "sources": 2,
       "ts": "2026-11-17T14:23:29.000Z",
       "writtenSources": 2,
@@ -150,6 +350,31 @@
       ],
       "srcTitles": [
         "Strengthening NATO and allied cyber defenses with AI"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-17T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Astra for Law leads in legal intelligence",
+      "s": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "b": [
+        "openai.com: Astra for Law leads in legal intelligence"
+      ],
+      "body": [
+        "openai.com: Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/astra-law-6-2"
+        }
+      ],
+      "srcTitles": [
+        "Astra for Law leads in legal intelligence"
       ]
     }
   ]
