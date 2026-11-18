@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 52,
+      "signal": 59,
       "sources": 2,
       "ts": "2026-11-17T23:02:12.000Z",
       "writtenSources": 2,
@@ -20,17 +20,17 @@
       ],
       "l": [
         {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/11/17/nvidia-is-abandoning-china-after-jensen-huangs-ouster/"
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1036445/nvidia-h200-ai-chips-china-stop-selling"
         },
         {
-          "d": "bbc.com",
-          "u": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84T0wzOTBNLWRTS2xRZXFFYnl1d3gycUhrSXdkX1ZoRTVtNGRmT3I3RDE0ZHBnRXV2VFVHN1FwQnpadGQ1T3V4eldiVXRINlpHWDFibVFoVi1Ccnc?oc=5"
+          "d": "malaysia.news.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa2phdDF3eEE1MEhpNnpJaTBpZFNRMzBQWUI4U2pFY3U3cWx0X2xKZ1h3ZUpoMFJwamRDQTNfWVNFblRpRVhocnBwaTFPeC1RSmxGWVhnNEo3dHA4N0JJV2JpdnMyYUVFLTdSS2ZPWEJZaXdrZTVRRnhKOWMzYVh1XzBIZzU3VWs?oc=5"
         }
       ],
       "srcTitles": [
-        "Nvidia is abandoning China after Jensen Huang s ouster",
-        "Nvidia: China fears Jensen Huang scandal could shut it out of US AI tech before Xi-Trump summit"
+        "Nvidia isn’t selling any more AI chips to China",
+        "Nvidia stops shipping US-approved AI chips to China"
       ]
     },
     {
@@ -56,51 +56,6 @@
       ],
       "srcTitles": [
         "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT"
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 42,
-      "sources": 4,
-      "ts": "2026-11-18T10:03:50.000Z",
-      "writtenSources": 4,
-      "draft": true,
-      "h": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-      "s": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-      "b": [
-        "techcrunch.com: India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-        "gao.gov: U.S. GAO - GAO Went Undercover to See if AI's Top Platforms Would Create Viable Attack Plans",
-        "washingtonpost.com: Opinion | China has a deep bench of AI talent. Can the U.S. still beat it?"
-      ],
-      "body": [
-        "techcrunch.com: Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-        "gao.gov: U.S. GAO - GAO Went Undercover to See if AI's Top Platforms Would Create Viable Attack Plans U.S. Government Accountability Office (.gov)",
-        "washingtonpost.com: Opinion | China has a deep bench of AI talent. Can the U.S. still beat it? The Washington Post",
-        "nytimes.com: American A.I. Models Have Potential to Be Turned Against U.S., Study Finds The New York Times"
-      ],
-      "l": [
-        {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
-        },
-        {
-          "d": "gao.gov",
-          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmUxY2FLREo5N0ptdnNkS1JnRDFCZ2Q2a2N5dGg3Nk4xZ2Z6YTBDNzg5T1R3VDV0b3p5OTZYTUFnNElJWW9PcHJhbHhodk4zcDdwSFRiNFVGcU1jVFN2VEoxYXJ5d25lSUVseFlwVkxCcFVwSk42NkFmS1dPdFMxUVljd1BlbGZVWGx1SnBXZTJuU0xfVGd2RDFyeW5ISHJrSUNiSGRB?oc=5"
-        },
-        {
-          "d": "washingtonpost.com",
-          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUl6LVdmbFEwNno3d1k1NHQ3ZlpMXzNzUGxzemwzTGc5Z3JIVjVtMllNbGdrZEtYdTdpdzBxV3RhUlFBLTdJdkpWTC0zZ0hCcFdWVERxd3hSRkw0WUtIZGcxOERYZV94T1FNVUhDOUdwVnVtenEwRFlMSl8wWkxWdGlGV2pKOG9aVDlHRF9VYjFsUV9UOXVrOGMteFBjZThFM1BHYS1FTDY?oc=5"
-        },
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEowWHEtUnNxZ3dvRTY3Y2psTDk4UFdtOEcyLWtxNXlRQmlJZlRtV01EanhMbkJCVEtONl96bGJtQVhkR0VlUDl0Wm1uTkEtSGpyQ2tZS3lUSGNlNm5tOXVvSHRtdjdIX0lMYkRTUDRKOURXczFQNXUzMlJIb0tBZVJJTDBQRHFOT244?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-        "U.S. GAO - GAO Went Undercover to See if AI's Top Platforms Would Create Viable Attack Plans",
-        "Opinion | China has a deep bench of AI talent. Can the U.S. still beat it?",
-        "American A.I. Models Have Potential to Be Turned Against U.S., Study Finds"
       ]
     },
     {
@@ -136,6 +91,41 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 29,
+      "sources": 2,
+      "ts": "2026-11-18T10:03:50.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "s": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "b": [
+        "techcrunch.com: India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+        "gao.gov: U.S. GAO - GAO Went Undercover to See if AI's Top Platforms Would Create Viable Attack Plans",
+        "washingtonpost.com: Opinion | China has a deep bench of AI talent. Can the U.S. still beat it?"
+      ],
+      "body": [
+        "techcrunch.com: Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+        "gao.gov: U.S. GAO - GAO Went Undercover to See if AI's Top Platforms Would Create Viable Attack Plans U.S. Government Accountability Office (.gov)",
+        "washingtonpost.com: Opinion | China has a deep bench of AI talent. Can the U.S. still beat it? The Washington Post",
+        "nytimes.com: American A.I. Models Have Potential to Be Turned Against U.S., Study Finds The New York Times"
+      ],
+      "l": [
+        {
+          "d": "cleveland.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbENOVmhmOV83UE00NTJGLWxSd3U1Rjh5cHphSW9ib19oSjlTb1VwWHpla0pjdUVOZnI5VmRwbXNVbXdrV0ZvUHFDekNLMzFoN0xBY3I0QlJKbG1qVmc5YmdBMEc3N1F6NGtyOHdDbnlXRkx5bkc0N2Jkdl83NGRvWHV5Rl9yTjM4MHRxVExDTVNIQWtSYnF4ZjRIbTc0Z29vYkhDQmdwYkhEeHdJOWNjdDVla0dsSGxOdjlFaDNn0gHSAUFVX3lxTE5tMXJNMmdNeXlMcTB4OG9zaU0xYzlLcGVucmFLbzFPWXhOU1RpNjBvLXAxeHI2Ry1fdEsxUUJYeXQyWDB5QnozVy1hU2RoQzZoV3JPemtzeTk2SEk5TFJLdEZ2bVhnZ1hRSjUxWE1qdEdNMXd2UUZJRDdWdnZpUlVtbGxSV0Z5NGJFY2FEOEF2eVhJOVlGTHpvaVJGZ1FjZk51V0ZYMEN6bTgwVXNaYXJZemhPSmJfUURaY2tnUEVnVXdNcVJENmNjeGw3Q3phRUh5dw?oc=5"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEowWHEtUnNxZ3dvRTY3Y2psTDk4UFdtOEcyLWtxNXlRQmlJZlRtV01EanhMbkJCVEtONl96bGJtQVhkR0VlUDl0Wm1uTkEtSGpyQ2tZS3lUSGNlNm5tOXVvSHRtdjdIX0lMYkRTUDRKOURXczFQNXUzMlJIb0tBZVJJTDBQRHFOT244?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Could American AI be turned against the U.S.? New study raises security concerns",
+        "American A.I. Models Have Potential to Be Turned Against U.S., Study Finds"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 27,
       "sources": 1,
@@ -162,7 +152,7 @@
     },
     {
       "cat": "models",
-      "signal": 25,
+      "signal": 21,
       "sources": 2,
       "ts": "2026-11-18T00:55:35.000Z",
       "writtenSources": 2,
@@ -194,7 +184,7 @@
     },
     {
       "cat": "products",
-      "signal": 21,
+      "signal": 17,
       "sources": 2,
       "ts": "2026-11-18T01:02:16.000Z",
       "writtenSources": 2,
