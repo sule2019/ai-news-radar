@@ -3,8 +3,41 @@
   "stories": [
     {
       "cat": "models",
+      "signal": 73,
+      "sources": 3,
+      "ts": "2026-11-18T21:35:43.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Introducing Gemini 4 Neon",
+      "s": "Covered by 1 outlet.",
+      "b": [
+        "blog.google: Introducing Gemini 4 Neon"
+      ],
+      "body": [],
+      "l": [
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/introducing-gemini-4-neon/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261118/p44#a261118p44"
+        },
+        {
+          "d": "blog.google",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNemJ2dmlaaUw0Vm9IWnV2N3JiaXg4a3BNcVVqZjEtNnlVTnExYzk0d2tzcEZ4SGhqY1MyQ0c5LVpYN2ZKdGJ6d1FTMmhWZ0J0VVJkcGhqOHk1eHB1SFA3M3NLNEdRZEhhbnNzekhRb2E1RnRVSjJFQmNRWC05ckI1NjlybWpvVzJUeWdwaURROFhOcmoySS03UllmRWJJMUk?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Introducing Gemini 4 Neon",
+        "Google rolls out Gemini 4 Neon, with \"fast end-to-end task completion\" across coding, knowledge work, and science, in the API, Antigravity, and the Gemini app (Koray Kavukcuoglu/Google)",
+        "Introducing Gemini 4 Neon"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 71,
-      "sources": 28,
+      "sources": 29,
       "ts": "2026-11-18T10:10:02.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -32,24 +65,24 @@
           "u": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMUFreU83TjV0OVNMNWV1aDhMZV9zMFJyczNvdzNQUlQ0NEFkdzdYQ29QSVpfeHl3REhzTUVleXNVWFFfZGdGUzYtUlU5MWY5SHlDMkpUdGZpS3hyYVdxaWVwaWQ3UDZRWGJXajU3RFMyREx5ejV2UnR0aXRYcU9qRg?oc=5"
         },
         {
-          "d": "cureus.com",
-          "u": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOWDVNYzhyQU81Z1FQaXYxNm45dkEtQTlCeGwtXzZvMFZwVjJvWnMyZ2dCUllrSDJXeEtEUUR2WVdDelVYX1FHTk5WMGdNSzMweG8zSmlXT3Atb1pFVUJwSXMtbFFsaDNjVXZvMGxtcTJVS0RqVFlIR1gtSUE0OHc2RGF6MmF3X3VhMXBGdFpQWlJfeFBzR0thQmpmSm9WeHdlcXVRN3JHXzE1RGVuQWFXTUptQ0lyWVl6Vko2aTFVWjJzb2lLWk0xdU1KTDl1R0xmN011Q3BrRmdNWjRZMlNZck5RcHBRUWNwVnVKcnJYOWVtbDJhYnNjSDJBck12c09xUlFBQW9ScnNqLUJ0eG9kN0dFdE84YktBOUc1RldnVS0waG54ay1yd1RCQmJaOFppVmRvRw?oc=5"
+          "d": "nature.com",
+          "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2NnlidTR2VG5veXJqSnhDTVA2ZUN1SUdZR2RRc3U5NkphUkVTb0pMTTZhX1lCc3pMWklJVWhscGZYWmpJYUdadFRnNDJNZU01aTRTbFNRWERaem1HUzlB?oc=5"
         },
         {
-          "d": "+24"
+          "d": "+25"
         }
       ],
       "srcTitles": [
         "Worried About Nvidia? 3 Artificial Intelligence (AI) Stocks That May Be Safer Buys Right Now",
         "Artificial Intelligence and Human Rights: Protecting Human Dignity in the Age of AI",
         "Artificial intelligence and the economy",
-        "Comparison of Diagnostic Accuracy of Artificial Intelligence With That of Conventional Diagnostic Methods for Root Fracture Detection: A Systematic Review and Meta-Analysis"
+        "Artificial intelligence for antibiotic discovery and design"
       ]
     },
     {
       "cat": "products",
-      "signal": 65,
-      "sources": 3,
+      "signal": 67,
+      "sources": 4,
       "ts": "2026-11-18T06:00:00.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -72,24 +105,28 @@
           "u": "https://www.wired.com/story/just-ridiculous-a-famed-philosopher-takes-on-ai-consciousness/"
         },
         {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261118/p29#a261118p29"
-        },
-        {
           "d": "globalaffairs.org",
           "u": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1maUdpaGRTeWdqZFlIbzR6d2xfOFlRUG5rRXlyMGhRTHNCcnRNNWxkaUM4NjRMNGRUUkFkMmNMS2E0M0Y3M3AxdEdZWEJfdnZqTW5GQW9qaDNCck9DTWVrSEJIQUNHZWdETUtpMk9MNHBQN1JDSnNxbA?oc=5"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261118/p37#a261118p37"
+        },
+        {
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmdqUFBoSVBSLWN0bkV5azZKaHkyd2JEblNSaDJ6eFgzUFFYalNIYVdSRkVZZ2hLN2JUQ3pYNVRxeThNcFpKZG9uS1RHR2xfNEVRMWFUd0thaEt0MHdRSWFUaVBkNi00UzlYSGRNNnlESE5PWndjby1iU245WE11d0dsbnh4X1FfbnZldm92OWVTei1kWW5rSXExRUdVeFpBazVHRTNCNy1zOEZfbXRJMnBQZ0JCdw?oc=5"
         }
       ],
       "srcTitles": [
         "‘Just Ridiculous’: A Famed Philosopher Takes on AI Consciousness",
-        "An interview with philosopher Thomas Nagel, who won a $1M prize for contributions to consciousness and says the notion of AI consciousness is \"just ridiculous\" (Steven Levy/Wired)",
         "Will AI Take over the World?",
-        "Google rolls out Project Genie updates to AI Ultra subscribers, including Genie 4, new Genie 3 features, an agent to build worlds, and a gallery to share them (Google)"
+        "Google rolls out Project Genie updates to AI Ultra subscribers, including Genie 4, new Genie 3 features, an agent to build worlds, and a gallery to share them (Google)",
+        "The world embraced the AI boom. Now many are having regrets."
       ]
     },
     {
       "cat": "products",
-      "signal": 65,
+      "signal": 62,
       "sources": 2,
       "ts": "2026-11-18T17:00:00.000Z",
       "writtenSources": 2,
@@ -107,6 +144,10 @@
         {
           "d": "blog.google",
           "u": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/"
+        },
+        {
+          "d": "deepmind.google",
+          "u": "https://deepmind.google/blog/genie-4-is-now-available/"
         }
       ],
       "srcTitles": [
@@ -180,7 +221,7 @@
     },
     {
       "cat": "policy",
-      "signal": 55,
+      "signal": 51,
       "sources": 2,
       "ts": "2026-11-17T23:02:12.000Z",
       "writtenSources": 2,
@@ -208,29 +249,6 @@
       "srcTitles": [
         "Nvidia isn’t selling any more AI chips to China",
         "Nvidia stops shipping US-approved AI chips to China"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 52,
-      "sources": 1,
-      "ts": "2026-11-18T21:35:43.000Z",
-      "writtenSources": 1,
-      "draft": true,
-      "h": "Introducing Gemini 4 Neon",
-      "s": "Covered by 1 outlet.",
-      "b": [
-        "blog.google: Introducing Gemini 4 Neon"
-      ],
-      "body": [],
-      "l": [
-        {
-          "d": "blog.google",
-          "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/?utm_source=deepmind.google&utm_medium=referral&utm_campaign=gdm&utm_content="
-        }
-      ],
-      "srcTitles": [
-        "Introducing Gemini 4 Neon"
       ]
     },
     {
@@ -317,8 +335,8 @@
     },
     {
       "cat": "funding",
-      "signal": 40,
-      "sources": 2,
+      "signal": 43,
+      "sources": 3,
       "ts": "2026-11-18T21:00:00.000Z",
       "writtenSources": 2,
       "draft": true,
@@ -340,11 +358,16 @@
         {
           "d": "wsj.com",
           "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzJMRVRpMDh6UlVrLWNaa0JYTmZhMkUxWWdweFJuWDdJZWE2NmVsSFczcFMwT3FVYzRxVV93TXlrSVhfWDBnRTBsSTNRcjMxUF9KMnp5UVNYOTRKSlJPa0tRMC1Mc2FTN3I4RGpZRVJxZ3FCOUVkaEZkQTlDUzNpZ1V2VS1UOXZRdEkyODVCMTJuMC1pSWd2QnN1Skw1eTFWS0Z3dzd1enk?oc=5"
+        },
+        {
+          "d": "cnbc.com",
+          "u": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb29LX2twdWJnUUNJU1RDcGtFektCNmV2NkdIbWVfak5KMDNnTDNCWHQtNWgzWHpVbWRfeHBmd09XWTJJcmdHaGl2V05lZVBlamlPTjRBU2VudXM4Q3Q0bThCVnJXWTFoVDFzYkVacjN5VXFQQjFaQ1pDU3RyWDFKeGF2MF_SAYoBQVVfeXFMTUJWbFM5R3ZJYXFiZWc2Wm9GdER6aldoWFRmdXZOZzRkMHVOSFNKOUtSUjlWaVE2dHhSZ1pqQ05WQTB4ZER4YTFVeGVLQWhvREhmOHRhQ0lqSk45UTBsdDFvV01NNDdRNUJnWXBDNDg3dlkwaUZXNTBOdWZDbXRfdUNySjdBZTZnNThB?oc=5"
         }
       ],
       "srcTitles": [
         "Palo Alto Networks agrees to buy Applied Compute, which helps companies customize open-weight AI models, for $4.5B in stock; it was valued at $3.25B this month (Kate Clark/Wall Street Journal)",
-        "Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion"
+        "Exclusive | Palo Alto Networks to Buy AI-Startup Applied Compute for $4.5 Billion",
+        "Palo Alto inks $4.5 billion deal for AI startup Applied Compute, shares pop 8% on earnings"
       ]
     },
     {
@@ -481,41 +504,6 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 25,
-      "sources": 2,
-      "ts": "2026-11-18T10:03:50.000Z",
-      "writtenSources": 4,
-      "draft": true,
-      "h": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-      "s": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-      "b": [
-        "techcrunch.com: India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
-        "gao.gov: U.S. GAO - GAO Went Undercover to See if AI's Top Platforms Would Create Viable Attack Plans",
-        "washingtonpost.com: Opinion | China has a deep bench of AI talent. Can the U.S. still beat it?"
-      ],
-      "body": [
-        "techcrunch.com: Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
-        "gao.gov: U.S. GAO - GAO Went Undercover to See if AI's Top Platforms Would Create Viable Attack Plans U.S. Government Accountability Office (.gov)",
-        "washingtonpost.com: Opinion | China has a deep bench of AI talent. Can the U.S. still beat it? The Washington Post",
-        "nytimes.com: American A.I. Models Have Potential to Be Turned Against U.S., Study Finds The New York Times"
-      ],
-      "l": [
-        {
-          "d": "cleveland.com",
-          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbENOVmhmOV83UE00NTJGLWxSd3U1Rjh5cHphSW9ib19oSjlTb1VwWHpla0pjdUVOZnI5VmRwbXNVbXdrV0ZvUHFDekNLMzFoN0xBY3I0QlJKbG1qVmc5YmdBMEc3N1F6NGtyOHdDbnlXRkx5bkc0N2Jkdl83NGRvWHV5Rl9yTjM4MHRxVExDTVNIQWtSYnF4ZjRIbTc0Z29vYkhDQmdwYkhEeHdJOWNjdDVla0dsSGxOdjlFaDNn0gHSAUFVX3lxTE5tMXJNMmdNeXlMcTB4OG9zaU0xYzlLcGVucmFLbzFPWXhOU1RpNjBvLXAxeHI2Ry1fdEsxUUJYeXQyWDB5QnozVy1hU2RoQzZoV3JPemtzeTk2SEk5TFJLdEZ2bVhnZ1hRSjUxWE1qdEdNMXd2UUZJRDdWdnZpUlVtbGxSV0Z5NGJFY2FEOEF2eVhJOVlGTHpvaVJGZ1FjZk51V0ZYMEN6bTgwVXNaYXJZemhPSmJfUURaY2tnUEVnVXdNcVJENmNjeGw3Q3phRUh5dw?oc=5"
-        },
-        {
-          "d": "nytimes.com",
-          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEowWHEtUnNxZ3dvRTY3Y2psTDk4UFdtOEcyLWtxNXlRQmlJZlRtV01EanhMbkJCVEtONl96bGJtQVhkR0VlUDl0Wm1uTkEtSGpyQ2tZS3lUSGNlNm5tOXVvSHRtdjdIX0lMYkRTUDRKOURXczFQNXUzMlJIb0tBZVJJTDBQRHFOT244?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Could American AI be turned against the U.S.? New study raises security concerns",
-        "American A.I. Models Have Potential to Be Turned Against U.S., Study Finds"
-      ]
-    },
-    {
       "cat": "models",
       "signal": 24,
       "sources": 1,
@@ -616,35 +604,38 @@
       ]
     },
     {
-      "cat": "models",
-      "signal": 17,
+      "cat": "funding",
+      "signal": 21,
       "sources": 2,
-      "ts": "2026-11-18T00:55:35.000Z",
-      "writtenSources": 2,
+      "ts": "2026-11-18T10:03:50.000Z",
+      "writtenSources": 4,
       "draft": true,
-      "h": "Would AI have come up with a better word of the year than the Cambridge Dictionary?",
-      "s": "Would AI have come up with a better word of the year than the Cambridge Dictionary? CBC",
+      "h": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "s": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
       "b": [
-        "cbc.ca: Would AI have come up with a better word of the year than the Cambridge Dictionary?",
-        "abcnews.com: Cambridge Dictionary chooses 'human' as word of the year in response to AI fears - ABC News"
+        "techcrunch.com: India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+        "gao.gov: U.S. GAO - GAO Went Undercover to See if AI's Top Platforms Would Create Viable Attack Plans",
+        "washingtonpost.com: Opinion | China has a deep bench of AI talent. Can the U.S. still beat it?"
       ],
       "body": [
-        "cbc.ca: Would AI have come up with a better word of the year than the Cambridge Dictionary? CBC",
-        "abcnews.com: Cambridge Dictionary chooses 'human' as word of the year in response to AI fears ABC News - Breaking News, Latest News and Videos"
+        "techcrunch.com: Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+        "gao.gov: U.S. GAO - GAO Went Undercover to See if AI's Top Platforms Would Create Viable Attack Plans U.S. Government Accountability Office (.gov)",
+        "washingtonpost.com: Opinion | China has a deep bench of AI talent. Can the U.S. still beat it? The Washington Post",
+        "nytimes.com: American A.I. Models Have Potential to Be Turned Against U.S., Study Finds The New York Times"
       ],
       "l": [
         {
-          "d": "seattletimes.com",
-          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN0daTjZBcHdyeldnb2RQT0hPN09vdlEwclhNSl9FWS1KWEFiQTFNVi1wWHdnajF4VWR0WXNKdlg0U0ZGanMwZlZxbHhMazBLSzZ1cDRrMEZqbEIxQkdLX1hVaXFzYk94eUg0YUtoUFdfSE9YY213ekpDakdwanlidnk0ZkhkdW1MRzRMV0ctVVdFOG5abjBlQXJDeWJ3eVUtay1uSmRZbHB5Mmk2YjRHWU1acnhrWDMyZE1hUFVucw?oc=5"
+          "d": "cleveland.com",
+          "u": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbENOVmhmOV83UE00NTJGLWxSd3U1Rjh5cHphSW9ib19oSjlTb1VwWHpla0pjdUVOZnI5VmRwbXNVbXdrV0ZvUHFDekNLMzFoN0xBY3I0QlJKbG1qVmc5YmdBMEc3N1F6NGtyOHdDbnlXRkx5bkc0N2Jkdl83NGRvWHV5Rl9yTjM4MHRxVExDTVNIQWtSYnF4ZjRIbTc0Z29vYkhDQmdwYkhEeHdJOWNjdDVla0dsSGxOdjlFaDNn0gHSAUFVX3lxTE5tMXJNMmdNeXlMcTB4OG9zaU0xYzlLcGVucmFLbzFPWXhOU1RpNjBvLXAxeHI2Ry1fdEsxUUJYeXQyWDB5QnozVy1hU2RoQzZoV3JPemtzeTk2SEk5TFJLdEZ2bVhnZ1hRSjUxWE1qdEdNMXd2UUZJRDdWdnZpUlVtbGxSV0Z5NGJFY2FEOEF2eVhJOVlGTHpvaVJGZ1FjZk51V0ZYMEN6bTgwVXNaYXJZemhPSmJfUURaY2tnUEVnVXdNcVJENmNjeGw3Q3phRUh5dw?oc=5"
         },
         {
-          "d": "mynorthwest.com",
-          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQl95VlhZNFpyVGFoT3lPbXVleHA4WnBORkdEY01oeEJ5c0pkVW9HSy1TMGFMdVdTZ2RZWjFSTmc2ZV9ETWNmVVl6VkhObGxNYmNHX3VfbFF4c01KcVE5eHNEUGFxVk1NTUJjY3hHZ0FoQ2tKTDFST1hmd2JCek5RY1RhVkpra0tCUVRCVmJxLVo1TnZ2M1A0UjQtV2VDTmdOYUFSN3NFYkNzS2lSY0pQTGVvY2w?oc=5"
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEowWHEtUnNxZ3dvRTY3Y2psTDk4UFdtOEcyLWtxNXlRQmlJZlRtV01EanhMbkJCVEtONl96bGJtQVhkR0VlUDl0Wm1uTkEtSGpyQ2tZS3lUSGNlNm5tOXVvSHRtdjdIX0lMYkRTUDRKOURXczFQNXUzMlJIb0tBZVJJTDBQRHFOT244?oc=5"
         }
       ],
       "srcTitles": [
-        "Cambridge Dictionary unveils its word of the year",
-        "Cambridge Dictionary chooses ‘human’ as word of the year in response to AI fears"
+        "Could American AI be turned against the U.S.? New study raises security concerns",
+        "American A.I. Models Have Potential to Be Turned Against U.S., Study Finds"
       ]
     },
     {
@@ -677,6 +668,38 @@
       "srcTitles": [
         "LeBron James sues makers of AI sports-betting app, saying they used his likeness and nickname - ABC News",
         "LeBron James sues startup over viral AI ad allegedly exploiting his likeness"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 15,
+      "sources": 2,
+      "ts": "2026-11-18T00:55:35.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Would AI have come up with a better word of the year than the Cambridge Dictionary?",
+      "s": "Would AI have come up with a better word of the year than the Cambridge Dictionary? CBC",
+      "b": [
+        "cbc.ca: Would AI have come up with a better word of the year than the Cambridge Dictionary?",
+        "abcnews.com: Cambridge Dictionary chooses 'human' as word of the year in response to AI fears - ABC News"
+      ],
+      "body": [
+        "cbc.ca: Would AI have come up with a better word of the year than the Cambridge Dictionary? CBC",
+        "abcnews.com: Cambridge Dictionary chooses 'human' as word of the year in response to AI fears ABC News - Breaking News, Latest News and Videos"
+      ],
+      "l": [
+        {
+          "d": "seattletimes.com",
+          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN0daTjZBcHdyeldnb2RQT0hPN09vdlEwclhNSl9FWS1KWEFiQTFNVi1wWHdnajF4VWR0WXNKdlg0U0ZGanMwZlZxbHhMazBLSzZ1cDRrMEZqbEIxQkdLX1hVaXFzYk94eUg0YUtoUFdfSE9YY213ekpDakdwanlidnk0ZkhkdW1MRzRMV0ctVVdFOG5abjBlQXJDeWJ3eVUtay1uSmRZbHB5Mmk2YjRHWU1acnhrWDMyZE1hUFVucw?oc=5"
+        },
+        {
+          "d": "mynorthwest.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQl95VlhZNFpyVGFoT3lPbXVleHA4WnBORkdEY01oeEJ5c0pkVW9HSy1TMGFMdVdTZ2RZWjFSTmc2ZV9ETWNmVVl6VkhObGxNYmNHX3VfbFF4c01KcVE5eHNEUGFxVk1NTUJjY3hHZ0FoQ2tKTDFST1hmd2JCek5RY1RhVkpra0tCUVRCVmJxLVo1TnZ2M1A0UjQtV2VDTmdOYUFSN3NFYkNzS2lSY0pQTGVvY2w?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Cambridge Dictionary unveils its word of the year",
+        "Cambridge Dictionary chooses ‘human’ as word of the year in response to AI fears"
       ]
     }
   ]
