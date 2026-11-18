@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 59,
+      "signal": 56,
       "sources": 2,
       "ts": "2026-11-17T23:02:12.000Z",
       "writtenSources": 2,
@@ -34,8 +34,40 @@
       ]
     },
     {
-      "cat": "products",
+      "cat": "models",
       "signal": 29,
+      "sources": 2,
+      "ts": "2026-11-18T00:55:35.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Would AI have come up with a better word of the year than the Cambridge Dictionary?",
+      "s": "Would AI have come up with a better word of the year than the Cambridge Dictionary? CBC",
+      "b": [
+        "cbc.ca: Would AI have come up with a better word of the year than the Cambridge Dictionary?",
+        "abcnews.com: Cambridge Dictionary chooses 'human' as word of the year in response to AI fears - ABC News"
+      ],
+      "body": [
+        "cbc.ca: Would AI have come up with a better word of the year than the Cambridge Dictionary? CBC",
+        "abcnews.com: Cambridge Dictionary chooses 'human' as word of the year in response to AI fears ABC News - Breaking News, Latest News and Videos"
+      ],
+      "l": [
+        {
+          "d": "seattletimes.com",
+          "u": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN0daTjZBcHdyeldnb2RQT0hPN09vdlEwclhNSl9FWS1KWEFiQTFNVi1wWHdnajF4VWR0WXNKdlg0U0ZGanMwZlZxbHhMazBLSzZ1cDRrMEZqbEIxQkdLX1hVaXFzYk94eUg0YUtoUFdfSE9YY213ekpDakdwanlidnk0ZkhkdW1MRzRMV0ctVVdFOG5abjBlQXJDeWJ3eVUtay1uSmRZbHB5Mmk2YjRHWU1acnhrWDMyZE1hUFVucw?oc=5"
+        },
+        {
+          "d": "mynorthwest.com",
+          "u": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQl95VlhZNFpyVGFoT3lPbXVleHA4WnBORkdEY01oeEJ5c0pkVW9HSy1TMGFMdVdTZ2RZWjFSTmc2ZV9ETWNmVVl6VkhObGxNYmNHX3VfbFF4c01KcVE5eHNEUGFxVk1NTUJjY3hHZ0FoQ2tKTDFST1hmd2JCek5RY1RhVkpra0tCUVRCVmJxLVo1TnZ2M1A0UjQtV2VDTmdOYUFSN3NFYkNzS2lSY0pQTGVvY2w?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Cambridge Dictionary unveils its word of the year",
+        "Cambridge Dictionary chooses ‘human’ as word of the year in response to AI fears"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 25,
       "sources": 2,
       "ts": "2026-11-18T01:02:16.000Z",
       "writtenSources": 2,
@@ -63,38 +95,6 @@
       "srcTitles": [
         "LeBron James sues makers of AI sports-betting app, saying they used his likeness and nickname - ABC News",
         "LeBron James sues startup over viral AI ad allegedly exploiting his likeness"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 29,
-      "sources": 2,
-      "ts": "2026-11-18T00:55:35.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Would AI have come up with a better word of the year than the Cambridge Dictionary?",
-      "s": "Would AI have come up with a better word of the year than the Cambridge Dictionary? CBC",
-      "b": [
-        "cbc.ca: Would AI have come up with a better word of the year than the Cambridge Dictionary?",
-        "abcnews.com: Cambridge Dictionary chooses 'human' as word of the year in response to AI fears - ABC News"
-      ],
-      "body": [
-        "cbc.ca: Would AI have come up with a better word of the year than the Cambridge Dictionary? CBC",
-        "abcnews.com: Cambridge Dictionary chooses 'human' as word of the year in response to AI fears ABC News - Breaking News, Latest News and Videos"
-      ],
-      "l": [
-        {
-          "d": "cbc.ca",
-          "u": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMzRVLXFyWTJISnpSRGFDQ1h1TnN6VW9TUjhpcnV2WVFBYlBzUDdaNTFGamRrcllzaVF2clF0YktSemVNRmFFTWlKYW5BV1ZuelFwZUFmR0RUV05fdXNrZTNUTDhvc2U5ZU5Qakh1enJKZmt4SVFRbkRWM2dzWFZ5QXVsNnZMLWc0T2c?oc=5"
-        },
-        {
-          "d": "abcnews.com",
-          "u": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSS1xMFVmSE5yVnk1UWVmSUhZZnNBVVdERjNKRVhhU2I0NlpIRkhrVDJfMmg1dndoNjZHb1d5NXlJX2ZMR09MWnpDYW9nNHAxRHlINFMxcVhnQXV2aU03ZzdoVFB3MFJYRFhjSjdpZHFQWW9tVHFkLXRTbWN1OW5hUDZ1NjVnbWRVN0xQSzFkd0ZibzdBeFUzZFBXN1dLQ1FIdEVjb2RPdDRhVlnSAbABQVVfeXFMTVBrMWJROWV1TkY5UnBDWkIyQ1lzelRsZ3VnejFWcl83Qm5UcnAtdWNoc09VQjZyVjY4NWNkS2hGeXNSU25JT2FSdEktWlN5bU85elpSMGgwQU85eXJMQ19GYThTUUp3UUZRR1dzd2ViNlJGOVZWMjJYVWtmSjNKWGo1OWNlSkZUZ29nc1NXY2tueXNxNTRDV2JPNTBYLTl6ZjVEVXl1U0tpUk5reHlFRzU?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Would AI have come up with a better word of the year than the Cambridge Dictionary?",
-        "Cambridge Dictionary chooses 'human' as word of the year in response to AI fears - ABC News"
       ]
     }
   ]
