@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "policy",
-      "signal": 56,
+      "signal": 52,
       "sources": 2,
       "ts": "2026-11-17T23:02:12.000Z",
       "writtenSources": 2,
@@ -35,7 +35,134 @@
     },
     {
       "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-11-18T00:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "s": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+      "b": [
+        "openai.com: Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT"
+      ],
+      "body": [
+        "openai.com: Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership"
+        }
+      ],
+      "srcTitles": [
+        "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 42,
+      "sources": 4,
+      "ts": "2026-11-18T10:03:50.000Z",
+      "writtenSources": 4,
+      "draft": true,
+      "h": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+      "s": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+      "b": [
+        "techcrunch.com: India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+        "gao.gov: U.S. GAO - GAO Went Undercover to See if AI's Top Platforms Would Create Viable Attack Plans",
+        "washingtonpost.com: Opinion | China has a deep bench of AI talent. Can the U.S. still beat it?"
+      ],
+      "body": [
+        "techcrunch.com: Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
+        "gao.gov: U.S. GAO - GAO Went Undercover to See if AI's Top Platforms Would Create Viable Attack Plans U.S. Government Accountability Office (.gov)",
+        "washingtonpost.com: Opinion | China has a deep bench of AI talent. Can the U.S. still beat it? The Washington Post",
+        "nytimes.com: American A.I. Models Have Potential to Be Turned Against U.S., Study Finds The New York Times"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/"
+        },
+        {
+          "d": "gao.gov",
+          "u": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNmUxY2FLREo5N0ptdnNkS1JnRDFCZ2Q2a2N5dGg3Nk4xZ2Z6YTBDNzg5T1R3VDV0b3p5OTZYTUFnNElJWW9PcHJhbHhodk4zcDdwSFRiNFVGcU1jVFN2VEoxYXJ5d25lSUVseFlwVkxCcFVwSk42NkFmS1dPdFMxUVljd1BlbGZVWGx1SnBXZTJuU0xfVGd2RDFyeW5ISHJrSUNiSGRB?oc=5"
+        },
+        {
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWUl6LVdmbFEwNno3d1k1NHQ3ZlpMXzNzUGxzemwzTGc5Z3JIVjVtMllNbGdrZEtYdTdpdzBxV3RhUlFBLTdJdkpWTC0zZ0hCcFdWVERxd3hSRkw0WUtIZGcxOERYZV94T1FNVUhDOUdwVnVtenEwRFlMSl8wWkxWdGlGV2pKOG9aVDlHRF9VYjFsUV9UOXVrOGMteFBjZThFM1BHYS1FTDY?oc=5"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcEowWHEtUnNxZ3dvRTY3Y2psTDk4UFdtOEcyLWtxNXlRQmlJZlRtV01EanhMbkJCVEtONl96bGJtQVhkR0VlUDl0Wm1uTkEtSGpyQ2tZS3lUSGNlNm5tOXVvSHRtdjdIX0lMYkRTUDRKOURXczFQNXUzMlJIb0tBZVJJTDBQRHFOT244?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they need",
+        "U.S. GAO - GAO Went Undercover to See if AI's Top Platforms Would Create Viable Attack Plans",
+        "Opinion | China has a deep bench of AI talent. Can the U.S. still beat it?",
+        "American A.I. Models Have Potential to Be Turned Against U.S., Study Finds"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 29,
+      "sources": 2,
+      "ts": "2026-11-18T10:10:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off",
+      "s": "Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off",
+        "theglobeandmail.com: Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off"
+      ],
+      "body": [
+        "finance.yahoo.com: Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off Yahoo Finance",
+        "theglobeandmail.com: Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off The Globe and Mail"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSm9HdEtWSkw3MWdlcXFoQXlpWkwzRmp3d0lQMldNQkxsQlE5SDhZdmNfYnlUVjdUWm1EcFp4V2dYM1JkNm5aTnE3dm85MlU2bDA1bDBXQUJLdXlvZGUxVVJKYmljdzdMaHFlaXU3c0ZjdDRlLTVrRWdsTzM2WHVTWjJZNjNPU19uWDJXM2Q3RmRjY2o1VFJ1ZUtJLThEVVp3?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMipwJBVV95cUxObDFHWHhxU3I1cEh0SWxWQjBSZ3lra0NRU1RlUjdMeXNUWlI0OERjdjF3TDNZbGc5cmVtRG1YVnBFcE03cDdGY1l4cTZicEY2OEFTQzRTLTkwX01zckhySVhNMlNyYkl6a19wY01ubFplRDdOQl9oS0toR2drZzlqdWNsTVc1TjRwa25idlhPaTZ4d0VkMG9mUVc1TTA4ZlZTRV9ZYURoZEVzRFdSUjZ3STNLcDFvLTVBT1hJcEhVRzZ3Rk15X1NlQ25NaDQ4QTZReUZhRXh2OXhtQXNYcHZpVU9jak1LQzZLTzJLcDRZRmRwVjNPbHo1a2hDUVBDN1hjWUtzUkswM2tJMTU5VXhseUNlc1R6dWtUWFJ4SFRiY3REdVJGVTBv?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off",
+        "Not Micron. Not Broadcom. This Artificial Intelligence (AI) Stock Will Skyrocket in December After the Latest Sell-Off"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-11-18T10:20:30.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "This smell startup says its AI nose is as good as a human’s",
+      "s": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are",
+      "b": [
+        "technologyreview.com: This smell startup says its AI nose is as good as a human’s"
+      ],
+      "body": [
+        "technologyreview.com: In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI startup Osmo calls the world’s first foundation model for smell. The company’s goal, says founder Alex Wiltschko, is “to give computers a sense of smell.” “Scent molecules are really the only language most species on this planet can speak,” he says. “Most species can’t communicate with sound or visually, so it truly is Earth’s original language. And it’s incredibly powerful for us, from a memory and an emotional standpoint. You can smell something once and remember it for the rest of your life. You can smell something on the street and be pulled back to high school.” In the last few months, Wiltschko claims, Osmo’s model has achieved “human-level olfactory intelligence.” The company’s definition of this is that the model is about as good as the average person at detecting and discriminating between smells, and about as good as a junior perfume designer at creating them. It says its technology is already being used in the fragrance industry to help brands design and manufacture new scents. Last month, the company says, Osmo’s AI model outperformed in-house perfumers at one of the world’s largest consumer goods companies. Wiltschko believes it could be deployed eventually for threat detection at airports, for example, or diagnosing diseases. Wiltschko spun the startup out of his work at Google Brain, the search giant’s former AI research lab, in 2023, and he is running the same playbook as AI startups in other domains: Throw a lot of data at difficult problems, and see what happens. The challenge with scent, Wiltschko says, is that there was a dearth of good data. Before Osmo, there were fewer than 200,000 human descriptions of smells in existing databases, by his count. Plus, the"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/"
+        }
+      ],
+      "srcTitles": [
+        "This smell startup says its AI nose is as good as a human’s"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 25,
       "sources": 2,
       "ts": "2026-11-18T00:55:35.000Z",
       "writtenSources": 2,
@@ -67,7 +194,7 @@
     },
     {
       "cat": "products",
-      "signal": 25,
+      "signal": 21,
       "sources": 2,
       "ts": "2026-11-18T01:02:16.000Z",
       "writtenSources": 2,
