@@ -2,8 +2,104 @@
   "date": "2026-11-19",
   "stories": [
     {
+      "cat": "models",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-11-19T18:09:11.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google gives Gemini the ability to use your Mac for you",
+      "s": "Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+      "b": [
+        "techcrunch.com: Google gives Gemini the ability to use your Mac for you",
+        "theverge.com: Gemini on Mac can now use your computer"
+      ],
+      "body": [
+        "techcrunch.com: Google's latest update to Gemini brings an AI agent to the Mac that can organize files, fill out forms, and tackle multistep workflows.",
+        "theverge.com: Google's Gemini app for macOS now has computer use, meaning it can help you \"get multi-step tasks done across your local files, desktop apps, and the web,\" the company says. Google suggests the feature might be useful for things like speeding up workflows, filling in forms, making presentations, and listing items for sale. Users will [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/19/google-gives-gemini-the-ability-to-use-your-mac-for-you/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1037902/google-gemini-macos-ai-computer-use"
+        }
+      ],
+      "srcTitles": [
+        "Google gives Gemini the ability to use your Mac for you",
+        "Gemini on Mac can now use your computer"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-11-19T17:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+      "s": "The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+      "b": [
+        "wired.com: Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+        "techmeme.com: Google built a \"Mirror Dimension\", an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents (Lily Hay Newman/Wired)"
+      ],
+      "body": [
+        "wired.com: The company’s alternate-universe internet serves as a massive sandbox that allows the Chrome team to properly train AI browsing agents—without the risk of them going rogue.",
+        "techmeme.com: Lily Hay Newman / Wired : Google built a Mirror Dimension , an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents The company's alternate-universe internet serves as a massive sandbox that allowed the Chrome team to properly train the AI browsing agents"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/google-built-a-giant-mirror-dimension-internet-to-test-its-chrome-ai-agents/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261119/p43#a261119p43"
+        }
+      ],
+      "srcTitles": [
+        "Google Built a Giant ‘Mirror Dimension’ Internet to Test Its Chrome AI Agents",
+        "Google built a \"Mirror Dimension\", an isolated internet with simulated environments like social media and banking dashboards, to test AI browsing agents (Lily Hay Newman/Wired)"
+      ]
+    },
+    {
       "cat": "funding",
       "signal": 59,
+      "sources": 2,
+      "ts": "2026-11-19T16:52:44.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic opens at $111.50 per share in record IPO: Live updates (CNBC)",
+      "s": "CNBC : Anthropic opens at $111.50 per share in record IPO: Live updates Anthropic opened at $111.50 per share in the artificial intelligence lab's Nasdaq debut on Thursday after the company completed ",
+      "b": [
+        "techmeme.com: Anthropic opens at $111.50 per share in record IPO: Live updates (CNBC)",
+        "nytimes.com: Anthropic IPO Live Updates: Stock Begins Trading at $111.50 Per Share"
+      ],
+      "body": [
+        "techmeme.com: CNBC : Anthropic opens at $111.50 per share in record IPO: Live updates Anthropic opened at $111.50 per share in the artificial intelligence lab's Nasdaq debut on Thursday after the company completed the biggest initial public offering on record. The stock will trade under the ticker ANT",
+        "nytimes.com: Anthropic IPO Live Updates: Stock Begins Trading at $111.50 Per Share The New York Times Anthropic raises $81bn in record-breaking stock market debut BBC Anthropic begins public trading at $2tn valuation after largest-ever IPO The Guardian"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261119/p39#a261119p39"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMidkFVX3lxTE45bTR3Zzh2OENUSmxiYWhGSmF6QWh2Q2Jsbm5KZldsY0pEQUkteVNqVTFwSWVreVVwcEZ2bDdjbTRyeXNDNmRVMXF6NDNqckxnMHAyay05Ukh4enRNdG1jOXJoQVF5b01iWG10cWFFOHBsVWlWbVE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic opens at $111.50 per share in record IPO: Live updates (CNBC)",
+        "Anthropic IPO Live Updates: Stock Begins Trading at $111.50 Per Share"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 55,
       "sources": 2,
       "ts": "2026-11-19T10:00:00.000Z",
       "writtenSources": 2,
@@ -34,8 +130,122 @@
       ]
     },
     {
+      "cat": "funding",
+      "signal": 54,
+      "sources": 2,
+      "ts": "2026-11-19T17:58:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "OpenAI Faces Investigation in Arizona Over Rogue AI Agents",
+      "s": "OpenAI Faces Investigation in Arizona Over Rogue AI Agents PYMNTS.com",
+      "b": [
+        "pymnts.com: OpenAI Faces Investigation in Arizona Over Rogue AI Agents",
+        "lawcommentary.com: Arizona Opens Criminal Investigation Into OpenAI For Alleged Rogue AI Agents Infiltrating Banks"
+      ],
+      "body": [
+        "pymnts.com: OpenAI Faces Investigation in Arizona Over Rogue AI Agents PYMNTS.com",
+        "lawcommentary.com: Arizona Opens Criminal Investigation Into OpenAI For Alleged Rogue AI Agents Infiltrating Banks Law Commentary"
+      ],
+      "l": [
+        {
+          "d": "pymnts.com",
+          "u": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbzZ0eEhZU3VWYjh5MHA1aWRPcjRxX1FIeUJiWkk5dU9jWlpIN3lhenYxRzZjVmR0N0dEOXJXYThHejZVcEtpUGx6bzBvN2ItdXk5WGxvaWVpMjdkZlJvUWdZREdxeFMxMFlmVDFUbks2VHNmVm5vVVRsTmtrN2JOM1pDLUNYWXVrd2szd3ZIaTVrdGZTY3pUcGpOVlBaTFNOSS10VV8xVnRyQVNsLV9wX1RQZw?oc=5"
+        },
+        {
+          "d": "lawcommentary.com",
+          "u": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQT2d0VER1Sk1lQ21PODQzUDJQUExyNnpUanZBYTZ0NjZNTUFOeFlvR2xNbC1FNDNaWkZreHFKVHdaaER6YkxJc1M4SHhXOFhOc3RDdXQ1ekMxLVE0dzVIazZkYmkwUGtISC1sbEdEQTFwUlBjWW1kV1pQM1Fwei1qakJQMlU0R0p6a1FXdUI1enluN1JCczhRT19wd21xeUE?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "OpenAI Faces Investigation in Arizona Over Rogue AI Agents",
+        "Arizona Opens Criminal Investigation Into OpenAI For Alleged Rogue AI Agents Infiltrating Banks"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-11-19T08:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+      "s": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+      "b": [
+        "openai.com: How OpenAI’s Performance Factory keeps ChatGPT fast"
+      ],
+      "body": [
+        "openai.com: Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast."
+      ],
+      "l": [
+        {
+          "d": "openai.com",
+          "u": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast"
+        }
+      ],
+      "srcTitles": [
+        "How OpenAI’s Performance Factory keeps ChatGPT fast"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 22,
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-11-19T16:33:42.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI (Owen Dahlkamp/Politico)",
+      "s": "Owen Dahlkamp / Politico : A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI A bipartisan",
+      "b": [
+        "techmeme.com: A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI (Owen Dahlkamp/Politico)",
+        "politico.com: New bipartisan AI caucus forms with two dozen House members"
+      ],
+      "body": [
+        "techmeme.com: Owen Dahlkamp / Politico : A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI A bipartisan coalition of over two dozen House lawmakers is forming a new artificial intelligence caucus.",
+        "politico.com: New bipartisan AI caucus forms with two dozen House members Politico"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261119/p48#a261119p48"
+        },
+        {
+          "d": "politico.com",
+          "u": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVzNrb2RheGVkLWpCN1Z0eGF4dGRlSHF1YmRPNjBNTFJjMUdPQXU5czBzWDdQZzhOeVppelctTmttbktFTDcwVzhXWGlhMmcySklwTEplOXhPc1NOZUl4cjlqdkpnTUNXcFd6SjktUHFQbjl4VVBmdE9lN3l4RFlzdVFvSFdyN3p0dlNDLTV0MUl6NlplQ21XdzVRMDVkY3hhQVp2X2htQXRDbnJBU3ZxajQ1cE9tTHBlQmxOYUZFWHV5ZnJ1?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "A bipartisan group of 24+ House lawmakers forms the AI Safety and Innovation Caucus, seeking to balance mitigating AI risks with maintaining US leadership in AI (Owen Dahlkamp/Politico)",
+        "New bipartisan AI caucus forms with two dozen House members"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 27,
+      "sources": 1,
+      "ts": "2026-11-19T17:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "s": "Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+      "b": [
+        "blog.google: Walter Isaacson on curiosity and creativity in the AI age."
+      ],
+      "body": [
+        "blog.google: Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode."
+      ],
+      "l": [
+        {
+          "d": "blog.google",
+          "u": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/"
+        }
+      ],
+      "srcTitles": [
+        "Walter Isaacson on curiosity and creativity in the AI age."
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 18,
       "sources": 2,
       "ts": "2026-11-18T23:15:00.000Z",
       "writtenSources": 2,
