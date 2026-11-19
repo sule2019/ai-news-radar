@@ -2,8 +2,40 @@
   "date": "2026-11-19",
   "stories": [
     {
+      "cat": "funding",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-11-19T10:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+      "s": "Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+      "b": [
+        "wired.com: Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+        "npr.org: AI giant Anthropic raises more than $100 billion in record-setting IPO"
+      ],
+      "body": [
+        "wired.com: Investors betting a barnstorming $107 billion will weigh whether the company’s AI safety strategy and growing public anger towards data centers could impact its growth.",
+        "npr.org: AI giant Anthropic raises more than $100 billion in record-setting IPO NPR"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/"
+        },
+        {
+          "d": "npr.org",
+          "u": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0doUFFYbC13ZkRzVklYaXZncGdPM0IzQUR6QnRGRmxDdXcyaGJrNnlIUWZYQWdnRXd2RnBPc3E2RUQ5RVh5aE9nYm0xYkhYLUN6SktFUFBuekVSbnhMMTNGSlBfUnFCU1B5YkRERnAwUFA5ck44ZnBNdGMxdzZtV05NMkhpTHV3ZGZBaHhB?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic’s Record-Breaking IPO Highlights the AI Giant’s Worst Enemy—Itself",
+        "AI giant Anthropic raises more than $100 billion in record-setting IPO"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-11-18T23:15:00.000Z",
       "writtenSources": 2,
