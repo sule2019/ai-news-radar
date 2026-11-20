@@ -40,6 +40,45 @@
     },
     {
       "cat": "models",
+      "signal": 62,
+      "sources": 3,
+      "ts": "2026-11-20T15:20:00.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Anthropic mathematician Levent Alpöge claims he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language (Joseph Howlett/Scientific American)",
+      "s": "Joseph Howlett / Scientific American : Anthropic mathematician Levent Alp ge claims he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language An ",
+      "b": [
+        "techmeme.com: Anthropic mathematician Levent Alpöge claims he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language (Joseph Howlett/Scientific American)",
+        "tomshardware.com: Anthropic mathematician claims to have solved 167-year-old math problem with Claude — Riemann hypothesis proof allegedly discovered but remains unconfirmed",
+        "simonwillison.net: Quoting Levent Alpöge"
+      ],
+      "body": [
+        "techmeme.com: Joseph Howlett / Scientific American : Anthropic mathematician Levent Alp ge claims he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language An AI-generated solution of the 167-year-old problem, long considered far out of reach to human mathematicians",
+        "tomshardware.com: Anthropic mathematician claims to have solved 167-year-old math problem with Claude — Riemann hypothesis proof allegedly discovered but remains unconfirmed Tom's Hardware",
+        "simonwillison.net: I believe I have, working with Claude, discovered a proof of the Riemann Hypothesis. In fact, the method easily extends much further, resolving the so-called Generalized Riemann Hypothesis, and I expect, with more time, the Extended Riemann Hypothesis too. Claude and I have also formalized the arguments without assumptions. It is natural to feel that this is an end, in my case a loss of a principal guiding light, but what I saw during the course of progress so amazed me that I believe it is one dawn across science of something far greater. [...] Claude and I have had a great time together with such breadth in recent months, but this time Claude far outpaced me near the finish line. No, Claude flew, and danced, and sparkled near that finish line. Levent Alpöge , alpo.ge/remark.pdf Tags: anthropic , claude , generative-ai , mathematics , ai , llms , levent-alpoge"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261120/p17#a261120p17"
+        },
+        {
+          "d": "tomshardware.com",
+          "u": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNQ2pfbTNIQ2pMc1c0LUhZMzl3NU1IRkJfVXItM2F1Z3dIY3lVX1RjSWoxeGh1bkl4cmh2WDNBdFpTcS1GUUxYS1NwQTdHcG1TcXNNaDNXb3FodXlSQU96dEloYVF4WUZGa0RKWVVtQ0ozbUVZRDZVT0hCX3FLZWR5ZXZjbWtIUU1CLVoyc0pEMUZ6dXpUaDRwR3Zjd2dTOTVtWlF1OWh4MDFaOVh0dmRDdDJkdDYzX0pNYmZYWHJoRGJ5MFFIQmx2endfRjdFSnh5R3c5ZUJKbkEtWkc3OGJkWWdjR0FSUWJMeUczbFNtTGNqbW1JbGktRVNyM0hIRmlMUUZ4MXBJS1lHZ1NpSkdKLVdXUDctUFhpOEhUeWpNb0xEejIyQlphOEljVmhTRjRlR1pORmJYTHk0QklaaU1laUN3?oc=5"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Nov/20/levent-alpoge/"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic mathematician Levent Alpöge claims he used Claude to prove the 167-year-old Riemann hypothesis and posts the proof in the Lean programming language (Joseph Howlett/Scientific American)",
+        "Anthropic mathematician claims to have solved 167-year-old math problem with Claude — Riemann hypothesis proof allegedly discovered but remains unconfirmed",
+        "Quoting Levent Alpöge"
+      ]
+    },
+    {
+      "cat": "models",
       "signal": 54,
       "sources": 4,
       "ts": "2026-11-19T23:05:40.000Z",
@@ -58,7 +97,11 @@
       "l": [
         {
           "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0ZoRWhURzhZYktud1dxcXBHNG9rRDJ4dkpWaXFzU00yc2wzLUFrNDhQNHdVb0czTko1N3czV3F0QklmZHU2Vm10MVNOOGk5NVFQUFROY2pkSk45U2E3VVdlakFrS3NjZlJsQUNMRnBUVzdYcHQtbmFIN0o0TkVMcWpyWkV4Q2VoXzNBYTAxM01nTU9iXzBEUTBuTDBHMkNCWGFWWU9QczRLbTBac21JSDhMOHBOQlU?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNb01wT3RIcE5NSVBiamFSWHE0OXZya2NfTGdyRHFsR3JXa2pkVU5CWS0zUURURTBIbkpwMFdfSDQxMXBTdUw1aDNvYVJkN2tyUW1EckdqbDhacHV4VDI3VURseWQ5Rmh3SVBERmRlUGREb2ZZNkNkWDFZYUR3X0s4WnJjRXhUVWYtcXZWdjl3Y0tqQ0gxZmc3NmNMY25paVpvLVN1STE5UjZHNWdoSkhRTmtSZjRxbUFwejZzTThNV1hHbDZsOVYzZ2puWmFfZHBndzNzSkhWdXI3ZzRKd2c?oc=5"
+        },
+        {
+          "d": "theglobeandmail.com",
+          "u": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQTkpjQlRuSk5fYXB1VWtzb05DaVdCUW15MmdSZ2xBQk1pZ292NVhLRUFRVVp0RGxqeVR0ci1hSnFkb2NEME04MGhLZXRLbmxTVGFfYy1ER2g5Y0ZxWjFWZWtHYmhsSzNpd3psdGZVYlQzbVY4V0c2WEFEbTVsRlpmWHNfMXNydnRLcDAzLVB3REQwOE9GV3RKUWFUSl9wRFh6VnRrUlAyNmkzTk9icExQUzdJR19yMnRjUFZMQzFubHhFeWVLeVpya0gxSTBZZVpjMVNzZ2ExMHJTT0pOU3hOWTA2bTdhaFZSWWpQZUFURktxMkZRTWpDdmFDWWFvTzNTbmpwS3kyOVJCOENzbVE?oc=5"
         },
         {
           "d": "aol.com",
@@ -66,23 +109,19 @@
         },
         {
           "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPenhaMDNSSUFSRzFtMzg2NEREb2JPQlhYd2swRGdRMXRIcllxcXJnQzQ5cHNuRGlRdWdvT2F2SFlSTHhXdlJoSjR2ZnFya0dvbGliWTR5Y3BiZGpxbWd5cUl1SnUzbUloVGpuRzR0TjQyZzlhYmVjSmJPUGdZbGJqd1dHbkx1R194NG5hdjVtVmpEYUd5Qm40U0tXcDN3RHZZRkRCVmxWRzZEeGdTZUNj?oc=5"
-        },
-        {
-          "d": "theglobeandmail.com",
-          "u": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVTRCOEh5aGMyN0otQTNFdDdSX0JTd1o4SXduVENPQUl4SGVESFJYRUNxcHpCUEh2UjltSlNfdVFxU1cxdlVZUUpaUEpmYWxjNjN3ZDZ3VGhwbUlWdFFvejFrajBEck9QRWVTU1RfenJxNWpVVUxXN1JxNnVpZHBzT0NsbGVIZjBxb25ib0hONDNuQU9US2pJOE9vZnRXZXNTZjJhUDBPLWFhazI2OVFfbWZoNFpvZWZubm13b1VRV1ZPV1dfTWVfU0FOS21OUXlLNGJzS25NWEFEV2RPMjctYjhURER5dWJITHlYcElB?oc=5"
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORVVubWs0cW91bmlLOWZQb2E5bTdySTRDU2xGQUt3N1ZCbnpoWkVRVDBqLWlhTkI2ejg0LUZOTmo1R0V3Vng2bzRQaHJkSFdTWmtPdTk0ZXlBV29jc1ZIam5UcFQzZFU0Mkh5bzRtV1BPYkVuTU5CUFdHZXlpWU1WQWpzYnFmV3VsbS1wRlY4LW9PcHROdXFLelpvQTZTaHZiX0ZZRlMxYw?oc=5"
         }
       ],
       "srcTitles": [
-        "1 Magnificent Artificial Intelligence (AI) Hardware Stock Down 57% You Might Regret Not Buying on the Dip",
+        "Not Nvidia. Not Broadcom. This Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner of 2027",
         "Should You Forget Nvidia? 2 Artificial Intelligence (AI) Stocks With More Room to 10x",
-        "Should You Forget Nvidia? 2 Artificial Intelligence (AI) Stocks With More Room to 10x",
-        "Not Nvidia. Not Broadcom. This Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner of 2027"
+        "Not Nvidia. Not Broadcom. This Artificial Intelligence (AI) Chip Stock Could Be the Biggest Winner of 2027",
+        "3 Dirt Cheap Artificial Intelligence (AI) Stocks to Load Up on Before 2027"
       ]
     },
     {
       "cat": "funding",
-      "signal": 52,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-11-20T01:07:00.000Z",
       "writtenSources": 2,
@@ -114,7 +153,39 @@
     },
     {
       "cat": "models",
-      "signal": 29,
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-20T10:54:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Potential and pitfalls of artificial intelligence to address disparities in epilepsy",
+      "s": "Potential and pitfalls of artificial intelligence to address disparities in epilepsy Nature",
+      "b": [
+        "nature.com: Potential and pitfalls of artificial intelligence to address disparities in epilepsy",
+        "bioengineer.org: Artificial Intelligence Evaluated for Reducing Global Disparities in Epilepsy Diagnosis"
+      ],
+      "body": [
+        "nature.com: Potential and pitfalls of artificial intelligence to address disparities in epilepsy Nature",
+        "bioengineer.org: Artificial Intelligence Evaluated for Reducing Global Disparities in Epilepsy Diagnosis Bioengineer.org"
+      ],
+      "l": [
+        {
+          "d": "nature.com",
+          "u": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aYmdPX3Y0ampBdXhNcTBvTmNyc0FVaDZhem8xZ1ViR0JBWHZuUng0anJrbUZhdHduRktfbFVHY1hkZThZek4wTGRGZVdScVpSam1TR2RaVmV4S0lqZC13?oc=5"
+        },
+        {
+          "d": "bioengineer.org",
+          "u": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSUZJdDg5QzFjendCdXMwRUxxSnlNeUg3ZFN3bk1PTHRscWJGdFUyS0xLR0FxWS1tazRVZ0ZhbzZ4SEUwRGx3clllX3AzZDNzU0dmUkNUNkhYSnMxaFNtalJ0ck54dG0yN3V4bTRITHZ2Y2JXajRTcVF2bUtzZmkwZUZqd0Mtdk9ZSlFWdlhaellqLThkcXVSMGRxOGV4MHRvaFlJelNiQ0VaR0RxaDZzSkxB?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Potential and pitfalls of artificial intelligence to address disparities in epilepsy",
+        "Artificial Intelligence Evaluated for Reducing Global Disparities in Epilepsy Diagnosis"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
       "sources": 2,
       "ts": "2026-11-20T10:26:00.000Z",
       "writtenSources": 2,
@@ -142,6 +213,43 @@
       "srcTitles": [
         "Orangeburg forum explores artificial intelligence, data centers",
         "Letters: Deltgen on Artificial Intelligence; Angelucci Says Chowan County Must Close Data Center Loopholes"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-20T05:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Artificial Intelligence for Cardiovascular Disease Prevention in Resource-Limited Settings: A Review of the Literature",
+      "s": "Artificial Intelligence for Cardiovascular Disease Prevention in Resource-Limited Settings: A Review of the Literature Cureus",
+      "b": [
+        "cureus.com: Artificial Intelligence for Cardiovascular Disease Prevention in Resource-Limited Settings: A Review of the Literature",
+        "arxiv.org: Context as a Resource",
+        "arxiv.org: The ROI of Small Examples: Optimizing In-Context Learning Under Token Budgets"
+      ],
+      "body": [
+        "cureus.com: Artificial Intelligence for Cardiovascular Disease Prevention in Resource-Limited Settings: A Review of the Literature Cureus",
+        "arxiv.org: arXiv:2611.26346v1 Announce Type: new Abstract: Managing concurrent tasks across separate agent sessions quickly exhausts human attention, motivating always-on personal agents behind a single continuous interface. Yet when every context shares identical frozen backbone weights, funneling interleaved dialogues and external events into one linear session induces cross-topic constraint bleed and head-of-line stalling. Conversely, router-ticket hierarchies incur lossy prose handoffs, heavy routing overhead, and blind merges - collapsing true-conflict repository merges to a 33.3% three-run mean despite high isolated branch passes. Rather than scheduling anthropomorphic roles, we introduce ClonAct, a routerless architecture that virtualizes context blocks directly through a pluggable single-pass non-generative Context MMU, in-place Context Cells, a footprint-aware Synaptic Bus with an isolated trial merge gate, and a wave-flushed Shared Trunk. Across three programmatic multi-stream benchmarks and three model families, our portable trial merge gate lifts true-conflict merges to 63.3%, while ClonAct's routerless virtualization attains this ceiling with 45.9% fewer prompt tokens and prevents compact-model router collapse. Under continuous surge streams, ClonAct matches top completion (95.0%) with the lowest median wait and zero timed-out status checks.",
+        "arxiv.org: arXiv:2611.24971v1 Announce Type: cross Abstract: In-context learning (ICL) improves large language model performance at inference time without updating model parameters. However, these gains are not free: in practical deployments, longer prompts directly increase inference cost and latency. Under a fixed token budget, prompt construction therefore becomes a resource-allocation problem. While prior work has often focused on how many examples to include in ICL, we study the complementary question of whether the available budget is better spent on a few long demonstrations or on a larger number of shorter ones. We study this aspect in question answering (QA), by organizing candidate demonstrations into length-based bins and constructing prompts from examples within the same length range under fixed budgets. Experiments on two QA benchmarks (\\textit{Beat the AI} and \\textit{Natural Questions}), using six instruction-tuned LLMs, show that shorter demonstrations are generally the most effective use of prompt space. This effect is especially strong on \\textit{Beat the AI}, and remains visible on NQ, although gains are smaller and saturate earlier in the long-context setting. An additional natural language inference experiment on ANLI R3 finds that one of the two shorter bins performs best for five of six models, although longer demonstrations remain competitive. Overall, our results highlight demonstration granularity as an important factor in prompt design.",
+        "arxiv.org: arXiv:2611.25199v1 Announce Type: cross Abstract: Adapting robot policies to out-of-distribution (OOD) settings with limited real-world data remains a key bottleneck to generalist robots. The multimodality and scarcity of robotics data lead end-to-end approaches to overfit and break under small distribution shifts. Test-time adaptation can alleviate this by correcting frozen policies at inference, but most methods ground their correction in a signal learned implicitly from robotic datasets, making it susceptible to the same shifts as the policy it corrects. Recent methods that instead exploit explicit spatial information are typically limited to coarse corrections, missing the nuanced, task-relevant motion most manipulation tasks require. We propose VG-Steer, which corrects existing policies by transferring the nuanced motion of successful in-distribution rollouts, captured along meaningful geometric axes, known here as object-relational distance pairs. VG-Steer leverages the semantic understanding of Large Vision Models (LVMs) and Vision-Language Models (VLMs) reasoning, which combines the task-relevant entity pairs and their object-relational distance projections into a single tailored visual-geometric guidance signal. In a simulation benchmark, it efficiently corrects flow-matching policies under pose and task-goal shifts; on a real robot experiment, it widens the region of the workspace the frozen policy covers, more than doubling its success rate on cable placements one grid step outside the training positions, and steers a single-task policy toward objects it was never trained on while nearly eliminating object confusion. Project website: https://arthurfenderbucker.github.io/VG-Steer/"
+      ],
+      "l": [
+        {
+          "d": "cureus.com",
+          "u": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTG5BY2Z1dkVOVE8wNkZtTkpnUjMwZjFENkJLNHVISElCVDJXbzdmbS1qTmhwMHJQY3BFelEzUWJ2UmRiVVNjdnVRYkIyY3p2SWpFZS12cWFqTkMtcUFPNDdIdTQ2VEdXdjNNOEhpN0NxUDI0WUZvVXhEa2JnNTN3MWJWa3V2WFRYc3lnY1hDX01mVk00dDdsZjl0X3R0NWZhS2MyYzg1SGc2QlVraTZUZEZ3cWxKUHQ5TVVldHFFZmFIZ25xMHFFdXdmakJMa25GSXZObzhiblpxNE5tSjZEdDdpUUh3SXJwa3c0Ug?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2611.26346"
+        }
+      ],
+      "srcTitles": [
+        "Artificial Intelligence for Cardiovascular Disease Prevention in Resource-Limited Settings: A Review of the Literature",
+        "Context as a Resource",
+        "The ROI of Small Examples: Optimizing In-Context Learning Under Token Budgets",
+        "VG-Steer: Visual-Geometric Policy Steering from In-Context Aligned Abstractions"
       ]
     }
   ]
