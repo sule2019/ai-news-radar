@@ -3,8 +3,8 @@
   "stories": [
     {
       "cat": "models",
-      "signal": 52,
-      "sources": 3,
+      "signal": 83,
+      "sources": 17,
       "ts": "2026-11-22T08:34:15.000Z",
       "writtenSources": 3,
       "draft": true,
@@ -22,54 +22,30 @@
       ],
       "l": [
         {
+          "d": "openai.com",
+          "u": "https://openai.com/index/perplexity-and-intelligence"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261122/p9#a261122p9"
+        },
+        {
+          "d": "theguardian.com",
+          "u": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNVmw5MEdUWFlVTW1fVFBSc3JyR0k2SXBBbjdiU0lJZnpDM25TNzNNRUxkU254Uk1tQ3UtUlo0alhWb2R1b2FkT0dKcWJaSWtuVkNNank5YTNvaFlkT1Rrb1FMRDcwWDhoYmpGX1RxT2Z0QXZtWGgtNjVqS0xtT0ZuVFlWaS1jT0FickRtSw?oc=5"
+        },
+        {
           "d": "finance.yahoo.com",
           "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWmVjR2pPZV81aXlnbXVMblJIYTZka3ZuYS1FVl9aRW9IX3l5YS12eGRtZVVHT2xVeW9MbWU1WkQ1YmhBNnJZaDZxaTVRYVpZSEFyMTFPNXJIYTNpNDhUbkt5alM2ZTNIb0V3ckJHc2M2WHZxUnhIRDJUcnFEM2JqZXZQdlpqVjhIUmtBNDNoU3dxR0IzS1ZPRXI5MkRldXQyN3p5aV9Eaw?oc=5"
         },
         {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMiogJBVV95cUxONGVSVDRPNWxUVmRJWXFlZ19aSnVWQzloQjQ0T0NkcnpXV3dyOWgzcUdSdS05QXR4SWF2NzlUbUU3b0ZQQ1JGOTQ2dFA5MlhJSUxXLWd1NTVoaThYMWI5UGJMWWR1OThXQVRncXhGRjc0cHJfOGY0aWN2azZGUVdFbk4tN3VZdjhwNF9YQ2tVdVRVQURqTGlzQ1pXd0x6ZXRyQ1ZkU1dBbGY3ZGsySkJCVjBJSkdtSk5nYmRRRGI2TXNyVlNUZUtOYUM4QlhiVHlLVm5KSlVWYnBsVkRnYW9qN1Bkdlc5TnE3UmxrbmN0ZHJ0aVUyS0NHdlFmb1lmdDU5OG1CNUNaeTVUNzZiNVJYeHFoTEdzeHJTd0stMFBRbXh0Zw?oc=5"
-        },
-        {
-          "d": "mk.co.kr",
-          "u": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xNUt5QTItLWV5eFprbmZadlY1TnhISWFZVUtfZl8zTHI2SzVNVDU2WldlcHd5S0tRRmx5cW5hcWVjT1NuVFZMSVZIVFZhckU?oc=5"
+          "d": "+13"
         }
       ],
       "srcTitles": [
-        "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future",
-        "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future",
-        "As artificial intelligence (AI) bubble vigilance continued, semiconductor stocks were dumped on the"
-      ]
-    },
-    {
-      "cat": "models",
-      "signal": 26,
-      "sources": 2,
-      "ts": "2026-11-22T10:01:00.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Missouri S&T will soon offer the state's first undergraduate degree in artificial intelligence",
-      "s": "Missouri S&T will soon offer the state's first undergraduate degree in artificial intelligence KCUR",
-      "b": [
-        "kcur.org: Missouri S&T will soon offer the state's first undergraduate degree in artificial intelligence",
-        "lsbr.uk: Missouri S&T will soon offer the state's first undergraduate degree in artificial intelligence"
-      ],
-      "body": [
-        "kcur.org: Missouri S&T will soon offer the state's first undergraduate degree in artificial intelligence KCUR",
-        "lsbr.uk: Missouri S&T will soon offer the state's first undergraduate degree in artificial intelligence London School of Business and Research (LSBR)"
-      ],
-      "l": [
-        {
-          "d": "kcur.org",
-          "u": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWUJHMmxoR3N5c1lFdzY1NW5WLXlBbXRfYmxmbFQyTmIwc05CVDZuTEFPZ18zUVZaTmtIOFRtUkJHMmc2S00zLXZ1X1Jpbng1b01EMGxjT20wSEZkSGdYSFhVQTRqLVRTR3BCQzc3ZUxpSDZrbDAyeUpqcndGMThPdWFyM1VleUFkbWt3b25paHFucl9SSkk5T3lsYWtYcE9mcVdGUHY1Szl6NmpTTFNUSnlMdnRlQ0V6cUMtZnIxZFladjhlRnBhZUhHSUp1TlBL?oc=5"
-        },
-        {
-          "d": "lsbr.uk",
-          "u": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWHRUUGFFdGFDdklBeGRyR21qdTdGMGFkckxYU0JrQTlVbE41b29kSHFjazlWajFOR2JpYjFFdjA2MXAzMEhBMEhVYk54Znd6MjNXMlh3OXVqZEQyRVRtNzVWRklqSHhmRmF4UWlhd0hpTlUtdGpsNHdLaDYyS3hrN1FZRFVzLW5RS2dQbmJiM2ljUjhtUngzbDRlMzlnZEZGYTk4bS04X0xMaWI0c0VXaGF0QXQzeFh3Tm9v?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Missouri S&T will soon offer the state's first undergraduate degree in artificial intelligence",
-        "Missouri S&T will soon offer the state's first undergraduate degree in artificial intelligence"
+        "Perplexity and Intelligence",
+        "OpenAI shares its models' perplexity, or how well they predict data, and urges pacing limits based on such metrics, citing a possible 2027 avalanche of AI gains (Jakub Pachocki/OpenAI)",
+        "‘The doom of humanity’: will the quest to make robotic hands render us obsolete? | AI (artificial intelligence)",
+        "Nvidia Just Delivered Incredible Results. Buy This Artificial Intelligence (AI) Stock Instead If You’re Still Worried About the Semiconductor Giant’s Future"
       ]
     }
   ]
