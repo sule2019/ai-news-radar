@@ -2,6 +2,86 @@
   "date": "2026-11-23",
   "stories": [
     {
+      "cat": "policy",
+      "signal": 86,
+      "sources": 5,
+      "ts": "2026-11-23T14:03:19.000Z",
+      "writtenSources": 5,
+      "draft": true,
+      "h": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "s": "The stunning reversal was supported by senior officials in the U.S. government.",
+      "b": [
+        "techcrunch.com: Nvidia reverses course and brings Jensen Huang back as CEO",
+        "theverge.com: Jensen Huang is back as Nvidia’s CEO",
+        "wired.com: Jensen Huang Is Back as Nvidia CEO"
+      ],
+      "body": [
+        "techcrunch.com: The stunning reversal was supported by senior officials in the U.S. government.",
+        "theverge.com: Nvidia has reinstated Jensen Huang as its CEO. The company announced on Monday morning that the board \"voted unanimously to reinstate Mr. Huang following a series of discussions and meetings with Mr. Huang, after which the Board was satisfied with respect to Mr. Huang's candor and ability to lead NVIDIA.\" In its statement, the board [ ]",
+        "wired.com: The company’s board of directors has reinstated Huang a little more than a week after the CEO resigned amid allegations of multiple affairs, including with a direct report.",
+        "arstechnica.com: Nvidia's board of directors has voted to reinstate Jensen Huang as CEO and chairman of the board, just 11 days after he resigned in the wake of multiple scandals . The reinstatement, announced Monday morning , is \"effective immediately\" and was based in part on \"input from senior levels of the United States government\" that assured the board members that \"Mr. Huang’s reinstatement poses no national security risk.\" That assurance comes despite Huang's admitted affair with a woman that US intelligence sources believe was working as a Chinese spy, and allegations that Nvidia had subverted export controls meant to keep Nvidia chips from reaching China. It also comes despite multiple developing investigations from multiple different government departments into those and other alleged national security, accounting, and corporate governance failures. Read full article Comments"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1039937/nvidia-ceo-jensen-huang-reinstated"
+        },
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/jensen-huang-is-back-as-nvidia-ceo/"
+        },
+        {
+          "d": "arstechnica.com",
+          "u": "https://arstechnica.com/ai/2026/11/jensen-huang-reinstated-as-nvidia-ceo-board-chair/"
+        },
+        {
+          "d": "+1"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia reverses course and brings Jensen Huang back as CEO",
+        "Jensen Huang is back as Nvidia’s CEO",
+        "Jensen Huang Is Back as Nvidia CEO",
+        "Jensen Huang reinstated as Nvidia CEO, board chair"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 62,
+      "sources": 2,
+      "ts": "2026-11-23T13:40:06.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Oregon and Virginia sue SpaceX, alleging Grok Imagine's \"spicy mode\" violated consumer laws by creating 1.8M+ sexualized images of women and 65+ of children (New York Times)",
+      "s": "New York Times : Oregon and Virginia sue SpaceX, alleging Grok Imagine's spicy mode violated consumer laws by creating 1.8M+ sexualized images of women and 65+ of children The states accused Elon Musk",
+      "b": [
+        "techmeme.com: Oregon and Virginia sue SpaceX, alleging Grok Imagine's \"spicy mode\" violated consumer laws by creating 1.8M+ sexualized images of women and 65+ of children (New York Times)",
+        "nytimes.com: Oregon and Virginia Sue SpaceX Over A.I.-Generated Sexualized Images"
+      ],
+      "body": [
+        "techmeme.com: New York Times : Oregon and Virginia sue SpaceX, alleging Grok Imagine's spicy mode violated consumer laws by creating 1.8M+ sexualized images of women and 65+ of children The states accused Elon Musk's company of violating consumer protection laws with its Grok Imagine artificial intelligence tool, which created the images.",
+        "nytimes.com: Oregon and Virginia Sue SpaceX Over A.I.-Generated Sexualized Images The New York Times"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261123/p19#a261123p19"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYmEzNUJMQjNfazhneTBxQ1dpNmJVOXBHRFRXWWhKelFVaDlNTjFMMDNycGpOTkJuX0lRNEZnSDVycThMZ185Tl9peUFRdWZST29tRTJtQ0ZkaV9NSjJxblNFbnloRnJ0cVpRcDBUVi1NcW9vc0NqdWdxbnZoSjBkLUI0ZDFzYzBpQnQ2eFZ2OA?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Oregon and Virginia sue SpaceX, alleging Grok Imagine's \"spicy mode\" violated consumer laws by creating 1.8M+ sexualized images of women and 65+ of children (New York Times)",
+        "Oregon and Virginia Sue SpaceX Over A.I.-Generated Sexualized Images"
+      ]
+    },
+    {
       "cat": "models",
       "signal": 59,
       "sources": 3,
@@ -73,8 +153,40 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-11-23T11:40:01.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: Jensen Huang developed a close relationship with Trump and made lobbying calls to secure AI chip sales to China, which he called a $50B per year market (Ian Duncan/Washington Post)",
+      "s": "Ian Duncan / Washington Post : Sources: Jensen Huang developed a close relationship with Trump and made lobbying calls to secure AI chip sales to China, which he called a $50B per year market Jensen H",
+      "b": [
+        "techmeme.com: Sources: Jensen Huang developed a close relationship with Trump and made lobbying calls to secure AI chip sales to China, which he called a $50B per year market (Ian Duncan/Washington Post)",
+        "washingtonpost.com: Jensen Huang went to war with Washington — and won a path to China"
+      ],
+      "body": [
+        "techmeme.com: Ian Duncan / Washington Post : Sources: Jensen Huang developed a close relationship with Trump and made lobbying calls to secure AI chip sales to China, which he called a $50B per year market Jensen Huang wooed the president and pushed back against lawmakers as Nvidia sought a foothold in the vast Chinese market.",
+        "washingtonpost.com: Jensen Huang went to war with Washington — and won a path to China The Washington Post"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261123/p14#a261123p14"
+        },
+        {
+          "d": "washingtonpost.com",
+          "u": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ01rTDUyQUlHbDdURmstWlM2VWZFTkk3OTBNWWdOUWpfM3BKeE5yMXpEbUlzNGxLZUx2b0pOZWZZUm53WDFSUjhCMjJDTHdfbGJ3SmVGVG1wNzhRV1YwVnVYNkFtRG42LTVSVUNjZUw4UU5LdXRaZktCUzF6ZndpUFdFM2lZdmh5OTFVcG9BYkRZUEdyMC02T0RvNTJQcnJGUjZxMHgxaERRT0t1NFRIYk91OVZBdVU?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: Jensen Huang developed a close relationship with Trump and made lobbying calls to secure AI chip sales to China, which he called a $50B per year market (Ian Duncan/Washington Post)",
+        "Jensen Huang went to war with Washington — and won a path to China"
+      ]
+    },
+    {
       "cat": "policy",
-      "signal": 26,
+      "signal": 22,
       "sources": 2,
       "ts": "2026-11-23T05:00:00.000Z",
       "writtenSources": 2,
