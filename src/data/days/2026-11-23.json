@@ -1,4 +1,108 @@
 {
   "date": "2026-11-23",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 59,
+      "sources": 3,
+      "ts": "2026-11-22T23:11:41.000Z",
+      "writtenSources": 3,
+      "draft": true,
+      "h": "Goodbye, World: The End of Programmers",
+      "s": "The last thing you should ever read—and the last thing I may ever write—about the craft of coding.",
+      "b": [
+        "wired.com: Goodbye, World: The End of Programmers",
+        "thefp.com: The End of Math?",
+        "arxiv.org: MetaRigor: From Agentic Automation to Verifiable End-to-End Meta-Analysis Through Scientific Decision Boundaries"
+      ],
+      "body": [
+        "wired.com: The last thing you should ever read—and the last thing I may ever write—about the craft of coding.",
+        "thefp.com: The End of Math? The Free Press",
+        "arxiv.org: arXiv:2611.27713v1 Announce Type: new Abstract: Automated meta-analysis requires not only accurate numerical extraction but also the consistent preservation of result identity across stages, including the associated study, comparison, population, outcome, time point, and analysis conditions. We present MetaRigor, an LLM workflow framework for verifiable end-to-end evidence synthesis. MetaRigor organizes study results as Study x Target units and operationalizes scientific decision boundaries at the task level through Task Contracts, programmatic rules, and source binding. The model performs semantic interpretation that depends on study context, whereas programs execute formalizable rules, computations, validation, and source verification. We conducted controlled evaluations across five stages: evidence acquisition, data extraction, risk of bias assessment, certainty of evidence assessment, and manuscript generation. MetaRigor achieved an F1 score of 86.29% for complete result delivery and 80.20% agreement for domain-level certainty of evidence judgments. Generated manuscripts received scores of 86.00 under human evaluation, exceeding all three baselines. A seven-case downstream end-to-end evaluation further yielded an aggregate F1 score of 77.01%, exceeding the strongest baseline by 9.78 percentage points. Cross-system tracing of archived outputs from three systems further showed that local mismatches or omissions in result identity could alter statistical inputs and the objects subjected to risk of bias assessment, with these errors subsequently propagating into the final report. Ablation experiments showed that task constraints and programmatic rules played distinct roles across different stages. These findings indicate that, in LLM-driven evidence synthesis workflows, consistently maintaining explicit result identity, decision boundaries, and provenance relationships is critical to improving end-to-end verifiability."
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/goodbye-world-the-end-of-programmers/"
+        },
+        {
+          "d": "thefp.com",
+          "u": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpSmpqbmZ5dExVVHBCVFkxeTRMU29FRDBXT3FHbVR1SEFZN191d0NsVEt1UnJFOFluQ284bldCRHlpbkQ3OXdVakhpMDJMRGdsSW8wTW9ZM2FvYjlfX3c0b1NOcDFLb3dtMVV0VEJPSVM?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2611.27713"
+        }
+      ],
+      "srcTitles": [
+        "Goodbye, World: The End of Programmers",
+        "The End of Math?",
+        "MetaRigor: From Agentic Automation to Verifiable End-to-End Meta-Analysis Through Scientific Decision Boundaries"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-11-23T11:35:27.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+      "s": "Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
+      "b": [
+        "wired.com: Submit Your Questions: Will Anyone Keep You Safe From AI?",
+        "nytimes.com: Your Nvidia Questions"
+      ],
+      "body": [
+        "wired.com: Experts agree that AI, in one way or another, poses real danger. Will the industry do anything about it? Join our livestream on December 2 to hear your questions answered.",
+        "nytimes.com: Your Nvidia Questions The New York Times"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/livestream-will-anyone-keep-us-safe-from-ai/"
+        },
+        {
+          "d": "nytimes.com",
+          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HdmFqcjJpdjNqaG5zTGpIMGQ3eldNcnZTUXM0T1FSTHkyTXYzZnJkYzlFUllWMmtDN2dKVmFOOU51bWdjM2xpMkt3V3ljejFlTWFwd1doR29jQk5YelQ0RFBzdUdPZFJYWkgtZEF5REdPV3lCQlkw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Submit Your Questions: Will Anyone Keep You Safe From AI?",
+        "Your Nvidia Questions"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-23T05:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "The AI resilience challenge",
+      "s": "The AI resilience challenge Zurich Insurance Group",
+      "b": [
+        "zurich.com: The AI resilience challenge",
+        "arxiv.org: On the Challenges of Using LLMs in High-Risk AI Recruitment: Guiding Questions for Legal Conformity with the AI Act"
+      ],
+      "body": [
+        "zurich.com: The AI resilience challenge Zurich Insurance Group",
+        "arxiv.org: arXiv:2611.27462v1 Announce Type: cross Abstract: The EU Artificial Intelligence Act (AI Act) imposes detailed obligations on providers of high-risk AI systems but offers limited operational guidance, particularly when these systems integrate third-party General-Purpose AI (GPAI) models. This paper introduces a toolkit that fosters the development of legal-by-design AI-assisted recruitment systems by translating the core legal obligations of the AI Act's conformity assessment---specifically Articles 9--15 and Annex IV---into techno-normative requirements and corresponding guiding questions. While recruitment pipelines may involve components with varying technical complexity and differing levels of algorithmic transparency, this paper focuses on the most challenging case: the integration of third-party GPAI models into critical stages of the selection process, including resume and job description parsing, applicant scoring, and shortlist generation. This scenario presents significant challenges for downstream providers of high-risk AI systems, as it underscores the difficulties in obtaining the technical information needed to demonstrate compliance with the AI Act's techno-normative requirements, both prior to and during market deployment. After introducing the toolkit and illustrating its application through a simplified example, the paper explores informational dependencies between upstream and downstream GPAI model providers. These dependencies may produce informational gaps across the AI supply chain, potentially hindering the collection of evidence necessary for the AI system provider to ensure legal compliance. The resulting lack of technical transparency negatively affects the deployer, who may struggle to maintain meaningful oversight of the system, and ultimately impacts the persons subject to the AI output."
+      ],
+      "l": [
+        {
+          "d": "zurich.com",
+          "u": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5WbXpYcTR6c2c0NFBCcHZKQ21fYXZYdEVDdlRBUE1pUnFjb3dhYjZYZ21yYXVRTUVPY2ZBaGNYS3k1MVJPaXllR09Hc1JIWmhUTnZNd1VZS3E0MTNHVGJPMUlZV2ZSSkU0dkdmRHZ4anZFZW5ibUNZ?oc=5"
+        },
+        {
+          "d": "arxiv.org",
+          "u": "https://arxiv.org/abs/2611.27462"
+        }
+      ],
+      "srcTitles": [
+        "The AI resilience challenge",
+        "On the Challenges of Using LLMs in High-Risk AI Recruitment: Guiding Questions for Legal Conformity with the AI Act"
+      ]
+    }
+  ]
 }
