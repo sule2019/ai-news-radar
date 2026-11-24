@@ -2,9 +2,41 @@
   "date": "2026-11-24",
   "stories": [
     {
+      "cat": "models",
+      "signal": 61,
+      "sources": 2,
+      "ts": "2026-11-24T20:10:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+      "s": "It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+      "b": [
+        "techcrunch.com: Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+        "techmeme.com: Sources: Jensen Huang said Nvidia doesn't need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy (CNBC)"
+      ],
+      "body": [
+        "techcrunch.com: It's a remarkable stance for a company that spent the last two weeks finding out what happens without its founder.",
+        "techmeme.com: CNBC : Sources: Jensen Huang said Nvidia doesn't need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy Nvidia CEO Jensen Huang on Tuesday struck a conciliatory and remorseful tone while leading his first employee meeting since being reinstated"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261124/p34#a261124p34"
+        }
+      ],
+      "srcTitles": [
+        "Jensen Huang still thinks a succession plan creates unnecessary hierarchy",
+        "Sources: Jensen Huang said Nvidia doesn't need a succession plan because it operates a unique business model and such a plan would create unnecessary hierarchy (CNBC)"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 59,
-      "sources": 8,
+      "signal": 58,
+      "sources": 7,
       "ts": "2026-11-24T16:12:38.000Z",
       "writtenSources": 8,
       "draft": true,
@@ -39,7 +71,7 @@
           "u": "https://www.techmeme.com/261124/p29#a261124p29"
         },
         {
-          "d": "+4"
+          "d": "+3"
         }
       ],
       "srcTitles": [
@@ -50,8 +82,40 @@
       ]
     },
     {
+      "cat": "models",
+      "signal": 58,
+      "sources": 2,
+      "ts": "2026-11-24T16:00:00.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+      "s": "A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+      "b": [
+        "wired.com: Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+        "techmeme.com: Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mythos 5 (Will Knight/Wired)"
+      ],
+      "body": [
+        "wired.com: A new test assumes AI agents can go rogue—and asks whether they can resist temptation.",
+        "techmeme.com: Will Knight / Wired : Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mythos 5 A new test assumes AI agents can go rogue and asks whether they can resist temptation. Leather-clad billionaires"
+      ],
+      "l": [
+        {
+          "d": "wired.com",
+          "u": "https://www.wired.com/story/ai-agents-can-get-honeypotted-too-aw/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261124/p38#a261124p38"
+        }
+      ],
+      "srcTitles": [
+        "Anthropic Created a Honeypot to Lure AI Agents Into Misbehaving",
+        "Anthropic details Siren, a honeypot test that tempts AI agents to escape sandboxes; its newer models fell for it 0.6%-1.6% of the time, vs. 25.8% for Mythos 5 (Will Knight/Wired)"
+      ]
+    },
+    {
       "cat": "funding",
-      "signal": 51,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-11-24T17:23:02.000Z",
       "writtenSources": 2,
@@ -79,38 +143,6 @@
       "srcTitles": [
         "Anthropic's IPO Raised $81 Billion. Here’s Which Artificial Intelligence (AI) Stocks Will Benefit From Where the Money Goes.",
         "Anthropic's IPO Raised $81 Billion. Here’s Which Artificial Intelligence (AI) Stocks Will Benefit From Where the Money Goes."
-      ]
-    },
-    {
-      "cat": "funding",
-      "signal": 48,
-      "sources": 2,
-      "ts": "2026-11-24T07:07:02.000Z",
-      "writtenSources": 2,
-      "draft": true,
-      "h": "Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late",
-      "s": "Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late Yahoo Finance",
-      "b": [
-        "finance.yahoo.com: Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late",
-        "fool.com: Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late"
-      ],
-      "body": [
-        "finance.yahoo.com: Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late Yahoo Finance",
-        "fool.com: Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late The Motley Fool"
-      ],
-      "l": [
-        {
-          "d": "finance.yahoo.com",
-          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR05Ub3hPVmduMjNLeGV3d2c0VDdjVG9fbmF3YnJOLVNnSVNlRU9SWHdWSWk5bjZKYkhlZDJpNlAwZjBfQ19PcUszZFVLelllTE1aM0tWcGhyT2x4Y0ZyRTVBSkdxR2o4ZmtpZXRvS1RYWUtzOEx3aGVQNkxqSk9NUzJURXotSFFqc2xCNGJIQ1FCOWR3Y1k0dmJ1SGMtb3hncTRyX0U4RElfcUZ6SzM0?oc=5"
-        },
-        {
-          "d": "fool.com",
-          "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN2xDcjNYN0NZb0I0cGNoa25tckU0djlFU2JjUy1ibG5JTkREOFZxeEFTaUVVXzRIeWlZeFZacUJzQnlER09UcUJ0djM1VEpuR3dsakVGVE1vRDhlcm9EZmdwdlJENFpUd21Jd0dkSi1rR0VmcWRkUWlRT3hEQXVuOVRsMkdkOXlWVXpEaEp5cVN2cHJuNlBQNjU0aUlnZDlNZFZZUGJZV0k2dHF0X0drRjNFb3JocnRGdzdRSXVuTi10UnZXb2FveFZ1dEs0SF9vWmZhei1ERUJaNXliVzhUVHFUR0dfVFdSVjBiZVpnY0I5QQ?oc=5"
-        }
-      ],
-      "srcTitles": [
-        "Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late",
-        "Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late"
       ]
     },
     {
@@ -188,7 +220,7 @@
       "l": [
         {
           "d": "openai.com",
-          "u": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
+          "u": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities"
         }
       ],
       "srcTitles": [
@@ -196,35 +228,92 @@
       ]
     },
     {
-      "cat": "funding",
-      "signal": 27,
-      "sources": 2,
-      "ts": "2026-11-23T22:02:05.000Z",
-      "writtenSources": 2,
+      "cat": "models",
+      "signal": 46,
+      "sources": 1,
+      "ts": "2026-11-24T00:00:00.000Z",
+      "writtenSources": 1,
       "draft": true,
-      "h": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-      "s": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "h": "Clay helps sales teams win with Codex and ChatGPT",
+      "s": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
       "b": [
-        "techcrunch.com: Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-        "techmeme.com: Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)"
+        "openai.com: Clay helps sales teams win with Codex and ChatGPT"
       ],
       "body": [
-        "techcrunch.com: Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
-        "techmeme.com: Sarah Perez / TechCrunch : Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent AI investing startup Supertake has an interesting premise: what if your takes on the market could make you money without you having to pick stocks yourself?"
+        "openai.com: ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning."
       ],
       "l": [
         {
-          "d": "techcrunch.com",
-          "u": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
-        },
-        {
-          "d": "techmeme.com",
-          "u": "https://www.techmeme.com/261123/p46#a261123p46"
+          "d": "openai.com",
+          "u": "https://openai.com/business/customer-stories/clay-plugins-openai/"
         }
       ],
       "srcTitles": [
-        "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
-        "Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)"
+        "Clay helps sales teams win with Codex and ChatGPT"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 44,
+      "sources": 2,
+      "ts": "2026-11-24T07:07:02.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late",
+      "s": "Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late",
+        "fool.com: Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late"
+      ],
+      "body": [
+        "finance.yahoo.com: Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late Yahoo Finance",
+        "fool.com: Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR05Ub3hPVmduMjNLeGV3d2c0VDdjVG9fbmF3YnJOLVNnSVNlRU9SWHdWSWk5bjZKYkhlZDJpNlAwZjBfQ19PcUszZFVLelllTE1aM0tWcGhyT2x4Y0ZyRTVBSkdxR2o4ZmtpZXRvS1RYWUtzOEx3aGVQNkxqSk9NUzJURXotSFFqc2xCNGJIQ1FCOWR3Y1k0dmJ1SGMtb3hncTRyX0U4RElfcUZ6SzM0?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQN2xDcjNYN0NZb0I0cGNoa25tckU0djlFU2JjUy1ibG5JTkREOFZxeEFTaUVVXzRIeWlZeFZacUJzQnlER09UcUJ0djM1VEpuR3dsakVGVE1vRDhlcm9EZmdwdlJENFpUd21Jd0dkSi1rR0VmcWRkUWlRT3hEQXVuOVRsMkdkOXlWVXpEaEp5cVN2cHJuNlBQNjU0aUlnZDlNZFZZUGJZV0k2dHF0X0drRjNFb3JocnRGdzdRSXVuTi10UnZXb2FveFZ1dEs0SF9vWmZhei1ERUJaNXliVzhUVHFUR0dfVFdSVjBiZVpnY0I5QQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late",
+        "Nvidia Has Incredible News for Artificial Intelligence (AI) Investors. Here Is My Top Stock to Buy Before It Is Too Late"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-24T05:02:14.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Innodata vs. IonQ: Is the Artificial Intelligence or Quantum Computing Stock the Better Buy for 2027?",
+      "s": "Innodata vs. IonQ: Is the Artificial Intelligence or Quantum Computing Stock the Better Buy for 2027? Yahoo Finance",
+      "b": [
+        "finance.yahoo.com: Innodata vs. IonQ: Is the Artificial Intelligence or Quantum Computing Stock the Better Buy for 2027?",
+        "fool.com: Innodata vs. IonQ: Is the Artificial Intelligence or Quantum Computing Stock the Better Buy for 2027?"
+      ],
+      "body": [
+        "finance.yahoo.com: Innodata vs. IonQ: Is the Artificial Intelligence or Quantum Computing Stock the Better Buy for 2027? Yahoo Finance",
+        "fool.com: Innodata vs. IonQ: Is the Artificial Intelligence or Quantum Computing Stock the Better Buy for 2027? The Motley Fool"
+      ],
+      "l": [
+        {
+          "d": "finance.yahoo.com",
+          "u": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXlGUTRCcHplT2pLSUlwT1NDMVZWOW81UDAtMWE3ck9pMUh4aU93dmZNdkpaT0tYZlBGZWktRWljRElzcHBHVjB0VEhxeUd4Q05lUFFtT1FqNVNZclMyOEZ1LUFxM2J0VWFTV0R1eFBIZmdBdDNIMTVVajhpemlINi1YbjNYQlNWclZYU283YWptWXc0UFlDU2tmOWM1ak9nMnM4aTJxcw?oc=5"
+        },
+        {
+          "d": "fool.com",
+          "u": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNEg3X1ZtaFRzYXlPeGlBVWZ4OV85aUFOQk1yd3BTUEwxbktlZ3A0d18tZlRNLW9VTzdwSk9LcGM1Yl9jYWF0dEJabzh1YnA3Zy1GMnBKMnZfT3NnM0xYSjBiaWNlNGhtMnVqTnBfNVhpY0daZW9jc1BHaDRmV19fUG1QNTFpRkFaTWNmaHBFVkt5QlVkS0FnaUZoZk5teHlLdzBLLWFKU25LNEc1VWpnbm1GNm1MVEU1ampVU2JlUUVfdXZHaWpmMUY5akxEckxVaElVanBrOW9Kb1ZxQ19rSEFZNUNKQQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Innodata vs. IonQ: Is the Artificial Intelligence or Quantum Computing Stock the Better Buy for 2027?",
+        "Innodata vs. IonQ: Is the Artificial Intelligence or Quantum Computing Stock the Better Buy for 2027?"
       ]
     },
     {
@@ -270,7 +359,7 @@
       "l": [
         {
           "d": "openai.com",
-          "u": "https://openai.com/index/searching-for-distant-planets-with-astra/"
+          "u": "https://openai.com/index/searching-for-distant-planets-with-astra"
         }
       ],
       "srcTitles": [
@@ -295,7 +384,7 @@
       "l": [
         {
           "d": "openai.com",
-          "u": "https://openai.com/business/customer-stories/intentful-dots/"
+          "u": "https://openai.com/business/customer-stories/intentful-dots"
         }
       ],
       "srcTitles": [
@@ -318,7 +407,7 @@
       "l": [
         {
           "d": "openai.com",
-          "u": "https://openai.com/business/customer-stories/ifood/"
+          "u": "https://openai.com/business/customer-stories/ifood"
         }
       ],
       "srcTitles": [
@@ -327,7 +416,39 @@
     },
     {
       "cat": "funding",
-      "signal": 18,
+      "signal": 23,
+      "sources": 2,
+      "ts": "2026-11-23T22:02:05.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "s": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "b": [
+        "techcrunch.com: Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "techmeme.com: Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)"
+      ],
+      "body": [
+        "techcrunch.com: Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+        "techmeme.com: Sarah Perez / TechCrunch : Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent AI investing startup Supertake has an interesting premise: what if your takes on the market could make you money without you having to pick stocks yourself?"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/"
+        },
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261123/p46#a261123p46"
+        }
+      ],
+      "srcTitles": [
+        "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+        "Supertake, which uses AI agents to turn users' market predictions into investment portfolios via Coinbase and Robinhood, raised a $20M seed led by Adjacent (Sarah Perez/TechCrunch)"
+      ]
+    },
+    {
+      "cat": "funding",
+      "signal": 15,
       "sources": 2,
       "ts": "2026-11-24T04:15:00.000Z",
       "writtenSources": 2,
