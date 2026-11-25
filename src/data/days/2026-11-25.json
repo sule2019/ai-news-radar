@@ -1,4 +1,62 @@
 {
   "date": "2026-11-25",
-  "stories": []
+  "stories": [
+    {
+      "cat": "models",
+      "signal": 64,
+      "sources": 2,
+      "ts": "2026-11-25T14:10:18.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+      "s": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+      "b": [
+        "techcrunch.com: Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "theverge.com: Amazon is reportedly in talks to end Muse AI shopping block"
+      ],
+      "body": [
+        "techcrunch.com: Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
+        "theverge.com: Amazon has held talks about letting Meta's Muse AI agent shop on its online marketplace, according to a report from Fortune. The discussions, which could end Amazon's block on Muse, reportedly center on the kinds of products the AI agent recommends and the potential impact on the ecommerce giant's advertising revenue. As reported by Fortune, [ ]"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/"
+        },
+        {
+          "d": "theverge.com",
+          "u": "https://www.theverge.com/tech/1042071/meta-amazon-muse-ai-shopping-discussions"
+        }
+      ],
+      "srcTitles": [
+        "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
+        "Amazon is reportedly in talks to end Muse AI shopping block"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 24,
+      "sources": 1,
+      "ts": "2026-11-25T10:00:00.000Z",
+      "writtenSources": 1,
+      "draft": true,
+      "h": "AI is straining America’s open records systems",
+      "s": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections",
+      "b": [
+        "technologyreview.com: AI is straining America’s open records systems"
+      ],
+      "body": [
+        "technologyreview.com: In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in 1858—he also fielded public records requests. Recently, he got rather busy. Panton used to get a request every year or so from a company called SmartProcure for “all purchasing records,” covering everything from road salt to computers to toilet paper. Last year, those requests started coming quarterly. Then different companies began making more specific requests, like records of every purchase related to emergency road flares. These targeted inquiries started coming monthly or more. “I’m happy to answer public records requests from people,” says Rowe, who recently moved into a position at a nearby town. “But answering it for these purposes—it feels like I’m doing unpaid opposition research on the taxpayers’ time.” Rowe’s experiences are being repeated across the US. While data brokers have mined public records for decades, AI has intensified investors’ interest. Over the last few years, venture-backed startups have raised upwards of $100 million to collect data from thousands of agencies and turn it into AI-powered “signals” that help businesses sell to governments. At the same time, AI tools have made it easier for individuals to draft public records requests. Many places have seen double-digit annual increases in recent years. While more activity is good for democracy, AI-drafted requests tend to be longer, and broader in scope—and the offices answering them haven’t always grown in head count or budget. As agencies struggle to tell whether they’re dealing with a citizen, a chatbot, or a sales pipeline, some states are passing legislation that makes it easier to deny requests, possibly making public offices less transparent. Transparency, monetized The US Freedom of Infor"
+      ],
+      "l": [
+        {
+          "d": "technologyreview.com",
+          "u": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/"
+        }
+      ],
+      "srcTitles": [
+        "AI is straining America’s open records systems"
+      ]
+    }
+  ]
 }
