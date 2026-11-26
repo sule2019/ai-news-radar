@@ -2,8 +2,40 @@
   "date": "2026-11-26",
   "stories": [
     {
+      "cat": "models",
+      "signal": 59,
+      "sources": 2,
+      "ts": "2026-11-26T17:00:04.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "s": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+      "b": [
+        "techcrunch.com: Nvidia hits pause on chip shipments to Southeast Asia",
+        "investingnews.com: Nvidia Pauses Advanced Chip Orders in Southeast Asia"
+      ],
+      "body": [
+        "techcrunch.com: Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
+        "investingnews.com: Nvidia Pauses Advanced Chip Orders in Southeast Asia Investing News Network"
+      ],
+      "l": [
+        {
+          "d": "techcrunch.com",
+          "u": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/"
+        },
+        {
+          "d": "investingnews.com",
+          "u": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TSEJuajdiT01OOU1kaEFxam54MDA5ZHB6Z1NEdEJHb3hrUGt0QzN3b3hSUGVycTNJMlZBMVJkOVRRd2NERndoQUtfLVl6MDVvVGFGLVAwSDg3NGhJRmFSQ0NMLXY0QnBJN2M0Yw?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Nvidia hits pause on chip shipments to Southeast Asia",
+        "Nvidia Pauses Advanced Chip Orders in Southeast Asia"
+      ]
+    },
+    {
       "cat": "products",
-      "signal": 52,
+      "signal": 48,
       "sources": 2,
       "ts": "2026-11-26T01:30:01.000Z",
       "writtenSources": 2,
@@ -35,7 +67,39 @@
     },
     {
       "cat": "models",
-      "signal": 40,
+      "signal": 37,
+      "sources": 2,
+      "ts": "2026-11-26T16:15:48.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era (Christina Kyriasoglou/Bloomberg)",
+      "s": "Christina Kyriasoglou / Bloomberg : Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era SAP SE is pr",
+      "b": [
+        "techmeme.com: Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era (Christina Kyriasoglou/Bloomberg)",
+        "bloomberg.com: SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring"
+      ],
+      "body": [
+        "techmeme.com: Christina Kyriasoglou / Bloomberg : Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era SAP SE is preparing a plan to eliminate at least 10,000 positions to transform its software business for the artificial intelligence era",
+        "bloomberg.com: SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring Bloomberg.com"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261126/p22#a261126p22"
+        },
+        {
+          "d": "bloomberg.com",
+          "u": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEkwcUVNZU5SbHN4QWpxRU81d3p0eWFzcDY5VVd2dnBCeU8wMDlxVTM1NzhEM0NZMnNTNGZRVnA1WU1OUWM1N21tV29IZlJ6WUZLQ0xuWmd5cS1wU2dtaHpuRGRjZFA4V2I0VXRPYjhlN1ZQamVzMFBKQk1yRExURUFCX3B0MVdDRFd4djY2cEpmaERpbENDalRtcjFwd0trT3JHU3haMWRQdlBsRFNYNFhSTUt1QQ?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Sources: SAP is preparing a plan to eliminate at least 10,000 positions, or 9% of its staff globally, to transform its software business for the AI era (Christina Kyriasoglou/Bloomberg)",
+        "SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring"
+      ]
+    },
+    {
+      "cat": "models",
+      "signal": 36,
       "sources": 2,
       "ts": "2026-11-25T22:45:02.000Z",
       "writtenSources": 2,
@@ -67,7 +131,7 @@
     },
     {
       "cat": "policy",
-      "signal": 34,
+      "signal": 30,
       "sources": 2,
       "ts": "2026-11-25T23:26:32.000Z",
       "writtenSources": 2,
@@ -95,6 +159,38 @@
       "srcTitles": [
         "Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown (Scott Aaronson/Shtetl-Optimized)",
         "Quoting Scott Aaronson"
+      ]
+    },
+    {
+      "cat": "products",
+      "signal": 26,
+      "sources": 2,
+      "ts": "2026-11-26T12:01:21.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Amini Releases Soma, an Open Artificial Intelligence (AI) Model to Take Nations from Analogue to AI-Ready",
+      "s": "Amini Releases Soma, an Open Artificial Intelligence (AI) Model to Take Nations from Analogue to AI-Ready AiThority",
+      "b": [
+        "aithority.com: Amini Releases Soma, an Open Artificial Intelligence (AI) Model to Take Nations from Analogue to AI-Ready",
+        "indystar.com: Reliath AI Introduces a New Foundational Model for Artificial Intelligence"
+      ],
+      "body": [
+        "aithority.com: Amini Releases Soma, an Open Artificial Intelligence (AI) Model to Take Nations from Analogue to AI-Ready AiThority",
+        "indystar.com: Reliath AI Introduces a New Foundational Model for Artificial Intelligence IndyStar"
+      ],
+      "l": [
+        {
+          "d": "aithority.com",
+          "u": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd2NfMk9kcnN3UWxZNmdOdTVUaVl6M2xZMHVrUk9xRUttV0p1djhKZHZPY1JUM1dvejRpMFBMUVlzdGVvVkhhY0hxS1oyMzY3VHNsM2pScnd3aEVuTV8tT1FhTWRzRkVuOE9hUU9WSTNGSFN3d3FjSkQ2bFNmQ3ZuSGhXbG4tRjV1QzZQRkRlbk1DWXB4WThZdmJLWGdkWjlwS1VhMmFwZWdya1Y5Q3pqeFMxWTdrUWtQdDF5eW4ydnEtQkpEeENQZTRid2dnLXM0YlV6cXNLQ0x0Zw?oc=5"
+        },
+        {
+          "d": "indystar.com",
+          "u": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeDJPbnA0OHplTi04T3NhWXlkZGMzcHpDeXo3R0VGQ3BBQmVfZzBMNGJJRnJQVG83ejJzaF8wUFlld3JoZFlKYzV0T191NDhOUEpiRi1obzNwc3Zmamx1WVhkZkw5NEJneVJ4ZlpjRFgyYkRuTlAyZFROdGRzUml6c2JkWjI0eGdvNDhBZGU1SEZLZDNyRkhiZlZUV3Nwdk9WV3R6a3ZNWXpsekxicGQzb2hDeGFFT2N4Y21FZk1hUjcxWGpKOHc?oc=5"
+        }
+      ],
+      "srcTitles": [
+        "Amini Releases Soma, an Open Artificial Intelligence (AI) Model to Take Nations from Analogue to AI-Ready",
+        "Reliath AI Introduces a New Foundational Model for Artificial Intelligence"
       ]
     }
   ]
