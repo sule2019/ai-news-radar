@@ -3,7 +3,7 @@
   "stories": [
     {
       "cat": "products",
-      "signal": 59,
+      "signal": 56,
       "sources": 2,
       "ts": "2026-11-26T01:30:01.000Z",
       "writtenSources": 2,
@@ -35,7 +35,7 @@
     },
     {
       "cat": "models",
-      "signal": 48,
+      "signal": 44,
       "sources": 2,
       "ts": "2026-11-25T22:45:02.000Z",
       "writtenSources": 2,
@@ -63,6 +63,38 @@
       "srcTitles": [
         "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
         "Anthropic CEO Denies Wanting to Surrender Human Free Will to AI"
+      ]
+    },
+    {
+      "cat": "policy",
+      "signal": 34,
+      "sources": 2,
+      "ts": "2026-11-25T23:26:32.000Z",
+      "writtenSources": 2,
+      "draft": true,
+      "h": "Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown (Scott Aaronson/Shtetl-Optimized)",
+      "s": "Scott Aaronson / Shtetl-Optimized : Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown I fee",
+      "b": [
+        "techmeme.com: Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown (Scott Aaronson/Shtetl-Optimized)",
+        "simonwillison.net: Quoting Scott Aaronson"
+      ],
+      "body": [
+        "techmeme.com: Scott Aaronson / Shtetl-Optimized : Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown I feel like my previous posts (and post titles), and podcasts, and talks, have failed to do full justice to the magnitude of what's now happening, so I'm trying again.",
+        "simonwillison.net: It’s now obvious that we’ll be getting, not one-off solutions to this or that complexity question, but a whole new continent of mathematical truth, one that we’d previously only glimpsed through fog. Picture van Leeuwenhoek first training a microscope on pondwater, or Galileo first training his telescope on the stars. That might give you some idea of how our resolution into the complexity-theoretic universe, and the whole universe of mathematical truth beyond it, has now improved. Scott Aaronson Tags: mathematics , llms , ai , generative-ai"
+      ],
+      "l": [
+        {
+          "d": "techmeme.com",
+          "u": "https://www.techmeme.com/261126/p8#a261126p8"
+        },
+        {
+          "d": "simonwillison.net",
+          "u": "https://simonwillison.net/2026/Nov/25/scott-aaronson/"
+        }
+      ],
+      "srcTitles": [
+        "Sources: leading AI labs are sitting on major, unreleased algorithmic breakthroughs that could break deployed cryptosystems, but their exact nature is unknown (Scott Aaronson/Shtetl-Optimized)",
+        "Quoting Scott Aaronson"
       ]
     }
   ]
